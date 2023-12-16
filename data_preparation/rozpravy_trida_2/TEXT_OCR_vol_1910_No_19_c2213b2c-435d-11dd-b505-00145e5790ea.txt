@@ -1,0 +1,378 @@
+"","x"
+"1"," ﻿ROČNÍK  XIX.
+TŘÍDA II.
+ČÍSLO   19.
+O poloměru křivosti drah vytvořenjch libovolným pohybem neproměnné rovinné soustavy.
+Napsal
+Miloslav Pelíšek,
+řádný professor c. k. české vysoké školy technické v Brně.
+(Sc 3 tab. a i obr. v textu.)
+(Předloženo   dne   18. března   1910.)
+Bučíte (obr. l.) z základní čili pevná křivka, h hybná křivka, a b jejich společný element, a p, b q, normály v sotimezných bodech p, q ko-cálnice k\ pak jest n jakožto průsečík dvou soumezných normál středem křivosti v bodě p, a p n jest poloměr 9Í křivosti v bodě p. Označme r, R poloměry křivosti hybné a základní křivky v bodě dotyku a, Q vzdálenost opisujícího bodu p od okamžitého středu oráčení a čili prúvodič bodu p, a budiž á úhel, který tento prúvodič svírá s poloměrem křivosti r; konečně označme p q = L\ k, a b = /\ z.
+Bodem p veďme rovnoběžku p r ku a b', pak jest trojúhelník p q r pravoúhlý, jenž má pravý úhel u q a úhel a u p; jest tedy
+cos a.
+Poněvadž jest p r |j a b, následuje:   L± p r n <^> abn,  a tudíž:
+p r : a b = p n : a n, aneb:          l- : A z = 9í : (9Í — Q),
+cos K
+Jak známo, jest:
+A
+A z
+R . r
+])   Kot;ílení   jest    vlastně   otáčení   okolo   okamžitého  středu  otáčení  o  úhel A 9: rt A Ti. při čemž /nací A<Pi. AT-   kontingenčni úhly hybné   a pevné křivky
+Rozpravy roč. XIX.  tř.  II. čís. 10.                                                                                             \
+XIX. ﻿Dosazením této hodnoty obdržíme:
+Z této úměry plynou hodnoty:
+Rr
+-=j—      — C OS K
+t)-                                                      l\ -f- r
+Črt                                         f                                                   <Y\                                              ^V   _I_   '
+A5 r                                                            A -r       cos K
+>                                                                                           •
+A -t- /'                                                                  A -h /•          (j
+Jc-li  p v  nekonečnu,   jest  Q — co,  a  tedy též  9i = oo;   91 —9 má však konečnou hodnotu:
+R±r
+Středy křivosti n, jež přísluší bodům p nekonečně vzdáleným, naplňují tedy kružnici /, jež se dotýká v bodě a křivek z a /?•; průměr d četo kružnice má hodnotu:
+Rr
+d---Ř±T'}
+Má-li zapadnouti n do nekonečna, jest 9i = oo, čemuž hoví rovnice-:
+Rr
+Body p, jejichž středy křivosti n jsou v nekonečnu, naplňují tedy kružnici /, jež se dotýká hybné i pevné křivky v bode a a jest shodná s kružnicí /. Kružnice l, J slují kružnice I) e l a H i r e-ovy, neb též B r c s s e-ovy. Kružnice / jest místem středů křivosti drah opsaných body v nekonečnu a sluje kružnice vratu. Kružnice / jest místem bodů, jejichž dráhy mají střed křivosti v nekonečnu a sluje kružnice obratu. Obě kružnice jsou
+v bodě dotyku,   a znaménka -J- se vztahují  ku  kotálcní   na vnějším   neb vnitřním obvodě základní křivky; jest tedy:
+A& = ?(Aqp2±Aqpi)-
+Dle výměru křivosti jest:
+AL tudíž
+2) Srovnej: Brcsse, Mémoire sur un théorčmc nouvcnu conccrnant les mouve-mcnts plans.   Journal do 1'Écolc jx)lytechnique.   Paris,   lome XX (18.13), p. 99.
+XIX. ﻿shodné a — jak poučuje snadná diskuse — vzhledem k okamžitému středu otáčení souměrné.3)
+I)osadíme-li průměr d I)e la Hire-ovy kružniee do výrazu pro poloměr křivosti 9í, obdržíme* velmi jednoduchý vzorec:
+9t=
+— d cos a
+Sestrojení D e   l a   H i r c-ových  kružnic.
+Jest třeba rozeznávati tři případy:
+1. Epitrochoida :
+V tomto případe jest:
+Rr                 p
+d = -—-   - ,  a tudíž A — d —
++ r '                            '  R + r '
+Máme tedy následující jednoduchou konstrukci:
+Budtež (obr. 2.) o okamžitý střed otáčení s, S středy křivosti a r, R poloměry křivosti hybné a základní křivky.
+Na s S jakctto průměru opíšeme kružnici k^ a poloměrem S o kružnici k2. Chordála m n kružnic kv k2 protíná s S v bodě d, takže o ď jest průměr kružnice vratu*}
+Důkaz: V pravoúhlém trojúhelníku smS jest:
+5w? =SÓ .Ss, anob: R- = S ů (R 4- r}. Srovnáním s hořejší rovnicí plyne:
+Sd = R — d,  a  tudíž d = od. To vychází též ze vzorce direktně:
+d : R = r : (R + r) a tudiž  (R — d) : R = R : (R + r).
+:i) Viz: M a n n h e i m :   Principes et Développements dc Geometrie cinémati-
+<me ]>. :u.
+4)  Tím jsem dos})ěl ryze geometrickými úvahami ke vzorci, jenž jest, pokud se  formy  týče, ve shodě se vzorcem, který odvodil Brcsse použitím rychlostí a zrychlení, p. !)f>. Ke kružnici obratu dospěl již Tr a ns o n : Journal clu Liouville ]).   148,   tome  X.   1845.   Srovnej   též:  Ar on li o Id.   Grundzůge der kinematischen Geometrie p. *.  O in Verhandlungen děs Vercincs zuř Befórderung děs Gewcrbeflcisses in  Preussen,  Jauvg. 51,  1872. Viz rovnice p.  152. Ve vzorcích Brcssc-ovč a Aron-holdově jest druhý člen jmenovatele udán jako pouhá úsečka, kdežto z mého vzorec jest patrno, jak tento nejdůležitější člen jest složen z veličin, jež určují kotálení, totiž 7?, r a konečně a,
+5)  Srovnej:  Brcsse   p.  9l>, 2C rěgle.
+l*
+XIX. ﻿Rovněž tak shledáme:
+d : r = R : (R -f r), a tudíž:   (r — d) : r = r : (R + y), tudíž:
+Na průměru s S opíšeme kružnici k\, poloměrem s o kružnici k.}; chordála obou kružnic [i v protíná s S v bodě q, jenž sluje pól obratu, takic o q jest průměr kružnice obratu.
+Z obrazce 2. následuje též:
+Se: So = Soi Ss,
+o d : ó S = s o : o S.
+aneb:
+Též následuje:
+(r — d} : d = r : R, aneb   sq:qo = so:oS.
+2. Hypotrochoida.
+V tomto případě jest:
+R r                                  R*
+d = -=—     - a tudíž:   R -f- d = -        — . R —r                                  R — /'
+Měj též zase (obr. 3.) o, s, S, r, R týž význam jako předešle. Nyní se kružnice kít k.2 neprotínají v reálných bodech; máme však následující konstrukci:
+V bode s vztyčme kolmici ku s S, jež protíná kružnici k.2 opsanou-poloměrem S o v bode m; pak protíná tečna bodem m přímku s S v bodě d, takže o d jest průměrem kružnice vratu.*}
+Důkaz: V pravoúhlém trojúhelníku   SwdjesL:
+S~n7- =Ss.Sá,   aneb:   R* = (R — r) S d . Srovnáním s hořejší rovnicí plyne:
+Sd = R + d,   aneb:   d = oó Z obrazce 3. následuje též:
+S s : S o = S o : S s aneb též:   o ď : d S = s o : o S , tedy týž výsledek jako v předcházejícím případě, totiž:
+°) Srovnej B r c s s c obr. 4.
+.
+XIX. ﻿Diametrálný bod d kružnice vratu čili pól vratu dělí poloměr křivosti základní křivky v témže poměru, ve kterém pól otáčení o délí centrálu kružnic křivosti hybné a pevné křivky.
+Totéž vychází direktně ze vzorce:
+d : R = r : (R ~ r),   aneb:   R : R + d = r : R.
+Z toho následuje konstrukce (obr. 3a):
+Středem křivosti s křivky hybné a pólem otáčení o vedeme rovnoběžky, středem křivosti S pevné křivky vedeme libovolnou příčku, jež protíná rovnoběžky v bodech x a y\ ku spojnici x o vedeme bodem y rovnoběžku, jež prochází diamctrálným bodem d kružnice vratu.
+Tato konstrukce jest ne odvislá od vzájemné polohy bodů o s S a nahrazuje konstrukce obr. 2. a obr. 3.; za to mají tyto konstrukce větší stupeň přesnosti, poněvadž rovnoběžky posunováním trojúhelníků nejsou spolehlivé.
+Rovněž tak se dokáže:
+d : r = R : (R —r) a tudíž:  (d —r) : d — r : R,   tudíž:
+Diametrálný bod q kružnice obratu, čili pól obratu dělí poloměr křivosti hybné křivky v témže poměru, R : r, ve kterém pól otáčení o dělí centrálu kružnic křivosti hybné a pevné křivky.
+Z toho následuje táž konstrukce pro q jako pro d.
+Též jest patrno:
+Pól obratu dělí poloměr křivosti hybné křivky v témže poměru, jako pól vratu dělí poloměr křivosti základny''}
+3. Trochoida (při kotálení na přímce). V tomto případě jest R = oo a tudíž:
+R r                 r
+a =
+R
+Při kotálení na přímce se rovná průměr kružnice vratu neb obratu poloměru křivosti hybné křiv k v.
+Když jsme sestrojili l)e la Hirc-ovy kružnice, můžeme přistoupiti ke konstrukci poloměru křivosti 9Í dle vzorce:
+— d cos a
+7)  K tC-mto výsledkům B r c s s c nedospěl.
+XIX. ﻿Konstrukce poloměru křivosti v libovolném bodě kotálnicc.
+Při tom jest třeba rozeznávati tři případy:
+1.  « < !)0°; cos a > o.
+Budiž (obr. 4.) o okamžitý střed otáčení, / kru/nice obratu, o p = 9 prúvodič opisujícího bodu p, a úhel, který svírá průvodič g s průměrem o q a ,"" průsečík normály o p s kružnicí /; pak' jest o r = d cos a, p r = (j — d cos a. Tedy:
+Kružnice k^ opsaná poloměrem p o = Q proťmcjž přímku r q v bodě m; tečna v bodě m protíná pak normálu p o ve středu křivosti ?r.s)
+Důkaz: Y pravoúhlém trojúhelníku   pmit   jest:
+p ni- = p r . pit, aneb:  Q- = (Q — d cos «)  p it. Srovnáním s hořejší rovnicí je patrno:
+9i = p n . Z obrazce 4. následuje:
+p r : p o = p o : p n, aneb:
+p r : r o = p o : o it .
+2.  a > 90°,  cos a < o .
+Pak jest:
+91                 <*
+Q + d COS K
+při čemž značí cos a absolutní hodnotu.
+Měj též (obr. 5.) o, J, p, q, r, Q, a, 7^ týž význam jako předešle; pak jes:
+p y = Q + d cos a. .
+Kružnice kt neprotíná kolmici q r v reálných bodech; máme však konstrukci:
+Na p r jakožto průměru opišme kružnici kz: chordála m n kružnic &i> ^2 protíná pak normálu p o ve středil křivosti rc.9)
+Z obrazce 5. následuje:
+aneb:
+pit : n o = p r '. r o ,
+tedy totéž jako dříve; máme tedy důležitý výsledek:
+8)  Tato konstrukce se vyskytuje ve B r e s s e-ově pojednání.
+9)   Tato konstrukce se vyskytuje již ve /míněném pojednání B r e s s e-ově.
+XIX. ﻿Okamžitý střed otáčení o dělí poloměr křivosti p n v iémžc poměru jako průsečík r normály s kružnicí obratu dělí jruvodič p o opisujícího bodu.
+Z toho následuje konstrukce (obr. ort).
+Bodem kružnice obratu r a pólem otáčení o vedeme rovnobežkv a bodem p příčku, jež protíná tvto rovnoběžky v bodech x, y; ku spojnici x o vedeme bodem v rovnoběžku, jež prochází středem křivosti ;r.10)
+Tato konstrukce jest nezávislá od vzájemné polohy hodu daných a nahrazuje konstrukce 4 a '"">; za to mají tyto konstrukce vetší stupeň přesnosti.
+Rovněž tak S"" dá dokázali:
+Knižnice vratu dělí pruvodičc o n středu křivosti kotálnicc v iémžc poměru jako okamžitý střed utáčcní dělí poloměr křivosti pit-.
+Z toho následuje, že se k bodu n sestrojí bod p pomocí prusf číku s kružnicí vratu touže konstrukcí, jako se k bodu p sestrojilo n pomocí průsečíku s kružnicí obratu.
+Dále z toho následuje:
+Knižnice obratu dělí pruvodič opisujícího bodu p v témžc poměru. ve kterém kružnice vratu dělí pruvodičc středu křivosti.
+Jc-li znám pól o áčení o, bod vratu v, a máme-li ku středu křivosri n sestrojiti opisující bod p pomocí bodu vratu, stane se to dle věty právě uvedené (obrazec neproveden):
+Bodv v a o vedeme libovolné rovnoběžky a bo'dcm n libovolnou příčku, jež protíná tvto rovnobežkv v bodech x a v a ku spojnici x o vedeme rovnoběžku y p ; tato prochází opisujícím bodem p.
+Jest to tedy konstrukce, kterou Schoenfliess označuje jako konstrukci G r ú b l e r o v u,11) jenže užitím bodu vratu. Máme-li však
+*t>
+naopak k opisujícímu bodu p sestrojiti střed křivosti n použitím bodu vratu v, provádíme tutéž konstrukci v obráceném pořádku:
+Opisujícím bodem p a pólem otáčení o vedeme libovolné rovnoběžky a protneme tyto rovnobežkv libovolnými rovnoběžkami, jež procházejí pólem otáčení a bodem vratu, v bodech y a x\ pak prochází spojnice y x středem křivosti Jt.
+Toť jest však známá konstrukce >I a n n h e i m o v a,1'2) jež jest jen obrácením konstrukce Grúblerovy.
+10) Podobnou konstrukci má též G r u b l c r v pojednání: Zuř Konstruktion der Wcndepunkte. Zeitschr. f. Matli. u. Phys. p. 311, Band 29, 1884. Srovnej též Schoenfliess: Geometrie der Bewegung p. 31. 1886. Výše uvedená věta však není vyslovena.
+"") Viz:   Schoenfliess:   Geometrie der Bewegung p. 31.
+12) Viz: Mannheim: Principcs ct Devoleppemcnts de Geometrie ciné-raatique 1894, p. 36 neb též: Mannheim: Cours de Geometrie descriptive 1880, p. 200. Srovnej též její odvození pomocí projekt, geometrie: Jar o li mé k a Procházka: Deskriptivní geometrie 1909, p. 374.
+XIX. ﻿3. « = í)0°;   cos a = o;   91 = Q .
+Všechny body společné tečny T hybné a základní křivky opisují elementy drah, jejichž středy křivosti jsou v okamžitém středu otáčení o.
+Předcházející konstrukce středu křivosti kotálnic nejsou tak jednoduché jako známá konstrukce Kulérová. Tato Eulerova konstrukce má však tu nevýhodu, že se stane tím nepřesnější, .čím menší jest a a pro « = o se stane naprosto neurčitou, jelikož všechny konstruktivní přímky splynou v jedinou. Případ ten nastane, jedná-li se o poloměr křivosti ve vrcholech souměrnosti kotálnic. Při skutečném rýsování kotálnic jest však třeba hlavně poloměru křivosti ve vrcholech, neb jen tam se dá oblouk kotálnice s výhodou nahraditi obloukem kružnice křivosti.
+Konstrukce právě odvozené mají tedy vůči konstrukci Kulérově přednost, že nepozbudou své platnosti ve vrcholech. Naopak shledáme ihned, že se ještě poněkud zjednoduší.
+Konstrukce polomeni křivosti ve vrcholech kotálnic.
+Též zde je třeba rozeznávati tři případy:
+1. Pro hlavní vrchol kotálnic jest a = o a tedy
+Měj též (obr.  6)  o, J, q, r, m, k± týž význam jako dříve: V bode  q = r  vztyčme kolmici ku  p o  a protněme tuto kolmici kružnicí kt opsanou poloměrem   p o   v bodě   ni;   tečna v bodě   m   protíná   p o ve středu křivosti n.
+Důkaz. V pravoúhlém trojúhelníku   pmn jest:
+p ni- — p q . p n ,   aneb: p2 = (Q — d] . p n . Srovnáním s hořejší rovnicí je patrno:
+2. Pro vedlejší vrchol kotálnic je a = 180°,  cos a. -     - l a tedy:
+91 = —^7 •
+Q + d
+Měj též (obr. 7.) o, J, q, p, k-± týž význam jako dříve. Kolmice v bodě q a kružnice /^ se neprolínají v reálných bodech; máme však následující konstrukci:
+Xa průměru p q opíšeme knižnici Av Chordála m n kružnic Á^, k., protíná normálu p o ve středu křivosti n.
+XIX. ﻿Důkaz: V pravoúhlém trojúhelníku   p m q  jest:
+p m2 — p q . pn, aneb: Q~ — (Q + d) . p n. Srovnáním s hořejší rovnicí jest patrno:
+Konstrukce obr. 6. a 7. se dají nahraditi konstrukcí 5a, přičemž bod r přejde v diametrálný bod q kružnice obratu.
+3. Je-li Q = o, jest též   91 = o, z čehož soudíme: Kotálnice má v bodech na základní křivce body úvratu.
+Je-li však současné Q = o a a = 90°, jest výraz pro k neurčitý a středy křivosti příslušné okamžitému středu otáčení o naplňují společnou tečnu T hvbné a základní křivky.
+Z předcházejícího jest patrno, že při konstrukci středu křivosti pro vrchol kotálnice se kombinují ve všech případech dvě základní jednoduché konstrukce, jež chceme krátce označiti: i. dle užití choř daly neb 2. užití tečny. Tytéž mohou býti nahrazeny konstrukcí, kterou nazveme dle mcthody rovnoběžek.
+V následujícím popíšeme ještě úplnou konstrukci pro základní případy, při čemž mějte o, s, S, p, týž význam jako dříve:
+1.  Epitrochoida a hlavní vrchol-
+Opišme (obr. 8.) na s 5 jako průměru kružnici k± a poloměrem 5 o kružnici /e.2; chordála m n kružnic /et k.2 protíná s 5 v diametrálném bodě ď kružnice vratu. Pomocí kružnice k3 převedeme ď do diametrálného bodu q kružnice obratu a vztyčíme v bodě q kolmici ku s S a protneme tuto kolmici kružnicí 7e4 opsanou poloměrem p o v bodě [i; tečna v bodě fi protíná pak normálu p o ve středu křivosti it.
+Poznámka: Místo bodu d mohli jsme též direktně sestrojiti bod q, při čemž by odpadla kružnice k;V
+2.   Epitrochoida a vedlejší vrchol.
+Sestrojme (obr. 9.) d a q jako v předcházejícím případě. Pak opišme na p q jako průměru kružnici /e4 a poloměrem p o kružnici k:,, pak protíná chordála {i v kružnic A'4 k- normálu po ve středu křivosti rr .
+Též zde jsme mohli místo ó sestrojiti q direktně.
+•5. Hypotrochoida a lilavní vrchol.
+Vztyčme (obr. l O.) v bodě s kolmici ku o S a poloměrem S o opišme kružnici k\, jež pro; ne onu kolmici v bodě ;;/; učna v bodě ;;/ ku A't protíná normálu /> o v diametrálném bodě ó kružnice vratu, který převedeme
+XIX ﻿10
+kružnicí A'2 do diametrálného bodu g kružnice obratu. V bodě g vztyčíme kolmici ku po a protneme ji kružnicí A3 opsanou poloměrem po v bodě/w; tečna v bodě ^ ku kružnici A3 protíná normálu p o ve středu křivosti it.
+4.   Hypotrochoida a vedlejší vrchol.
+Scs.rojire (obr. 11.) body d a g jako v předcházejícím případě. Na p g jakožto průměru opíšeme kružnici A3 a protneme ji kružnicí L4 opsanou poloměrem p o. Chordála (i v kružnic A.{ A'4 protíná normálu p o ve středu křivosíi TT.
+Konstrukce 8, 9, 10, 11, můžeme nahraditi následující konstrukcí (obr. 8 a}:
+Body s a o veďme rovnoběžky a bodem S příčku, jež protíná tvio rovnoběžky v bodech x a y, ku spojnici x o vedeme bodem y rovnoběžku y č"". Pak učiníme d o = o g, vedeme body g a o rovnoběžky, bodem p příčku., jež protíná tyto rovnoběžky v bodech | a •»;; ku spojnici Lo vedeme rovnoběžku TI n, čímž obdržíme střed křivosti n.
+Tato konstrukce jest nezávislá na vzájemné poloze daných bodu a vede nejrychleji k cíli; ovšem nemá takový stupeň přesnosti jako předcházející. Místo bodu d jsme mohli též ses1, roj i t bod g direktně, takže by odpadla kružnice d g, což jest provedeno v obrazci 8b.
+5.  Trochoida a hlavní vrchol.
+Diametrálný (obr. 12.) bod g kružnice obratu se stotožní se středem s hybné kružnice. Kolmici vztyčenou v bodě g ku op protneme kružnicí A-j v bodě w; tečna v bodě m protíná normálu p o ve středu křivosti n.
+(>. Trochoida a vedlejší vrchol.
+Opišme (obr. 13.) na p g jakožto průměru kružnici kt a poloměrem p o kružnici A2. Chordála m n kružnic Ax k.2 protíná normálu o p ve středu křivosti it.
+Odvození dalších konstrukcí.
+Při konstrukci středu křivosti n. se vlastně jedná o určení délky   o n,
+tedy veličiny   SR — o .
+v     ,   '           '        *
+Z výrazu:
+m = -—L-
+y — a cos a
+plyne:
+-u                 Q d cos a
+?Ji — o = -    —3—    — , Q — a cos a
+aneb:
+o n : Q •= d cos a : (Q — d cos a].
+Máme tedy též následující konstrukci středu křivosti pro libovolný bod p (obr. 14.).
+XIX. ﻿11
+Průsečíkem m průvodicc p o s kružnicí obratu vedeme rovnoběžku R ku společné tečné T hybné a pevné křivky, bodem p vedeme libovolnou přímku, jež protíná R a T v bodech r, t; ku spojnici r o vedeme bodem t rovnoběžku tn : pak jest it střed křivosti bodu p.
+Důkaz: Z podobnosti trojúhelníků jde
+o Jt : o p = r t : r p ~ o m : m p, aneb
+o TT : Q = d cos K : (y — d cos a].
+Konstrukce zusiává v platnosti i ve případě a > 90°.
+jc-li a = o , tedy pro hlavní vrchol p, prochází (obr, 15.) rovnoběžka R bodem q; ostatní zůstává stejné. Konstrukce je též v platnosti pro vedlejší vrchol.
+Tato konstrukce má tedy tu přednost, že jest pro všechny případy stejná; jest patrně jen zvláštním případem konstrukce 8a.
+K vůli úplnosti učiňme ješ.ě následující úvahu:
+Úměře:
+o TI : Q — d : (Q — d)
+vyhovuje ješ;č následující konstrukce s ředu křivosti ve vrcholu troclioidy (obr. 16.): Když jsme sestrojili diametrálný bod ó kružnice vratu, vztyčme v bodě d kolmici d f — d o ku op, otočme průvodič o p na společnou tečnu T do o (/>); spojnice (p) f protíná normálu p o ve s'.ředu křivosti TI.
+Důkaz:
+x o : d o = o (p} : g (p), aneb
+Jt o : d = y : (Q — d) .
+Ve všech předcházejících případech byly konstrukce v platnosti jak pro křivky prosté tak i zkrácené neb prodloužené. V mnohých případech křivek prostých jest výhodnější vypočítati poloměr křivosti užitím vzorců:
+_Rr_         sp _         L^_
+R HI r                      g— d cos K
+Příklady:
+1. V hlavním vrcholu prosté cykloidy jest íK = 4 r ve vedlejším je 91 = o.
+'2. Při elliptickém pohybu jest R = 2 r, d — R; pro prostou křivku jest 9í = oo.
+XIX. ﻿12
+3.   Při evolventním pohybu jest   r = oo,   d = R\   pro vrchol Archi-
+r>
+medový spirály obdržíme tedy 91 = — .
+2i
+v
+4.   Při   kardioidickem   pohybu   jest   R = r,    d = — ;    v   hlavním
+40
+vrchole jest 9í = o a ve vedlejším 9i — 2| . ? .
+5.    Pro   troj bokou   prostou   hypocykloidu   jest   R = 3r,   d = $- r , ft = 8r.
+6.   Pro troj bok ou prostou epicykloidu jest R — 3 r, d = f r, 91 — 31 ;\
+7.   Pro    čtyřbokou    prostou    hypocykloidu    jest    R = 4 r, d = | r, 91 = 6 r.
+8.    Pro   čtyřbokou   prostou   epicykloidu    jest    R = 4 r,    d = 4 r, s)í = 3| /> atd.
+Příbuznost mezi opisujícími body p a středy křivosti n jejich trochoid.*3)
+Soustavy bodů p a n tvoří zcela zvláštní geometrickou příbuznost, o které jsme již v předcházejícím seznali:
+Každá přímka, jež prochází okamžitým středem otáčení, jest samodružná. Společné tečně T pevné a hybné křivky přísluší, ať ji počítáme k první neb druhé soustavě, okamžitý střed otáčení o; a naopak, okamžitému středu otáčení o, ať jej počítáme k první neb druhé soustavě, přísluší společná tečna T.
+Na normále (obr. 17.) p o přísluší každému bodu p jediný bod JT a naopak každému bodu n přísluší jediný bod p\ tento jedno-jednoznačnv vztah na přímce jest tedy projektivný. Na normále p o tvoří tedy p a n dvě soumístné projektivně řady určené tím, že bodům oo, m, o první soustavy příslušejí body n, oo, o druhé soustavy. Body m n jsou tedy centrální body obou soustav a o jest samodružný bod. Pošineme-li první soustavu o úsečku m o a druhou soustavu o úsečku n o, sjednotí se oba centrálně body m n v bodě o a projektivně řady se stanou involutornými; o jest pak středem involuce. Při tom se pošinou v samodružném bodě o splývající body obou projektivných řad do n a m, jež jsou tedy jedna dvojice povstalé involuce; tato involuce jest tedy elliptická. Přeneseme-li tedy o m na kolmici ku o P do bodu e, sestrojí se pak k libovolnému bodu pL první soustavy involutorný bod nl druhé soustavy, vedeme-li přímku pí c a vztyčíme k ní v bodě e kolmici c nv Pošineme-li konečně p^ zpět o úsečku o m clo p a bod nv o úsečku o n do n, obdržíme příslušné
+I:!) O této /vlastní kvadratické příbuznosti jt-st pojc<ln;',no ve Schocn-t l i c s s, Geometrie der Bcwcgun^, p. l.~>—'2'2, na základě úvah nové geometrie a užitím výsledku obecné kvadratické příbuznosti; uvádím tuto příbuznost jediné z důvodu, že následuje ze vzorce pro 9Í /cela elementárně.
+XIX. ﻿13
+body p a n v projektivných řadách, tedy opisující bod p a příslušný střed křivosti n.
+K tomuto výsledku  můžeme  též dospěti bez projektivných  úvah pouhým výpočtem:
+aneb
+p n = p p! + Pí o -f- o % -f- JTj TT,
+íř2 COS ~ CL
+p 7t= d cos a -|- o — d cos u -\                   ------\- d
+Q — d cos a
+o2 — d- cos~ a -f- </- cos2 a
+p — řl COS K
+Máme tedy následující jednoduchou konstrukci středit křivosti v libovolném bode p (obr. 17.):
+Bod p pomineme o úsečku m o do />lf na kolmici v bodě o ku p o naneseme o m do e, spojíme p± c a v bodě e vztyčíme kolmici c nL ku pl c a konečně pomineme Jtl o úsečku o u do bodu it.
+Je-li u = o, obdržíme jednoduchou konstrukcí středu křivosti ve vrcholech trochoiď, místo abychom pošinovali o tětivy m o a o n, poši-nujeme o ])ruměr I)e la Hire-ových kružnic. Tato konstrukce jest provedena (obr. 18.) pro hlavní vrchol p a vedlejší vrchol p' epitroehoidv a (obr. 1(.». pro hlavní vrchol p a vedlejší vrchol p' hypotrochoidy.
+Pokračujme   po této odchylce   v úvaze   o příbuznosti mezi p a n.
+Je-li « = 90°, přejde (obr. 17.) přímka p o ve společnou tečnu T hybné a základní křivky, tětivy o m — o n• — 0 , elliptická involuce přejde pak v parabolickou involuci, což značí, že každému bodu p na přímce T přísluší n totožné s o, což jsme již seznali dříve.
+Je-li « — 90° + L , při čemž je e nekonečně malé, jtst přímka p o nekonečně blízká tečně T a protíná kružnici vratu v bodě o' potažmo o"", jež jsou soumezné s bodem o- Potence involuce na takové přímce jest — o o'2, tedy jako nekonečně malá veličina druhého řádu skutečně rovná nul,' a involuce p1ie1 zůstává tedy parabolickou; z toho však následuje, že každému bodu p přímky nekonečně blízké k tečně T přísluší jako sdružený bod it bod o' po případě o"" na kružnici vratu soumezný s bodem o.
+Též tento výsledek lze odvoditi bez projektivných úvah; ze vzorce
+Mí -
+d COS K
+— d cos a
+následuje, fa pro libovolné a tedy i nekonečně veliké y a pro úhel a = í»(i° jest í)i — Q = o a tudy že libovolnému bodu p na společné tečně T přísluší bod n totožný s bodem o- Položíme-li u = 90 :tl L> P'""i čemž jt >t L nekonečně malé, obdržíme pro libovolné a tedy i nekonečně velké Q: ﻿11
+o\                        ""   LOS   (W     '      C)
+y — d cos (90 + *)
+z čehož následuje, ž<-
+9i — (>       o </ potažmo o o"".
+Z toho však následuje dále:
+Pro;íná-li čára první soustavy lečnu T a její soumezné bodem o procházející přímky ve třech soumezných bodech v končenu, příslušejí těmto bodům jako středy křivosti okamžiiv střed otáčení o a oba jeho' soumezné body o' o"" na knižnici vratu, což značí, že příslušná čára druhé soustavy oskuluje kružnici vratu v bodě o; jest patrno, že je též v platnosti, protíná-li čára druhé soustavy tečnu 7"", příslušná čára první soustavy že oskuluje v bodě o kružnici obratu.
+Máme tedy větu:
+Protíná-li čára .v první soustavy společnou tecnuT v i, 2, j . . . bodech, oskuluje příslušná čára L druhé soustavy v bodě o kružnici vratu 1,2,3... kráť, a naopak, protíná-li čára í druhé soustavy společnou tečnu T v i, 2, 3 • • • bodech, oskuluje příslušná cárá x první soustavy v bodě o kružnici obratu i, 2, j . . . krát.
+Libovolná přímka P, jakožto místo bodu p, protíná kružnici obratu ve dvou bodech, jež jsou bud reálné a různé neb reálné a splývající, aneb oba pomyslné; příslušná čára // druhé soustavy, jakožto místo bodu n, protíná tedy přímku v nekonečnu druhé soustavy též ve dvou bodech, jež jsou bud reálné a různé, ivh reálné a splývající, neb oba pomyslné. Máme tedy větu:
+Libovolné přímce první soustavy přísluší v druhé soustavě hyperbola neb parabola neb ellipsa, jež oskuluje v bodě o kružnici vratu: jen přímce v nekonečnu první soustavy, přísluší v druhé soustavě kružnice vratu: ale též naopak:
+Libovolné přímce druhé soustavy přísluší v první soustavě hyperbola, neb parabola neb ellipsa, jež oskuluje v bodě o kružnici obratu a jen přímce v nekonečnu druhé soustavy přísluší v první soustavě kružnice obratu.u)
+V předcházejícím výsledku se zdá býti vnitřní rozpor; přísluší-li čáře řádu n první soustavy čára řádu 2 n druhé soustavy a naopak, měla by této čáře druhé soustavy příslušeti v první soustavě čára řádu 4 n 3. nikoliv n.
+Tento zdánlivý rozpor se však vysvětlí na-, dovně:
+Prochází-li čára první ivb druhé soustavy bodem o, přísluší tomuto jedinému bodu o v druhé neb první soustavě celá přímka T\ čára druhé neb první soustavy se tedy rozpadá ve přímku T a řád zbývající křivky se snižuje o jedničku.
+J1)   K i v ;i l s shledal, xc jiřinu <   přísluší  ktixcloscřka.  a D e \v n ! i  shledal, že tato kuželosečka oskuluje  Bresse-ovu  kvuxnici.
+XIX. ﻿15
+I)otýká-li se čára první mb druhé soustavy v bode o kružnice obratu ii' b vratu, rozpadne se příslušná čára druhé neb první sousiavy ve přímku T, je/ počííá dvojnásobně, a řád zbývající křivky se snižuje o dvě jedničky.
+Oskulujc-li čára první mb druhé soustavy v bodě o kružnici obratu neb vratu, rozpadá se příslušná čára druhé neb první soustavy ve přímku 7\ jež počítá trojnásobně, a řád zbývající křivky se sníží o tři jedničky atd. Každé přímce první mb druhé soustavy, jež prochází bodem o, přísluší tedy v druhé neb první soustavě rozpadající kuželosečka, jež sestává z přímky T a z dané přímky.
+Každá kuželosečka k první soustavy protíná kružnici obratu ve čtyřech bodech; tedy prolíná příslušná křivka A' druhé soustavy přímku v nekonečnu ve čtyřech bodech a jest tedy řádu čtyři; a též naopak. ]\láine tedy větu:
+Kuželosečce první neb druhé soustavy přísluší v druhé neb první soustavě křivka čtvrtého řádu, jež oskuluje v bode o kružnici vratu neb obrátil dvakrát.
+Prochází-li daná kuželosečka bodem o, rozpadá se příslušná čára čtvrtého řádu ve přímku T a zbývající čáru třetího řádu, jež oskuluje v bodě o I)e la Hirc-ovu kružnici a má v tomto bodě dvojný bod. I)o-lýká-li se daná kuželosečka v bodě o přímky T, rozpadá se čára čtvrtého řádu ve přímku T, jež počítá dvojnásobně, a ve zbývající kuželosečku, jež se taktéž dotvká v bodě o přímky T. Oskuluje-li daná kuželosečka kružnici Hire-ovu téže soustavy, přísluší jí v druhé soustavě přímka, (""áře třetího řádu první soustavy přísluší v druhé soustavě čára šestého rádu, jež oskuluje kružnici vratu trojnásobně; tento řád se může snížiti o ], 2, 3 . . . jedničky, splývají-li v bodě o l, 2, H . . . body dané čáry atd.
+Této příbuznosti můžeme užiti k indin ktnímu hšení různých úloh ku př.:
+Jest sestrojiti parabolu, je: oshiiluje danou- knižnici v bodě o a prochází bodem a.
+Považujme danou kružnici za kružnici obratu, sestrojme k ní kružnici vratu, k bodu a sdružený bod « a ve dme z tohoto bodu tečny n, U' ke kružnici vratu; tím obdržíme přímky druhé soustavy, jimž příslušejí v první soustavě hledané paraboly. Vedeme-li k některé z těchto přímek bodem o rovnoběžku, protíná tato rovnoběžka danou kružnici v bodě b, jenž jest čtvrtým společným, bodem hledané paraboly s danou oskulační kružnicí. Nyní můžeme sestrojiti vrchol a ohnisko paraboly dle věty Paskalovy.
+fest sestrojiti hyperbolu, jež oskuluje danou- kružnici v bode o, jsou-li dány směry asymptot.
+Považujme danou kružnici za kružnici obratu, sestrojme kružnici vratu. Bodem o vědmě rovnoběžky ku směrům asymptot, čímž obdržíme na kružnici vraní body K ji = 77 , jejichž spojnice jest přímka 77 druhé soustavy, jíž přísluší v první soustavě hledaná hyperbola. Vedeme-li ﻿1tí
+bodem o rovnoběžku ku II, obdržíme na dané kružniei čtvrtý společný bod s hyperbolou. Tuto můžeme nyní sestrojiti dle věty Paskalovy.
+Jest sestrojiti křivku třetího řádu, jež oskuluje ve svém dvojném bodě o danou knižnici, prochází kruhovými body v nekonečnu a dalšími dvěma body ab.'L
+Danou kružniei považujeme za kružniei obratu, sestrojme kružniei vratu, k bodům a, b sestrojme sdružené K, /3 a sestrojme1 kružniei K procházející body o, a, ji. Této kružnici druhé soustavy přísluší hledaná křivka v první soustavě. Průsečík kružnice vratu s kružnicí o « /3 spojen s o udává směr asymptoty hledané křivky.
+Poznámka. Křivka C3 jest určena í) body; my jsme však zvolili kruhové body v nekonečnu a body a b, tedy čtyři body. Dvojný bod o, ve kterém C3 oskuluje danou kružnici, representuje tedy pět bodu.
+Jest sestrojiti křivku čtvrtého řádu, jez oskuluje danou kružnici v bode o dvojnásobně, prochází kruhovými body v nekonečnu a dalšími třemi body a b c.
+Považujeme danou kružniei za kružniei obratu, sestrojíme kružnici vratu a k bodům a b c zclružené a fiy. Kružnici, jež prochází body a fi y, přísluší v dané soustavě hledaná křivka ard.
+Poznámka. Křivka C4 jest určena 14 body, my jsme však zvolili pouze pět bodů. Bod o, ve kterém C4 oskuluje dvojnásobně danou kružniei, representuje tedy í) bodu.
+Z těchto dvou posledních příkladu jest paírno, kterak můžeme indircktně určiti, kolik bodu representuje vícenásobný bod, v němž má křivka danou kružnici vícenásobně oskulovati, aneb se jí dotýkati; direktní řešení jest, jak známo, closti nesnadné. Ku př.:
+Křivce CA první soustavy, jež prochází bodem o přísluší v druhé soustavě Ca, jež v o oskuluje dvojnásobně danou kružnici a ještě se protíná v tomto bodě. C5 jest určena 20 body, od O} potřebujeme ješiě 8 bodů; tedy representuje o dvanáct bodu.
+Křivce C3 první soustavy, jež se dotýká tečny T v bodě o, přísluší v druhé soustavě C4, jež oskuluje v o danou kružnici a má zde trojnásobný bod. C4 jest určena 14 body, od C3 jest třeba ještě 7 bodu; representuje tedy o sedm bodu.
+Oskulujíc í  kotálnicc.
+V předcházejícím jsme předpokládali, že jest dán okamžitý střed otáčení o a středy křivosti s, S hybné a pevné křivky; pak bylo lze sestrojiti kružnici vratu a obratu a pomocí této ku každému bodu p střed křivosti 7t. Jc-li naopak dána kružnice obratu a tedy též vratu, jest sice ku každému bodu p určen bod n, avšak středy křivosti s a S hybné a pevné ﻿17
+křivky nejsou tím určeny; můžeme totiž ještě libovolné zvoliti ku pr. střed křivosti S pevné křivky, pak lze sestroji4i střed hybné křivky s inversní konstrukcí, bud užitím tečny nebo chordály neb užitím věty, že diametrálný bod ó kružnice vratu dělí poloměr křivosti základní křivky v poměru r : K. Zrnčníme-li tedy R musíme též změniti r, aby d zůstalo totéž; jakým způsobem, udává výraz:
+Rr               l                 l                x
+a =
+R ± r  "" ""  R         r              l         *2 ± l  •
+~V±~Ř        -T
+R
+pn  čemž  x = — . r
+Kružnice obratu se nemění, zusfává-li R : r konstantní; to má následující význam: Změníme-li libovolně poloměry křivosti R, r pevné a hybné křivky, jež se dotýkají v pólu o:áčení o, opíše libovolný s hybnou křivkou spojený bod p kotálnice, jež se. v bodě p dotýkají, majíce společnou normálu p o.
+•         Zménímc-li poloměry křivosti pevné a hybné křivky, aby jejich poměr
+zůstal stálým, opíše libovolný s hybnou- křivkou spojený bod kotálnice, jež se v bodě p oskulují', poněvadž obdržíme pro všechny týž střed křivosti n. Z toho jde na jevo, že není třeba ku sestrojení poloměru křivosti v daném bodě dráhy znáti středy křivosti hybné a pevné křivky, nýbrž jediné kružnici obratu.
+Použití předcházejících konstrukcí na různé pohyby.
+Jest známo, že můžeme každý pohyb nahraditi k otálením; póly otáčení naplňují pevnou křivku, a body, jež se poslupne stanou póly otáčení, naplňují hybnou křivku. Jedná-li se však jen o určení středu křivosti elementu dráhy, není třeba ani pevné ani hybné křivky, nýbrž jedině kružnice obratu pro tento element pohybu; jelikož tato prochází pólem otáčení o, jest třeba určiti ještě dva její body.
+K tomu účeli můžeme s výhodou použíti věty:
+Obalujc-li přímka křivku, jež má střed křivosti n, náleží tento bod kružnici vrátil, pro příslušný element pohybu', a jako zvláštní případ: Pro-chází-li přímka stále daným bodem, náleží tento bod kružnici vratu příslušného elementu pohybu.^}
+Tyto poučky jsou patrně speciálně případy obecnější Kulérový věty, jež zní asi takto:
+Obalujc-li křivka A obálku B, obdržíme střed křivosti obálky B, určímc-li střed křivosti křivky C, kterou opisuje střed křivosti křivky A.16)
+15)  Srovnej: A r o n h o l d :   Grundzůge der kincmatischen Geometrie, p. 154.
+16)  Viz Mannheim:   Principcs etc., p.  24.   Tato   věta se   též   připisuje Serrct-ovi, viz:  Encyklopedie der matli. Wissensch. Band   III3,   Heft   l, p.  38.
+Rozpravy: Roč. XIX. Tř. II. Čís. 10.                                                                                  2
+XIX. ﻿18
+Opisuje-li bod p křivku, jejíž střed křivosti jest n, a je-li o pól otáčení, můžeme inversní konstrukcí vyhledá-i bod r kružnice obratu, viz obr. 4. neb. 5. Ještě účelnější je však užíti věty výše uvedené, že pól omáčení dělí poloměr křivosti v témže poměru, jako bod kružnice obratu dělí prů-vodič opisujícího bodu; při tom je ovšem toho dbáti, zda-li jest tento dělící poměr vnější nebo vnitřní.
+Xa základě toho můžeme přistoupiti k použití výše uvedených konstrukcí na různé známé elementární pohyby v rovině.
+1.  Pohyb dliptický. Konstantní úsečka a b se pohybuje tak (obr. 20.), aby body   a b   opisovaly přímky  A, B. Budiž o pól otáčení.   Středy křivosti drah bodů a, b jsou v nekonečnu;   tedy náleží body a b o kružnici obratu; tato prochází též průsečíkem q přímek A, B. Libovolný s přímkou a b spojený bod p opíše ellipsu, jejíž normála jest p o.   Budiž r průsečík přímky p o s kružnicí obratu; poloměrem po opíšeme kružnici a protneme ji kolmicí  r q  v bodě m, pak tečna v bodě m protíná  p o  ve středu křivosti jr.17)   Též bychom   mohli   vésti body r a o rovnoběžky a bodem p příčku, jež protíná   rovnoběžky v bodech  x a y,  ku spojnici   x o vésti bodem y rovnoběžku y n.    Úsečka   a b   obaluje  šikmou  asteroidu;  bod dotyku d této asteroidy jest pata  kolmice   od   spuštěné ku   a b.   Střed křivosti d této obálky jest  průsečík normály   d o   s kružnicí vratu.
+2.  Pohyb kardioidický. Konstantní úhel a v b se pohybuje tak (obr. 21.), aby jeho ramena stále procházela body a b. Body a b náležejí tedy kružnici vratu. Kružnice obratu jest určena body a' b' o, při čemž jest a o = o a', b o — o b'.   Kružnice vratu prochází bodem v a kružnice obratu bodem q, při čemž jest  v o = o g.   Bod v opisuje kružnici určenou body a v b, každý bod ramene  a v  neb bv  opisuje   konchoidu této kružnice vzhledem ku pólu a neb b.   Každý jiný s úhlem a v b spojený bod p opíše křivku, jež souvisí následovně s konchoidou kružnice. Spusťme z bodu p kolmici p p' ku   a v;   pak opisuje bod p' kruhovou  konchoidu. Vztyčíme-li v bodě p' kolmici ku průvodiči a p' a naneseme na ní konstantní délku p' p, obdržíme dráhu bodu p, již nazveme transformovanou konchoidou. Střed křivosti dráhy bodu p určíme následovně: Budiž r průsečík normály p o s kružnicí obratu, na průměru p r opíšeme  kružnici a poloměrem p o též kružnici; chordála obou kružnic prochází středem křivosti n.   Opakujeme-li tutéž konstrukci pro dráhy bodů a, b  obdržíme jako výsledek, že siředy křivosti a, /3 půlí  úsečky  a o,   b o;   máme   tedy  výsledek:   Evoluta  kruhové konchoidy, kterou opisuje bod a neb b jest homothctická ku základně kotálení v poměru l : 2. Též můžeme  určiti střed křivosti methodou rovnoběžek.
+.3. Obecný kardioidický pohyb. Konstantní úhel se pohybuje tak, aby jeho ramena obalovala křivky A, B (obr. 22.); budtež ab body dotyku, a, [i příslušné středy křivosti obálky. Přímky au, bfi se protínají v pólu otáčení o. Kružnice vratu je určena body o K ft, kružnice- obratu body o a' (}',
+17)  Srovnej: Brcssc: p.   10.'}.
+XIX. ﻿19
+při čemž jest a o = o a', /3 o = o $'• Rovnoběžky body a /3 ku ramenům a p, b p se protínají v diametrálném bodě v kružnice vratu. Souměrný bod q bodu v vzhledem ku o jest diametrálný bod kružnice obratu. Bod v opíše nekonečně malý oblouk kružnice a 0 v, bod p: element kruhové konchoidy a p element transformované křivky. Středy křivosti těchto drah se sestrojí jako v předešlém případě. Ramena úhlu a v /i zůstávají stále kolmá k evolutám křivek A B. Body kružnice obratu opisují křivky, jež mají v těchto bodech body obratu. Každá s daným úhlem spojená přímka obaluje křivku, jejíž bod dotyku d jest pata kolmice spuštěné s o dané přímce; střed křivosti d této obálky jest průsečík normály o d s kružnicí vratu.
+4.  Pohyb  úpatnicový. Pravý úhel   bpa   pohybuje se tak, (obr. 23.) aby jedno rameno procházelo stále   hodem b a druhé rameno obalovalo křivku A.   Budiž a bod dotyku na A a a  příslušný střed křivosti obálky; o budiž pól otáčení. Kružnice vratu jest určena body b o K,  kružnice obratu body o b' a', při čemž jest b o = o b',   K o = o a'.   Bod p opisuje úpatnici dané křivky vzhledem ku pólu b, body ramene b p opisují konchoidy této úpatnice,  body ramene pa transformované   úpatnice a každý jiný bod transformované konchoidy této úpatnice. Střed křivosti dráhy bodu p se určí následovně. Budiž r průsečík normály  p o  s kružnicí obratu, na průměru   p r   opíšeme kružnici, poloměrem   p o   opíšeme též kružnici; jejich chordála prochází středem křivosti n.   Též můžeme užíti methodu rovnoběžek.18)
+Střed křivosti konchoidy, kterou opisuje bod okamžitě se stotožňu-jící s b, jest půlící bod /3 úsečky b o. Střed křivosti dráhy bodu a obdržíme, sestrojíme-li na průměru a a' kružnici, poloměrem a o kružnici; jejich chordála prochází středem křivosti a"". Libovolný s úhlem bpa spojený bod x opíše dráhu, jejíž střed křivosti L se sestrojí rovněž tak, jako při bodu p.
+Pohybuje-li se naopak pravý úhel tak, aby jedno rameno procházelo stále bodem b a vrchol p opisoval danou křivku, obaluje druhé rameno křivku, jejíž siředy křivosti lze snadně určiti. Budiž to provedeno na následuj ících příkladech.
+5. Parabola jakožto obálka. Pohybuje-lise pravý úhel fv a tak (obr. 24.), aby jedno rameno procházelo bodem /  a vrchol v opisoval  přímku   V, obaluje druhé rameno parabolu, jejíž ohnisko jest / a vrcholová tečna V. Budiž o pól otáčení.   Bod / náleží kružnici vratu a tedy bod /' kružnici obratu,  při čemž jest   fo = of.   Střed křivosti dráhy bodu v jest v nekonečnu, tedy náleží bod v kružnici obratu a v' kružnici vratu,  při čemž jest   v o ~ o v'.   Pata a kolmice   o a   ku druhému rameni pravého úhlu jest hod dotyku paraboly,   a o   jest normála paraboly a její průsečík a
+IS) Srovnej též konstrukci Emila W e y r a v Sitzbcr. d. Akad. d. Wiss. Wicn 18<>9. B. o!), Abt. III. p. Kií).
+2* ﻿20
+s kružnicí vratu jest s'řed křivosti paraboly- Každý bod ramene fv opíše konchoidu přímky, každý bod ramene v a transformovanou konchoidu. Střed křivosti dráhy bodu a obdržíme následovně. Na průměru a a' sestrojíme kružnici a poloměrem a o taktéž kružnici; jejich chordála prochází středem křivosti a""; aneb též methodou rovnoběžek. Bod / opíše dráhu, jejíž střed křivosti jest půlící bod cp úsečky jo. Libovolný s úhlem fv a spojený bod p opíše dráhu, jejíž střed křivosti se sestrojí rovněž tak jako pro bod a, bud pomocí chordály neb tečny, neb methodou rovnoběžek.
+(}. Hyperbola jako obálka. Pohybuje-li se pravý úhel tak (obr. 25.), aby vrchol v opisoval kružnici a jedno rameno procházelo bodem / vně kružnice této, obaluje druhé rameno hyperbolu, jejíž ohnisko jest /; daná kružnice jest opsána na její reálné ose jakožto průměru. Budiž o pól otáčení, / náleží kružnici vratu a /' kružnici obraiu, při čemž jest / o = o /'. Střed křivosti dráhy bodu u'""jest w. Užijme ku vyhledání bodu r kružnice obratu methodu rovnoběžek. Body o a o vecTme rovnoběžky, bodem v příčku, jež protíná tyto rovnoběžky v bodech x a y; ku spojnici o y vecTme rovnoběžku xr, jenž náleží kružnici obratu a tedy bod r' kružnici vratu, při čemž jest r o = o rf. Pata a kolmice o a na druhé rameno jest bod dotyku a dále jest o a normála hyperboly, její průsečík a s kružnicí vratu jest střed křivosti hyperboly. Budiž r průsečík normály oas kružnicí obra u, sestrojme na průměru a X kružnici a poloměrem a o kružnici; chordála obou kružnic prochází středem křivosti a"" dráhy bodu a. Též můžeme užíti methody rovnoběžek. Bod / opíše dráhu, jejíž střed křivosti <p jest půlící bod úsečky / o. Body ramene fv opisují konchoidy kružnice, body ramene v a transformované křivky, rovněž tak libovolný s úhlem spojený bod p, jehož střed křivosti it obdržíme rovněž tak, jako pro a.
+1. Ellipsa jako obálka. Pohybuje-li se pravý úhel tak (obr. 26.), aby vrchol opisoval kružnici a jedno rameno procházelo bodem / uvnitř kružnice, obaluje druhé rameno ellipsu, jejíž ohnisko jest /; daná kružnice jest opsána na velké ose ellipsy jakožto průměru. Budiž o pól otáčení, pata a kolmice o a ku druhému rameni jest bod dotyku ellipsy, o a jest normála ellipsy. Bod / náleží kružnici vratu, tedy /' kružnici obratu, při čemž jest / o = o /'. Střed křivosti dráhy v jest 03. Opišme, na průměru v & kružnici a poloměrem v o kružnici; jejich chordála prochází bodem r, jenž náleží kružnici obratu a tedy r' kružnici vratu, při čemž jest r o = o r'. Též můžeme užíti methody rovnoběžek. Průsečík « normály oas kružnicí vratu jest střed křivosti ellipsy. Budiž r průsečík normály oas kružnicí obratu. Poloměrem a o opišme kružnici a protněme ji kolmicí vztýčenou v r v bodě m', tečna v bodě m protíná a o ve středu křivosti «' bodu a. Střed křivosti dráhy bodu /jest půlící bod <p úsečky o /. Body ramene fv opisují kruhové konchoidy, body ramene v a a vůbec každý s úhlem spojený bod p transformované konchoidy. Střed křivosti dráhy libovolného bodu p se sestrojí rovněž tak, jako při a. Z příkladů 5, 6, 7 jest patrno: Opisuje-li vrchol pravého úhlu libovolnou křivku, jejíž středy křivosti
+XIX. ﻿21
+známe, a první rameno prochází pevným bodem, obaluje druhé rameno křivku, jejíž body dotyku a středy křivosti snadno sestrojíme; rovněž tak střed křivosti dráhy opsané libovolným bodem p s úhlem pevně spojeným. 8. Lcmniskata jako úpatnice rovnoramenné hyperboly. Pohybuje-li se pravý úhel tak (obr. 27.), aby jedno rameno obalovalo rovnoramennou hyperbolu a druhé rameno procházelo středem hyperboly s, opíše vrchol / lemniskatu, jejíž střed jest s a jejíž osa jest reálná osa hyperboly. Budtež a> b> /• g> P vrcholy reálné osy, ohniska a jeden bod hyperboly. Tečnu hyperboly v bodě p obdržíme rozpůlením úhlů průvodičů p f, p g- Pata / kolmice si spuštěné na tečnu T jest bod lemniskaty. Budiž o pól otáčení; pak jest p o normála hyperboly a / o normála lemniskaty. Siřed křivosti n hyperboly sestrojíme pomocí ohniska / známým způsobem. Body s, o, n náleží kružnici vnť u, a s' o n' kružnici obratu, při čemž jest s o = o s' TI o = on'. Budiž r průsečík normály /os kružnicí obratu, sestrojme na průměru / y kružnici a poloměrem / o kružnici; jejich chordála prochází s ředem křivosti A. Střed křivosti dráhy bodu p obdržíme, opíšeme-li na průměru p n' kružnici, při čemž jest n' průsečík normály p o s kružnicí obratu, pak opíšeme poloměrem p o kružnici; jejich chordála prochází středem křivosti n""'. Bod s opíše dráhu, jejíž střed křivosti jest půlící bod a úsečky s o. Body ramene s / opíší konchoidy lemniskaty, ostatní body transformované konchoidu. Střed křivosti pro libovolný s úhlem slp spojený bod x sestrojíme jako pro p.
+í). Středová úpatnice ellipsy. Budtež a b (obr. 28.) vrcholy velké osy ellipsy, s, f g střed a ohniska. Sestrojme bod p ellipsy a jeho tečnu T. Ze středu s spusťme kolmici s u na T, pak naplňuje u úpatnici ellipsy vzhledem ke středu jakožto pólu. Budiž o pól otáčení, pak jest PO normála ellipsy a u o normála úpatnice. Střed křivosti ellipsy n sestrojíme pomocí / známým způsobem. Bod n náleží kružnici vratu n' kružnici obratu; bod s náleží kružnici vra'u a s' kružnici obratu. Budiž r průsečík normály u o s kružnicí obra u, v bodě r vztyčme kolmici ku o u, poloměrem u o opíšeme kružnici, jež protíná kolmici v bodě m; tečna v bodě m prochází středem křiv os li 03 dráhy bodu u. Podobně sestrojíme střed křivosti dráhy bodu p. Bod s opíše dráhu, jejíž střed křivosti jest půlící bod ff úsečky s o. Body ramene s u opisují konchoidy úpatnice ellipsy, všechny jiné body transformované konchoidy této úpatnice. Libovolný s úhlem sup spojený bod / opíše dráhu, jejíž střed křivosti K se sestrojí jako pro u. 10. Pohyb konchoidálný. Přímka se pohybuje tak (obr. 29.), aby procházela stále bodem a a protínala danou křivku B v bodě b; z bodu 6 naneseme na danou přímku konstantní úsečku b p; pak opisuje bod p konchoidu dané křivky vzhledem ku bodu a. Budiž (í střed křivosti pro bod b a o budiž pól otáčení. Bod a náleží kružnici vratu, a' kružnici obratu, je-li a o = o a'. Vztyčme v bodě /3 kolmici ku b o a protněme ji kružnicí o poloměru bo v bodě m; tečna bodem m protíná bo v bodě r, jenž náleží.kružnici obratu a tedy r' kružnici vratu, je-li r o = o /. Střed
+XIX. ﻿křivosti dráhy bodu p obdržíme následovně. Opíšeme na průměru pí kružnici, při čemž jest r průsečík normály p o s kružnicí obratu, a poloměrem p o opíšeme taktéž kružnici; jejich chordála prochází středem křivosti jr.19) Střed křivosti dráhy bodu a obdržíme, opíšeme-li na průměru a a' kružnici a protneme ji kružnicí o poloměru a o', chordála obou kružnic prochází středem křivosti « a tento jest patrně půlící bod úsečky a o. Bod a opisuje tedy konchoidu, jež jest homothetická ku základně kotálení a sice v poměru 1:2. Každý s přímkou a b spojeny bod x opisuje transformovanou konchoidu, jejíž střed křivosti L vyhledáme, jako pro p. Každá s přímkou a b pevně spojená přímka P obaluje křivku, jejíž bod dotyku d jest pata kolmice spuštěné z bodu o, a jejíž střed křivosti d jest průsečík normály d o s kružnicí vratu. Místo methody tečny neb chordály mohli jsme užiti methody rovnoběžek.
+11. Pohyb ojnicový. Pohybu je-li se konstantní úsečka tak (obr. 30.), aby body a b opisovaly dané kružnice, jejichž středy jsou K, jí, pak jest průsečík přímek a a, b /3 pól otáčení o. V bodě a vztyčme kolmici ku a o a protněme jí kružnici o poloměru a o v bodě m; tečna v bodě m protíná a o v bodě r, jenž náleží kružnici obratu a / náleží tedy kružnici vratu, je-li r o = o r'. Sestrojme rovněž tak t na přímce o b a bod ť tak, aby r o = o ť Kružnice obratu jest určena body o r r, kružnice vratu body o r' r'. Libovolný bod p přímky a b, aneb vůbec bod s přímkou spojený, opíše dráhu, jejíž normála jest p o. Budiž q průsečík normály p o s kružnicí obratu, opišme na průměru p q kružnici a poloměrem p o kružnici; jejich chordála prochází siředem křivosti n:.20) Přímka ab obaluje křivku, jejíž bod dotyku d jest pata kolmice spuštěné z bodu o na a b. Průsečík d této kolmice s kružnicí vratu jest s.řed křivosti této obálky. Též mohli jsme užiti methody rovnoběžek.
+Tato konstrukce se může zjednodušiti následujícím způsobem (obr. neproveden). Místo libovolných rovnoběžek vědmě K fi a bodem o rovnoběžku; místo libovolných příček vecTme příčku a b, jež protíná tyto rovnoběžky v bodech xy\ ku spojnici y o vědmě bodem x rovnoběžku, pak jsou její průsečíky s normálami a a, b /3 body kružnice obratu a a b.'21) Kružnici obratu určenou body o d 6 netřeba rýsovati; vztyčme v bodech a b kolmice k normálám a o, b o; tyto kolmice se protínají v pólu obratu q. Z bodu q spusťme kolmici na normálu bodu c; pata m této kolmice jest na kružnici obratu. Budem o vědmo rovnoběžku ku m q a bodem r příčku, jež protíná tyto rovnoběžky v bodech L, rt. Ku spojnici |o veďme bodem t/ rovnoběžku, jež proúná normálu c o ve středu křivosti y.
+Tato zjednodušená konstrukce, jež má v první části jistou podobnost s konstrukcí B o b i 11 i e r o v o u, má však tu nevýhodu, že jednotlivé
+19)   Srovnej:  Br cssc, p.   100.
+20)   Srovnej:  B r e s s c, p.   101.
+21)   Srovnej:   (i r u b l c r :   Zuř   Konstruktion   'Jer   Wendcpunktc.   Zcitschrift f. Matli. u.  Physik 1884, B. 2<>, p. 311.
+XIX. ﻿23
+32.
+body mohou zapadnouti mimo nákresnu, kdežto při libovolně zvolených rovnoběžkách můžeme jednotlivé konstruktivné body obdržeti ve výhodnější poloze.
+Z  této pozměněné konstrukce  rovnoběžkové  lze  snadno  odvoditi známou konstrukci  B o b i l l i e r o v u,  jak seznáme z následující úvahy:
+BucTtež (obr. 32.) a, b opisující body, o pól otáčení, a o, b o normály, / kružnice obratu, a 6 průsečíky normál s kružnicí /, a T budiž tečna v pólu otáčení. Veďme bodem o rovnoběžku o u ku a í) a veďme spojnici a b, jež protíná a b, o u v bodech x y; veďme dále ku spojnici x o rovnoběžku bodem y, pak prochází tato rovnoběžka středy křivosti a, (i drah opsaných body a, b.
+Měníme-li a, b na normálách a o, b o libovolně, zůstávají přímky a b a o y = o u nezměněné; spojnice a b, a (i
+r
+se tedy prolínají na pevné ose o w.22) Tato osa o u má takovou polohu, že <; b o u = a o T, aneb též: <i b oT = a o u, poněvadž jest <C b oT = b a o a <; a o u = b a o. Budiž c o další normála, pak obdržíme osu kollineace o v příslušnou normálám a o, co, učiníme-li <^.bott = cov = aoT. Spojnice a c protínejž osu o v v bodě v; pak jest na spojnici v a střed křivosti y. JMáme tedy jako výsledek B o b i 11 i e r o v u konstrukci: 23) Jsou-li dány opisující body a, b a příslušné středy křivosti K, /j, protínají se spojnice a b, a ft v bode u, pak jest o u osa, jež svírá s normálou b o úhel fy. Přcncsoucc tento úhel fy od normály c o v témže směru, obdržíme osu o v. Spojnice ač protíná osu o v v bode v, a spojnice v a protíná normálu c o ve středu křivosti y.
+12. Pohyb klikový. Konstantní úsečka a b (obr. 31.) se pohybuje tak, že bod a opisuje přímku A a bod b kružnici B o středu $ . Kolmice v bodě a ku A a poloměr /; /3 se protínají v pólu otáčení o. Střed křivosti
+—) Schoenfliess nazývá tuto přímku osu kollineace příslušnou k normálám ao, bo; viz: Geometrie der Bcwcgung p. 28. Srovnej též A r o n h o l d : Grund-zuge der kincmatisehcn Geometrie p. 147 in Vcrhandlungen děs Vereines zuř Be-íórdcrung děs Gewerbcflcisscs in Prcusscn. Berlin 1872, Jahrgang LI.
+2a) Viz: Bob i 11 i cr: Cours de Geometrie, óclit. XIV. Paris 1870 p. 282. Prvotně v pojednání: Lois géométriqucs du Mouvcmcnt. ﻿24
+dráhy a jest v nekonečnu, tedy náleží a kružnici obratu a bod a' kružnici vra'u, jc-li a o = o a'. Vztyčme v bode $ kolmici ku b ($ a protněme ji kružnicí o poloměru b o v bodě m; tečna v bodě ni protíná b /3 v bodě r,. (nž leží na kružnici obratu, tedy r' na kružnici vratu, je-li r o = o r', Kružnice obratu jest určena body a o r, kružnice vratu body a' o r'. Bod p opíše dráhu, jejíž normála jest p o. Budiž r průsečík této normály s kružnicí obratu, vztyčme v bodě r kolmici ku p o a protněme ji kružnicí o poloměru p o v bodě ^; tečna v bodě (i protíná p o ve středu křivosti n. Přímka a b obaluje křivku, jejíž bod dotyku jest pata kolmice d spuštěné z bodu o; průsečík ď této kolmice s kružnicí vratu jest střed křivosti d této obálky.
+Ve všech předcházejících případech jsme sestrojovali střed křivosti n dráhy, kterou opíše libovolný bod p v tuhé soustavě, pomocí kružnice obratu a užitím chordály neb tečny neb methodou rovnoběžek; jest samozřejmé, že jsme mohli po sestrojení kružnice obratu též jiné z výše uvedených konstrukcí ku př. projektivnou konstrukci s pošinováním atd., čímž bychom dospěli k celé řadě zdánlivě nových konstrukcí.
+Ku předcházejícím výsledkům jsem dospěl samostatně elementární diskussí vzorce pro poloměr křivosti, který jsem odvodil ryze geometricky, bez užití vět o rychlostech a zrychleních, jež jsou kinematické geometrii cizí, a rovněž tak bez užití vět z projektivně geometrie. Shledáváním liicratury jsem ovšem seznal, že podstatně týž výraz se vyskytuje již ednak v pojednání B r e s s c-ově, jednak v pojednání A r o n li o l d-ově a sice v prvním odvozen úvahami o rychlostech a zrychleních, v druhém (až na konci) úvahami o rychlostech a z projektivně geometrie; nebyly však z tohoto výrazu odvozeny všechny důsledky a sice z důvodu, o kterém jsem se dříve zmínil.
+Co se konstrukcí týče, vyskytují se konstrukce, jež jsem označil „užitím tečny a chordály"", u B r e s s e, kdežto konstrukce, jež jsem označil „užitím rovnoběžek"", se vyskytuje u G r u b l e r a; mám však za to, že mé odvození jest mnohem jednodušší než dřívější. Též jsem ukázal, že konstrukce Bressova, Mannheimova, Grublcrova a Bobillierova následují jedna z druhé, a všechny jsem odvodil ryze geometricky a elementárně. Podstata všech těchto konstrukcí jest děliti danou úsečku v předepsaném poměru.
+Kvadratickou příbuznost vyšetřoval ji/- Schoenfliess projektivními úvahami, kdežto mé odvození jest taktéž elementárně; užívám sice k vůli formálnější přesnosti parabolické involuce, příslušný výsledek jest však též patrný ze vzorce R — Q . Odvozených výsledků jsem použil při dvanácti různých pohybech, abych ukázal na jednotnost užitých konstrukcí v nejrůznějších případech; konstrukce jsem popisoval sice jen zběžně, mám však za to, že jsou z obrazců náležitě patrný.
+Provedení tabulek obstaral pan assistent Vladimír Mašek.
+XIX. ﻿M Pel íšek. O poloměru křivosti drah vytvořených   libovolným  pohybem   neproměnné rovinné soustavy a
+T   l.
+Rozpravy České Akademie, Itr, ročník 1910,čís 19. ﻿* ﻿M. Pe líše k   O poloměru křivosti drah vytvořených   libovolným  pohybem   neproměnné rovinné soustavy         T. ""U.
+20
+Rozpravy České Akademie, ITt^ ročník 1910,čís 19. ﻿* ﻿
+M. Pe líše k: O poloměru křivosti drah vytvořených   libovolným  pohybem  neproměnné rovinné soustavy     T.    ffl
+30.
+
+Rozpravy České Akademie, Utř, ročník 1910,čís 19. ﻿
+"

@@ -1,0 +1,940 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ   AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK II.
+TŘÍDA II.
+ČÍSLO  11
+O PROUDU HARMONICKÉM,
+O HYSTERESIS
+A PROUDECH FOUCAULTOVYCH.
+f         t
+PODÁVÁ
+DK- K.  DOMALIP.
+SK li VYOBRAZENÍMI V TEXTU A :« TABULKAMI
+PŘEDLOŽENO DNE J). PROSINCE 189'2.
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ.
+1893. ﻿IISKKM J. OTTY v PKAZK ﻿V prvním pojednání podaném v dubnu akademii vědJ) projednán byl následující jednoduchý případ proudu harmonického: V obvodu proudovém působila vedle vnější harmonicky proměnné síly elektromotorické i vniťřní síla elektromotorická v induktoru stroje na proudy střídavé, vnější vedení však sestávalo toliko z vodičů neinduktivních, tedy z vodičů, ve kterých žádná indukce nevznikala. Chceme v následující stati pojednati o případech, kdy i ve vnějším vedení indukce vzniká, a sice vložíme do vnějšího obvodu proudového:
+1.  pouhou cívku indukční,
+2.  cívku indukční se svazkem isolovaných drátů železných a konečně
+3.  cívku indukční s plným válcem železným.
+Chceme tedy v této stati zkoumati výslední proud, když ve vnějším vedení indukce vzniká. V prvním případě nekoná se touto indukcí žádná práce mimo obvod proudový, kdežto v druhém a třetím případě koná se práce i mimo obvod proudový, kterážto práce tak zvanou hysteresis a Fou Jankovými proudy vzniká, a sice lze očekávati, že v případě druhém převládati bude práce hysteresis a v případě třetím práce, vznikající tak zvanými proudy Foucaultovými. Podmínky pokusové zvoleny co nejjednodušší. Proud cívkou procházející jest harmonicky proměnný a perioda proudu toho se nemění. Tím právě jest tato stať v jakémsi spojení se statí dříve již uveřejněnou, jelikož tam vyšetřeny podmínky, pokud lze vnitřní koeficient induktoru za stálou hodnotu pokládati, a kdy proud ve stroji vznikající jest harmonicky proměnným.
+1. Pouhá cívka indukční.
+Rozměry cívky do vnějšího vedení vložené byly následující. Délka její měřila :>4 cm, průměr vnější l TG cín a vnitřní l)1? cín. Měděný drát, jehož průměr bez obalu isolujícího rovnal se 3 //////, s obalem 3 f> inin^ byl navinut ve
+v         v
+tyfech polohách po !>;> závitech,   tak že celkový počet závitů rovnal se 37 2. np iouto cívkou   procházel proud  ze stroje   na proudy   střídavé,  jeho/   dimense
+v pojednáni dřívějším uvedeny byly. Induktor otáčel se stále stejnou rychlostí v poli magnetickém stále stejné intensity, odpor ve vnějším vedení přiměřeně •^ ménil.
+)   Domalíp:   Theor. a exp. příspěvky   k nauce o strojích elektr.   na proudy střídavé. . Č. akad. 21). dubna 1892.
+l
+XI. ﻿Vedeme-li cívkou indukční proud harmonický, jehož amplitudu označíme /0, vyjádří se proměnná intensita proudu cívkou procházejícího
+(1)                                              z, = /g sin 01 / ,
+271
+kdež  ca = -=- značí nám úhlovou rychlost pohybu  amplitudy, dosadíme-li za
+změnu harmonickou pohyb rovnoměrný v kruhu. Tato rychlost úhlová co jest v případě našem hodnotou stálou, jelikož, jak výše uvedeno, počet obratu in-duktoru a tedy i 7"", t. j. doba jedné periody, jest stálá.
+Rozdíl potentialu, spád elektrický ve svorkách cívky, bude výslednicí dvou spádů a sice spádu i\ , který odporem obvodu proudového vzniká, a spádu í'2 následkem indukce vnitřní síly elektromotorické. Bude tedy
+c.
+n
+L
+
+kdež r odpor cívky a L koeficient indukce této cívky značí Harmonický proud cívkou procházející vyvolává v cívce harmonickou změnu silokřivek, a tím vzniká indukce, jíž síla elektromotorická na této změně jest závislá.
+Jest totiž
+db
+t\
+u
+dt '
+kdež n počet závitů cívky, a b harmonicky  proměnlivý počet silokřivek značí. Jelikož počet silokřivek na intensitě proudu jest závislý, bude
+db   di
+n
+di    dt
+Ve cívce   vsak roste   počet   silokřivek b   s intensitou   v přímém   poměru,
+jest tedy
+db
+n
+di
+r = L
+hodnotou   stálou.   Jelikož při následujících   pokusech  odpor cívky   se nemění, jsou obě hodnoty odpor i koeficient indukce hodnotami stálými. Výslední spád ve svorkách cívky
+// * — 1' J —\— l *-----         1            •""""
+di,
+dt
+Čil
+ili dosadíme-li za /, a    --    příslušné hodnoty z rovnice (l), obdržíme
+d t
+(2) dosadíme-li
+E — r /„ sin oj / -(- L co i0 cos ca / ;
+rt
+a
+L
+o
+• o
+A cos B A sin B
+XI. ﻿lze rovnici (2) vyjádřiti
+E = A sin
+Rovnice tato vyjadřuje, že výslední spád ve svorkách cívky mění se harmonicky. Amplituda této změny
+= \ [('•',)*+(L •»''.)•]  .
+Měna pak spádu výsledního jest vzhledem na měnu skutečného proudu, závity cívky procházejícího, pošinuta o úhel B, jehož hodnota vypočte se z rovnice
+tg^= ^-
+Geometricky lze výsledky tyto zobraziti trojúhelníkem pravoúhlým iobr. 1.), v němž přepona zobrazuje výslední spád ve svorkách cívky a odvěsny oba spády, vznikající odporem a indukcí v cívce. Uhel B značí posinutí měny výsledního spádu vzhledem na spád odporem vzniklý. Induktivní a odporový spád stojí na sobě kolmo, jsou v případě tomto dle běžného výrazu v quadratuře. Délíme-li v rovnici (4) amplitudu výsledního spádu A na amplitudu skutečné intensity, obdržíme výslední odpor cívky R
+L
+
+a
+A
+Oór.l.
+o
+Výslední tento odpor skládá se ze dvou odporu, z odporu skutečného ;-, z tak zvaného odporu ohmového, a z odporu zdánlivého, induktivního, následkem indukce vznikajícího. Oba tyto odpory jsou opět v quadratuře a lze tedy výslední odpor podobným trojúhelníkem pravoúhlým zobraziti, jako výslední spád ve svorkách cívky. Naznačíme-H amplitudu výsledního spádu r0, bude
+e
+o
+o
+a výslední cívkou procházející proud vyjádří se
+o
+sin M t
+Jelikož při pokusech následujících toliko intensita proudu závity cívky procházející se měnila, a odpor cívky se neměnil, jelikož i koeficient vlastní indukce Lt jak výše dovozeno bylo, v případě tomto jest hodnotou stálou, a jelikož induktor stroje stále stejnou rychlostí se otáčel, tedy i w se neměnilo,
+XI. ﻿bude i výslední odpor spirály hodnotou stálou a amplituda výsledního spádu ve svorkách spirály poroste tedy v přímém poměru s amplitudou procházejícího proudu
+*•. = «; V*+(L«)«.
+Kdybychom graficky si zobrazili výslední spád ve svorkách cívky při různé amplitudě proudové, obdržíme přímku, procházející počátkem souřadnic.
+Práce, která se tímto výsledním spádem, touto východní silou elektromotorickou v cívce koná, vypočte se jak známo ze vzorce
+•
+P = ~^± cos B .
+Jelikož amplituda výsledního spádu, jak právě dovozeno bylo, jest v přímém poměru s amplitudou proudu, tedy r0 =L/„ , kdež /• konstantu značí, a jelikož úhel B v případě tomto jest hodnotou stálou, seznáme, že práce elektrická v cívce vykonaná bude přímoúměrná se čtvercem intensity cívkou procházejícího proudu.
+Práce elektrická výsledního spádu rovná se součtu prací, která se koná ve spádu elektrickém, vznikajícím odporem cívky, a ve spádu, vznikajícím indukcí. Bude tedy
+p —   e lo  --.< p__ r*o    j_ ^ w lo   nr.c cw i«
+r — —g— cos ti — —-------1--------— cos v»u ,
+z čehož
+,'   2
+/1                      O                   /•>                     O
+/J==_o_cos/> = -J-.
+Veškerá práce elektrická, která se v cívce koná, přechází tedy v energii tepla v závitech cívky. Vnitřní indukcí v případě tomto žádná práce se nezíská, aniž se jaká spotřebuje, v určité fási energie elektrická se utajuje a táž energie se v následující fási opět uvolňuje.
+Výsledky experimentální.
+Cívkou, jíž dimense nahoře byly uvedeny, procházel proud harmonický ze stroje na proudy střídavé. Induktor stroje konal 1290 obratů za minutu. Jelikož magnetické pole ze čtyř pólů se skládalo, byl počet period za minutu dvojnásobný. Intensita proudu magnetisujícího = T45 A a tato intensita, jakož i počet obratů udržován, jak již uvedeno, stále v téže míře.
+Pomocí wattmctru měřena práce elektrická v cívce, a dynamometrem měřena intensita procházejícího proudu. Spád elektrický ve svorkách cívky nemohl býti měřen, jelikož voltmetr Cardewův, jehož ku měření spádu se mohlo užiti, od 20 volt měřitelné odchylky jevil, a spád elektrický celkový v prvých pokusech pod touto nejnižší mírou se pohyboval.
+XI. ﻿Následující  tabulka obsahuje   některé   hodnoty   měřené   a jiné  z   těchto hodnot vypočtené.
+	t""s	W	r-r//	diff.	r
+	6-03	11-81	11-99	+ 0-18	0-325
+	8-31	23-2	22-5	— 07	0-336
+	11-98	47-47	46-8	— 0-67	0-331
+	14-31	67-53	66-8	— 0-73	o-aso
+	18-34	103-4	109-5	-f 6-1	0-308
+	22-7	172	180	+ 8	0-332
+					
+Ve sloupci i's nachází se čtvercová střední hodnota intensity proudu har monického, jak známo
+/' —    '
+l s ----   -z
+kdež i o amplitudu proudu značí. Ve sloupci W obsažena jest práce wattmetrem měřená a v jednotkách wattových vyjádřená. Ve sloupci T vypočtena jest energie tepla, která se v cívce procházejícím proudem vyvinuje, jest to tedy práce, která se v závitech cívky koná. Práce tato vypočte se ze vzorce
+7""*                  '/   Q
+= r *V i
+kdež ;- skutečný odpor cívky značí. Odpor tento shledán
+r = 0-326 Si .
+Vedlejší sloupec obsahuje rozdíly mezi prací měřenou wattmetrem a mezi oteplením, které proudem v cívce se jeví. Z hodnot těchto jde na jevo, že aequivalent veškeré práce elektrické, která se v cívce koná, jest teplo dle zákona Joulova vypočtené. Vnitřní indukcí tedy žádná práce se nekoná, jak nahoře v rozboru theoretickém dovozeno bylo.
+Práce wattmetrem měřená vyjádří se
+W=
+o 'o
+cos B ,
+kdež e0 amplitudu síly elektromotorické a /0 amplitudu skutečného proudu /nací. Úhel B měří rozdíl měny síly elektromotorické a skutečného proudu. Dosadíme-li do předešlého vzorce střední hodnoty čtvercové
+o
+obdržíme
+V2
+a
+s
+__
+V5
+W = e's i's cos B .
+Dělíme-li výraz tento na /'s2, obdržíme skutečný odpor
+e's cos B
+XI. ﻿8
+Dělíme-li tedy práci, wattmetrem měřenou, na čtverec intensity měřené dynamometrem, obdržíme skutečný odpor obvodu proudového. Takto vypočtený odpor jest ve sloupci ;- zaznamenán. Srovnáme-li hodnoty tyto vypočtené s odporem měřeným, seznáme, že dobře se shodují. Shoda tato novým jest důkazem, že veškerá práce v cívce konaná v teplo přechází, která dle Joulova zákona ve vodiči se vyvinuje, a tedy v přímém poměru se čtvercem intensity procházejícího proudu se nachází.
+2. Cívka indukční s jádrem železným.
+Následující pokusy týkají se případů, kdy do cívky uvedené vložen byl 1. svazek drátů železných pečlivě isolovaných, 2. plný válec železný.
+Délka svazku drátů měřila 39'7 cm, průměr 7' l cm, váha celého svazku drátů = 7290 gr. Délka jádra železného měřila 39'25 cm a průměr 7'8 cm.
+Při pokusech těchto hleděno opět k tomu, aby induktor stroje stále stejnoměrnou rychlostí se otáčel, a sice konal 1290 obratů za minutu, perioda proudu harmonického byla tedy stále stejnou. Mimo to pohyboval se induktor v stále stejně intensivněni poli magnetickém. Intensita proudu cívkou procházející měněna byla přiměřenou změnou neinduktivního odporu ve vnějším vedení. Abychom co možná jednoduchých výsledků se dodělali, měněna intensita proudu v mezích takových, ve kterých intensita magnetická s intensitou proudovou v přímém poměru se nachází. Za tou příčinou bylo třeba meze tyto vyšetřiti.
+Měřeni magnetometrické.
+Provedena řada pokusů magnetometrických, l) z nichž určen moment magnetický pouhé cívky, cívky se svazkem drátů železných a s plným jádrem železným při různé magnetomotorické síle.
+Momenty magnetické měřeny způsobem známým. Cívka, po případě cívka se svazkem drátů neb s plným jádrem železným, položena do polohy, ve které prodloužený směr cívky kolmě stál na směru magnetky, kteráž magnetickým působením cívky z původní polohy se odklonila.
+Magnetický moment vypočte se tu, jak známo, značí-li « úhel, o který magnetka vlivem cívky ze své původní polohy se odkloní, ze vzorce
+kdež r vzdálenost cívky od magnetky a H horizontální složku zemského magnetu značí. Horizontální složka tato měřena byla na místě, na kterém pokusy provedeny byly, a shledána //=0'200.
+Proud do cívky veden byl ze stroje dynamoelektrického na proudy stejnosměrné. Intensita proudu tohoto měřena Thomsonovým ampěremetrem. Vzdálenost cívky od magnetky r-= 11 4 CM. Měření a výpočty vykonány v jednotkách kongressem pařížským přijatých.
+') Pokus)- tyto provedl assistent elektrot.  ústavu pan Karel Novák
+XI. ﻿V následující tabulce seřadény jsou pokusy s pouhou cívkou
+• l 1	(i	Me	Mt	M't
+7-88	2-5	2'ÍOOO	2G1 10	28460
+10-2-2	3-8	mm	33H<ÍO	304'K)
+13-07	4-2	Hwj8tí	4í«10	3Hy;-»
+17-08	5-5	50725	56<iOO	ÓOHfiO
+18-96	6	55370	(>2ÍKX)	5(i5:»
+21 -1J	7	64683	72570	65220
+				
+Sloupec prvý obsahuje intensitu cívkou procházejícího proudu. Sloupec druhý a obsahuje odchylky magnetky cívkou. Sloupec J/< obsahuje momenty magnetické experimentálně nalezené a z odchylky «• vypočtené dle vzorce svrchu uvedeného.
+Moment magnetický cívky lze přibližné, jak známo, vypočítati dle vzorce
+n
+kdež b poloměr středního závitu cívky a n počet závitu značí. V případě našem rovná se b = 5*325 cm a n = 372 .
+Intensita proudu / vyjádří se v jednotkách ampérových. Vypočteme-li podle tohoto vzorce momenty magnetické a sneseme do sloupce Mt , seznáme, že jsou vesměs větší hodnot experimentálně nalezených, což však s theoretickými vývody úplně se shoduje. Dle svrchu uvedeného vzorce vypočtený moment jest moment maximální, který uprostřed cívky se nachází, odtud po obou stranách ubývá. Vypočteme-li momenty magnetické pro různé body od středu cívky ku jejím koncům a výsledky ty graficky naneseme, a vyšetříme-li hodnotu střední, seznáme, že by tu třeba bylo max. moment ve středu cívky násobiti koeficientem = O8987, abychom střední hodnotu momentu magnetického cívky obdrželi.
+Násobíme-li tímto koeficientem vypočtené momenty magnetické, obdržíme hodnoty, které se s experimentálními hodnotami velmi dobře shodují. Hodnoty momentu magnetického dle vzorce
+o
+vypočtené sneseny jsou ve sloupci M' t •
+Následující tabulka obsahuje pokusy, konané se svazkem pečlivě isolovaných drátů železných. Rozměry svazku jsou nahoře udány. Vypočteme-li z rozměrů těchto objem svazku, obdržíme 1 527'06 r;//3. Vypočteme-li objem
+XI. ﻿10
+svazku z čisté váhy drátů, prostých obalu isolujícího, obdržíme l()125^/«3, při čemž hutnost železa vzata — ?'(>.
+	• 1	«	M	M'	y   i   r		
+	8-25	25-7	253635	228000	166-1	250-5	
+	1O88	32-5	3:55615	H02400	219-8	324-1	
+	13-87	89	4-26600	3S7200	279-3	421-5	
+	20-73	49-7	6-21200	563200	406-8	613-8	
+	23-36	52-5	686500	616000	449-6	67S-4	
+	27-01	54-5	738550	6(52400	483-6	729-8	
+							
+V tabulce této obsahuje opět sloupec / intensity magnetisujícího proudu, « odchylky magnetky a M z těchto odchylek vypočtené momenty magnetické. Takto vypočtené momenty jsou výsledními momenty cívky a svazku drátů železných. Abychom určili momenty pouhého svazku drátů, k tomu cíli byly momenty spirály, v předešlé tabulce snesené, graficky zobrazeny. Z diagramu tohoto určen moment magnetický pouhé cívky při dané intensitě cívkou procházejícího proudu a odečten od výsledního momentu magnetického cívky se svazkem drátů železných, z čehož obdržíme magnetický moment pouhého svazku železných drátů. Tyto momenty pouhého svazku zařaděny jsou ve sloupci M'.
+Následující sloupce J a J' obsahují tak zvané intensity magnetické; magnetické momenty jednotky objemové, a sice obsahuje J intensitu magnetickou pro jednotku objemovou, vypočtenou z rozměrů svazku, a J' obsahuje intensity magnetické pro jednotku objemovou vypočtenou z čisté váhy svazku drátů.
+V následující tabulce sneseny jsou opětně výsledky pokusů s plným jádrem železným.
+• l	«	M  \	M' .	7
+8-25	27-9	278920	252000	150-9
+10-98	a5	368875	332800	199-6
+14-02	42	474244	428000	256-6
+21-32 -	53-7	717200	656000	ÍÍ88-02
+24O9	56-3	789900	724000	427-4
+27-74	58	843060	768000	456-1
+				
+V  tabulce  této   opět  sloupec  i obsahuje  intensity  proudu,   n  odchylky magnetky, M z odchylky této vypočtený společný moment magnetický cívky
+XI. ﻿11
+i jádra železného. M' pak obsahuje momenty pouhého jádra železného, vypočtené způsobem svrchu vytknutým. Sloupec J obsahuje intensitu magnetickou, vypočtenou pro jednotku objemovou. Objem vypočtený z rozměrů tyče rovnal se = 1848-3 cm*.
+Výsledky tyto experimentální, v předcházejících tabulkách snesené, zobrazeny jsou i graficky v přiloženém diagramu (tab. L). Na osu X naneseny jsou intensity cívkou procházejícího proudu a na osu Y příslušné momenty, a sice v měřítku v diagramu naznačeném.
+Křivka J/j zobrazuje momenty magnetické pouhé cívky. Křivka J/2 zobrazuje výslední momenty magnetické spirály a jádra železného, křivka J/'2 momenty magnetické pouhého jádra železného. Křivka J/3 zobrazuje opětně výslední momenty magnetické cívky se svazkem drátů železných a křivka J/'3 momenty magnetické pouhého svazku železného.
+Z grafického tohoto zobrazení jakož i z hodnot v tabulkách snesených jde na jevo, že momenty magnetické pouhé cívky rostou přírnoúmérnč s intensitou procházejícího proudu. Největší intensita procházejícího proudu dostoupla hodnoty 27 ampěrů. Prohlédúme-li ku křivkám, které zobrazují momenty magnetické cívky se svazkem drátů železných neb ku cívce s plným jádrem železným, seznáme, že při pokusech těchto překročena byla mez, až po kterou moment magnetický roste v přímém poměru s intensitou proudu magnetisujícího.
+Z průběhu těchto křivek lze bezpečně vyvoditi, že momenty magnetické \ těchto případech rostou v přímém poměru s intensitou magnetisujícího proudu, nepřekročí-li hodnotu 20 amp. jednotek. Jelikož při pokusech ani tato míra dovršena nebyla, lze v následujících vývodech theoretických předpokládati, že moment magnetický a tím i počet silokřivek v přímém poměru roste s intensitou procházejícího proudu. Můžeme tedy při pokusech následujících předpokládati, že tak zvaný koeficient vlastní indukce jest hodnotou stálou jako při pokusech s pouhou cívkou.
+Provedeme-li podobnou řadu pokusu s cívkou se svazkem drátů železných a s cívkou s plným železem, můžeme zvoliti ty samé podmínky elektrické, jaké jsme při pokusech s pouhou cívkou předpokládali. Vedeme-li cívkou proud harmonický stále stejné periody, a sice v mezích, ve kterých koeficient vlastní indukce lze pokládati za stálý v obou případech, nebudou přece úkazy v obou případech stejné, jelikož při pokusech s pouhou cívkou magnetické pole periodicky se mění v prostředí vzduchovém, kdežto v případě druhém mění se magnetické pole v prostředí, které vyplněno jest dráty železnými neb plným jádrem železným. Magnetické silokřivky probíhají v případě prvém prostředím vzduchovým, kdežto v případě druhém prostředím, které se zaměňuje změnou magnetického pole.
+Při magnetování molekuly železa dle Webra určitým směrem se uspořádají. Jelikož střídavým proudem magnetování periodicky se mění, bude i změna molekul periodicky se měniti. Tato periodická změna polohy molekul pevného tělesa, spotřebuje určitou část energie proudové, jelikož se určitá síla, kterou molekuly ve své poloze setrvávají, překonává. Proud tedy koná práci nejen
+•
+XI. ﻿
+12
+v obvodu proudovém, ale i mimo obvod tento, a tím hlavně liší se případ tento od případu předcházejícího, — pouhé cívky — ve kterém energie elektrická toliko v obvodu proudovém se spotřebovala.
+Zobrazímc-li si momenty magnetické tyče železné při stoupající a klesající intensitě proudové, nekryjí se, jak známo, křivky, momenty magnetické zobrazující, při intensitě stoupající s momenty magnetickými při intensitě sestupné, jak Warburg1) nejprve dovodil. Hodnoty magnetické při sestupující intensitě magnetické jsou vyšší hodnot při intensitě vzestupné. Magnetický stav železa není tedy určen pouhou intensitou proudu magnetisujícího, ale třeba tu také znáti stav předcházející, zdali měnou tou magnetismu ubylo či přibylo.
+Momenty magnetické při periodické měně magnetisujícího proudu zobrazeny jsou křivkou uzavřenou, jíž plocha měří práci, která se spotřebuje ku změně magnetické v železe. Prof. Ewing nazval tento úkaz hysteresis.
+Naneseme-li na osu A' periodickou změnu magnetisujícího proudu, a na osu Y příslušné momenty magnetické, obdržíme dle pokusů Ewinga křivku v obr. ""2. naznačenou.
+Zobrazíme-li si  případ   tento tím   způsobem,   že na osu X naneseme čas a na osu Y periodickou změnu síly magnetisující, jakož i periodickou změnu magnetickou tím vzniklou, obdržíme dvě křivky (obr. 3.).   Křivka plná značí nám   periodicky proměnnou intensitu proudu magnetisujícího, kdežto  druhá   křivka   slabší   zobrazuje   periodickou změnu magnetickou v železe.   Srov-náme-li křivky tyto, seznáme, že křivka znázorňující periodickou změnu momentů magnetických,   jest   pošinuta   vzhledem   na   měnu                          *'J proudu   magnetisujícího.    Momenty  magnetické   opozdí  se   vzhledem   na   sílu magnetisující.
+Kdyby molekuly železa žádného odporu síle magnetisující nekladly, nebylo
+v
+by žádného opoždění mezi stavem magnetickým a silou magnetisující Čím pak jest síla, udržující molekuly železa v původní poloze, větší, tím větší bude i opoždění momentu magnetického. Prochází-li závity cívky periodicky proměnný proud, bude proud tento překonávati sílu, která molekuly v původním stavu udržuje, tím pošine se měna stavu magnetického a proud elektrický koná práci v prostředí železa, tedy mimo obvod proudový.
+Vedle této práce hysteresis vzniklé koná proud ten i práci, která takzvanými proudy Foucaultovými vzniká. Periodickou změnou proudovou v závitech cívky vzniknou periodické proudy indukované v železe, co vodiči elektrickém. Těmito proudy indukovanými ztrácí původní proud část své energie a měna jeho se opozdí.
+') Warburg. Wiecl. Ann. r. 18H1. p. Úl
+XI ﻿13
+Zvolili jsme konati řadu pokusů se svazkem pečlivě isolovaných drátů železných, ve kterých dalo se očekávati, že Foucaultové proudy jen podřízený vliv nastav magnetický míti budou, a s jádrem plným, ve kterém opět účinek hysteresis vzniklý zatlačen bude účinky proudů Foucaultových.
+Rozbor theoretický.
+Vedeme-li cívkou, v níž se nachází svazek drátů železných neb plné jádro, proud harmonický, jehož amplitudu vyjádříme /0 a jehož intensitu proměnnou /',, bude proud cívkou procházející vyjádřen rovnicí
+(1)                                                 /', — /0 sin w/ ,
+271
+když   opětně   « = ——   značí   úhlovou   rychlost   amplitudy,   dosadíme-li   za
+změnu harmonickou pohyb rovnoměrný v kruhu. Tato rychlost úhlová jest v tomto případě, jak v případě předešlém s pouhou cívkou hodnotou stálou, jelikož počet obratů induktoru, tedy i doba periody T \ stejné míře se udržovala. Rozdíl potenciálu čili elektrický spád ve svorkách spirály bude opět výslednicí spádu L\ , který odporem obvodu proudového vzniká, a spádu t\ následkem indukce vnitřní síly elektromotorické. Bude tedy
+r i
+zračí-li r odpor elektrický cívky a
+db
+n   —
+dt
+značí-li ;/ počet závitů cívky, a /; period, proměnlivý   počet silokřivek.   Jelikož počet silokřivek na intensitě proudu závity procházejícího jest závislý, bude
+__      db    di
+^=n ~~dí ~ďT '
+V předchozích pokusech vyšetřeny meze, ve kterých počet silokřivek a intensita proudu jsou přímoúměrné, a v těchto mezích také následující pokusy konány byly, lze tedy
+db
+n
+di
+a Ll  považovati za hodnotu stálou, bude tedy
+ť« ~ LI  dt   '
+Následkem hysteresis však, jak v předcházejícím odstavci šíře dovozeno, (>pozdí se magnetismus čili počet silokřivek vzhledem na intensitu magnetisující, a jelikož síla elektromotorická vnitřní na změně počtu silokřivek jest závislá, opozdí se i síla elektromotorická vnitřní vzhledem na procházející proud, i lze toto opoždění vyznačiti symbolem, jak již Ferraris1) učinil
+_    ť/lj  /       ^\
+('a   ——  -f->\        j  ,          *                           >
+dt   \         (o J
+•
+') Ferraris Mém. della Reále. Acc. d. Se. d. Torino. Ser. II. T. ito.  1887.
+XI. ﻿14
+kdež d značí úhel, o který měna pole magnetického, vzhledem na intensitu proudu magnetisujícího jest pošinuta,----značí tedy dobu, o kterou pole magnetické vzhledem na sílu magnetisující jest opožděno.
+Výslední spád elektrický ve svorkách cívky bude tedy
+/2)                                    *•-_____•    i    r    ^l\
+jelikož
+i. fO
+.   -\
+l  = Z, (•» /0 /
+COS (co / -
+bude
+Jí — /•/„ sin to / -j- Aj o /0 cos (w / — ti i ,
+čili
+E — (ri'0 -f- Aj (o i0 sin (V) sin (•> / -(- A, w /0 cos <Y cos w / ;
+dosadíme-li
+- ?0 -f- Z, w 7*0 sin d =. A cos
+j co /0 cos (V z= ^ sin B ,
+lze vyjádřiti výslední spád elektrický ve svorkách cívky
+(3)
+— A sin (w
+Rovnice tato značí, že výslední spád elektrický jest harmonicky proměnný, jehož amplituda se určí rovnicí
+2 ""i A »'o «
+jehož   měna   však jest vzhledem   na  skutečný   proud,   čili   na   spád   odporem vzniklý, o úhel B pošinuta, a jehož hodnota opět se určí z rovnice
+/,, to cos Ó '
+a
+r-\-Ll(a sin á
+Výslední tento spád elektrický lze zobraziti stranou (bc) v trojúhelníku (abc) (obr. 4.), jehož strana ab = ;-/0 skutečnému spádu odporovému ; ač = /., o>/0 spádu následkem vnitřní indukce. Spády tyto nejsou v quadratuře, jak jsme shledali při pouhé cívce. Kolmice / bodu u) na prodlouženou stranu (ab) spuštěná svírá se stranou (ač] úhel (V, který stanoví opoždění měny pole
+.
+magnetického a intensity proudu magnetisujícího. Strany (cb) a (ab) svírají úhel B, který opět měří rozdíl měny mezi výsledním spádem a spádem, který odporem proudovým vzniká.
+
+XI. ﻿15
+Z obrazce toho jde dále
+b d =
+0
+Ll co t0 sin d ,
+cd — Z, w?'0 cos
+Spád odporový zvětší se tedy o Z,, co i0 sin d,  kdežto spád následkem indukce se zmenší a sice v poměru__^ A . Dělíme-li amplitudu výsledního spádu
+cos
+na amplitudu skutečné intensity proudové, obdržíme výslední odpor R.
+(4)
+z rovnice této jde na jevo, že lze výslední odpor zobraziti v trojúhelníku, který jest podobný trojúhelníku, ve kterém výslední spád zobrazen byl (obr. 5.).
+l}l c^ = R výslednímu odporu. Výslední tento odpor skládá se opět, jako ve případě cívky pouhé, z odporu skutečného :
+b^dv = t -\- Ll co sin d , a / odporu zdánlivého:
+= W/,, cos ti ;
+oba tyto odpory jsou v quadratuře. Překonáváním zdánlivého odporu c^ d\ žádná práce se nekoná, energie elektrická se tu utajuje a opět v příhodné době uvolňuje. — Překonáváním skutečného odporu /;, dl koná se práce. Odpor tento skládá se z r , t. j. z elektrického odporu obvodu proudového, tedy z odporu ohmového a z odporu Z^wsintf, který mimo obvod proudový v poli
+magnetickém vzniká. Zdánlivý odpor zmenší se v poměru - — Nachází-li se
+cosó.
+i
+tedy v magnetickém poli cívky železo, koná periodický proud cívkou procházející práci nejen v obvodu proudovém, ale i mimo obvod tento. Skutečný odpor zvětší se tu o odpor mimo obvod proudový a roste rozdílem měny stavu magnetického a síly magnetisující, kdežto odpor zdánlivý se zmenší a ubývá rostoucím rozdílem měny stavu magnetického a síly magnetisující. Dosadíme-li za skutečný odpor o a za zdánlivý /M, obdržíme
+u = r-4- Z,, M sin ď
+*                         I
+cos
+f>značírne-li amplitudu výsledního spádu
+A = í'0 lze skutečný proud závity cívky procházející vyjádřiti
+Ve""+""(«')*
+sn
+XI. ﻿1G
+Z rovnice této najdeme amplitudu skutečného proudu
+o
+o
+z čehož opět plyne
+V o2 + (»/)
+=   P« + (*/)• = A'
+o
+výslední odpor cívky. Jak již uvedeno, jest ohmový odpor cívky ;- hodnotou stálou, <•> udržuje se stále ve stejné míře a intensita proudu cívkou procházejícího udržuje se v mezích, ve kterých dle vyšetřených případů i A, lze za hodnotu stálou pokládati, bude tedy i celkový odpor spirály
+R = V c-
+hodnotou stálou, jestliže 8 rozdíl  měny magnetickým stavem prostředí a intensitou   proudu  cívkou   procházejícího   se nezmění.   Jak   z pokusu   následujících
+seznáme  není   poměr
+čili celkový odpor R hodnotou stálou, ale mění se
+s intensitou proudu.   Celkový spád   ve svorkách   cívky jest  tody   na intensitě závislý a závislost tuto lze vyjádřiti vztahem
+/'--    Ml
+to          'o
+kdež a a /? konstanty značí. Připomínáme, že tato závislost vyjadřuje jen přibližný vztah, jen v mezích intensit v našem pokuse uvedených. Pro intensity nad a pod touto mezí se nacházející závislost tato pozbývá svého významu. Kdybychom přesněji chtěli vyznačiti závislost tuto, hledíce hlavně k intensitám pod mez dolení, bylo by spíše na místě vyjádřiti křivkou k ose X vydutou. Přibližná však závislost, svrchu dovozená, stačí nám k důsledkům, které hodláme v následujícím ze vzájemnosti této vyvoditi.
+Práce elektrická výsledního spádu v cívce konaná rovná se součtu prací, které se konají spádem elektrickým, vznikajícím odporem cívky a spádem vznikajícím vnitřní indukcí. Bude tedy dle obr. 4.
+•  Q                   r      • ti
+€      l                                  )'n  ín                 (*)   JL,       Z
+(6)                              o° cos B = —-------1-------* °   sin d .
+L   l                                                                ^^t                                             /\j
+Srovnáme-li výraz práce v případě tomto s výrazem práce elektrické, konané v pouhé cívce, seznáme, že v případě tomto práce vnitřní indukce nerovná se nulle, jako při pouhé cívce, ale rná určitou na ti závislou hodnotu. Celá práce v cívce konaná skládá se tedy ze dvou částí. Z práce, která se jeví oteplením drátů cívky, tedy z práce v obvodu proudovém konané, a z práce, která mimo obvod proudový v poli magnetickém se vykonává a hysteresis neb Foucaultovými proudy vzniká. - Z rovnice předcházející jde
+__JLJL cos B _      «_ _
+kdež H práci mimo obvod proudový značí. Práci tuto vypočteme, když od celé práce elektrické v cívce Spotřebované odečteme teplo, které skutečným proudem v cívce vzniká.
+XI ﻿17
+Rovnici (6) lze napsati také ve formě
+'2
+.7)
+±-Q- cos B = -~- (r-\- oo Lt sin ó
+i 2 O
+n
+Práci elektrickou jak v cívce tak i mimo obvod proudový lze tedy vypočítati dle zákona Joulova, zvětšíme-li odpor ohmový o odpor aequivalentní, v magnetickém poli vznikající. Ze vzorce
+o = r-\- LI w sin ti jde
+Q — r = LI M sin ó = Ji .
+Odečtemc-li od (> odpor ohmový, obdržíme odpor mimo obvod proudový, který měří práci hysteresis vzniklou. Vypočte se tedy práce hysteresis vzniklá ze vzorce
+77 =///'.«.
+Pokusy se svazkem drátu železných.
+Do cívky veden harmonický proud různé intensity ze stroje na proudy střídavé. Induktor konal opět za minutu 1290 obratu a rychlost' ta udržována stále ve stejné míře, tak že perioda proudu harmonického byla hodnotou stálou. Intensita proudu elektromagnety stroje procházejícího = l '45 A a v téže míře stále byla udržována. Celkový spád ve svorkách měřen Cardewovým voltmetrem, intensita dynamometrem a práce v cívce wattmetrem. Následující tabulka obsahuje některé hodnoty měřené a jiné z hodnot těchto vypočtené.
+	L.	«"".	W	T	H	B	E	S	R	9	h	
+	51-5	2-647	12-37	2O1	10-36	84°47'	51-43	4°22'	19-5	1-76	1-47	
+	71	4-44	24-47	5-(>< ;	18-81	85°32'	70-91	•>(V>y «j _ <j	15-;i	1-56	1-27	
+	81-5	5-73	3G-7	9-43	27-28	85°30'	81-38	3°22'	14-2	1-12	0-83	
+	87-5	6-4	43-46	1 1 -75	31-71	85° 82'	87-98	3°15'	13-7	L«06	0-77	
+	93	6-94	4ÍJ-3	13-83	35-47	86*87'	92-S7	3°10'	13-4	1-02	O73	
+	97	7-47	52-75	10-03	36-72	84° 44'	116-81	2""54% i*	13	O945	0.66	
+	101-5	7-98	59-08	18-25)	10-79	85°50'	101-8	2°53'5	12-7	0-928	0-64	
+	106*5	s-:><;	65--1 J	21-06	-14-35	86*64'	106-3	2*47'	liM	0-81) 1	0-61	
+												
+První tři sloupce této tabulky obsahují měřené, a sice sloupec .1's celkový spad elektrický (střední čtvercovou hodnotu) ve svorkách cívky v jednotkách voltových; ve sloupci /', opět střední hodnoty čtvercové intensity cívkou procházejícího proudu, ve w práci ve svorkách vyjádřenou v jednotkách wattových.
+tni sloupce  obsahují hodnoty  z pokusu  těchto  vypočtené.   Ve sloupci T
+Rozpravy. RoCn   II. Tř. II. Č. 11.
+XI.
+ ﻿18
+vypočtena energie   elektrická,  která odporem ohmovým   v cívce   v teplo pře chází, a sice v jednotkách wattových.
+' a
+s    »
+kdež odpor cívky r=0'287.1) Ve sloupci H vypočtena jest práce mimo obvod proudový v magnetickém poli konaná.
+Dle rozboru theoretického předem uvedeného vypočte se práce mimo obvod proudový konaná, odečteme-li energii elektrickou, která v obvodě proudovém v teplo přechází, od celé energie, která ve svorkách cívky se spotřebuje
+Sloupec B obsahuje úhel, kterým výslední spád liší se od měny skutečné cívkou procházejícího proudu. Jelikož
+0   ° cos B = i's J's cos B = w ,
+2
+kdež /'., a J's měřené intensity a výsledné spády značí, a w měřenou spotřebovanou energii ve svorkách cívky, lze tento rozdíl měny vypočítati ze vzorce
+cos
+w
+^ •
+Sloupec E' obsahuje spády elektrické, které následkem vnitřní síly elektromotorické, tedy následkem vnitřní indukce vznikají.
+V trojúhelníku (obr. 4.) vyznačen jest tento spád přímkou ač, kdežto strana bc zobrazuje celý spád ve svorkách cívky měřený voltmetrem Cardewa a strana ab zobrazuje spád odporový. Jelikož úhel B v trojúhelníku tomto jest znám, lze h' vypočítati. Z hodnot těchto seznáme, že jen nepatrně se liší od hodnot spádu celkového, jelikož spád následkem malého odporu ohmového jest malý. Sloupec d obsahuje hodnoty úhlů, které měří rozdíl měny stavu magnetického a síly magnetisující, a který vzniká tím, že v poli magnetickém tedy mimo obvod proudový práce se koná. Uhel tento stanoví opoždění stavu magnetického vzhledem na sílu magnetisující. Tento úhel doplňuje se s úhlem, který měří rozdíl měny vnitřní síly elektromotorické a skutečného proudu závity cívky procházejícího na ÍM)°. Práce, kterou vnitřní síla elektromotorická koná, vypočte se ze v/orcc
+./'/', sin* = //.
+kdež // práci  mimo obvod konanou značí, z čehož
+sin A =
+Ji',
+') V pokusech dřívějších shledán odpor cívky /-.= CKi'2<;, tedy odpor vétSí následkem oteplení pfi pokusech předcházejících hlavně s plným válcem  železným.
+M ﻿19
+Sloupec R obsahuje celkový odpor v cívce, který z odporu skutečného ,1 z odporu zdánlivého se skládá. Odpory tyto vypočteme, dělíme-li amplitudu celého spádu na amplitudu skutečného proudu, který závity cívky prochází, jak v dřívějším rozboru theoretickém uvedeno bylo
+—*- = ""° = \ou-H/w)a = A' i's         Í0         °  ""•
+Sloupec o obsahuje skutečný odpor, který opět A odporu ohmového a z odporu mimo obvod proudový se skládá. Jak již v rozboru theoretickém dovozeno, lze celou práci mezi svorkami cívky konanou vyjádřiti
+•                                              '   t}
+/)                      O                          ''   <2
+cos /» = />   2    = p J f« ,
+w
+O 'O
+2
+kdež (>, jak výše dovozeno, ze dvou sčítanců z odporu ohmového cívky a z odporu mimo obvod proudový se skládá, vypočte se tedy n ze vzorce
+w
+tedy z hodnot pokusem nalezených. Odečteme-li od těchto hodnot ohmový odpor závitů cívky, obdržíme aequivalentní odpor za j>ráci, která se mimo obvod proudový koná /i.
+Jelikož pokusy právě uvedené provedeny byly za podmínek, které jsme předem při svrchu uvedeném rozboru theoretickém položili, t. j. proud, který do cívky vedeme, mění se harmonicky a perioda jeho jest stálá a procházející intensita proudu nachází se v mezích, ve kterých, jak z pokusů dovozeno, moment magnetický přímo úměrný jest s proudem magnetisujícím, tedy i Lt constantní, lze výsledky theoretické s výsledky experimentálními srovnati. Na-neseme-li na osu .V měřené intensity /'.Y a na osy l' měřené celkové spády J't a spojíme-li body takto obdržené mezi sebou, obdržíme přibližně přímku, která počátečným bodem souřadnic neprochází (viz diagr. tab. II. a\ Jelikož poměr ordinátu k abscisse měří celkový odpor, jest zřejmo, že odpor tento není stálý. Rovnice onu přímku přibližně vyjadřující jest
+/'   — ((-> ,'     i   90
+^j ^ ----   ť^*j        *r v |
+kterážto závislost při svrchu uvedeném rozboru theoretickém se předpokládala. Celkové odpory vypočteme tedy ze vzorce
+rovnice této jde, že odpory celkové s rostoucí intensitou ubývají, což s hodnotami v tabulce předcházející ve sloupci /v snesenými se shoduje. — Přihléd-neme-li ke vzorci, který jsme v theoretickém rozboru pro celkový odpor stanovili
+A' -= V|;'--f (/.,<
+!>/- L, M sin it\  ,
+a uvážíme-li, že ;- ohmový odpor a w úhlová rychlost periodické měny při pokusech se neměnily a A, na /ákladě měření s proudem stejnosměrným za st;il<>u hodnotu možno pokládati, \/.c si uln'vání celkového tohoto odporu vysvě-«iti ubý\-áním A. Rostoucí intensitou ul>ývá rozdílu měny mezi magnetistljfd
+XI ﻿20
+silou a magnetickým stavem, kterýmžto rozdílem právě práce v poli magnetickém se koná. Sloupec ti obsahuje hodnoty, které dostatečně ubývání této hodnoty dokazují.
+V předcházejícím rozboru theoretickém jsme seznali
+// = Q — r = LI co sin ti ,
+jestliže <V ubývá s rostoucí intensitou, ubývá také aequival. odpor mimo obvod proudový; a sice ubývá odpor tento při rostoucí intensitě z počátku rychleji, později volněji. Stoupne-li intensita proudu od2'(U7.J na <S'5(5.J, klesl aequi-valentní odpor mimo obvod proudový z l -475 íí na O'b'07 íí, tedy celkem o 5S°/0. Jelikož práce mimo obvod proudový vyjádří se
+a jelikož //   s rostoucí intensitou ubývá,   neporoste   práce  mimo   obvod proudový přímoúměrně se čtvercem intensity, ale poroste volněji.
+Jak známo, stanovil Steinmetz l) empirický vzorec pro stanovení hysteresis a shledal, že experimentální výsledky velmi dobře se vzorcem
+se shodují, kdež B maximální počet silokřivek průřezem jádra procházející a •/. konstantu značí. Volnější vzrůstání hysteresis vyjádřil tedy Steinmetz mocnitelem 1(>.
+Chceme srovnati experimentální vzorec s theoretickými vývody. Práce, která se mimo obvod proudový, zde tedy hysteresis, koná, rovná se práci, kterou vnitřní síla elektromotorická, následkem vnitřní indukce vzniklá, koná.
+Pokusy svrchu uvedenými seznáme, že vnitřní sílu elektromotorickou lze vyjádřiti rovnicí
+E' — «! / '
+kdež «, a ^ značí konstanty, které však od konstant « a /? lišiti se valně nebudou, jelikož i hodnoty J's a E\ jak z tabulky jde, jen nepatrně se liší. Dle obrazce 4. vypočte se tedy práce této síly elektromotorické ze vzorce
+tedy
+Jelikož i fí jest na intensitě závislo. nelze tedy jednoduchý vzorec pro práci hysteresis vzniklou stanoviti. Ze vzorce toho však přece lze souditi, že práce tato volněji poroste než čtverec intensity neb v případě našem než čtverce počtu silokřivek. Steinmetz vypočítává počet silokřivek B ze síly elektromotorické ze spádu měřeného ve svorkách cívky, jelikož spád tento dle našich pokusu
+Pokládáme-li tuto přímoúměrnou s počtem silokřivek, lze výraz'
+// = (« /',   i- /?) i ', sin it
+Steinmct/., Elektrotcchnischc Zeitschrift  1SÍ)2, p.  J!5
+XI. ﻿přeměniti v následující
+H—k.A.
+sin A
+Cí
+Jelikož dle podmínek Steinmetze
+= /-' n ,
+bude
+_ = L
+Ze vzorce toho lze, jelikož, jak výše experimentálně dovozeno bylo, / A s rostoucí amplitudou ubývá, seznati, že hysteresis neroste v poměru čtverečném s maximálním počtem silokřivek.
+Rozbor theoretické úvahy a experimentálních výsledků.
+V theoretické úvaze předcházející předpokládali jsme. že stav magnetický vzhledem na sílu magnetisující jest opožděn. V podmínce této ovšem není vyslovena příčina, pro kterou opoždění toto se děje. Na základě pokusu, které za příčinou vyšetření tak zvané hysteresis konány byly, lze bezpečně tvrditi, že podmínka tato experimentálně dovozena byla. Jaký však jest další průběh tohoto opožděného stavu magnetického, dosud pokusem vyšetřeno nebylo.
+V úvaze naší theoretické předpokládá se, že opožděný stav magnetický probíhá harmonicky. V rovnici stanovené
+di^   /___8_\
+dt    \        co J
+/                    V     ""N
+obsahuje symbol  j / —        l podmínku opoždění, jelikož /, mění se harmonicky
+a dle podmínky naší jest /;, stav magnetický přímoúměrný, /, proudem magne-
+d L
+tisujícím, bude i           změnou harmonickou.
+J       '              dt
+Na základě pokusů svrchu uvedených bude nám možno dovoditi, vyho-víme-li podmínkám, které při pokusech šetřeny byly, že stav magnetický probíhá skutečně harmonicky. Současně bude nám možno blíže poznati stav. který hysteresis se zove, a sice po stránce negativní i positivní.
+Již Warburg, který jak známo první opoždění stavu magnetického vzhledem na sílu magnetisující pozoroval, vysvětluje také opoždění toto. a sice třením mechanickým, a také analogii tu siřeji rozkládá. Podobně i Exving,1) který tento zvláštní stav magnetický »hysteresis« nazval, soudil na základě svých četných pokusu, že molekuly, otáčejíce se magnetisováním, musí překonávati tření — podobné tření pevných těles. — Když odpor ten byl překonán, pak molekuly se teprv otáčejí, avšak z dalších svých úvah soudí, že na základě jeho pokusů otázka tato platně rozřešena není. Chceme v následujícím rozboru na základě pokusu vlastních a jiných k řešení záhadné otázky této přispěti.
+') Ewin«, 1'hil. Trans. 188ti p. ,rrjli.
+XI. ﻿Warburg srovnává toto tření mechanické a tření magnetické v následujícím případu analogickém Na horizontální rovině udržuje se hmota pružným pérem v původní své poloze, silou proměnlivou z polohy své se vyšinuje, překonávajíc při svém pohybu odpor třením této hmoty na rovině horizontální. Proměnlivá tato síla jest analogická síle magnetisující a poloha tělesa na rovině, t. j. vzdálenost tělesa tohoto z polohy rovnovážné, obdobná se stavem magnetickým.
+Jestliže podobným způsobem, jako při hysteresis magnetické, také v případě tomto analogickém na osu A' naneseme síly, těleso v pohyb uvádějící, a na V vzdálenost' tělesa z původní polohy, obdržíme obdobnou křivku uzavřenou při periodickém průběhu síly působící, tedy hysteresis mechanickou, přcdpokládáme-li současně určitý odpor tělesa na podkladu. Plocha křivkou touto uzavřená měří práci, která při tomto periodickém pohybu vzhledem na síly třecí se spotřebuje. Sledujeme-li tuto analogii dále a určíme-li si mechanickou hysteresis, t. j. práci, která se vzhledem na síly třecí spotřebuje při rů/né amplitudě síly hybné a srovnáme-li výsledky tyto s hysteresis magnetickou při různé amplitudě síly magnetisující, seznáme, že síla, která odporuje síle magnetisující, t. j. odpor magnetický, není téže quality jako síla, která jeví se odporem při pohybu těles na podkladu.
+Odpor mechanický v případu našem dlužní) považovati za hodnotu stálou na amplitudě síly hybné nezávislou, avšak odpor magnetický, jak z pokusů zde uvedených na jcvo jde, není hodnotou stálou, ale na amplitudě magne-tisujícího proudu závislou hodnotou.
+Kdyby odpor magnetický byl hodnotou stálou na amplitudě síly magnetisující nezávislou, bylo by třeba určité amplitudy magnetisující, aby železo zmagnetováno bylo. Avšak důsledek tento se nesrovnává se skutečností. Jest známo, že v telefonu nepatrnou silou magnetisující zcela pravidelné změny magnetické nastávají. Lord Ravleigh ') přímými pokusy dovodil, že velmi malými silami magnetisujícími lze železo zmagnetovati. Ravleigh měřil momenty
+magnetické, které vznikají silami magnetisujícími v mezích    ,    //—   i/uwwi   ^
+kdež // horizontální složku magnetu zemského značí, a seznal, že i při tak malých silách moment magnetický úměrný jest síle magnetisující', a při cyklické změně magnetisujících sil shledal i magnetickou hysteresis.
+Dle podmínky theoretické svrchu uvedené jest stav magnetický vzhledem na sílu magnetisující opožděn, avšak průběh jeho jest harmonický, vyhoví-li se podmínce, která také ve svrchu uvedeném šetření pokusovém stanovena byla, že amplitudy magnetisující síly nepřekročí mez, pro kterou stav magnetický jest přímo úměrný se sílou magnetisující. V případě tomto nastává maximum magnetičnosti, když již síla magnetisující své maximum překročila. Před; o-kládáme-li opětně, že stav magnetický jest přímo úměrný se silou magnetisující
+') Phil. Mág.  1HH7, p. 22f>.
+XI ﻿SÍ8
+vysvětlíme-li si však opoždění stavu magnetického odporem mechanickým, který musí molekuly magnetické při svém otáčení překonávati, pak nastane maximum magnctičnosti současně s maximum síly magnetisující a udrží se ještě na své hodnotě maximální, když již sil magnetických ubývá. V případě takovém nebude změna stavu magnetického harmonickou, i když stav magnetický jest s intensitou magnetisující přímo úměrný a intensita tuto změnu harmonicky probíhá. Nazveme případ tento neúplně harmonickým. Předpokládáme-li, že momenty magnetické jsou přímo úměrné se silou magnetisující, která harmonicky probíhá, avšak vzhledem na sílu magnetisující o určitou dobu spozděné, tu lze jednoduchým řešením grafickým, tím že na osu X naneseme harmonicky proměnnou intensitu magnetisujícího proudu a na osu Y momenty magnetické, dospěti k důsledkům následujícím:
+1.  Je-li opoždění stavu magnetického na amplitudě magnetisujícího proudu nezávislo, leží amplitudy magnetické, jak při úplném tak i při neúplném průběhu harmonickém magnetického stavu na přímkách, které procházejí počátkem souřadnic. Tangenta úhlu přímky, která spojuje amplitudy stavu magnetického při úplné /měně harmonické, jest větší  než tangenta úhlu při neúplné změně harmonické.
+2.  Ubývá-li však opoždění  stavu magnetického   vzhledem na sílu magnetisující, pak leží body maximálních momentů, tedy amplitud magnerických, na knvce, která jest k ose A' vydutá,   když  průběh magnetických momentů jest úplně harmonický,  naproti tomu leží body   tyto   na křivce k ose X vypuklé, jestliže průběh momentů magnetických jest neúplně harmonickým, jestliže tedy při magnetování odpor mechanický, tření se překonává.
+Ze svrchu uvedených pokusů jde na jevo, že opoždění stavu magnetického vzhledem na sílu magnetisující jest na amplitudě síly magnetisující závislo, bude nám tedy možno na základě pokusů svrchu uvedených dovoditi, zdali průběh momentů magnetických probíhá úplně harmonicky či neúplně, zdali tedy opoždění stavu magnetického lze si vysvětliti odporem třením. Jelikož max. počet silokřivek s amplitudou síly elektromotorické vnitřní E' jest přímo úměrný, lze za amplitudy stavu magnetického dosaditi amplitudy sil elektromotorických vnitřních. Naneseme-li na osu X amplitudy sil magnetisujících a na osu Y amplitudy elektromotorických sil vnitřních, z pokusů stanovených, obdržíme křivku k ose X vydutou (viz tab. II. b\ Z toho lze tedy souditi, že průběh opožděného stavu magnetického jest úplně harmonickým, tedy podmínka našemu theoretickému rozboru podložená jest pokusem dovoxena, nelze však opoždění toto si vysvětliti odporem třením vzniklým, tedy odporem stálým. Jak z výše uvedených pokusu na jevo jde, jest odpor tento magnetický závislým na amplitudě síly magnetisující, stávaje se větším s rostoucí amplitudou. Jelikož při pokusech svrchu uvedených perioda harmonického proudu magnetisujícího byla stále stejnou, rostla tedy i amplituda rychlostí změny této intensity. Možno tedy říci, že odpor tento magnetický roste s rostoucí rychlostí změny intensity, avšak, jak z pokusů těch na jevo jde, neroste odpor tento přímoúměrně s rychlostí změny intensity proudu magnetisujícího, ale volněji.
+XI. ﻿24
+Z rozboru předcházejícího vychází na jevo, chceme-li příčinu stavu hysteresis vysvětliti mechanickým odporem, že nelze jej vysvětliti odporem třecím, spíše se srovnávají výsledky experimentální, zde uvedené, s odporem v prostředí, kterým se pohyb tlumí, avšak shoda ta jest jen qualitativní, quantitativně se od sebe liší.
+Úkaz hysteresis lze nejen srovnati s odporem mechanickým, ale také s odporem elektrickým. Hysteresis jest, jak již výše bylo uvedeno, práce, kterou síly elektrické konají mimo obvod proudový. Jelikož práce elektrická měří se součinem odporu a čtvercem intensity, lze vyznačiti hysteresis
+H=/ii't*,
+kdež /', střední hodnotu čtverců intensity proudu, a // odpor, který následkem hysteresis ve vnějším obvodu vzniká. Jak nahoře z pokusů dovozeno bylo, tento odpor ubývá s rostoucí amplitudou proudovou. Vykládáme-li tedy hysteresis mechanickým způsobem, jeví se nám co odpor, který vzrůstající amplitudou roste, vykládáme-li jej však elektricky, jeví se nám co odpor, který vzrůstající amplitudou ubývá.
+Pokusy s plným válcem železným.
+Následující pokusy týkají se případu, kdy do cívky, jíž dimense svrchu byly uvedeny, vložen byl plný válec železný, jehož délka rovnala se 39'25 cm a průměr = 7'S cm. Do cívky veden proud ze stroje na proudy střídavé, různé amplitudy, avšak amplituda nacházela se ještě v mezích, ve kterých, jak z dřívějších pokusů na stroji konaných *) na jevo jde, průběh střídavého proudu jest harmonický. Perioda tohoto harmonického proudu při různé amplitudě byla udržována stále na stejné hodnotě tím, že induktor stroje, stále stejnou rychlostí (1290 obratů za minutu) se otáčel. Magnetické pole, ve kterém induktor se otáčel, udržováno také na stejné intensitě po celou řadu pokusů. Celkový spád ve svorkách spirály měřen Cardewovým voltmetrem, intensita střídavého proudu, závity cívky procházejícího, měřena dynamometrem a práce v cívce konaná měřena wattmctrem. Jelikož prací mimo obvod konanou válec železný silně se zahříval, stanovena také teplota jeho pomocí teploměru, který vložen byl do jamky naplněné olejem a na hoření základně válce vyhloubené. Jelikož oteplení toto dosti značné bylo, tak že i vinutí na cívce se patrně oteplovalo, měřen i odpor cívky po každém pokuse jednotlivém. Z důvodů, o kterých později bude jednáno, provedena řada pokusů se stoupající a klesající amplitudou proudu harmonického.
+') Theoretické a exper. příspěvky k nauce o strojích na proudy střídané. Předloženo 29. dubna 1802 Č. akademii.
+XI. ﻿25
+Následující tabulka obsahuje hodnoty měřené a některé z hodnot těchto vypočtené.
+J't	• f l  S	•w	t	r	T	H	B	R	9	h
+— .                       ~ 28	2-56	33-76	16° C	0-310	2-037	31-72	61W	10-92	5-14 4-26	4-83
+40-2	4-80	5)7-9	18°	0-310	7-13	90-77	59° 15)'	8-ai		3-95
+49-8	6-40	1(54-6	20°	0-313	12-81	151-79	58°49'	7-8	4-02	3-707
+56	7-40	21(!-1	25°	0-313	17-14	198-96	58°33'	7-57	3-95	3-637
+61	8-15	259-5	30°	0-318	21-1	238-4	58°31'	7-49	3-91	3-592
+67	9-15	325	36°	0-321	26-7	298-3	57°59'	7-32	3-88	3-559
+75	10-36	398-7	45-5°	0-325	31-88	364-8	59° 7'	7-24	3-72	3-395
+85	12-01	521-2	57°	O-P,;ÍO	47-7	473-5	o!)6 20'	7-07	3-C1	3-28
+76-2	10-36	401	66°	0-335	35-5)5	365-1	59° 28'	7-35	3-74	3-405
+69	9-1	316-5	73°	o-3as	27-99	2K8-5	59°44'	7-38	3-82	3-482
+63	8-08	261-6	7(5-5°	0-340	22-15)	239-4	59°4'	7-8	4-01	3-67
+59	7-28	219-4	79-5°	0-343	18-17	201-2	59° 10'	8-11	4-14	3-797
+54	6-31	175-1	81-5°	0-344	13-71	161-4	59°6'	8-55	4-40	4-056
+44	4-99	114-8	82-5°	0-349	8-41	106-4	57° 53'	8-96	4-76	4-411
+31-2	2-96	46-42	82-5°	0-350	3-066	43-35	59°49'	10-54	5-30	4-95
+										
+Sloupce /!'s a i's obsahují měřené hodnoty celkového spádu proudu v cívce a sice jich střední hodnoty čtvercové vyjádřené v jednotkách voltových a ampě-rových, ve sloupci w snesena jest práce měřená ve svorkách cívky wattmetrem v jednotkách wattových. Sloupec / obsahuje teploty ve stupních Celsia, teplotu
+H
+na hoření základně válce pozorovanou. Sloupec pak ;- obsahuje odpory cívky měřené v jednotkách ohmových, Wheatstonovou methodou. V ostatních sloupcích sneseny jsou z předcházejících hodnot měřených vypočtené hodnoty. Ve sloupci T vypočtená energie elektrická, která ohmovým odporem v cívce v teplo přechází, vyjádřena v jednotkách wattových
+T— r:t 2
+•        • '  *•  s    »
+kdež /- značí nám odpor v cívce měřený po každém jednotlivém pokuse. Ve sloupci H vypočtena jest práce mimo obvod proudový v magnetickém poli konaná, kterážto práce se vypočte, jak nahoře uvedeno, odečteme-H energii elektrickou, která v obvodu proudovém v teplo přechází, od celé energie, která ve svorkách cívky se spotřebuje. Sloupec B obsahuje úhel, kterým měna výsledního spádu liší se od měny skutečné cívkou procházejícího proudu.
+o i
+Sloupec R obsahuje opět celkový odpor v cívce, který se z odporu skutečného a z odporu zdánlivého skládá. Odpory tyto vypočteme, dělíme-li amplitudu
+XI. ﻿celého spádu na amplitudu skutečného proudu, který závity cívky prochází. Sloupec o obsahuje skutečný odpor, který opět z odporu ohmového a z odporu mimo obvod proudový se skládá. Odečteme-li od skutečného odporu tohoto odpor ohmový, obdržíme odpor mimo obvod proudový k.
+Jelikož pokusy právě uvedené provedeny byly za podmínek, které jsme při rozboru theoretickém za základ položili, totiž proud do cívky vedený mění se harmonicky, perioda jest stálá a moment magnetický přímoúměrný jest s intensitou proudu, tedy A, konstantní, lze výsledky theoretické opětně srovnati s výsledky experimentálními. Naneseme na osu X opět měřené intensity i' s a na K měřené celkové spády a sice jak pro intensity vstoupající tak i pro intensity ubývající, seznáme, že hodnoty sestupné nesplynou s hodnotami stoupajícími, ale jsou celkem těchto větší (viz tab. III.). Kdybychom vyhledali si přímky, které by těmto pokusům nejlépe přiléhaly, tu obdržíme pro hodnoty stoupající rovnici
+a pro hodnoty sestupné :
+J', = (j /', + 14 .
+Pti této příležitosti budiž podotknuto, že při pokusech se svazkem drátu železných provedena byla podobná řada pokusů, avšak hodnoty při vzrůstající a klesající intensitě procházejícího proudu se téměř kryly. Při pokuse však s plným železem hodnoty tyto se značně liší. Ať již rovnice prvé při stoupajících intensitách neb rovnice druhé při ubývajících intensitách za základ ku výpočtu celkových odporů použijeme, vždy shledáme, že celkové odpory tyto s rostoucí intensitou ubývají. Jelikož, jak již dříve uvedeno, lze toto ubývání celkového odporu vysvětliti ubýváním rozdílu měny mezi silou magnetisující a stavem magnetickým. V theoretickém rozboru seznali jsme, že
+n — r -f- A, w sin A ,
+kdež o skutečný odpor značí, ;- odpor ohmový a /,, w sin <V odpor mimo obvod proudový. Jak z tabulky na jevo jde, jest ubývání odporu celkového a odporu skutečného s rostoucí intensitou zcela patrné. Podobně ubývá i odporu mimo obvod proudový s rostoucí intensitou. Ubývání těchto odporů s rostoucí intensitou jeví se nám tu zřejmě v obou případech, ať tu postupujeme od nejmenší intensity k největší neb opačně. Na tuto okolnost bylo třeba hlavně z následujícího důvodu upozorniti.
+Jak ze sloupce / v tabulce na jevo jde, otepluje se značně válec železný prací elektrickou, která se mimo obvod proudový koná, teplota rychle stoupá. Oteplením však elektrický odpor válce železného stává se větším, lze tedy očekávati, že práce mimo obvod proudový bude menší, jelikož Foucaultové proudy, které v tomto případě v značné intensitě vznikají, se seslabí a tedy tím odpor mimo obvod proudový se zmenší. Teplota na konci válce měřená vystoupla během pokusů se vzrůstající intensitou od 16° C — 57° C. Při opačném pochodu postupováno bylo od větších intensit k intensitám menším, a kdy teplota ještě od 57° C stoupla na 82'5° C, lze pozorovati zcela přesně, že odpory tyto s ubývající intensitou opět rostou. Nelze tedy tuto změnu přičítati sekun-
+IX. ﻿dárnímu vlivu oteplení, ale dlužno za to míti, že odpor mimo obvod proudový ubývá s rostoucí amplitudou.
+Srovnáme-li odpory mimo obvod proudový v případě, když v cívce nacházel se plný válec železný s případem, když do cívky vloženy byly dráty pečlivě isolované, seznáme, že hodnoty odporů těchto při stejných intensitách proudových jsou mnohem vetší než při drátech isolovaných, změna pak tato odporu děje se v drátech isolovaných rychleji než v plném železe, měníme-li amplitudu proudu. Tak změnil se odpor mimo obvod proudový v drátech isolovaných <> í"")8°/0, když se měnila intensita v mezích 2 (í47 A - S'5'í A, kdežto se týž odpor při pokusech s plným válcem změnil o l?f>°/„, když amplituda intensity v týchže mezích se změnila, a sice jak při stoupající intensitě (2*ř>6—S*15) tak i při intensitě ubývající (8'08 -2'9<}j. Z výsledků těchto pokusů lze tedy souditi, že v mezích, ve kterých pokusy tyto se pohybovaly, průběh magnetického stavu při proudech harmonických jest opožděn, a opoždění závislo na amplitudě proudové, další průběh stavu magnetického jest harmonický a sice v obou případech, když do cívky vloženy dráty železné isolované a plný válec železný. Opoždění toto jest větší ve válci železném a mění se volněji s intensitou než v drátech železných.
+Stav elektrický v celém obvodu proudovém.
+Ve stati předcházející pojednali jsme o stavu elektrickém v cívce, která do vnějšího vedení stroje elektrického vložena byla, chceme nyní vyšetřiti stav elektrický v celém obvodu proudovém, který vedle vložené cívky obsahuje induktor, tedy řadu cívek, ve které taktéž vnitřní indukce vzniká. Předpokládáme nejprve, že dovedení vložena pouhá cívka bez jakéhokoli jádra. Vyjádříme si opět harmonickou změnu proudu rovnicí
+(1)                                                /, -
+/0 sin
+kdež i0 amplitudu proudu značí „a o> =—=~  bude výslední síla elektromotorická v celém obvodu proudovém:
+E — t\ -U f   , kdež c{  spád elektrický následkem odporu značí, tedy
+r i
+i >
+značí-li /• ohmový odpor celého obvodu proudového a r2 značí spád elektrický, který následkem vnitřní indukce vzniká. V případě našem vzniká indukce v induktoru a ve vložené cívce. Chceme opět předpokládati jednoduchý případ, ve kterém počet silokřivek přímoúmčrný jest s intensitou. V případě takovém budou koeficienty vlastní indukce, jak nahoře bylo dovezeno, konstantní, obdr-
+v »
+zimě tedy  \nitrni sílu elektromotorickou
+= L
+it
+di^ ~ďt   '
+XI. ﻿28
+značí-li L koeficient vlastní   indukce   induktoru   stroje a L' koeficient vložené cívky. Bude tedy výslední síla elektromotorická
+(2).
+Z rovnice této jde, že výslední koeficient celého obvodu proudového rovná se součtu částečných koeficientů vlastních.
+, = L + L' .
+Dosadíme-li do rovnice (2) hodnoty příslušné z rovnice (1), obdržíme
+E =
+dosadíme-li opětně
+obdržíme
+(3)
+r 0 sn co / -|- /,, /0 o> cos w
+r iQ = A cos /? , 7,, /0 co = A sin /? ,
+E = A sin (w / + 7>') .
+Výslední tato síla elektromotorická mění se tedy harmonicky, jest však vzhledem na proud obvodem procházející měnou pošinuta. Amplitudu harmonické této síly elektromotorické určíme z rovnice
+(4)                                 A =
+a měnu z rovnice
+(5)
+T
+Označíme-li amplitudu výslední síly  elektromotorické ť0 , obdržíme z rovnice (4) výraz pro amplitudu proudovou
+Dosadíme-li výraz tento do rovnice (1), obdržíme
+€m
+sn
+Rovnicí touto určuje se harmonická změna proudu celým obvodem proudovým procházejícího.
+Je-li perioda proměnlivého proudu stále stejnou, tedy w konstantní a Lt koeficient vlastní indukce hodnotou stálou, pak bude intensita proudová probíhati jednoduchou harmonickou zrněnu. Zdali proud jednoduchou harmonickou změnu probíhá, lze experimentálně vyšetřiti dle návodu Stefana, jak jsme v pojednání dřívějším1) dovodili. Značí-li opět /', střední hodnotu čtvercovou intensity proudové, bude
+' 2
+s
+O
++ (L,
+') Domalíp, Theor. a exp. příspěvky k nauce o strojích na proudy střídavé.  Předlož. 2(J. dubna IB'J'2 Č. akad.
+XI. ﻿29
+a
+tedy
+i' 2
+* s
+-
+2
+Naneseme-li na osu X čtverce vložených odporů a na osu Y zvratnc hod-
+noty  —7-3    a spojíme-li   body takto   sestrojené,   shledáme,   že  leží   na přímce,
+z * je-li změna proudu jednoduše harmonickou. Z rovnice této přímky, vyjádříme-li
+ji ve formě
+y = a x -\- b ,
+lze konstanty a i /; určiti,  z kterých  pak stanovíme /,, co  společný   koeficient vlastní indukce celého obvodu proudového.
+Chceme nyní pojednati o případu, kdy do vnějšího vedení vložíme cívku s jádrem železným, ve kterémžto případe, jak nahoře dovozeno bylo, síly elektrické také mimo obvod proudový v poli magnetickém cívky této práci konají; a určíme opětně změnu intensity procházejícího proudu, a výslední koeficient vlastní indukce v celém obvodu proudovém.
+Budiž opět vyjádřena   periodická změna   proudu obvodem  procházejícího rovnicí (1)                                              /! = /0 sin to/ ,
+kdež opět /„ amplitudu proudu značí a co =    „,    značí-li T periodu. Výslední síla elektromotorická v celém obvodu proudovém
+kdež et opět spád elektrický následkem ohmového odporu značí. Jc-li r odpor celého obvodu proudového, bude
+c.
+r 2
+\             'i >
+t'» značí spád následkem vnitřní indukce. V případě tomto vzniká indukce v induktoru stroje a ve vložené,, cívce. Chceme opětně předpokládati, že počet silokřivek v cívkách jest přímoúměrný s intensitou procházející. V případě takovém budou koeficienty vlastní indukce jak induktoru L tak i vložené cívky Ll hodnotami stálými.
+V cívce s jádrem železným nastane opoždění stavu magnetického vzhledem na intensitu proudu procházejícího, což označíme symbolickým způsobem, jak nahoře bylo ukázáno. Bude tedy vnitřní síla elektromotorická v obvodu proudovém
+—  T       /!  _L_ /    JÍÍL i t__
+8 ~  ' dt + LI dt  V
+CO
+&
+kdež----značí  opoždění stavu  magnetického vzhledem na sílu   magnetisující
+Výslední síla elektromotorická v celém obvodu proudovém
+(2)                          u____v    i    T  di\    i    T    di\
+(0
+XI. ﻿30
+Dosadíme-li do rovnice (2) příslušné hodnoty z rovnice (1), obdržíme:
+h = ;• /0 sin o> / -|- A ro X0 cos M t -(- A, w /0 cos ro / cos tf -{- Aj o> /ft sin M t sin <V ,
+čili
+E = (r iQ -\- A, o) /0 sin ti) sin o> / -\- 01 /0 (A -f- A, cos rt) cos <o / ,
+dosadíme-li za
+r /„ -(- A, W /0 sin <V = ^/ cos />',
+o /0 (A + /-i cos A) = A sin /?, obdržíme
+E = A sin (w / -j- A)) .
+Výslední síla elektromotorická mění se tedy harmonicky, jest však vzhledem na proud obvodem procházející měnou pošinuta. Amplitudu výslední síly elektromotorické určíme z rovnice
+1 = (r i'0 + LI to /o sin <*)2 + [01 /0 (A + /^ cos (V)]
+o)   s'n
+cos
+) l
+a menu z rovnice
+sin
+Amplitudu   výslední  síly   lze   si   zobraziti   v  obrazci  přiloženém  (obr.  6.) stranou af.   Strana ab značí nám spád, následkem odporu ohmového = ri'Q;
+strana bd spád vnitřní elektromotorické
+síly   cívky = Ll
+0 a
+sj)ád násled-
+A
+u
+R = (r-\- L, o, sin ď
+kem vnitřní indukce cívek induktoru — coi0L $^bdc značí úhel, o který měna stavu magnetického vzhledem na
+o
+sílu ma^netisující jest pošinuta, a konečně Y^caf značí opět úhel, který stanoví rozdíl měny výslední síly elektromotorické a proudu elektrického. Dělíme-li amplitudu výslední síly elektromotorické na amplitudu intensity proudové, obdržíme celkový odpor obvodu proudového
+(
+kterýžto celkový odpor podobným obrazcem lze zobraziti.  Dosadíme-li
+(t = /--[-/,, o) sin ň
+obdržíme
+/=/,-)- /., cos (V ,
+A' = [«""+("">
+Celkový odpor tento skládá se ze skutečného odporu oáz odporu zdánlivého  co/.   Skutečný   pak  odpor o opět   se   skládá   z  odporu   ohmového (r)
+IX. ﻿31
+a   z odporu   mimo   obvod   proudový   A,rosin^.    Následkem   opoždění   stavu magnetického vzhledem na proud procházející zvětší se odpor skutečný.
+Výslední koeficient vlastní indukce / nerovná se součtu obou koeficientů jako při cívce, ale jest menší, jak ze vzorce na jevo jde. Konají-li síly elektrické práci mimo obvod proudový, zvětší se skutečný odpor a koeficient vlastní indukce se zmenší. Dosadíme-li za amplitudu celé síly elektromotorické A = < 0 a dosadíme-li do rovnice (1), obdržíme pro intensitu proudu obvodem procházejícího jednoduchý výraz
+*                                                                 ()
+/, =                        sin o)/ ;
+Vef-K""')1
+značí-li   opět i's střední hodnotu   čtvercovou proudu harmonického,   obdržíme
+o
+z čeho opět
+- C 2  ' O
+Naneseme-li na osu X čtverce skutečných odporů a ne toliko čtverce odporů ohmových a na osu Y zvratné hodnoty střední čtvercové hodnoty proudu a spojíme-li body takto sestrojené mezi sebou křivkou, bude nám možno z této křivky posouditi, zdali intensita proudu probíhá jednoduchou změnou harmonickou. Je-li čára jednotlivé body spojující přímkou, pak, jak známo, probíhá intensita jednoduchou změnu harmonickou. Vyjádříme-li si přímku rovnicí
+y = a x -\- b ,
+bude nám možno konstanty a i /; a pak i výslední koeficient vlastní určiti. Rovnice
+l\
+kdež
+Ve1+ (»')*
+sin (o/
+o = /--[- A, to sin ()' , / = L -\- Ll cos ó
+jest všeobecným výrazem harmonického proudu, z něhož specielní případy lze vyvinouti. Jestliže síly elektrické nekonají mimo obvod proudový žádné práce, pak stav magnetický vzhledem na sílu magnetisující není pošinut. Je-li tedy (V = O, bude
+o
+r
+ť j. skutečný odpor rovná se odporu ohmovému a koeficient vlastní indukce rovná se součtu jednotlivých koeficientů. Rovnice vyjadřující harmonickou změnu intensity, zamění se
+e.
+sin (o /
+XI. ﻿32
+Jestliže   konečně i odpor vložen, pak bude
+= L>,   není-li   do   vnějšího   vedení  žádný   induktivní
+a rovnice vyjadřující harmonickou změnu intensity, přejde
+o
+sin co /
+*+
+Ve všech těchto případech   lze se experimentem   přesvědčiti,   zdali proud skutečně jednoduchou harmonickou změnu probíhá, když si vzájemnost
+l
+e
+2     O
+l
+graficky zobrazíme tím, že na osu X nanášíme o- a na osu Y -^-=-.Je4i čára
+2 s  •
+body jednotlivé spojující přímkou, pak proud probíhá jednoduchou harmonickou změnu. Konají-li síly elektrické práci mimo obvod proudový, značí (> celý odpor skutečný, tedy odpor ohmový zvětšený o odpor mimo obvod proudový. Jestliže však práce mimo obvod proudový se nekoná, pak značí o toliko odpor ohmový. Ve všech těchto případech lze z konstant této přímky určiti i příslušné koeficienty vlastní indukce.
+Abychom svrchu uvedený rozbor theoretický srovnati mohli s exp. výsledky, provedena byla řada pokusů se strojem, a sice: 1. do obvodu proudového ncvložen žádný induktivní odpor; 2. do obvodu proudového vložen induktivní odpor, tedy cívka, jíž rozměry nahoře byly udány; 3. do obvodu proudového vložena cívka s isolovanými dráty železnými; 4. cívka s válcem železným. V posledních dvou případech koná se práce mimo obvod proudový. Třeba tedy určiti celý odpor skutečný, tedy ohmový, a odpor mimo obvod proudový. Odpor tento určí se tím, že měříme práci wattmetrem, která se v obvodu proudovém spotřebuje, dělíme-li pak čtvercem intensity, obdržíme skutečný odpor, který v obvodu proudovém se překonává. V prvních dvou případech, ve kterých mimo obvod proudový práce žádná se nekoná, určí se odpor ohmový známou methodou Wheatstonovou.
+Při pokusech šetřeno toho, aby intensita pole magnetického ve stejné míře se udržovala, a hleděno k tomu, aby i induktor stále stejnou rychlostí se otáčel, tedy i perioda proudu byla stálou. Intensita procházejícího proudu měněna vkládáním odporu neinduktivního. Dynamometrem měřena intensita proudu, tedy /'',, t. j. střední čtvercová hodnota harmonického proudu a wattmetrem měřena práce v obvodu proudovém spotřebovaná w. V následujících tabulkách sneseny jsou výsledky experimentální. Ve sloupci /', sneseny jsou střední hodnoty čtvercové intensity proudové, ve sloupci w měřené watty, ve sloupci ;' odpory měřené a v o odpory skutečné z wattů vypočtené.
+XI. ﻿1. V obvodu proudovém nachází se odpor neinduktivní.
+	i' s	r měřené	•w	
+	6-21	24-68	845-5	
+	8-69	16-54	1083	
+	13-03	10-18	1397	
+	15-83	7-68	1507	
+	20-76	4-78	1465	
+	26-73	O68	45-1	
+2. V obvodu proudovém vložena pouhá cívka. V případě tomto vzniká následkem indukce odpor induktivní. Výslední odpor skládá se tedy z odporu Ohmová a z odporu induktivního, avšak skutečný odpor, ve kterém energie elektrická se spotřebuje, bude i v tomto případe pouhý odpor Ohrnuv.
+	i' s	r měřené	W	
+	6-03        24-98		846	
+	8-31	16-84	1C69	
+	11-98	10-48	1343	
+	14-31	7-98	1384	
+	18-34	5-8	1305	
+	22-7	0-93	197	
+3. Cívka s isolovanými dráty železnými. V tomto a následujícím případě vzniká následkem indukce odpor induktivní, ale následkem indukce v poli magnetickém vzniká odpor mimo obvod proudový. Skutečný odpor, ve kterém energie elektrická se spotřebuje, skládá se tu z odporu Ohmová a z odporu mimo obvod proudový. Za tou příčinou sneseny jsou v posledních sloupcích odpory skutečné z wattů vypočtené.
+f.	10	e z wattů vypočtené
+4-8	645	23-7
+6-07	582	15-81
+7-17	502	9-75
+7-62	426	7-17
+7*96	299	3-74
+8-5	67-5	0-94
+		
+u
+opravy. Ročn   II. Tř. II. C.  II.
+3
+XI. ﻿4. Cívka s plným válcem železným.
+	f«	W	9	
+	5-00	640	25-63	
+	6-35	761	18-87	
+	8-04	836	12-93	
+	9O5	825	10-07	
+	10-25	790	7-51	
+	11-93	542	3-81	
+Naneseme-li na osu X čtverce odporů v přiměřeném měřítku a sice v případě  prvém  a  druhém  odpory ohmové  měřené  v případě  třetím  a čtvrtém
+odpory z watt vypočtené a na osu Y opět -^-y, obdržíme ve všech případech
+l s
+řady bodů, které ku příslušným přímkám dobře přiléhají. Vyjádříme-li si přímky tyto mathematicky
+y = a x -)-/;,
+bude nám možno  v každé přímce konstanty a a b určiti.   Z konstant  těchto pak nám  bude možno !)  maximální sílu  elektromotorickou v  celém  obvodu
+2nL proudovém r0,  induktivní odpor —~— a konečně, jelikož T jest známo, i L
+určiti. Induktor konal za minutu 1290 obratů a při každém obratu nastaly dvě periody, jest tedy v případu našem
+60
+""r__
+2   1290
+1. Do obvodu proudového nevložen   žádný induktivní odpor.   V případě tom shledáno:
+„ = 216
+= 5-78
+L = 0-0214
+v jednotkách kongressem pařížským přijatých.
+2.   Do  obvodu   proudového  vložen  induktivní  odpor.   V případě  tomto vypočteno
+o
+211 ,
+= Cv56 ,       L, = 0-0243 ,
+Lt jest výslední koeficient indukce induktoru a cívky vložené
+bude tedy vlastní koeficient cívky
+L' = 0-0029 .
+')   Viz:   Domalíp,  Theoret. a exp. příspěvky k nauce o strojích  na proudy střídavé. Předloženo v dubnu 18!)2 Č. akademii.
+XI. ﻿35
+3. Do obvodu proudového  vložena cívka s isolovanými dráty železnými. Z pokusů vypočteno
+o
+2*7
+T
+= 16-12 ,       / = 0-059GC) .
+Dle předešlébo však / = L -\- Lt cos ó, z rovnice předcházejí jde
+L, cos <? = / — Z, = 0-03826 ,
+kdež L vlastní koeficient induktoru a Lv koeficient cívky s isolovanými dráty a 8 opoždění stavu magnetického značí. Jelikož Ll a d jsou hodnoty neznámé, třeba pokusu zvláštního, nové rovnice, kterými se veličiny tyto určují. Tuto rovnici druhou poskytují nám pokusy, kterými jsme tak zvaný odpor mimo obvod proudový určili
+// = LI ca sin ó' ,
+dosadíme-li
+LI cos ti = a ,
+bude
+t   ó =
+aco
+tím určí se ň a známe-ii <?, určíme původní indukční koeficient
+L1 =
+a
+cos (V
+Při pokusech s cívkou a s dráty železnými isolovanými shledán při intensitě ifs = o'lSA odpor mimo obvod proudový // = 0'83/í. Dosadíme-li tuto hodnotu do vzorců předcházejících, určíme tf = 4°35' a L^ = 0'0333í). Koeficient vlastní indukce cívky s dráty železnými zmenší se tu následkem práce mimo obvod proudový pouze o 0'3%-
+4. Do obvodu proudového vložena cívka s plným válcem železným. Z pokusů vypočteno opět
+t-0 = 200 K;   •
+r
+= 11-91;       / = 0-0441.
+Jelikož opětně  L -\- Lv cos d =. / ,   kdež L vlastní koeficient indukční  induktoru stroje a Z,, indukční koeficient cívky železem značí, bude
+j cos (V = 0-0227
+Abychom opětně L, a d mohli stanoviti, třeba nám jako v případu předešlém druhé rovnice, t. j. jiného pokusu. Při pokusech s pouhou cívkou, do které vložen válec železný, nalezen byl odpor mimo obvod proudový // = 4'OoG í-při intensitě proudové i's = 6'31 A
+I co sin d —
+z pokusů těchto vypočteme d = 33° 50', zmenší se tedy v případě tomto koeficient vlastní indukce o IG'8%-
+Z pokusů předcházejících bude nám možno stanoviti opoždění stavu magnetického vzhledem na sílu magnetisující a vyjádřiti opoždění toto ve vteřinách.
+3* XI. ﻿36
+Jelikož inouktor konal v jedné minuté 1290 obratu a při každém obratu dvě periody proudu nastanou, bude doba jedné periody 7""= 0-02325 vteřinám. Při pokusech s isolovanými dráty železnými opozdí se stav magnetický vzhledem na magnetisující sílu o 4° 35', vyjádříme-li opoždění toto úhlem, při intensitě magnetisujícího proudu /'s = 5'73^í. Vyjádříme-li opoždění toto časově, ob-
+držíme :
+= 0-0000206 vt.
+Při pokusech s plným válcem železným shledáno opoždění v míře úhlové 33° 50' a v míře časové
+j =0-0002183 vt.
+při intensitě proudové i's = $'
+Jest mi konečně milou povinností dosvědčiti, že mi pan Karel Novák, assistent elektrotechn. ústavu, s kterým jsem společně pokusy zde uvedené provedl, při vypočítávání a zobrazení výsledků experimentálních platně napomáhal.
+XI. ﻿In einer am 2í>. April 181)2 der »Akademie věd a umění* vorgelegten Abhandlung wurde folgender einfacher Fall eines harmonisch variirenden Stromes einer eingehenden Untersuchung unterzogen:
+In einem geschlossenen Stromkreise wirkt neben der harmonisch variirenden ausseren elektrom. Kraft auch noch eine innere, im Inductor der Wechselstrommaschine durch Selbstinduction erzeugte elektrom. Kraft. Die áussere Leitung děs Stromkreises besteht aus Leitern, in welchen keine In-duction stattfindet. In der vorliegenden Abhandlung werden folgende Fálle theoretisch und experimentell behandelt:
+Im ausseren Stromkreise befindet sich:
+1.  eine einfache Inductionsspule,
+2.  eine Inductionsspule mit wohlisolirten Eisendrahten,
+3.  eine Inductionsspule mit einem Eisenkerne.
+Die vorliegende Abhandlung bildet eine Fortsetzung der friiher erwáhnten Abhandlung, dá in dieser die Bedingungen ermittelt wurden, unter welchen man den Selbstinductionscoefficienten děs Inductors als eine constante Grosse ansehen und der erzeugte Strom als einfach harmonisch betrachtet werden kann. Es werden in der vorliegenden Untersuchung die Bedingungen gestellt, dass der in die Spirále geleitete Strom harmonisch sich ándert, dass die Periodě děs harmonischen Stromes constant erhalten wird, und die Intensitáten der in die Špule geleiteten Strome bewegen sich in solchen Grenzen, dass man auch den Selbstinductionscoefficienten der Špule mit dem Eisenbundel und Eisenkerne als eine constante Grosse ansehen kann. Zu diesem Zwecke wurden Versuche angestellt, um auf magnetometrischem Wege zu ermitteln, in welchen Grenzen das magnetische Moment děs Eisenbúndels und děs Eisenkernes der magnetisirenden Kraft proportional ist. Unter diesen Bedingungen wurde der resultirendc Strom bestimmt, wenn in dem ausseren Stromkreise ein inductiver Widerstand eingeschaltet wurde und zwar wird in dem zuerst beobachteten Falle durch die Induction keine Arbeit ausserhalb děs Stromkreises (im magne-tischen Felde) geleistet, dagegen wird im zweiten und dritten Falle auch im magnetischen Felde duřeli sogenannte Hysteresis und Foucaultsche Strome elektrische Energie verbraucht, und zwar wird im zweiten Falle die Hysteresis und im dritten werden die Foucaulťschen Strome einen grósseren Antheil an der verbrauchten Energie haben.
+XI. ﻿38
+Werden die oben gestellten Bedingungen der theoretischen Betrachtung zu Grunde gelegt, und befindet sich in dem Schliessungskreise eine einfache Inductionsspule, durch welche ein harmonischer Strom geleitet wird, dessen variirende Intensitát durch die Gleichung
+(1)                                               /, = /0 sin co/
+ausgedrúckt wird, vvo /0 die Amplitudě co = -=— ,   wo   T  die   Periodě   děs
+Stromes bedeutet, so wird das resultirende Gefálle in den Klemmen der Spirále durch die Gleichung
+L= A sin (co / + B)
+bestimmt; wo A die Amplitudě děs Gefalles bedeutet und aus der Gleichung
+(2)                                  A =
+berechnet werden kann, wáhrend B die Phasenverschiebung děs result. Gefalles in Bezug auf den durchgeleiteten Strom bedeutet und aus der Relation
+ermittelt werden kann.
+Aus der Gleichung (2) ist ersichtlich, dass die durch den OhnVschen Widerstand und durch den inductiven Widerstand erzeugten Gefálle in Qua-dratur sind und demnach durch ein rechtwinkliges Dreieck dargestellt werden kónnen, in welchem die Katheten die beiden Gefálle und die Ilypothenuse das resultirende Gefálle bedeuten. Bezeichnet man die Amplitudě mit e0 , so wird der resultirende Strom durch die Gleichung
+o
+sin o? t
+bestimmt.  Die Gesammrarbeit, welche in der Spirále geleistet wird
+L M t
+
+t- cos 90°
+also
+Es wird die ganze Arbeit in den Windungen der Špule in Wárme ver-wandclt Durch die innere Induction wird also in diesem Falle keine Arbeit geleistet. Indem nun die in der Špule verbrauchte Arbeit mit dem Wattmeter gemessen und die in den Windungen nach dem JouVschen Gesetze erzeugte Wárme berechnet wurde, konnte die oben angefuhrte theoretische Folgerung experimentell bestátigt werden.
+Wenn man in die Špule ein Eisendrahtbundel oder einen Eisenkern legt, so wird auch Arbeit im magnetischen Felde geleistet. Dadurch wird der Magnetismus in Bezug auf den magnetisirenden Strom verzógert und dá die inducirte elektrom. Kraít voň dem magnetischen Felde abhángig ist, so erfolgt
+XI. ﻿39
+eine Verzógerung dieser elektrom. Kraft. Wir erhalten fiir das resultirende Gefálle in der Spirále den Ausdruck
+(»)                  **r*+Z,$('Hř).
+wo durch  das Symbol l /--------j nach Ferraris die Verspátung der elektrom.
+Kraft angedeutet werden soli. In diesem Symbole bedeutet 3 den Verzogerungswinkel zwischen Magnetismus und magnetoelektr. Kraft. Driícken wir den in die Spirále gelciteten Strom abermals durch die Gleichung
+•                   •         •                .
+/i ^^ /Q sin oj / aus, so erhalten wir fiir das result. Gefálle die Gleichung
+wo A die Amplitudě děs resultirenden Gefálles bedeutet und aus der Gleichung (4)                        A11 = (r *0)2 + (/., co /0)« -f 2 r /02 /., w sin <Y
+bestimmt werden kann; wáhrend B die Phasenverschiebung děs result. Gefálles in Bezug auf den  durch  die Spirále geleiteten Strom  bedeutet  und  aus der
+Gleichung
+L, co cos 3
+tg B =        l
+sin tV
+r-\- Ll
+berechnet werden kann. Aus der Gleichung (4) ist ersichtlich, dass die beiden Gefálle, námlich das durch den Ohnťschen Widerstand und das durch den inductiven Widerstand erzeugte Gefálle in diesem Falle nicht in Quadratur sind. Man kann das result. Gefálle in děni Dreiecke abc (Fig. 4) durch (b c] , das durch den Ohm'schen Widerstand erzeugte Gefálle durch (a l>) und das durch den inductiven Widerstand erzeugte Gefálle durch (a c} geometrisch dar-stellen. Die vom Punkte c auf die verlángcrte Seite a b gefállte Senkrechtc schliesst mit der Seite a c den Verzogerungswinkel 3 ein.
+Dividirt man die Amplitudě děs resultirenden Gefálles in der Spirále durch die Amplitudě děs Stromes, so erhalt man den Gesammtwiderstand A'
+A
+= R =
+(L,
+sin d] .
+o
+Man kann diesen Gesammtwiderstand wie das resultirende Gefálle in eincm áhnlichen Dreiecke darstellen (Fig. 5). Dieser Gesammtwiderstand bcsteht aus <Jem wirklichen Widerstande
+t m sin 3
+""nd aus dem inductiven Widerstande
+^ Ct   = O)/ =  L0 /,, COS 3 .
+i berwindung děs inductiven Widerstandes wird keine Arbeit geleistet, die >n einer bestimmten Zeitperiode aufgespeicherte, latent gewordene elektrische Energie wird in ciner nachfolgenden Zeitperiode wieder frci. Im wirklichen
+XI. ﻿40
+Widerstande wird aber elektrische Arbeit geleistet. Dieser besteht aus dem sogenannten Ohm'schen Widerstande ;- und aus dem Widerstande 7.t w sin ti welcher ausserhalb děs Stromkreises im magnetischen Felde entsteht. Man sieht somit, dass in diesem Falle der wirkliche Widerstand vergrossert, der schein-bare oder inductive Widerstand im Verháltnisse l : cos ti vcrkleinert wird-Bezeichnet man die Amplitudě děs resultii enden Gefálles mit e0 , so kann man die Intensitát děs elektr. Stromes durch die Gleichung
+.
+sin M t
+ausdríicken. Es ist somit die Amplitudě děs Stromes
+o
+o
+Aus  dieser Gleichung kann   man   den Gesammtwiderstand in der Špule  aus der Relation
+o
+bestimmen.   Nach den experimentellen Untersuchungen ist dieses Verhaltniss nicht constant, sondern nimmt mit stcigender Amplitudě děs Stromes ab. Die
+• •
+Anderung cles Gesammtwiderstandes lásst sich náherungsweise durch die Relation
+R
+o
+ausdriicken. Dá nach den experimentellen Voraussetzungen r, L , to constant sind, so kann man sich die Abnahme děs Gesammtwiderstandes nur durch die Abnahme děs Verzógerungswinkels mit wachsender Amplitudě děs Stromes erkláren. Die Arbeit, welche voň der gesammten elcktrom. Kraft in der Spirále geleistet wird, ist gleich der Šumme der Arbeiten der einzelnen clektrom. Kriifte, somit
+e« 1
+; z
+__
+/,, /02 sin d
+n
+: 2
+Der Ausdruck — -^—  misst   die   in  dem   Stromkreise   geleistete  Arbeit,
+/        ""   2
+wahrend - * °   sin ó'  die Arbeit misst,  welche ausserhalb  děs Stromkreises
+im magnetischen Felde   durch Hysteresis und Foucaulťschc Střídmé   geleistet wird. Bezeichnet man diesel be mit //, so kann man diesel be aus der Relation
+H =         cos B
+rt
+o
+bestimmen. Aus der Relation
+~      cos /? =         (r + . L, sin »)
+,,
+XI. ﻿41
+fol<t, dass man die gesammte geleistete Arbeit auch nach dem Jouťschen Gesetze bestimmen kann, indem man den Ohm'schen Widerstand um den iiquivalenten Widerstand im magnetischen Felde vergróssert. Bezeichnet man mit // den áquivalenten Widerstand im magnetischen Felde, so berechnet man die durch Hysteresis oder Foucaulťsche Strome geleistete Arbeit aus der Relation
+// — n
+— Ji i' 2
+— u i s   •
+Aus den experimentellcn Untersuchungen mit dem Eisendrahtbimdel geht nun hervor, dass man die Beziehung zwischen dem gesammten Gefálle in der Spirále und der Intensitát děs durchfliessenden Stromes durch íblgende Relation ausdriícken kann
+daraus ť>lgt, dass der Gesammtwiderstand
+R = '.t-2
+) nimmt der Gesammtwiderstand mit wachsender Amplitudě ab. Dá die Abnahme děs Gesammtwiderstandes nur durch die Abnahme děs Verzógerungs-winkels erklárlich ist, so folgt, dass auch o , d. i. der gesammte wirkliche, und auch //, d. i. der aquivalente Widerstand im magnetischen Felde abnchmen wird. Die in der Tabelle verzeichneten Zahlen bestátigen vollauf die gemachten Deductionen. Aus diesen experimentellen Untersuchungen geht also hervor, dass die Ilysteresis dem Quadrate der Amplitudě nicht proportional ist, son-dcrn in činem langsameren Yerháltnisse zunimmt. Es wird im Folgenden gexeigt, dass die voň Steinmetz aufgestellte Formel zuř Bestimmung der Hy-
+steresis
+H= »7^10,
+wo  /> die max. Kraftlinien und /,- einen  constanten Factor bezeichnet, in der vorliegenden   theoret. und experim. Untersuchung   ihre Erklárung findet.
+Die der theoretischen Untersuchung zu Grunde liegende und voň Ferraris aufgestellte Bedingung
+ť
+(
+dt
+sagt aus,   dass der magnetische Zustand   nicht nur  in Bezug  auf die magne-
+»
+tisircnde Kraft um vcrspiitet ist, sondcrn dass auch der magnetische Zustand, wenn der magnetisirende Strom harmonisch verlauft, auch sich harmo-nisch ilndert. Es wird nun auf Grundlage der experimentellen Untersuchungen der Beweis gelieíert, dass mit Zugrundelegung der Bedingungen, unter welchen die Versuche gemaclit worden sind, der magnetische Zustand wirklich sich harmonisch andert. Es folgt daraus, dass die voň Ferraris auťgestellte Bedin-říung fiir matli. CharakterisirunLí der Hysteresis sich in den hier angeťuhrten Versuchen vollstandig bestiitigt hat, man darť aber ft nicht als eine constante, sondern als eine mit wachsender Amplitudě děs Stroines abnehmcnde Grosse
+Rechnung brineen.
+o        o
+Ko/pravy. Ročn. II. Tr. II. C.   II.
+XI. ﻿42
+Gleichzeitig wird auch auf die Erklarung der Hysteresis naher eingegangen und zunáchst das schon voň Warburg aufgestellte Analogon zwischen dem Reibungswiderstande und der magnetischen Reibung einer eingehenden Be-sprechung unterzogen. Aus dieser Untersuchung geht hervor, dass Hysteresis nicht analog ist dem Reibungswiderstande bei der Bewegung eines Kórpers auf seiner Unterlage, sondern dass die sogenannte Hysteresis qualitativ besser mit einer Bewegung in einem widerstehenden Mittel verglichen werden kann; indem der magnetische Widerstand mit wachsender Amplitudě děs Stromes wáchst. Dá die Periodě stets constant erhaltcn wurde, so kann man das Gesetz auch in der Weise ausdriícken, dass der ma<m. Widerstand mit der Ge-
+*>
+• •
+schwindigkeit, also mit der Anderung der Intensitat wáchst.
+Vergleicht man den magnetischen Widerstand mit dem elektrischen Wider-stande, so findet man, dass der aquivalente mngnetische Widerstand mit wachsender Strom-Amplitude abnimmt.
+Bei den Versuchen mit vollem Eisenkern waren die Foucaulťschen Struníc voň solcher Intensitat, dass eine starke Erwarmuiw děs Eisens eríbl^te. Dá
+o                                o
+durch eine grossere Erwarmung der Widerstand abnimmt, so werden die Foucaulťschen Strome bei der Erwarmung geschwácht. Aus dem Grunde wurde eine Reihe voň Versuchen mit zunehmender und abnehmender Strom-Amplitude ausgefuhrt. Man kann abermals annaherungsweise die Beziehung zwischen der gesammten elektrom. Kraťt und der Intensitat děs Stromes bei zunehmender Stromamplitude durch die Relation
+//,= 6-25 /',+ 10,
+bei abnehmender Stromaplitude durch die Relation
+14
+ausdriícken. Man findet also, dass auch in diescm Falle die Gesammtwider-stánde mit wachsender Stromamplitude abnehmen, wie wir es bei den Versuchen mit dem Drahtbťmdel gefunden haben. Das Gesetz wird also durch die bedeutende Erwarmung qualitativ nicht alterirt.
+Wenn der Gesammtwiderstand mit wachsender Stromamplitude abnimmt, so muss auch die Phasenverschiebung und somit auch der wirkliche Widerstand und der aquivalente magnetische Widerstand abnehmen, was in den angeíuhrten Versuchen auch vollkommen bestátigt wird. Vergleicht man die
+• •
+Anderung děs áquivalcnten magnet. \Yiderstandes im Eisendrahtbúndel mit der Anderung desselben Widerstandes im Eisenkerne, so findet man, dass diese Anderung im Eisenkerne, wenn gleiche Stromschwankungen vorausge-setzt werden, kleiner sind als im Eisendrahtbiindel. Wahrend bei der Anderung der Stromintensitát in den Grenzen 2 047 A — ÍS'56 A der aquivalente magn. WTiderstand um f>Ň°/0 abgenommen hat, findet im Eisenkerne in den Strom-grenzen 2'5u* — H'15 sowohl bei zunehmender als auch bei abnehmender Intensitat eine Abnahme voň bloss 25% mit steigendcr Stromami )litude statt. Aus den mitgetheilten Versuchen geht somit hervor, dass in beiden Fállen, ob in die Špule ein Drahtbimdel oder ein Eisenkern eingelegt wird, eine Phasenverschiebung zwischen dem magnetischen Felde und drr magnetisirenden
+XI. ﻿43
+Kraft stattfindet, dass diese Phasenverschiebung voň der Stromamplitude ab-hángig ist, und dass der weitcre Verlauf děs magnetischen Zustandes harmo-nisch ist.
+Diese Phasenverschiebung ist grosser im Eisenkerne als im Eisendraht-biindel, nimmt aber procentualisch langsamer ab mit wachscnder Stromamplitude
+Im vorhergehenden wurde der elektrische Zustand bloss in der Špule be-stimmt, im letzten Theile der vorliegenden Abhandlung wird der elektrische Zustand im ganzen Stromkreise einer theoret. und exp. Untersuchung unter-zogen.
+Wenn in den áusseren Stromkreis die einfache Špule eingelegt \vird, so erhált man fůr den result. Strom die Gleichung
+c
+o
+n
+sin o) / ,
+wo Ll = L -}- L', d. i. der result. Selbstinductionscoefricient im ganzen Stromkreise ist gleich der algebraischen Summo der einzelnen Selbstinductionscoeffi-cienten. L bedeutet den Selbstinductionscoefficientcn děs Inductors, L' bedeutet den Selbstinductionscoeíficienten der Špule. Ob dieser result. Strom harmonisch verlauft, kann man cxperimentell nach Stefan ermitteln, indem man die Relation
+
+C   2 2 čd
+wo /', das quadr. Mittel der Stromintensitát bedeutet,   grafisch darstellt.   Die eventuelle Ubereinstimmung der exp. Resultate mit der Gleichung der Geraden
+y = a x
+gibt einen Aufschluss uber den harmonischen Verlauf děs Stromes.   Aus den Constanten a, b lásst sich dann der result. Inductionscoefficient bestimmen.
+Legt man in den Stromkreis die Špule mit dem Eisendrahtbiindel oder mit dem Eisenkerne, so erhált man tur die result. Intensitat im Stromkreise die Gleichung
+o
+O
+sn
+«•+(•/)'
+in \velcher Gleichung
+o
+sin <V ,
+L , cos A .
+/ = L
+Es ist also der result. Inductionscoefncient nicht einfach gleich der Šumme der Inductionscoefncicnten děs Inductor und der Špule, sondern auch voň der Phasenverschiebung děs magn. Feldes abliiingig.
+Der Widerstand setzt sich aus dem Ohnťschen und aus dem aquivalenten Widerstande im magnetischen Felde zusammen. Wollte man auch in diesem talie experimentell nach Stefan den harmonischen Verlauf děs Stromes nach-Weiaen. so hat man statt děs Ohm'schen den wirklichen Widerstand bei der
+4*
+XI ﻿44
+graf. Darstellung zu Grunde zu legen. Aus der Gleichung der Geraden, welche den exp. Resultaten am besten entspricht, kann man abermals den result. Inductionscoefficienten im Stromkreise berechnen.
+Um die theoretischen Folgerungen exper. zu prufen und um sowohl die resultirenden Inductionscoeíficienten als auch die einzelnen Inductionscoeíficienten zu bestimmen, wurden folgende Versuchsreihen angestellt :
+1.   In den Stromkreis wurde kein inductiver Widerstand gelegt.
+2.   In den Stromkreis wurde ein inductiver Widerstand, die blosse Induc-tionsspule eingelegt.
+3.   In den Stromkreis wurde die Špule mit dem Eisendrahtbundel und
+4.   die Špule mit dcm Eisenkerne eingelegt.
+In den beiden letzten Fallen wird auch Arbeit ausscrhalb děs Strom-kreises geleistet.
+O
+Bei diesen Versuchen wird die Intensitát děs magnctischen Feldes, in welchem sich der Inductor mit constanter Geschwindigkeit bewegte, constant erhalten.
+Wenn man dann die exp. Rcsultate nach Stefan grafisch darsteilt, indem man in den beiden erstcn Fallen den C)hm'schen Widerstand, in den beiden letzten Fallen, wo auch Arbeit ausserhalb děs Stromkreises geleistet wird, aber den wirklichen Widerstand o einsetzt, so gelangt man zu Gleichungen voň geraden Linien, aus welchen man die result. und einzelne Selbstinductions-coefficienten bestimmen kann.
+Aus der crsten Versuchsreihe folgt:
+Q = 216 V ;
+= 5-78 ;       L = 0-0214 ;
+L ist der Selbinductionscoeíficient děs Inductors. Aus der zweiten Versuchsreihe folgt:
+/' <
+o
+= <i-56 ;       L, = 0-02-13 ,
+wo Ll  den result. Selbstinductionscoefficient bedeutet.
+Dá /,, = L -f- L', so ist der Selbtinductionscoefficient der Špule
+L' ==(' Aus der dritten  Versuchsreihe folgt:
+
+T
+= 10-12 ;      / = o-of>íM)i;,
+wobei / = L -\- Lt cos ti .
+Aus den elektrischen Messungen in der Špule mit Eisendrahtbundel folgt:
+// = LI (•) sin d ;
+dá nun /, //, L exper. ermittelt wurden und w eine bekannte Grosse ist, so kann man <V und /,,  bestimmen. Es ist
+L, = 003839 und
+= 4° 35'
+XI. ﻿4.'
+Aus der letzten Versuchsreihe folgt:
+<•„ = 200 ;
+
+und
+als resultirender  Selbstinductionscoefficient. Der Selbstinductionscoefficient   der Špule mít dem Eisenkerne
+und die Phaseiwerschiebung :
+v ^z
+WcMin man die iin Winkelmasse bcMvchnetc rhasenverschiebun^ xwischen dem magnetischen Zustandc   und   der macnetisirendcn  Kraft   in Zeiteinheiten
+• i                                                                t>
+ausdriíckt, so betrá^t diese  Verschiel>un^ i m  Lusendrahtbiíndel  bci der Inten-sitát
+/', — 5-78 A ,         / = 000002ÍMI Sek.
+und im  Eisenkerne bei der Intcnsitut:
+= OO002183 Sdc.
+Ko/.pravy. Kočn. II. Tř. II.  Č.  II.
+\\ ﻿* ﻿* ﻿t
+\
+/*>
+á/f
+tté
+Tabulka   II
+Tah u lká III"

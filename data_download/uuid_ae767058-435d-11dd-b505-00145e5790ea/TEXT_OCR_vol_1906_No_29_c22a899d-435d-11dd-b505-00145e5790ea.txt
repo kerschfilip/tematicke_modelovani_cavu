@@ -1,0 +1,148 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+TŘÍDA II.
+ČÍSLO XXIX.
+Nová methoda určování ballistických konstant galvanoměrů.
+Ing. L. Simek.
+o
+(Se 3 vyobrazeními v textu.) Předloženo dne 22. června 1906.
+Při používání ballistických galvanoměrů ku zkoušení železa a i jinde, kde uzavřených kruhů proudových se používá, jest častější určení ballistické konstanty jejich žádoucno. Poněvadž se u moderních ballistických galvanoměrů často používá velikých tlumení, až do úplné aperiodicity, jest velmi nesnadno přesně stanoviti poměr útlumu a dobu kyvu, tak že určení konstanty ballistické z těchto dat experimentálních nelze s žádoucí přesností provésti.
+Jiné methody, jako použití kyvadla Helmholtzova, neb použití kondensátoru, hodí se pro galvanoměry tyto méně, poněvadž se tlumení jich silně s odporem obvodu galvanoměrů mění.
+Zbývají tedy methody indukovaných množství elektrických. K témuž účeli používá se častěji tak zvané cejchovní spirály, jež takové rozměry a tvar obdrží, aby hustota silokřivek blíže středu spirály snadno vypočísti se dala. Ze známého pak průřezu a počtu závitů sekundárních v ta rnísta navinutých lze vypočísti elektromotorické množství *) v sekundární cívce indukované při určité změně proudu v obvodu primárním. Dělením pak na odpor obvodu sekundární cívky obdržíme tímto obvodem proběhnuvší indukované množství elektrické, jehož k určení konstanty ballistické použíti se dá. Poněvadž ale jednak účinný průřez cívky velmi těžko určiti se dá, jednak vedlejší vlivy, jako paramagnetická měď, nestejnoměrnosť závitů a p. značné a těžko vyhnutelné chyby působí, není methoda tato příliš přesná.
+*) >Elektromotorickým množstvím* nazývám výraz <f>;/., jejž Němci též >elektro motorische IntegralkrafN nazývají.
+XXIX. ﻿Avšak i tam, kde zařízení laboratoře dovolují veškerým možným chybám se vystříhati, zůstává při této methodě to nepříjemné, že krom vlastního uspořádání pokusu musíme připravovati zdroj a měřicí přístroje pro primární proud do měrné cívky.
+Z toho důvodu častěji užívají se tak zvané sekundární normály, jež dle úpravy Kohlrauschovy pozůstávají ze třípolového tyčového magnetu a cívky, jež po tomto pošinouti dá. Tyto musí se však častěji přecejchovati, poněvadž otevřený magnet snadno svůj magnetismus mění. Krom toho dávají tyto induktory pouze jedno elektromotorické množství, jež se nedá děliti.
+Přístroj, který dobře ku cejchování ballistických galvanoměrů by se hodil, měl by vyhovovati následujícímu:
+1.  Elektromotorické   množství   nechť  se   vytváří   bez   pomoci  jiných zdrojů proudových.
+2.  Toto množství nechť se dá jednoduchými prostředky dle možnosti absolutně určiti.
+3.  Nechť jest možno též stanovitelné zlomky celého množství vytvořiti.
+4.  Apparat musí beze změn delší dobu přesnost' svoji zachovati a na venkovských vlivech pokud možno býti nezávislý.
+Těmto požadavkům vyhovuje následující přístroj:
+Ve vzduchové mezeře magnetu na způsob Deprezových přístrojů utvořeného pohybuje se na hřídelku v kamenech uloženém rámek ze závitů isolovaného drátu. Přívody k tomuto mohou bud' spirálami jak u Deprezových přístrojů obvykle, neb jen pomocí velmi ohebných tvrdých drátků neb pásků provedeny býti. Na hřídelíku nalézá se dále lehké vahadlo, jež na děleném oblouku se pohybuje. Toto vahadlo má na jedné straně v určité vzdálenosti zavěšenou misku na závaží; strana druhá opatřena matkami co protiváha. Ve středu pod hřídelíkem nalézá se ještě krátké raménko se závažíčkem ku docílení stabilní rovnováhy a ku nařízení přiměřené citlivosti.
+Theorie přístroje.
+Položíme-li na misku vyrovnaného vahadla nějaké závaží o váze P jest třeba zavésti do závitů rámečku intensitu J určitého směru a velikosti, aby opět rovnováha byla zjednána. V případě tomto vyváží moment síly závaží moment od proudu pochodící.
+Moment závaží
+M— P .g .R,
+kdež g akceleraci a R rameno vahadla znamená. Moment proudu
+M' — 11 . b . B. r. J
+kdež značí n počet účinných drátů rámečku, b délku magnetického pole, jež dráty sekou, B hustotu silokřivek ve vzduchové mezeře a r střední vzdálenost' drátu od osy otáčení.
+XXIX. ﻿Poněvadž při rovnováze
+jest
+M — M',
+R
+Opíše-li dále rámeček v přístrojku úhel, indukuje se v závitech elektromotorické množství
+E — n.b.B.d kde d značí střední dráhu, již při výklonu dráty vykonají:
+d — r.
+180
+Z čehož
+a s rovnicí  1.
+E — //. b . B . r .
+180
+2.)
+3.)
+Nemáme tudíž ve výrazu pro elektromotorické množství hodnotu počtu závitů, hustotu pole magnetického B ani účinnou délku drátů b, ani střední poloměr závitů r, vesměs to veličiny, jež velmi těžko lze přesně stanoviti.
+Elektromotorické množství jest dáno vahou P, délkou ramene R, úhlem «° a intensitou J.
+Veškeré tyto hodnoty lze snadno na 1°/00 přesně určiti, a možno očekávati, že tedy i údaje přístroje budou vykazovati značnou přesnost'.
+Až na intensitu, jež jest základní hodnotou elektrickou, jsou veškeré ostatní hodnoty absolutní.
+Elektrické množství, jež potřebujeme pro cejchování ballistických galvanoměrů, obdržíme dělením elektromotorického množství na odpor obvodu W, v němž toto působí
+K   _ P.g.
+~ ~ ~W ~~       W'.
+4.)
+Konstruktivní jednotlivosti.
+Apparát zmíněný, jejž příště měrným induktorem chci nazývati, jest vyobrazen v obr. 1. a sice se zavěšenou miskou ku cejchování připraven.
+Dílek 30° slouží za značku rovnováhy, a za účelem vystříhání se paralaxy jest skrze rameno vahadla navrtán otvor, jímž dílek jest viděti.
+XXIX. ﻿Za příčinou zmenšení váhy jest vahadlo krom protizávaží provedeno z magnalia. Na dolejším konci na stupně děleného oblouku jest jemně stavěči šroubek vS^ s protimatkou.
+Tím lze dolejší polohu vahadla přesně na začátek dělení stupňového postaviti a slouží co dolejší narážka pro vahadlo (obr. 2.). V této poloze zadržuje vahadlo výběžek N vypouštěcí páčky H. Zmačknutím této lačítku D uvolní se rameno a opíše žádaný úhel.
+na
+Obr. l.
+K ohraničení tohoto úhlu nahoře jsou na oblouku posuvně upraveny sáňky, které svým indexem J na určitý úhel postaveny a arretačním šroubkem 5 připevněny býti mohou.
+Jako narážka slouží zde opět stavěči šroubek S2 s protimatkou, kterýžto se tak postaví, aby skrze otvor ve vahadlu index ^ ve středu viděti bylo.
+XXIX.
+- ﻿Aby se zabránilo odskočení vahadla od této narážky, jest třeba, by živá síla ramene v okamžiku dotknutí se narážky byla utlumena, a aby vahadlo v této poloze se zadrželo, nutno vahadlo ,na narážku přitlačovati.
+Oběma účelům slouží pero s nosem F na sáňkách upevněné. Pohybující se vahadlo musí toto pero odtlačiti, při čemž největší část' živé síly ztrácí a po překročení nosu přitlačuje tento vahadlo ku narážce.
+Obr. 2.
+Poněvadž nahoru působící moment matek protivážných jest při vyvěšené misce příliš veliký, nahradí se částečně váha misky pojezdným závažím.
+Ostří pro misku jest ve vahadlu otáčivě zasazeno, tak že jest možno rameno vahadla přesně na určitou délku ku př. 10 cm upraviti.
+Úprava pole magnetického a rámečku ze závitů jest známa, a jest právě taková jako u přístrojů Deprez-D'Arsonvalových.
+XXIX. ﻿Samozřejmě závisí i zde proporcionalita mezi elektromotorickým množstvím a úhlem výkyvu rámečku na stejnoměrnosti pole po celé délce dráhy rámečku.
+Bylo by ještě připomenouti, že nelze závity navinouti na uzavřený kovový rámek.
+Obr.  3.
+Provedená měřeni.
+Aby apparát na přesnost svých údajů byl zkušen, byla provedena řada pokusů, z nichž zde buďtež popsána stanovení konstant dvou ballistických galvanoměrů.
+Jedním z galvanoměrů byl ballistický galvanoměr od Siemens & Halske se systémem způsobu Deprezova o odporu 372 Ohm, s magnetickým vedlejším spojením a dobou kyvu 38 vteřin.
+XXIX. ﻿Galvanoměr ten opatřen jest vedlejším odporem 2000 Ohm způsobem takovým, že při různé citlivosti celkový odpor galvanoměru se nemění.
+Ku srovnání nové methody užito bylo normální cívky, od Siemens & Halske, jejíž koefficient vzájemné indukce obnáší:
+7^=0-01 Henry = Lv — Z,2
+V primárním obvodě induktivního normálu byly kommutovány následující intensity J, čímž galvanoměr na sekundární obvod připojený vykázal odchylky a mm na stupnici 1.5 m vzdálené:
+y
+G'4465 Amp 0-2970   » 0-1412   »
+a
+211'5 mm
+140-6    »
+66-8    »
+Každé měření jest středem z několika oboustranných odečtení. Jest tedy   pro kommutování l Amp odchylka 473'3 mm.   Konstanta ballistická pak ze vzorce
+dosazením
+M.1.J W.a
+0.01 . 2
+2000. 473-3
+= 2 113. 10-ř
+Pak byla konstanta při nezměněném postavení galvanoměru a škály jakož i při ne/měněných odporech určena měrným induktorem.
+Nejprve byl induktor vážením cejchován a tu závaží P držel rovnováhu proud J dle tabulky:
+P
+l-00.gr 0-75  » 0'50  >
+J
+00766 0-0509
+Tedy průměrně na l gr intensita 0'1019 Amp.
+Pak byl induktor připojen na galvanoměr a tu dal výkyv induktoru o 60° odchylku na škále = 240*3 mm. (Střední hodnota z několika oboustranných měření.)
+Za pomoci rovnice 4. a převodných čísel mezi absolutními a praktickými jedničkami určí se konstanta ballistická
+P-g-
+'* — ""    ~
+n.u. IQ""7 . 18077""
+XXIX. ﻿dosazením
+_
+b ~~
+. 10 .n .
+2000 . 0-1019 . 180 . 240-3
+_
+""    ""
+Rozdíl oproti dřívějšímu měření 0.66 % může se snadno malými chybami pozorovacími, neb chybou v amperemetru, jež velký vliv zde má, vysvětliti.
+Za příčinou přesvědčení se o proporcionalitě mezi úhlem výklonu měrného induktorku a indukovaným množstvím měřena výchylka a při různých odklonech «, jež podala výsledek tento:
+		a.
+a	a	—
+		a
+10°	40-5	4-050
+20°	80'5	4-025
+30°	120-6	4-020
+40°	160-6	4-015
+50°	2001	4-002
+60°	240-3	4005
+Jest tedy proporcionalita až na první odečtení při 10° velmi dobře zachována. Větší odchylka (ca 1%) při prvním měření snadno může se při malém úhlu státi.
+Druhý galvanoměr, jehož konstanta tímže způsobem ustanovena byla, jest též od Siemens & Halske principu Deprez-D'Arsonvalova o 20 Ohm odporu v systému a s dobou kyvu 32 sek. Byl vyvolen tento galvanoměr s malou dobou kyvu, aby se seznalo, jaký vliv má na měření ta okolnost, že doba vytvoření množství elektrického není zcela okamžitá, trvajíc po dobu pohybu rámečku.
+Tato doba jest oproti době dříve zkoušeného galvanoměru nepatrná, oproti době kyvu tohoto nelze ji však považovati za nekonečně malou.
+Se vzájemnou indukcí a 2000 Ohm v obvodu byly dosaženy tyto výsledky:
+0-4480 0-2990 0-1422
+158-9
+106-0
+50-7
+Následovně   po   kommutaci   l   Amp  odchylka   355 mm  a   ballistická konstanta :
+0.01.2
+2000. 355
+XXIX.
+-
+J. ﻿Při určování měrným induktorem dal výkyv 60° odchylku   na škále 179'7 mm, a ballistickou konstantu
+1.981. 10..í.-_30,.10-^_ 2000.0 1019. 180. 1797    ""
+Rozdíl oproti měření vzájemnou indukcí obnáší 0'57%, což podobně jako u prvého lze vysvětliti.
+Obě odchylky jsou ve stejném směru, tak že se naskýtá též domněnka, zda není normál vzájemné indukce poněkud velký.
+Trvání proudového impulsu neokázalo tedy žádného škodného vlivu.
+Proporcionalitu odchylky galvanoměru s úhlem vyklonil rámku podává následující tabulka:
+10° 20° 30° 40° 50° 60°
+	K
+a	-----
+	a
+303	3030
+60-2	3010
+90-6	3020
+1206	3001
+150-0	3000
+179-7	2-995
+i zde zachována jest proporcionalita v mezích přesnosti. Přístroj, se kterým pokusy tyto vykonány byly, provedla firma B. Zuckriegel v Praze k úplné spokojenosti a náleží týž ústavu elektrotechnickému c. k. české vyš. školy technické, v jehož laboratořích a jehož přístroji veškerá zde uvedená měření vykonána byla. ﻿*"

@@ -1,0 +1,330 @@
+"","x"
+"1"," ﻿KO(""NÍK   XVIII.
+TŘÍDA II.
+ČÍSLO -J.
+O vztahu mezi délkami oblouků kotálnic a úpatnic.
+XapsaJ Miloslav Pelíšek,  Praha.
+Předloženo dne 2~>. května  1908.
+
+Jak známo, uvedl Stci-ncr ve svém proslulém pojednání: ,,Uber d e n K r ú m m ungsschwerpunkt e b e n e r C u r v e n, Crelle's Journal 1840, p. 33—G:} a 100—-133, v němž se zabývá hlavně plošnými obsahy kotálnic a úpatnic, o délkách oblouků těchto křivek jedinou větu a sice bez důkazu na str. 35: ,,Kotálí-li se křivka po přímce, jest délka kotáJnice rovna délce úpatnice hybné křivky vzhledem k opisujícímu bodu jakožto pólu.""
+Mannheim dokázal tutéž větu 1858 a později ještě Paul Serret jakož i Lamarle a podali různá zevšeobecnění, avšak stále jen pro případ, že se kutálení děje po přímce, jak jest uvedeno v Mannheimově: Principes e t D é v e l o p p e m e n t s d e G é o m é t r i e čin é m a t i q u e, Paris l<s'->4. Appendice pag. 511—530.
+V následujícím se zabývám souvislostí oblouku kotálnic a úpatnic, dějc-li se kotálení libovolné křivky po libovolné křivce. Též o této úloze se /minuje Stciner ve formě otázek a úloh v Crelle-ově Journalu z r. 1838 pod titulem ,,L e h r s á t z e u n d A u i g a b e n"", a sice rozlišuje případy, že se kotálí kružnice po kružnici, a pak, že se kotálí libovolná křivka po libovolné základně; řešení však nepodává.
+Jak známo, jest kotálení pohyb, při kterémž se hybná křivka h stále dotýká pevné křivky z, jež sluje základna kotálení, a při kterém vždy jeden bod hybné křivky přijde ve styk vždy s jedním bodem pevné křivky. Libovolný s hybnou křivkou // pevně spojený bod /> opíše pak v rovině pevné křivky z křivku k, jež sluje kotálnice.
+Rozpravy: Rol. XVIII. Tř. II.. .Mslo 2.
+II. ﻿Abychom   seznali   vlastnosti    elementu    tohoto   pohybu,    označme ibr.    I.)   albi = a.2b2  společný   element   hybné    a   pevné  křivky   jakož
+i /;, c\ = b., c.2> cl dv == c2 d.2 sousední elementy obou křivek. Budtež dále Aa\ a Já., kontingentní úhly hybné a pevné křivky v bodě b± = b.2, při čemž musí býti Ju\ > A o,.,, děje-li se kotálení na vnitřním obvodě peMié křivky.
+Spojíme-li v ro\-ině hybné kři\ ky body í?,, &,, c1 s opisujícím bodem p, obdržíme trojúhelníky a\ b} p, bl ct p, jež se stýkají ve straně /;, p. Sko-lálí-li se oblouk b^ cl hybné křivky do stejného oblouku b.2 c.2 pevné křivky, otočí se v rovině pevné křivky troj-()l3r j                            ťihelník 6t c^ p okolo okamžitého středu
+otáčení    bl:.'-b.2    o    nekonečně    malý
+úhel   <4«] 21 Aa.,,   dle   toho,   děje-li  se  kotálení na  vnějším    neb vnitřním obvodě pevné křivky.
+Polohu q, do které se skotálí opisující bod p, obdržíme tedy, sestro-jíme-li na elementu b.2 c.2 pevné křivky trojúhelník b., c.2q ^ bl c} p. Klement kotálnice p q můžeme tedy stanoviti z nekonečně úzké kruhové výseče
+ij p q, ve které úhel u vnějším neb vnitřním
+jest
+Ja.2, dle toho,   děje-li se kotálení na
+obvodě pevné křivky: p q = p 6X (^lal 2i //
+Označíme-li element kotálnice zí k a vzdálenost opisujícího bodu /> od okamžitého středu otáčení písmenem Q, obdržíme:
+Dle výměru křivosti jest však:
+při čemž značí Až element oblouku základny neb hybné křivky, a r, R poloměry křivosti hybné a pevné křivky v okamžitém středu otáčení !>\ bz> Íe^ jsou určeny prusečníky normál v sousedních bodech /;,, i\ jakož i b2, Cy.
+Budtež dále /, průsečík normál v bodech ň, a r, jakož i ;', průsečík normál v bodech cl a dlt pak jest bl /, poloměr křivosti r v bodě /;, a c} gt [loloměr kři\osti r + Ar \ bodě cv Rovněž tak obdržíme b.,/., jíoloměr křivosti 7v \- bodě /;._, a c2 g., j)oloměr křivosti R -f AR \ bodě c.2 pevné křivky.
+\\. ﻿Dosadíme-li tyto hodnoty do j)ředešlé rovnice, obdržíme: (1)      41 k — Q (       ^t j) ) d z,    aneb též:
+\ r       A'
+K l e m e n t o b l o u k u k o t á lnice a e l e m e n t obi o u k u z á k l a d n y n e b li y b n é k ř i v k y j s o u v t é m ž e p o m ě r u j a k o s o u č e t n e b r o z il í l p ř e v r a t n v c li h o d not pól o-m ě r u k ř i v o s t i h y b n é a p e v n é k ř i v k y v o k a m ž i t é m středu o t á č e n í a p ř e vra t n á hodnota v z dálenosti opisujícího bodu od okamžitého středu otáčení, dle toho, d ě j e -1 i se k o t á l e n í n a v n ě j š í m n e b v n i t ř-n í m o b v o d ě p e v n é k ř i v k y.
+Poloměry křivosti v bodech clt c* se v rovnici (1) nevyskytují; jest tedy tato rovnice v platnosti pro stálý i proměnlivý poloměr křivosti pevné i hybné křivky.
+Spustíme-li s bodu p (obr. 2.) kolmici p ni na tečnu <7, bv v okamžitém středu otáčení blt jakož i kolmici p n- na Urnu />,(•, v okamžitém středu otáčení cv jest ni // = 4u element úpatnice u hybné křivky // vzhledem k opisujícímu bodu p jakožto pólu. Nekonečně malý kontingentní úhel z/a se pak vyskytuje v trojúhelnících /, bl r,, p in /a b} l n, při čemž značí /, střed poloměru křivosti v bodě bt, a / značí průsečík kolmice p n s tečnou al b^.
+Poněvadž jsou tyto trojúhelníky pravoúhlé, jsou si všechny podobny:
+Na základě této podobnosti můžeme psáti úměry:
+ni -p                        bj l
+úsečky /// lani jsou tedy nekonečně malé prvního stupně jako b} c,. V trojúhelníku /;/;// jest úhel u / roven HO-f-z/a, máme tedy pro nekonečně uialv oblouk ni n výraz:
+ni n- -    Vin /-' + ;;. /- -   -2 ni l. ni. cos (DO + J a);
+poněvadž jest úhel z/a nekonečně malý, jest též cos (00 -f- z/«) nekonečné ""lály, a poslední součin v předcházející rovnici jest nekonečně malý nejméně třetího stupně a muže býti zanedbán vůči ostatním členům, jež Js<>u nekonečné malé druhého stůjme. Máme tedy:
+II. ﻿m
+n = V ni /2
+Z toho soudíme, že můžeme považovati trojúhelník mni za pravoúhlý a trojúhelníky ;///>,, ;////> a /;, r, /, též za rovnoramenné, jelikož úhly při základnách jsou stejné.
+Dosadíme-li  hořejší hodnoty pro  ;;/ / a -;/•/,  následuje:
+m n —
+/i
+V~Mi>2 +
+Jelikož se- konečná úsečka nemění, přičteme-li neb odečteme-li  nekonečné malou úsečku, můžeme místo l\l psáti 6t m; jest tedy:
+pak jest ale odmocnina rovna úsečce -p b^, máme tedy při výše uvedených označeních:
+(2)      Ju ==  p z/ ,tr .
+E l e m e n t o h l o u k u ú p a t n i c e a e l e m e n t o b l o u k u hybu é k ř i v k y jsou v t é m ž e p o m é r u j a k o v z d á lenost pólu p o d okamžitého s t ř e d u o t á č e n í b{ n a hyb n é k ř i vce a p o l o m ér křivosti h y b né k ři v k y v t o m t o s t ř e d u o t á cení.
+Dělíme-li rovnici  (1), kterou též můžeme psáti ve tvaru:
+(Ib)
+R .
+rovnicí (2), krátí se (:])
+r a z/2, takže obdržíme nový vztah: aneb též:
+R±r -=-<**
++ -}
+R)
+Element obi o u k u k o t á l n i c e a element o b l o u k u p ř í s l u š n é ú p atnicejsouvtém ž e p o m ě r u j a k o s o učet neb rozdíl poloměr u křivosti pevné a h y b n é k ř i v k y v oka m žitém s t ř e d u o t á cení a p o l o m ě r křivosti pevnékřivky, dletoho, děje-lisekot á lení n a A' n é j š í m neb vnitřním obvodě z á k l a d n y.
+Rovnice (3) neb (3a) jest význačná tím, že se v ní nevyskytuje Q, a že jest tedy nezávislá na poloze opisujícího bodu -p vzhledem k hybné křivce; z této jednoduché souvislosti (3) lze odvodit celou řadu zajímavých důsledku.
+Především jest třeba konstatovati, že rovnice (3) neb (30) jsou zevšeobecněním vztahu mezi délkou oblouku kotálnice a úpatnice, který
+
+II. ﻿vyslovil Steincr a dokázal Mannheim, děje-li se kotálení na přímce; v tomto případě jest K — *>   a   rovnice (3a) přejde v následující:
+(4)      Jk = 4 u, ;meb pouliou summací:
+(40)     k -   u, čímž jest jednoduše dokázána věta Steinerova:
+K o t á l í -1 i se libovolná k ř i v k a n a p ř í m c e, opíše li b o v o l n ý s hybnou k ř i v k o u pevně spojený bod p k o t á l n i c i, jejíž délka s e rovná délce ú p a t n i c e hybné k ř i v k y v z h l e d e m k opisu j í c í mu bodu p j a k o ž t o p ó l u.
+Jsou-li hybná a pevná křivka při kotálení libovolné, jsou pak poloměry křivosti R a r proměnlivé a mohou býti vyjádřeny, rovněž tak jako elementy oblouků 4 k a z/ u jakožto funkce odkotáleného oblouku. Přejdeme-li ke konečným obloukům, obdržíme:
+*-E
+~~   du         aneb naopak: R
+Rovnice (5) slouží k rektifikaci kotálnice, známe-li differenciál oblouku úpatnice, a naopak, rovnice (0) slouží k rektifikaci úpatnice, /náme-li differenciál oblouku kotálnice.
+Kotálí-li se kružnice po kružnici, jsou poloměry R a r konstantní, a v rovnici (3) se dá pouhou summací přejíti ku konečným obloukům:
+Tuto rovnici můžeme též psáti:
+(l a]      h : u = -27T (K ± r) : 'litR.
+Kotálí-li se k r u ž n i c e po vnější m n e b v n i t ř n í m o b v o d ě p e v n é k r u ž nice, jest d é l k a j e d n é vet v e p o-vstal é e p i- n e b h y p o cykloidy a délka jedné větve p ř í s l u š n é ú ]) a t n i c e v t é m ž e poměru jako ob v od k r u ž-11 ' r (1 o j> s a ne t ě ž i š t ě m h y b n é k r u ž n i c e a o b v o d z á-k l a d n í k r u ž n i c e.
+lim jest zodpověděna jedna z otázek, po případě řešena jedna x- úloh, které na výše uvedeném místě postavil Steincr.
+Rovnice (7) můžeme užíti, abychom určili bez integrace délky všech cykloid, epicykloid a hypocykloid, prostých, zkrácených i prodloužených,
+('""ž se děje následujícím  /působeni:
+II. ﻿fi
+Kotálí-li se kružnice o poloměru v na přímce, opíše každý bod A1 na obvodě hybné kružnice prostou cykloidu, a úpatnice hybné kružnice vzhledem ku /> jakožto pólu jest prostá kardioida; z rovnice (\a) následuje, že jsou délky obou křivek sobe rovny.
+Tyto délky obdržíme bez integrace na základe známého výsledku z konstrukcí hypocykloid:
+Kotálí-li se kružnice o poloměru r po vnitrním obvodu kružnice o poloměru R ^= 2 r, opíše každý bod na obvodu hybné kružnice průměr, a sice sem a tam; délka kotálnice jest tedy 4 r. I)osadíme-li tento výsledek do vzorce (7), obdržíme:
+(8)      n      M r ;
+Jest tedy délka úpatnice S ;•; tato úpatnice jest však táž prostá kardioida jako v dřívějším případě. Z toho následuje, že i délka jedné větve prosté cykloidy jest 8 r.
+Kotálí-li se kružnice Ji o poloměru r po vnějším obvodě pevné kružnice z o poloměru /\ = n /', opíše každý bod />, jenž leží na obvodě hybné kružnice, «-bokou prostou epicykloidu. Úpatnice hybné kružnice vzhledem ku pólu p jest však táž prostá kardioida jako dříve, a její obvod jest 8 r: máme tedy pro délku s„e jedné větve 7f-boké prosté epicykl<.)idy následující vztah:
+Kotálí-li se kružnice li o poloměru r po vnitřním obvodě pevné kružnice z o poloměru R — nr, opíše každý bod p na obvodu hybné kružnice »-bokou prostou hypocykloidu. Úpatnice hybné kružnice vzhledem ku pólu p jest táž prostá kardioicla jako dříve; máme tedy pro délku s,,/, jedné větve ;/-boké prosté hypocykloidy vztah:                                    ^
+(io)     ,.t!==5Í!L-í),.
+Vzorce  ('.))  a  (10)  odvodil analyticky již Dc la Hirc.
+Z těchto výsledku jest patru*>:
+Obvody všech prostých cykloid, epicykloid a hypocykloid jakož i kardioid se dají vyjádřiti jako alikvotní díly poloměru hybné kružnice a sice bez integrace.                     «*
+Kotálí-li se kružnice k o poloměru r po přímce, opíše každý bod />, jenž má od vnějšího obvodu této kružnice1 vzdálenost a, prodlouženou cykloidu, a úpatnice kružnice k vzhledem ku pólu /> jest prodloužená kardioida; dle vzorce (4a) rovnají se délky těchto dvou křivek, a můžeme zase obě vyjádřiti bez integrace na základě známé věty z konstrukce hypocykloid:
+Kotálí-li se kružnice k o poloměru r po vnitřním obvodě kružnice o poloměru R — 2 r, opíše každý bod />, jenž má od vnějšího obvodu ﻿hybné kružnici' vzdálenost a, ellipsti jakožto dvoj bokou prodlouženou liypocykloidu, jejíž poloosy jsou a, '2 r + a. OznacMme-li obvod této ellipsy E*r + "" a dosadíme do vzorce (7) za k, obdržíme:
+(11)      u = 2E;r + "".
+Tato úpatnice jest \-sak táž prodloužená kardioida jako \- dřívějším případě; máme tedy vety:
+Obvod prodloužené kardioidy jakožto úpatnice kružnice k o polc-měru r vzhledem ku pólu p, jenž má vzdálenost a od vnějšího obvodu kružnice k, rovná se dvojnásobnému obvodu ellipsy, jejíž poloosy jsou 2 r + a, a.
+Délka jedné větve prodloužené cykloidy, kterou opíše bod p, jenž má od vnějšího obvodu hybné kružnice o poloměru r vzdálenost a, rovná se dvojnásobnému obvodu ellipsy, jejíž poloosy jsou 2 r + a, a.
+Mannheim dokázal též na uvedeném místě, že oblouk prodloužené cykloidy se dá vyjádřiti obloukem ellipsy.
+Kotálí-li se kružnice o poloměru r po vnějším obvodě kružnice o poloměru R = n-r, opíše každý bod p, jenž má od vnějšího obvodu hybné kružnice vzdálenost a, '//-bokou prodlouženou epicykloidu. Poněvadž /.i,stane úpatnice táž jako v předcházejících případech, obdržíme pro délku s™, jedné větve -//-boké prodloužené epicykloidy pomocí vzorce (7):
+(121      s        íiHLtlír^*-
+\1'J)           O ;;/,,•-                                JCr fl
+Celý obvod -;/-boké prodloužené ep;cykloidy se tedy rovná 2 (;/ + 1)-násobnému obvodu ellipsy o poloosách 2 r + a, a.
+Kotálí-li se kružnice k o poloměru r po vnitrním obvodě kružnice
+0   poloměru   A* = ;/ ;-,  opíše každý bod p,  jenž  má  od vnějšího  obvodu hybné kružnice vzdálenost  a,  -//.-bokou prodlouženou  hypocykloidu.    Po-ně\-adž zůstane úpatnice táž jako dříve, obdržíme pro délku s,,/,/,   jedné větve  ;/.-boké prodloužené hypocykloidy pomocí vzorce  (7):
+•l (n— 1) _ír + -(l-i)     snph=      ^--     'Et,
+( elý ob\-od 7/.-boké prodloužtMié hypocykloidy se tedy rovná '2 (n— 1) násobnému obvodu ellipsy o poloosách %r-\-a, a.
+Rovněž taková úvaha se dá provésti pro všechny druhy zkrácených cykloid.
+Kotálí-li se kružnice A' o poloměru /• po přímce, opíše každý bod p. jenž má od vnitřního obvodu hybné kružnice vzdálenost a, zkrácenou cykloidu, a příslušná úpatnice. jest zkrácena kardioida: ze vzorce (4a)
+následuje,   že  délkv  obou  křivek  jsou  sobě  rovnv.  Tvto  délkv  můžeme
+1                                                                                     ""
+bez  integrace  vyjádřiti  na  základě  známé věty  o  konstrukcích    hyp-.i
+cykloid: ﻿Kotálí-li se kružnice k o poloměru r po vnitřním obvode kružnice o poloměru R = 2 r, opíše každý bod, jenž má od vnitřního obvodu hybné kružnice vzdálenost a, ellipsu jakožto dvoj bokou zkrácenou hypocykloidu, jejíž poloosy jsou 2r — a, a\ označíme-li obvod této ellipsy E""„r~ a a dosadíme do (7) za k, obdržíme:
+(14)      u = 2 L•;;'""""
+Tato úpatnice jest však táž zkrácená kardioida jako v předcházejícím případě. Máme tedy věty:
+Obvod zkrácené kardioidy jakožto úpatnice kružnice o poloměru v vzhledem ku pólu p, jenž má vzdálenost a od vnitřního obvodu kružnice, rovná se dvojnásobnému obvodu ellipsy o poloosách 2r-—a, a.
+Délka jedné větve zkrácené cykloidy, kterou opíše bod p, jenž má od vnitřního obvodu hybné kružnice vzdálenost a, rovná se dvojnásobnému obvodu ellipsy, jejíž poloosy jsou 2 r — a, a.
+Kotálí-li se kružnice o poloměru r po vnějším obvodě kružnice o poloměru R — nr, opíše každý bod p, jenž má od vnitřního obvodu hybné kružnice vzdálenost a, w-bokou zkrácenou epicykloidu. Poněvadž zůstane úpatnice táž jako v předcházejících případech, obdržíme pro délku sníe w-boké zkrácené epicykloidy pomocí vzorce (7):
+(15)    ....»lÍ5±^Lr-.
+Celý obvod ;/-boké zkrácené epicykloidy se tedy rovná 2 (n + J) násobnému obvodu ellipsy, jejíž poloosy jsou 2r-—a, a.
+Kotálí-li se kružnice o poloměru r po vnitřním obvodě kružnice o poloměru R = nr, opíše každý bod />, jenž má od vnitřního ob\ ódu hybné kružnice vzdálenost a, »-bokou zkrácenou hypocykloidu. Poněvadž zůstane úpatnice táž jako dříve, obdržíme pro délku jedné větve zkrácené «-boké hypocykloidy s„zi, pomocí vzorce (7):
+.  2 (n-1)      Zr_a
+n z li   —                                 L,  a
+n
+(16)
+Celý obvod w-boké zkrácené hypocykloidy se tedy rovná 2 (n •— 1)-násobnému obvodu ellipsy, jejíž poloosy jsou 2r — a, a.
+Z předcházejícího jest patrno:
+Délky jedné větve prodloužené kardioidy, cykloidy, epi- a hypocykloidy se dají vyjádřiti jako aliquotní díly obvodu ellipsy L«fH a délky zkrácených těchto křivek se dají vyjádřiti jako aliquotní díly obvodu ellipsy E""a'~ "" a sice bez integrace. Veškeré tyto výsledky o délce jedné větve prostých, prodloužených a zkrácených epi- a hypocykloid se dají též vyjádřiti jediným snadno srozumitelným vzorcem:
+II. ﻿pi-i čemž se vztahují první znaménka ± na epicykloidy a hypocykloidy, a druhá znaménka ^ na prodloužené a zkrácené křivky, kdežto pro a = o obdržíme prosté křivky, při čemž obvod ellipsy E„'~ "" přejde ve 4 r, pro n = oo obdržíme vzorce pro kotálení na přímce.
+Vzorec (17) udává tedy vniternou spojitost mezi délkami všech prostých, prodloužených a zkrácených cykloid, epicykloid a hypocykloid. Kektifikací cykloid bez integrace zabýval se již Hennig v Crelle-ove Journalu 18(if) v pojednání: B e i t r a g zuř T h e o r i e der e b e n e n R o u l e t t e n, a sice jednak na základě úvah o poloměru křivosti, jednak úvahami o podvojných roulettách; na tuto práci jsem byl upozorněn, když moje pojednání, které tím není nikterak dotčené, bylo již takměř hotové.
+Jako kontrolní případ pro správnost vzorce (7) můžeme ještě uva-žovati pohyb, při kterém se přímka P kotálí po vnějším obvodě kružnice o poloměru R, jest pak r = oo, úpatnice hybné přímky vzhledem k libovolnému pólu p jest bod, a tedy u = o.
+Vzorec (7) dává pak skutečně
+k            k
+u —                        - = o ,
+r        oo
+čímž jest jeho správnost potvrzena.
+Další důležitý případ jest onen, že se kotálí libovolná křivka po vnějším obvodě shodné křivky, tedy tak, aby byly poloměry křivosti /v a r v každém okamžitém středu otáčení sobě rovny a opačného směru; pak přejde vzorec (3) v následující:
+d k = 24u.
+Od tohoto vzorce můžeme přejíti pouhou summací ku konečným ""bloukum, čímž obdržíme:
+(18)      k = 2u.
+Máme tedy obecnou vetu:
+Kotálí-li se libovolná k ř i v k a /e po vnějším o b-v o d ě s h o d n é křivky t a k, a b y p o l o m ě r y křivosti ""bon k i- i v e k byl y v každé m bode d o tyku s t e j n é a opa c n e h o směru, opíše l i b o v o l n v s h y b n o u k ř i v k o u p e v n e s p o j e n ý b o d p kot á lnic i, j e j í ž ob v o d s e r o v n á d v o j n ás o b ném u ob v o d u ú p a t n i c e h yb n é k ř i v ky v /. h l e d r m k opisující m u b o d u /> j a k o ž t o pól u.
+Veta vyjádřená vzorcem (18) shoduje se v podstatě s větou, kterou
+dokázal  planimetricky  Stcincr na  str.   l:í2.  zmíněného pojednání,  jakož
+s  obdobným   případem  Hcnnig-ových podvojných  roulett,  kotálí-li  se
+křivka p<> shodné křivce, že jsou totiž kotálnice a úpatnice podobné, při
+čemž jest  nomér podobnosti 2:1.
+II. ﻿10
+Tato věta má též jakousi analogii s větou, kterou dokázal Sfcinci-na str. 107. zmíněného pojednání, a jež /ní:
+Iv o t á l í-1 i s e l i b o v o l n á u / a \- ř e n á kón v e x n í k ř i v k a j> o p ř í m c e, opíše po ú p l n é m o d k o t á lení jednoho o b-v o d u li b o v o l n ý s li y b n o u k ř i v k o u s p o j e n ý 1) o d /> k o t á l n i e i, j e j í ž p l o š n y obsah s e r o v n á d v o j n á s o b-n é m u o b s a h u ú p a t n i e e li y b n é k ř i v k y v / li l e d e m k n /> j a k o ž t o ]> ó l u.
+Jako kontrolní případ o správnosti věty vyjádřené vzorcem (1S) uvažujme kotálení kružnice poloměru ;• na vnějším obvodě shodné kružnice. Střed hybné kružnice opíše jako kotálnici kružnici o poloměru 'l r. jejíž obvod jest -íjtr, kdežto úpatnice hybné kružnice vzhledem k jejímu stivdu jakožto pólu jest hybná kružnice sama, jejíž obvod jest '2nr, čímž jest věta potvrzena.
+Kotálí-li se kružnice o poloměru r po vnějším obvodě shodné kružnice, opíše libovolný bod na obvodu hybné kružnice prostou kardioidu, a příslušná úpatnice jest taktéž prostá kardioida; poměr podobnosti obou kardioid jest 2:1, čímž jest věta zase potvrzena.
+V následujícím uvádím několik speciálných případů hybné křivky, aby bylo zjevno, jak mnoho důsledku lze odvoditi z výše uvedených vět:
+Kotálí-li se kuželosečka po přímce, opíše její ohnisko křivku, jež sluje Dclauna\'-o\'íi, a příslušná úpatnice jest kružnice opsaná na hlavní ose jakožto průměru; můžeme tedy vysloviti větu, že obvod Delaunayovy křivky se rovná obvodu kružnice opsané na hlavní ose jakožto průměru.
+Kotálí-li se však kuželosečka po shodné kuželosečce1 tak, aby poloměry křivosti obou křivek byly v každém bodě dotyku stejné, opíše ohnisko hybné křivky kružnici, jejíž poloměr se rovná délce hlavní osy kuželosečky.
+Jako zvláštní  případy můžeme uvésti:
+Odkotálí-li se obvod ellipsy na přímce, opíše její ohnisko Delau-nay-ovu křivku, jejíž obvod se rovná obvodu kružnice opsané na velké ose jakožto průměru; větu tu dokázal direktně Spitzcr a později Hcnnig.
+Odkotálí-li se ellipsa po shodné ellipse, opíše ohnisko kružnici, jejíž poloměr se rovná délce velké osy.
+Kotálí-li se parabola po přímce, opíši' ohnisko řetězovku, jak dokázal Bonnct; úpatnice jest vrcholová tečna. Délka oblouku řetězovky se rovná tedy příslušné úsečce na vrcholové tečně.
+Kotálí-li se parabola po shodné parabole tak, aby poloměry křivosti obou křivek v bodě dotyku byly stejné, opíše ohnisko úsečku, jejíž délka se rovná dvojnásobné délce příslušné úsečky na vrcholové tečně.
+Odkotálí-li se hyperbola na přímce, opíše její ohnisko Delaunayovu křivku, jejíž obvod se rovná obvodu kružnice opsané na reálné ose jakožto průměru.
+II. ﻿11
+Ivotálí-li se hyperbola po shodné hyperbole tak, aby poloměry křivosti obou křivek v bodě dotyku byly stejné, opíše ohnisko kružnici, jejíž poloměr se rovná délce reálné osy.
+Ivotálí-li se rovnoramenná hyperbola po přímce, opíše její střed kiivku, jejíž obvod se rovná obvodu lemniskáty opsané na reálné ose1.
+Kotálí-li se rovnoramenná hyperbola po shodné hyperbole tak, aby poloměry křivosti obou křivek byly v bodě dotyku stejné, opíše střed hybné hyperboly lemniskátu, jejíž obvod se rovná dvojnásobnému obvodu předešlé lemniskáty.
+Zvolíme-li na /vratné tečně trojboké hypocykloidy libovolný bod -p. jest úpatnice hypocykloidy vzhledem ku pólu p Brocard-ova úpatnice, jejíž zvláštní případy jsou křivky zvané trojlist (triiolium) a d v o j-1 i s t (bifolium).
+""^ Kotálí-li se tato hypocykloida po přímce neb po shodné cykloidě, opíše bod p kotálnici, jejíž obvod se rovná jednoduchému potažmo dvojnásobnému obvodu Brocard-ovy úpatnice.
+Mannheim a též Bdlcnnann dokázali:
+Kotálí-li se kruhová evolventa po přímce, opíše její střed parabolu, kotálí-li se však po shodné evolventě tak, aby poloměry křivosti obou křivek byly v bodě dotyku stejné, opíše tento střed Archimcdovu spirálu A\. Úpatnice kruhové evolventy vzhledem k tomuto středu jakožto pólu jest, jak známo, taktéž Archimedova spirála .4.,.
+Můžeme tedy vysloviti věty:
+Ivotálí-li se kruhová evolventa po přímce, opíše její střed parabolu, jejíž oblouky se rovnají příslušným obloukům Archimedovy spirály A.2.
+Ivotálí-li se kruhová evolventa po shodné cvolventě tak, aby poloměry křivosti obou křivek byly v hodě dotyku stejné, opíše střed hybné ťvolventy Archimedoyu spirálu A}, jejíž oblouky se rovnají dvojnásobným příslušným obloukům Archimedovy spirály A.,.
+Kotálí-li se //-boka hypocykloida po shodné křivce, opíše střed hybné hypocykloidy kotálnici, jejíž obvod se rovná dvojnásobnému obvodu příslušné úpatnice. Tato jest, jak známo //.-boka rhodonea. Dle Ridolfi můžeme tuto rhodoneu považovati za //-bokou prodlouženou hypocykloidu, a délku jedné její větve můžeme dle dřívějšího vyjádřiti obvodem ellipsy E~r~"" .
+Označíme-li poloměr hybné kružnice- dané hypocykloidy ;•, obdržíme dosti jednoduchým počtem pro poloosy A, B ellipsy E~'~"" výrazy:
+Í191     4 - ""l"""" 2);-       B=    (""—2)2  , .....-21^1)'            W1^
+()b\-od -//.-boké rliodoney obdržínu- pomocí \-zorce  (!•"">):
+(á(»)        s„p.k = 2(n — 1) /:.';', ;>   jest   tedy obvod  kotálnice.  kterou opíše střed:
+(!>D     K    4 (//—i)/-;';. u. ﻿
+I-J
+Jako zvláštní případ můžeme uvažovati a s t r o i d u a dospějeme k výsledku:
+Kotálí-li se astroida po shodné astroidé tak, aby poloměry křivosti obou křivek byly v bodě dotyku stejné, opíše střed hybné astroidy čtyřlistou rhodoneu, jejíž obvod se rovná dvanáctinásobnému obvodu ellipsy, jejíž poloosy se rovnají třetině a šestině poloměru kružnice dané astroidé opsané. ';> ^V;|g '
+Kotálí-li se astroida po přímce, opíše střed astroidy křivku, jejíž obvod se rovná šestinásobnému obvodu ellipsy, jejíž poloosy se rovnají třetině a šestině poloměru kružnice dané astroidé opsané.
+Kotálí-li se ;;.-boká prostá epicykloida po vnějším obvodě shodné křivky, jsou úvahy obdobné. Střed hybné epicykloicly opíše kotálnici, jejíž obvod se rovná dvojnásobnému obvodu příslušné úpatnice. Tato jest zase «-listá rhodonea druhého druhu. Dle Ridolfi můžeme tuto rhodoneu považovati za w-bokou prodlouženou epicykloidu a délkii jedné její větve můžeme vyjádřiti obvodem ellipsy E~,r "" "". Označíme-li poloměr hybné kružnice dané epicykloicly r, obdržíme dosti jednoduchým počtem pro poloosy .4, B ellipsy E~J ^ "" výrazy:
+(n + 2) (n + 4)                  («. + 2)2
+2 (n +1)                       2 (« + 1)
+Dosadíme-li tyto hodnoty do vzorce (12), obdržíme obvod úpatnice:
+Tedy jest  obvod kotálnice,  kterou opíše střed  základní  kružnice, a jež jest úpatnici podobná v poměru 2 : l
+(24)      K =   4 (n + 1) E"" a tedy jest délka jedné větve:
+(25)
+D = 4
+Mannheim dokázal v uvedeném spise, že tato křivka jest zase ellipsa, jejíž osy však neuvádí; vzorec (2~>) značí tedy v podstatě transformaci elliptického integrálu v jiný elliptický integrál.
+Rovnice (3«) se dá ještě snadně integrovati v následujícím případě: Je-li poměr poloměru křivosti R a ;• stálý, jest též l -+- stálá veličina.
+Jelikož se na obou křivkách odvalí stejný oblouk T, jest pak též pcměr
+A'     r
+: — stálý,  takže předcházející podmínka  muže býti nahrazena pod-
+t         L
+mínkou, aby odvalený oblouk T a poloměr křivosti Q v koncovém   bodě tohoto oblouku byly úměrné.
+Tuto podmínku můžeme psáti:
+11. ﻿ze které následuje při známých označeních:
+— A ,    aneb též po krácení:
+/.                      /rt\         <J   í                                                                              L
+A    čili         —5—7—   = ^ ^ -v-
+l + y -                               d y
+Integrací této rovnice obdržíme křivku, jejíž rovnice jest: (27)        e*fc*   •'•' = cos (A .v + C2).
+Z\-olíme-li dvě hodnot v A, a A., a vynecháme k vůli jednoduchosti konstanty Cl a C2, obdržíme dvě křivky:
+e}-iV cos A .v == l     a    cil} cos A„ —  J.
+Kotálí-li se druhá křivka j>o prvé tak, aby v bodě dotyku panovala úměrnost odkotáleného oblouku a poloměru křivosti, opíše libovolný s hybnou křivkou pevně spojený bod kotálnici, jejíž oblouk se má ku oblouku úpatnice této hybné křivky vzhledem ku p jakožto pólu jako AJ -_ A2 ku A1; dle toho, děje-li se kotálení na vnějším neb vnitřním ob-vodě.
+Křivky t\-aru (27) jsou dle mého zdání mimo kružnice jediné křivky, pro něž existuje jednoduchá relace a sice výhradně mezi konečnými oblouky jejich kotálnic a úpatnic, kterou má na zřeteli Steiner ve zmíněných ,,Lclirsátze und Aufgaben"".
+Vzorce (o) můžeme též užíti, abychom odvodili -\ztah, ve kterém jsou elementy oblouku libovolné epitrochiody A a příslušné hypotro-choicly B, jež povstanou, odkotálí-li se určitý oblouk libovolné hybné křivky h po vnější a vnitřní straně určitého oblouku libovolné základny z; jest totiž:
+/,>   i   .,,                                          /.j___,-
+28)      4A=       -4u,   JB = --~^u.
+K                                        A
+Jelikož jest úpatnice v obou případech táž, následuje: (20)      J A : 4 B = (R + r] : (R — r).
+Element oblouku libovolné epitrochoidy a příslušné hypotrochidy jsou \- témže poměru jako součet a rozdíl poloměru křivosti základny a hybné křivky v okamžitém středu otáčení.
+Jsou-li A' a r konstantní jako u epi- a hypocykloid, jest tato relace v platnosti též pro konečné oblouky:
+.4 : B = (R + r) : (R — f). Tuto poslední větu dokázal direktně Hennig.
+Vzorce (3) můžeme též užíti ku odvození vety o obloucích kotálnic, která sluje Ekama-ova věta, a jež zní při našem označení:
+II. ﻿14
+Kotálí-li se libovolný oblouk a b libovolné křivky // jednou po vnějším a pak po vnitrním obvodu určitého oblouku na libovolné základně z, jest součet obou kotálnie, které opíše libovolný s hybnou křivkou spojený bod p konstantní a neodvislý od základny.
+Označíme-li zase oblouk epitrochoidy, jež povstane kotálením po vnějším obvodě, .4 a oblouk hypotrochoidy, jež povstane kotálením po vnitřním obvodě, B, obdržíme, jelikož úpatniee zůstane v obou případech táž :
+(2«)      4A= -jj-r~ 4 u ,    4 B = R~~-'' J u . Sečtením těchto rovnic obdržíme:
+ze které rovnice plyne pouhou summací:
+(:$())      .4 + B = -2 u.
+Můžeme tedy vysloviti obsažnější větu nežli jest Ekaina-o\'i\:
+Kotálí-li se l i b o v o l n á křivka // po vnější a vnitřní straně téhož oblouku libovolné z á k l a d n y z, jest součet kotálnie, které opíše libovolný shýbnou křivkou spojen v b o d />, rov e n d v o j n á s o b n é m u o b-v o d u ú p a t n i c e h y b n é k ř i v k y v z h l e d e m k opisuj í-c í m u bodu p jakožto p ó l u a jest tedy n e o d v i s l á od základ n y.
+Této větě bychom  mohli též dáti  tvar:
+A r i t h m e t i c k ý p r u měr délek o b l o u k u libovolné e p i t r o c h o i d y a příslušné h y p o t r o c h o idy se r o v n á délce oblouku přísluš n é ú p a t n i c e.
+Vzhledem ku vzorci (18)   můžeme též tvrditi""
+Kotálí-li se libovolná křivka po vnějším a vnitř-n í m o b vodě té li o ž oblouku libovolné z á k l a d n y, jest součet k o t á l n i c, které opíše libovolný s hybnou křiv k o u s p o j e n ý b o d, r o v e n dél c e obi o u k u o n é k o-t á l n i c e, jež po vstane, odkotáli-li se tentýž oblouk hybné křivky po vnějším o b v o d ě shodné křivky.
+Ekania vyslovil, že součet libovolné epitrochoidy a příslušné hypotrochoidy jest konstantní a nezávislým na základně, nedospěl však k \ ý-sledku, čemu se tento konstantní součet rovná; mohu tedy považovati větu vyjádřenou vzorcem (.'JO) za mnohem obsažnější, než jest věta Ekama-ova.
+Tato věta (.'50) udává v podstatě vztah mezi délkami konečných oblouku dvou sdružených kotálnic a mezi délkou oblouku příslušné úpat-mce, kotálí-li se libovolná hybná křivka po libovolné základně.
+J I. ﻿15
+Jest xajisté zajímavou otázkou, znal-li snad Stciner tuto větu, a vztahovala-li se snad na ni jeho známá úloha; ovšem tomu nenasvědčuje jeho stilisace, dle níž se má udati vztah mezi délkou konečného oblouku jediné kotálnice a příslušné úpatnice, kotálí-li se libovolná křivka po libovolné základně.
+Větu Ekama-ovu vyslovil takřka o čtvrtstoletí dříve Henuig ve vvše uvedeném pojednání, aniž by ji byl, dle mého úsudku, obecně správně dokázal; snad se neuvádí proto pod jeho jménem. Hennig užívá této věty svým způsobem, aby vyjádřil bez integiace délky jedné větve různých druhu cykloid.
+Věta Ekawa-o\-(\ se dá též zevšeobecnit v tom směru, že se muže místo určité hybné křivky kotáleti libovolná křivka určité soustavy o oblouk určité délky po vnějším a vnitřním obvodě jakékoliv křh ky jakožto základny, při čemž jest součet obou kotálnic stálý a neodvislý od základny.
+K tomu jest pouze třeba vyhledati soustavu úpatnic, jejichž délka oblouku jest úměrná odkotálenému oblouku hybné křivky; z rovnice (2)
+(2)       Ju=  ? zíz
+r
+jest patrno, že podmínce té bude vyhověno při všech křivkách, při kterých jest poměr průvodičc ku poloměru křivosti v bodě dotyku konstantní.
+Z podmínky
+(.TI)          ';'   = A    následuje dle (2)
+(.32)      u =--- K z. Podmínkou (:U) jest však určena differenciálná rovnice:
+= A         aneb též
+3/
+Integrací rovnice (:}:») obdržíme soustavu křivek, které mají následující vlastnost:
+Kotálí-li se libovolná z těchto křivek o oblouk určité délky jednou P<> vnějším a pak po vnitřním obvodě libovolné základny, opíše libovolný > hybnou křivkou spojený bod p dvě kotálnice, jejichž součet jest ne-odvislý od základny a rovná se dvojnásobné délce úpatnice hybné křivky vzhledem k opisujícímu bodu jakožto pólu, kterážto úpatnice jest dle definice pro všechny křivky soustavy konstantní.
+II. ﻿Větu Ekama-ovu neznám bohužel z původního pojednání, nýbrž ze spisu: Paul Franck: t) b e r die F l a c h e n i n h a l t e u n d B o g e n-1 á n g e n d e r R o 11 k u r v e n undFusspunktk u r v e n. Leipzig 1H99. Tato dissertační práce, v níž jest poukázáno na některé nepřesnosti o obsahu kotálnic a úpatnic ve spisu Steinerově, konána byla, jak autor sám praví, za vlivu proslulého geometru Sophus Lie; obsahuje též různé věty, jež vyslovili o kotálnicích a úpatnicích Wctzig, Raabc, (Gilbert, Hábích a j.
+Vzorce (5) a (d) našeho pojednání jsou analytické výrazy vztahu mezi konečnými oblouky kotálnic a úpatnic; jest z nich patrno, že pro každou volbu základní a hybné křivky obdržíme jiné výsledky; jest tedy pravdě podobné, že neexistuje žádný geometricky snadně vyjádřitelný vztah mezi konečnými oblouky kotálnice a úpatnice, jenž by byl v platnosti výhradně mezi délkami oblouku těchto křivek.
+V tomto smyslu se vyslovuje též Paul Franck, konče své pojednání na str. 57 doslovně:
+Interessanter sind wieder die umgekehrten Aufgaben, zu denen auch Steiners Aufgaben uber clie Bogenlánge voň Fusspunktkurvcn und Rollkurven gehoren. Steiner sagt z\vur (\Yerke, Band IT. S. 101), dass ér dieselben lósen kónne. Bei dieser Versicherung ist es aber auch ge-blieben. Ďas beruht wohl nicht etwa darauf, dass ér voň diesen Unter-suchungen abgelenkt \vorden ist. Ér hat wahrscheinlich mehr versprochen als ér halten konnte. Bisher ist \on diesen Aufgaben noch keine gelost worden.
+Vyslovil jsem se již výše o možnosti, že snad měl Steiner při své úloze na zřeteli větu (30), a že snad stilisace jeho úlohy nebyla dosti přiléhavá; mám tuto možnost za pravděpodobnější než názor právě citovaný.
+Naproti tomu jsem však skutečně dospěl k výsledku, že při libovolné základně a libovolné hybné křivce není možný vztah výhradně mezi konečnou délkou oblouku kotálnice, kterou opisuje libovolný s hybnou křivkou spojený bod a mezi délkou oblouku příslušné úpatnice, nýbrž že vztah ten obsahuje ještě délku oblouku jiné třetí křivky, kterouž lze z dané základny a hybné křivky jakož i z polohy opisujícího bodu snadno definovati; bude to patrno z následujících ťívuh:
+1   iPro vývin vztahu mezi konečnými délkami oblouků kotálnice a úpatnice užijeme zase vzorce (3) a sice ve tvaru
+A'
+Nahradíme-li v této rovnici <4n v posledním členu hodnotou ze vzorce
+(2)     z/ u -- - — <d z, obdržíme:
+(34)    J k      Ju± QR J z ;
+l! ﻿17
+kota lei u'  však následuje:
+z/ z = K 4 ((,.
+Dosadíme-li  tuto  hodnotu do dřívější  rovnice,  obdržíme z/ k = 4 u -±_ Q J a.,,
+/.(• které obdržíme pouhou summací:
+(:$."">)      k = u ±Z ()4 a.,.
+Nedá se očekávati, že by se algebraickými obraty docílilo, aby po-^lední člen ro\-nice (-'U) neb (:>."")) byl zá\ islý jedině na základně neb jedině na hybné křivce, a bylo by bezúspěšné vyhledávati nějaký vztah mezi veličinami (>, A', Jz a z/«.,. Při kotálení volíme libovolně: l. základnu. L', hybnou křivku a •"">. opisující bod; nemůže tedy existovati žádný vztah
+o z/ z
+ani mezi —-  J ani  mezi (i4u.,.
+Miižeme však j)oslednímu členu rovnice (.'$•"">) propůjčiti geometrický \ v/na m tím, že vyhledáme nový geometrický útvar, který by byl předcházejícími třemi volbami jednoznačně určen.
+Sestrojme graficky křivku, jejíž poloměry křivosti se rovnají pru-yodičum (> hybné křivky /' vzhledem k opisujícímu bodu p jakožto pólu. a jejíž kontingentní úhly se rovnají příslušným kontingentním úhlům z/a., základny z.
+K tomu účelu rozdělíme oblouk hybné křivky od okamžitého středu otáčení na dostatečně malé dílky a naneseme tyto dílky též od okamžitého středu otáčení na základní křivku. Pak spojíme povstalé body na hybné křivce s opisujícím bodem />, čímž obdržíme pruvodiče p; v povstalých bodech základny vedeme tečny, čímž obdržíme kontingentní úhly A a.,. Konečně si zvolíme v rovině libovolný bod u a vedeme jím paprsek, na který naneseme z a do s, pruvodič (>,; v bodě s, naneseme úhel «j a na jeho druhé rameno z s, pruvodič (>, až do bodu b, jenž náleží hledané křivce; tento postůj) opakujeme, abychom obdrželi další body ť. d . . . hledané křivky, kterou chceme zváti t r a n s ť o r m o v a n o u křivkou.
+Z konstrukce transformované křivky / jest patrno:
+a b = (íj «1      /; c = Lfo «2 . . . ;
+JcM tedy součet všech Q c roven délce oblouku této transformované křivky, který značíme /; máme teclv rovnici:
+Dosadíme-li tento výsledek do rovnice (:}."">), obdržíme větu, jež jest konečným  cílem celého pojednání:
+(••57)      k      u±t.
+Ro«pravy;   K,,r. \vill.  r,-. u.. , is|,, ...         ( j                                                      ., ﻿IS
+K o t á l í -1 i s ci lib o v o l n á k i' i v k a // p o v n ě j š í 111 n e b v n i t ř n í ni o b v o d ě z á k l a d n í k ř i v k y "", opíše l i b <>-A- o l u v s li y b n o u k r i v k o u s p o j e n v b o d p k o l á lnici k, jejíž d é l k a o b l o u k u s e r o v n á s o n č t n n e b r o x d í l u d é l o k o b l o u k n příslušn é n p a t n i c e u h y b n é k r i v k y h v z li l e d e 111 k opis n jící ni u b o d u /> j a k o ž t o pól u a d c l k y o b l o u k n o n é t r a n s ť o r ni o v a n é k r i v k y t, j o j í ž p o l <>-ni ě r y křivosti se r o v n a jí vzdálenostem opisujícího b o d u •/> o d o k a ni ž i t ý c li s t r e d u o t á č c n í n a li y b n é k r i v c e, a j c- j í ž k o n t i n g e n t n í ú lily se r o v n a j í p r í s l u š-n ý ni k o n t i n g e n t n í ni ú li l u ni x á k l a d n í k ř i v k y.
+Jest patrno, že mnženie křivku / považovati xa evnlyentu jiné křivky T, jejíž elementy oblouku se rovnají rozdílům vzdálen* M opisujícího bodu p od sousedních okamžitých středu otáčení na hybné křivce, a jejíž kontingentní úhly se rovnají příslušným kontingentním úhlům základny kutálení z.
+Tuto transformovanou křivku T můžeme podobné graficky sestrojiti jako křivku /.
+Jako kontrolní případ o správnosti vzorce (.'57) uvažujme kotálení kružnice o poloměru r po vnějším obvodě shodné kružnice, a zvolme za opisující bod střed hybné kružnice; pak jest délka kotálnice k -- 4 ir r, úpatnice jest hybná kružnice sama, tedy u--'2itr, a transformovaná křivka t jest zase kružnice o poloměru r, tedy t = 2 it r, čímž jest věta potvrzena.
+Zvolíme-li za základnu libovolnou křivku a za hybnou křivku kružnici o poloměru r a její střed jakožto opisující bod, pak opíše tento bod, děje-li se kotálení po vnějším neb vnitřním obvodě základny, d\ ě kotálnice kY a k.,, jež jsou k základní křivce rovnoběžné. Úpatnice jest zase hybná kružnice', a transformovaná křivka t jest kruhový oblouk o poloměru r, jehož středíný úhel se1 rovná úhlu, který tvoří tečny v krajních bodech základní křivky.
+Máme tedy větu:
+Kutálí-li se kružnice po vnějším neb vnitřním obvodě libovolné základny, opíše střed hybné kružnice dvě kotálnice, jež jsou k základně rovnoběžné. Vnější kotálnice jest větší ne/ základna o onen oblouk na hybné kružnici, jenž přísluší středovému úhlu, který se rovná úhlu tečen v krajních bodech základny; vnitřní kotálnice jest o týž oblouk menší než základna.
+Vela zůstává též v platnosti, má-li základní křivka libo\olně nuinlm bodu obratu.
+Vztah (itl) mezi konečnými oblouky kotálnice, úpatnice a transformované křivky jest zase obecnější než věta Ekaina-^\\\. poněvadž z něho tato, jakož i jiná obdobná bezprostředně následují.
+II. ﻿li)
+()značíme-li totiž zase délku kotálnice po vnějším a vnitrním obvodě /ákhulní kři\ ky .1 a B, při čemž /ustanou křivky u a / nezměněné, obdržíme dle (;íT):
+(:',S)      A      u + t,        (M)      # - M — /. Z  těehto ro\-nic  následují
+(40)      A + B =   -2 u,    (41)      .-l —B      -lt.
+Rovnice (40) byla již dříve uvedena jako rozšířená věta Kkama-ova.
+Rovnice  (41)  udává obdobný vztah:
+K o t á l í - l i se libovolná křivka // po v n ě j š í m a v u i t i n í m o b v o d ě libo v o lne z á k l a d n y, opíše lib o-v o l u v s li y b n o u k ř i v k o u s p o j e n ý bod p e p i t r o c li o i d u .1 a hypotrochoidu B, jejichž rozdíl se rovná d v o j-n á s o b n é d é l c e t r a n s l' o r m ováné k ř i v k y /.
+Nyní ovšem nemůžeme doložiti, že jest tento rozdíl nezávislý na /ákladní křivce z. Z předcházejících rovnic jde též na jevo
+(42)       .4 : B =  (•// + /) : (u — t) a (4:í)      ;/ : / = (A + B) : (A — B)
+Můžeme  tedy vysloviti  věty:
+Délka epitrochoidy a příslušné hypotrochoidy jsou \- témže poměru j.\ko součet a rozdíl únatnitH' a transformované křivky.
+Ale  též naopak:
+Délky úpatnice a transformované křivky jsou v témže poměru jako součet a rozdíl epitrochoidy a příslušné hypotrochoidy.
+Panuje tedy jakási involutorní souvislost mezi křivkami A, B a mezi křivkami //, t.
+\ rovnici (:>7) jsou srovnány oblouky tří křivek; abychom porovnávali oblouky jen dvou z těchto křivek, musíme rozeznávati následující tři případy:
+I. Kotálení se děje po přímce; pak se rovnají všechny kontingentní ulily J((., nule, jest tedy t- O, z čehož následuje Steineruv případ:
+(4a)      A' = u .
+~. Kotálí-li se shodná křivka po vnitřním obvodě shodné křivky, nemůže nastati žádný pohyb, jest tedy k = O, z čehož následuje:
+(44)       u      t.
+lentýž případ obdržíme, kotálí-li se křivka po vnějším obvodě >liodné kři\-ky; ]>ak ji-sl:
+(lS)       k       •> i,        n  tedy dle  (:J7) 'l u      u + t    čili         (44)      u =   l.
+•'!. Kotálí-li se přímka po \ nějším ob\-odě liboxolné základny, opíše libovolný s hybnou přímkou spojený bod p evolventu; úpatnice jest v tomto piípadč ji-diný bod, a tedy ;/ O, z čehož následuje:
+II. ﻿20
+(45)      k=i.
+Ve všech těchto případech bude zase důležitá opačná úloha: když jest známa délka kotálnice a úpatnice, určiti délku transformované křivky t.
+Z dřívějších příkladu následuje snadně:
+Délka křivky, jejíž poloměry křivosti se rovnají pruvodičum ohniska ellipsy, a jejíž kontingentní úhly se rovnají příslušným kontingentním úhlům ellipsy, rovná se obvodu kružnice, jejíž poloměr jest velká poloosa ellipsy.
+Při kotálení hyperboly po shodné hyperbole obdržíme pro ohnisko jako opisující bod transformovanou křivku, jejíž oblouk se rovná obvodu kružnice opsané na reálné ose jakožto průměru; pro střed hyperboly jakožto opisující bod obdržíme transformovanou křivku, jejíž délka se rovná obvodu lemniskaty.
+Jest patrno, že pro každý z výše uvedených příkladu můžeme určiti snadně délku transformované křivky; uvedu jen následující případy:
+Transformovaná křivka, jejíž poloměry křivosti jsou poloměry jedné větve astroidy, a jejíž kontingentní úhly jsou příslušné úhly této astroidy, rovná se šestinásobnérnu obvodu ellipsy, jejíž poloosy jsou třetina a šestina poloměru základní kružnice astroidy.
+Pro kotálení kružnice o poloměru /' po kružnici o poloměru A' // r, obdržíme při známých označeních jako délku transformované křivky:
+(4ti)
+Je-li při  tom opisující bod na  hybné kružnici,  jest
+S r
+(47)      í =      -. n
+V rovnici
+(2)
+můžeme též nahraditi 4 z = r z/ «L, čímž obdržíme:
+J u — () z/ «j ,
+a tedy pouhou summací
+(48)       M = 2 Q 4 «,
+Sestrojíme-li podobně jako dříve novou transformovanou křivku v, jejíž poloměry křivosti jsou vzdáleností opisujícího bodu od okamžitých středů otáčení na hybné křivce, a jejíž kontingentní úhly se rovnají příslušným kontingentním úhlům hybné křivky, má tato křivka ÍT stejnou délku jako úpatnice u. Též můžeme křivku ?,' považovati za evolventu křivky V, jejíž elementy oblouku jsou rozdíly pruvodiču sousedních bodu hybné křivky, a jejíž kontingentní úhly jsou příslušné kontingentní úhly hybné křivky.
+II. ﻿21
+Tím se zase rozmnožuje počet vztahu mezi délkami oblouků různých křivek.
+Je-li  známa  polární  rovnice hybné křivky vzhledem k opisujícímu bodu jakožto pólu:
+<f      f (s),
+při  čemž  jest   .s  odkutálený  oblouk,  a  jsou-li   známy přirozené   rovnice hybné křivky a  základny kotálení:
+r      <p (s)    a     A'      ý (s) , jest  dle  (1)  délka  kotálnice udán;i   vvrazcm:
+iYvní člen značí délku úpatnice; jelikož jsou ale / (s), <jp (s) a ^ (s) naprosto neoclvislé, nelze druhý člen vyjádřiti jako funkci prvního a tedy nelze též vyjádřiti k jako výhradnou funkci oblouku úpatnice, čímž jsou hořejší úvahy formálně ještě precisněji potvrzeny.
+II. ﻿*"

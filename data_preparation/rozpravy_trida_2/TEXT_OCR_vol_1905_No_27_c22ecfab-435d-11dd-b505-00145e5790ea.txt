@@ -1,0 +1,884 @@
+"","x"
+"1"," ﻿ROČNÍK XIV.
+TŘÍDA II.
+ČÍSLO 27.
+Staticky určité spojité nosníky příhradové.
+Napsal
+Dr. techn. Zdeněk Bažant. [Se sedmi tabulkami.]
+(Předloženo   dne   24.   května 1905.)
+Úvod.
+§ 1. Obecné posouzení statické určitosti.
+Spojitý nosník příhradový, trámový, obloukový či kombinovaný, může býti staticky určitým jen tehdy, netvoří-li bez vnitřních podpor jedinou tvarově určitou soustavu, nýbrž skládá-li se z několika takových soustav, spojených navzájem klouby a pruty. Dělení nosníku na soustavy může býti ovšem velmi různé. Tak při trámových nosnících stačí, skládá li se nosník ze soustav tvarově určitých, spojených pouze náležitým počtem příhodně umístěných kloubů; tento druh staticky určitých nosníků spojitých sluje spojitými nosníky kloubovými či krákorcovými. Ku spojen jednotlivých soustav možno však použíti vedle kloubů také prutů; v dalším vyšetřování přihlíženo bude, pokud se týče nosníků trámových a kombinovaných, pouze k tomuto složitějšímu případu.
+Obecně nechť skládá se nosník ze <? soustav, spojených x klouby a JT pruty, jež stýkají se v /3 styčných bodech. Počet posouvatelných podpor budiž Kt., pevných «2. Klouby, spojující soustavy, jsou dvojnýmií trojnými atd., spojují-li dvě, tři atd. soustavy. Dvojných kloubů budiž x}t trojných x2, čtverných x3, /z-násobných K„-\. V každém prutu působí jedna neznámá síla osová, v podpoře posouvatelné jedna a v pevné dvě neznámé složky reakce. V kloubu, v němž stýkají se soustavy, působí každá soustava na ostatní silou C (obr L), jež prochází kloubem, jinak však jest neznáma směrem i velikostí, stanoví se tedy dvěma složkami. Z celkového počtu těchto neznámých složek sil kloubových možno však dvě vyloučiti, uvažují li se předem dvě výminky rovnováhy všech sil na týž kloub působících. Kloub dvojný dává tedy 2.2 — 2 ~ 2 neznámé, kloub trojný
+l XXVII. ﻿2.3 — 2 — 4 neznámé,  kloub ^-násobný 2 « — 2 ~ 2 (« — 1) neznámých. Celkový počet neznámých sil jest tedy:
+* + «! +2«2 + 2x1 +2.2x2 + 2.3xs-f-.. . -j- 2(«— 1) x„-i.
+Máli býti nosník staticky určitým, musí být možno, veškeré neznámé síly stanoviti ze statických výminek rovnováhy. Styčný bod (v němž stýkají se pruty) dává dvě výminky rovnováhy. Na každou soustavu působí obecně síly po různu v rovině, pro něž platí tři výminky rovnováhy. Pak jest celkový počet výminek rovnováhy:
+20 + 3*.
+Nosník staticky určitý musí hověti rovnici:*)
+ar+ a, -f 2«2 + 2 x, -f- 2 . 2x2 -f 2 . 3x3 -f . . .
+(1)
+Tato výminka jest nutná, nestačí však vždy. Nosník může býti neurčitým i tehdy, je-li dostatečný počet výminek, a to v případě, kdy výminkové rovnice nejsou od sebe podstatně rozdílný. Pak jest nosník zároveň staticky i tvarově neurčitým. Během vyšetřování naskytne se příležitost, poukázati na takové výjimkové případy.
+§ 2.   Obecné vlastnosti čar príčinkových.
+1. Složitější nosníky dají se vyšetřovati nejlépe pomocí čar príčinkových, jejichž pořadnice v každém bodě dává přímo příslušnou veličinu (osovou sílu, reakci, moment a p.), vyvozenou pohyblivým břemenem v oné poloze působícím. Předem budiž ukázáno na některé důležité vlastnosti těchto čar.
+Při obtížení nepřímém lze snadno stanoviti obecně tvar příčinkové čáry jakékoli veličiny v libovolném oddílu mn (obr. 2.). Pohyblivé břírně, pro které čára příčinková jest stanovena, budiž vůbec rovno jedničce silové; pak při libovolném břemeni stanoví veličinu, o kterou jde, součin z velikosti břemene P a příčinkové pořadnice v\. V bodech styčných w, n, v nichž ovšem neliší se obtížení nepřímé od přímého, měj čára příčinková pořadnice i]m, rj„. Břímě P v libovolné poloze, v níž pořadnice příčinkové čáry budiž TJ, třeba nahrazovati při obtížení nepřímém složkami:
+p  ~ pí-     p — p-t
+*>m _ ^ d ,   rn — rd.
+*) Viz   také   H. F. B. Můller-Breslau:   »Graphische   Statik der Baukonstruktio-nen, I.« (2. vyd., str. 229.).
+XXVII. ﻿Pak platí: a tedy:
+PH
+S polohou břemene, danou úseky /, p\ mění se příčinková pořadnice dle zákona přímky, stanovené ovšem pořadnicemi t]m, 17„ v bodech m, n\ těchto hodnot nabývá pořadnice 17, položí-li se za p a p' zvláštní hodnoty, platné pro body m, n. Čára příčinková při obtížení nepřímém jest tedy v každém oddílu přímá.*) Tato věta platí obecně, pro nosníky staticky určité i neurčité.
+2. Při příhradovém nosníku staticky určitém, složeném z několika soustav tvarově určitých, spojených navzájem a s podporami klouby a pruty, působí na libovolnou soustavu 27 (obr. 3.) ostatní soustavy, po případě podpory a pruty silami, jež lze vždy převésti na tři neznámé síly A, B, C. Určovací paprsky jejich plynou, užije-li se veškerých výminek rovnováhy vyjma tři výminky, jež podává soustava 27. Působí-li pohyblivé břímě P pouze na tuto soustavu, nezávisí určovací paprsky sil A, B, C na poloze břemene, poněvadž plynou z výminek rovnováhy, ve kterých břímě/2 se nevyskytne. Síly A, B, C mají tedy při obtížení, jež působí pouze na soustavu 27, stálou polohu. Pak plyne kterákoli síla, na př. C, z výminky momentové, vztažené k průsečíku c obou ostatních sil A, B\
+C c — Ps — 0,
+tedy:  C—P-.
+O
+Příčinkovou čarou síly C (a obdobně i A, B] v oboru soustavy 27 jest tedy jediná přímka (m) (n), jež protíná osu na svislici průsečíku obou ostatních sil. Ze sil A, B, C plynou na základě výminek rovnováhy ostatních soustav a styčných bodů všechny síly, jež působí na ony soustavy, ano i osové síly prutů v ostatních soustavách. Vztah každé té síly k silám A, B, C jest lineárný, poněvadž veškeré výminky rovnováhy jsou vzhledem k silám lineárně. Při každém staticky určitém nosníku jest proto příčinkovou čarou libovolné síly na některou soustavu působící (tedy reakce, síly v kloubu, po případě osové síly prutu, který nenáleží k soustavě) v oboru každé soustavy jakožto části nosníku jediná přímka. To platí též o silách osových prutů ve všech soustavách; pouzevoboru soustavy, kukteré prut náleží, neplatí přímka jediná, nýbrž několik přímek příčinkových, poněvadž jiný zákon platí v levo, jiný v právo od řezu, vedeného prutem.**)
+*) Viz také J. Šolín: »Theorie plnostěnných nosníků obloukových* (str. 132). **) Jiný důkaz této  věty (na základě vyšetřování  kinematického)   obsahuje cito-
+vaný spis: Miťler-Breslau: »Graphische Statik, I.« (3. vyd, str. 481 >.
+l*
+XXVII. ﻿3.    Při nosnících staticky určitých jsou tedy příčinkovými čarami sil osových i reakcí soustavy přímek, jež mají společné pořadnice na mezích soustav, ze kterých se nosník skládá. Průsečíky těchto přímek s osou jsou neutrálně polohy.   Příčinkovou   čáru stanoví  úplně   neutrálně polohy všech přímek a velikost jedné pořadnice. Možno nahraditi ovšem některé neutrálně polohy vhodnými dalšími pořadnicemi. Je-li příčinková čára složena z n přímek, jest potřebí k úplnému stanovení (n -\- 1) prvků, z nichž aspoň jedna pořadnice.   Je-li  hodnot více,   slouží  přebytečné ke kontrole.
+Příčinkové čáry mají ve složitých případech výhodu dobrého přehledu o účinku obtížení a dovolují stanoviti příslušné veličiny za libovolného obtížení, nejen rovnoměrného, nýbrž i při pohyblivých soustavách osamělých břemen. Sestrojí-li se příčinková čára pro pohyblivé břímě P~ l, tu při částečném obtížení rovnoměrném od m po n jest hledaná veličina:
+S = q limu,
+kde značí: q obtížení poměrné, lt,„„ plochu obrazce příčinkového, omezenou svislicemi bodů m, n. Působí-li na nosník soustava osamělých břemen P^ P^ Ps . . ., v jejichž polohách jsou příčinkové pořadnice í^, íf2, rls . . . pak :
+S — ÍPn-i
+Břemena v oboru téže přímky lze při tom nahraditi výslednicí.
+4.   Jde-li o největší neb nejmenší hodnotu hledané veličiny, pak při pohyblivém obtížení rovnoměrném obtíží se   veškeré   kladně   neb záporně přičiňující díly nosníku.    Při řadě   osamělých   břemen   vybere se  nejdříve soustava nejúčinnější, jež obsahuje největší a nejhustěji položená břemena; jedno   z těchto   břemen   umístí  se   pak  do  polohy   něj většího pří-činku, dané největší pořadnicí příčinkové čáry. Působí-li obtížení v oboru několika přímek příčinkových,  nutno určiti  nejúčinnější   polohu   soustavy zkusmo.   Zůstává li však obtížení  v oboru pouze dvou přímek, dá se odvoditi   výminka,   které  nejúčinnější  poloha   soustavy   musí   hověti.   Jde-li o veličinu 6"", jejíž příčinková čára v uvažované části jest m ríp' (obr. 4.),
+\R\\     ' i                                                i      \m' ri\      \ i]i l     v,x.
+a isou-li: („} výslednice břemen   v  oboru   přímky \    .  ,\ a \      } pričin-J            l AU                                                                 l «d /      l». J
+kove pořadnice  v poloze výslednice l     j, platí:
+i).
+tedy:
+Při pohybu  soustavy  o nekonečně malou délku jest:  dt^ — —
+dS
+XXVII. ﻿Pro
+max l
+,   . . platí výminka :
+dS
+0 (horní  znamení  vztahuje  se
+, mm '                              dt,
+k předchozím, spodní k následujícím polohám pohyblivé soustavy).   Pak:
+aneb:
+a         b          c — a
+značí-li R výslednici všech břemen. Z toho plyne:
+(2)
+Tato výminka shoduje se úplně s Winklerovým kriteriem, jež určuje nejúčinnější polohu soustavy osamělých břemen, jde-li o moment ohybový v daném bodě prostého nosníku ; shoda ta jest následkem podobného tvaru příčinkových čar. Platí tedy kriterium Winklerovo vůbec v případě, kdy jde o obtížení v oboru pouze dvou příčinkových přímek působící.
+§ 3. Příčinkové cáry příhradového nosníku prostého.
+Základem pro řešení všech soustav složitějších jest nosník prostý. Příčinkovou čarou reakce tohoto nosníku jest přímka, stanovená v podpoře, o jejíž reakci jde, pořadnicí Pii. l, ve druhé podpoře pořadnicí rovnou nulle. Příčinkové čáry osových sil určí se snadno graficky (obr. 5.) Pro určitost budiž předpokládáno, že obtížení přenáší se na spodní pás.
+Osová síla libovolného prutu, na př. Dm, vyplývá při obtížen pravostranném (v právo od oddílu spodního pasu, proťatého řezem xx\ jenž protíná prut /?,„) z levé reakce na základě momentové výminky rovnováhy, vztažené ku přidruženému středu momentovému d; je-li r rámě síly Dm a d úsečka bodu d, měřená od A, tu:
+z čehož:
+Osová síla pro obtížení pravostranné liší se od levé reakce pouze o stálého součinitele------; příčinkovou čarou jest tedy přímka, jež prodloužena utíná na svislici levé podpory pořadnici: D'm — — l — , je-li
+T
+příčinková čára sestrojena pro břímě P""! (obr. 5./). Graficky lze určiti
+XXVII. ﻿D^ jako osovou sílu v prutu Dm, vyvozenou levou reakcí A—\ (obr. 5.^), což plyne z hořejší rovnice pro Dm> aneb také přímým odvozením pořadnice přímky pro pravostranné obtížení v bode a. Libovolná pořadnice této přímky plyne, určí-li se při břemeni P = l v příslušné poloze osová síla Dm na základě rovnováhy se silami: A, Hm-i, Sm. Pořadnice Dm' v bodě a jest tedy v rovnováze se silami: A nr l (vyvozena břemenem P — l v bodě a působícím), //'w_i, S'm.
+Zcela obdobně jest   pro   levostranné  obtížení, je-li  ď úsečka bodu d, měřená od B:
+Dm-B—-. r
+Příčinkovou čarou jest zase přímka, jež prodloužena stanoví v b pořadnici:
+D""   — l —
+./-/   m ----   A            i
+r
+kterou lze určiti jako osovou sílu prutu D„„ vyvozenou pravou reakcí B — l (obr. 5. c).
+Přímka pro obtížení pvavostranné, krátce přímka pravostranná má statickou platnost v právo od bodu (;// -j- 1) (obecně pravého styčného bodu proťatého prutu toho pasu, r.a který se přenáší obtížení), přímka levostranná platí staticky v levo od bodu (m — 1). Při nepřímém obtížení jest příčinkovou čarou v každém oddílu přímka, třeba tedy v proťatém oddílu mezi přímky již stanovené vložiti další přímku. Kontrolovati lze průsečík přímky pravostranné s levostrannou a průsečík přímky v proťatém oddílu (m—l)(«z-f-l) s osou, t. j. neutrálnou polohu.*) Prvý bod leží na svislici přidruženého středu momentového d. Neboť stanoví-li se pro břímě v bodě d pořadnice pravostranné přímky z levé reakce:
+ď
+~ — P -— , vychází: Dm zz — A — z=
+Ir   '
+ÍÁ>
+určí-li se pořadnice levostranné přímky z reakce B =: P ~r •> tu:
+D  .-»*-...»**-
+ÍJm ----- J->             ----- •*         7         •
+r           Ir
+Z rovnosti obou výsledků plyne, že přímka právo- a levostranná proti nají se na svislici přidruženého středu momentového.                                                                                  _______
+Neutrálná poloha dá se sestrojiti přímo jako průsečík přímeka'(m—\] a b\m' -(- 1), kdež a', b' jsou průsečíky proťatého prutu obtíženého pasu
+*) Další kontroly jsou v citovaném spise Můller-Brcslaua (3. vyd., str. 240), kdež také jsou příčinkové čáry kinematicky odvozeny (3. vyd., str. 488—490).
+XXVII. ﻿Sm se svislicemi podpor, (m — 1) a (m' -\- 1) průsečíky proťatého prutu druhého pasu Hm _i se svislicemi bodů (m — 1), (w-j-1)- Břímě působící v tomto průsečíku má za momentový obrazec trojúhelník, na př. a'nb'\ při obtížení nepřímém třeba lomenou čáru (m' — \}n (mf -\- 1) v oddílu j>2 —""l) (ni -\- 1) nahraditi přímkou (m' — 1) (#/ -f- 1), jejíž průsečík se základní stranou ^tTb' určuje polohu výslednice sil po jedné straně řezu xx'. Tato výslednice prochází patrně přidruženým středem momentovým; pak: Dm — 0, i stanoví bod n skutečně polohu neutrálnou.
+Podobně určí se příčinkové čáry osových sil v pasech Hm-\, Sm (obr. 5.d,e).
+Přímky pravostranné určeny jsou na svislici levé podpory pořadnicemi H'm-i, Sm, jež stanoví se jako osové síly, vyvozené reakcí A =: l (methodou bodů styčných, jde-li o více sil, aneb methodou průsečnou, jako v obr. 5.^); přímky levostranné utínají pak na svislici pravé podpory pořadnice H""m—i, Sm"", jež opět plynou jako osové síly vyvozené pravou reakcí B = l (obr. 5. c) Přímka pravostranná protíná levostrannou na svislici přidruženého středu momentového, což jest kontrolou. V oddílu (m — l (m -f- 1) třeba vložiti přímku, padá-li vrchol čáry dovnitř; případ ten naskýtá se při soustavě kosoúhlé u sil osových obtíženého pasu (S„).
+§ 4. Příčinkové cáry příhradového oblouku o třech kloubech.
+Pro libovolný prut, na př. Dm, příhradového oblouku o třech kloubech*) o podporách obecně v různé výši (obr. 12. a, tab. III.) stanovena jest neutrálná poloha em na sečnici bc spojnicí kloubu opěrového a s přidruženým středem momentovým dm. Jestliže pak libovolné obtížení levé polovice nosníku rozloží se do bodů a, e„, a stanoví se reakce levé opery 31 nikoli k obtížení celkovému, nýbrž k oběma složkám, dává složka v em reakci 2T jdoucí bodem em a tedy i přidruženým středem momentovým dm\ tato reakce nemá na osovou sílu prutu Dm vlivu, a zbývá jedině složka obtížení v bodě a, která dává reakci svislou stejné velikosti a protivného směru. Tato reakce určí se zrovna tak, jako by šlo o nosník prostě podepřený na svislicích bodů a, em, téhož tvaru a obtížení, jako levá polovice oblouku. Z této svislé reakce a z levostranného obtížení určí se pak osová síla prutu Dm. Má se tedy levá polovice oblouku co do síly Dm při obtížení mezi b o d y #, c jakonosník prostě podepřený na svislicích levé opery a neutrálně polohy em. Již obloukový nosník o třech kloubech dá se převésti na nejjednodušší případ, nosník prostý.
+Příčinková čára síly Dm (obr. 12.^) jest pak stanovena pořadnicí Dm v podpoře a, jež plyne jako osová síla prutu Dm, působí-li v levo pouze
+*) Viz Můller-Breslau: >Graphische Statik, I.« (3. vyd., str. 371   a násl.)
+XXVII. ﻿svislá reakce A—\ (obr. \2.b}. Přímka právo-a levostranná v oboru soustavy (ač) protínají se na svislici přidruženého středu momentového dm\ v oddílu obtíženého pasu (budiž to zde horní pás), k němuž prut náleží, t. j. v oddílu (m — \)(m -f-1), třeba vložiti přímku, jež protíná osu ve druhé poloze neutrálně emf. Pořadnice D,„"" v bodě c již stanovená přímkou pravostrannou určuje přímku příčinkovou pro pravou polovici nosníku. Pořadnice D""m dá se kontrolovati přímým sestrojením osové síly, kterou vyvozuje obtížení oblouku břemenem P=l ve vrcholovém kloubu c; tu lze vycházeti od levé reakce a užívati methody průsečné bud' ve tvaru obyčejném, aneb za nepříhodné vzájemné polohy ve tvaru pozměněném (jehož zvláštním případem jest methoda Zimmermannova). Levá reakce C'"" rozloží se totiž (obr. 12. c} do složek Rlí R^, jdoucích styčnými body (m—1), m příčky Dm. Pak jde o rovnováhovou soustavu sil:
+síly Rlt Hm\ Dm"" dají výslednici jdoucí bodem (m—1), síly Rz, S""m — t výslednici jdoucí bodem m; obě částečné výslednice působí pak ve přímce (m—1) m, i dá se ze síly R% určiti síla S""m — \ a výslednice (R^ Hmfř, Dm"") a z této její složky.
+Pro kontrolu stanoviti lze také přímo graficky pořadnici, kterou na svislici bodu c utíná přímka právo- a levostranná. Platí totiž, jsou-li d„„ c úsečky stejně značených bodů vzhledem k A:
+— TT
+--- U r,
+dm ---- C
+Při   prostém   nosníku   bylo   odvozeno,   znamená-li   r   rámě   síly  D„ k bodu dm\
+dm
+Pak:
+Dm~\
+_   -l
+--  i
+D'm značí osovou sílu, vyvozenou levou reakcí A =r l; pak Dm"" jest osová síla, jež spolu se silami Hm""\ Sm'""—i jest v rovnováze s břemenem P= l v bodě c (při D""m vychází se od skutečného obtížení oblouku oním břemenem, při stanovení Dm"" bráti jest však pouze břímě P=: l, z něhož lze určiti sílu Dm"" na př. methodou průsečnou, jak naznačuje obr. 12. d). Konečně možno kontrolovati také druhou neutrálnou polohu e'm přímým sestrojením, jež plyne snadno z výminky, aby výslednice levé reakce a levého břemene styčníkového při obtížení břemenem P =: l v oddílu (m — 1) (m -\- 1) procházela přidruženým středem momentovým dm (pak jest totiž: Dm ~ 0). To vede k tomuto sestrojení: přímka d„,(m'
+XXVII. ﻿stanoví bod (m—1), spojnice a(mf—1) pak dává na sečnici hledanou neutrálnou polohu e'm. Neboť břímě v e'm působící dává levou reakci ve přímce ae,ú; v levo od řezu, vedeného pruty Sm-\, Dm, Hm, padá mimo levou reakci složka břemene do bodu (m — 1), a tu třeba čáru výslednicovou (m — \}em (m -(- 1) v oddílu (m — \)(m-\- 1) při obtížení nepřímém nahraditi přímkou (nj— 1) (;// -f- 1), jež dává určovací paprsek výslednice levé reakce a levého styčníkového břemene. Tato výslednice prochází skutečně přidruženým středem momentovým dm. Na základě affinity plyne dále, že k téže poloze neutrálně vede průsečík přímek a(m—1), em(m-\-V). Také dala by se neutrálná poloha em' sestrojiti jako při nosníku prostě podepřeném v levé opeře a a prvé neutrálně poloze em.
+Dle pravidel odvozených (vyjma druhou neutrálnou polohu) stanoví se také příčinkové čáry osových sil v pasech Sm-\, Hm (obr. 12. e,f).. Jediná neutrálná poloha pro každou tu sílu (•*•», _i, h^) dána jest opět na sečnici bc spojnicí levého kloubu opěrového s přidruženým středem momentovým m, (m — 1). Platí též dokázaná věta, že co do osové síly prutu má se ona polovice oblouku, ku které prut náleží, za obtížení na touž část působícího jako nosník prostě podepřený v příslušné opeře a v neutrálně poloze. Pořadnice Smr _ i, Hm plynou tedy z levé reakce A~ l, skutečné pořadnice Sm'ř—it Hmf^ z obtížení oblouku břemenem P — l ve vrcholovém kloubu c a pořadnice S,,,'""—it H„!"", jež na svislici bodu c utínají pravostranná a levostranná přímka pro část ač, určí se z břemene P— l v bodě c. Přímka pravo-a levostranná protínají se ovšem na svislici přidruženého středu momentového.
+í. Nosníky trámové: Nosníky s kloubovými čtyrúhelníky na podporách.
+§  5.
+Nejjednodušším případem staticky určitých nosníků spojitých jsou nosníky kloubové čili krákorcové (konsolové), dělené na soustavy klouby, vloženými mezi podpory. Dělením na podporách a kloubovým spojením dílů vznikla by řada prostých nosníků. Spojitost i statická určitost potrvá, spojí-H se s podporou a obě soustavy, nad ní v kloubu b spojené, dvěma pruty ap, aq (obr. 6.). Tím vzniká nad podporou kloubový čty rúhelník. *) Uspořádáním kloubového čtyruhelníku nad každou podporou vnitřní vznikne při libovolném počtu polí nosník staticky určitý. Jest totiž při n polích počet soustav <?:=«, počet kloubů dvojných Xj — n — l; počet pevných podpor budiž «2 — l, pak jest podpor po-souvatelných «t = n. Počet prutů (v kloubových čtyrúhelnfcích) obnáší
+*) Pro některé nosníky toho druhu vyšetřuje příčinkové čáry kinematicky Múller-Breslau v citovaném spise »Graphische Statik, I.« (3. vyd., str. 492—496).
+XXVII. ﻿10
+TT — 2 (n — l),   počet   styčných   bodů   (na   všech   vnitřních   podporách) $ — n— 1. Počet neznámých sil jest:
+n -f «! -f 2«2 -f- 2xí — 2(« - 1) -f » -f 2 4- 2 (« — 1) = 5« — 2. Síly ty dají se určiti z výminek rovnováhy, jichž počet obnáší:
+Jelikož počet neznámých rovná se počtu výminek rovnováhy, jest •obecně spojitý nosník s kloubovými čtyrúhelníky na vnitřních podporách staticky určitým. Případy výjimkové budou v dalším uvedeny.
+Pruty na podporách v kloubových čtyrúhelnících buďtež nazvány krátce pruty podporovými. V dalším vyšetřování budiž předpokládáno, kde není nic jiného výslovně podotčeno, svislé obtížení.
+A) Nosník o dvou polích. § 6. Reakce a osové síly podporových prutů.
+1. Pří činko ve čáry: Pokud pohyblivé břímě />=: l jest v oboru soustavy I (obr. 7. a), působí na soustavu II síly A2, L2 a Bl (síla, kterou v kloubu b^ působí soustava I na II). Při podporách vodorovně posouvá telných odpadá za svislého obtížení vodorovná složka reakce v pevné podpoře, i jest pak lhostejno, která podpora jest pevná. Rovnováha sil, působících na soustavu II, vyžaduje, aby ony tři síly procházely jediným bodem a2', jejž určují síly A2, Z,2; síla B^ působí pak ve přímce bla2f. Na soustavu I působí síly: A0, P, —/?/, Ll. Výslednice sil (—/?/, Z^), jdoucí jejich průsečíkem «n má směr svislý, jelikož A0, P jsou také svislé.
+Tři výminky rovnováhy sil, působících na soustavu I, stačí ku stanovení neznámých AŮ; Z?/, Z,r Tak lze A0 určiti z momentové výminky rovnováhy vzhledem k bodu ul:
+A9uí—Peí' = 0t   tedy:   A0 = P
+(3a)
+Příčinkovou čarou reakce A0 jest patrně přímka, jež má v a0 pořadnici P~ l (pro ,L/=:&,), v ul pak pořadnici 0 (pro L,'~0). Při obtížení, jež působí na horní pás nosníku, platí ona přímka v oboru celé soustavy I (obr. 7.c); pak jest v bl (s^ — — «/) pořadnice:
+Bod «j, jejž lze nazvati pravým bodem základním soustavy I jest neutrálnou polohou co do reakce A0. Působí-li břímě na soustavu II,
+xxvn. ﻿11
+stačí rozložiti je do bodů #2, óí;  prvá  složka  nemá  na A0 vlivu,  druhá,
+jež má hodnotu:
+ř          „ /
+P' z^ P        ~ l
+l   '
+la
+dává patrně příčinkovou pořadnici:
+t/t           &
+= 1-^-4'    -..   .(3b)
+To vede opět ku přímce, stanovené pořadnicemi: A0' v 6lt 0 v a2.
+Podobně plyne   při obtížení  soustavy I osová síla   Lí   z momentové výminky k průsečíku sil Z?/, A0:
+Pzí -f- LI i\ — 0, z čehož : LV— —
+(4)
+Příčinkovou čarou jest přímka, jež má v a0 (sí = 0) pořadnici 0, v bí (zl m/t) pořadnici: L/ = — l ~. Jako při A0 stanovena jest pak příčin-
+ková přímka v oboru soustavy II pořadnicí Z,,' v bí  a 0 v «2.
+Osovou sílu L2   lze  stanoviti   z výminky   rovnováhy   pro   vocTo^oyné složky sil, působících ve styčném bodě av :
+cos a,                 ._.
+Lv cos ccl — L2 cos a2 =: 0, z toho: L2 ~ L^-------•—    ...    (5)
+COS CCa
+ú
+Příčinková čára jest téhož tvaru jako při Llt pořadnice v bí jest:
+r^   cosa2                r2
+druhá hodnota plyne záměnou pravé a levé sírany nosníku.
+Reakce Al  plyne   rovněž   z rovnováhy sil ve styčném bodě alt a to z výminky pro svislé složky:
+tedy:
+Al -\- LÍ sin «! -f- L2 sin «2 zz 0, Í = — (Z,! sin «t -f- Z-2 sin «2)
+(6)
+Příčinková čára má opět týž tvar, jako při Z^, a stanovena jest pořadnicí v b^ :
+* >          u >  •         i   r ' •      N      A             /i   i
+A   — — (L,  sin oř, + Z., sin «2) := — — sin «,  ( l -4
+fj            V     '
+Je-li ccj i= «2 zz «, pak :
+Ll — L2, ^t iz 2 L! sin a, ^ z= 2 -í- sin «.
+tanť*2
+-taň «
+XXVII. ﻿12
+Reakce A2 určí se obdobně  ku A0.   Při obtížení soustavy II působí . na sebe  obě  soustavy  v kloubu 6t   silou   Z^'',  jejíž  průsečík  s La   dává levý bod základní f2   soustavy II.    Bod ten jest   neutrálnou  polohou pro reakci A2.
+Příčinkové čáry lze stanoviti také velmi jednoduše graficky na základě věty v § 2 (str. 3) dokázané. Dle vyšetření tam provedeného plyne přímo, že bod uv jest neutrálnou polohou pro reakci A0. V oboru každé soustavy jest příčinkovou čarou reakce neb osové síly prutu podporového jediná přímka; k úplnému určení stačí pořadnice v bodě b^ jež plynou graficky jako síly vyvozené břemenem P=. l v bodě 6X působícím (obr.7.6). Čítá-li se toto břímě k soustavě I, má síla v kloubu polohu Z?/ a v rovnováze jsou síly: A0', Z/, P, Z?/. Výslednice sil (A^J^'), jdoucí bodem a0', musí procházeti také, má-li býti rovnováha, bodem b^ má tedy polohu Z?/'. Ze síly P= l snadno se určí síly Z?/, Z?/', jež jsou s ní v rovnováze. Z?/ jest výslednicí sil (A2f, Z,/), Z?2' pak výslednicí sil (A0', Z,/), na základě čehož lze všechny tyto síly snadno určiti. At' jest konečně v rovnováze s LS, L2'.
+Při libovolném obtížení soustavy I, jako při jediném břemeni, působí na soustavu I s pravé strany síly Z?/, Z1} jejichž výslednice v základním bodě u± jest při svislém obtížení svislá síla L\. Pak jest obtížení soustavy I v rovnováze se svislými silami A0, t/1; jež tedy se určí, jako by šlo o reakce nosníku prostě podepřeného v bodech <z0, u± a stejně obtíženého, jako soustava I. Z reakce A0 a obtížení lze postupně určiti osové síly veškerých prutů soustavy I. Z toho plyne: při obtížení v poli prvém má se soustava I jako nosník prostě podepřený v aQ} uí a podobně při obtížení v poli druhém má se soustava II jako nosník prostě podepřený v í2, a2. Z toho také plyne, že případ výjimkový nastane, padne-li bod ul na svislici bodu a0 aneb Í2 na svislici bodu a2. Pak jest nosník současné staticky i tvarově neurčitým.
+2. Počtářské řešení: Je-li obtížena jen soustava I libovolným obtížením, jež má výslednici Zvt (obr. 7./), dá se určiti A0 z výminky momentové vzhledem k u±. Působí-li také na soustavu II obtížení, jež má výslednici R%, možno je nahraditi složkami R2', R2"" v bodech bl, a2. R^' nemá vlivu na AQ, R2 dá se počítati k obtížení soustavy I. Pak lze opět užíti momentové výminky rovnováhy vzhledem k bodu «, :
+tedy:
+(7)
+Při soustavě  osamělých   břemen jest   (za označení  dle obr. 7. a, /):
+«2 ??*'
+RI L1' — 2Pz,   jR2' =r-*—— ;
+«o                                           *2
+XXVII. ﻿13
+pak:
+4,=
+7, 27 P*' —< 27 P/
+(T5
+Při plném obtížení rovnoměrném vychází:
+ti' = f4%—   ""1  ^' =    *^'  pročež
+4> = ?
+
+(7b)
+V případě   stejných   polí   (7, ~ 72 zz 1}   a plného   rovnoměrného   obtížení jest:
+3 u, - 2 l
+_    _
+~""
+(7C)
+Osová síla podporového prutu L± určí se při témž rozkladu obtížení jako při reakci A0  z momentové výminky vzhledem k bodu a0"":
+z toho:
+(8)
+Při soustavě osamělých břemen vychází:
+5,                í?2
+7, 27Ps + 7, 27Pr'
+při plném obtížení rovnoměrném:
+z čehož plyne pro stejná pole:
+Ti.     A+4. 2         ^
+(8a)
+(8b)
+(8C)
+Síly L2, ^4,   vyjádřeny jsou rovnicemi (5), (6) na str. 11. Pomocné   délky   uít   «/,   rx   vy počísti   lze  při  nosníku   souměrném /t = /2 z=: /, «t zz ť?2 zz «) takto (viz obr. 7. «) :
+^ — a^a^ cos a. =: 2 (l sin a — h cos «) rt — ^ ^(?í «
+XXVII. ﻿14
+ti                      /*                        ťt
+z čehož:         ------í—r =-----J----   a:   -----\----. =
+u\ ~ru\         *i + ^          «i + «i
+Dosazením za r,, r2 a 7^ -|- «/ — /t  vychází:
+_             / Sin « — /Z CT(7Í K
+_^L
+^-f
+A íoí a
+2 / .$/# a — h cos K '                  2 / jz« « — /i cos a
+Krajní hodnoty při pohyblivém obtížení rovnoměrném určí se pomocí
+(VI .L.   Iclflón^ 1 „                , \ části příčinkového obrazce. Jest totiž při souměrném
+U_ záporné j
+nosníku:
+lí
+— u,, l,    tedy:    max A0 iz: — q u^   .   . (7d)
+<u                                                                                                                  ^
+min ^0
+i_ = ~ (u, >
+u
+min
+.Lx;  f/_L  «    '\   ^ÍL
+ň^q\i   i   «i ;
+-J                                        /í •»
+ku (7d)
+Pro plné obďžení vychází z rovnice:   A0 — q (11+ -f- ll_) hodnota již stanovená (7C).
+Podobně:            min L^ — q lt_
+
+max
+— 2
+i
+Obě tyto síly platí pro plné obtížení ; min Ll souhlasí pak s dřívější hodnotou za plného obtížení. Jinak lze určiti při plném obtížení, při němž A0 — A2, reakci A^ z rovnice:
+\__O   ,,   /         /"" /l
+^i — - !7 ' — v^o Z toho pak plyne:
+2) — 2(ql-A()} — ql lt          ql2l—u^
+2 j?w «
+(8C)
+Vyjádřením «,, u± pomocí r^ dle hořejších vzorců obdrželi bychom předešlé hodnoty.
+3. Grafické řešení při obtížení libovolném, na př. soustavou osamělých břemen (obr. 7.^, h\ provésti možno na základě téhož rozkladu obtížení jako při řešení počtářském. Jde-li o AQ, třeba rozložiti
+XXVII. ﻿15
+obtížení v oboru soustavy II do svislých složek v bodech Ln a2; tomuto rozkladu odpovídá ve výslednicové čáře (obr. l.g) základní strana b^ a$'' (rovnoběžný pólový paprsek, který by v čáře složkové skutečně určil ony složky, není třeba ani vésti, je-li pro obtížení obou polí rýsována jediná čára výslednicová). Složku v bodě bv možno přisouditi soustavě I, a tato složka spolu s obtížením soustavy I jest pak v rovnováze s reakcí A0, a svislou silou Ult kteréžto síly se tedy určí, jako by šlo o reakce nosníku prostě podepřeného v bodech aQ, ut : poslední stranou výslednicové čáry (je-li sestrojena jediná spojitá čára pro obě pole) jest základní strana bi a^, kterouž třeba protnouti se svislicí bodu u^ v bodě «/; první strana, protíná pak svislici bodu a0 v aQf, načež se stranou a0'u/ rovnoběžný pólový paprsek 0a0 (obr. 7 k} stanoví v čáře složkové počátek určovacího úseku reakce A0.
+Obdobně určí se reakce A2. Stačí vyměniti pravou a levou stranu nosníku, vésti tedy ve výslednicové čáře základní stranu &$ b\, která stanoví bod//; se stranou í2'a2' rovnoběžný pólový paprsek od1 dává konec určovacího úseku reakce A2. Určovací úsek reakce Ai jest pak Čij CTO. Síly Llt L2 určí se na základě obrazce sil pro styčný bod a1,
+Uvedeného řešení možno použiti při každém obtížení. Při obtížení rovnoměrném lze ovšem nahraditi obtížení každé soustavy výslednicí a rýsovati pak výslednicovou čáru pouze k těmto výslednicím jako ku břemenům osamělým.
+Z grafického řešení jest zřejmo (plyne to také z příčinkové čáry), že co do reakce A0 má se nosník tak, jako spojitý nosníkklou-bový (krákorcový), podepřený na svislicích bodů íZ0, ult a2. a s kloubem na svislici bodu br (obr. l.g). Obdobně má se nosník ku reakci A2,
+§ 7. Osové síly prutů.
+1. Příčinkové čáry: V předešlé stati bylo dokázáno, že při obtížení v poli prvém má se soustava I (co do reakcí i osových sil prutů) jako nosník prostě podepřený v bodech a0, u^. Souhlasí tedy v poli prvém mezi body tf0, ?/t příčinkové čáry osových sil prutů soustavy I úplně s čarami pro nosník prostý.
+Skládá-li se nosník ze dvou soustav libovolného tvaru (obr. 8. a\ stanoví se př činkové čáry osových sil prutů //,„, S,„ — i, Dm (cbr. 8. ^,/,. g) pořadnicemi //„/, S,,'--i, Dm', jež určí se jako osové síly těchto prutů, vyvozené reakcí Aa — l (obr. 8. /;) a po případě též pořadnicemi H„'f\ S,,,""—i, D,„"" v bodě z/j, jež plynou jako osové síly, jsoucí v rovnováze se silou ř/t = l na pravé straně (obr. 8. c). Těmito pořadnicemi určeny jsou body, ve kterých prodloužená přímka pravostranná a levostranná protínají svislice bodů #0, ?/r Obě ty přímky protínají se navzájem na svislici přidruženého středu momentového. Při mezipasovém prutu Dm možno také
+XXVII. ﻿16
+stanoviti přímo neutrálnou polohu v oddílu (m— l)(w-f-l) jako při prostém nosníku a0 u{. Jako další kontroly bylo by možno užíti pořadnic v bodě blt jež by se určily jako osové síly z reakce A0', vyvozené břemenem P — l v bodě b\ (obr. 7. b). Působí-li obtížení na horní pás, což zde budiž předpokládáno, pak platí od bodu w, až po bl prodloužená přímka pravostranná. Konečně dle věty v úvodu (§ 2, 2) dokázané jest příčinkovou čarou osové síly každého prutu soustavy I v oboru soustavy II jediná přímka, jež má v a% ovšem pořadnici rovnou nulle, v bl pořadnici, danou již stanovenou příčinkovou čarou v poli prvém.
+Příčinkové čáry daly by se odvoditi také přímo jako při prostém •nosníku. Čára pro obtížení pravostranné (též v oboru soustavy II) má obdobný tvar, jako čára levé reakce, z níž plyne při tomto obtížení osová síla násobením stálým poměrem ramen reakce a osové síly vzhledem k přidruženému středu momentovému. Při obtížení levostranném vycházelo 'by se pak ze síly Uv jež se určí jako reakce prostého nosníku a0 nt Tak dospělo by se ovšem k předešlým čarám.
+Odvozená pravidla platí beze změny pro sílu 6*„_2 (obr. 8. h\ pořadnice Su""—2 v bodě bl stanovena jest v obr. 8. d). To platí též o síle L>„_i '(obr. 8. z), při níž však přímka pravostranná, protínající osu na svislici ul a stanovená pořadnicí D'H—\ v #0, má význam pouze geometrický; platí tu však všechny vlastnosti dříve dokázané (přímka pravostranná protíná levo-strannou na svislici přidruženého středu momentového dn—\ a stanoví v bodě bí pořadnici D,""''_i, kterou lze také přímo sestrojiti dle obr. 8. d}. Také příčinková čára síly Hn (obr. 8. K) určí se stejně; i zde má přímka .pravostranná (v oboru soustavy I) význam pouze geometrický.
+Příčinkovou čáru síly Dn (obr. 8. /) lze konečně též stanoviti obdobně, což se dá dovoditi, vyšetřuje-li se síla Dlt z momentové výminky, vztažené • k průsečíku d„ prutů Hn a LI} stejným postupem, jako při nosníku prostém. Opět určují pořadnice !},,', D,"" přímku pravostrannou (významu geometrického) a levostrannou v oboru soustavy I; obě ty přímky protínají se na svislici bodu dn. Pořadnice D,'"" v bodě é1 určí se též přímo, stanoví-li se ku břemeni P — l v bodě bl síly Bv', -#/', jež jsou s břemenem v rovnováze; přisoudí-li se břímě P rr l soustavě II, působí soustava I na II silou #/', která jest tedy výslednicí sil D""\ H»"" (obr. 8. </). Při silách .Hn a Dn lze též kontrolovati průsečík levostranné přímky se svislici bodu bl pořadnicemi //„Tv, D„IV, jež určí se, jako by břímě P— l v bodě b^ působilo v levo od řezu, vedeného pruty //„, />>„, L^ ; pak působila by v bodě b\ síla /?/, i plynou pořadnice //„1V, D,™ jako složky této síly (obr. 8. d). Při souměrném uspořádání nosníku u podpory a^ a vodorovném horním pase vyjde: — D,'"" — D„IV'.
+2. Počtářské řešení provedlo by se za téhož rozkladu obtížení jako při stanovení reakce A^. Při obtížení v poli prvém lze počítati jako při vnosníku prostě podepřeném v aQ^ur Jde-Ii o obtížení pohyblivé, tu třeba zvláště 'vyšetřovati obtížení di\ů a^u^, Ji^a2. V prvém případě užije se vzorců pro
+.XXVII. ﻿17
+nosník prostý (a^tt^). Druhé obtížení jest společné pro všechny pruty soustavy I, vyjma D,t-\ , Dn a H,h při obtížení rovnoměrném i při soustavé osamělých břemen, poněvadž pro všechny síly osové příčinková čára v části z/j a2 má týž tvar, vyžaduje tedy téže nejúčinnější polohy soustavy osamělých břemen; přísluší tedy tomuto obtížení pro všechny pruty táž reakce A0, jež se vypočte, jak dříve ukázáno. Z reakce A0 určí se pak osová síla, násobí-li se síla S', vyvozená reakcí A0 — l, příslušnou hodnotou reakce.
+Nejsnáze provede se počtářské řešení použitím příčinkových čaa počtem stanovených.
+3. Grafické řešení: Při obtížení stálém i nahodilém možno výhodně použíti příčinkových obrazců, jež snadno se určí graficky.
+Také lze řešiti přírno. Při obtížení stálém možno užíti na př. methody bodů styčných, stanoví-li se předem reakce, aneb lze vycházeti z čáry momentové pro osové síly prutů pasových a čáry sil posouvajících pro osové síly prutů mezipasových. Čára momentová i sil posouvajících stanoví se graficky snadno.
+Pro pohyblivé obtížení rovnoměrné třeba rozvrhnouti nosník, jde-li o pruty soustavy I, v části a0 u±, u^a^. Při obtížení mezi aw uí řeší se jako při prostém nosníku (a0 z/j), tedy osové síly v pasech za plného ob-.ížení (výhodné jest tu řešení methodou bodů styčných, jež v prutech mezipasových při řešení přesném podává kontrolu pro další řešení), v prutech mezipasových za pravostranného a levostranného částečného obtížení (jež řeší se týmiž způsoby jako při prostém nosníku (a0 u^). součet sil za obého obtížení částečného dá se kontrolovati silou při plném obtížení části a^u^ jíž při přesném řešení se musí rovnati). Třeba ovšem řešiti obě krajní hodnoty ve všech prutech soustavy I i při tvaru ku středu souměrném, poněvadž body a0, 2^ nejsou ku středu souměrně položeny
+Dále jest určiti osové síly všech prutů soustavy I za plného obtížení části u^ a2; v pasech obdrží se tím druhé krajní hodnoty osových sil (opačného znamení, než při obtížení části ^z^), v prutech mezipasových doplňky pro obtížení levostranné, má li neutrálná poloha v oddílu, k němuž prut náleží, význam statický; pak sečísti jest sílu z obtížení části ^^laí se silou z obtížení levostranného, čímž plyne jedna krajní hodnota síly, druhou dává obtížení pravostranné.
+Výjimku činí některé pruty poblíže bodu b^ Pokud největší síla osová vyžaduje tu plného obtížení celého nosníku (jako při //„, Z?„_i), lze stanoviti osovou sílu redukcí síly ze stálého obtížení v poměru obtížení nahodilého a stálého, je-li stálé obtížení rovnoměrně rozděleno a přisouzeno pouze tomu pasu, na který působí obtížení nahodilé. Při prutu D* jest pak nejlépe užíti příčinkové čáry.
+Při pohyblivé soustavě osamělých břemen možno v případě, kdy jde o část příčinkové čáry, složenou pouze ze dvou přímek, určiti nejúčinnější polohu soustavy dle kriteria Winklerova. Jinak stanoví se tato poloha
+2 XXVII. ﻿18
+zkusmo. Za známé polohy břemen určí se pak osová síla buď použitím příčinkových pořadnic, aneb čisté graficky: při obtížení mezi a0, ut jako při nosníku prostém, při obtížení mezi «t, a2 z příslušné levé reakce AQ.
+B) Nosník o libovolném počtu polí.
+Příkladem  budiž tu nosník o třech  polích (obr. 9.),   jehož vyšetření postačí ku vyvození obecných vět.
+§ 8. Reakce a osové síly prutů podporových.
+1. Příčinkové čáry: Působí-li libovolné obtížení pouze na soustavu I, žádá rovnováha soustavy III, aby síly A3, L±, Bz' procházely jediným bodem a3' (obr. 9. a). Je-li nosník rozdělen řezem, jenž jde bodem b^ a prutem L3, musí být v rovnováze síly A3, A2, Ls, B^ \ to vyžaduje, aby výslednice ř/2 sil (L3, Z?2') byla svislá. Na soustavu II působí pak síly: č/2, Z2, BI, jež opět, jsouce v rovnováze, procházejí jediným bodem u2'. Konečně plyne z rovnováhy sil U2, Aít Llt Bt (jež působí na střední část nosníku,odejmou-li se části krajní dle řezů vedených kloubem b± a prutem Llt jakož i kloubem b2 a prutem Z,3), že výslednice U± sil (L/, Lt) jest také svislá. Obtížení soustavy I jest konečně v rovnováze se svislými silami AQ, ř/j, jež určí se, jako by šlo o reakce nosníku prosté podepřeného v bodech a0, u±.
+Příčinkovou čarou reakce A0 v oboru soustavy I jest tedy přímka (obr. 9.c), jež rná v bodě a0 pořadnici P^zl, v bodě ut neutrálnou polohu. Při obecné poloze břemene (obr. 9. a) jest:
+(ioa)
+Předpokládá-li se zatím, že obtížení přenáší se na soustavy v celém jejich rozsahu, tedy také do bodů b±, L2> raa pořadnice v bodě bl (^zr/j) hodnotu:
+V oboru soustavy II jest bod &2 neutrálnou polohou; působí-li břímě v tomto bodě, jest totiž:
+ř/2 = P, L2 = 0, ^ = 0 a tedy i: A0 — 0.
+K libovolnému břemeni P, jež působí na soustavu II, určí se reakce A0 rozkladem břemene na složky v bodech blt u2; složka poslední nepůsobí na A^ poněvadž bod u2 jest neutrálnou polohou, prvá má pak hodnotu :
+XXVII. ﻿19
+P' — P
+a dává reakci
+_       P — — r
+l      2
+-• --
+U.         u*
+(10b)
+V   oboru   celé  soustavy   II   platí   opět  přímka;   pořadnice její  v z — /2) jest:
+U.         Ua
+Účinek břemene, působícího na soustavu III. určí se stejně rozkladem do az a bz ; prvá složka nemá vlivu na A0, druhá jest:
+a dává reakci:
+An — P""A'' —
+(ioc)
+V oboru soustavy III jest příčinkovou čarou zase jediná přímka. Co do reakce A0 má se nosník jako spojitý nosník kloubový, podepřený v bodech «0, «,, u2, a3 a opatřený klouby v bodech b^ Ó2.
+Obdobně stanoví se reakce A3. Při obtížení soustavy III mají síly v kloubech bv, L2 polohy B^\ B2"" (obr. 9.oi) a výslednice (-B^^L^)^ (L>2""> -^4) jsou svislé. Stálé body /2, /3 možno nazvati levými, body ult u2 pravými základními body příslušných soustav.
+Osová síla L1 plyne při obtížení soustavy I z momentové výminky vzhledem k bodu a0"", jež při jediném břemeni zní:
+Ps -f LI r^ = 0;  tedy: Z, —-P
+(IP)
+Příčinková přímka (obr. 9.ti) prochází počátkem úseček z a má v bí (2 — /j) pořadnici:
+Dle předešlého jest bod z/2 neutrálnou polohou v oboru soustavy II, při jejíž obtížení určí se Zx  podobným rozkladem jako A0 ve tvaru:
+(Hb)
+Pořadnice příslušné přímky v bodě b2 jest:
+XXVII.
+2* ﻿20
+Při obtížení soustavy III jest:
+T      .    -    D   A      «»'
+
+(líc)
+Z výminek rovnováhy v bodě a1   plyne, jsou-li  «n «2   odchylky prutů „n Z,.,  od vodorovné:
+,-N                               r
+(5) .   .   .   , L2 —
+COS «!
+-cos «2
+,
+(6)
+sn
+sn a.
+Je- li «j n «s — «, tu : L8 — Lj ,    ^íj — — 2
+Příčinková čára reakce /^ má týž tvar, jako čára Z^ (obr. 9.d}. Je-li obtížena pouze soustava I, mají síly Z?/, Z,t svislou výslednici L/i, jež určí se jako reakce nosníku prostě podepřeného v bodech a0, uí. Její příčinková čára (obr. 9.f) jest přímka, jež rná v a0 pořadnici rovnou nulle, v ut pořadnici P—l; platí v oboru soustavy I. Podobně jest výslednice 6r2 sil (B.2', Z3) svislá, jsou li obtíženy pouze soustavy I, II. Při obtížení soustavy II určí se U2 jako reakce nosníku prostě podepřeného v bodech Í2, u2, z čehož plyne čára příčinková v oboru soustavy II (obr. 9.^) a z pořadnice 672' v bodě ůl přímka v oboru soustavy I.
+Jako při nosníku o dvou polích odvodí se i zde příčinkové čáry graficky sestrojením pořadnic v bodech L,, b%. Při břemeni/3^: l v bodě L, , jež možno čítati na př. k soustavě I, působí soustava II na I silou Bl '; v rovnováze jsou síly: AQ\ L±, P, B^ . Výslednice sil A0\ Z-/ má pak určovací paprsek Z?/', i jest posléze P v rovnováze s /?/, B^"" . Síla JBÍ jest výslednicí sil (A0 ', Z/), B^ pak výslednicí sil (L2\ U2'), síla í/2' jest výslednicí sil (L3\ B2'} a konečně B2' výslednicí (L4', A3'). Reakce A^ jest v rovnováze s Z,x', L^ a reakce A2 se silami Z-/, Z4'. Dle toho určí se veškeré příčinkové pořadnice v bodě bí (obr. 9.^). Při nosníku souměrném obdrží se pořadnice v bodě b.2 pouhou výměnou pravé a levé strany nosníku z pořadnic v bodě bl9 tedy:
+— A
+— •""
+! i
+"" —  T   '     lr "" — 1     — -^4 >       2     —
+Až dosud bylo předpokládáno, že obtížení přenáší se na všechny soustavy v celém jejich rozsahu, tedy že body dlt bz jsou styčnými body pro obtížení. Tomu nebude pravidlem vyhověno při obtížení, jež působí při spodním pase. Jsou-li pak plt gl styčné body obtížení v sousedství podpory al a nepřenáší-li se do a1 obtížení, třeba ve veškerých čarách příčinkových lomenou čáru v oddílu pl qí nahraditi přímkou, podobně v oddílu /2 ^2 př' podpoře a2.
+XXVII. ﻿Na základe dosud provedeného vyšetřování lze vysloviti obecné věty, platné pro nosník o libovolném počtu polí. Co se týče síly, kterou v kloubu b působí na sebe obě soustavy jež se v kloubu stýkají, platí obecně: při
+l vlevo i
+obtížení \               od kloubu^ má síla vtomto kloubu určo-
+lv pr avo'
+vací   paprsek {„}, jenž protíná {          , }   podporový   prut
+'z?''                       * p r a v y '
+příslušné vnitřní podpory v      .              základním   bodě {    }
+levém'                                ' t '
+příslušné soustavy; výslednice obou sil, jež se v základním
+í B?\ bodě protínají,  jest (za uvedeného   obtížení) svislá.    Paprsky ^   „|
+í pravým l  .                                       «••           • jv,
+odvozuji se, počínaje |   .     .         koncem nosníku tak, ze užije se nejdříve
+rovnováhy sil, jež působí na soustavu a pak rovnováhy sil, jež působí na
+f   levou   l                             . .     , ,
+soustavu s připojenou \              \ vnitrní podporou, jak ukázáno při nosníku
+l pravou i
+o třech polích.
+Příčinková čára reakce neb osové síly podporového prutu jest v oboru každé soustavy (v každém poli) jediná přímka. Ku stanovení příčinkových čar stačí pořadnice v bodech b, jež plynou graficky jako reakce a osové síly podporových prutů za obtížení břemenem P—l v kloubu b (poloha sil v kloubech l určí se při tom dle předchozí věty). Neutrálnými polohami co do reakcí (a tedy i osových sil podporových prutů)
+{vpravo)                                                   (pravé)
+jsou   \      .         }   od   příslušné   podpory    ,   .       ,   }   body   z a -
+'vlevo'                                                   l   le ve   '
+kladní. Příčinkové čáry lze pak spolehlivě stanoviti graficky.
+Je-li obtížena pouze jediná   soustava,   redukují   se   síly,   působící na
+tuto soustavu si,     .  | strany (totiž síla v kloubu b v paprsku { „„[a osová i levé '                                                           yh  >
+i levého l síla l        AU   í podporového   prutu   příslušné vnitřní   podpory)   na svislou
+výslednici   |      |. Připočtou-li se k bodům základním také obě vnější podpory rt0, a,„ plyne: libovolná soustava má se při obtížení téhož pole jako nosník prostě podepřený  v obou základních bo dech téže soustavy.
+2. Počtářské řešení pro jediné břímě podávají odvozené vzorce. Z nich vyvodí se snadno vzorce pro soustavy břemen.
+Při částečném obtížení rovnoměrném, přenáší-li se obtížení do bodů 6lt Ó2, určiti lze z ploch příčinkových obrazců:
+•XXVII. ﻿22
+pro obtížení v délce a0 u^ : A^ zz
+
+»              »
+«i «2 : 4>(2) = — -
+Pak jest:      max Při plném obtížení
+= 4/1) + 4>(3), min ^o = Ao(2)
+V . . (12)
+Při stejných polích (/x iz /2 = /3 = /) a plném obtížení jest _ ql  2/2- 2/O, H-2«2
+Podobně se odvodí:
+(13).-1
+min Ll zr------j-í- (^ -j- #2)  .   . při obtížení #0 ?/2,
+#/,   u
+max L,, rr
+i'~f~ 4) při obtížení u*as,
+'l    ~ 2rv   us L, = min L, + max L,-^ [/, -f », — ^ («2' -f- /,) |
+^jř i     L                             2                        ~^
+při obtížení plném ; při stejných polích pak:
+(13a)
+Dále jest   (dle  obecné   rovnice:   Al = — 2Z,1sin«)   při   souměrném uspořádání prutů Z,n Ls:
+max A± =: — 2 min L, . sin «, min yíx zz — 2 maxZ^ . sin «. Pro obtížení uváděná při A0 plyne:
+pro obtížení a0 «t:   L^> — — q .       ^ />/ ^'2 = — -^
+(2) = min A - ^W = -    q'   [l, (l,
+XXVIÍ. ﻿23
+8. Grafické řešení při libovolném obtížení dalo by se provésti za téhož rozkladu obtížení, jehož bylo použito při jediném břemeni osamělém. Postup by byl podobný, jako při nosníku o dvou polích (obr. 7.g, /i).
+§ 9.   Osové síly prutů.
+1. Příčinkové čáry: Na základě vety v předešlém dokázané jest pro prut Dm soustavy I příčinková čára v poli prvém totožná s čarou nosníku prostě podepřeného v bodech a0, u± (obr. 10./); jest tedy stano-
+.   ,  . ,   í D„!  v bodě a0 \    .  ,                                   ,.
+véna   pořadnici   <       „                   } , jez urči se jako osová sila,  vyvozena
+l JJ„,           »       z/j l
+írf^SKCÍ  ./""i   — 1 \
+0 __    i (obr.  10. b, c].    V oboru soustavy II   jest neutrálnou po-
+lohou pro pruty soustavy I pravý bod základní &2, čímž jest další průběh čáry úplně určen. Ostatně při obtížení pravostranném vůbec působí v levo pouze levá reakce A0, i jest v právo čára příčinková podobna čáře reakce A0, V poli prvém platí ovšem stejné kontroly, jako při prostém nosníku. Obdobně určí se příčinkové čáry pro pruty soustavy III.
+Při prutech soustavy II jest příčinková čára v poli druhém na základě téže věty totožná s čarou pro nosník prostě podepřený v obou základních bodech t.2 u2 téže soustavy; stanoví tedy příčinkovou čáru síly Dr
+(obr.  10.^-) v poli druhém pořadnice l     '„ } v bodě { * }, plynoucí jako
+* *-S }•        '                               ^   Z/2
+osová síla z obtížení ]    2 ~
+/    — A
+(obr.  10. d podává sílu Dr'\ síla Dr"" určila
+by se podobně methodou průsečnou, jde-li o několik prutů a methodou bodů styčných, jde-li o všechny pruty); po případě lze užíti ku konstrukci aneb ku kontrole průsečíku přímky pravostranné s levostrannou, jenž padá na svislici přidruženého středu momentového dr. V krajních polích jsou přímky příčinkové stanoveny pořadnicemi v bodech Ln L2, jež plynou
+v levo l           ,   .
+i   od oddílu 7 právo '
+z   příčinkové   čáry   ve   středním   poli.   Při   obtížení   l
+(r — l)(r-f-l) lze také vycházeti od svislé síly ] T2 1 , jejíž   čára   v  pod-
+/   i
+statě udává tvar
+,
+pravé
+i
+}  části příčinkové  čáry síly Dr.
+Působí-li obtížení na spodní pás (jak předpokládáno), třeba v sousedství středních podpor pozměniti veškeré čáry příčinkové podobně, jako při reakcích (v obr. 9., 10. naznačeny jsou příčinkové čáry pro obtížení, jež se přenáší do bodů/,, q^, /2, ^2, plně, pro obtížení, působící na body ^lf ^2, čerchovaně).
+Z předešlého vyšetřování plyne obecně (počítají-li se vnější podpory k bodům základním): neutrálnými polohami co do osových sil
+XXVII. ﻿24
+prutů v soustavách  jsou   v  témž   poli oba body základní,
+í pravýc h i           , í p ra ve \
+v \   i      /u   (Polích^         ,    > základní body;   mimo to má ovšem
+l  levých   J             l   levé   J
+prut mezipasový případně ještě neutrálnou polohu v onom oddílu obtíženého pasu, k němuž prut náleží.
+Také při prutech, jež stýkají se v kloubu 6lt postupovati lze úplně dle předešlých pravidel. Tak na př. příčinkové čáry sil H„—\, Dn (obr. 10. /z, z) v soustavě I stanoveny jsou pořadnicemi H,'L.^ D,"" v bodě «n jež určí se jako osové síly při obtížení (Jt = l (což třeba si představiti jako obtížení v právo od řezu, odejímati tedy levou stranu, obr. 10. c]. Pořadnice ty stanoví přímky levostranné, s nimiž na svislicích přidružených středů momentových (n — 1), dn protínají se přímky pravostranné (při Dn významu pouze geometrického), mající za neutrálnou polohu (geometrickou) bod 21, . Tyto přímky dávají v bodě bl pořadnice //„1'i, Dnr"", jež dají se sestrojiti přímo (obr. 10. e) jako osové síly při obtížení břemenem /*— l v bodé^j, a to ze síly B^' ^ která jest jejich výslednicí (dává účinek soustavy I na II, čítá-li se břímě k soustavě II). Z těchto pořadnic plyne pak další průběh čar jako při všech ostatních prutech soustavy I. V bodě bl možno sestrojiti také pořadnice H„lVi, A/IV, které zde stanoví levostranné přímky v oboru soustavy I. Při obtížení levostranném jest totiž účinek soustavy II na I dán silou BI, která jest tedy v rovnováze se silami H„-i, D„lv (obr. 10. r).
+Podobně stanoví se příčinkové čáry sil L/u+i, D„ + \ (obr. 10. k, l) pomocí pořadnic H'n^.^ D',i + i, což jsou osové síly při obtížení 7""2 — l (obr. 10. d\ tu třeba odejímati pravou stranu a pak jest B^' výslednicí sil H'n + 1, /)'„.}. i), a pomocí přidružených středů momentových («-)-!) a (žn+i (průsečík Hn + \ a Z2). Pro kontrolu hodí se v bodě b± pořadnice /L/4'i, -Dn'+it odpovídající jako osové síly (složky síly #/) obtížení břemenem P = í v tomto bodě (obr. 10.^) a pořadnice //» + i, D„+i, které v bodě bí dávají prodloužené pravostranné přímky v oboru soustavy II; tyto pořadnice plynou, řeší-li se tak, jako by břímě P= l působilo v právo od bodu(«-f- 1), tedy béře-li se za působení soustavy I na II síla L/', se kterou jsou pak //« + i, Dn + i v rovnováze (obr. 10. e}.
+2. Grafické řešení: Příčinkové čáry podávají velmi přehledné a obecné řešení, jež se hodí pro obtížení rovnoměrné i pro soustavy osamělých břemen. Na základě čar příčinkových a odvozených vět lze však také řešiti přímo graficky. Při obtížení stálém určí se reakce počtem neb graficky, načež se řeší methodou bodů styčných.
+Při pohyblivém obtížení nahodilém jest nutno, pokud se týče prutů soustavy I, rozvrhnouti veškeré obtížení na obtížení částí a0ult u^u^, #2<V Prvé obtížení (plné při pasech, částečné při prutech mezipasových) řeší se jako při prostém nosníku. Při obou druhých obtíženích lze vyjíti od reakce A0) jež pro tato obtížení, jde-li o rovnoměrné obtížení, má hodnoty dříve stanovené; při soustavě osamělých břemen určila by se
+XX VIL ﻿25
+reakce A0 graficky aneb pomocí příčinkové čáry. Stejně označené výsledky všech uvedených obtížení jest ovšem sečísti; tím obdrží se krajní hodnoty sil osových.
+Pro pruty soustavy II jest třeba řešiti zvláště obtížení částí Í2u2, a012 a u2a3. Prvé obtížení (opět plné při pasech, částečné při prutech mezipasových) řeší se jako při prostém nosníku. Při obou ostatních obtíženích, jež jsou společná všem prutům (při rovnoměrném obtížení plná, při osamělých břemenech pak jediná poloha soustavy při každém obtížení), lze vycházeti od svislých sil ř/2, Tai jež jsou obdobný reakcím prostého nosníku, kterému soustava II odpovídá. Síly U2, T2 stanoví se graficky neb počtem na základě příčinkových obrazců.
+Při prutech, jež stýkají se v kloubech b^.b^ nelze postupovati dle předešlého. Možno užíti buď čar příčinkových, aneb stanoviti na př. při obtížení rovnoměrném onu krajní hodnotu síly, jež plyne z obtížení neobsahujícího příslušný kloub b (tedy při prutech u kloubu bl z obtížení uz a3, při němž jsou v rovnováze A0, Lt, B^'; ze síly B^"" pak plynou veškeré síly osové při kloubu b^)\ druhá krajní hodnota doplňuje prvou násilu, která odpovídá plnému obtížení a plyne ze stálého obtížení redukcí v poměru obtížení. Jde-li o obtížení rovnoměrné, lze vůbec takto postupovati a stanovití vedle síly za plného (stálého) obtížení pouze jednu krajní hodnotu síly osové, načež druhá krajní hodnota plyne rozdílem obou stanovených sil.
+^
+CJ
+L
+C)
+C) Nosník o dvou polích při obtížení vodorovném.
+Při obtížení svislém nezáleželo na tom, která z podpor byla pevnou Jde-li o vodorovné obtížení, má však poloha pevné podpory podstatný vliv.
+§ 10. Pevná podpora uprostřed.
+1. Nosník budiž úplně souměrný (/t ~ /2 n /, cc1 ~ <x2 — «) s podporami a„, alt a2 v rovné výši (obr. 11.a). Za každé polohy vodorovného břemene H, jehož účinek stanoví se opět nejlépe příčinkovými čarami, jest vodorovná složka reakce v pevné podpoře at:
+TT   __   rr
+/2j  __ n.
+Působí-li vodorovné břímě /ř~ l na soustavu I, vyžaduje rovnováha soustavy II, aby síly A2, L2, B1 procházely jediným bodem a2'; tím dán jest určovací paprsek B^' síly v kloubu b±. Pak plyne reakce A0 z momentové výminky vzhledem k bodu u^ :
+z čehož:
+v. — v
+XXVIL ﻿26
+Příčinkovou čarou (obr. 11. b) jest  přímka a0 blf  vztažená   k oseab a daná pořadnicemi:
+v bodě a0 (v — 0)   .   . 4,' z= H^ — l -1  — oa~0.
+«!           «i
+»       b.  (v = h] .   .   . An"" iz l —-------zi bb,.
+u^
+Neutrálná poloha této přímky dána jest bodem uí, což ply nice (14a). Z momentové výminky rovnováhy všech vnějších sil, k bodu #! :
+ne z rovvztažené
+tedy:
+' = 0    plyne: ^ZZ^-j-Hy .   .   .   . (15)
+Příčinkovou čarou (obr.  11. c] jest opět přímka n0 b,, vztažená kose flb; pořadnice její jsou:
+v bodě a0 .   .   . A2' = H—1- — l —i- — aa„,
+Neutrálná poloha této přímky plyne ^ výminky:
+v* — v         v'
+z čehož:
+, —      l'v^      — lvi
+Tato výška dává bod a0', neboť: a0 a0'\v1 zi/iw/. Konečně plyne z rovnováhy vnějších sil:
+pak:
+Také   zde   jest   příčinkovou   čarou   (obr.   11. d)   přímka,   daná   pořadnicemi :
+v bode a0 .   .   . Al' = — H.2 ^  =— i.-?^- —a'a0;
+XXVII. ﻿27
+v bodě 6Í .   .   . A^— — Z obr. 11.a) vychází:
+taň    =
+/taň a —
+Z toho :
+tana        taň P        /tana — //
+k l taň a                        v.                 Á
+2! taň a — h '             "" tana        2/tana—//
+/taň a — h
+#!   ZZ /--- Zíj ' —  2 .
+2 / taň a — h
+Pak jest:
+Proto: Konečně:
+h — v,         h
+-
+tedy:
+vl — h    .   h            vl — h
+"" — _   A ""
+-     -«       .
+Osovou   sílu   podporového   prutu   Lt  možno   určiti z momentové výminky rovnováhy vzhledem k bodu a0""'.
+L, r, -j- H(v — VQ) = 0,    tedy Z, — — H ^^-   .   .   . (17*)
+Příčinková přímka (obr.  11.e) má pořadnice:
+v bodě a0 .   .   . Ltř = l 7V = aa0,
+Neutrálnou polohu stanoví bod a0"".
+Osová síla prutu Ls   plyne  z rovnováhy  ve   styčném   bodě alt   kde platí pro vodorovné složky : L^ cos a — L2 cos a -|- ^ zz 0, tedy:
+ir La zr Z,
+cos a
+Dosazením:
+cos a zz —-*~ vn
+XXVII. ﻿28
+obdrží se:
+.   .   .(18-)
+Tato rovnice vede opět ku přímce, stanovené pořadnicemi:
+v bodě a
+.   . La' - l -^T -±- ;
+Vn -t- Vn   ----,
+jest patrno, že
+i jest: Z,8"" = — /,,
+Působí-li vodorovné břímě H r= l na soustavu II, a to směrem kladným (za nějž budiž zde vzat směr v právo), obdrží se příslušné hodnoty z předešlých výměnou pravé a levé strany nosníku (tedy výměnou A(} za A2, Ll za L2) a obrácením směru břemene H, tedy změnou znamení Platí proto :
+Neutrálnou polohu příčinkové   přímky l\ a2   stanoví   bod a'2, pořad nice v bodě «
+Podobně:
+(15b)
+Neutrálnou polohou jest bod /2, pořadnicí v bodě a.2 (obr.  11. c):
+Při reakci Aí  obrací se pouze znamení:
+Pořadnice v a2 jest:
+Posléze:
+= — A   — aa.
+-
+
+Neutrálnou polohu dává bod <*2'; pořadnice v «2 :
+Zj    zz — Z2 zi a a2 .
+XXVII.
+.   .   . (17b) ﻿29
+L. =
+Neutrálnou polohou jest a2"", pořadnicí v a2: L2'"" = — ///.
+Příčinkové čáry reakcí A0í A2 liší se znamením a výměnou pravé a levé strany nosníku, podobně čáry sil Lt, L2.
+Z veličin /, a, h, jež stanoví v podstatě tvar nosníku, plyne rt dle rovnice :
+T-J —VQ   cos a — 2 (/taň « — ^) cos a......(19b)
+2.  Příčinkové čáry, vyšetřené již počtem, dají se stanoviti také čistě graficky. Platí totiž i při vodorovném břemeni pohyblivém věta dokázaná v úvodu pro   břímě   svislé.    Každé   ze   soustav I,   II   odpovídá  jako   čára příčinková jediná přímka.  Stačí tedy stanoviti příčinkové pořadnice v bodech a0, b^ a2 jakožto   síly   vyvozené břemenem H — l   v oněch   bodech působícím.  Při střední podpoře pevné neliší se   grafické řešení v podstatě od řešení při obtížení svislém.
+Obecné síle //, působící na soustavu I, odpovídá v kloubu bl síla B\ načež jsou v rovnováze síly: ^0, //, Bí', Lv. Namítá se tu známá úloha: z dané síly H stanoviti tři síly A0, B^, Z,n jež působí po různu v rovině a se silou // jsou v rovnováze (táž úloha vyskytuje se při řešení prutové soustavy methodou průsečnou). Rovnováha žádá, aby výslednice sil (A^ Z/) působila v téže přímce, jako výslednice sil (Bí', Z^), tedy ve přímce «o""»j ; pak jsou se silou //v rovnováze: A0 a výslednice sil (Z?/, Z,:), jež tedy snadno se určí (obr. li./""). Z výslednice (/?,', L,) plynou obě složky, ze síly B\ pak L2 a A2 jakožto její složky. Konečně plyne Al z rovnováhy v bodě tfj.
+Úplně stejně určí se síly, vyvozené břemenem H' zi l v bodě a^ (obr. \\.g) a břemenem H"" — l v bodě bl (obr. li.//), čímž stanoveny jsou příčinkové pořadnice v těchto bodech. Pořadnice v bodě az plynou výměnou pravé a levé strany nosníku a současnou změnou znamení. Kontrolou při rýsování příčinkových čar jsou neutrálně polohy, stanovené při počtářském řešení; tyto polohy daly by se také přímo graficky odvoditi na základě uvedeného sestrojení sil při libovolném břemeni.
+3.   Při   rovnoměrném   obtížení   vodorovném   (poměrné obtížení q^) po jedné polovici nosníku plyne pro obtížení levé strany z příčinkových obrazců:
+kde:
+
+XXVII. ﻿tedy:
+30
+(i) -       a   h       i ~   2  9' h        u
+Podobně:
+(20)
+2z-— h
+4-
+Při obtížení pravé strany jest:
+(21)
+Do vzorců předešlých dosazovati jest obtížení v právo působící jako kladné, obtížení v levo působící jako záporné. Při obtížení rovnoměrném po jedné straně lze též stanoviti veškeré síly čistě graficky z výslednice obtížení stejně, jako z jediného břemene (dle obr. li./).
+Na základě odvozených příčinkových čar bylo by snadno stanoviti příčinkové čáry osových sil prutů v soustavách. Pravidlem však obtížení vodorovné (tlak větru při nosnících střechových) působí jako plné obtížení jedné strany, takže není třeba obírati se jím podrobněji.
+§ 11. Pevná podpora na kraji.
+1. Budiž při témž nosníku, pro nějž bylo provedeno předešlé vyšetřování, pevná podpora v bodě a0 (obr. 11. a). Za každé polohy vodorovného břemene // jest opět vodorovná složka reakce: //0 —//. Z rovnováhy v bodě at plyne pak:
+Z, = Z2 = -
+2 sin a
+(22)
+Působí-li pohyblivé břímě vodorovné // = l na levou polovici nosníku, procházejí síly A^ L2, B^ společným průsečíkem a2' i dá se A0 stanoviti z momentové výminky k základnímu bodu «j :
+«        # v — H      —v  = 0
+z toho:
+XXVII. ﻿31
+A2 plyne opět z momentové  výminky rovnováhy   všech   vnějších sil vzhledem k bodu al :
+tedy:
+.     (24-)
+Dále jest:
+pak:
+(25°)
+Síly LU L2 plynou pak z hořejší rovnice (22).
+Veškeré  příčinkové  čáry  jsou   přímky  a0 bx   vztažené  k osám d0 b' (obr.  ll.ť^ —(?) a dané pořadnicemi:
+v bodě a0 (v = 0): A0' = A^ — As' — 0, /-/ = L2' = 0
+o
+2^       siná
+Působí-li vodorovné břímě H i= l na pravé polovici nosníku, nelze žádnou sílu vnější určiti přímo z jediné výminky rovnováhy. Současně stanoviti lze však A0 a A2. Z momentové výminky rovnováhy sil, působících na soustavu I, vzhledem k bodu Lt plyne, rozkládá-li se Lí na svislou složku :
+Lí sin a ~-----— yjj
+«
+a vodorovnou složku v bodě />t:
+^0 /-f Í70 /« — L! sin « . rf = 0, čili: yJ0 /-f -^- ^ít d-\-Hh — 0. Jelikož :
+l
+aneb :
+A
+h
+0— —    -S-I       .
+Momentová výminka všech vnějších sil k bodu at  dává:
+Odečtením obou posledních rovnic plyne:
+XXVII. ﻿32
+z čehož:
+-  vd
+21(1 - d)
+Dále jest:
+-.
+- v(2l—d] 2Í(l~—d)
+2h~v
+(23b)
+-   -   -   • (24b)
+.... (25b)
+Příčinkové čáry jsou přímky í\ a2, stanovené body bj  a pořadnicemi v bodě íř2 (z> = 0) :
+Z  '"" - Z '"" = __ -1 '-- = — l -     — —
+2               2 siná                (/ — ^) sin «
+V bodě ^   (z> zr //) plynou pořadnice :
+Tyto   hodnoty   rovnají   se   hodnotám   stanoveným   při   obtížení   levé strany; neboť z rovnic (19a):
+/taň a — h          ,               Ih
+u.  zr
+7^—         -
+2 /taň a —
+»    **i
+2/taň a —
+dělením čitatele i jmenovatele   tana   a dosazením:---------zz d plyne:
+taň K
+(19C)
+Na základě těchto hodnot jest patrná rovnost pořadnic A0"", A^', A2"", stanovených z obtížení levé a pravé strany.
+Pro kontrolu hodí se při obtížení pravé strany neutrálně polohy, jež mají však vesměs význam pouze geometrický. Neutrálná poloha pro A0 dána jest rovnicí:
+21 k —vd=.&t z čehož: v — 2/-- — 2/taň K = 2a2a2'.
+XXVII. ﻿33
+Neutrálná poloha pro Aa plyne z rovnice:
+2 Ih — v (21 — d) — 0,    z toho: v — 2 -
+Ih
+-d '
+což bylo by snadno sestrojiti.   Neutrálná poloha  pro Al  (a tím i pro Lít L%} vyplývá konečně z výminky:
+2 k — v ~ 0, ze které: v—2h.
+2. Grafické stanovení čar příčinkových provede se grafickým určením pořadnic v bodech Lj, aa jakožto sil, vyvozených břemeny H"" — l a H'"" — l v oněch bodech. Při libovolné síle H na levé polovici (obr. 11. z') působí na soustavu I rovnováhová soustava sil A0, H0, H, B^\ Llw Je-1 veden řez kloubem 61 a prutem L1 a odejmuta levá strana, plyne z rovnováhy sil A2, Alt LU BI, že výslednice sil (Llt />/) jest svislá síla v bodě ul Břímě H protíná výslednici (L1, B^) v bodě 2^', jímž prochází pak také výslednice sil (A0, íT0), jdoucí bodem a0. Ze síly H určí se pak snadno výslednice (Llt Z?/) a (A0l Z/0), jež jsou s H v rovnováze, načež z obou výslednic stanoví se složky Z^, Z?/, J.0, Z/0 a ze síly B^ rovněž jako její složky síly L2, A2. Podobně určí se také veškeré reakce k břemeni //""zr l v bodě bí (obr. ll.L).
+Při obtížení pravé strany břemenem H možno toto břímě rozložiti do bodů <$>!, a.ž na složky řf"", H'"" . Složka H"" může se čítati jako obtížení k soustavě I a vnější síly určí se pak, jak právě vyloženo. Působí-li na souměrný nosník pouze vodorovná síla H""' v bodě a2J jež vyvozuje v cz0 reakci ff0 m //""', musí býti na základě úplné souměrnosti síla v kloubu
+í levé l
+B""' vodorovná. Na {       "".? polovici  nosníku protínají se   pak  v jediném mrave'                                          j                     j
+iprave'
+bodě
+\pl\ síly:  B^"",  jf1 ) a  výslednice  sil   í/°',L0,}.    Dle   toho  lze
+A2,H'
+veškeré síly stanoviti (obr.  li./).
+3. Rovnoměrné obtížení vodorovné (q^) po jedné polovici nosníku vyvozuje síly, jež odvodí se opět z ploch příčinkových obrazců. Při obtížení levé strany:
+
+
+— —  TT Qv
+u< ' h
+(21 —d) k2 21(1— ď)
+dhz
+2 lv 21 (l — d)
+}(26)
+~ qt
+Rozpravy: Roč. XIV. Tř. II. Č. 27.
+/
+2    ' /-XXVII. ﻿34
+Při obtížení pravé strany:
+í(27)
+_3/í2 l— d
+Rovnice předešlé obsahují jednak z^, u^\ jednak d\ obojí hodnoty souvisejí dle rovnice (19C). Při obtížení v právo působícím dosazovati jest za qv hodnotu kladnou, při obtížení v levo působícím hodnotu zápornou.
+II. Nosníky obloukové. A) Oblouky na podporách spojené.
+§ 12.
+Má-li nosník n polí, vnější podpory pevné a vnitřní posouvatelné, jest počet neznámých složek reakcí: 2 . 2 -j- (n — 1) ~ n -f- 3. Obecné výminky rovnováhy jsou pouze tři, zbývá tedy n neznámých, k jejichž určení jest třeba zvláštních výminek rovnováhy; tyto výminky poskytnou klouby, jichž tedy musí býti tolik, kolik jest polí, má-li býti nosník staticky určitým. Klouby buďtež položeny mimo podpory.
+Při sudém počtu polí a souměrném uspořádání namítá se případ výjimkový. Tak při nosníku o dvou polích se dvěma klouby vrcholovými (obr. 13.), jde-li o břímě v oboru soustavy I, vyžaduje rovnováha sil, působících v kloubech a2, c<> na soustavu III, aby obě tyto síly působily v jediné přímce C2. Na soustavu II působí pak síly Alt C2, Cl, jež mohou býti v rovnováze jen tehdy, procházejí-li jejich paprsky jediným bodem alf. Při souměrném uspořádání prochází pak Ct bodem a0, v němž na soustavu I působí reakce, i jest patrno, že rovnováha vůbec není možná. Nosník o sudém počtu polí a souměrném uspořádání jest tedy staticky i tvarově neurčitým.
+V dalším vyšetřování přihlíženo bude hlavně ke grafickému stanovení čar příčinkových.
+XXVII. ﻿35
+§ 13. Nosník o třech polích.
+1. Podporové reakce: Při břemeni v oboru soustavy I působí na soustavu IV síly v «3, c3, jež mají společný určovací paprsek C3 (obr. 14.#), má-li býti rovnováha. Síly A2, C2', č73', jež působí na soustavu III, procházejí pak jediným bodem a2' a síly C2\ Aí} C{\ účinkující na soustavu II, rovněž jediným bodem av"" . C^, C2\ C3' jsou vůbec síly v kloubech clt L~2i C3> působí-li obtížení pouze v levo od kloubu; podobně se určí paprsky (- 1 ""i ^Vi C s"" sil v kloubech, působí-li obtížení výhradně v právo od kloubu.
+Příčinková čára reakce A^ plyne takto: působí-li břímě na soustavu I, jsou v rovnováze: A^ 7/0, C\', P, i dá se A^ určiti z momentové výminky vzhledem ku průsečíku a^"" sil 7/0, L7, '. V tomto bodě působící výslednice sil //0, C^ jest svislá, poněvadž A^ i F jsou svislé. Pak určí se ^0, jako by šlo o nosník prostý íZ0#/""| příčinková čára (obr. \4.d) má v bodě a0 pořadnici P— l, v bodě a^"" neutrálnou polohu (geometrickou). Přímka tím stanovená platí ovšem pouze v oboru soustavy I. Působí-li břímě P— l kdekoli v oboru soustavy II, jest reakce A0 svislou složkou síly C^"" a dá se určiti na př. z momentové výminky vzhledem k bodu a^', rozloží-li se C^' na složky A0, H0 v bodě a0"", jenž leží na vodorovné, vedené bodem at"" ; dá se tedy A0 určiti, jakoby šlo o reakci prostého nosníku a0"" #/'. Proto jest <?/' neutrálnou polohou (skutečnou) a geometrická pořadnice v a0"" jest P= 1. Oba body tím dané stanoví příčinkovou přímku v oboru soustavy II, jež dává ovšem v bodě ct touž pořadnici A0' jako přímka, platná v oboru soustavy I. Pořadnice A0 "" v bodě c2 a bod a2' jako neutrálná poloha stanoví příčinkovou čáru v oboru soustavy III, pořadnice A^'"" v bodě c3 a bod a3 jako neutrálná poloha příčinkovou přímku v oboru soustavy IV.
+Pořadnice A0', A0"", A0'"" v bodech clt c2, cs stanoví se snadno graficky za obtížení nosníku břemenem P—\ v bodech c^ c2 (obr. 14. b,c] a c3 ; při nosníku souměrném není posledního obtížení potřebí. S břemenem P= l v bodě cí jsou v rovnováze síly 6^"", C^, z nichž C^"" jest výslednicí sil A0', H0' a Q' jest výslednicí sil A^, C2 atd. Podobně s břemenem P= l v bodě c2 jsou v rovnováze síly C2', výslednicí sil A2"", C3 , druhá pak výslednicí A^', C výslednicí reakcí A0"", HQ"" .
+Za svislého obtížení jest vodorovná síla : H0 — H3 = H. Příčinková čára stanovena jest pořadnicemi H' H"", H'"" v bodech Lx, c2, c3 a body podporovými jako polohami neutrálnými (obr. 14. e). Dá se také vyšetřiti podobně jako čára reakce AQ. Působí-li břímě -Piu l na soustavu I, určí se H z momentové výminky rovnováhy, vztažené ku průsečíku aQř sil A0, LI :
+\ z nichž prvá jest konečně Ct"", jest
+' — Ps = 0, je-li: p,'=:«t«ťj Pak: H—P^>-
+3*
+XXVII. ﻿36
+Příčinkovou čarou v oboru soustavy I jest přímka, jež má v bodě cí (s — írt) pořadnici :
+Působí-li břímě na soustavu II, jsou v rovnováze síly: L\"", P, A^C%, i dá se síla //jako vodorovná složka síly C/' určiti z momentové výminky vzhledem ku průsečíku a^"" sil A1, 62', rozkládá-li se Cx"" na složku svislou a vodorovnou v bodě a^ \ pak platí rovnice obdobná ku dřívější a pořadnice v bodě c2 jest:
+kde ^ ' — a^ "" at ', r2 pak značí úsečku bodu c^ měřenou od bodu av. Bod av stanoví ovšem polohu neutrálnou, podobně bod #,. Pořadnice v bodě c3 vyjde dle předešlého:
+kdež: z?g =a,   ďg, v3'=:a3as', c3 a ^3' jsou úsečky bodu ^3  ku a2, a3.
+Co se týče reakce A^ tu, působí-li břímě na soustavu II, jest Al v rovnováze se silami C/', C2' a /*, i stanovila by se z momentové výminky vzhledem ku průsečíku^ sil L/', L72'; tento bod ít jest tedy neutrálnou polohou (geometrickou) pro přímku příčinkovou v oboru soustavy II. Břímě v bodě a1 působící dá: Aí —p— l, čímž stanovena jest úplně přímka v oboru soustavy II; přímka ta dává v bodech c^, c2 pořadnice AI, A^', jež lze určiti též přímo graficky (dle obr. 14. b, c). V oboru soustavy III jest bod a2 neutrálnou polohou; pořadnice v bodech c^ c3 dávají konečně přičinkové přímky v oboru soustav I a IV (obr. 14./""). Pro prvou přímku lze stanoviti bod, ve kterém tato přímka má pořadnici P := l ; jest to průsečík cv' přímky ^'\cl s rovnoběžkou ku C2', vedenou bodem a0 (obr. 14. a). Břímě v bodě c/, pokládané za obtížení soustavy I, vyvozuje v kloubu cv sílu C*/, v bodě a0 reakci 210 ve přímce tz0cl'\\C2'. Z rovnováhy sil 310, C2', A1 a P = l v bodě L/ plyne A^ = P =i l, jelikož 2Í0||C2' i Al\\P.
+Libovolné obtížení v poli prvém vyvozuje v kloubu c2 sílu C2\ jejíž výslednice s reakcí Aí prochází bodem a^"" . S obtížením v poli prvém jsou pak v rovnováze: levá reakce v a0 a výslednice sil A^ C2' v bodě a^"" působící. Jeví se tedy část nosníku a0 al za obtížení v poli prvém jako oblouk o třech kloubech a0, cl, a/', podobně část nosníku a2a3 za obtížení v poli třetím jako oblouk o třech kloubech tf2"", c3, a3. Obtížení ve druhém poli vyvozuje v kloubu ^ sílu C/', v kloubu <:3 sílu C/; výslednice sil L/', Alt jdoucí bodem a^ a výslednice sil C3', A2, jdoucí bodem a2', jsou pak v rovnováze s obtížením. Část nosníku a2a3 při obtížení ve druhém poli má se
+XXVII. ﻿37
+jako oblouk o třech kloubech 0/, cz, a% (oblouk visutý, při němž vodorovná síla má opačný směr, než při oblouku vzepřeném).
+2. Osové síly prutů: Příčinkové čáry osových sil prutů plynou snadno na základě právě odvozených vět v poli, k němuž prut náleží; v polích ostatních jest tvar jejich stanoven větou v úvodu dokázanou, dle níž při nosníku staticky určitém v oboru každé soustavy (vyjma soustavu, v níž jest prut obsažen) jest příčinkovou čarou jediná přímka.
+Příčinková čára osové síly prutu Dm v soustavě I (obr. 14. m} jest tedy v prvém poli stanovena jako při oblouku o třech kloubech «0, L,,#/' pořadnicemi Dm\ Dm"", D„í"" v bodech a0, c^ (graficky stanoví tyto pořadnice obr. 14 g^ /L, / na základě methody průsečné), středem momentovým dm a neutrálnou polohou em, kterou na sečnici a'0 cl určuje spojnice
+dm.   V   oboru   soustavy II   platí  jediná   přímka,   jejíž   pořadnice   D,
+IV
+v bodě c2 dá se také přímo sestrojiti ze síly Q"", vyvozené břemenem P=: l v bodě c2 působícím (obr. 14. k}. Pořadnice Dmiv a neutrálná poloha a2 určují přímku v oboru soustavy III, její pořadnice v bodě cs a bod a3 jako poloha neutrálná přímku v oboru soustavy IV.
+Podobně stanoví   příčinkovou   čáru   osové   síly prutu DH (obr.  14. n)
+v poli prvém   pořadnice ZV, D,"", DHf""   v   bodech
+(stanovené   gra-
+ficky v obr.  14. z, ^, /),   přidružený   střed momentový du  a neutrálná   po-
+Joha e,i, kterou na sečnici
+určuje   spojnice at"" da.    Mezi body TZ, cz
+platí ovšem jediná přímka, jejíž pořadnice v bodě c2 plyne jako osová síla /}„IV ze síly C/', vyvozené břemenem P iz: l v bodě cz působícím (obr. 14./L|. Další postup jest jako při sile Dm.
+Příčinková čára osové síly Dr (obr. 14. 0) v poli druhém plyne na základě oblouku o třech kloubech #/, c2, a'2, tedy opět z pořadnic Dř D"", Dr"" v bodech alt c2 (obr. 14. i, k\ středu momentového dr a neutrálně polohy er (zde pouze geometrické), stanovené na sečnici a\ c2 spojnicí aí dr. Dále vyšetřuje se obdobně, jako při silách Dm, D>1. Pořadnice DrV v bodě cl plyne ze síly C2', vyvozené břemenem P= l v bodě cl působícím (obr. 14. k}. Stejně určila by se také pořadnice v bodě C5.
+• Kdyby šlo o jiné řešení osových sil než čarami příčinkovými, na př. řešení počtářské neb grafické, stanovily by se pro každý prut v prvém poli krajní hodnoty z obtížení v tomto poli jako při oblouku o třech kloubech a0, r/, #/'. Pak určily by se osové síly všech prutů v prvém poli za plného obtížení druhého pole a za plného obtížení třetího pole (v obou případech lze vycházeti z levé reakce ve přímce C^"" působící). V poli druhém při obtížení téhož pole postupovalo by se jako při oblouku o třech kloubech «/, c2, a'2, načež by se stanovily osové síly za plného obtížení prvého pole (ze síly C/, příslušné tomuto obtíženi) a třetího pole (ze síly C2"", která jest výslednicí sil L?/, ^). Stejně označené výsledky všech obtížení by se pak sečetly.
+XXVII. ﻿38
+3. V případě stejných polí a stejné výšky vrcholových kloubů, ležících uprostřed polí, určily by se příčinkové čáry reakcí podobně jako v obecném případě. Jelikož body «/',#/"" splynou pak s al a rf0 c^ \\a^c^ nebude příčinková čára reakce A0 v bodě ct lomena, a příčinková čára reakce A2 v oboru soustavy II vyjde rovnoběžná s osou, příčinková čára vodorovné síly bude pak tvořiti tři shodné trojúhelníky. Při plném obtížení rovnoměrném (poměrné obtížení p] bude pak:
+l                                             pl~
+je-li / rozpětí pole a   v výška   vrcholového   kloubu   nad   spojnicí   patních kloubů.   V tomto   případě mají tedy A0, H tytéž hodnoty, jako při jedi-
+ném oblouku a c
+B) Oblouky na podporách oddělené.
+Nosník měj n polí, v každém poli samostatnou soustavu prutovou a na podporách soustavy spojeny pouze klouby (jinak úplně odděleny). Obě krajní podpory buďtež pevný, všechny vnitřní podpory posouvatelny. Pak jest celkem neznámých složek reakcí: 2 . 2 -}- (n — !)=:«-(- 3. Na kloub na podpoře působí jedna soustava silou, která jest v rovnováze s příslušnou reakcí a působením druhé soustavy; ze síly prvé a z reakce dá se na základě rovnováhy určiti poslední síla, i jest v každém kloubu jedna síla neznáma směrem a velikostí aneb dvěma složkami- V celku jest neznámých složek sil v kloubech 2(« — 1); celkový počet neznámých jest: n-^-3 -f 2 (« — l) = 3«-j- 1.
+Jelikož nosník obsahuje n soustav, z nichž každá dává tři výminky rovnováhy, jest celkem 3n výminek, nedostává se tedy jediné výminky. Při libovolném počtu polí jest potřebí jediného kloubu vrcholového (středního) ve kterémkoli poli, aby nosník byl staticky určitým. Totéž plyne také z vyšetřování v předešlém oddílu, kdež bylo ukázáno, že nosník o n polích vyžaduje tolikéž kloubů, má li býti staticky určitým; na vnitřních podporách jest celkem (n — 1) kloubů, pročež jest potřebí ještě jediného kloubu v libovolné poloze.
+§ 15.   Nosník o třech polích s kloubem vrcholovým ve středním poli.
+1. Podporové reakce: Podpory buďtež v rovné výši. Za každého svislého obtížení jest: //0 =r H3 =r H. Je-li obtíženo pouze pole prvé, působí na soustavu II jen síly v kloubech tfn c2 (obr. 15. a), jež následkem rovnováhy působí v téže přímce a1c2; na soustavu III působí rovněž jen síly v kloubech c2, #2, a to opět ve přímce c2a2. To vedlo by
+XXVII. ﻿ku dvěma různým paprskům síly C2 v kloubu vrcholovém, i musí býti C2 = 0; pak také síla, kterou působí soustava II na klouby a soustava III na kloub í*2, jest rovna 0, a dále: A.2=0, H—0, A^—tt. Působí tedy libovolné svislé obtížení v poli prvém pouze na soustavu I jako na nosník prostý a0aí, a obdobně libovolné svislé obtížení v poli třetím působí pouze na soustavu IV jako na nosník prostý a2a3.
+Za obtížení pouze v poli druhém vyžaduje rovnováha, aby síly, jež v cr0, třt působí na soustavu I, měly společný určovací paprsek a0 a:; redukuje se tedy reakce v bodě a0 na pouhou sílu vodorovnou í/0. Podobně v a3 působí pouze vodorovná reakce H3 — //0, což jest zároveň síla, kterou soustava IV působí na kloub #2. Odejmou-li se soustavy I, IV, třeba je nahraditi v kloubech #0, a2 vodorovnou silou HQ = Hz ~ H, i platí: při obtížení ve druhém poli mají se soustavy II, III jako oblouk o třech kloubech al, c2, a2, jenž na soustavy I a IV působí pouze vodorovnou silou.
+Nyní plynou snadno příčinkové čáry reakcí. Reakce A0 jest totožná s reakcí prostého nosníku; její příčinková čára má tedy v bodě a0 pořadnici P= l, v bodě aí neutrálnou polohu. Obdobně plyne příčinková čára reakce A3 (obr. 15. c). Na reakci vnitřní podpory, na př. A11 má vliv obtížení obou sousedních polí; krajní pole působí jako prostý nosník, prostřední jako oblouk o třech kloubech, při němž za stejné výšky kloubů opěrových at, a2 určí se svislá reakce také jako při prostém nosníku, Příčinkovou čarou v každém sousedním poli jest tedy přímka, společná pořadnice v podpoře, o jejíž reakci jde, jest P= l (obr. 15. d). Vodorovnou sílu If0~řfs^ff vyvozuje pouze obtížení středního pole, a to tak jako by šlo o oblouk o třech kloubech alt c2, a%. Příčinkovou čarou (obr. 15. e] v oboru každé ze soustav II, III jest jediná přímka, společná pořadnice v bodě c2 určí se pak snadno graficky jako vodorovná síla H\ vyvozená břemenem P= l v bodě c2 působícím (obr. 15. b}. Počtem plyne H' z momentové výminky rovnováhy sil, jež působí na soustavu II, vzhledem k bodu a/:
+H' z/i — Pc2 — 0, tedy: H' — P-^-,
+je-li- z^ = tfjtfj', c2 pak úsečka bodu c2 vzhledem ku «1.
+2. Osové síly prutů: Příčinkové čáry osových sil prutů ve středním poli stanoví se jako při oblouku o třech kloubech alt C2í a2 (viz vyšetřování v úvodu a obr. 12.). Obtížení prvého a třetího pole nemá vůbec vlivu na osové síly prutů v poli druhém.
+Jde-li o pruty soustavy I, stanoví se jejich osové síly i příčinkové čáry při.obtížení pole prvého jako při prostém nosníku a0al. Jsou tedy příčinkové čáry osových sil //,„, S,„ _i, Dm (obr. 15. /&, /, k) v prvém poli
+XXVII. ﻿40
+dány pořadnicemi H'm, Sm—\, D'm, jež plynou jako síly osové, působí-li v levo pouze reakce AQ — l (obr. 15./); z těchto pořadnic určí se pří-činkové čáry v poli prvém jako při prostém nosníku (viz obr. 5.) Za libovolného obtížení ve středním poli působí na soustavy I, IV pouze vodorovná síla, i jsou příčinkové čáry osových sil prutů soustavy I v poli druhém téhož tvaru, jako příčinková čára vodorovné síly. Pořadnice v bodéc2 plynou jako osové síly //„/"", S""'M-i, Dm'"" za obtížení břemenem P— l v bodě c2, a to z vodorovné síly H' tímto obtížením vyvozené (obr. 15.g]. Přímé grafické řešení osových sil nečinilo by v tomto případě obtíží. Obě krajní pole, pokud jde o jejich vlastní obtížení, řeší se jako prosté nosníky, načež se stanoví ještě osové síly za plného obtížení ve středním poli; tu působí na pole krajní pouze vodorovná síla. Osové síly prutů ve středním poli řeší se jako při oblouku o třech kloubech; obtížení krajních polí nemá žádného účinku. V prvém poli při prutech mezipasových, pokud neutrálná poloha rná význam statický, sečítati jest sílu z obtížení levostran-ného se silou z plného obtížení středního pole vyplývající. Obdobné platí o třetím poli
+§ 16.   Nosník o třech polích s kloubem vrcholovým v krajním poli.
+Tento případ neliší se podstatně od předešlého. Budiž tu vyšetřen nosník poněkud složitější (obr. 16): v prvém poli jest vrcholový klouby, ve druhém poli pak nosník složený ze dvou soustav III, IV, spojených kloubem cz a třetím pasem K (to dává ovšem v celku jedinou staticky i tvarově určitou soustavu); v poli třetím budiž jediná určitá soustava. Proti předešlému liší se vyšetřování jen ve středním poli následkem složitějšího tvaru soustavy.*)
+1.  Podporové reakce: Reakce A0 plyne pouze z obtížení prvého pole jako při oblouku o třech kloubech a při podporách   v téže výši zároveň jako při prostém nosníku. Na reakci A3 působí pouze obtížení třetího pole dle zákona prostého nosníku (obr. 16. c). Reakce vnitřních podpor plynou   z obtížení   obou   sousedních   polí;  jsou-li   podpory  v  rovné   výši, platí v každém poli zákon prostého   nosníku (obr.  16. d}.   Konečně vodorovná síla vyplývá jedině   z obtížení prvého pole,   a to jako   při  oblouku o třech kloubech (obr. 16. é]; stanovena jest největší pořadnicí H' v boděí, (grafické řešení její podává obr. 16. L).
+2.  Osové síly prutů v poli prvém řeší se jako při oblouku o třech kloubech #0, L15 a^.   Na osové síly   prutů   v poli   třetím   má vliv obtížení třetího pole jako při prostém nosníku, mimo to pak obtížení prvého pole, jež působí na třetí pole pouze vodorovnou silou; dle toho určí se příčinková čára   síly Dr  (obr. 16./;   pořadnice   stanoveny jsou   v  obr.  18./, Ji).
+*) Nosník toho způsobu navržen  byl   při  druhé soutěži  na most  přes Neckar v Mannheimu (viz >Centralblatt der Bauverwaltung«, r. 1901).
+XXVII. ﻿41
+Ve středním poli v krajních částech, ve kterých není pasu K, řeší se osové síly jako ve třetím poli: za obtížení druhého pole jako při prostém nosníku, za obtížení prvého pole pak z vodorovné síly, kterou prvé pole na druhé působí (tak stanovena jest příčinková čára osové síly Dm v obr. 16.n; pořadnice stanoví obr. 16. k, i).
+Při libovolném obtížení ve středním poli dává síla K s reakcí Al výslednici, jdoucí bodem «/, síla K a reakce A2 výslednici, jdoucí bodem «2'; je-li pás K odejmut a nahrazen osovou silou v obou svých koncových bodech styčných, má se patrně nosník ve středním poli (pokud sahá třetí pás K) jako oblouk o třech kloubech a/, c2, a2', jehož vodorovnou silou jest osová síla pasu K. Její příčinková čára (obr. 16. m) v poli druhém stanovena jest tedy pořadnicí K' v bodě c2, jež se určí za obtížení bře-. menem P — l v tomto bodě jako vodorovná síla oblouku a^' C2a2f (obr. 16 g). Je-li obtíženo pouze prvé pole, působí na nosník ve druhém poli vodorovná síla; z této plyne síla K na základě výminky rovnováhy, kterou podává vrcholový kloub c2, a kterou možno vyjádřiti ve tvaru, že výslednice sil H, K musí procházeti bodem c2. Příčinková čára síly K v poli prvém stanovena jest pořadnicí K"" v bodě clt která se určí z vodorovné síly ff na základě řečené výminky, tedy na př. pomocí čáry výslednicové c2 c% p a příslušných pólových paprsků (obr. 16. k}.
+Osové síly prutů v oné části středního pole, ve které jest pás K, možno za obtížení druhého pole vyšetřovati jako při oblouku o třech kloubech #/, c2, a2; dle toho určí se příčinková čára síly DH (obr. 16. d) v poli druhém (stačí mimo neutrálnou polohu pořadnice D,/, stanovená v obr. 16- í). Při obtížení prvého pole určí se síla osová Dn z příslušné síly K, největší příčinková pořadnice D„lv tedy ze síly K"" (obr. 16. k).
+Grafické neb počtářské řešení osových sil provedlo by se velmi snadno na základě stanovených čar příčinkových dle vět a vzorců, platných pro nosníky prosté a oblouky o třech kloubech.
+3. Z předešlého vyšetřování plyne, jak by se postupovalo při nosníku o libovolném počtu polí. Obtížení každého pole, ve kterém není vrcholového kloubu, působí pouze na svislé reakce a osové síly prutů v témž poli, a to jako při nosníku prostém. Obtížení pole, ve kterém jest vrcholový kloub, má pak vliv na sousední svislé reakce, vodorovnou sílu a tím na osové síly prutů ve všech polích. Pokud jde o ono pole samo, řeší se jako oblouk o třech kloubech. Na ostatní pole působí obtížení pole, jež obsahuje vrcholový kloub, pouze vodorovnou silou (ovšem za výminky, že veškeré podpory jsou v rovné výši).
+XXVII. ﻿42
+C) Oblouky s kloubovými ótyrúhelníky na podporách.
+§ 17.
+Proti trámovému nosníku o témž počtu polí s jedinou podporou pevnou má obloukový nosník se dvěma pevnými podporami o jednu neznámou složku reakce více. Je-li trámový nosník o libovolném počtu polí staticky určitým, má-li kloubové čtyrúhelníky na všech vnitřních podporách, schází při spojitém oblouku s kloubovými čtyrúhelníky na vnitřních podporách jedna výminka rovnováhy. Jest tedy při libovolném počtu polí potřebí jediného kloubu, aby nosník byl staticky určitým.
+§ 18. Nosník o třech polích s vnitřními podporami pevnými.
+1. Reakce a osové síly prutů podporových: Nosník budiž složen ze čtyř soustav I, II, III, IV, spojených spolu klouby bl, <r.2, /;2 a s vnitřními pevnými podporami alt a2 pruty Llt L2, L3, L4 (obr. 17.a). Je-li obtíženo pouze pole prvé, protínají se tři síly A3, L^ L2', působící na soustavu IV, v bodě a'3) podobně síly B%, L3, C2f, jež působí na soustavu III, v bodě 7/3 a síly C2', L2, Bv' v bodě n2. Na soustavu I působí pak mimo obtížení síly A0, L:, B^. Při svislém obtížení jest výslednice L\ sil Ll, BI, jež působí v bodě «ls svislá. Z toho plyne, že při obtížení v poli prvém m á se s ousta va I jako nosní k prostě podepřený v bodech a0, u1; obdobné platí o soustavě IV.
+Při obtížení v poli třetím mají síly v kloubech paprsky B^\ C2"",L2"" a protínají příslušné pruty podporové L2, L3, Z/4 v levých bodech základních /2, /3, /4; body ult u2, u3 jsou pravými základními body soustav I, II, III. Je-li obtíženo pouze střední pole, působí na soustavy II, III v levo síly B^\ L2, jejichž výslednice jde bodem i2, a v právo síly B.2' L3i jejichž výslednice prochází bodem u3. Mají se tedy soustavy II III při obtížení druhého pole jako obloukotřech kloubech
+Pravý bod základní u.A jest neutrálnou polohou co do sil L2l Lt, AQ a tedy i AL, H\ plyne to z toho, že při břemeni v bodě u3 působícím jest výslednice sil (J52't L3) rovna břemeni, a síla v kloubu c2: C2"" ~ 0 načež i všechny vytčené síly rovnají se nulle. Podobně se dovodí, že bod #2 jest neutrálnou polohou pro Z,n A0 a bod u1 pro A0. Jsou to vesměs neutrálně polohy statického významu. Podobné platí o pravých bodech základních. Obecně tedy neutrálnými polohami libovolné reakce
+(p ravýchj neb osové sily podporového   prutu    sou   v oboru            ,
+l levých J
+í p r a v é |
+soustav       ,        ,   |  základní body. l   levé1
+Příčinková čára reakce A0 (obr. 17. ď) plyne na základě uvedených vět z pořadnice Pzi l v bodě a0 a z neutrálných poloh uít 7/2> ua> aa-
+XXVII.
+ ﻿43
+Kontrolovati se dá pomocí pořadnic AQ\ A0"", A0""ř v bodech bl^ c2, b2. Ostatní čáry příčinkové sestrojí se z podobných pořadnic v bodech b\^ ^21 ^2> Je^ plynou graficky jako příslušné reakce a síly osové za obtížení břemenem P~ l v oněch bodech. Břímě P—\ v bodě L, (obr. 11.b) jest v rovnováze se silami .Z?/', j5/, z nichž prvá jest výslednicí (y40',L/), druhá pak výslednicí (/>2'> ^2') > ze sl'ly Q' Ufčí se jako složky síly L%\ B2 a z této Z4', /J3'. Z rovnováhy v bodech «n a2 plynou pak síly //', Alt A2'. Podobně postupovati lze při obtížení břemenem P= l v bodě c2 (obr. 17. c). Při souměrném nosníku netřeba stanoviti síly, jež vyvozuje břímě T3— l v bodě <L2 působící, neboť plynou výměnou pravé a levé strany nosníku ze sil, jež vyvozuje břímě v bodě bl působící.
+Stanovenými hodnotami určeny jsou úplně příčinkové čáry sil Z,x, L2, Alt H (obr. 17. e, f, g, h}\ kontrolu podávají neutrálně polohy. Pro L^ jsou neutrálnými polohami body aQ, u.2> u3, a3. Pro L2 jsou to body a0, u3, a3; mimo to pro přímku v oboru soustavy II plyne neutrálná poloha (geometrická) jako průsečík sa sil B^', C2f z výminky, že při obtížení soustavy II jsou s obtížením v rovnováze síly Z,2, Z?/', C2' a tedy momentovým středem přidruženým ku La (a zároveň neutrálnou polohou) jest bod s2.
+Reakce Av   plyne z rovnováhy v bodě a^:
+AI iz — (Zx sin «t -j- L2 sin «2),
+jsou-li a,, «2 odchylky podporových prutů od vodorovné. Bod u3 jako společná neutrálná poloha sil Llt L2 jest zároveň neutrálnou polohou pro reakci A^.
+Konečně platí: fJl zr //2 — H za každého svislého obtížení. Dá se pak H určiti rovněž z rovnováhy v bodě av :
+Ht =: LÍ cos «t — Z,2 cos «2.
+Jinak dá se H stanoviti takto: je-li veden řez kloubem bv a prutem Z2, má být v rovnováze soustava sil: A0t ^5,, L2, Alt H a obtížení sou-stavy I. Za svislého obtížení rovná se H vždy součtu vodorovných složek sil Blt L2, tedy vodorovné složce jejich výslednice. Při obtížení v poli druhém prochází tato výslednice bodem i2 a jest obdobná levé reakci oblouku o třech kloubech /2, r2, u%. Jest tedy při obtížení v poli druhém// vodorovnou silou tohoto oblouku, pročež /2, u3 jsou v oboru soustav II, III polohami neutrálnými.
+2. Osové síly prutů: Grafické stanovení příčinkových čar osových sil prutů v soustavách (obr. 18.) založiti lze na větách odvozených. V soustavě I (pruty /),„, Hm v obr. 18.^-, h\ pořadnice potřebné v obr. I8.6tc) vychází se z obtížení prvého pole, při němž soustava I jeví se jako prostý nosník, podepřený v bodech «„, ul. V oboru pravých soustav jsou pak neutrálnými polohami pravé body základní, polohami největšího příčinku, jež určují vrcholy příčinkových čar. kloubové body na rozhraní soustav.
+XXVII. ﻿44
+Příčinkové čáry osových sil prutů v soustavách II, III (na př. prutů Sn Dn Vr_i v obr. 18. /, k, /; pořadnice potřebné stanoví obr. 18. d,e,f) určí se v poli druhém jako při oblouku o třech kloubech t2) ca, u3. V každém krajním poli platí jediná přímka, stanovená pořadnicí v bodě b a vnější podporou jako neutrálnou polohou. Obsahují-li mezipasové pruty soustavu svislic, určí se příčinková čára osové síly svislice Vr — \ zrovna tak, jako při příčce Dr; přenáší-li se obtížení na horní pás, jak zde předpokládáno, přísluší při příčkách do středu sestupných příčce Dr oddíl (r—1) r, svislici F,-_i oddíl (r — 2} (r — 1).
+Jako při všech prutech postupuje se také za uspořádání dle obr. 18. při prutu Ds u kloubu c3 (obr. 18. ?//); prut ten tvoří tu vlastně spodní pás, jehož přidruženým středem momentovým jest protilehlý bod horního pasu, neutrálnou polohou ds pak průsečík sečnice ?/3 c2 se spojnicí bodu f2 s přidruženým středem momentovým. Ku stanovení příčinkové čáry stačí skutečná pořadnice Ds"" v bodě L2 a pro kontrolu pořadnice Ds'"", z nichž odvodí se příčinková čára, jak naznačeno v obr. 18. m).
+Co se týče osových sil prutů při kloubech b, lze postupovati jako při všech ostatních prutech příslušné soustavy s patřičnými změnami, jichž vyžaduje zvláštní poloha prutu, jak ukázáno při trámových nosnících s kloubovými čtyrúhelníky (dle toho postupuje se při prutech u kloubů b ve vnějších polích) a jak bude ukázáno v další stati (pro pruty při kloubech b ve vnitřním poli).
+
+III. Kombinace oblouku s trámem.
+§ 19.
+Spojitý nosník příhradový složen budiž v každém poli (obr. 19.) ze dvou soustav, spojených uprostřed pole kloubem c, na podporách kloubovými čtyrúhelníky apbq a mimo to mezi podporovými body třetími pasy K. Mezi soustavami a pasy K jsou ovšem svislé pruty, jež přenášejí obtížení na soustavy; je li však třetí pás K přímý v každém poli, což budiž pro jednoduchost předpokládáno, rovná se síla v onom svislém prutu přímo styčníkovému břemeni, takže možno zmíněné svislé pruty vynechati a přenášeti obtížení přímo na soustavy. Při n polích budiž jedna podpora pevná, n podpor posouvatelných (po vodorovné), tedy (n -j- 2) neznámé složky reakcí. Nad každou vnitřní podporou jsou dva pruty v kloubovém čtyrúhelníku (zvány buďtež opět pruty podporovými) a v každém poli jeden pás K\ jest tedy neznámých osových sil v prutech: 2 (n— !)-)-«. Nad každou vnitřní podporou jest jeden kloub b a v každém poli jeden kloub c, což dává v kloubech b:2(n—\} a v kloubech c: 2n neznámých složek. Celkový počet neznámých jest:
+« -j- 2 -j- 2 (« — 1) -{- « + 2 (« — l j _|- 2 n = 8 n — 2. XXVII. ﻿45
+Nosník obsahuje 2n soustav, jež dávají 3.2« výminek rovnováhy, a na každé vnitřní podpoře styčný bod, což dá 2(n — 1) výminek. Jest tedy v celku výminek rovnováhy:
+3.2;2-f 2(«— 1) = 8«— 2.
+Z  rovnosti   počtu  neznámých   a   výminek  rovnováhy   plyne   obecně statická určitost. Výjimkové případy zjistí se vyšetřováním.*)
+§ 20. Nosník o třech polích
+1. Reakce, osové síly prutů podporových a třetích pasů: Působí-li břímě P (obr. 19.a] na soustavu I, prochází výslednice sil A^ K3 kloubem c3, poněvadž jest v rovnováze se silou C3 v kloubu c3 působící. Na soustavu V působí pak síly C3, Z-4 a B2' v kloubu <L2, jež mohou býti v rovnováze jen tehdy, protínají-li se v jediném bodě M-, pravém základním bodě soustavy V. Podobně síly B.2',L3, C2f, jež působí na soustavu IV, protínají se v pravém základním bodě u± soustavy IV, síly C2', L2, B^ v bodě ^í3 a síly B^', L1, C^ v bodě u.2. Obdobně při břemeni, jež působí na soustavu VI spojuje výslednice sil A^ A'15 zároveň síla Cv'', body «0, cí; síly L""/'', LÍ1 B^' protínají se v levém základní m bodě i2 soustavy II, síly B^'\ L2, C2"" v levém základním bodě tz soustavy III, síly C2"", L3, B2"" v bodě t4 a síly B2"", L4, Ca"" v bodě í5.
+i    y    JgVO    i
+Síly v kloubech c mají při libovolném obtížení {              \ od kloubu
+l v právo l
+určovací paprsky l    „[, v kloubech b paprsky ]     „ L Jeli obtíženo pouze l L '                                       <• b   >
+prvé pole, jest obtížení jeho   v rovnováze se silami A0, Xl, L^ B^.    Vy-
+slednice sil (A0, Kt) prochází bodem <z0, výslednice sil (L^ B^ bodem u2; tyto síly lze určiti ze tří obecných výminek rovnováhy a z jedné zvláštní výminky, kterou dává vrcholový kloub ct. Při obtížení v poli druhém jest rovnováha mezi obtížením a silami L2, .#,"", L3, B2'; prvé dvě procházejí bodem /3, druhé dvě bodem «4. Počítají-li se také vnější podpory (tf0,rt3) k základním bodům, plyne obecně z předešlého: při obtížení libovolného pole má se část nosníku v tomto poli jako oblouk o třech kloubech, jehož patními klouby jsou oba vnější základní body (ví ,! soustavě [ 6Vy, l základní bod), vrcholo-l pravé J                 l pravý j
+vým kloubem pak střední kloub v tomto poli. Jsou tedy sečni-
+*) Nosník tohoto způsobu o třech polích navržen byl Barkhausenem pro most přes Weseru v Brémách (avšak neproveden). O soustavě té praví Th. Rehbock (viz >Centralblatt der Bauverwaltungc r. 1894, str. 290, kdež uvedeny jsou také některé prícinkové čáry), že se dá řešiti pouze kinematicky. Další vyšetřování ukáže bezpod-statnost tohoto tvrzení.
+XXVII. ﻿46
+v oboru         ,    soustavy v každém poli přímka      , . Ku břemeni Pv libo-
+cemi: v oboru soustavy I přímka  č""/, v oboru soustavy II Č7/' atd., tedy
+volné poloze (na př. na soustavě I) určí se paprsek výslednice sil, jež se strany nejbližší podpory působí na příslušnou soustavu, spojením patřičného vnějšího základního bodu (po případě krajní podpory) s průsečíkem />+ břemene se sečnicí (obr. 19. a).
+Zatím budiž předpokládáno, že obtížení se přenáší svislými pruty na soustavy v celém jejich rozsahu, tedy i do všech kloubů c a b. Pak určí se snadno pořadnice příčinkových čar všech reakcí a osových sil prutů podporových i třetích pasů v bodech největšího příčinku c, b jako síly vyvozené břemenem P=. l v příslušném bodě působícím. Břímě P =: l v bodě cí (obr. 19.^), čítáno k soustavě I, jest v rovnováze se silou Cv' a s výslednicí sil (A'01 A/), jež působí ve přímce C1/'. Síla Č7/ jest pak výslednicí sil (Z,/, B^), tato výslednicí (/,/, C2'), poslední výslednicí sil (L3', B^} atd. Z rovnováhy v bodě al plynou síly A^, K2 . podobně stanovily by se Až', K3' v bodě a2. Podobně břímě P — \ v bodě bí (obr. 19. c) jest v rovnováze se silami B^' ', B^"" . Ze síly B^ plynou jako složky L2""> C/, z této L3"", B% atd, a ze síly B^' složky /V, Lj""» z této A0"", K^' . Reakce A^', A2"" a síly K2"", K*"" odvodí se opět na základě rovnováhy ve styčných bodech a^ a2. Zcela obdobně vyšetří se konečně síly A0'"", Ai'"", Z,'"", LI'"" . . ., vyvozené břemenem P= l v bodě c2 (obr. 19. d) Při souměrném nosníku není dalšího řešení potřebí, neboť obtížení bodů &2) cz vyvozuje síly, jež z obtížení bodů dlt cl plynou záměnou pravé a levé strany nosníku.
+Graficky stanovené pořadnice určují úplně příčinkové čáry, jimiž jsou v oboru jednotlivých soustav přímky. Lze však odvoditi také neutrálně polohy jednotlivých přímek příčinkových. Jsou to především základní body. Tak na př. břímě P v bodě u& působící na soustavu V jest v rovnováze se silami C8', Z,4, B2r> '; jelikož břímě P prochází průsečíkem u5 sil C3', L± a B2"" tímto bodem nejde, jest B2"" -- 0, pak jest Ls = C2"" — L2 — B^"" ~ — LI — CI"" — AQ = KI = 0. Podobně při břemeni, působícím v bodě u^ rovnají se nulle veškeré síly, jež působí v levo od soustavy IV atd. Z toho
+a na základě obdoby pro levé body základní vyplývá: | .       ,  \ body zá-
+kladní jsou   neutrálnými   polohami   pro    všechny   síly,   jež
+l levé \
+působí   na předcházející^              soustavy, atímiproosové
+Iprave'
+síly prutů v těchto soustavách (neboť tyto síly plynou z oněch na základě výminek rovnováhy).
+Reakce A0 při obtížení soustavy I břemenem Pm l jest v rovnováze s břemenem a se silami Klt C^ , i dá se stanoviti z momentové výminky k průsečíku a^"" sil K1} C,'; tento bod jest tedy neutrálnou polohou (geo-
+XXVII. ﻿47
+metrickou) pro příčinkovou přímku (obr. 19. e) v oboru soustavy I, která má v a0 pořadnici P~ l a v cí pořadnici A0', což podává kontrolu. V oboru soustav dalších jsou neutrálnými polohami pravé body základní. Krajní body podporové jsou ovšem neutrálnými polohami pro všechny síly, vyjma reakci příslušné podpory. Pořadnice /Í0'', AJ"" . . . jsou dalšími kontrolami. Konečně lze pro přímku v oboru soustavy II platnou odvoditi bod, v němž její pořadnice jest Pzz 1. Působí-li břímě na soustavu II, jest sečnicí přímka C/'; na ní protíná se s břemenem výslednice sil (A^.K^, působící v sečnici, a výslednice sil (.Z?/, Z1), působící v bodě uz. Postu-puje-li se dle tohoto pravidla geometricky také mimo obor soustavy II, v němž jedině sečnice C^"" má platnost statickou, tu v bodě aQ"", který jest v průsečíku C\' s vodorovnou, vedenou bodem &2, jest výslednice sil (B^, Lj) vodorovná, takže svislá složka výslednice sil s levé strany působících: A0=P=1.
+Příčinková čára reakce AQ stanovena byla   za předpokladu, že body <L>!, bz jsou styčnými body pro obtížení.    Pravidlem bude se však v tomto
+případě  přenášeti   obtížení   do   bodu       l ř a nikoli do ]   * ] .   Pak břímě
+1 a9 >                           {L>0 í
+~ l, působící v bodě
+dává
+l__    \, veškeré ostatní   síly rov-
+A   — l '
+nají se   nulle.   V oddílech ^       n        r j, k boduj   l> přilehlých, třeba pozměniti   stanovenou   příčinkovou   čáru   tak,   aby   byla   v   každém   oddílu
+přímkou, určenou v bodech {   l       [pořadnicemi, danými stanovenou čarou,
+AI 5?s
+v bodě  |   ' ř pořadnicí yí0 := 0.   Téže   změny  jest   potřebí   při   ostatních
+čarách  příčinkových.
+Osová síla třetího pasu K v libovolném poli při obtížení téhož pole dá se vykládatijako vodorovná síla oblouku o třech kloubech ^ c, u, jímž možno částnosníku vtom poli nahraditi. V krajní polích jest to zřejmo; v poli středním lze to odvo diti, jestliže při obtížení v tomto poli rozdělí se nosník řezem, vedeným kloubem bl a pruty L2, K2 a podrží-li se levá část. Z rovnováhy sil, jež na tuto část působí, totiž sil A^, Kz, L2, B^' plyne, že K2 rovná se vodorovné složce výslednice sil (L2, B^""), jež působí v bodě ís a jest levou reakcí zmíněného oblouku. Z uvedené věty plyne, že neutrálnými polohami osové síly třetího pasu jsou v onom poli, ve kterém jest pás obsažen, oba vnější body základní.
+Příčinková čára osové síly Kt jest stanovena pořadnicemi v bodech L, b a pro kontrolu také neutrálnými polohami, jimiž jsou pravé základní body, počínaje bodem us (obr. 19./). Příčinkovou čáru síly Ks (obr. 19. K) stanoví také úplně pořadnice v kloubových bodech L, b\ neutrálnými po-
+XXVII. ﻿48
+lohami jsou pak v poli druhém oba vnější základní body, v poli prvém levé a v poli třetím pravé body základní, což plyne, stanoví-li se síla K2 na základě rovnováhy ve styčných bodech alt a2:
+Ll cos aí — /,, cos cc2 =^ Ka -f- Z,4 cos «4 —
+cos
+jsou-li « odchylky prutů L od vodorovné. Body, jež jsou zároveň neutrál-nými polohami sil Klt Ll, Lz (?/4, &5) aneb K3, Z,3, Z>4 (/2, /3), js^u také neutrálnými polohami síly K%.
+Příčinkové čáry osových sil Llt L2 (obr. 19.^, /z) jsou také úplně stanoveny pořadnicemi v kloubových bodech. Dále lze určiti neutrálné polohy všech přímek, z nichž se příčinkové čáry skládají. Při síle Lv jsou to v oboru soustav III, IV, V pravé základní body, v oboru soustavy II pak průsečík sil č7j"", B^ jakožto střed momentový přidružený k síle L1} je-li obtížena pouze soustava II; poslední neutrálná poloha má ovšem pouze geometrickou platnost. Pro sílu L2 jsou neutrálnými polohami v oboru soustav II, IV, V základní body /2, M4, u5, v oboru soustavy III průsečík s2 sil Bv"" ', C2', jež jsou při obtížení soustavy III v rovnováze s obtížením a se silou L2.
+Konečně příčinková čára reakce Aí (obr. 19. i) stanovena jest pořadnicemi v kloubových bodech, kontrolou jsou pak neutrálné polohy &4 u5. Tyto polohy plynou, stanoví-li se Al na základě rovnováhy ve styčném bodě #x :
+Al = — (L^ sin KI -j- Z2 sin «2) ;
+neutrálné polohy, společné silám Z,n Z2, jsou též neutrálnými polohami pro A1.
+2. Osové síly prutů v soustavách: V poli. ku kterému prut náleží, stanoví se příčinková čára osové síly prutu jako pro příslušný oblouk
+í DTclVVCh \
+o třech kloubech   i, c, u;   v soustavách |        ,       \ jsou pak   neutrálnými
+polohami ! ,     . | základní body. V oboru každé soustavy, ku které prut l levé >
+nenáleží, jest příčinkovou čarou jediná přímka, která prochází neutrálnou polohou a na mezích soustav připojuje se společnou pořadnicí ku přímkám v oboru sousedních soustav. Dle těchto pravidel určí se příčinkové čáry osových sil //„,, Sr, Ds (obr. 20. k, i, k', pořadnice stanoví obr. 20. L, c,
+Též při osových silách prutů, sousedících s klouby L, dá se postupovati dle týchž pravidel, jako při ostatních prutech ; zvláštní poloha prutů má za následek jen nepodstatné změny. Jinak lze určiti osové síly prutů při kloubech b ze síly B, kterou na sebe působí v kloubu obě soustavy
+XXVII. ﻿49
+sousední ; z toho ihned plyne, že neutrálnými polohami (vesměs statického významu) jsou  {V P[*™ } od kloubu b { P^ }   základní   body.   Příčin-
+kové čáry na př. osových sil ff,l + i, Z?,/ + i (obr. 20. /, m) stanoveny jsou pak úplně pořadnicemi H^n + i, Dvu + lt jež v bodě b^ dává skutečná čára příčinková (ovšem za předpokladu, že obtížení se přenáší do bodu b^) a pořadnicemi Lf™,lt Z?*v+1» Jež v témž bodě dává pravostranná přímka v oboru soustavy III. Obojí pořadnice jsou osové síly při obtížení břemenem P~\ v bodě />lf s nímž jsou v rovnováze síly B± (výslednice skutečných osových sil fí^,r D^n , t při tomto obtížení) a 2?,"" (výslednice osových sil prutů H,n D„ v levo od kloubu ^); síly ff^v D™,^ určí se tak, jako by břímě působilo v právo na soustavu III, kdy soustava II působí na III silou ./?/', se kterou tedy jsou H^v D]*+l v rovnováze (obr. 2Q.ď). Pro kontrolu lze odvoditi příčinkovou čáru v poli druhém jako při oblouku o třech kloubech /3, ca, u±, tedy z pořadnic //',,+i, Z/»-j-i (obr. 20. g\ jsou to síly, vyvozené obtížením T3 := l, jež sluší pokládati za svislou složku levé reakce oblouku tzc3u±, takže //V}-i, D'u+i jsou složkami síly B^', která dává účinek soustavy III na II) pomocí přidružených středů momentových (u Hn+i jest to protilehlý styčný bod spodního pasu, u Z)„+i průsečík dn+\ prutů //«+i, ^2) a neutrálně polohy u3, pro oba pruty společné. Přidružený střed momentový určuje průsečík pravostranné a levo-stranné přímky v oboru soustavy III, z nichž prvá má za neutrálnou polohu u3 a stanovena jest pořadnicí fí'u+-i, D' H+\ v bodě ts, druhá (při Z?„+i platnosti pouze geometrické) má za neutrálnou polohu geometrickou bod i3.
+Nechť obtížení přenáší se na soustavy jakkoli, jest nejlépe předpokládati, že přenáší se na všechny soustavy v celé jejich délce, že tedy klouby c i b jsou styčnými body pro obtížení. Na základě toho stanoví se čáry příčinkové, jak v předešlém ukázáno. Když pak skutečné působení obtížení neodpovídá uvedenému předpokladu, pozmění se dodatečně příčinkové čáry, jak toho vyžaduje způsob, jímž se obtížení přenáší. Změny provedou se na základě věty, že při obtížení nepřímém jest příčinkovou čarou v každém oddílu přímka. Přenáší-li se tedy obtížení přímo do podpor #, třeba v obou oddílech, jež sousedí s každou vnitřní podporou, změniti příčinkové čáry se zřetelem k tomu, že ve všech vnitřních podporách rovnají se nulle příčinkové pořadnice všech sil, vyjma příslušnou
+íčerchovaněí reakci (jež má pořadnici P= 1). V obr. 19., 20. vyznačeny jsou j        .
+příčinkové čáry, jež odpovídají působení obtížení v bodech
+
+3. Výjimkový případ nastane, jakmile v některém poli splyne jeden vnější základní bod s vrcholovým kloubem, aneb vyjdou-li oba vnější základní body a vrcholový kloub na jediné přímce ; neboť pak není možno
+4
+xxvn. ﻿50
+při obtížení téhož pole řešiti oblouk o třech kloubech í, c, u, jímž lze příslušné pole nosníku nahraditi a nosník jest současně staticky i tvarové neurčitým.
+IV. Přetvoření nosníků s kloubovými čtyrúhelníky na podporách.
+§ 21.
+1. Nosník s kloubovými čtyrúhelníky na podporách skládá se z několika soustav tvarově určitých, jejichž spojení jest toho rázu, že nepřipouští přímé řešení přetvoření pro celý nosník. Obyčejným způsobem stanoviti lze pro každou ""soustavu pouze zatímná přemístění za zatímných výminek podporových, vhodně zvolených. Tato zatímná přemístění jednotlivých soustav třeba pak spojiti na základě správných výminek podporových a výminek, jež dává spojení všech soustav v jediný nosník.
+Přetvoření nosníku staticky i tvarově určitého dáno jest jednoznačně, jsou-li dána roztažení všech prutů. Z toho plyne, že jest přípustno, nahraditi výminky, jež stanoví přetvoření nosníku, výminkami jinými, jež jsou na základě oněch odvozeny. Tyto nové výminky zvolí se ovšem tak, aby řešení přetvoření bylo jednoduché. Nosník s kloubovými čtyrúhelníky převede se na nosník nejjednodušší, vloží-li se do všech kloubových čtyrúhelníku pruty úhlopříčné, spojující podpory a s protějšími klouby b, a vynechá-li se tolikéž výminek podporových, kolik prutů bylo přidáno. Při nosníku trámovém a kombinovaném za každý nový prut vložený vynechá se některá podpora posouvatelná, čímž obdrží se prostý nosník trámový o dvou podporách. Při nosníku obloukovém o vnitřních podporách pevných nahrazují vložené pruty v kloubových čtyřúhelnících rovněž jisté výminky podporové; při čtyřech podporách (obr. 18.) jest nejlépe, vynechati obě vnější podpory posouvatelné, čímě obdrží se oblouk o třech kloubech s konci přes podpory přečnívajícími.
+Vložený prut v kloubovém čtyrúhelníku váže přetvoření výminkou, že změna vzdálenosti bodů prutem spojených rovná se roztažení prutu. Nemá li se vložením prutu ničeho na přetvoření změniti, musí být tato nová výminka odvozena z původních výminek, t. j. každému vloženému prutu třeba přisouditi jakožto roztažení změnu vzdálenosti bodů a, b, jež plyne z přetvoření nosníku za daného tvaru a podepření. Jde tedy hlavně o stanovení změny vzdálenosti protějších vrcholů a, b v každém kloubovém čtyrúhelníku.
+Úloha tato řeší se (jako změna vzdálenosti dvou bodů prutem nespojených*) na základe zásady virtuálných prací obecně takto: Jsou-li z/j daná roztažení prutů, 6 pak osové síly, vyvozené v prutech za obtížení
+*) Viz přednášky prof. J. Šolína o »Stavebné mechanice*.
+XXVII. ﻿51
+břemeny P=. l, v bodě l    [• ve směru         J působícími, jest změna vzdále-
+nosti s — ab dána rovnicí:
+Js — Sa^ls...........(28)
+K tomu sluší připomenouti, že obě síly Pzz l, ač jsou v rovnováze, vyvozují přece jisté reakce, poněvadž nepůsobí na jedinou soustavu; tyto reakce jsou ovšem také o sobě v rovnováze. Je li přímka ab svislá, dá se určiti zJs také jako svislé posunutí bodu b, tedy pomocí sil <?, jež vyvozuje břímě P= l, v bodě b dolů působící, z rovnice:
+(28a)
+Znamení záporné jest nutné z té příčiny, jelikož snížení bodu b (tedy posunutí ve směru břemene) znamená zkrácení délky /. Osové síly G v tomto případě dány jsou příčinkovými pořadnicemi v bodě b, jsou-li příčinkové čáry sestrojeny pro obtížení, jež se přenáší do bodu b horního pasu.
+Výpočet změn ds dá se valně zkrátiti, nahradí-li se skutečné soustavy, z nichž se nosník skládá, nejjednoduššími soustavami (čtyrúhelníky neb trojúhelníky), jejichž pruty jsou spojnice kloubů, kterými soustavy navzájem, s podporami a podporovými pruty jsou spojeny. Roztažení těchto prutů třeba ovšem stanoviti jako změny vzdáleností styčných bodů, jež ony nové pruty spojují, z daných roztažení původních prutů a z tvaru soustav, tedy na př. z translokačních obrazců, jež rýsovány jsou pro jednotlivé soustavy na základě zatímných výminek podporových. Pak určí se síly G a vyčíslí rovnice hořejší jen pro malý počet prutů.
+2. Příkladem k objasnění uvedeného stanovena budiž příčinková čára prohnutí středu kombinovaného nosníku souměrného o třech polích (obr. 21.a). Touto čarou jest dle věty Maxwellovy ohybová čára obtíženého pasu při obtížení nosníku břemenem /-*= l v boděL2, t. j. čára, jejíž pořadnice udávají průhyb jednotlivých styčných bodů pasu, na který se obtížení nahodilé přenáší. Jde tedy o snížení všech styčných bodů spodního pasu při vytknutém obtížení. Osové síly za tohoto obtížení určí se známým způsobem (obr. 21. a udává polohu sil, jimiž působí na sebe jednotlivé soustavy v kloubech b, c}\ je-li nosník řešen příčinkovými čarami, dány jsou tyto síly osové příčinkovými pořadnicemi v bodě c.2. Z osových sil určí se roztažení prutů dle vzorce:
+vSV
+' EU'
+v němž značí: bosovou sílu, s délku prutu, E modul pružnosti a U plochu průřezu prutu. Pak lze pro soustavy (0,,^), (cíbl\   (^^2)   rýsovati   trans-
+4*
+XXVII. ﻿52
+lokační obrazce (obr. 21. d, c, ď), vychází-li se na př. od zatímných výminek, že body aQ) 5', 7' jsou pevný, body O"", 5"", 7' posouvatelny po svislé.
+Při souměrném nosníku stačí řešiti přetvoření levé polovice.
+Ze souměrnosti plyne : 4 a^ bí ~ ^/«2^2 — ^ h- Tato změna stanoví se na základě rovnice (28.a), kterou netřeba vztahovati k původnímu nosníku. Možno totiž celou soustavu (^0^) nahraditi jediným prutem a^c^ — J/, soustavu (c1 b^ trojúhelníkem c1 5'^, jehož strany jsou: cv 5' = .y2', cl bt =s'3t 5'bt •=. de, soustavu (b^c^} pak trojúhelníkem b1f7ř c2, jehož strany jsou: L, 7' = í/7, ^ c2 = í/, 7'c2 iz J5'. Tím obdrží se velmi jednoduchý nosník (obr. 21. č), jenž obsahuje z původních prutů Ln k2í /15 /2, í/6, </7 a souměrné na pravé polovici; roztažení těchto prutů jsou dána. Roztažení nových prutů í/, J2'i •%') sí'i ss' stanoví se snadno z translokačních obrazců (obr. 21. b, c, d) jako změny vzdáleností bodů prutem nespojených promítnutím zatímných poloh koncových bodů každé té délky do směru jejího. Při obtížení břemenem P =. l v bodě bt vznikají v prutech .y/, s2'...,
+{levé l
+polovici nosníku:
+!,
+f\ ' ""6 )
+\
+Roztažení prutů souměrných jest stejné, i platí : 4 k = - Zasis = - { W + O Js,' + « + O z/ V + . . .
+-K *, + ď/) ^/ ^6 + (*7 + */) ^^7 +
+Roztažení 4 s možno měřiti v měřítku libovolném; užije -li se měřítka v obr.  21., plyne:
+zlh — — { — 114 (1-04 -f 0-10) 4- 0-73 (- 1-81 — 0'12) —
+—  0-48 (2-55 4 026) — l '45 (2'65 4 0'15) —
+—  2-00 (— 1-91 + 0-72) — 0-37 (— (M9 — 0'02) —
+—  0-26 (—0-31 40-11) 4 0-20 (— 1-72 — 0-18) —
+—  0-30 (— 1-76 4 0-66) -f- 0-40 (— 0'92 - 0'09) 4 4 0-60 (— 0-82; } = 4 6-42.
+Takto stanovené roztažení úhlopříčny a^ bí kloubového čtyrúhelníku íZj 5' bl1r dovoluje   připojiti   k zatímným  translokačním obrazcům soustav
+(c\ ^i)>
+(^i css t>0(^ ai í třeba při tom ovšem přenášeti z/ h v témž měřítku ve kterém ostatní roztažení byla měřena. Pak lze též určiti změny vzdále-
+XXVII. ﻿53
+ností bodů av c^ aa c2 pruty nespojených (obr. 21. c, d). Nyní určí se snadno skutečná přemístění bodů a0, cít bít a^ ct tím, že rýsuje se trans -lokační obrazec (obr. 2\.g) pro trojúhelníkovou soustavu prutovou, jež obsahuje pouze jmenované styčné body a podepřena jest v bodě «0 pevně v #! posouvatelně po vodorovné. Dalších podpor není třeba; nahrazeny jsou změnami dh.
+Kontrolou správného řešení, jež plyne ze souměrnosti nosníku, jest vodorovné posunutí bodu c2, jež patrně se rovná arithmetickému průměru posunutí bodů alt a2- bod C2 (nová poloha bodu ca, jež se vztahuje k počátku o soustavy (L, ty) jakožto ku původní poloze všech bodů) jest tedy na svislé přímce, jež půlí roztažení at a2 prutu L2.
+Takto stanovená správná přemístění bodů a0, c^ b^ alt c2 zastupují původní výminky, jimž podléhá přetvoření nosníku, poněvadž na základě těchto výminek byla stanovena. V translokačních obrazcích pro soustavy (ao ci)t (ci ^i)> (^i ^2) možno nyní přejíti od výminek zatímných k výminkám původním.
+V obrazci translokačním pro soustavu (a0 c^ (obr. 21. b} jest za-tímná poloha a0 bodu a0 již správnou, zatímná poloha Cj však nikoli. Celou soustavu jest tedy potřebí otočiti kolem bodu #0 tak, aby bod q přišel do správné polohy c/', dané přemístěním OCt v obr. g). Bod cí koná při tom dráhu CjC/'; dráhy ostatních bodů jsou úměrný poloměrům. Udělí-li se původní poloze každého styčného bodu (znázorněné počátkem soustavy [L, í;]) otočení opačné (ci0Ci'~ — C, q""), naplní koncové body obrazec podobný obrazci soustavy a otočený o pravý úhel.
+Zatímnou polohu každého bodu třeba vztahovati ku příslušné poloze v onom podobném obrazci, čímž dána jsou správná přemístění úplná. Jde-li jen o svislá posunutí, netřeba rýsovati celý ten obrazec podobný obrazci soustavy; stačí rozděliti svislou vzdálenost bodů a0, C/ přímkami (1), (2) v tom poměru, v němž dělena jest vodorovná vzdálenost bodů a0, c^ svislicemi l, 2 (v obr. 21. předpokládány vesměs rovné délky příhrad). Pak na př. svislé posunutí bodu l' stanoveno jest svislou vzdáleností zatímné polohy l' od přímky (1) jakožto počátku.
+Při soustavě (c^ ót) (obr. 21. c) užíti lze ku přechodu k původním výminkám správných přemístění bodů a^ cí. Původní poloha všech bodů přeloží se do bodu at' tak, aby a/c^ bylo již správné přemístění, dané v obr. g) délkou oa^ Nové původní poloze a/ udělí se pak vzhledem k bodu cl otočení takové, aby přišla do bodu c'1} k němuž vztahuje se zatímná poloha Cj správným přemístěním c^čj (rovným přemístění oq v obr. g]. Bylo by snadno dokázati, že body a/, C/ jsou skutečné na kolmici ku přímce av cv, jak toho uvedené otočení vyžaduje. Body a/, C/ jsou základem pro obrazec podobný k obrazci soustavy, jehož vrcholy udávaly by pro každý příslušný styčný bod počátek, ku kterému třeba vztahovati zatímnou polohu, aby se určilo správné přemístění. Svislá po-
+XXVII. ﻿54
+sunutí určena jsou přímkami (4), (5), jež dělí svislou vzdálenost bodů a/, C/ na stejné díly A"".
+Podobně postupuje se při soustavě (bl c2} (obr. 21. </), kdež užije se nových poloh bodů alt c2, stanovených v obr. g}. Určí-li se body a,', C2' tak, aby zatímně polohy alf C2 vztahovaly se k nim správným přemístěním a/di (fl: o~a^ v obr. g), C2'c2(LLoc2 v obr. g\ a dělí-li se svislá vzdálenost bodů a/, C2' na pět stejných dílů A""' přímkami (7), (8), (9), (10), pak na př. svislá vzdálenost zatímně polohy 10' od přímky (10) jest snížení i?10 bodu 10'.
+Tím určena jsou snížení všech bodů spodního pasu, jež nanesou se jakožto pořadnice hledané příčinkové čáry (obr. 21. /z, kdež zmenšeny pořadnice na polovici).
+XXVII. ﻿OBSAH.
+Úvod...................................l
+§ 1. Obecné posouzení statické určitosti.................l
+§ 2. Obecné vlastnosti čar příčinkových.................2
+§ 3. Příčinkové čáry příhradového nosníku prostého...........5
+§ 4. Příčinkové čáry příhradového oblouku o třech kloubech.......7
+I. Nosníky trámové. Nosníky s kloubovými čtyrúhelníky na podporách. § 5  ...   9
+A) Nosník o dvou polích.........................10
+§ 6. Reakce a osové síly podporových prutů...............10
+§ 7. Osové síly prutů........•.................15
+B)  Nosník o libovolném poctu polí   ...       ........•........18
+§ 8. Reakce a osové síly prutů podporových.............•   .18
+§ 9. Osové síly prutů..........................23
+C)  Nosník o dvou polích při obtížení vodorovném..............25
+§ 10. Pevná podpora uprostřed.....................25
+§ 11. Pevná podpora na kraji.....................30
+II. Nosníky obloukové...........................34
+A)  Oblouky na podporách spojené. § 12...................34
+§ 13. Nosník o třech polích      ......................35
+B)  Oblouky na podporách oddělené. § 14...................38
+§ 15. Nosník o třech polích s kloubem vrcholovým ve středním poli .... 38 § 16. Nosník o třerh polích s kloubem vrcholovým v krajním poli .   .      .   . 40
+C)  Oblouky s kloubovými čtyrúhelníky na podporách. § 17..........42
+§ 18. Nosník o třech polích s vnitřními podporami pevnými........42
+III.  Kombinace oblouku s trámem. § 19.........      ...........44
+§ 20. Nosník o třech polích.......................45
+IV.  Přetvoření nosníků s kloubovými čtyrúhelníky na podporách. § 21.......50
+XXVII. ﻿Dr. Zdenek Bažant: Staticky určité spojité nosníky příhradové.
+Tabulka I.
+Rozpravy České Akademie. Třída II. Ročník XÍV. Číslo 27. ﻿Dr. Zdeněk Bažant: Staticky určité spojité nosníky příhradové.
+Tabulka II.
+9.
+Rozpravy České Akademie. Tlda II. Ročník XIV. Číslo 27. ﻿Dr. Zdeněk Bažant: Staticky určité spojité nosníky příhradové.
+Tabulka III.
+Rozpravy České Akademie. Třída II. Ročník XIV. Číslo 27. ﻿^•••^•^^••••i^^M^a""™^^^^^^^^^^^^^^^
+>r. Zdeněk Bažant: Staticky určité spojité nosníky příhradové.
+Tabulka IV.
+16.
+\aj
+Rozpravy České Akademie. Tifda II. Ročník XIV. Číslo 27. ﻿Dr. Zdeněk Bažant: Staticky určité spojité nosníky příhradové.
+Tabulka V.
+Rozpravy České Akademie. TJda II. Ročník XIV. Číslo 27. ﻿•^••••IM^^^^^^^^
+Dr. Zdeněk Bažant: Staticky určité spojité nosníky příhradové.
+Rozpravy České Akademie. Třída II. Ročník XIV. Číslo 27. ﻿* ﻿Dr. Zdenek Bažant: Staticky určité spojité nosníky príhradové.
+Tabulka VII.
+21   a)
+Rozpravy České Akademie. Třída II. Ročník XIV. Číslo 27. ﻿*"

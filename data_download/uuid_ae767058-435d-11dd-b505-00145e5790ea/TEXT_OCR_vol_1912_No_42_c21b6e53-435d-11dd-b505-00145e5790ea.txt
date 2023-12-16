@@ -1,0 +1,173 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TŘÍDA II.
+ČÍSLO 42.
+Dvojnásobné body křivek šestého stupně.
+Dr. Boh. Bydžovský.
+Předloženo dne 15. listopadu 1912.
+1.    U všech algebraických křivek až do stupně pátého lze libovolně předepsati polohu všech vícenásobných bodů, jež má křivka míti. Naproti tomu existují dva druhy křivek šestého stupně, jichž vícenásobné body nemají polohu navzájem nezávislou; jsou to křivky rodu l a rodu O s body jen dvojnásobnými.  Předložená práce je věnována odvození podmínek, jimž tyto body musí vyhovovati, a vlastnostem křivek s nimi souvisícím.1)
+2.   Odvodím nejprve dvě pomocné věty týkající se Jacobiánu sítě křivek. Budiž
+rovnice sítě a tedy — užij eme-li obvyklého označení parciálních deiivací —
+/i 5 fz> /s gv Sz, L3
+= O
+rovnice Jacobiánu sítě. Všechny křivky sítě procházející bodem Jacobiánu tvoří, jak známo, svazek o společné tečné v tomto bodu; jedna křivka svazku má tento bod za dvojnásobný. Vezměme za (/) — t. j. křivku o rovnici f(x^ = O — křivku procházející daným bodem Jacobiánu jednoduše; za (h) tu křivku, jež tento bod má za dvojnásobný; za (g) křivku sítě, jež daným bodem neprochází. Tato volba je přípustná, neboť tři křivky (/), (g), (h) skutečně vytvořují danou síť. V daném bodu Jacobiánu platí pak
+/ = 0; g ^ 0; h = O, ht = O pro i = l, 2, 3
+*) Je mi známa v literatuře jediná zmínka týkající se téhož předmětu; je obsažena v Cayley-ově pojednání z r. 1870: „A second memoir on quartic surfaces"" (The collected mathematical papers, vol. VIL, str. 256—7.). Srv. další poznámky.
+Rozpravy: Roč. XXI. Tř. II. Č. 42.
+XLII. ﻿•
+Určíme hodnoty derivací funkce F(xi) v daném bodu; užijeme-li ihned podmínek právě napsaných, obdržíme
+/l,     /2.   /S
+gl,   8*   Č3
+Násobíme-li elementy sloupců po řade souřadnicemi daného bodu — při čemž klademe x± = l — a přičteme k elementům prvého sloupce, obdržíme, užijeme-li opět předchozích podmínek,
+F =
+si — /8
+kde n je stupeň křivek sítě. Jsou tedy dány: tečny křivky (h) rovnicí
+tečna křivky (/) rovnicí a křivky (F) nA ničí
+i, k
+i   k
+y f v
+l i     i
+i
+(1)
+(2) (3)
+Určíme-li však poláru bodu (O, •— /3, /2), ležícího na tečné (2), vzhledem ke kuželosečce (1), obdržíme přímku o rovnici (3); tím je dokázána věta:
+Tečna Jacobiánu v libovolném jeho bodu a společná tečna křivek sítě tímto bodem procházejících oddělují harmonicky obé tečny té křivky šité, jež má daný bod za dvojnásobný.2}
+3. Uvažujme síť křivek kubických určenou sedmi body. Jacobián této sítě je křivka šestého stupně, mající dané body za dvojnásobné; i protíná mimo ně každou křivku sítě ještě ve čtyřech bodech. Uvažujme libovolnou křivku sítě a předpokládejme, že její body jsou — známým způsobem — vyjádřeny parametricky. Budiž c součet parametrů sedmi pevných bodů; uv u2, «3, M4 pak parametry dalších průsečíků s Jacobiánem.
+Dle definice Jacobiánu každá jiná křivka sítě procházející na př. bodem (%) dotýká se dané křivky v tomto bodu; i platí
+2«! + c ^E O                                a podobně
+2w2 + c = O, 2«3 + c = O, 2«4 + c = O
+2) Nevím, zda-li tato jednoduchá a zajímavá věta je známa. Není uvedena ani v učebnicích (Salmon, Clebsch), ani v Pascalově „Repertoriu"".
+LXII. ﻿
+Interpretujeme-li geometricky tyto čtyři kongruence, obdržíme větu: Jacobián sítě kubických křivek procházejících sedmi body protíná každou křivku sítě mimo tyto body ještě ve Čtyřech bodech, jež jsou'dotyčnými body tečen vedených k této křivce z bodu  korresiduálního se sedmi danými.
+4.  Přistoupím nyní ke studiu křivek šestého stupně s body jen dvojnásobnými a to nejprve s osmi.
+Budiž dáno osm obecně položených bodů Av . . , A8. Existuje <*3 křivek šestého stupně K* majících tyto body za dvojnásobné; neboť osm dvojnásobných bodů platí za 24 podmínky a K6 je určena 27 podmínkami. Určíme všechny rozpadající se K6 náležející do tohoto systému. Ježto třemi dvojnásobnými a pěti jednoduchými body je určena jediná K* a pěti body jediná K2, existuje konečný počet křivek K*, jež se rozpadají na křivku stupně čtvrtého a kuželosečku (jež se ovšem také mohou ve zvláštních případech rozpadnouti) . Totéž platí o rozpadnutí na křivku stupně pátého a přímku. Osmi body je určen svazek křivek stupně třetího; libovolné dvě z nich tvoří rozpadající se K6 systému; takových křivek je tedy x2. Rozpadnutí jiného způsobu není možno. Ježto tedy mocnost soustavy křivek K6 je vyšší než mocnost křivek rozpadajících se, existují nerozpadající se křivky K6 mající osm daných bodů za dvojnásobné?}
+5.    Nerozpadající se křivka šestého stupně s osmi dvojnásobnými body neprochází bodem, který s těmito osmi tvoří basi svazku kubických křivek.
+Položme totiž libovolnou kubickou křivku body A{, danou K6 protne tato křivka mimo ně ještě ve dvou bodech. Jsou-li /3, y parametry těchto bodů na kubické křivce, podobně KV . . . , as parametry bodů Ait platí kongruence
+2 K + . . . +as) + y + fi = O Je-li však «9 parametr devátého bodu nahoře zmíněného, platí také
+«! + ---- + cc9 = O Spojíme-li tuto kongruenci s předchozí, obdržíme
+ft + y = 2 a9
+Kdyby křivka K6 procházela také bodem («9), musilo by platiti /? = «9 a tedy také y = «9, t. j. libovolně zvolená kubická křivka dotýkala
+3)   Mimochodem připomínám, že lze každou K6 s osmi dvojnásobnými body vyjádřiti ve tvaru
+If g + phh +v Fd) + ? Ffe) = O
+jestliže (/), (g), (h), (k) jsou křivky kubické procházející danými osmi body; -FW a F® křivky šestého stupně mající jeden z nich — každá jiný — za trojnásobný, ostatní za dvojnásobné.
+XLII.
+l* ﻿by se dané K9 v bodě («9), z Čehož by plynulo, že všechny kubické křivky devíti body vedené se v jednom z nich dotýkají; to však není možné. 6. Osmi dvojnásobnými body Ai a jedním jednoduchým X je určena síť křivek K6. Rovnici této sítě lze psáti ve tvaru zvláště jednoduchém takto: budiž
+rovnice kubické křivky určené body Ait X\ ta je — dle předchozího — jediná. Budiž
+g (xt) - O rovnice jiné kubické křivky procházející osmi body At. Konečně nechť
+F (*;) = O je rovnice některé nerozpadající se křivky K6 sítě. Pak
+je rovnice sítě.
+Jacobián sítě má rovnici
+//l      ,       //2
+fSl + fl8>    fS2 +
+//S
+Tli    Jí)    13
+Si. 8* S*
+= o
+Rozpadá se tedy Jacobián na dvojnásobnou křivku třetího stupně a křivku stupně devátého
+J (*<) - O .
+Tato křivka neprochází při obecné poloze bodů A it X bodem X. Neboť známým způsobem lze upraviti determinant na tvar
+S'   Š2>    L3
+F  F   F
+* » ^2)^3
+V bodě X má tento determinant hodnotu
+V tomto součinu je g ^ 0; také druhý činitel je od nuly různý; neboť rovnice
+XLII. ﻿má vzhledem k současné platnosti rovnic
+/ = O, F = O
+A  : /2 : /3 = ^1  : F*
+řešení
+jež značí, že křivky (/) a (P) v bodě X se dotýkají. V tom případě však body AÍ, X tvoíí úplný systém (osmnácti) průsečíků obou křivek; to však není možné při obecné poloze těchto bodů.
+Z toho tedy plyne, že křivka (J) je nezávislá na bodu X; i máme větu:
+Všechny sítě křivek šestého stupně se společnými osmi dvojnásobnými body mají za Jacobián — vedle dvojnásob počítané křivky kubické — vždy tutéž křivku stupně devátého.
+7. Křivka (J) má body Ai za trojnásobné.*} Neboť Jacobián sítě má každý společný dvojnásobný bod křivek sítě za pětinásobný; avšak dvojnásobná křivka (/) prochází každým bodem A{ dvakrát, křivka (J) tedy ještě třikráte.
+O tečnách křivky (J) v těchto bodech platí zajímavá věta. Vezměme totiž takovou síť, jež obsahuje křivku (F(l)), mající bod A^za. trojnásobný, ostatní body Ai za dvojnásobné. K tomu stačí voliti bod X na křivce (F(l)). I je pak
+A,     A,     A
+J (Xi) =
+(1)
+(i)
+= O
+Snadno se zjistí, že prvé i druhé derivace J v bodu A± vymizí. Určíme třetí derivace v bodu Av V tomto bodu platí
+= O,
+_ O,
+= 0.
+Užijeme pro determinanty známého stručného označení; jestliže hned vynecháme ty determinanty, jež očividně vymizí vzhledem k podmínkám právě napsaným, obdržíme
+= (/
+i*,
+-f (/i,
+(/i,
+(A,
+Násobíme-li elementy sloupců postupně xl,x2,x3 a přičteme k prvému sloupci, obdržíme z prvních dvou determinantů — klademe hned xl = l —
+4) Nikoliv dvojnásobné, jak uvádí Cayley 1. c.
+XLII. ﻿O,        /2,        /s
+g» o.    °
+n  F (1)  F (1)
+""» J 2*fc> J 3»*
+a z posledního
+O, /„/s O, L2, L3 ""&. O, O
+Součet  tří   determinantťi  zde  napsaných  —  bez   číselných  koeffi-cientů — je však jediný determinant
+Doplníme-li podobně další dvě dvojice determinantů posledním na jediný, obdržíme
+J         — 9 (i     a     P (*h   -L 9 ř/     tr Aift   —  *  W/;' 62' 2  3ik)        * \!i"" 62^
+O,   /2,   /3
+— 3 '
+2 (fk, ga> F3<V
+Prvé tři determinanty jsou rovny nule; neboť je-li některý z indexů h, i, k roven 2 nebo 3, je to samozřejmé; je-li však roven l, lze docíliti úpravou, které jsme užívali v předchozím, aby elementy prvého sloupce byly veskrze nuly. Je tedy
+Koeíficient v závorce není roven nule, neboť obě křivky (/) a (g) se v bodě A! nedotýkají; i jsou tietí derivace funkce J úměrný třetím derivacím funkce F(1}, což znamená:
+Křivka (J) má ve svých trojnásobných bodech tečny společné s těmi křivkami šestého stupně, jež příslušný bod mají za trojnásobný a ostatních sedm za dvojnásobné.
+8. Udáme ještě některé zvláštní body ležící na křivce (J). Svazek kubických křivek
+IfM + Pg W - °
+obsahuje dvanáct křivek s bodem dvojnásobným; těchto dvanáct dvojnásobných bodů leží na křivce (J). Neboť v každém tomto bodě platí
+XLII. ﻿a vhodným spojením obou prvních řádků v determinantu pro (J) obdrží se pro elementy jednoho z nich vesměs nuly.
+Některé křivky K6 určené danými dvojnásobnými body se rozpadají, jak víme; mimo případ, že nastane rozpadnutí na křivky kubické, leží průsečíky příslušných součástí mimo osm daných bodů rovněž na (J), jak se snadno zjistí. Naproti tomu neobsahuje — v obecném případě — křivka (J) bodu A 9, který s body Alr . . . , A8 tvoří basi svazku kubických křivek.5) Neboť v tomto bodu je / = O, g = O ; upravíme-li determinant známým způsobem, obdržíme
+Víme (v odst. 5.), že F ^ 0; vymizení výrazu v závorce by vyznačovalo, že křivky (/), (g) se v bodě A9 dotýkají, což při obecné poloze bodů AI }e vyloučeno.
+Zároveň dovedeme ihned udati, jak musí býti specialisovaná poloha bodů Av . . . , As, aby křivka (J) procházela bodem A%. Neboť křivky (/), (g) se mohou v bodě A9 dotýkati jen, je-li tento bod totožný s některým z ostatních bodů A;, budiž na př. A8 = A9. Ale pak je zřejmo, že As je bod na Jacobiánu sítě kubických křivek určených body Av . . , A^. Ostatně nastane v tom případě ještě další zjednodušení, o němž bude jednáno později, (odst. 16.).
+9. Jestliže existuje nerozpadající se křivka K& s devíti dvojnásobnými body A!, . . . , A8, B, nemohou tyto body míti polohu navzájem nezávislou; neboť devíti obecně položenými body je určena jediná křivka kubická, jež počítána dvojnásob je křivka žádaných vlastností.6)
+Rovněž není možno, aby bod B byl totožný s bodem A9, již častěji připomínaným. Neboť pak by libovolným bodem křivky K* byla určena kubická křivka protínající K6 v devatenácti bodech (devíti dvojnásobných a jednom jednoduchém), i musila by se K* rozpadnouti.
+Naproti tomu je jasno, že body AI} . . . , A8, B  musí  tvořiti úplnou   basi   svazku   křivek   KG a existuje tedy nekonečně mnoho takových K6 s týmiž dvojnásobnými body. Neboť je-li (F) křivka, jejíž existenci předpokládáme, a (/) křivka kubická určená body Ait B -a ta je jediná — je
+rovnice zmíněného svazku. Žádná křivka tohoto svazku pro p ^ O nerozpadá se na dvě křivky kubické; rozpadnutí jiným způsobem je pak možné — jak se snadno shledá — jen při speciální poloze bodů Ait B (na př. v přímku jen, jestliže tři tyto body leží v píímce, atd.),  rozhodně však nastane jen
+5)    Uvádí bez důkazu Cayley.
+6)    Cayley, 1. c.
+XLII. ﻿v konečném počtu případů.  Obsahuje tedy napsaný svazek nekonečně mnoho křivek, jež se nerozpadají.
+10. Určíme nyní nutnou podmínku pro to, aby devět bodů mohlo tvořiti soustavu dvojnásobných bodů křivky K6. Jediná křivka kubická, kterou lze položiti těmito devíti body, protne K6 jen v těchto bodech. Jsou-li «!,..., cf8, /3 parametry těchto bodů na kubické křivce, platí tedy
+2 («! + ... + a8 + 0 = O Je-li ag parametr bodu Ag, platí také
+2 («,+ ... + «8 + «„) = O Spojením obou těchto kongruencí obdržíme
+2 ft EEE 2 «9
+Ježto (/3) a («9) jsou body nutně různé, má nalezená podmínka ten geometrický význam, že body (/3) a (cr9) mají společný bod tečnový. Tato nutná podmínka také — obecné — stačí, t. j. je-li dáno d&vět bodů nalezené vlastnosti, existuje nerozpadající se K6 mající je za dvojnásobné.
+Důkaz: nechť body Ait B vyhovují nalezené podmínce. Každá K6 mající body Alf . . . , A8 za dvojnásobné a procházející bodem B dotýká se kubické křivky v tomto bodu. Všechny tyto křivky procházející mimo to libovolným bodem X tvoří svazek o společné tečně v bodu B. V takovém svazku existuje, jak znám^, jediná křivka s dvojnásobným bodem v B. Tato křivka se v obecném píípadě nerozpadá, volíme-li vhodně bod X. Neboť neleží-li tento bod na (jediné) kubické křivce určené body Ait B, nemůže se příslušná K6 rozpadnouti na křivky kubické; rozpadnutí jiným způsobem lze rovněž vyloučiti, ježto takových rozpadajících se křivek je jen konečný počet.
+Platí tedy věta:
+Devět dvojnásobných bodů nerozpadající se křivky stupně šestého vyplňuje jedinou podmínku spočívající v tom, že na kubické křivce jimi určené má kterýkoli z nich týž tečnový bod 'jako deváíÝ průsečík této kubické křivky s libovolnou jinou procházející ostatními osmi body.
+11. Je tedy osm dvojnásobných bodů Ai libovolných;7) devátý B vyhovuje jedné podmínce.
+7) Vzhledem k tomu je nutno pokládati za nesprávný výrok, který je učiněn o devíti dvojnásobných bodech křivky K6 v 2. vyd. Salmonově „Treatise"". Praví se tam totiž (mám po ruce franc. překlad „Traité de geometrie análytique"", str. 45): „Ba není ani možno vzíti v tomto případě libovolně osm bodů z devíti dvojnásobných."" Důvod není udán.
+XL1I. ﻿Z toho plyne, že při daných bodech A i bod B vyplňuje křivku. Tato křivka je geometrické místo bodů majících na kubických křivkách svazku určeného body A{ společný tečnový bod s devátým bodem base A9. Ve-deme-li tedy ke křivce svazku tečnu v bodě A9 a určíme druhý její průsečík, leží dotyčné body dalších tří tečen vedených z tohoto průsečíku ke křivce na zmíněném geometrickém místě. Pro toto g. místo je každý z bodů Alf . . . , A8 trojnásobný. Tečnové body tečen v Ag ke křivkám svazku vyplňují totiž křivku stupně čtvrtého K^, jež je vytvořena svazkem kubických kíivek a svazkem tečen v A9, jenž je s ním projektivní. Tato K^ prochází všemi body A^ bod A9 má ovšem za trojnásobný, neboť každý bod base je inflexním bodem pro tři křivky svazku.8) Podobně obdržíme pro tečnové body bodu Al křivku K^ s trojnásobným bodem Av Obě křivky K^, K9* protnou se: v Aí a A9 vždy třikráte, v Az, . . . AB jednoduše, což dává 13 průsečíků: zbývající tři jsou body, jež jsou současně tečnové pro A1 i A9. Proběhne tedy geometrické místo třikráte každým bodem Alf . . ., A8. Bodem A9 pak neprochází, ježto dva dotyčné body nemohou splynouti. Spočítáme-li nyní průsečíky tohoto g. místa s libovolnou křivkcu svazku, shledáme ihned, že hledané g. místo je křivka stupně devátého Ježto však dvojnásobné body křivek libovolné sítě určené dvojnásobnými body Alt . . . , A8 leží nutně na Jacobiánu této sítě, je hledané g. místo totožno s křivkou (J) výše nalezenou.9)
+12. Dokázali jsme, že každý bod B hovící určitému vztahu je dvojnásobný pro nerozpadající se K6. Avšak na křivce (J) jsou body, pro něž tento vztah ztrácí význam; jsou to dvojnásobné body kubických křivek svazku určeného body Ait počtem dvanáct. V takovém bodu D nelze totiž vésti určité tečny, t. j. spojnice dvou nekonečně blízkých bodů. Skutečně bod D nemůže býti dvojnásobným pro nerozpadající se K6', neboť K6 mající dvojnásobné body Alt . . , A8, D protne kubickou křivku svazku s dvojným bodem D celkem ve 20 průsečících. Jiných výjimečných bodů na (J) není.
+Vyslovíme dosavadní výsledky větou:
+Všechny deváté dvojnásobné body nerozpadajících se křivek šestého stupně majících daných osm bodů dvojnásobných leží na křivce (J) stupně devátého; obráceně každý bod této křivky může býti dvojnásobným bodem nerozpadající se K6, mimo dvanáct bodů D.10)
+8)  Rovnice Hessiánu obsahuje totiž parametr svazku ve stupni třetím.
+9)   Pokládal jsem za záhodno, tuto totožnost výslovně dokázati.   Není totiž nemyslitelno, že křivka (J) by se rozpadla a jen jedna její součást by obsahovala deváté dvojnásobné body nerozpadajících se K6.
+10)   Nalezení křivky st. 9ho jako g. místa pro deváté dvojnásobné body je hlavním výsledkem Cayleyova pojednání, pokud se týká křivek šestého stupně. C. onu křivku nazývá „dianodální"".   Uvádí dvě její vlastnosti; v. pozn. 4. a 5.   Praví-li C. dále: „Devátý dvojnásobný bod křivky K6 může býti kterýkoli bod křivky diano-dální , je to správné; avšak jsou v tom pak zahrnuty některé křivky se rozpadající, jak plyne z výkladu v textu.
+XLII. ﻿10
+13.   Devět bodů Av . ., A$ B tvoří (v odst. 9.) basi křivek K6 s devíti dvojnásobnými body. Tečné ve dvojnásobných bodech má ovšem každá křivka svazku jiné; specielně také v bodu B.
+Dle věty dokázané v odst. 2. musí však tyto tečné harmonicky oddělovati tečnu Ve křivce (J) a společnou tečnu ostatních K6 bodem B procházejících. Z toho plyne, že tečny křivek svazku určeného devíti dvojnásobnými body tvoří involuci, jejíž samodružné elementy jsou tečna ke křivce (J) a tečna ke křivce kubické určené těmi devíti body. Ale tyto samodružné elementy jsou tečné těch křivek, jež mají bod úvratu v bode B. Jedna L nich je dvojnásobná křivka kubická; druhá se tedy dotýká křivky (J). T nabyli jsme výsledku:
+Křivka (J), jež je geometrickým místem devátých dvojnásobných bodů křivek šestého stupně mají:í:h osm dvojnásobných bodů předepsaných, je zároveň obálkou všech tečen úvratu těchto křivek.
+14.   Poznámka.   V předchozích úvahách užívali jsme svazku křivek K6  se společnými osmi body dvojnásobnými a se společným bodem dotyčným, jenž ležel na křivce (J). Uvažujme podobný svazek, jehož společný bod dotyčný Xt nechť však neleží na křivce (J). Všechny křivky o těchto společných bodech se protínají ještě ve dvou bodech X2, X'2.   Ve svazku musí býti obsažena křivka mající v Xt bod dvojnásobný. To nemůže býti nerozpadající se K6, vzhledem k volbě bodu X^, může to býti jen křivka kubická K3, určená body Ait Xt a počítaná dvojnásob. Tato křivka tedy musí náležeti do svazku, t. j. obsahovati také body X.2, X'2. Ale každá K6 svazku protne nalezenou K3 mimo pevné body At (16 průsečíků) a bod Xt [jeden průsečík; dotyk není možný, ježto X1 neleží na křivce (J)] již jen v jednom bodě a ten je dle známé vlastnosti kubické křivky rovněž pevný. Protne tedy K3 všechny křivky svazku v jediném bodu X2 =.Y'2;  z toho plyne zároveň, že všechny křivky svazku v bodě X2 se navzájem dotýkají.
+Máme větu: Mají-li dvě K6 společných osm dvojnásobných bodů a mimo to se v jednom jednoduchém bodu dotýkají, dotýkají se nutně ještě ve druhém bodu jednoduchém.
+15.   Zvolme devět bodů Av . . ., A8, B takových, jež vyhovují pod mince výše nalezené a budiž — v. odst. 9. —
+A f-fo) +?*•(*,) = O                                      (1)
+rovnice svazku křivek šestého stupně s dvojnásobnými body Av . . . As, B. Jestliže obsahuje tento svazek křivku, mající ještě desátý dvojnásobný bod C, musí tento bod ležeti na křivce (J} určené body Av . . . , As, na níž leží také B. Jestliže však sestrojíme křivku (Jj), určenou body A2, . . . , As, B tak, jako je křivka (J) určena bcdy Aí . . . ., As pak na této křivce nutně leží bod Alt neboť to je devátý dvojnásobný bod při osmi daných AI, . . ., AB, B; ale leží na ní také bod C. Lze tedy desáté dvojnásobné body hledati jen mezi průsečíky obou křivek («7), (J^), ovšem mimo
+XLII. ﻿II
+body Av . . . , A8, B. Avšak body právě napsané platí za 69 průsečíků, jak se snadno spočítá; vedle toho je pak ještě 12 průsečíků. Běží o to zjistiti, zda-li každý z těchto 12 průsečíků je skutečně desátým dvojnásobným bodem křivky svazku (1).
+16. Nežli to obecně rozhodneme, projednáme tento zvláštní případ: vezměme za B jeden bod D (v odst. 12.). Křivky mající Av . . . , A8, D za dvojnásobné se rozpadají. Body C nalezneme určením křivky (Jt) určené body A2, . , . , As, D. Tato křivka je geometrické místo těch bodů na kubických křivkách svazku určeného osmi uvedenými body, jež mají s devátým bodem base společný tečnový bod. Ježto D leží na Jacobiánu sítě určené body A2, . . .A8, je tento bod zároveň devátým bodem base, t. j. všechny křivky uvedeného svazku se v Z) dotýkají. Avšak dle věty odst. 3. dotknou se další tři tečny vedené z tečnového bodu příslušného bodu D kíivky v jejích průsecích s Jacobiánem. Rozpadne se tedy křivka (Jj) a to tak, že jednu její součást tvoří zmíněný Jacobián («//)• Druhou součást tvoří kubická křivka (Ji"") svazku mající D za bod dvojnásobný, neboť tečna v D stává se pro tuto křivku neurčitou, tak že každý její bod lze pokládati za tečnový a ostatní dotyčné vyplňují tedy celou tuto křivku. Křivka (J\) protne křivku (J) mimo A2 . . . , As, D v 11 bodech. Křivka (J""i) protne křivku (J) mimo A^, . . . , A8, D ještě v jednom bodu D'. Těchto dvanáct průsečíků tvoří hledané body C pro daný bod D. Neboť prvých 11 jsou další dvojnásobné body kubických křivek svazku určeného body A}, . . . , A$\ křivka (Ji"") s kteroukoli z nich je totiž K6 mající na křivce (J) dva dvojnásobné body, totiž dva body D. Bod D' pak lze pokládati za bod C, neboť křivka («//') dvojnásob počítaná je K6 mající na křivce (J) další dvojnásobný bod, totiž D'.
+Pro tuto zvláštní volbu bodu B je tedy odpověď na hořejší otázku kladna. Je však třeba povšimnouti si ještě jedné věci: jestliže obráceně je známo, že bod C je jeden z bodů D, lze tvrditi, že bod B je bud také jedním z bodů D nebo jedním z bodů D'. Ježto totiž křivka (JJ příslušná bodům A2, . . . A8, B obsahuje bod D, jsou body A2, . . . A8, B, D dvojnásobné body křivky K6; i obsahuje křivka (<72) příslušná bodům Az, . . . ,A8, D také bod B. Ale («72) v tomto případě se rozpadá na Jacobián (//) (v. nahoře) a kubickou křivku; i protne (J2) křivku (J) jen v bodech D a v jednom bodu D'; B pak je nutně jeden z nich.
+17. Nyní lze přistoupiti k zodpovědění obecné otázky. Vyjděme z bodů Av . . . , A8, B, při čemž výslovně předpokládejme, že B není žádný z bodů D, D'. Uvažujme libovolný průsečík X obou křivek (J), (JJ. Tímto bodem prochází jediná křivka K6 svazku (1). Vzhledem k definici křivek (J), (jj dotýká se tato /v6 v X kubické křivky určené body Av . . . , As, X a také kubické křivky určené body Az, . . . , A8, B, X. Avšak tyto dvě křivky nemají v bodě X společnou tečnu; neboť to by znamenalo, že X leží na Jacobiánu (J/) a je tedy jedním z bodů D; dle předchozího by
+XLII. ﻿12
+tedy bod B musil býti jedním z bodů D, D'; ale to jsme výslovně vyloudili. Ježto tedy obě kubické křivky v bodě X mají jen jeden průsečík a křivka /C° s každou z nich dva, musí K& míti bod X za dvojnásobný. Je tedy i obecná otázka zodpověděna kladně. Lze pak snadno zjistiti, že při obecné volbě bodu B žádná z dvanácti křivek s desátým dvojnásobným bodem se nerozpadá; způsob je týž, jakého jsme již dříve užívali.
+Vyslovíme tedy větu:
+Svazek křivek šestého stupně o společných devíti dvojnásobných bodech obsahuje dvanáct křivek, jež mají desátý dvojnásobný bod] tyto křivky obecně se nerozpadají.
+Běží-li tedy o sestrojení K* s desíti dvojnásobnými body, lze osm z nich vzíti libovolně; devátý libovolně na křivce devátého stupně; desátý je pak tím již určen, ovšem nikoliv jednoznačně.
+18. V předchozím jsme vyloučili z úvahy případ, že by bod B se stotožnil s některým bodem D'. Vezměme nyní za B jeden z nich, jejž
+Křivka   («/')   určená  body  A.
+Z)/  prochází   nutně
+označíme  /
+jedním bodem D, na př. D^; není možno, aby procházela ještě jiným bodem D, na př. D.2. Neboť křivka (J^ určená body A2, . . . , A8, D± obsahuje bod D\; musila by pak také křivka (J2) určená body A2, . . . , As, D2 obsahovati bod D'v Víme však, že (Jj) a (J2) se rozpadnou; i musil by bod D\ býti společný bod obou křivek kubických procházejících body Av . . . , A8, z nichž jedna má dvojnásobný bod Dlf druhá D2. I musil by bod D/ býti totožný se známým bodem A9; ale to není možno, neboť bod A9 neleží na křivce («/) určené body At . . . . A8 (cdst. 6.)
+Z toho však plyn?, že z dvanácti křivek K6, jež vedle bodů Alf . . . , A8, D' mají ještě desátý dvojnásobný bod, obecně jen jedna se rozpadá.
+19. Je nyní zřejmo, že skupina desíti dvojnásobných bodů křivky šestého stupně je charakterisována touto vlastností: Sestrojme kterékoli dvě křivky kubické obsahující všech deset bodů; osm z nich mají společných, mimo to každá obsahuje ještě jeden devátý. Tečna v každém z těchto dvou bodů k příslušné křivce protne ji v témže bodu, ve kterém ji protne tečna vedená v devátém průsečíku obou křivek.
+Tuto konstrukci lze ovšem provésti 45 způsoby; stačí však zjistiti, že ji lze provésti dvěma způsoby; neboť pak leží těchto deset bodů na známých dvou křivkách devátého stupně a existuje K6 mající je za dvojnásobné.
+XLII."

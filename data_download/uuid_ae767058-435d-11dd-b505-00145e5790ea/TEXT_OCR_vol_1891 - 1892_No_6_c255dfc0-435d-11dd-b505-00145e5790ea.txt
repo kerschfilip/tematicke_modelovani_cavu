@@ -1,0 +1,303 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK I.
+II
+ČÍSLO 6.
+O ELLIPTICKEM INTEGRÁLU
+TŘETÍHO   DRUHU.
+NAPSAL
+EDUARD WEYR.
+PŘEDLOŽENO   DNE   12.   ŘÍJNA   1801.
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ.
+1891.
+ ﻿TISKŮM J.OTTT v PUAZE. ﻿Hodnoty, kterých nabývá pravá strana ve formuli Jacobiho
+x
+k""*sna cna dna sn*x
+sn*x
+_.     & («)
++
+& (x — a)
+9(x -f- a)
+klademe-li za logarithmus různé jeho hodnoty, odpovídají hodnotám, jichž nabývá integrál různými cestami integračními. Herwite v pojednání »Sur l'intégrale elliptique de troisiéme espéce*, Comptes rendus t. XCIV, p. *J01, stanovil hodnotu tohoto logarithmu v případě kompletních integrálů
+ri(a) =
+__   Ck-sna cna dna
+l — k1 sn*a snlx
+dx.
+__   C k1 sne
+- J -T=
+iK1
+k-sna cna dna
+dx,
+a za té supposice, že cesta integrační jest   přímá.    Následující   úvaha, vedoucí k témuž cíli cestou novou, nebude snad prosta zajímavosti.
+1. Dle formule
+—
+l — 2 g cos
+n x K
+(l-2g»cos
+
+-2   * cos
+máme
+-a)
+1-
+n (x — a)                       rt   ,        n (x - a)
+l — 2 g cos        ^        -|- g*        1 — 2 g* cos
+í? (a: -f a)
+0           w (x + a)        .              0   ,        «(x 4-a)    ,  „ l — 2 g cos         '        + f1        l — 2 gs cos        J^------h í
+Jde o stanovení přírůstu logarithmu tohoto výrazu, mění-li se reálné x nejdříve od o do K, při čemž počátečná a konečná hodnota výrazu jsou patrně stejné; tento přírůst rovná se součinu z imaginárně jednotky a z přírůstu argumentu napsaného výrazu.
+93 ﻿Všecky faktory napsaného nekonečného součinu mají tvar zlomku
+n(x — a)
+l — 2 q cos
+^
+xL
+a)
+, -f g*
+l — 2 g cos
+A
+jehož  čitatel  a jmenovatel  označíme   literami A a B.  Položivše a •=. a -|-kde «, /9 značí reálné hodnoty, snadno nalezneme
+Ttft
+K
+—    \ e
+cos
+— tg
+sin
+— oč)
+K
+TT (x -\- a) K
++ iq
+K
+Položme
+dále
+Ttp	uf\ T.	/«/»	7T/?\
+K e    -\-e		,;=,(?_;	K i
+v /        v
+čímž
+1}                  71 (X - K)
+Zisin — ^         '
+_0rtc . . cos
+r?,                 n(x 4- a)
+- ~ — sin -
+Předpokládejme nejprve, že /? > o a tedy i g} ^>o.
+Roste-li reálná proměnná # od a; do x -f- ^, tu body L, TI a f , , 17 1 čili stručněji ^fl a ^, popisují patrně polovici ellipsy o středu o a poloosách g, g , , a sice bod A^ ve směru kladném, bod B} ve směru záporném ; roste-li x speciálně od o do X"", vycházejí ^/, a Bl z téhož bodu. Z toho soudíme, že i body A a. B opíší, vycházejíce z téhož bodu, každý jednu polovici ellipsy, kterou obdržíme, pošineme-li první ellipsu ve směru osy | o délku l -f- í2 i a sice ji opíše bod ^4 opět ve směru kladném, bod B ve směru záporném.
+Nalézá-li se počátek mimo druhou ellipsu, tu tedy argumentu hodnoty A
+přibude právě o tolik, oč přibude argumentu hodnoty J9, pročež se argument A
+podílu — vrátí do své počáteční hodnoty.
+Je-li však počátek uvnitř druhé ellipsy, tu, značí-li y přírůst argumentu hodnoty A, jest — (2n — qp) přírůst argumentu hodnoty B, a tedy %n přírůst
+argumentu podílu ,r
+Avšak počátek jest patrně mimo druhou ellipsu, je-li pošinutí l -f- q9 a uvnitř při l -f- q* <; g ; t. j. nutno přihlížeti k nerovnostem
+nfi
+^
+2
+nft K
+94 ﻿to jest
+n
+kladouce
+Jednotlivé   faktory  součinu   na   pravé   straně   rovnice   (2)   nám   podává
+.
+podíl      , klademe-li za q posloupně q, q3, <j5, .. . t. j.
+Tf
+-tr
+Je-li  tedy /?   obsaženo   mezi    hodnotami   (2|U — l ) K1   a   (2/i -|- 1) K1,   kde ju
+o A
+značí celistvé kladné   číslo,   tu   se   argument   faktorů ^r příslušných hodnotám
+2/* -f- l        2(A + 3
+, . . . nezmění, a argumentu každého z ^ předchozích faktorů
+3
+příslušných   hodnotám q,   q , . . ,
+přibude o 2n, tedy argumentu celého
+nekonečného  součinu o j/27r,   a   logarithmu   výrazu
+/«) i 'T* -_-.-    /y i
+-x- — — — Máme tedy dle formule (1) v uvažovaném případě /?> o
+o hodnotu
+Předpokládejme za druhé L <C o a tedy i gx <C o. Pak bod A} opisuje jednu polovici první ellipsy ve směru záporném a B, druhou polovici ve směru kladném; totéž platí o bodech A a B opisujících každý jednu polovici druhé ellipsy.
+Jest-li počátek   mimo  druhou  ellipsu, přibude argumentu hodnot A a B
+stejně, a tedy se argument podílu — vrátí do své počátečné hodnoty. Je-li ale počátek uvnitř druhé ellipsy a přibude-li argumentu hodnoty 4 o — <y, přibude argumentu hodnoty B patrně o 2 n — qp, a tedy argumentu podílu -~- o hod-
+H                                                                                              -D
+notu — 2 n.
+<2/< — 1) K1 a — (á/t -h 1) JT, nastane
+Nalézá-li  se p mezi hodnotami -
+A                                          3
+druhý případ pro faktory ~   příslušné   hodnotám g, q ,.
+,   ,   ,             v   v                                 ,              6> (ác — a)
+ostatní, pročež argument výrazu     '    .   -^   vzroste    o   •
+jeho o —p2ni, čímž pro @<^o nabýváme dle (1)
+, Q
+, a první pro a   logarithmus
+~   ®(a) Tím nalezen první výsledek v citované práci odvozený.
+2.   Abychom  stanovili  druhý  kompletní   a   přímočarý  integrál,   uvažme, že máme dle formule (1)
+.• rm~t - .• r<   ®'(a}
+95
+ ﻿značí-li   L   přírůst    funkce     log       '    ,— na přímé cestě   vedoucí   z   K do
+&(x-\-a)
+K-+-ÍK'. Píšeme-li K-\-iu místo x, mění se tu reálné n od o do /L', a uči-
+& (K -|- » (M  —' *i)) níme-li ještě   0 = fa,, jest L  příslušný přírůst   log
+Avšak formule Jacobiho
+®(K + i (u + a,))'
+7t U U
+k
+0(o,
+podává
+—   e
+0 (M
+0 (u + K', *')
+z čehož, píšeme-li u—a,   místo w a w -f- u,   místo v, plyne
+Tra, u
+(u— a,))     _
+« — a, -f
+a,))
+a
+Z toho soudíme,  že
+7T
+značí-li L' přírůst hodnoty log f/""""""1 Ť5/f!l mění-li se reálné M od o do K',
+fo            a, -f X1,1
+aneb, co jest   totéž, přírůst   hodnoty log      /T0'* u  mění-li se reálné íc od K1
+J                                                  J             0 (x-\- a, , A;')
+do 2K' ; přírůst ten však stanoven úvahou v předchozím článku. Položivše tedy opět a = « -f- //?,   čímž « , — @ — ia, máme tyto výsledky :
+Je-li — «   mezi (2f* — 1) K a (2p H- 1) K, jest   L1 —2fi7ii, a je-li mezi — (2fí — \) K a — (2 [i -f- 1) Jř, jest L1 — — 2fini. Z toho soudíme, že platí
+0'(a)
+77'(a) = ^
+Tra
+(a)    «    2tf je-li « mezi (21"" — l) K a (2 ft -f- 1) AT, a že platí
+fATT
+77' (a) — ^      . .
+& (a)
+v případě, kdy « jest mezi  — (2p —\) K a —(i
+Tím nalezen druhý výsledek odvozený v citované práci.
+Sur 1'intégrale elliptique de troisiéme espéce.
+Partant de 1'expression donnée par Jacobi
+cna dna sri1 x
++    Ý lo""
+&(x — a)
+ ﻿M. Hermite, dans sa notě »Sur 1'intégrale elliptique de troisieme espece«, Comptes rendus t. XCIV, p. 001, détermine la valcur précise du logarithme dans le čas děs fonctions complétes
+••
+u, ,__  C k*8na cna dna sn*x    ,
+11 (a) —  l     —-------—•-—-----------------  A X*
+J       l —- k*sn*a sn*x
+JT+ tJP _  CWsna cna dna snlx
+_ r
+l — k*sn*a
+dx,
+en supposant les deux intégrales rectilignes. Dans ce qui suit je parviens aux inémes résultats par une voie nouvelle, qui, peut-étre, ne sera pas sans intérét.
+On a
+(2)
+(x — a)
+0 (x + a)
+i-agcoB*(ag""a)+ť
+/v
+l — 2 q cos
+
+0   ,        TT (# — a) l — 2 g3 cos —-=—- -\- q6
+Jí.
+,        n (x -f a) l—2<rcos      -^—- -f o6
+et ii s'agit   de l'accroissement   du logarithme   de  cette expression,  la variable réelle x allant de o a K. Touš  les  facteurs  de   ce produit sont de la formě
+it (x — a)
+-
+l — 2   cos
+TT (a; -f- a)
+et si 1'on pose a ~ a -f- /? f, « et /? étant réels, on trouve
+7T/J
+~K
+q \e    +e
+*l K
+COS
+n(x —
+^T
+- »
+e    — e
+TT (a; — a)
+sin
+— 0 \e
+Faisons
+K
+n (x -f a) cos   — -^----+*2\«    —t
+•f <f,
+l  +»>!» 7T/3             7T/g
+X
+sin
+T (X + «)
+K
+X
+= fl«    —e
+et nous aurons
+|               7t (íc — a)           /y               w (o; — a)
+— izcos——=—- i     —n sin——^=—-
+Q                          Jí                   Q,                          JL
+y                                                      \j \
+COS
+7T
+,                  .       7T (X -f «)
+— :"" : — sin —
+Soit, en premiér lieu, 0 > •, donc aussi ^r, "">• o. Si la variable réelle eroit de # á a; + K, les  points ^4, et B t   décrivent  chacun  la moitié ďune ellipse   aux
+97 ﻿8
+demi-axes g, g^ et dont le centre est á 1'origine, A^ parcourant la demi-ellipse dans le sens positif, l?, dans le sens négatif. Si, spécialement, x va de o a K> les points Al et B\ partent de la méme position initiale; donc les points A et B partant ďun méme point parcourent aussi chacun la moitié ďune seconde ellipse qu'on obtient par une translation de la premiére ellipse suivant l'axe réel et de grandeur 1 + 32; A se mouvera dans le sens positif, B dans le sens négatif.
+Si 1'origine se trouve en  dehors  de  la  seconde  ellipse, 1'argument de A eroitra de la méme quantité que 1'argument de B, et 1'argument du quotient
+reprendra sa valeur initiale. Si, au contraire, 1'origine se trouve á 1'intérieur de la seconde ellipse on aura, ff étant 1'accroissement de 1'argument de A, pour 1'accroissement de 1'argument de B évidemment — (2 K— 7-), de sortě que 2n sera
+1'accroissement de 1'argument de ^. Oř, le premiér čas a lieu si 1'on a l -|- q et le second si 1'on a 1-J-#2<C0; ainsi c'est 1'inégalité
+i     j-          * \s f                                             c>
+nJ3
+1         ~K
+e,    -f- e
+ft
+g
+K
+c'est-á-dire
+K1
+qui  en   décide,   étant posé q — e
+A
+Maintenant puisque les  facteurs de produit (2) sont donnés par =- si 1'on
+
+y met a la  pláce  de  q   successivement  q,   q3, g5, . . on a le résultat  suivant. Si př se trouve entre (2 p —1) K' et (2 jw -|-1) ^'» /< étant un entier positif,
+1'argument   děs   facteurs   qui    correspondent   aux   valeurs    2ři • *    ^ ~^~ ^
+q         , q          , . . .
+ne change pas, tandisque 1'argument de chacun děs \i facteurs qui correspondent
+-> Q.              s'accroit de 2^-,  et par-lá  1'argument  du produit infini (2)
+de fi 2 n. Par cela la formule (1) donne dans la čas de
+'l
+(*
+' (o)
+-\- pni.
+Supposons, en second lieu, /? <C 0, donc aussi #, <, o. Rien ne change dans ce qui précéde que le sens dans lequel les points A et B décrivent les demi-ellipses, de sortě que, 1'origine étant a l'intérieur de la seconde ellipse, on
+trouve — 2 n pour 1'accroissement de 1'argument de w- On a donc, /? étant entre
+— (2 fi —\\K' et — (2 p -|-1) JP,
+®' («)
+a) = K
+0(a)
+Pour traiter ďune maniére analogue la seconde fonction compléte, remar-quons (jiťon a, ďaprés (1),
+• m/   \.     -tri    ®
+<IP(«)=:<JP -
+98 ﻿9
+W (n — a)
+en désignant par L 1'accroisscment du log     .          , quand x va par le chemin
+H (x -f- a)
+droit de AT a K-\-iK'. Si l'on écrit   K-\-in au lieu   de x, la variable reellc
+u   ira   de o á   K1,   et   si   l'on   fait  « == /'/,, la quantité L sera 1'accroissemcnt
+\\
+KU — 0,)J
+de   log
+. Mais la formule dc Jacobi
+7T
+A;
+-f A'', *'
+A'
+W (o, /,-')
+donne
+al u
+(*) (A-f i (M — aj i)  __
+(9 (M
+, A') A' k1
+ct par-la
+-na i
+K
+en désignant par J^' l'accroissement de   log-—-       J—          . quand ta variable
+-f «j 4- K',k')
+tcelle w va de o  á  K1, ou  bien  l'accroissement  de IOÍÍTT--    — --,-   , la variable
+' ("") (X-\- •„«*)
+réelle # allant de JT' á 2 JT ; accroissement   qui est donné par les considéra-tions précédentes. On a donc, puisque wt ir^
+suivant   que   — «   se   trouvc    entre   (2 /« — I)   K   et    (2/« -(-l — (2 /« — l i AT et — (2 i« -i- l ) A'. Cela nous donne enfin
+<-u   entrc
+le  signe  supórieur  ayant  lieu, si a est  entre   (2 /< — l') A"" et (2 ,« -(- l i 7\', et le signe inférieur, si a est entre — c2 n — l) K et — i 2 ."" + l) A'.
+On a ainsi retrouvé les deux résultats obtenus par M.
+Ku/pra vy. Ročn. I. Tr. II. Č. 6, ﻿*"

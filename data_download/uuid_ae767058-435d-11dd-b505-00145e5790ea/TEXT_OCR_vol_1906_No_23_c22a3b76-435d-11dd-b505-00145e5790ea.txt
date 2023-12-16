@@ -1,0 +1,673 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+TŘÍDA II.
+ČÍSLO 23.
+Obecné vyjádření sférické aberrace differenčními vzorci.
+Podává Fr.  Nůši.
+(Se 7 obr. v textu.)
+(Předloženo dne 18. května 1906.)
+Roku 1866 podal Dr. L. v. Se i dél v »Sitzungsberichte der math.-pkysikalisclien Classe der kgL bayer. Akademie der WissenscJiaften* řešení obecného případu lomu světla na libovolném centrovaném systému sférických ploch. Ku konci svého pojednání připojil následující poznámku:
+»Die vorstehenden Rechnungsvorschriften (welche natúrlich auch den speciellen Fall eines in der Axenebene gelegenen Strahles mit umfassen) schliessen sich in ihrer Gestalt sehr nahé denjenigen an, welche fůr den eben gedachten besondern Fall im allgemeinen Gebrauch sind. leh muss indessen zum Schlusse bemerken, dass ich fůr die eigentlich angemessene (d. h. der Nátur der Aufgabe am besten entsprechende) Art, in oder ausser der Axenebene den Gang děs Lichtes durch optische Apparate rechnerisch zu verfolgen, eine wesentlich andere halte, nach welcher man direkt nicht die ganzen Gróssen sucht, welche die Lage eines Strahles nach beliebig viel Brechungen bestimmen, sondern nur ihre Abweichungen voň denjenigen Werthen, die nach den Náherungsformeln (ersten Grades) stattfinden wíirden. Nach diesem Verfahren hat man nur mit kleinen Gróssen zu agiren, die durch wenige Decimalen genau genug gefunden werden, weil sie unmitielbar das reprásentiren, was uns im optischen Bilde als Fehler erscheint. Auch diese Behandlung der Aufgabe ist ele-ganter Ausdrucke fáhig, welche in einer ganz analogen Beziehung zu denjenigen der fríiher voň mir entwickelten Fehler dritter Ordnung (im allgemeinen Falle děs Raumes) stehen, wie die >Gleichimgen mit endlichen Differenzen* zu den Differentialformeln. Indessen entfernt sich das ange-deutete Verfahren ziemlich stark voň der rechnerischen Gewohnheit der
+XXIII.                                             l ﻿Optiker, deren praktisches Bediirfniss ich bei der gegenwartigen Publikation zunáchst im Auge hábe; ich verspare daher das Nahoře fůr eine andere Gelegenheit.«
+Tato poznámka je v literatuře geometrické optiky několikráte citována. Naposled ve spise -»Die Thcorie der optischcn Instrumente* Band 1. voň M. voň Rohr, Berlin 1904, pag. 82., při příležitosti odvození differenčních vzorců A. Ker bérových, jež tento podal ve svých »Beitrčigc zuř Dioptrikf, erstes Heft, Leipzig, Selbstverlag 1895, avšak jen pro zvláštní případ svazků osových. M. voň Rohr k tomu poznamenává, ž<j obecné řešení posud podáno nebylo, ač se dle zmíněného citátu zdá, že Seidel příslušné vzorce odvodil, ale neuveřejnil.
+V následujících řádcích podávám odvození těchto differenčních vzorců pro obecný případ paprsků mimoosových.
+Budiž určena poloha a směr paprsků tak jako u Seidela čtyřmi souřadnicemi U, L, r, n.
+U jest průvodič průsečíku paprsku se středovou transversální rovinou, k ose kolmou. Počítá se vždy kladně. L jest příslušný posiční úhel. Počítá se »od hora v právo kolem dokola,« od 0° do 360°, souhlasně s uka-zovatelem hodin, jichž stupňové dělení by bylo dopadajícím světlem osvětleno.
+U a L jsou dle toho rovinné polární souřadnice zmíněného průsečíku ve středové transversální rovině, r a TC mají podobný sférický význam na osvětleném povrchu lomivého sférického rozhraní, pro koncový bod poloměru rovnoběžného s paprskem, r je sférický průvodič tohoto bodu a počítá se podobně jako U také vždy kladně, n je příslušný úhel posiční, jenž se počítá od 0° do 360° v tomtéž smyslu kladně, jako L.
+U a L určují polohu paprsku, ran jeho směr.
+Ku každé lomivé ploše náleží dopadající paprsek ve směru r, jt a lomený paprsek r', n'. Oba paprsky jsou s normálou vztýčenou k lomivé ploše v bodě dopadu ve společné rovině lomu. Tato následkem toho prochází středem koule a protíná středovou transversální rovinu v přímce, která spojuje střed koule s průsečíkem dopadajícího i lomeného paprsku, nebo souřadnicemi vyjádřeno: s body (U, L) a (U', L).
+Dány jsou obyčejně souřadnice lomeného paprsku na předcházející ploše L/', L, T', n', vztahující se ku středu téže předcházející lomivé plochy což naznačeno podtržením příslušných značek, jalrož vůbec učiníme, podtrhujíce třeba i ve vzorcích ty částky, v nichž přicházejí veličiny, vztahující se ku středu předcházející lomivé plochy jako počátku souřadnic.
+Z daných veličin počítáme nejprve souřadnice lomeného paprsku, ale vzhledem k následující středové rovině, čili souřadnice paprsku na novou plochu dopadajícího. Směrové souřadnice se při tomto přechodu nemění, takže
+XXIII. ﻿Avšak souřadnice polohy U, L závisí na vzdálenosti C_ nové středové roviny od předcházející, a musí býti počítány. Příslušné vzorce nazývají se obyčejně vzorce přechodové.
+Pak se paprsek lomí. Ze souřadnic dopadajícího paprsku U, L, T, n mění se tím U, r, n v U', T', TT'. Posiční úhel L se nemění, poněvadž rovina dopadu a rovina lomu spolu splývají. Tato část výpočtu je dána vzorci lomii.
+Paprsek dopadající L/'L/ (obr. 1.) a s ním rovnoběžný poloměr /'C určují v předcházející středové rovině trojúhelník CU'R, jehož strany
+Obr.  1.
+a úhly souvisí spolu a s novými  souřadnicemi dopadajícího   paprsku   dle následujících čtyř samozřejmých Seidelových  přechodových  vzorců
+(l)
+TT = n                                                                                  (2)
+(3) -rtgť                         (4)
+U sin (s — TI) = L/'sirn.L — nf) L ""cos (* — n) — U' cos (~ — n'
+K odvození vzorců lomu zavedeme v rovině lomu některé pomocné veličiny, a sice předně konvergenční úhly // a //, jež svírá paprsek dopadající a lomený s pomocnou osou CA (obr. 2.), která je vedena v rovině lomu kolmo k průvodiči U a za druhé úhly dopadu a lomu /, i' jež tytéž
+XXIII ﻿paprsky dopadající a lomený svírají   s normálou   lomivé plochy C B.    Při
+tom platí podmínka
+i ' u — i' -f- u'
+Změna   směru   paprsku   lomem   nazývá se   úchylka ď   a   definuje se
+rovnicí
+S ~ i — /'
+K úplnému určení všech nově zavedených pěti pomocných veličin je vedle těchto dvou rovnic,  ještě dalších   tří zapotřebí.   Dvě z nich plynou
+Obr. 2.
+z věty sinusové, když ji applikujeme na sférický pravoúhlý trojúhelník SAP a na rovinný trojúhelník B C U. Třetí pak následuje ze zákona lomu.
+sin u ~ sin r cos (- — :ť)
+U
+sin ž =: Ti cos u A
+sin i' ~ — sin /
+[sin r =: sin ť]    (5)
+(7)
+Všechny tyto tři veličiny jsou malé úhly, takže jejich určení sinusem je zcela postačující. Co se čtvrtí týká, jest jejich stanovení při pomocných veličinách úplně libovolné, jenom musí býti — když určitým způsobem
+XXIII. ﻿jednou učiněno — důsledně při všech dalších počtech dodrženo. V předcházejícím případě zdá se mi býti následující volba nejvhodnější :
+Při řešení rovnice (5) zvolme první pomocný úhel u tak, aby cos u měl totéž označení jako R, tedy kladné nebo záporné dle toho, děje-li se lom na ploše konvexní nebo konkávní. Tím bude dle následujících rovnic (6) a (7) sin i a sin i' vždy kladný, takže i a i' může vždy býti zvoleno v I. čtvrti. Zbývající dvě pomocné veličiny ď a u jsou pak již zcela jednoznačně určeny prvními dvěma rovnicemi
+S = i — ?' u' ~ u + S
+(8) (9)
+Vlastní vzorce lomu mohou býti nejjednodušeji odvozeny ze sférických pravoúhlých trojúhelníků SAP, SAP' a z rovinného trojúhelníka C B lf. Oba jmenované sférické trojúhelníky mají společnou odvěsnu S A, a v rovinném trojúhelníku známe jednu stranu a dva úhly, následuje tedy
+sin S A rr tg u tg (í — -n) — tg u' tg (í --• n') tg S A — tg T sin (Z — TI) = tg ť sin (L — TI') L/' : V?~ sin z' : cos «'
+nebo v příhodnější úpravě pro výpočet
+L''—R
+sin (s—TI') sin z'
+(10)
+(12)
+Při řešení rovnice (10) zvolí se L — a' tak, aby sin (L — n/) měl totéž označení jako sin (L — TT). Pak je tg T' dle rovnice (11) kladná a T může býti zvoleno v I. čtvrti. U' je dle předpokladů učiněných již při výpočtu veličin pomocných vždy kladné, neboť cos u' má totéž označení jako R.
+Řada zkouškových vzorců Seidelových následuje bezprostředně buď z právě uvedených definičních rovnic samých, nebo z pomocných trojúhelníků, jichž bylo užito k odvození základních rovnic. Dělením rovnice (4) rovnicí (3) a s ohledem na rovnice (11) a (3) obdržíme
+U
+U'
+sin (C — C"";       tg T' sin (s — rc')    "" tg T' sin (f — »')
+Zákon lomu vede k dalšímu zkouškovému vzorci
+sin i — sin i' _n' — n
+sin /                 ;/'
+XXIII. ﻿čili
+i — i' .          cos
+•    i        .    .n — n            2                                      /TT
+sin o — sm i-----;------------r—,—>—                                 (II)
+;/        z + f
+COS~2~
+Tím je i úchylka f) s větší přesností stanovena než vzorcem (8) jehož užijeme jen k výpočtu cos   —
+Třetí   řada   zkouškových   vzorců   plyne   z  rovnice (10) napíšemeli  ji ve tvaru
+tg (s - n"") — tg C' — *)  _   tg u - tg //
+tg (-""  --- n'} +  tg (-   — 71 i        tg // -f- tg «' '
+neboť po několika jednoduchých přeměnách a s užitím simusové věty na sférický trojúhelník S PP', při čemž sinusy úhlů přilehlých ku straně PPr odvodíme z pravoúhlých sférických trojúhelníků SAP, SAP', obdržíme
+sin S                    sin (u-r u')          _ cos?/; sin r' __ cos K'sin t
+sin (7tf — Jt)         sin (g — JE -|- l"" — TÉ')       sin (, — rt)        si -\ ('C, - n'
+Ku zkoušce   veličiny   U'   můžeme   počítati   následující   výraz B,  jejž budeme ještě při  dalších výpočtech potřebovati
+Odvození plyne snadno   z rovnic (6) a (12),  když v nich   zavedeme následující jednoduše dokazatelné vztahy
+cos u cos u'
+sin /__«' _         f
+sin i'       11            f
+f a f tu znamená předmětovou   a   obrazovou ohniskovou   dálku sférické lomivé plochy o poloměru A9, a počítá se dle známých vzorců
+nR                           n'R
+Také výraz D, jejž později budeme potřebovati, možno ještě mezi zkouškovými vzorci uvésti, ačkoliv je jako zkouška daleko méně pronikavý, než ostatní vzorce dříve uvedené:
+2 sin S                     2 sin 8
+cos r cos u'              cos T.' cos u
+XXIII. ﻿Tím  je   Seideliiv prhpočet   lomu   na  jedné   sférické   ploše   ukončen.
+Aberrace skutečného lomeného paprsku vzhledem k paprsku ideálnímu, jenž před lomem je identický s paprskem dopadajícím, láme se však kollineárně, tak jako příslušné paprsky paraxiální, dají se nyní vesměs vyjádřiti veličinami z předcházejícího průpočtu.
+Především budiž podotčeno, že kollineární lorn děje se v téže rovině, jako lom skutečný. Neboť střed lomivé sférické plochy znamená při kol-lineárním lomu uzlový bod a obě hlavní roviny splývají ve vrcholové transversální rovině. Paprsek koliineárně lomený spojuje bod K^, v němž dopadající paprsek protíná společnou hlavní rovinu, s bodem LQ v obrazové
+rovině ohniskové, kde se s ní protíná hlavní paprsek PLQ, procházející uzlovým bodem C rovnoběžně s paprskem dopadajícím. Rovina kollineárního lomu je tedy těmitéž elementy určena jako skutečná rovina lomu, totiž paprskem dopadajícím a středem sférické plochy. Naše další vývody mohou proto býti omezeny jen na tuto společnou rovinu lomu (obr. 3.).
+Každá k ose kolmá transversální rovina — ku př. Gaussova obrazová rovina - - protíná se s rovinou lomu v přímce A""', která je rovnoběžná se všemi ostatními podobnými průsečnicemi, tedy také s průsečnicí H, příslušnou k hlavní rovině a s průsečnicí F'', příslušnou k rovině ohniskové. V přímce X' nalézají se také průsečíky O0'', O' kollinearnč lomeného paprsku A'0 O0r a skutečně lomeného paprsku B O'. <-V je tedy Gaussův či kollineární obraz, a podobným způsobem můžeme O' považovati za skutečny obraz k propočítávanému paprsku příslušný. Pak je O0f O' la-tcralni abcrracc Lf skutečně lomeného paprsku v Gaussově obrazové rovině.
+Průsečík M' kollinearnč lomeného paprsku se skutečně lomeným paprskem nazveme středem abcrracnhn a transversální rovinu tímto bodem procházející, po případě průsečnici této roviny s rovinou lomu označme
+XXIII. ﻿písmenou E''. Poloha transversálních rovin k 77, E', X' náležejících, budiž dána osovými vzdálenostmi od obrazové ohniskové roviny F'', délkami, /', c, x. Pak následuje z podobných trojúhelníků K0 M' B a L0 M' D, v nichž buďtež délky rovnoběžných stran Á'0 B — k a 7,0 D — l,
+
+(13)
+Jak později   poznánu-,   má zlomek   r-r—, vždy hodnotu kladnou a veličina
+K ~\- l
+f'   tedy totéž označení jako /'.
+Z dalších podobných trojúhelníků M' ./,„ L' a M' O0' O', povážíme-li, že kladný směr, určený posičním úhlem L, směřuje od O0' k X', čili od Z,c, k F', obdržíme výraz pro laterální aberraci s'
+čili nahradírne-li ve jmenovateli hodnotu c' hodnotou (13) a vypočítáme-li LQ L' z trojúhelníka L^L' D
+-      _ k + l    sin ď x' — e'         /""'      cos u'
+Ještě je třeba nahraditi /a k-\-1 ve vzorcích (13) a (14) veličinami známými.
+/ je rozdíl úseků C'Z,0 a C7J na hlavním paprsku. CL0 dá se jednoduše vyjádřiti osovou vzdáleností / obrazové ohniskové roviny F' od uzlového bodu C, a úhlem r jejž CL0 svírá s osou, neboť/ je orthogo-nální průmět délky CL0 na osu, takže platí
+COS T
+Délka  CD plyne jednoduše z trojúhelníka DCB
+sin S a my obdržíme
+f      _ r, sin i' __    /            Rn     sin z — sin z'
+~ cos T           sin tf        cos T       n' — u     sin (z—z')
+z + z""  f         i — f   co^-2—ícoS —
+COS T              Z —
+cos-------
+«'                >                        z-f?'
+!    2/cos-y-
+77 — cos r l ~ -                       , ! sm'
+cos T         i — z
+cos —-—
+I-
+sin        sin
+2          2
+COS
+z + i
+:J
+Podobně lze vyjádřiti malou délku k pomocí osové vzdálenosti Bl^ bodu dopadu od hlavní roviny H, a pomocí úhlu T, jejž k a 7)^ spolu svírají, neboť BB^ je orthogonální průmět délky k na osu, tedy
+B B,        K—Rcosr.""
+kdež T"" značí sférický průvodič SB bodu dopadu.
+XXIII. ﻿Jestliže   tento   výsledek   spojíme  s prvním   výrazem   pro / na pravé straně rovnice (15), obdržíme
+A'sin z'
+R
+,  ,   ,     A>—A>cost""         f
+K • *    / —- --------------------•-------—f-                  ----                      ----                 ----
+cos t;             cos T        sin 8         cos T
+R         n'             Jí       sin S cos t"" -f- sin z"" cos r
+A^COST""           ;/         R        A^sinz""
+cos T         »' — 11 cos T       sin 5
+ros T u  — n       cos T
+Ze   sférických   pravoúhlých   trojúhelníků   nad   odvěsnou   SA   však následuje:
+cos T  ~ cos ?<; cos 6"" A
+cos T' — cos (u -f- í) cos ÓM
+cos T"" = cos (zz -j- i) cos .S'A
+(17)
+Znásobíme-li tyto tři rovnice po řadě sin i', — sin z a -j- sin ó\ a součiny   sečteme,   zruší   se   navzájem   všecky   výrazy   na   pravé  straně   a my
+obdržíme
+sin S cos T"" -f- sin i' cos i ~ sin /' cos ť.                                (I8j
+Tento známý vztah má všeobecnou platnost pro jakýkoli sférický kosoúhlý trojúhelník SPB a pro libovolnou transversálu S P', jakož lépe vynikne, napíšeme-li rovnici (18) v obecném označení
+sin PP' cos S B + sin P' B cos SP — sin PB cos SP'.                       (19)
+Následkem toho   změní se   posléze   uvedený   výraz proL-p/  v rovnici (16)  v následující
+R         n
+k + l —          -r-
+cos t   n —
+R	sin z cos T'             /""		A;z      sin z — sin i		
+- __   -------  —	------------------------- _ ----------   ~~ •   --------  _ -----------------		------- / —          .   , .       TT~ cos		T            f
+l          COS T	sin 8                cos T		n — 11    sin (t — z )		
+Z —	z""		z -)- z""	/	z""
+		2f		.   . ť       Sm 2	
+*-f-	t	COS T	7 — /'	SI""    2   ~              z	~\~ i'
+cos Ji					2
+(20)
+Z rovnice (15) a (20) zřetelně patrno, že zlomek y-j—v má totéž ozna-
+f       n                                                                                             ~*~
+cení jako  — 4r — •-/,  tedy vždy kladné, jakož jsme již v předcházejících
+úvahách předpokládali.
+Rovnice (13) a (14)   spojeny   s (15) a (20)  a málo   přeměněny   pomocí (II) (12) a (IV) vedou pak k definitivním výsledkům
+sin * y +
+cos
+i + z""
+/          z
+sin      sin .   , T              2          2
+sm    2  + ---------——
+cos ~--
+XXIII.
+(21) ﻿10
+ř'     _           2 sin 8              ~  2        1	sm — sin •   ,   *     ,             2            2
+x' — e' ~       cos T cos u'          i — /""    \	2    '               z  f- z""
+2 2 U      1   o.n,  T'	V.                                     2 /           z' N sin  2 sm  2   \
+~   /' COS T'    1                  2	/ + r 008 -T   y
+(22)
+Také při této části výpočtu je velmi žádoucno, míti nějakou zkoušku. Za tím účelem můžeme předposlední výraz v závorce na pravé straně rovnice (15) násobiti předcházejícím poměrem kosinusů a obdržíme
+l — COS T
+Zcela podobný   výraz platí také pro T',   takže   vzhledem  k cos r cos u ~ ~ cos T' cos u, obdržíme také
+Síti*         -j-
+<?'=—/•
+sin — sin
+•   3   T                  2          2
+sin                              —;—cosr 2                   i — /' cos---------
+(23)
+2sinď
+COS T' COS W
+z     .     i
+,        sin       sin   . T      22
+—- H-----                 -,    COST
+2                   z — i cos---------
+(24)
+Vedle toho je ještě následující dobrá zkouška možná.    Dle prvních   dvou rovnic (17) platí
+sin1 —-----sin2 — —      (cos ť — cos t) — — sin — sin
+G                        &            &                                                                  L,
+(Ó   \     COS T ?^ -f-       l---------r. 2 J  cos u'
+Výraz na levé straně znamená  rozdíl čitatele a jmenovatele zlomku  v rovnici (21).
+Zcela podobným způsobem můžeme počítati i rozdíl čitatele a jmenovatele zlomku v rovnici (23) a obdržíme
+i 4- i'
+- '
+•   ,           ->
+sin2      — sin"" — -2              2
+.     i
+sin — sin -.-                                                                              x       -    —
+'2          2                         _             .S         í         S\ cos T            2
+: - -7- (COST — COST ) — — sin      sin l u + - - l
+i'                                         2         \    r2/cosw'       z— ř""
+cos
+cos
+Přehledněji lze sestaviti všecky tyto vzorce, potřebné k výpočtu aberraci při lomu na jedné sférické ploše, zavedením následujících jednoduchých označení, takto :
+XXIII. ﻿11
+rt = sin» \     (a — sin*   T   = sin3   * )                               (25)
+2i      \ * *                     ^                       •  *
+sm       sin
+/, —--------------i-                                                            26)
+i + i cos-- —
+sin   -   sin   '
+'   COST                                                       (27)
+/ — cos
+sm        sin - j '   cos T'                                                      (28)
+=z — sn
+2
+cos — : ---
+d""~ď ---- — ,-
+/        i      ""M
+sin l « -f      ) V        2 /
+cos
+Zkouška:    L        -«        =
+(a ~ c) — (a -\- d) — a
+31)
+a -f- b                a -f- d
+-\- b) — D (a + d)                                                  (32)
+V poslední rovnici (32) znamenají B a D veličiny počítané již mezi zkouškami prvního průpočtu, dle vzorců IV.  a V.
+Vykonáme-li celý výpočet dle vzorců Seidelových (1) až (12) a dle posléze uvedených vzorců aberračních (25) až (32) pro každou lomivou plochu k, centrovaného systému n sférických ploch, můžeme jednotlivé laterální aberrace L// sečítati obvyklým Abbeovým způsobem v konečné laterální aberrace buď f.\' nebo sx' dle toho, promítáme-li jednotlivé aberrace kollineárně zpět do původní roviny předmětové ^ nebo ku předu do poslední roviny obrazové Xnr. Tím obdržíme, jestliže jednotlivé různosměrné výsledky rozložíme na dva k sobě kolmé hlavní směry, určené posičními úhly 0° a 90°
+fx cos?v= žJj-J7      7L-
+(33)
+F* sm ""* ?Y sin fy  —   Lé    —-------------—
+/•• = !    '^l.......""k
+fx cos ;• x = ^ L f;; cos :x. ,-;,. ^,.....,-;„ +1
+(/řw + , = l)         (34)
+/.' sin *k í'6 + i.....P„ i  i
+XXIII. ﻿12
+Pravé strany rovnic (34) vzniknou z (33), násobíme-li tyto součinem laterálních zvětšení fa . . . fin ^ \. Proto obdržíme dělením v obou případech pro tangentu posičního úhlu týž výraz, a můžeme zvoliti Lx := L.Y', jakož již v předcházejících rovnicích předpokládáno. Dle toho pak, jaké znaménko má součin pí . ,../3„_|_i, budou znaménka aberrací f\ a Lx stejná nebo opačná. Jinými slovy řečeno: poněvadž je při kollineárním zobrazování obraz X,' předmětu X\ podobný, zvolme posiční úhly obrazu rovné posičním úhlům předmětu a obrácenost obrazu vyznačme opačným znaménkem zobrazených laterálních rozměrů.
+Laterální zvětšení ji/, jsou dána známým vzorcem
+Je-li předmět v nekonečnu, pak x^ ~ oo  a fii — :     zi 0.  Vzorce (33)
+dávají  pro tento případ za ĚX veličinu nekonečně velikou, a třeba počítati
+LK místo lineární aberrace f x, její úhlovou hodnotu — , pro níž plyne z rovnic
+(33) konečný výraz
+ř.Y-       .      .                        *k   wnt'*
+— sin ^ Y —   %  ------j-----------
+(když A""t — oč)                  (35)
+Podobným způsobem lze sečítati také aberrace konvergeuční, jež definuji, jako poměr aberrací laterálních k osovým vzdálenostem obrazové roviny od příslušných aberračních středů. Dle toho jest na př. vzorcem (14) nebo (22), (24) a (32) dána konvergenční aberrace způsobená lomem paprsku U, L, T} n na sférické ploše o poloměru R.
+Než odvodíme příslušné součtové vzorce, zaveďme k vůli zjednodušení ještě některá další nová označení.
+V Abbeově theorii kollineárního zobrazování znamená y zvětšení konvergenční, jež je definováno poměrem tangent úhlů u a u' v nichž dva sdružené paprsky se protínají s osou
+r= tg?/ tg?/
+Dle toho má konvergenční zvětšení význam jen pro svazky paprsků příslušné bodům optické osy. Definici tuto možno rozšířiti i na všecky ostatní svazky paprsků příslušné k libovolným bodům prostoru, zavedeme-li do svých úvah místo pojmu tangenty obecnější pojem konvergenty. Na obr. 4. buďtež A, A' dva kollineárně sdružené osové body a B, B' dva stejně kollineárně sdružené body transversálních rovin příslušných k A a A'. Mimo to buďtež X, X' dvě jiné libovolné, sdružené transversální roviny, proťaté dvojicemi paprsků, příslušných k A, B a A' B', a navzájem sdružených,
+XXIII. ﻿13
+v bodech m,n,ptq a m,' n,' p,' q!   Pak jest tangenta úhlu u~wAn dána poměrem
+m 11 ta u —------
+*         A m
+a obdobně definujme konvergentu úhlu v—pBq poměrem
+.   . Pí
+konv v
+A m
+Pro úhly,   jichž  jedno rameno  je   s optickou osou rovnoběžno,   je patrně konvergenta identická s tangentou.
+Obr. 4.
+Stejně   pak  jako  platí   pro   sdružené   osové   svazky   paprsků   A, Af
+t»
+platí i pro libovolné dva sdružené svazky B, B'
+_ konv v konv v
+(36)
+neboť, znamená-li /j laterální zvětšení příslušné k sdruženým rovinám X, X', jest patrně
+m n        p q tg u'__m n'   A m
+t   n       m
+a současně i
+11   A' m           A' m'
+konv r1'    _ p' q'   A m           A m
+konv v         p q   A' m  ~       A' m
+V našich úvahách aberračních má konvergenta také důležitý význam, jakož patrno, uvážíme li, že poměr /_ 7/ v rovnicích (14), (22), (24), (32) znamená konvergentu aberrační úchylky v =: O' M' OJ (obr. 3.), při čemž rozumějme aberrační úchylkou úhel, jejž svírá skutečně lomený paprsek B Oř
+XXIII. ﻿14
+s paprskem kollineárně lomeným K„ O,,'. Možno tedy říci: konvergenční aberracc skutečné lomeného paprsku je konvergenta jeho úchylky od paprsku kollineárné lomeného, čili
+— ~ konv v
+i37)
+A nyní předpokládejme, že jsou dány jednotlivé osové vzdálenosti ek' aberračních středů Mk od L-té ohniskové roviny obrazové (dle obecných vzorců (21)/, nebo (31)/,, při čemž indexem k naznačeno, že všecky určující veličiny v těchto rovnicích vztahují se ku /L-té lomivé ploše) jakož i příslušné konvergenční aberrace konv Vk (dle vzorce (37)/, ve spojení s (22)/, (32)/,) a promítněme tyto kollineárně buď zpět do prvního prostoru předmětového, nebo ku předu do posledního prostoru obrazového. Ku každému aberračnírnu středu J/// bude pak náležeti bod i(Mk' v prvním předmětovém prostoru a bod M'k),t v n-íém obrazovém prostoru, a příslušné stejně promítnuté a stejně označené konvergenční aberrace konv \(Vk, konv L'/•)« určené následujícími, z rovnice (37) jednoduše plynoucími vztahy
+konv t ,z>L —
+(38)
+(39J
+Při tom jest x^ daná vzdálenost předmětu od předmětové ohniskové roviny první lomivé plochy a x,' je příslušná vzdálenost w-tého obrazu od obrazové ohniskové roviny n-íé sférické plochy, jež se počítá postupně dle známého způsobu, naznačeného řetězovým zlomkem:
+(40)
+dk znamená optický interval sférických ploch L-té a k -j- l ní, jichž vrcholy mají vzdálenost dk, a platí vztah
+Podobným způsobem počítají se i ostatní veličiny, obsažené na pravé straně rovnic (38), (39).
+i'l.....t*k
+XXIII. ﻿15
+
+(42)
++ .....
++/X-L/V-
+/""'* + 1
++
+Výpočet promítnutých konvergentních aberrací dle vzorců (38) (39) může býti vykonán   také následujícím způsobem,   pomocí   konvergenčních zvětšení  1(yx>,   2(y;, ...... ^.^^ y^ k+i • • • • • ^-)«   Příslušných k postupně
+kollineárně sdruženým svazkům daným jednotlivými   průměty aberračního středu Mk\ l(Mk', 2(M,' , ..... k(M,' , M',^k+] ..... Af*)»_i. Dle známého
+vztahu z theorie Abbeovy y — — -, — — -T, ,  platí patrně, zavedeme-li obecné
+označení z '
+, T
+fi
+f.
+i 45
+při čemž jsou veličiny něj,', c i,\j dány  rovnicemi
+(45)
+Srovnáme-li tyto vzorce s rovnicemi (42) a (44) je patrno, že všecky veličiny ,-(/*' a c'k)j jsou již vypočítány při postupném výpočtu konečných průmětů ](e/J a e'k}n, neboť se vyčíslení řetězových zlomků (42) a (44)
+XXIII. ﻿16
+děje dle samozřejmých,   rovnicím (46) a (47) ekvivalentních   rekurentních vztahů
+•
+*» ~-
+(48)
+Dle   rozšířené   Abbeovy   definice   konvergenčního   zvětšení   (36)   ob-
+držíme pak
+kón v z>,.
+kon v r'/, ) ,/ = konv vh •""*)* + 1 ..... ?* ) « při čemž konv ^ je dána  pro L-tou sférickou plochu vzorcem (37)
+konv s?,,  —
+Obdoba vzorců (49) a (50) s podobnými vzorci (41) a (43) pro laterální aberrace i(Sk, L%« je patrná.
+Průměty konvergenčních aberrací dané rovnicemi (38), (39) nebo (49), (50), (51) jsou veličiny vektorové vzhledem k první předmětové rovině, nebo vzhledem k poslední obrazové rovině a sice buď téhož nebo opačného směru jako */ vzhledem ke k-té obrazové rovině, neboť všecky kollineární obrazy této roviny jsou navzájem podobné.
+Sečítání jednotlivých konvergenčních aberrací, zpět nebo v před promítnutých, vede v obou případech právě uvedených formálně k těmže vektorovým rovnicím, jenže se veličiny vztahují v prvním případě k první předmětové rovině a jsou označeny i(, a ve druhém případě k w-té obrazové rovině a jsou označeny )„.
+Obr. 5. se vztahuje k tomuto poslednímu případu a také označení v rovnicích je pro tento případ specialisováno, aby nebylo třeba zaváděti označení nového, oběma případům vyhovujícího. K0 0Q' znamená kollineárně lomený paprsek a M,' O,! skutečně lomený paprsek, celým systémem předcházejících n sférických ploch. Celková laterální aberrace OQ' O,' skutečně lomeného paprsku, byla dána v polárních souřadnicích («x'Šx) rovnicemi (34) jež lze také nahraditi ekvivalentní rovnicí vektorovou
+—   e      —    ^    SA', ., *        k = l     ^
+(52)
+při čemž vektorové veličiny označeny vrchní vodorovnou čárkou.
+Konečný skutečně lomený paprsek neprotíná se však obecně s kol-lineárním paprskem K0 O0', a proto nelze jeho konvergenční aberraci tak jednoduše konstruovati, jako to bylo možno při lomu na jediné sférické ploše, kde oba paprsky nalézaly se v téže společné rovině lomu.
+XXIII. ﻿Veďme libovolným bodern Nlt' ležícím na skutečně lomeném paprsku N,/ O,' pomocný paprsek N„' Q„ rovnoběžně s kollineárně lomeným paprskem K0 O(}'. Pak lze rozložiti celkovou aberraci na následující jednoduché dvě složky: na aberraci skutečně lomeného paprsku vzhledem k pomocnému paprsku N,/ Q,/' a na aberraci tohoto pomocného paprsku N,ť Qn vzhledem k paprsku kollineárnímu K0 O0'.
+T'
+J-n,
+Obr. 5.
+První z těchto dvou složek je dána polohou pomocného aberračního středu N,!, čili jeho osovou vzdáleností eN' a konvergentou aberrační úchylky v„ — Q,'N,' O,,', při čemž platí
+
+konv v'
+(53)
+Druhá složka je v celém prostoru stálá laterální aberrace 00 Qn'. Příslušný aberrační střed je v nekonečnu a aberrační úchylka i její konver-genta rovnají se nule. Dle konstrukce délky Oó Q,' patrno, že
+V0 (!„ = NO A.'                                                  (54)
+7V0' je průsečík kollineárního paprsku K0 OQ' s transversální rovinou EN příslušnou k aberračnímu středu N,í. Avšak N^ N„' znamená vzhledem k této rovině celkovou laterální aberraci lomeného paprsku M,,' O,/, kteráž se dá vyjádřiti jako vektorový součet partiálních laterálních aberraci, jež dle definice konvergenty obdržíme, když partiální, do «-tého obrazového prostoru promítnuté konvergenční aberrace konv v^n znásobíme vzdálenostmi (e\ — /*)„) roviny E\ od aberračních středů M'k »• Tím způsobem obdržíme:
+XXIII.                                            2 ﻿No Nn - konv ''i)„ (''N - e'i)„} +.....• + konv *„>,, (ř',v - /„);/)            (55)
+kdež k vůli stejnoměrnosti psán index n)n místo jednoduchého, ale stejný význam majícího n.
+Vyjádříme-li tímtéž způsobem  také laterální aberracičV O„
+°.' °n - konv *iv, (*,.- ~ e\ ,„) + ...... + konv v„}n (x„ - *'„)„),             (56)
+a uvážíme-li, že
+<?      = 0<V -°0Qn = 00 -     vy                        (57 »
+plyne dosazením předcházejících výsledků  a dělením společným  činitelem
+(*„' - 6>'.\-)                   (?,; o,:
+— ""— - 1— ~ konv r',    + ...... -j- konv v
+A'»   ~~ e N
+čili dle rovnice (53)
+konvr.'/ =: Z   konvv^                                            (58)
+Rovnice tato vyjadřuje obecně platnou větu: konvergcnta celkové aberracní úchylky v,' rovná se vektorovému sotičtu konvergent partiálních aberračnícli úchylek Vk)„-
+Velikost konv z/0' a její posiční úhel L0 jsou tím. jednoznačně určeny, neboť píšeme-li vektorovou rovnici (58) v analytickém tvaru, obdržíme
+konv v„' cos -,, ~ L konv vf.\,. cos * /f
+(59)
+y,
+konv v0' sin ':o —  2,""  konv z^ sin 1^
+Druhou   složku   celkové   aberrace   f.\' — 6?,,' ^,/   vyjádřínu:   /.  rovnic (54) a (55) takto
+_                                            _
+fV=    L    kOI1V r'*),/   (   -   ť'/C-,»)   +   *'-V   L     k°nV    ^y«                              (60)
+První   součet   na   pravé   straně   této   rovnice   znamená   celkovou   laterální aberraci vzhledem  k w-té ohniskové rovině obrazové
+_
+'V-^f j6'*^-^ 1konv L'*'« C~ e'*>)                                (61j
+takže, se zřetelem k rovnici (58) lze také psáti
+ť A- =: f'^ -f- ť'A- konv vn'                                                  (62)
+Z této rovnice patrno, že hodnota stálé laterální aberrace závisí jedině na osové vzdálenosti /v dosud  libovolně voleného [>omocného aberračního
+XXIII. ﻿19
+středu Ntl'. Snadno pak dokážeme, že existuje na paprsku M,,' O,,' v osové vzdálenosti e'm\n< bod N'm\„! k němuž přísluší nejmenší hodnota stálé laterální aberrace OJ Qfm\n.
+Označme   posiční   úhly   příslušné   k   laterálním   aberracím   eV   a   e// písmenami g.v, Š>, rozveďme vektorové rovnice (61) a (62) analyticky takto:
+s'/(. cos :> -  -        konv ^„ ^)w cos ^
+'63)
+sn > =  -
+kón v
+ť    cos L    — a'f. cos -
+sn       ~ s    sn
+'_v konv »fl' cos ío
+(64)
+Z prvních   dvou   rovnic   (63)   plynou   hodnoty sV, Lř.    Z posledních   dvou rovnic  (64) eliminujme posiční úhel J;.v, čímž obdržíme
+(65)
+a + 2 f'^^'A-cos (->— ?0) konv vn' -\- ír''A-2konv z;,/* Podmínkou minima  laterální aberrace s' \ je
+
+Dosadíme-li  místo levé strany této rovnice hodnotu plynoucí z rovnice (65), obdržíme řešíce  dle e'x ~ e'm\n
+konv r
+_ cos aF     c'0)
+(66)
+Hodnota L'mjn a příslušný posiční úhel L„,[„ jsou jednoznačně určeny rovnicemi (64), neboť když v těchto dosadíme za e'N hodnotu e'm\n z rovnice (66) a poněkud upravíme, obdržíme
+řmin COS~min   — ř'min   SÍn 'min  =
+čili
+sn     —-
+(67) (68) (69)
+Tím, že v rovnici (68) volíme za ť'mi:i hodnotu kladnou, určujeme kladný směr v rovině příslušné konvergenty. Rovnicemi (67) je pak určeno znaménko sin Lm;n i cos Lmin, takže při řešení rovnice (69) nenastane žádná neurčitost při volbě kvadrantu Lmin. Z téže rovnice (69) patrno, se minimální, v prostoru stálá laterální aberrace je kolmá ku směru konvergenty v§ .
+XXIII.
+2* ﻿20
+Tírn je celková aberrace lomeného paprsku vyjádřena dvěma, na poloze předmětu nebo obrazu nezávislými složkami: stálou konvergenční aberrací konv v0' s aberračním středem v osové vzdálenosti e'm{n a stálou minimální laterální aberrací L',nin.
+Zkouškové vzorce odvodíme z rovnice (55) tím, že dvojčlenům v závorkách dáme následující tvar:
+neboť pak lze rovnici (60) také tak psáti
+7^=w Z konv ^ (-v,/ - e\.)u) - (.v,/ - e'N\
+konv
+Tu znamená první člen na pravé straně dle rovnice (56) laterální aberraci s',\- v rovině X,', a druhý člen zjednoduší se pomocí rovnice (58), takže rovnice (62) nabude obecného tvaru
+řV— *'x — (x'„ - <v)  k°nV Vo-
+70)
+Z této rovnice odvodíme zcela stejnými úvahami jako se to stalo při rovnici (62) řadu podobných rovnic jako (63) až (67), jenže píšeme ex, Š.Y, (x» — e'x), (.r,/ — /m;n) místo «/,-', $F, — e N, — emin. Tím způsobem obdržíme žádané obecné zkouškové vzorce:
+(71)
+(72)
+ř'        COS ""         = ~ *'     sin t   SÍn         ~ -
+min        ""min
+ř'         SÍn -         =
+čili
+f'    .    —:    l    ť ,, sin í s v — C   l                                                      tTi\
+min        |       A         ^   -Y        ^o)   |                                                  \'°)
+ts :   .   —____l-                                            (74) = (69)
+e    min             jg   -
+Celková laterální aberrace 5'^- v libovolné obrazové rovině Xú byla dána rovnicí (52) nebo v rozvinutém tvaru rovnicemi (34), avšak také ji lze počítati z předcházejících obecných složek, dle rovnice (70) z níž následuje
+'Iv'         X        l                                      f7^
+l **        ^t-™,*!                                                   l • *» /
+l        W                      .• • ' ;                                                                                  ^         x
+Zcela podobná řada vzorců   platí též   pro průměty   v prvním   předmětovém   prostoru.   V následujícím   jsou   sestaveny  jen   výsledné   hlavní
+rovnice
+a                                                              / • >
+konv vn =:   Z1  konVj/Pj                                                   (*« )
+t/,= 2;  konv ,(^. (-
+(61)
+XXIII. ﻿řmin COS Snin = f min SÍn : min =
+21
+~ *F SÍn        SÍ"" COS f   sin
+(66'J
+(67') (75')
+a zkouškové rovnice
+čili
+řrnin COS Lmin SÍn ',
+s v- sm -   sin í f y —L,]
+*\.                O              \^ • .A          a ř?y
+ř ^ cos Jr   sin f s y — ^
+-rí                ř?            \     A             í>/
+=      ř    sn      - - -
+(72')
+(68') a (73') (74') = (69)
+Význam těchto rovnic je dle předcházejících úvah patrný. Celková aberrace lomeného paprsku je kollineárně promítnuta zpět do prvního prostoru předmětového a rozložena stejně na dvě složky, jako se to stalo v ;/-tém prostoru obrazovém. První složkou je konvergenční aberrace konv v0 s aberračním středem v osové vzdálenosti em\n. Laterální poloha tohoto středu je určena druhou složkou: stálou minimální laterální aberrací Lmjn.
+sx znamená celkovou laterální aberraci vzhledem k první předmětové rovině X\.
+Jako číselný příklad uvádím výpočet sférické aberrace určitého mimo-osového paprsku pro objektiv označený ve spise ->Handbucli der Ange-wandten Optik* voň Dr. A. Steinheil und Dr. E. Voit písmenami A. a 1. Konstanty jeho jsou sestaveny na str. 161. tohoto spisu takto:
+A' =
+67.28
+8,00
+153,02
+6,68
+—  114,88
+5,00
+—  300,33
+/;""«' = li"" 4 — 1,6136
+a na dalších stránkách 193. až 199. je pro tento objektiv šestimístně propočítán lom mimoosového paprsku, jehož souřadnice ve smyslu Seide-lovč, vzhledem k první vrcholové transversální rovině, jsou :
+<7'=i30,0 ^~ 90° r_— 6° n' — 180°
+XXIII. ﻿22
+
+Následující výpočet je vykonán čtyřmístnými logarithmy, při čemž desetinné zlomky takto zkracovány:
+0,75 až  1,24 — l 1,25 až 1,74 = l- atd.
+Čísla uvedená v závorkách před označením v prvním sloupci vztahují se k příslušným rovnicím tohoto pojednání, dle nichž ta která veličina počítána. Logarithmy označeny tečkou před značkou veličiny.
+XXIII. ﻿2,5
+Seidelilv průpočet:   /'/-,-<-, W a lotu.
+n u' u' — n	I, OOOO 1,5181 0,5181		I, OOOO 1,6136 0,6136	
+R d C — d+ A - R	67,28 67,28	153,02 8,00 161,02 93,74	- 114,88 6,68 — 108,20 — 261,22	- 300,33 5>oo - 295,33 — 180.45
+. ti . n . n' — n	0,0000 0,1813 9.7144		0,0000 0,2078 9,7879	
+• n : (n   — 11) . u' :  n' — u) .R	0,2856 0,4669 1,8279	0.4669 n 0,2856 n 2,1847-	0,2121 0,4199 2,0602 n	0,4199 ;/ O,2I2I  >l 2,4776 n
+(3) (4)     • U (12)           .   U' • f ./v	1,4888' 1,3120-2,1135 2,2948 n	1,0686' 1,2503 2,6516' n 2,4703'	i,6756 1.4616 2,2723 n 2,4801	1*5075' 1,7171-2,8975 2,6897 ;/
+. U' cos (L — TÉ')	— oč	1,2263-	0,5864 n	0,3064
+:lr- O tgjL. num num	0,8495 n 0,0000 - 7,072 --- 7 O7 ^	1,2251-;^ 16,842 — 16,796	i, 6806' - 3-858 47,940	1,0853-2,025 12,172
+(3)    - L/ sin (: - «) U)    • 6rcos(C — ar)	/,u/ "" 1,4771 « 0.8495 'l	i, 0686' n 8,6628	44,082 1,2 398' » 1,6442'	14,197 1,4605- n 1,1522-
+• tg (;• - *) . cos (,~ — n) . sin (',' — TI)	0,627(j 9,3607   « 9,9882- ;/	2,4058* » 7,594f 0,0000 ;/	9,5956 n 9,9686' 9,5642' 11	0,3083 n 96447 9,9530 n
+(S)         • sin té . cos u . U:R	8,3799 « 9,9999 9,6609'	6 8406 0,0000 8,8839	9,2251-9,9938 ;/ 9,6154 11	8.4727 9,9998 n 9,0299'^
+(6)         . sin / (7)         . sin /""'	9.6608-9-4795'	8,8839 9,0652	9.6092 9,4014	9,0297-9,2375'
+• tg « . tg // . cos u' A' sin z '	8,3800 n 9,l653 9,9954 i,3074'	6,8406 8,5929* « 9,9996-2,2499-	9,2313' 'i 7,6728 n 0,0000 n 1,4616 n	8,4729 « 8,9839-;,! 9,9980 n 1,7I5I'»
+. tg « : tg «'	9,2 1 47 n	8,2476 n	1,5585'	9,4889-
+(10)  .   tg    (f — Ji') . COS (f —   T') . sin (^ — n)	9,84238 9-9 r 43 9,7566 «	0,6534' 9,336i n 9,9895' n	1,5141' n 8,8448 9 99S9' «	9,7972*« 9,9280 9.7252*»
+. sin (^   n) : sin (~ - TT')	0,2316""	0,0104-	9>5653	0,2277-
+(u)     . tg  ť . cos ť . sin r'	9.2S321 9,9931' 9,2464	9.2637 9,9928 9,2565	8,8290 9.9990 8,8280	9.05671 9,9972 9,0539'
+.(-O •tg_r'	i,S27<) // 9,0216	1,9719*	2,4169'	2,2563-
+XXI11 ﻿24
+Seidelňv průpočet:   Úhly a zkoušky.
+k	i	2	3	4
+í t — T'	76° 44' i o"" 6.     o.    o	21°   46' 45""	102° 47' 31""	124° 57' 5i'
+7T — ir'	180.     o.    o			
+ť •n'	10.     9.  28 ""i-   33-  15	io. 24. oo 124.  18.    5	3- 51- 32 1 88. 46.  51	6. 30.    5 157-    3-    6
+« — TT	256. 44.  10 -34- 49-    5	— 89. 46.  30 257. 28.  40	— 21.  30.  34 — 85     59.    20	- 63.  49.    o — 32.    5-  15
+í-Í	-13    15   50	- 54- 57- 25	— 278.   59.    14	22.    10.    2O
+TI' — rr C — n- -f- - — rc'	29i    33    15 221   55     5	12.   44.    50 167. 42.  10	64.   28.   46 — 107.  29. 54	— 31-  43- 45 -95- 54- 15
+. sin (: — L) . sin (n' — ?r) . sin (L — TT -j- í — TÉ') . sin (« -j~ ?<;')	9,3606' 11 9,9685 n 9,8248 n 9,0828	9,9131' n 9,3437 9,3283-8,5849 n	9,9946-9,9554 9,9794 n 9,2369' «	9,5768 9,7209 w 9,9977 n 9,0984' n
+Z/!	6.  57.    o —   I.    22.   27 8.   19.  27	--- 2.    12.    12' 0.      2.   23 — 2.  14. 35'	— 9- 56-  M 180 — 9. 40.    3 180 — o. 16.  1 1	- 7-  12. 23 iSo — i.  42.    6 1 80  -  5.  30.  17
+ř z"" a (z - z"") : 2 (/ + z"") : 2 . cos — . cos -j-. cos — : cos + , sin i (n — n) : n'	2"".    15-   25 17-  33-  30 9- 4i. 55 4- 50. 57' 22.   24.   27-9,9984-9,9659 0.0325-9,I939'	4-  23- 23-6     40.   22 2.  16.  58-- i.    S.  29 5- 3i. 57 9,9999 9,9979' 0,0019-8,5983 H	23. 59. 40 U- 35- 45 9- 23- 55 4- 4i.  57' 19.   17. 42-9,9749 0,0236-	6.    8. 51 9-  57-    3 — 3- 48.   12 — i.  54.    6 8.    2.  57 9,9997' 9>9957 0,0040' 8,8176- H
+. tg T' sin (Z — n'}	9,0216 w 9,0098"" ;/	9, 2532- n	8,8279- n	8,7820   11
+. tg ť sin (í — n')				
+\	2,4672' n 2,4672' ;/ 2,4672- n	2,0587- n 2,0588 n 2,0588 n	2,4223 ;/ 2,4223- n 2,4223- n	2,6795- « 2,6796* n 2,6796 11
+11 . sin á a	9,2265 9. 41. 54	8,6002- 11 — 2.  16. 58-	9,2129' 9- 23. 52	8.8217 n — 3- 48.  1 1
+. cos u sin ť . cos //' sin T	9,2463 9,0146	9.2565 9,2460*	8,8218 11 9,2565 «	9.0537' « 8,8260 n
+í//;	9,2580 n 9,2580 n 9,2580' n 9,2580 n	9,2565- 11 9.2565- n 9,2565 n 9 2565 n	9,2575' 9,2575' 9,2575'	9,1008 9,1007-9,1007-9,1007
+i :/' cos ť . — i : / cos T	7,7120' n 7,8889 n	7,5368-7,3552	7,5209 7,7349	7,3131 11 7,1035 n
+/r,      . B IV*         -B	9,5019' n 9,5020 n	8,9065-8,9065-	9)4975' 9,4975'	9, 1 2 1 7 n 9,1217 //
+. — i : cos u cos T' . — i : cos u cos T	0,0069- ;/ 0,0070 11	0,0072 11 0,0072 ;/	o 0072 0,0072	0,0030 0,0030
+Pí,,       •L	9,5345' «	8,9085	9,52i2	9,1257- ;/
+		XXIII		
+ ﻿25
+Výpočet jednotlivých aberraci.
+	. sin ť,        T/„	8,7188	3o o' o""		
+	• sin r' „        i'/,	8,947i	5- 4- 44	8,9573	5. 12.  0
+	. sin óV,         S /i	8,9270	4- 5°. 57	8,2993 n	— i. 8. 29
+	sin (/* + dV.,)     u + <Va	8,7825-	3- 28. 30	8,2839 n	— i. 6. 6
+	cos T' : cos u'	9,9977'		9.993 1'	
+	• sin ř>'a        z'/2	9,3722	13- 37. 42'	8,5832	2. II. 42
+	• sin '/a           ' -i	9,1836	8. 46. 45	8,7649	3. 20. II
+		S.íCíS		7,1481	
+	. COS fi a	O J J^ 9,9984-		/ OHU L 9,9999	
+		8 H í7^'		7 Í482	
+	cos — : cos +	u> J J / .' 0,0325-		/ ) J'!0^ 0,001 9'	
+	. COS T	9,9976		9.9931'	
+	. COS T'	9-9931'		9,9928	
+03)	.a          <z	7,4376	0.00274	7,8942	0.007838
+(13)	. a          a	7,8942	0.00784	7,9146	0,008215
+(14)	.J          L	8,5899	0,03889'	7,35°i'	O,OO224O
+(15)	. C               C	8.5549'	0,03589	7,3413'	O.OO2I94-
+(16)	.d      d	8,5505	0,03552	7,34io	0,002193
+(i?)	.ď      ď	7, 7073- n	— 0,00510	6,5763-;-;	— 0,000377
+(18)	. d""         d""	7,6748 w	— 0,00473	6, 5744 «	— 0,000375-
+	.(« + *)      a + b	8,6194-	0,04163""	8,0033-	O,OIOO78
+	.(a + b)       a + b	8,6696-	0,04673'	8,0193	0,010455
+	diíf.       (19) diff	9,9498	— 0.00510	9.9840-	— O,O003""7
+	.(a_-\- c)       a + c	8,5869	0,03863	8,0014	O,OIOO32'
+	• (a + d)      a + d	8,6371	0,04336	8,0173-	O,OIO4OS
+	diff.       (19) diff	9,9498	- 0,00473	9,9840-	— 0,000375'
+	•-/	2,1135 «		2.6516-	
+	.#	9.5020 w		8,9065-	
+	.Z)	9-5345'*		8,9085	
+(20)	•**'	2,0633 «		2,6357	
+(21)	. konv vk	8,1716- //		6,9258-	
+		8,i7i6'//		6,9258-	
+XXIII. ﻿26
+Výpočet jednotlivých aberraci.
+3                                                     4
+1.55.46           8,75:
+3- 15.   2-
+. sinfVa                    8'3              8,9134	4- 41-56	8,5201) ;/	-  T- 54-   5'
+. sin (u -f- <•>' ž )          u -\- 8!%í          8,9376	1 80 -4. 58.   7	8,7983	180—3. 36. i r
+. cos ť : cos u'                                9.9990 n		9,9992 «	
+. sin /',                     /2               9,3i7S	II. 59. 50	8,7293""	3-   4- 25-
+. sin /'/,                    i's             9,1039	7   17.52'	8,9381-	4 58. 31'
+8 A -> r 7		7 (\fťj c	
+,cos8/t                                       9,9985-		/,uu/ ^ 9,9997'	
+......                                       84^31""		7 6677'	
+. cos -  : cos -+-                                 0,0236""		/ i u u / / 0,OO4O'	
+. cos T                                         9,9928		9,9990	
+. cos ť                                        9,99'jo		9,9972	
+(13)          • «                          «                7-9 J 46	0.00821""	7,0545	0,001 134
+(13)          • «                          0                7,0545	0,001 13""	7 5°73	0,003215-
+(14)          . L                                            8,4468	0,02797'	7,6718	0,004696'
+(15)          .L                          c               8.4159-	0,02606	7,6667	0,004642*
+(16)          . d                         d               8,4221'	0,02643""	7,6649-	0,004623'
+(171          .ď                       d                7,8500	0,00708	7,3184 n	-- 0,002081'
+u S)          .d""                      d""              7,8263-	0,00670""	7,3143* «	0,002062
+. (a -f b)                a -\- b           8,5586	0,03619	7-7657	0,005830'
+.(a-rb)               a -\- h           8,4640-	0,0291 1	7,8983	o 007912
+diff.                  (19) diff         0,0945-	0,00708	9,8674	— o, 002081""
+. (a -f C]                a -f- c           8,5350	0,03427-	7,7616'	0,005776-
+,(a-\-d)               a -f- d          8,4404	0,02757	7,8942'	0,007839
+diff.                   (19) diff         00946	0,00670'	9,8674	—  0,002062'
+— /                                         2,2723		2,8975 «	
+• /!                                             9,4975'		9,I217«	
+.D                                      9,5212		9,1257- »	
+(20)        . e,'                                        2,3669		2,7649 «	
+(2i)    . konv vk                                     7.9616		7,0200 «	
+7,9616		7,0200 u	
+XXIII ﻿27
+Výpočet průmětů do posledního obrazového prostoru.
+•/*
+./*
+4 4'
+(43
+(34)
+(52)
+fkfk
+konv z
+cos ^, sin -k
+;- „ cos -.)„ sin ,
+/..„cos
+. kón v vk
+'k] min
+I	2	3	4       bouct
+2. ""35 2,2948 n	2,6516' n 2,4703'	2,2723 ;/ 2,4801	2,8975 2,6897 n
+	93,7' 8,0	— 261,2 6,7	— 180,4-
+129,8--197,1-	— 448,4 295,3'	— 187,2 302,1	789,8 - 4894'
+	165,5 251,2'	750.5 482,5'	— 302,2-- 487-7
+	259,2' 259,2-	489.3 489,2'	- 482,7 — 482,7
+oč	259,2-	21,6	— 2135,3
+oč 4,4083 n	2,4137 n 5 , 1 2 2 o n	1,3344' 4,7524 n	5, 5872 n
+	2,7083	3,4179'»	2,2577-
+	0,2379-	0,9378- 11	9,5680-;,
+0,0 H5-7	5IO<9 432,2-78,6-	— 2618,0 232,7' - 2850,7-	181,0-— 582,0 763,0-
+2,0633 o,7458-	i,8957 6,9258-0,5059	3»4549'» 7,9616	2,8825-7,0200 ;/ 0,0000
+0,9788 n 9,3606-9,9882-	9,3274' 9,9678-9,5694	0,9846 9,3452 « 9,9891	9,9025' // 9,7582 ti 9.9135'
+0,3394-72 o,9Ó7ov/!	9,2953 8,8968-	9,3298;^ o,9737	9,6607' 9,8 1 6 1 ;/
+— 2,185 -9,269	0,197-0,079	— 2,137 9,412-	0,458     — 3,666--0,655     -0,432-
+76° 44'	0,212' 21° 47'	9.652 102° 48'	— 0,799    f- Y' 3,691-124° 58'  ;:A,lSo04.
+-430,3 49,1' 1,6915 8,1925 n 9,8840 n	— 262,2"" — 1 1 S, 9 2,0752 n 6,6807-8,7559' «	— 5403 2,2018 8,1264-	— 582,0 200,8-2,3028-7,0200 // 9,3228- //
+-0,765-76° 44	— 0,057 21*47'	102° 48'	— 0,210-      pmln 1,27 10,0.0'    '       0 I24 5a     Kmín ! '6
+vekt.
+XX1I1. ﻿28
+Výpočet průmětů do posledního obrazového prostoru.
+k	l	2	3	4	Součty
+ek	— ""5,7	432,2-	232,7'	— 582,0	
+ek - Jk	— 374,9'	—   57,o'	7i5,4*		
+• (ek ~ Jk)	2,5739 »	1,7562'*	2,8545'		
+-fk + i ?"" k + i	5,1220   W	4,7524 »	5,5872 ;/		
+(48)        .«*;* + !	2,5481	2,9961-	2,7326' ;/		
+e'ki k + 1	353,2'	991,2			
+ek •> k + i — Jk + 1	— 136,0'	1473,9			
+• (e k) k + i "" Jk + i)	2,1337 n	3,1684-			
+• A + 2 / x- 4- r?	4,7524 »	5,5872 «			
+(48)         .<*;* + a	2,6187	2,4187- 11			
+«*,«-!	415,6				
+č'x-1 „ _ i — -'„ _ i	898,3				
+• (<'*) „ _ i ~ -/„ _ i)	2,9534				
+•/«/«'	5,5872 n				
+(48)              • *'*; „	2,6338 n	2,4187' «	2, 7326- n	2,7649 n	
+*'*) «	— 430,3	— 262,2""	— 540,3	— 582,0	
+AT           ™~ 6'   t j	6"", 3'	443,3	721,3'	763,0	
+• (*'« - *'/,; „)	2,7863	2,6467	2,8581-	2,8825'	
+'    X1^  ;/	0,9788 n	9,3274-	0,9846	9,9025- n	
+(39)       . kón v vk) „	8,1925 n	6,6807-	8,1264-	7,0200 n	
+(45)             /X-) X- + 1	0,1035-	9,2761'	0,1648'		
+V k) n — 1	9,6536	0,4787-			
+rk)»	0,2637				
+• ""Í k) k + 1 • • • V k) n	0,0208'	9,7549	0,1648-	0,0000	
+. kón v vk	8,1716- n	6,9258-	7,9616	7,0200 n	
+(50)       .konvzfA)„	8,1925 ;/	6,6807-	8,1264-	7,0200 «	
+. cos Zk	9.3606'	9,9678-	9,3452 n	9,7582 n	
+. sin ^	9,9882-	9,5694	9,9891	9-9J35'	
+. koiw v/,      cos J^	7.5S3I*»	6,6486	7,4716' n	6,7782	
+. konv v^ n sin ú""^,	8,1807- 11	6,2501'	8,1155'	6,9335' 11	
+.konvr^^cos^C-^	t)       0,1869-%	9,0673-	0,2043 n	9>543i	
+. konv vk} n sin *k (—e'k)l	t)       0,8145- n	8,6689	0,8482	9,6984"" n	
+• ř kF	0,8263 n	9,0995	0,8591	9,7849 n	
+konv PA)W cos ^	- 0-003574	0,000445	— 0,002962'	0,000600	— 0,005491
+^^     konv &A);/ sin ^	— 0,015162	0,000178	0,013048	— 0,000858	— 0,002794
+konv &Aj „ cos :-A( - /	*;«)    - r>538	0,1 17	— i 600""	o,349	— 2,672-
+(63) konv ^.w sin řA(-/	,)«)     -6,524-	0,046'	7,050	— 0,499'	+ 0,072'
+*'k)F	-   6,703-	0,125-	7,229	— 0,609'	pV 2,673
+	76° 44'	21° 47'	102° 48'	124° 58'	L- 1788 27'
+vekt.
+XXIII. ﻿29
+Vektorové součty a skoušky.
+ř'y	cos fy    — 3,666'               konv vj cos f0 sin fy    — 0,432""        ^9.' konv va' sin J0	-0,005491-           e^cosf, — 0,002794   ^ 3'   f^sinf^	f     — 2,672--,     + 0.072-
+• ř'.v	•cos fy        0,5642 n        . konv z»'o cos f0 COS f y            9.997O   W                                   . COS f 0 sin f y        9,6360 «        , konv vt)' sin f0	7,7397 n          • L'j,-cosZj 9,9500 n                . cos ^ 7,4462' w          . F'^ sin ^	7          0,4269 w 7                 9,9998' « 8,8603-
+	•tgf,y        9.0718                              .tgf0 . ř'^y        0,5672                           konv z>0'	9,7065-                       .tg.í; 7,7897                         .e'v	r           8,4334' « 7          0.4270'
+	E v        3,691'                           konv v ' f""v   1 80° +6° 43' 45""                          L0	0,006162                       fc'j	?          2,673 ř    180°— i°33'i3
+	tf—t.               -28° 31 '3"" • ?V                                 0,4270-cos^ — f0)             9.9438 • ....                     0,3708'	.COs'(Jy-f0)	— 20° 14' 5"" 0,5672 9,9723""
+(66)	. konv v0'                 7,7897 (-'min)                      2,58ir	. konv z'0' (71)       . (.v';/ — ^'min)	7,7897 2,7498-
+		X 11        Ě min .v ' n	562,1-181,0-
+	6 min                        ~ 381,2	min	— 381.1
+(68)	. í sin(:>— ?„) |            9.6789 . f'^                      0,4270-•fmin                               0,1059'	• 8 A' (73)             - s'min	0,5672 0,1061
+(6?)	6 min  COS -min min            "" min                           ;	/-2\            min       '    ""min min   *""       ^min	+
+(69)	ť'min                              1.276--min                       90° + 26° 57' 50""	(74)                     ! mi"" 'min	i 277 90"" + 26"" 57' 50""
+	• L min ' COS Snin ' S^n ^min	0,1059-9,6565- // 9,9500	
+	min            'min ' ř min   Sin -min	num. 9,7625 «        —0,578-0,0559-— 1,137-	
+	. konv v ý (.\~H' — ^ min ) cos^	0       0,4896   «           _ 3,087-o        0.1961- «           —1,571	
+	(75J                  /ySÍnfT	— 3 666 — 0,433-	
+XXIII. ﻿Na obr. 6. a 7. jsou předcházející výsledky graficky znázorněny. Obr. 6. naznačuje polohu význačných transversálních rovin, aberračních středů a chod kollineárně lomeného paprsku v měřítku naznačeném na optické ose v kladném směru od 4. ohniskové roviny obrazové. V obr. 7. jsou vyznačeny částečné a celkové laterální aberrace v rovinách (E'm\n i (F^) a (X^'} ve stonásobně zvětšeném měřítku, jež je naznačeno na paprsku vedeném z bodu O,' v posičním úhlu 270°
+V .A* s
+Obr. 6.
+Obr. 7.
+Y 130'
+Dříve zmíněný šestimístný výpočet Steinheil-Voigtův obsahuje ve druhém sloupci na str. 194. ve zkoušce na log U' dvě hodnoty této veličiny, a sice správnou hodnotu 1,250341 a nesprávnou hodnotu 1,251341. Další výpočty jsou vykonány pomocí hodnoty nesprávné, takže výsledky nesouhlasí s předcházejícím výpočtem čtyřmístným. Pan H. Děvo řecký, professor na reálce v Karlině, byl tak laskav a přepočítal příslušný šesti místný výpočet, začež mu tímto srdečný dík vzdávám. Konečný výsledek jest
+f' \-cos l"" r— — 3/1687 ř' Y sin L Y — — 0,4369
+což dosti dobře souhlasí s předcházejícím  výpočtem čtyřmístným
+ť Y cos l"" Y ™ — 3,666' f' v sin L_v z= — 0,433.
+XXIII."

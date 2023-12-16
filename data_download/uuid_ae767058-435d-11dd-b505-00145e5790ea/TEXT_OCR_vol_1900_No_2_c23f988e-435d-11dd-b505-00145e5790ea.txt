@@ -1,0 +1,414 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+TŘÍDA II.
+ČÍSLO 2.
+O mnohoúhelnících Ponceletových.
+Napsal
+Dr. Karel Petr,
+professor gymnasia v Olomouci.
+(Předloženo   17.   listopadu   1899.)
+V práci této jest obsaženo především obecné algebraické řešení známého problému nalézti podmínky, které jsou platný mezi koéfficienty dvou kuželoseček, tak, aby možno bylo do jedné z nich vepsati w-úhelník, jenž by byl opsán druhé.
+Problém tento byl řešen od různých matematiků ve zvláštních případech již na konci minulého a na počátku nynějšího století, avšak teprve Jacobiovi a Cayleyovi podařilo se řešiti úkol obecně tím, že jej převedli na celistvou multiplikaci elliptických funkcí. Po nich i jiní, jako Ro-sanes a Pasch, Moutard, Simon úkolem tím ve spojení s elliptickými funkcemi se zabývali, avšak pokud jest mi známo, nikdo nepodjal se úkolu> problém zmíněný přímo, bez použití funkcí elliptických řešiti.
+Vzájemná poloha dvou kuželoseček závisí podstatně na jisté binárně formě 4. stupně a jedné konstantě*) a totéž platí o obecném elliptickém integrálu I. dr. resp. elliptické funkci 2. st. V této okolnosti spočívá příbuznost našeho problému s funkcemi elliptickými a jest přirozené, že nauka o funkcích elliptických nám podá jednoduché řešení jeho. Avšak toto řešení nemůže uspokojovati, neboť užívají se při něm pojmy problému zcela cizí, jakž zejména patrno, uvážíme-li, že nauka elliptických funkcí z veliké části opírá se o poučky ze theorie funkcí. Z této příčiny pokusil jsem se o řešení přímé a výsledky mé snahy předkládám v této práci.
+Podotýkám, že současně jest jí podáno algebraické odvození celistvé multiplikace elliptických funkcí. Užití formulí odvozených však k tomuto účelu jest velmi snadné, tak že v následujícím se tímto předmětem vůbec nezabývám, poznamenávám jenom na tomto místě, že
+*) V mé práci jest zmíněná forma označena /    a konstanta r0.
+Ro zprávy : Ročn. IX. Tř. II. Č. 2.
+U. ﻿2
+funkce 5«, na které závisí řešení úkolu v mé práci, odpovídá funkci ií>„, vyskytující se při celistvé multiplikaci funkce /. S„ jest však značně jednodušší, jelikož její váha v proměnných jest dvakráte menší než při ty„. Lze však snadno udati substituci, pomocí níž z funkce S„ přejdeme ku t^„, tak že ýM jeví se tak převedena na funkci váhy poloviční.*)
+L
+Buďtež A' a k dvě kuželosečky, jichž rovnice jsou dány ve tvaru:
+x : y : z = A, t* + 2 A, t + A, : B, t2 + 2 B, t + B, : C0 t2 -f 2 C, t -f C,, * :^/ : z — a0 r2 -f 2 ^ r -f aa : L0 r2 -j-........: c0 r2 -f........
+a mysleme si čáru lomenou té vlastnosti, že vrcholy její leží na K a jednotlivé přímky její jsou tečny kuželosečky k. Hledejme podmínku, kterou jsou spjaty parametry dvou sousedních vrcholů čáry polygonální.
+Přímka procházející body (;FO, jj>0, z0\ (x^ y^, s^) protínáš v bodech daných rovnicí
+^0 >      O'    ^0
+Aby přímka byla tečnou kuželosečky k, musí diskriminant této rovnice roven býti nulle. Dosadíme-li za x0 :y^ : z0 — AQ í0 2 + ...: B010 2 + ...: C0 Í0 2 + ... a obdobně za x^\y^\ z± do tohoto diskriminantu, dostaneme podmínku, která váže parametry ^0, ^ dvou sousedních bodů čáry lomené. Obdržíme ji, krátíme-li (/0—/J2, po snadné redukci ve tvaru:
+(1) kde
+C& + 'i)2 + 2r
+^ =    [(01,0) (02,2) + (02,0) (01,2) - 2 (01,1) (02,1)] L7=     (02,0) (02,2) —(02,1)2 C =2 [(01,0) (12,2) -f (12,0) (01,2; - 2 (01,1) (12,1)]
+*) Klademe-li totiž v
+^ = s, /3 +     g* V + -- i-3 & / +
+dostanerre tp«, je-li « liché, 2 (/;* :/', je-li « sudé.
+lA.-_Lft.)
+TI ﻿D -     (02,0) (12,2) + (12,0) (02,2) — 2 (02,1) (12,1)
+při čemž
+či
+Tato podmínka jest symmetrická vzhledem ku Í0 a řt a jest tudíž levá její strana druhou polárou formy bikvadratické zvětšenou o součin invariantu a identického kovariantu. Zavedeme-li v proměnných označení homogenní, jest forma bikvadratická :
+
+a zmíněný součin: (3)
+— O (4% —'
+= ••• (*%)
+Podmínku (1), označíme-li ještě druhou poláru dle ustáleného zvyku, napíšeme tedy krátce
+'* = 01
+Abychom vypočetli vztah mezi /0 a 4, parametrem to «-tého vrcholu čáry lomené, vycházíme-li od (x0, jj/0, 5-0), stačí provésti eliminaci mezi řetězem rovnic (1), obsahujících po řadě parametry *) :
+Při této eliminaci vyskytnouti se mohou jenom invarianty a kovarianiy bikvadratické formy (2), invariant r0 a identické kovarianty. Vztah mezi /0 a /„ jest pro obě proměnné druhého stupně a symmetrický a má tudíž tvar:
+(4)
+«AVÍ+ 6x„//,2X+*« Oo««)2 = 0,
+/4 -(-......a A„, x„, r„
+kde Hf jest hessien výrazu (2) : Hf = (/0 />2 — jsou funkce invariantu r0 a invariantů
+3 =AA A
+A3
+*) Současně s homogenním označením parametru  užito též nehomogenního,  zejména v textu.
+II.                                              l* ﻿Výrazy A„, x„, r„ předpokládáme jakožto celistvé funkce těchto invariantů bez společné míry. Tím jsou ony výrazy až na numerický činitel, který teprv později ustanovíme, určeny.
+Parametr ílt, určený rovnicí (4), po případě bod ku t„ příslušný budeme, abychom krátce se vyjadřovali, nazývati «-tým krokem (pokračováním) z řQ resp. z bodu f^.
+II.
+V úvaze následující vynikne zvláště důležitost bodů, které jsou průseky obou kuželoseček a pak bodů, které přísluší společným tečnám obou kuželoseček.
+Vycházíme-li od průseku jakožto počátečního bodu /0, pak splývají oba body ^, oba body t2 atd. Plyne to okamžitě, máme-li na zřeteli geometrický význam bodů /0, /j, /2,...... Avšak i nehledě k tomuto geometrickému významu, přijdeme k témuž výsledku přímo; stačí jenom definovati počátečný bod t0 tak, aby oba kořeny tl rovnice (!') splývaly, pak mají i rovnice pro /2, pro /3 . . . . oba kořeny stejné, jak z podstaty jich ihned plyne. Rovnici, která určuje průseky obou kuželoseček, dostaneme, položíme-li diskriminant rovnice (!') vzhledem ku ^ roven nulle. Jc^t to rovnice:
+(5)                                       r /4 (/ ) ~h H^ (t ) — 0.
+Vycházíme-li z bodu společných tečen jakožto z počátku /0, pak jeden z bodů t{ splývá s /0, jeden z bodů Í2 splývá s tí (od /0 rozdílným) atd. Body společných tečen na kuželosečce K určuje rovnice, kterou dostaneme z (l'), položíme-li ^ =: t0
+(6)                                                 /4(/o) = 0.
+Vycházíme-li od bodu /0, daného touto rovnicí, jsou oba kořeny pro w-té pokračování od sebe o jeden krok vzdáleny a tudíž vázány rovnicí (1).
+Aby bylo lze vepsati kuželosečce K a opsati k 2 w-úhelník, jest nutno, jak ihned patrno, aby oba kořeny rovnice pro //-ta pokračování byly stejný, totiž aby diskriminant rovnice (4) vzhledem ku t„ byl rovný nulle. Tento diskriminant jest pro /0 čtvrtého stupně a jest:
+„ x„ 72 + 9 ni
+rn
+3
+6 *„
+Jsou čtyři hodnoty pro /0, o nichž víme, že jich n-tá pokračování splývají a které tudíž tento diskriminant učiní rovným nulle; jsou jsou to ony, které odpovídají průsekům obou kuželoseček a které jsou dány rovnicí (5). Jest tudíž identicky
+II. ﻿(7)                 A„ x« 72 4- 9 xj 73 -f r„ A„ = r0 (A* — 3 xj -f 6 x„ r„)
+a diskriminant jest možno psáti ve tvaru:
+(Jí— 3 Já /, + 6 x, r,) [r/4(/0) -j- #4 fo)].
+První činitel nezávisí na /0; jestliže rovný jest nulle, jest tehdy a jenom tehdy možný 2«-úhelní k Ponceletův. Poznáme později, že onen činitel jest úplný čtverec a zavedeme z té příčiny již nyní toto označení:
+(8)
+l S2 n — l* — 3 xl 72 -f- 6 x„ T„,
+při   čemž   zároveň   příhodně   pro   pozdější   vyšetřování   volen   číselný   součinitel.
+Podobné okolnosti nastanou při lichém indexu. Aby oba kořeny rovnice pro n-té pokračování /„  a /„ byly spjaty rovnicí
+jest nutno, aby
+f?'nfi»n -H r0  (/«  U„ — í„  Zť,')2 = O,
+(9)
+-j- 4 A„ r„ — 24 x„
+= 0.
+Jsou čtyři hodnoty t0, které dané podmínce zadost činí a které předem lze udati ; jsou to ony hodnoty, které odpovídají bodům společných tečen a které jsou dány rovnicí (6). Musí tudíž součinitel H* (/„) v (9) býti identicky rovný nulle, vztah však tak mezi A„, x„, r„ docílený shoduje se se vztahem (7). A lze tudíž rovnici (9) psáti jakožto součin /4 (V0) a výrazu na /0 nezávislého. Jestliže tento výraz na /0 nezávislý jest rovný nulle, j e s t m o ž n ý b u ď (2 n -}- 1)- anebo (2 n — 1) -úhelník Ponceletův a naopak. Později seznáme, že výraz onen se dá rozložiti ve výrazy dva, z nichž jeden vztahuje se ku (2 n — l)-úhelníku, druhý ku (2 n -}- l)-úhelníku a se zřetelem k tomu, volíce zároveň příhodně numerický součinitel, zavedeme toto označení :
+(10)
+— 4 A„ T„ r0 -(- 2 x„ r„ 72 -f- r„. III.
+Abychom   odvodili vztahy  mezi A, x, r různých indexů,   eliminujeme z rovnic
+II. ﻿
+l* /i fí + 6 x„ Hi Hít + ^ (/0 «2 - /2 «0)2 = O
+(11)
+a dostaneme tak vztah mezi /0 a iít kdež /j bude, jak patrno, buď (m-\-p} nebo (*#—/>)-tým krokem z /„. Resultant ten jest:
+(12) kde
+13)
+«, n ----- (A-m X« ~j~ A„ Km) 1% —)— l o Xw X,2  /3 —j— Tm A.H —f— tT„ AK
+Resultant (12) jest rovný součinu:
+(14)
+-f- 6 xw _„ Hti< Htl -f- r„
+7"" 7""2     7"" T-2        l
+«(V<1-
+při čemž C jest činitel, o kterém dosud nevíme, není-li též na r0, 72, /3 závislý. Srovnáme-li oba výrazy, dostaneme 6 vztahů mezi výrazy A, x, r o indexech w, «, m — n, m~\~n a mezi C. Pro výpočet těchto vztahů jsou potřebný identity :
+(15)
+(flflY = (/L) C/í) - ^""
+(ffiffŽ)'=(ffŮ(HŮ-
+tflfl • Hl Hl = (//I //'
+Z/Z (/o ""i)2 ~ 73 Co
+Formule tyto, jakož i resultant (12) snadno odvodíme, předpoklá-dáme-li pro ff kanonický tvar a0 t^ -\- 6 a2 t2 u2 -|- ^4 ^4> při čemž u formulí (15) tři členy, při resultantu (12) toliko dva členy ve příslušných výrazech v počet vzíti třeba. Ostatně z formulí (15) toliko první počítat1 nutno ; ostatní plynou z prvé pomocí Aronholdova processu.
+Zmíněné vztahy mezi A, x, r a C jsou, máme-li na zřeteli identitu (7), kterou v označení tu zavedeném lze psáti
+(7')
+, m ----  70  tfm,
+a pozměníme-li poněkud tři poslední pomocí prvých tří, tyto :
+(16 a)
+(16 b]
+16 t)
+tn <?m,n   ~  <?m, m qn,
+W, „ — ^, », í«, „ — C . 36
+2 = C Aw _|_ „ Aw _ „
+n ^    =^   C . 3    ^M
+II ﻿(1600     —
+(16 e)     —
+(l /2 r0 -f 73) -(- 2 (4 r0 2 -— L 72) + 2
+— C . (A,,, _j_ „ Tm — „ — J— Aw _
+Obzvláštní důležitost mají pro nás prvé tři rovnice. Tyto plynou ostatně ze srovnání výrazů (12) a (14) bez pomoci identit (15), stačí jenom v obou výrazech psáti ^ UQ — /0 u^ = 0.
+IV.
+Rovnic (16) nejprve využitkujeme v tom případě, že « ~ l, při čemž ovšem Aj =: l, xx =0, rt — r0. Dokážeme tu, že levé strany rovnic (16) nemají společné míry, jsou-li Aw, xw, rm bez společného dělitele, jakož předpokládáme. Lze tudíž v tomto případě klásti ČT=:1.
+Jednoduchý dělitel společné míry levých stran, t. j. takový dělitel, který v jednodušší rozložiti se nedá, dělí především výraz pm> i — r^qm,\, jak poznáme, sečteme-li prvé tři rovnice, násobivše je dříve l, —2 r0, r02. Ten výraz jest jinak psán
+(ní)
+xm (72 - 6 r„2) -j-
+Zároveň dělí společná míra levou stranu rovnice (16 f), jež jest v tomto případě : (»)                         12 *m [2 lm r0 + *m (3 r02 + /2) — 2 rm}.
+Jest dvojí možno: buď dělí jednoduchý dělitel společné míry levých stran xw, nebo nedělí. Vezměme v úvahu nejprve ty dělitele, které jsou obsaženy v xw; pak, poněvadž jsou obsaženy též v (*#), dělí též výraz A-m r0 — *m a musí děliti též výrazy, které vzniknou z levých stran rovnic (I6d,e,f), píšeme-li v nich xm = O, T,„ — A,„ r0. Dostaneme tak výrazy, jichž jedním činitelem jest &*. Činitel tento společnou mírou xm a Km r0 — Tm není dělitelen ; neboť pak by měly Aw, x^, rw společnou míru. Druzí činitelové jsou:
+4(V-/3)> -4(3r02-/2), (^0^_4r0/34-i/22).
+Výrazy tyto však společné míry nemají, a nejsou tudíž levé strany rovnic (16) dělitelný dělitelem výrazu xw. Jestliže však dělitel společné míry levých stran nedělí x„ř, dělí druhý činitel ve výrazu (n) a mimo to výraz (m\ t. j. dělí, jak jednoduchou kombinací těchto dvou výrazů seznáme, oba výrazy : >                            / — 3 r2 A„ r 3 v.m r* — rm.
+II. ﻿Dosadíme-li v identitě (7) 72 — 3 r0 2, rm =: Km r0 -f- 3 xm r0 2, dostaneme výraz, který jest dělitelný společnou mírou výrazů (/»), poněvadž jsme zmíněným dosazením k nulle připočetli členy onou společnou mírou dělitelné. Dostaneme však
+"" Xm (/o         -/s)-
+Jelikož však 72 — 3 r02 a r03 — /3 společné míry nemají, nemají i levé strany rovnic (16) společné míry, jež by nedělila x,„.
+Nemají tudíž vůbec levé strany rovnic pro n = l společné míry a můžeme tedy, když n — l, položiti za C nějaké číslo. Zvolíme C = l a, abychom /l,„, x„M rwí /úplná určili, zavedeme ještě A0 = O, x0 ~ O, TO — 1.
+Za těchto supposic stanoví rovnice (16) pro n = l postupně AM/, x,„, rm pro všechna ;« zúplna a jakožto výrazy nemající společné míry.
+Budiž váha výrazu rm v invariantech r0, 72, 73*) [m], paR jest dle rovnice (16/) pro n~—\
+[m — l] =2-f- 2 M. Jelikož pak [0] — O, [1] =: l, plyne snadno:
+[m] — m2.
+Budiž dále am koefficient členu r™    v   r,„,   pak   rovněž   dle   rovnice (16/) jest
+um + i ccm _ ! zz: am .
+Jest však a0 — l,  ^ n: l, pročež i K„, =z 1.
+Mějž nyní n jakoukoli hodnotu od l rozdílnou a budiž váha výrazu C v tomto případě y. Pak jest dle rovnice (16/) :
+2 [m] -f- 2 [«] = [;«  -f- «]
+«] -f y
+a tudíž dle výsledku hořejšího y = 0. Tak i v tomto obecném případě jest v rovnicích (16) C nezávisle na r0, 72, 73 a jak snadno se přesvědčíme, rovno 1.
+Jako u rm jsme vypočetli pomocí rovnice (16/"") koefficient m2-té mocniny r0, můžeme z rovnice (16 «T) vypočísti podobně koefficient nejvyšší mocniny r0 v A,„ a ku stejnému účelu při xm užíti identity (7) Koef-ficienty tyto nám budou užitečný. Dostaneme snadno
+(17)
+6 v.m --.-. — m2 (m2 — 1) r0w/í
+*) Při tom se samozřejmě bere váha r„ za l, váha 72 za 2, váha ^ za 3.
+II. ﻿v.
+V odstavci tomto použijeme rovnic (16), abychom v přehledném tvaru odvodili výrazy pro /l,„, xm, rm. K tomu účelu však bude třeba dříve dokázati, že značí-li S,„ — O podmínku vyjádřenou celistvě pomocí r0, /2, 73, že jest možný «/-úhelník Ponceletův, Sm a S,„ + 2 nemají společné míry. Neboť mají-li společnou míru a položíme-li ji rovi ou nulle, zavedeme tak jediný vztah mezi r0, 72, /3 a současně bude S,„ =0, $„,+?, := 0. Poněvadž S„, —: O, jest rovnice pro mté pokračování*):
+(3)
+T,„ současně s A,„ a x,„ nullou býti nemůže, pro všechny hodnoty rQ, 72, 73, které  ,S,„ rovným nulle činí, neboť pak by měly km, xm, T„, společnou míru. Rovnici pro (m -\- 2) pokračování dostaneme, když z (q] a
+6 x
+= O
+dimimijeme /„,. Tato eliminace, nehledíme-li k činiteli od nully rozdílnému, dává za výsledek
+a má nám dáti, poněvadž A>',„_|_2 — O : r (í0 — imjr2)'2 — 0. Musí tudíž současně A2 ~ O, x2 = O, čemuž však jednou podmínkou mezi invarianty r0, 72) 73 vyhověti nelze, jelikož
+A2 == 4 (r03 - /,)       6 x2 = 4 (72 - 3 ;-02)
+a nemají, jak patrno, A2 a x2 a tudíž ani Sf>! a Sm + 2 společné míry. Z rovnic (16 d,é) pro m=.n dostaneme tyto vztahy:
+•\     __   /Q                  27                /         ""\
+6 x2)„ rr (2 ;-,„,,„ — 4 rfí ' g„,,m -f ^ /2 ^«,,„) ^,,„'.
+/>
+Ježto však dle označení daného v (8) 2qmj„, zn ^«  a podobně dle (10) závorka ve výrazu pro 6x2,„ jest —2 .S2,„_i 52w_f-i, jest
+*) Jelikož S„, — O, má l„,ff ff + 6 v.m H]   fif -f- TW(/„, — /0)2 — O, kořen tm = Í0;
+t. j. A»J// -\-bv.„,H* jest rovno pro jakékoli t0 nulle následkem jediného vztahu mezi invarianty. A»/a ^»ř současně s Sm se tudíž rovnají nulle, nebo jinak: 1M a •//« mají společnou míru, která jest dělitelná Sm
+U. ﻿10
+(4 rQ 3 — /2 ťQ — /g)
+>2 m
+(18)      6X2 m —
+- ^2 w— l   »$2»«-f-l
+Vztah poslední lze vypočísti pomocí prvých dvou z identity (7).
+Výsledky podobné obdržíme pro A2w_i, X2w-i, r2w_i. V rovnicích (16 ď, L, c) učiníme n ~ m — 1. Tak dostaneme :
+(19 a)
+(190}
+(19 c)
+2                                                          9
+Výrazy 2^WiW=52w a 2^w_i, w~i = 52w-2 nemají společné míry, a z té příčiny dle posledního vztahu jest každý z nich úplným čtvercem, jak jsrne již označením předpokládali, a můžeme klásti, volíce znaménko
+m — 2
+Výraz pro 3x2w/_i lze následkem (19 č) psáti qm,m — \ (pm,m — \ — — rb?W|M-i). Součin (pm,m-i — r0 g„íM-i) (pm>m + i — *o L«,»» + O můžeme vyjádřiti pomocí (16j, když n = l, jakožto racionálnou celistvou funkci Aw, xm, rm. Srovnajíce ji s (10), dostaneme snadno, ovšem výpočtem trochu dlouhým :
+(pm,m-\ - rQ qm>m-i) (pmtm+\ — 1» #»*,*• + 1) =• (Sím — l Stm+l)*-
+pm,m-\ — rogm,tn — i obsahuje jenom takové činitele, jež se nulle rovnají-jenom tenkráte, když jest možný (2 m — l)-úhelník Ponceletův,*) druhý činitel má obdobný význam pro (2 m 4- l)-úhelník. Nemají tudíž oba činitelové společné míry a jest každý z nich úplným čtvercem. Naproti tornu vysvítá z identity nahoře napsané; že S2m — \ 52,«+i dá se rozložiti ve dva činitele, z nichž jeden vztahuje se ku (2 m — 1), druhý ku (2 m -f- ^-úhelníku Ponceletovu, což v označení předpokládáno. Můžeme tudíž položiti aniž bychom s dosavadním označením byli v jakémkoli odporu :
+(20)
+fm, m —l ---- ^o
+*) Neboť(19 a) a (19 V) následkem (19 č) lze psáti A2m- \ — (pm,m — i + r0gm>m — \,
+(pm,m — l — rotpm,m—l)  E  3 V-Zm — l rr qm, m — l (pm, m— l — roqm,m — \).    Jestliže pm, m — l
+— r0 fm,m — 1 = O, jest i 1.2m — i i v-im — i rovno nulle, a současně t2m — \ ^- O, neboť tem —i, K2w—i, T2>« —i společné míry nemají; a tudíž jestliže/;,/, OT —i — r0gm, m — i := O, jest možný (2m — l)-úhelník Ponceletův.
+II ﻿11
+Pomocí těchto výsledků lze psáti
+i
+(21)       6 X^m — l —    -
+2 m — 2 ~\~ O2 m — l) — • <SŠM - l
+- 1 — | (4 rn3 — 72 r0 — 73)
+— 2
+<$2m — l
+m — \.
+Z (8) a (20) plyne, že váha 5W v invariantech jest
+m2 —l
+, jestliže
+— m liché  a - — - — ,   jestliže m sudé;   koefficient  pak nejvyšší mocniny rQ
+vypočteme snadno ze vztahu S2m= 2qm>m a ze (20). Volíme-li jej, jak doposud naše označení připouštějí, kladně, dostaneme, že ve výrazu S„, jest rovný m.
+Z (18) a (21) jest rovněž patrno, že Sm a Sm—i nemají společné míry, neboť jinak měly by A, x, T společnou míru. Ze stejného důvodu není Sm, kde m liché, dělitelno výrazem 4 rQ3 — r0 T2 — 73. Pro tento výraz, který častěji se vyskytne, zavedeme označení
+VI.
+V odstavci předcházejícím vyjádřili jsme koefficienty A, x, T pomocí výrazů Sm. Teď bude nám třeba udati, jak lze tyto výrazy pomocí r0, 72, 73 vypočítati. Výpočet provedeme vycházejíce ze vztahů (16 a, b, c). Pravé
+strany těchto vztahů mají, jak okamžitě patrno, společnou míru
+M Sm — „.
+Nehledíme-li k této společné míře, jsou pravé strany, jestliže ku př. min liché, po řadě rovny:
+A — rnL      r0* C
+kde
+A   _ L1  -
+-D  -
+2          Q. 2
+m -f- » o»z — «
+-  O/« -f- « -j- l
+— H -(- l t -\- n — l
+C
+n — l  ~J~ 0>ř« — ;/ O»j -f- n -f- l   -J> « + l  -J)H — ;/ — l .
+Společná míra výrazů (/-) jest, jak zřejmo, společnou mírou výrazů A, B, C. Jest tedy jednoduchý dělitel společné míry buď dělitelem Sm + „ nebo Sm — „. Dejme tomu ku př., že délí Sm+„. Poněvadž pak takovým dělitelem Sm + H + i i -S»» + w-i nemůže býti dělitelno dle poznámky na konci předcházejícího odstavce, a výraz B jest jím dělitelný, musí býti jím děli-
+li. ﻿12
+telno též Sw_„. Avšak výraz, který dělí i Sm + „ i 5W_„, nemůže děliti C. Jest tudíž Sm + n Sm-n největší společná míra pravých stran rovnic (16 a, b, c). Levé strany těchto rovnic, píšeme-li je jakožto funkce Aw, xm, rm> A«, M,I, tn*) lze snadno uvésti ve tvar homogenní kvadratické funkce determinantů
+f-m MU         »« Mm ,   Xw T„         ítfi T„,,   Aw TM/         f.m Tn .
+Společná míra těchto determinantů, když m i n liché, jest, jak snadno se přesvědčíme pomocí výrazů odstavce předcházejícího:
+""Jtf
+Čtverec této společné míry musí býti obsažen v SM+„Sm—M a tudíž (s] musí děliti Sm + „ S„, - „. Podíl však obou výrazů, poněvadž jich váha v invariantech rQ, /2, 73 jest stejná, jest konstanta. Konstantu tuto můžeme ustanoviti pomocí koefficientů nejvyšší mocniny rQ na obou stranách a dostaneme, že jest rovna jedné. A tak máme vztah:
+(22)
+-S,„-i S„ — •
+, u obě lichá.
+Stejným způsobem lze projednati zbývající případy: m i n sudé; m liché, n sudé; m sudé, n liché. Třeba jen míti na paměti, co jsme na konci odst. V. vytkli, že totiž S2*-fi není dělitelné R. Dostaneme tak rovnici (22) pro ten případ, že m i n sudé, a pak vztahy
+(22')       Sm + n Sm _« = Sm + 1 S„ _ i Sn — R S„ -f i SH -1 S*M     w sudé, « liché (22"")      5w+„ X-« = R Sm +1 ^« - i ^«2 — ^« + 1 S„-i S%    m liché, n sudé.
+Z těchto vzorců (22) a (22') dostaneme, učiníme-li n~m—l, po případě n — m — 2:
+(23)
+— R 02 i/t O2m-j-3 - O2ff
+== o  Om (o ,« — i   o
+4- 2
+Srovnáním nejvyšších mocnin r0 na obou stranách ukázalo se totiž, že třeba položiti Sí == l, S% =: 2, jak ostatně plyne, srovnáme-li Alt x11 Tt a A2, x2, T2 s výrazy obecnými (18, 21). Vzorce (23) jsou pohodlné pro výpočet postupný výrazů Sk- Avšak jest třeba znáti S3, S4, které lze vy-počíst tím, že pomocí (16) vypočteme 5C2, x3; jest pak snadno:
+*) Při tom třeba psáti tyto levé strany v jich původním tvaru, totiž:
+AI, n —Pm, m A/, „ ' A», «   9tn, « ~~ ''  (Pm, >n 7"", « + l/w, ,„ /„, „ ^ ?,„, „ ~ !?,«,
+II. ﻿13
+VII.
+Dříve než přistoupím ku vyšetření důležitého zvláštního případu a ku důsledkům geometrickým, udám vztah, který mají invarianty r0, /2, 73 ku invariantům obyčejně v theorii kuželoseček užívaným.
+Tyto invarianty při kuželosečkách
+K= a x* -\- by2 -j- c z2 -\- ""2 fy s -f 2 g x z + 2 h xy = O, L = «' *2 4- L>2 -f c z -f- . . . = O
+jsou diskriminanty
+a invarianty
+— bg^ — ch*, 4' = a' b' c' + . . .
+dá              o0              ? c              of                            ca
+Vyjádříme-li pomocí těchto invariantů r0, 72, /3, dostaneme snadno*)
+/o   =-7
+(24)
+22.3
+- 9 0' ^' (9 -f 27
+Při těchto invariantech r0, /2, /3, /? můžeme činitele ^/, z/2, z/3, z/3 vynechati, jelikož nemají vlivu na výslední výrazy. Abychom se vyhnuli zlomkům, znásobíme je po řade 22, 24, 26, 26. Pak lze vysloviti tuto větu:
+Sm =0 značí podmínku, že jest možný w-úhelníkPonce-letův, položí m e-li
+8
+i = l, S2 = 2, S3 — 4 J' & — ®'2, 64 = 4 (®'3 — 4 ®' z/'
+*) Při výpočtu použijeme s výhodou  pro  obě kuželosečky  rovnic  kanonického tvaru: ays-\-bxz-\-cxy — Q.
+II. ﻿(25)
+14
+a ostatní Sm vypočteme pomocí formulí:
+~\~ ^
+•« 2                      L-»               L 2        \
+m—l — Om —2 -Jm + lJ-
+Pro původně   řešený  úkol,   kde kuželosečky jsou kruhy, jichž polo měry jsou R a r a středná c jest
+Mohli bychom pomocí formulí (22) ještě jiné odvoditi, zejména takové, které by zjednodušovaly počet pro S„, když «— /.g, když p i q jsou větší než 2, avšak to jsou již podřízené věci, kterými se nechci obírati.
+Vlil.
+Jest poučno zmíniti se o speciálném případu polohy dvou kuželoseček, ve kterém se úkol náš značně zjednoduší. Tento případ nastane, když se kuželosečky dotýkají a jako obecný případ souvisí s funkcemi elliptickými, souvisí tento zvláštní s funkcemi jednoperiodickými. Lze jej takto řešiti: Jestliže obě kuželosečky se dotýkají, tu jest diskriminant rovnice (6) a tedy i (5) rovný nulle, což jest vyjádřeno rovnicí
+(t)                                         7 3 — 27 / 2 rz 0.
+Avšak dotýkají-li se kuželosečky ještě v jednom bodě (tedy celkem ve dvou bodech), musí býti splněna opět podmínka právě napsaná a ještě jedna mezi koefficienty formy /i4, avšak žádná nová mezi invarianty. Podmínky však pro polygony Ponceletovy jsou podmínky mezi invarianty. Z toho plyne, že chceme-li odvoditi podmínky pro mnohoúhelník Ponce-letův, když se kuželosečky dotýkají v jednom bodě, můžeme předpokládati, že se dotýkají ve dvou bodech. Za této supposice zredukuje se forma ft* na čtverec kvadratické formy, t. je lze psáti
+= (qQ t
+tu
+a poněvadž kvadratická forma nemá žádných kovariantů mimo sebe a žádných invariantů mimo diskriminant d = qQ qz — qt 2, musí Hessien výrazu (u) býti rovný součinu ď, // a numerického činitele. Snadno shledáme, že
+II. ﻿15
+a rovněž
+flfl + r, (io u,Y^ (& ffl )
+Položíme  pro jednoduchost  rQ -j- -j ó = — ^2,  lze  tudíž   rovnici   (!') rozložiti ve dvě
+!*,**+*(* — O = 0 /fc/ik — * (4 — 4) = O
+Chceme-li  vypočísti  rovnici   /z-tého   pokračování,  užijeme  #-kráte po sobě jedné z těchto rovnic, neboť eliminuj eme-li /t  z rovnic
+/„ — /t) = O, ^, ^ — h & — fj = O
+dostaneme :
+a tudíž obě operace (z/) po sobě užité se ruší a odpovídá z nich každá určitému směru na mnohoúhelníku Ponceletově. Jelikož, jak jsme již vytkli g-'* kovariantů nemá, jest rovnice pro m-té pokračování tvaru
+Eliminace parametru tm mezi touto rovnicí a mezi
+» (^'"" —/• + •) = O
+,„ -f n
+dává rovnici (w -f- «)-tého pokračování.   Jak  zcela snadným výpočtem seznáme, jest:
+**8I -|- >t — *»»   * H ""i    ^n   •* m
+•l m -\- n —  J- m  -l n    \~ ^    -""M •""!» j
+kde položeno pro zjednodušení ď =: — z2, při čemž však třeba znamenati, že L,n a  Tm jsou celistvé funkce z2 a k.   Z posledních dvou identit plyne
+(/Zm + „ -f Jm + „) —(iLIH -f 7m) (z Z(1 -j- r„) a tudíž, užíváme-li první z rovnic (v):
+i Lm-\-rm- (i + iir
+a jestliže  srovnáme   členy   obsahující  liché   mocniny  i  na   obou   sranách a dosadíme opět zž =r — ď:
+(26)
+L „ — ///, /z'"" ' a — ;//8 hm ~3 ď -f w5 /z'""-5 II. ﻿16
+čímž tvar podmínky pro »z-úhelník Ponceletův nalezen pro ten případ, že kuželosečky se dotýkají. Aby výraz (26) byl v invariantech racionálny, jest třeba, když m sudé, odloučiti činitel h.
+Pomocí formulí platných pro obecný případ dospěli bychom k témuž výrazu, opatřenému však činitelem geometricky bezvýznamným. Avšak z jiného ohledu máme zájem na tom, znáti výrazy, na které se redukuje 5m, když vyplněn jest vztah (/). Učiníme-li v S,n
+7   ^d    / = <*8  r = — **-ů
+obdržíme (nehledíme-li ku znaménku)
+pro m liché  Sm — (mv hm~~l — w3 /itn~:
+(27)
+O
+m(n,-2)
+pro m sudé S,n
++
+) (h2 -f ď)
+Výrazy tyto mohou býti užitečný při vyšetřování vlastností S„, ve všeobecném případě. Tak plyne z nich ku př., použijeme-li současně (22): Sfg jest dělitelno prvou a jenom prvou mocninou Sj,.
+IX.
+Jest snadno z vývočtů provedených učiniti geometrické důsledky. Nejprve ty, které se týkají bodů, jež o několik kroků jsou vzdáleny od průseků obou kuželoseček, resp. od bodů společných tečen. Bod, jenž jest o m kroků vzdálen od průseku, má patrně tu vlastnost, že jedno jeho 2 m-té pokračování s ním splývá a jest tudíž parametr takového bodu dán rovnicí
+Jsou čtyři body, které této rovnici vyhovují, leda že by společná míra fam a x2m byla rovna nulle, ve kterémžto případě by tato rovnice pro každou hodnotu ř0 byla splněna, což odpovídá okolnosti, kterou nemáme nyní na zřeteli, že totiž jest možný 2 ^-úhelník Ponceletův. Krátíme-li tudíž dosazujíce za /L2m a x2^( společnou mírou, dostaneme
+( -
+2 m — l
+m + l
+— 0.
+Tato rovnice určuje body o m kroků vzdálené od průseků v případě obecném a není příčiny, proč by pozbývala platnosti, když Sim = 0. Po-ložíme-li v ní $2 m + 1 = O,*) plyne ihned: Je- li možný (2 m -j- l)-úhelník
+*) Totéž platí, jestliže -Sfem — i — 0. Tudíž i když se dá vepsati (2 m — l)-úhelník jsou dotyčné body o m kroků vzdáleny. Avšak jest patrno, že tu, vycházíme-li z průseku (m — l)-vý a #ř-tý krok splývají, tak že ony body vlastně o (m — 1) kroků jsou vzdáleny od sebe.
+II. ﻿17
+Ponceletův u kuželoseček K a /L, jest m -ty krok od průseku jich bodem společných tečen ti a K. A podobně klademe-li S2 m = O , Je-li možný 2 m -úhelní k Ponceletův u kuželoseček K a k, jest m- ty krok od průseku zase průsek.
+Rovnici m-tého kroku od bodu společných tečen na K dostaneme podobně požadavkem, aby (2 m -)- l)-tý krok splýval s bodem počátečným. Dostaneme podobně jeko svrchu rovnici:
+( -- ?o S2 m S> m -f 2
+„, -f i
+S2
+== O
+a příslušnou větu, jestliže S2m +2*) = 0: Je-li možný (2m-\- 2) - úhel nik Ponceletův u kuželoseček K a k, jest m -ty krok od bodu společných tečen na K, opět bod společných tečen na K.
+Jak známo, tvoří průseky kuželoseček čtyrroh, jehožto diagonálně rohy jsou vrcholy kuželosečkám společného polárného trojúhelníka Stejný čtyrroh tvoří také body společných tečen na K. Takovýchto čtyrrohů jest na kuželosečce K jedenkráte nekonečné množství. Jest snadno napsati rovnici, která určuje rohy jednoho takového čtyrrohů. Tato rovnice jest čtvrtého stupně pro t a obsahuje jeden neurčitý parametr, kterýžto však se vyskytne lineárně, neboť jestliže jeden roh čtyrrohů zvolíme si libovolně, ostatní jednoznačně jsou určeny. Známe však rovnice dvou takových čtyrrohů zvláštních, totiž rovnici průseků a rovnici pro body společných tečen na K. Všeobecná rovnice pro libovolný čtyrroh žádané vlastnosti, bude tudíž lineárná kombinace oněch dvou rovnic a tedy tvaru:
+A /,* -f 6 x He* = O,
+kde A a x libovolná čísla. Tvoří tudíž body, jež o m kroků jsou vzdáleny od průseků anebo od bodů společných tečen na K čtyrrohy, jichž diagonálně rohy splývají s vrcholy společného polárného trojúhelníka.
+X.
+Dá se snadno ukázati, že zvolíme-li si kuželosečku K, tím mezi koefficienty rovnice (1) nezavedeme žádného vztahu a jsou tudíž ony koefficienty i potom ještě zcela libovolný. Neboť píšeme-li rovnici kuželosečky K ve tvaru: x : y : z — i~ : 2 t : l, na kterýžto tvar projektivnou transformací a lineárnou transformací parametru t rovnice každé kuželosečky (vlastní) dá se převést, jsou koefficienty rovnice (1):
+A — 4 (c., c(} — Lj 2), B ~ — C = 2 (r2 #0 -f c0 aa — 2
+D — —
+C = L2 bQ — aQ bz -f- 2 at b
+) Podobnou větu bychom obdrželi, kdyby .S2m — 0. Srv. pozn. předcházející.
+II                                                     2 ﻿18
+Tyto výrazy representují šest na sobě nezávislých invariantů tří dosud libovolných kvadratických forem, vyskytujících se v rovnici kuželosečky L, čímž naše tvrzení dokázáno.
+Opačně, jsou-li na pevné kuželosečce K parametry dvou bodů spjaty rovnicí
+(iti)
+kde A, L, . . . . libovolný, dotýká se spojnice f0 t± kuželosečky, která koef-ficienty A, B, . . . jest jednoznačně určena. Neboť těmito koefficienty jest jednoznačně určeno šest na sobě nezávislých současných invariantů tří kvadratických forem, vyskytujících se v její rovnici. Dva systémy pak tří kvadratických forem, jichž šest invariantů se vzájemně rovná, dají se, jak známo, na sebe lineárnou transformací proměnné převésti.
+Předpokládejme nyní dvě kuželosečky dány A"" a k. «-té pokračování z bodu tQ jest dáno rovnicí
+* fljl  + 6 *
+n (/0
+- O.
+Tato rovnice jest tvaru (w) a tudíž spojnice bodu a jeho /2-tého pokračování dotýkají se pevné kuželosečky kn. Avšak tato kuželosečka není vzhledem ku kuželosečkám K a. k libovolná a to tím spíše, an A„, x„, r„ jsou spjaty, jak jsme ukázali, rovnicí*):
+(7)
+„ *n — r() (Kn — 3 X„ /2 -j- ÓX,t r,,).
+Geometrický  význam   této   rovnice vyšetříme,   najdeme-li rovnici  pro parametry průseků K a ktí. Rovnice průseků kuželoseček K a k jest
+Rovnici průseků K a kn dostaneme, když v této právě napsané píšeme místo f* výraz A,,/,* -f- 6 x„ Hf a místo /// hessien tohoto výrazu, který jest :
+(A„ x, /2 -f 9 /3 x )y;4 -f (A: - 3 x /2) HČ
+a konečně T„  místo rtí. Dostaneme tak jakožto rovnici průseků
+(ln x„ 7a -f 9 x' /3 + A)( r„)/, a užijeme-li hořejšího vztahu (7) :
+'^ — 3 x* 72 -f 6 x„ rrt) ^4 = O
+*i Kdyby tato rovnice pro i,,, x„, T„ platná nebyla, byla by L,j kuželosečka, jež by měla s K (i s k) tentýž společný polárný trojúhelník, jako mají K a k. Neboť průseky kuželosečky K a stran tohoto polárného trojúhelníka společného K a k jsou určeny kovariantem šestého stupně v / formy ft forma pak A„ ft -\- 6 v.n fft má až na činitel od t nezávislý tentýž kovariant šestého stupně. Ostatně totéž plyne z druhé části předch. odst.
+II. ﻿— 3 *2„
+19
+6 x„
+,*) = O
+anebo též
+Není-li tudíž možný 2 //-úhelník Ponceletův, jsou průseky K a kn tytéž jako průseky K a L. Máme tudíž poučku : Není-li možný 2 w-úhelník Ponceletův, spojnice bodu na kuželosečce K s jeho #-tým pokračováním obaluje kuželosečku kn, která přísluší k témuž svazku j ako K a k. A dále: Jetliže jest možný w-úhelník Ponceletův
+u kuželoseček K a k, tu úhlopříčky w-úhelníků obalují E
+— l
+l   no-
+vých kuželoseček, příslušných ku témuž svazku jako K a k.
+Jest ještě vyšetřiti vlastnost spojnic bodu a jeho ;z-tého pokračování, když jest možný 2 w-úhelník Ponceletův. V tomto případě však obě «-tá pokračování splývají, rovnice pro toto «-té pokračování jest úplným čtvercem a jelikož jest v Í0 a /„ symetrickou má tvar
+(«*/. + /!& + 4) + 7)* = O.
+Spojnice bodů, jichž parametry jsou spjaty touto rovnicí, procházejí pevným bodem, jak snadno lze ukázat. Plyne to ostatně také z toho, že body, jichž parametry této rovnici vyhonují, tvoří involuci na K a. musí se tudíž i spojnice příslušných bodů v jednom bodě protínati. Jelikož však «-té pokračování průseků kuželoseček K a k jest zase jich průsek, tož spojnice dvou párů průseků musí oním pevným bodem také procházet. A máme tak poučku: Ve 2 « -úhelníku Ponceletové spojnice dvou protilehlých vrcholů protínají se v jednom bodě, kterýžto jest jedním z vrcholů společného polárného trojúhelníka.
+Vyšetřování, která jsme v odstavcích předcházejících provedli, připjali jsme k rovnicím odst. (I.), kde x,y, z značily souřadnice dodů kuželoseček. Stejných výsledků bychom došli, kdyby x, y, 2 značily souřadnice tečen. Pak by ovšem kuželosečky K, k zaměnily svoji roli. Plyne pak z té okolnosti, že věty, které jsme odvodili, a věty, které později odvodíme, platí dualisticky. Tak ku př. platí poučka: Průsek dvou přímek čáry polygo-nální: /0 ^ a/„ /,. _j_i (« libovolné) opisuje kuželosečku téže řady jako K a k. A podobně: Jestližejest možný 2«-úhelník Ponceletův u kuželoseček K a k, tu protilehlé strany jeho protínají se na přímce, která jest stranou polárného trojúhelníka K a. k společného a spojnice dotyčných bodů dvou protilehlých stran protínají se v jednom bodě, v témž bodě, ve kterém se protínají spojnice protilehlých vrcholů. Poučka tato jest ostatně důsledek poučky svrchu uvedené o 2 ^-úhelníku.
+II.
+2* ﻿20
+XI.
+Poučky odstavce předešlého lze zevšeobecniti.  Rovnice totiž A ftl fti-\-6x H/0 Ht, |- r (ř0 — - /,)2 = O,
+kde A, x, T jsou spjaty vztahem (7) i když jinak jsou zcela libovolný, určuje vztah mezi body řQ a ív na K tak, aby jich spojnice byla tečná ku jedné (libovolné) kuželosečce svazku (A"", k\ neboť v hořejším důkaze nic jiuého o A, x, T nežli vztah (7) nebylo předpokládáno. Eliminace však parametru t± z rovnic (*)                  A_/,' fL -l-.......— O, A' /,2 fl +.......= O,
+kde A, x, T a A', x', T' jsou spjaty vztahem (7), ale jinak úplně libovolný, vede ku rovnici čtvrtého stupně v každém parametru /0 a ^ a v nich sym-metrické, jež se dá vždy rozložiti a již lze tedy psáti
+Neboť íiby to možno bylo, jest nutno a stačí, aby splněno bylo šest
+rovnic tvaru (16), kde místo A,„, A„, A,„_j_„, A,„_„,..... psáti jest A, A',
+AI, A2.....Než aby ony rovnice pro 6 neznámých A1? A2.....nebyly
+v odporu a aby zároveň pro Ax, xl5 TI a pro A2, . . . . pláten byl vztah (7), k tomu jest potřebí, aby koefficienty v oněch rovnicích se vyskytující vyhověly jistým podmínkám, které by bylo možno algebraicky vypočítati.
+Tyto podmínky v rovnicích (16) splněny býti musí, neboť A,„ + (1.....;
+Am_„ . . . . z těch rovnic vypočítané jsou (až na libovolný činitel) koefficienty pro (m -j- w)-té resp. (111 — w)-té pokračování. Avšak mezi A,„, x,;,, r,„ a A,M x(í, T„, kde ;«, ^ libovolné, nemůže býti jiných vztahů na w a n nezávislých nežli (7); neboť pak by Aw, xm, rm a A„, x„., T,, byly v/tahy (7) a tímto jiným vztahem*} a to nezávisle na m a n stanoveny, což jest nemožno. Redukují se tedy ony podmínky pro A,„, x.„, r,„, A„, x„, rn v rovnicích (16) a tudíž také i v našem obecném případě pro Ax . . ., A/. . . na vztah (7).
+Plyne tudíž věta: Vedeme-li počínajíce v bode A na A"" čáru polygonální o ní stranách té vlastnosti, že vrcholy její jsou na K a strany dotýkají se kuželosečky svazku k^ z koncového pak bodu této čáry polygonální novou, však té vlastnosti, aby její strany dotýkaly se jiné kuželosečky svazkuj, až do C, jest spojnice AČ tečnou kuželosečky svazku nezávislé na poloze bodu A. Věta stejná platí patrně, přidáme-li k sobě
+*) Stačilo by tento nový vztah napsati ku př. pro ten případ,   že m — l   anebo, že « — 1.
+II. ﻿21
+libovolný   počet  polygonálných   čar,   různých   kuželoseček  svazku  se  dotýkajících.
+Ještě jednu poznámku velmi důležitou lze přičiniti k eliminaci z rovnic
+(x). AI, A2,.....jsou, jak z rovnic (16) patrno, symmetrické funkce obou
+systémů A, x, r; A', x', T', z čehož plyne, že stejný výsledek jako z (x) dostaneme také eliminací U z rovnic
+A tudíž jsou-li yJ, 7>, C, .... body na 7ť; klt &2, . . . . pak kuželosečky daného svazku, platí: Vedeme-li z A tečnu ku kl do B, z bodu 7? pak tečnu ku^2, přijdeme do C. Do téhož bodu C přijdeme vedeme-li z A něj prve tečnu ku k% do B' a z 7>' pak ku^.*) Anebo obecněji:
+Vedeme-li z yí tečnu ku kuželosečce kí do B, z L pak ku L2 do C, jest yJ L7 tečnou kuželosečky k3. Veďme pak dále z C ku L3 tečnu do Z),
+z Z> a t. d.....až w-týrn vedením tečny ku /L3, z ^4 počínaje, přijdeme
+do M. Do bodu M též dospějeme po čáře polygoální, počínající v A o 2 ;« stranách, jejíž vrcholy jsou na K a jejíž prvých m stran dotýká se el zbývajících ?;/2 stran /L2.
+XII.
+Věty v odstavcích předcházejících využitkujeme ku vyšetření vlastností tohoto úkolu: Jest dána kuželosečka pevná K daného svazku, určiti se mají všechny kuželosečky k svazku té vlastnosti, aby se dal ^-úhelník současně do K vepsati a k opsati. Rovnice kuželosečky svazku obsahuje lineárně jeden neurčený parametr, ku jehož stnanovení v našem problému máme vztah $,t = 0. V invariantech rQ, 72, /3 jest tento parametr ve stupni
+2,   4,   6   (srovn. odst.  VII.)   a   tudíž   ve výrazu Sn jest ve stupni -----=----
+«2—4
+jestliže ;/ jest liché,  a ve stupni
+, jest-li n sudé.
+Tím jsme určili počet kuželoseček, které dané úloze vyhovují; vyšetřujme podrobněji nejprve případ ten, že n jest prvočíslo (liché).**) Představme si pak jeden takový n úhelník Ponceletův AQ Aí A2......AH—\ A0
+tečný ku L\. Pak dle odstavce předcházejícího jsou čáry polygonální
+AQA,A2Í........Ani    i—2,3,4,
+*) Rod C jest v prvé i druhé části věty čtyrznačně určen. **) Výsledků podobných docílili bychom snadno, kdyby n byla mocnina prvočísla.
+n. ﻿kde v indexu místo p i třeba psáti číslo dle modulu n shodné a menší nežli w, rovněž ^-úhelníky, jež jsou K vepsány a kuželosečce svazku kt opsány. Známa-li tudíž kuželosečka jedna úkolu vyhovující, k^, známo jich
+hned celkem
+Á\,
+a jsou určeny všecky jednou pomocí vztahů racionálných. Dá se tak roz-
+ložiti
+l
+kuželoseček nn n-\-l  systémů takových po
+n— l
+kuželo-
+sečkách.
+Není však nutno, abychom problém rozřešili úplně, znáti po jedné kuželosečce z každého systému; stačí, abychom znali po jedné kuželosečce ze dvou systémů. Nechť jest totiž k kuželosečka jednoho systému a k' kuželosečka jiného z oněch n-\-\ systémů. Z libovolného bodu A na K veďme tečnu ku k do B, z B tečnu ku k' do C a sestrojme kuželosečku k"" daného svazku tečnou ku A C. Kuželosečka k"" jest jest kuželosečkou některého nového, z n -\~ l systémů. Neboť vedeme-li polygonální čáru tečnou ku k"" vycházejíce z A, přijdeme #-tým krokem dle odstavce předcházejícího tam, kam přijdeme, sestrojíme-li čáru polygonální o n stranách tečnou ku k, z koncového bodu této čáry pak novou čáru polygonální opět o n stranách tečnou ku k'. Vycházíme-li z A, dospějeme po prvé čáře do A, po druhé zase do A. A tudíž čára polygonální o n stranách tečná ku k"" a počínající v A končí v A, a jest tedy k"" kuželosečkou jednoho z n -j- l systémů. Patří však k, k', k"" každá ku jinému systému, neboť, kdyby dvě ku témuž náležely, náležela by k témuž i třetí.
+Poznamenati však třeba ku předcházejícímu, že kuželosečka k"" nebyla určena z k a k' jednoznačně, neboť jsou celkem dvě kuželosečky určeny, jak ihned patrno, uvážíme-li, že bod C jest čtyrznačně určen a že tudíž přímky A C jsou dva páry tečen ku dvěma různým kuželosečkám z bodu A. Známe-li tedy po jedné z kuželoseček ze dvou systémů můžeme pomocí druhých odmocnin stanoviti kuželosečky jiných systémů.
+Řešení rovnice Sn =r O dá se tedy rozložiti pomocí operací racionálných na řešení rovnice n-\-\ a n -j- l rovnic stupně —^—. Z těchto však
+n— l
+rovnic
+stupně jenom dvě řešiti třeba, použijeme-li druhých odmocnin.
+Mají pak tyto rovnice vlastnost, že všecky kořeny jich jsou racionálna funkce jednoho, a jsou tedy, jak známo, řešitelný pomocí odmocnin. Rovnice n ~\- l stupně má zase tu vlastnost, jak z předcházejícího patrno, že každý kořen pomocí druhých odmocnin lze vypočítati ze dvou.
+Vezměme v úvahu nyní případ, že n .— nv . n2, kde ní a n2 jsou vzájemná prvočísla každé větší nežli dvě. Buďtež pak /'t a L2 dvě kuželosečky a to takové, že prvé lze opsati n^ -úhelník, druhé «2-úhelník, jenž by
+II. ﻿23
+byl zároveň vepsán do A'. Vyjděme z libovolného bodu A na K a sestrojme tečnu z něho ku Lx do B. A Z?jest pak strana jednoho z Wj-úhelníků Ponceleto-vých. Z bodu /? veďme tečnu ku L2 do C. B C jest strana jednoho z «2-úhelníků Ponceletových. Přímka A C jest strana «x «ř-úhelníka Ponceletova. Sestro-jíme-li totiž kuželosečku svazku k tečnou ku A Ca vedeme-li tečné dále ku k z C do D, z D do E atd., tož n-tá tečna od A počínaje, končí v A. Neboť končí tam, kde čára polygonální o 2n^n2 stranách, jejížto prvé #t «2 strany jsou tečny kuželosečky k^, zbývající ;zt «2 strany tečné ku L2. Z toho plyne, že řešení úlohy, nalézti kuželosečku svazku k takovou, aby se dal .AT vepsati a k opsati ;z-úhelník, lze vždy převésti zcela jednoduše na ty případy, kdy n jest mocnina prvočísla.
+V předcházejícím vyjmut byl případ, kdy jedno z čísel nv a «2 jest jest rovno 2, tedy kdy n =r 2 n\ kde n' liché. Tento případ jest obzvlášť jednoduchý, máme-li na zřeteli poučku o průseku úhlopříček, spojujících dva protilehlé vrcholy ve 2 w-úhelníku svrchu uvedenou. Z této poučky plyne snadno, že vrcholy 2 ^-úhelníka, jenž by byl vepsán do .AT a opsán některé kuželosečce svazku k, sestrojíme, když vrcholy 7z-úhelníka promítneme z jednoho vrcholu trojúhelníka polárného kuželosečkám společného na K. Průměty společně s vrcholy promítnutými dávají 2 n vrcholů žádaného 2 //-úhelníka.
+II. ﻿i
+"

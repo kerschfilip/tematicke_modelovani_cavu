@@ -1,0 +1,76 @@
+"","x"
+"1"," ﻿ROČNÍK X.
+TŘÍDA II.
+ČÍSLO 23.
+O stanovení tečny a osknlační kružnice křivek rovinných vytvořených dvěma svazky.
+Napsal Bedrieh   Procházka,
+ředitel realky  v Náchodě.
+(Předloženo   dne   22.   března   1901.)
+1. Zásad kinematické geometrie lze vhodně užiti při sestrojování tečny a kružnice oskulační křivky rovinné Á"", vytvořené průsečíkem k protilehlých stran o a a olb proměnlivého č t y ř ú h e l n í ka ool ba, jehož vrcholy o a ol jsou body stálými a vrcholy a a b se v daných křivkách A a B tak pohybují, že strana ab kol stálého bodu o se otáčí, položeného na spojnici oo^.
+Stanovíce kinematicky tečnu TV křivky K předpokládejme, že se strana ab kol bodu o nekonečně málo otočí. Otáčí-li se při tomto pohybu bod a zvolenou rychlostí a 1a l o' a, potom bod b se pohybuje rychlostí b lb J_ o a, kterou obdržíme ome/.íce přímku /;' b spojnicí bodů o' a la.
+Z těchto rychlostí a Vz a b lb určíme .rychlosti, jakými se strany o a a L»j b kol bodu o resp. ol otáčejí.
+Dříve však si stanovíme rychlost, kterou bod a při otáčení strany o' a jest nucen se pohybovati v tečně 7\ v tomto bodě ku křivce A sestrojené. Rychlost tuto a -u odvodíme z dříve zvolené rychlosti a la, vedeme-li bodem la rovnoběžku ku přímce o' tr, kteráž tečnu T v bodě 2a protíná.*) Z této rychlosti a ~a stanovíme si rychlost a 3<r bodu a, kterou se tento při otáčení strany o a pohybuje, vedouce obdrženým bodem -n přímku ~'a ''a rovnobě/.ně ku této straně, kteráž přímku a 3a .J_ o a v bodě cz.> omezuje. Z rychlosti této potom stanovíme rychlost k '/• bodu k vedením přímky o ""'a protínající přímku k lk \_ o a v bodě '/('.
+*) Lchrbuch der   Ki nematik«, sc[isal  Dr. L   liurmestcr, I. svazek, 1. sešit, 1880, str. 50 a 61.
+Rozpravy: Roc. X.  Tř.  II. Č. 23.
+XX1I1. ﻿Týmž způsobem sestrojíme rychlost k '/', téhož bodu /• při současném otáčení strany o{ />.
+Z určených rychlostí /• '/• a k 1Á\ bodu /L• sestrojíme jeho rychlost jakožto průsečíku otáčejících se přímek ok a o{ k vedouce bodem '/• přímku '/•-L ok a bodem 1Á\ přímku '/•, 1Á> o{ k, *) kteréž se protínají v bode -k, určujícím s bodem /• rychlost bodu tohoto co do směru i velikosti, představující tudíž tečnu 7 V křivky A'.
+Pro zjednodušení konstrukce této tečny jest důležito dokázati, že prochází průsečíkem c tečen 7' a 7', ke křivkám A rcsp. />' v bodech ť? resp. b sestrojených.
+Ze tečna 7/v- bodem c prochází, dokážeme, že poměr vzdálenosti bodu c od přímek o k resp. o1 k se rovná poměru vzdálenosti dříve sestrojeného bodu -k tečny TV od týchž přímek čili poměru rychlostí k /•' a k 1X'1. Vzdálenosti X'/> a /'/j bodu c od přímek 6> L a o lk vyznačíme si na přímkách k lk J_ o k resp. klk\ ±_ o Js tím, že vedeme rovnoběžky c p o k resp. c p± i\ k.
+Za tím účelem označme úhel, který tvoří přímka oas normálou křivky A v bodě ct sestrojenou a a úhel, který přímka o' a s touže normálou svírá «'.
+Z trojúhelníka a la ~a plyne :
+a z trojúhelníka a -a 3a
+a La cos a
+a ""a — a  a . cos K ,
+čili se zřetelem k prvé z těchto rovnic:
+a 3a — a la .
+COS Čí
+cos a'
+Z podobných trojúhelníků oa ""'a a oklk patrno, že
+z   kteréž   úměry   po   dosazení   hodnoty   za   a ""'a   z rovnice   předcházející plyne, že
+ok      cos a
+k lk = a la .------.--------.
+oa      cos a
+Stejným způsobem odvodíme rovnici
+* i Tamtíž str. 57.
+XXIII ﻿nazvemc-li úhel,   který   tvoří   přímka o{ l>   s normálou křivky  /> v bodě b sestrojenou /i a úhel, který přímka o b s touže normálou svírá /i'. Z obou posledních rovnic vyplývá rovnice :
+k lk
+a la      o k      o l)
+)      cos « cos
+k '/-,         /; V;   ' o{ k
+o a
+v níž dosadíme za poměr
+a o' b lb vyplývá,   rovný pomči k lk
+o' b o a        o k
+jemu, jak z podobných trojúhelníků dá la , obdržíme :
+o, b       cos a cos ď
+k
+o'b
+a       cos fi cos ď
+Jelikož dle věty   Ceviho   jsou   součiny rozpojitých   úseků,   tvořených příčkou o o' ve stranách trojúhelníka abk sobě rovny, t. j.:
+o a . o k . 6>j b nr o' b . ov k . o a , lze psáti předcházející rovnici:
+k '/'
+Z trojúhelníka abc ph""ne, že
+cos a cos p cos á cos u
+ros
+1)
+l, c         cos a
+Z pravoúhelných lichoběžníků acpk a bcp^k plyne, že rychlost
+k p =r ač . cos a
+k pl — b c . cos /l
+Dělíme-li tyto poslední rovnice, obdržíme : k p         ač      cos«
+resp. rychlost
+bc
+anebo se zřetelem k rovnici 2}
+k p     _ cos K . cos fi /•           cos p' . cos a
+3)
+XXIII. ﻿Porovnáním rovnice 1) a 3) obdržíme, že
+~kp                Á> '/•
+t. j., že bod c se na tečně 7>v- skutečně nalézá, čili že tečna TK při pohybu čtyřúhelníku o ol b a stále průsečíkem c tečen T a 7\ prochází.
+Na základě toho, že možno stanoviti rychlost pohybu tohoto bodu c jakožto průsečíku tečen 7 a 7^, můžeme stanoviti také otáčení tečny TK 3. tím i střed křivosti s1 křivky A' v bode k.
+Při otáčení stran o a a o^b otáčí se zároveň tečny T a 7j. Při tomto otáčení tečny T stanovíme rychlost c1 c bodu c jakožto bodu této přímky pomocí středu křivosti ^ křivky A, příslušícího bodu a, když v bodě c k tečně T vztýčenou kolmici c V omezíme kolmicí a lc spuštěnou s bodu a ku spojnici s -a. *)
+Stejně stanovíme při otáčení tečny 7\ rychlost c lcl bodu c jakožto bodu této přímky pomocí středu křivosti s{ křivky B v bodě /;, omezíce v bodě c k tečně 7\ vztýčenou kolmici c lc, kolmicí spuštěnou s bodu /; na spojnici sí ~b.
+Vedouce body lc a lcí rovnoběžky vc -c a ^c\ -c s tečnami T resp. 71 obdržíme v úsečce c ~c (tak jako při stanovení rychlosti k -k bodu k} rychlost bodu c co do směru i velikosti, kteráž představuje zároveň tečnu T křivky C, kterou bod c při proměně čtyřúhelníka o ol a b vytvořuje. Z rychlosti této c ~cl kterou se bod c jakožto průsečík tečny 7V s tečnou T v této pohybuje, odvodíme si rychlost kolmou c 3c tohoto bodu při otáčení tečny TK kol budu /', jcst-li kolmici c v k tečně 7/v- v bodě c vztýčenou přímku 2c 3c TK omezíme. Kolmice s bodu -k tečny TK spuštěná na spojnici bodů V a k protíná normálu es v bodě k křivky K sestrojen v žádaném středu křivosti s křivky A'.**)
+Netřeba dokazovati, že i průsečík /'' dalších dvou stran oba ola tohoto proměnlivého čtyřúhelníka probíhá křivku A"", jejíž tečna také bodem c prochází a jejíž střed křivosti bychom stejným způsobem sestrojili.
+2. Přiměřenou volbou křivek A a B a jich polohy ku středům svazků možno vytvořiti různé křivky A', jichž tečny a středy křivosti by bylo lze konstrukcí uvedenou docíliti.
+*) Professor Eduard W eyr:   Z u sát/,   zuř A bhan d lun g děs Ilcrrn F. Procházka »Kin Beitrag zuř Translations-Bcwegung*. Věstník král. české společnosti náuk; ročnik 1895 str. 1. *() Tamtéž.
+XXIII."

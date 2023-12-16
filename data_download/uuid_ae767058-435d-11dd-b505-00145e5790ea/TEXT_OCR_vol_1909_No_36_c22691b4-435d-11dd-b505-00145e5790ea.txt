@@ -1,0 +1,300 @@
+"","x"
+"1"," ﻿ROČNÍK  XV|U.
+TŘÍDA  II.
+ČÍSLO 36.
+O vytvořování ploch druhého stupně.
+Napsal J. Sobotka.
+II. Souvislost vytvoření dle Mac-Cullagha s vytvořením Jacobi-ho.
+(Předloženo   dne   15.   října   1909.)
+1.   Uvažujme centrickou plochu  druhého stupně A o středu O: její ellipsu lokální označme /, hyperbolu lokální h.   Zvolme pravoúhlou soustavu souřadnou mající počátek v O tak,  aby osa x splynula  s hlavními osami křivek / a h, osa y aby splynula s osou vedlejší ellipsy /, osa z s osou vedlejší hyperboly h. Křivky stopní plochy do rovin (xy), (x z), (y z) označme příslušně klt k.2> k3 a absolutní délky poloos plochy A ležících na osách x, v, z, označme vztažmo a, b, c; konečně budiž /0 křivka polární ku / vzhledem ke křivce stopní /c, a htí křivka polární ku h vzhledem ke křivce stopní kt.
+Vyset hne nejdřív průměty křivek zde uvedených ve směru kolmém k jejich rovině do roviny některého reálního řezu kruhového. Vyšetření to proveďme pro každý druh ploch 2. stupně zvlášť.
+2.   Uvazujme nejprv ellipsoid A.    Promítněme zde útvary v rovině (X y} do roviny H kruhového řezu, která prochází osou y. Průmět k^ křivky A\ bude patrně obrysem plochy A;   bude  tedy  obálkou  kružnic,   do  nichž se křivky kruhové na ploše v rovinách rovnoběžně ku H položených promítají. Příslušné body kruhové Klt K2 ellipsoidu, koncové to body průměru jeho ku H sdruženého, promítají se do ohnisek křivky k-f. Když tedy místo do H promítáme do roviny Hl rovnoběžné s H,   která se v K: ellipsoidu dotýká, pak jest bod ^ ohniskem pro obrys &t* plochy, a přímka r, v níž se roviny Hxa (x y) protínají, jest přímkou řídící pro k^, tedy polárou bodu A\ Neboť rovina bodem Kt kolmo k ose % položená má svůj pól  vzhledem k ellipsoidu v průsečíku osy x s rovinou H^ proto   leží r ku K± harmonicky vzhledem k vrcholům hlavním   ellipsy /ex*. Budtež pro ellipsu tuto E, L, A výstřednost, vzdálenost středu od r, resp. délka hlavní poloosy a budtež E', L', A' orthogonální průměty těchto délek na   osu x. Normála
+Kozpravy: Hoč.  XVIII. Tř. II. Čís. 36.
+XXXV !. ﻿v Kj ku ellipsoidu čili tečna k lokální hyperbole h nechť seče x v bodě, jehož vzdálenost od středu O označíme /. Ze sdruženosti bodů na x vzhledem k ellipse klf dále vzhledem k ohniskům hyperboly h jakož konečné vzhledem k hyperbole h samé plynou relace
+l.L' = o8
+6*,
+které dávají
+Pro výstřednost e ellips /^ a / jest tu é2 = a? •— b2, kdežto pro  délku m hlavní poloosy ellipsy / jest m2 = a2 -  c2, takže
+E_ ~L
+m
+E*
+EL '
+plyne takže
+Poněvadž jest dále E . L = A2 =* b--\-E2, proto
+E : A — e : m.
+E2: A2 = (ď2-   b2) : (á2 — c2) E2 : l)2 = (á2~-b2) : (b2~-c2),
+(1)
+Z úměry
+I -            T         \ /     &""     '        ^""""                                  1         \ l     &~        ~    C
+H     =;    f)     V------------------             4    =   0     V------------------
+'   h'2 - ~ c*    '                          '   h'2 — r2
+Rovnice (1) praví, že číselné výstřednosti křivek k^*, f se sobě rovnají, následkem čehož jsou ellipsy tyto sobě podobny. Máme tudíž výsledek:
+„Křivka ^-jest podobna ku fokalní ellipse a ohniska její leží nu kolmicích s bodů kruhových Kj, K.2 na rovinu (x y) spuštěných.""
+Karakteristický poměr A pro vytvoření ellipsoidu dle zákona Mar-Cullagh-ova jest, jak víme1),
+takže můžeme rovnice (2) též psáti
+m
+F —                 A —
+i* —   —   ,     i-i -      -    .
+ti.
+ťf:   Ó vytvořování plech    •_>. stupně   I.   (Kozpravy č. akad.   1.  ledna   l!li>(.»
+XXXVI. ﻿Proto poměr podobnosti mezi křivkou / a křivkou &T° jest
+e         m T       A '
+Promítněme nyní stejným způsobem křivku / do roviny H; obdržíme llipsu f"", jejíž poloosa hlavní ma plyne z úměry
+m„ : A — m : a ,
+;;ikže
+tedy
+K ma =
+rt2 —c2
+Poloosa vedlejší na ellipsy /"" má délku  Vbz — c2, takže
+62— c2
+na -
+ď
+Křivka polární k^ ku k± vzhledem k ellipse / má poloosy —
+y* •__c
+'-—r-----,  z čehož plyne,   že průmět /° jest podobný  křivce k-f a poměr
+podobnosti mezi k-f a /ff rovná se opět karakteristickému  poměru,  který -o vyskytuje při vytvoření Mac-Cullaghově.
+Pro křivku /„ obdržíme délky s resp. t poloos hlavních a vedlejších
+
+• akže
+dli
+Pro průměty s„, t,-, jej i cli plyne pak
+s„ : A = s : a
+sn — —-=           ,    a dále t„ = t —
+A s„ = a,   A.ta = b
+b-
+c2          fl    —   J _  —   F-
+O   (;            l>   (i    —         ,.,      -—   jH      .
+A""
+Jest tedy křivka /„""' podobná křivce A^ a poměr  podobnosti mezi k^ a /o° jest opět roven A; mimo to jest /0"" konfokální s k^"".
+l*
+XXXVI. ﻿Shrneme-li tyto úvahy, obdržíme výsledek následující:
+Odvodíme-li pro cllipsoid ku křivkám /elf /, k^ křivky podobné položené Pro O jakožto střed podobnosti a pro poměr A obdržíme tři křivky, které splynou s křivkami fQ°, k-f, /"", když provedeme otočení kolem osy y až splyne rovina (x y) s rovinou kruhového řezu v daném dlipsoiďu.
+3. Že věta právě odvozená platí též pro dvojdílný hyperboloid, seznáme
+zcela obdobně, jen s tím rozdílem, že křivky klt f,.....    nutno nahraditi
+křivkami klt h,. . . .; rovina H kruhového řezu prochází nyní osou z a body Klt K2 jsou průsečíky křivky /^ s /. Zde promítáme ve směru y; označme #2* průmět křivky A'2 do roviny Hx \\ H, protínající (x z) v přímce r a pro k2* dále E, L, A jako dříve výstřednost, vzdálenost středu od r, resp. délku hlavní poloosy: konečně E', L', A' opět průměty těchže délek na osu x-<\.i vzdálenost bodu O od bodu, v němž tečna ku / seče osu x. Jest tu
+l. L' = az + b\     E' .1 =
+takže
+E' L'
+E_ ~L
+c-
+a2 + b2
+Pro výstřednost e hyperbol kz a h jest tu   e- = a2-i~c2,   kdežto pro délku m hlavní poloosy hyperboly h jest m2 = a2 + b2, a tedy
+E_ T
+E2
+m-
+Následkem toho jest Dále z rovnice
+E~L
+E : A — e : m.
+(1)
+E2 — c2 ~    a2 + Ď2 obdržíme pro E a p;ik z  (1) pro A jiříslušné hodnoty
+E == c
+A == c
+(2)
+Z (1) soudíme opět, že A2*, ^ a tedy i kL, h jsou si podobny. Karaktei i-stický poměr pro vytvoření dvojdílného hyperboloidu dle Mac-Cullagha jest1)
+A  —
+1. c. str.   11.
+XXXVI. ﻿proe
+E = -i-      4 = — A '             A   '
+lakže poměr h a kz"" jest  i zde roven A.
+Pro průmět  ha obdržíme z úměry m„ : A = m : a hodnotu pro hlavní poloosu
+a A
+:i  pro vedlejší poloosu
+n„ = \ c2 - //-
+Z posledních těchto rovnic plyne, že křivka polární /e2° ku 7c2 vzhledem u h a křivka ha jsou podobny a že poměr podobnosti rovná se A.
+Pro křivku h(} obdržíme délky s a t pro poloosy hlavní,  resp. vedlejší
+-
+Pro průměty jejich s„-, í„- plyne pak z úměry sa : A = s : a jako dříve A s,; = a,    A /„- — c,
+takže h0° a /?2 jsou taktéž podobny, čímž nabýváme věty:
+Odvodíme-li pro dvojdílný hyperboloid ku křivkám k.2, h, /c2° křivky podobné položené pro O jakožto střed podobnosti a pro poměr A obdržíme tři křivky, které splynou s křivkami h0a, k2n, ha, když otočíme kolem osy z až splyne rovina (x z) s rovinou kruhového řezu v 'uvažovaném hyperboloidu.
+4. Přihlédněme nyní k hyperboloidu jednodílnému. Rovina H prochází zde osou x a protíná ks ve dvou bodech společných též kružnici g kolem O poloměrem a \ rovině (y ~) opsané. Společné body G, .... křivek k3, g obdržíme na př. tím způsobem, že protneme kouli kolem O opsanou a kružnicí g procházející hyperboloidem, který vznikne rotací liyperboly k.A kolem z. Obě plochy protínají se ve dvou kružnicích, promítajících se orthogonálně do (y z) ve dvě přímky kolmé k z, jež procházejí společnými body křivek g, ks. Pro tyto křivky stanovíme snadno body ležící na některé přímce řečeného hyperboloidu rotačního, která jest rovnoběžná s (y z).
+Z toho plyne následující konstrukce bodu G, ....
+Od bodu O naneseme na jednu neb druhou asymptotu hyperboly /c3 v libovolném smyslu délku O M = W — fr2, rovnou polotětivě kružnice g, položené na některé z reálných tečen vrcholových hyperboly k^. bodem M
+XXXVI. ﻿vedeme rovnoběžku k y, která seče g v bodech žádaných G,... Přímka O G náleží rovině H.
+Uvažujme nejprv průměty útvarů v (x y) položených do H ve směru osy z. Poloosa hlavní A ellipsy k^ rovná se a, kdežto poloosu vedlejší B obdržíme z úměry
+B : b = O G : O G\
+značí-li   G'  průmět   orthogonálný   bodu   G  na  y.    Zde   jest   O G = a, 00^""= Va^TTGj2, dále G G' : O M = c : VF+72, tedy
+G G' =
+(TG'
+=»Y^
+Tím obdržíme úměru
+B :a=
+(1)
+Jest tedy křivka k{' podobna ku /.   Poměr podobnosti mezi / a Ay Y' 2 i    •*
+-;   tento  poměr rovná se   karakteristickému   poměru A   pro
+jest
+vytvoření JVÍac-Cullaghovo.1)
+Promítněme nyní křivku/.   Poloosu jednu n,-, průmětu toho obdržíme z úměry
+n„ : V&a -\-c- = O G : O G' čili
+kdežto poloosa  druhá ina rovná se V a^-^-c2.   Máme tudíž
+A W,;
+Tím jest dokázáno, že k^ a /"" jsou podobny v poměru ).. Promítněme konečně křivku /„ o poloosa cli
+s =
+V a2
+Pro /0"" obdržíme sa =
+takže
+fl2 + C2
+:OG' =VĎ2-f-c2: /; A
+A s«  = «,      A ía = />.
+1. ť.  str.   ti.
+XXXVI. ﻿Jsou tedy rovněž křivky /i, a /„""   podobny v poměru A. Obdobné výsledky obdržíme promítnutím  křivek k.,, h, k.2° do H ve směru y.
+Poloosa c se promítá v délku C a jest
+C :c = O G : G G',
+ježto ale jest zde1) A =                    , proto jest
+O G : G G'   = Vb2 -f ca :cA. Následkem toho obdržíme
+KČ = V&+& ,      A a --     V &--&,
+kteréžto relace vyjadřují, že h a Av;   jsou podobny v poměru A. Pro průmět ha   obdržíme tu obdobně
+- : c A ,     w„ = W
+teti v
+/. kterýchžto relací vychází podobnost křivek A'.,0 a ha \ poměru A. Konečně pro průmět křivky h(„ pro niž
+o   - — -
+""
+č-
+obdržíme vzhledem  k relaci
+/,.  : / = \ '//-' + c2 : c A
+odkud plyne podobnost v poměru A pro k2 a htía.
+Spojuje tedy jednodílný liyperboloid obě prve odvozené věty odstavce -. a :}., které zde platí zcela analogicky, takže není třeba je zde opakovati.
+5. Při paraboloidech přejdou obě křivky /, h ve fokalní paraboly; berme rovinu jedné z nich / za (x y), rovinu druhé h za (x z).
+Uvažujme nejprv clliptickv paraboloid. Pak jedna z parabol lokálních seče plochu reálně v bodech kruhových; označme ji h; parabolu stopní plochy v rovině (x y) označme (P), její parametr P, parabolu stopní v (x z] pak (p) u její parametr />; jest tu tedy P > />.
+1. c. str.  7.
+XXXVI ﻿Jsou-li dvě paraboly q^, q2 orthogonalně aíiinní, tak že směr afíinily splývá s osami jejich pro modul affinity v, pak jest, jak přímo patrno, parametr paraboly qz roven parametru paraboly ql násobenému v.
+Dále uvažujme dvě souosé konfokální paraboly (p^, (pz) o parametrech pí resp. />2. Jejich vrcholy btidtež příslušně FlT F2, jejich společné ohnisko budiž F, a kolmice v F ku společné ose na jedné její straně vztýčená nechť seče (p^ v Glt (p.2) \ G.2. Sestrojme křivku polárně odvozenou paraboly (p2) vzhledem k parabole (/»a). Bude to parabola (p*) s danými souosá, pro jejíž vrchol F jest l\V = F2 V\. Abychom odvodili parametr její, sestrojme tečnu g2 v G.2 ku (p^ a hledejme její pól G vzhledem ku (pí), který bude náležeti hledané pani bole. Za tím účelem zvolme na g2 dva body, totiž nekonečně vzdálený bod a průsečík H2 s tečnou vrcholovou paraboly (/>2); bod G jest průsečíkem polar těchto bodů vzhledem ku (p^. Polára prvního z nich jest rovnoběžka G, G ku F V bodem G^ vedená. Polára druhého prochází bodem V a polem L přímky H2F. Pól L jest pak průsečíkem kolmice v /'"" ku H2F vztýčené s přímkou řídící /, paraboly (p^. Bod G leží tedy též na přímce LV. Jsou-li G', L' příslušné paty kolmic s G a -L na společnou osu parabol, obdržíme, ježto L' L — F L', ze shodných trojúhelníků L L' V, G G' V, že F G' = L' V = L' l\ +V1V =
+= l\ F -f F2 Ft = ~-.   Ježto   G'G = p-i tu,   označíme-li   -/>*  paranu-tr paraboly (p*), jest
+takže
+(1)
+Promítněme nyní útvary v rovině (x y) ležící ve směru k ní kolmém do některého reálního řezu kruhového, na př. do roviny tečné 1Rl v některém kruhovém bodě Klt v němž se křivky (p) a h protínají. Označme T průsečík roviny H1; N průsečík tečny ku h v K^ s osou x a K^ patu kolmice s K, na x. Dále K^ T jest subnormalou paraboly h, K^N subnormalou paraboly (P); proto K?T =P — p, ŇK^ = p, NT = P, K^T = VP~(P—p).
+Průmět (P)'7 paraboly (P) leží k ní aifinně pro poměr v = K^ T : K^ T
+ěili
+V
+P     />
+Má   tudíž   parametr Pa paraboly  (P)'1 hodnotu — čili
+což jest i přímo patrno, protože P„ =
+XXXVI ﻿Poněvadž   dále  poměr   karakteristický   při   vytvoření   dle  zákona Mae-Cullaííhova pro elliptický paraboloid jest1)
+proto obdržíme zde
+P—p                                            (2)
+Křivka /„ měj parametr p0. Podle relace (1) jest
+tedy křivka /,,"""" má parametr •"". čili A ^>0.
+Označme parametr ten poa. Obdržíme tedy  A poa = A2 ^>0 a vzhledem k  hodnotě  A  obdržíme
+A /w = P                                              (3)
+Pro průmět /"""" obdržíme obdobně parametr q„ = A (P — - p) a tudíž
+(P — L)2
+Křivka (P)°   polárně  sdružená  křivky (P) vzhledem   ku / měj   parametr P0; podle (1) jest
+takže plyne opět
+Áqa^P0              |                              (4)
+Z toho plyne dále, že když k útvaru 2,"" obsahujícímu křivky (P),""/, (P)° sestrojíme útvar [S] podobný pro poměr—-, že obdržíme útvar shodný
+A
+s 2°, obsahující křivky shodné s /0°, (P}°, f°.
+Odvoďme zvlášť útvar [27] tak aby ležel podobně s útvarem 2 v (x y) pro bod O, v němž přímka řídící r^ paraboly / seče osu # jakožto střed podobnosti. Pak jest třeba posunouti [2.] ve směru osy x tak, až řečená přímka řídící zapadne do roviny H1; to jest až splyne s přímkou řídící r paraboly (P)"", v kteréžto přímce se H! a (x y) protínají, a konečně pak otočiti [2J] kolem r v příslušném smyslu tak, až útvar ten zapadne do roviny H1} čímž křivky [(P)], [/], [(P)°] splynou s křivkami Í0°, (P)"", f°.
+!)  1.   C.  sir.   7.
+XXXVI. ﻿10
+Délku ó onoho posunutí snadno stanovíme.   Budiž F vrchol  paraboloidu  a  H   vrchol   paraboly  h.     Patrně   jest  TU = .J (TK^ + P)   a =~Tti — (P - p},  takže vzhledem k tomu, že TK{ = P — />, obdržíme
+P
+
+Tím jest přenesení vět odvozených dříve- pro plochy centrické na. elliptický paraboloid provedeno.
+6. Při hyperbolickém paraboloidu označme jeho parabolu v rovině (xy) křivky / opět (P) a parametr její P a jeho parabolu v rovině (x z) křivky h opět (p) a parametr její p. Promítejme nyní do roviny řídící H, jejíž stopa hn do (x z) má od x vzdálenost p. Nechť stopa ta seče (p) v bodě A, kdežto stopa h{ do (x y) nechť seče (P) v bodě B. Přímka A B leží patrně na hyperboloidu a promítá se orthogonalně do (x z) v přímku dotýkající se křivky (p) v bodě A a do (x y) v přímku dotýkající se křivky (P) v bodt B. Z toho plyne, že kolmice s A a B na x mají od vrcholu F hyperbolického
+paraboloidu stejnou absolutní vzdálenost, totiž •—, následkem čehož vzdá-
+lenost bodu B od .v rovná se  V P p . Svírá tudíž rovina H s rovinou (x y) úhel fp, pro nějž
+i/
+V
+tg<P=--   V /T-' :i í)rotu   cos'- <f> =   ~p-+J- •
+Promítneme-li nyní libovolnou parabolu v rovině (xy), jejíž osa jest rovnoběžná s x a jejíž parametr budiž g do roviny H ve směru kolmém ku (xy), obdržíme parabolu, jejíž parametr jest q : cos- (p. Paraboly (P), /,
+P2
+/0 mají příslušné parametry P, P + ^>,   p .   .  :  proto mají průměty jejich
+-{P)';,   /"",  /„""   příslušné    parametry,   P-\-p, -    p       , P. Průměty ty jsou
+tudíž shodný s parabolami /,  (P)u,  (P). Promítneme-li v témže směni do roviny Hv || H procházející osou x pak můžeme říci:
+Posuncmc-li rovinu (x y) ve směru osy x tak, aby vrchol paraboly / po posunutí splynul s vrcholem paraboly (P) přcil posunutím a otočímc-li pak rovinu tu kolem x až přijde do polohy Hx, tu přijdou křivkv (P), /: (P)° do poloh splývajících s průměty křivek /"", (P), /.
+Absolutní délka posunutí  rovná se tu opět
+Zcela obdobná věta jako vzhledem ke křivkám /"", (P), / platí ovšem i vzhledem ke křivkám h(}, (p), h.
+7. Mějme dále na zřeteli zase nejprv ellipsoid. Zvolme na / libovolný bod F, jeho tečna ku / budiž p, mající p' za poláni vzhledem k ellipsoidu. Přímka p' jest kolmá k rovině (x y) protínajíc ji v bodě /•"",, náležejícím
+XXXVI. ﻿11
+křivce /0. Budiž M libovolný bod na ellipsoidu, G jemu příslušný bod na p', totiž průsečík přímky p' s rovinou bodem M rovnoběžně k uvažované rovině H řezu kruhového položenou. Dle vytvoření Mac-Cullaghova jest
+= A . A/7;.
+Mysleme si nyní uvař L v rovině (x y) a promítněme jej do roviny H středem O procházející ve směru z do 27° a k útvaru 2> sestrojme útvar 27* podobně položený pro O jakožto střed a A jakožto poměr podobnosti, takže bude
+A . OG° = O G*,     A . M"" G"" = A . M G = M* G*,
+Následkem toho jest
+M*G* = MF
+pro každý bod M na ellipsoidu. Tímto způsobem odpovídají dle odstavce 'l křivkám /„, kv f útvaru 27 křivky /°*, k^*, /* v útvaru Z!* shodné s křivkami klt f, A]° a ve stejné s nimi poloze vzájemné. Sklopíme-li tudíž rovinu H s útvarem 27* do rovin}7 (x y) značíce (27) útvar sklopený, přejdou tím křivky /0*, k^*, /* do polohy (/0), (/^). (/) splývající s křivkami AY /, ki°. Obdržíme tedy vzhledem ku každému bodu M na ellipsoidu rovnost
+Popíše-li bod F na / řadu bodovou F\, F.2, Fs .... popíše bod jp0 prometnou k ní řadu bodovou Fu, F20, F.,0, ... na křivce /„ ležící. Tyto dvě prometne řady bodové stanoví v rovině (x y) kollineaci, v níž si ovšem křivky /, /0 přísluší; ježto ale vrcholům křivky jedné přísluší vrcholy křivky druhé na těchže osách položené, proto jsou osy křivek těch a následkem toho i střed O v kollineaci řečené útvary samodružnými. Kol-lineace ta jest proto aífinitou, pročež jsou též křivky /, f0a a tedy rovněž křivky /, /0* affinní. Poslední affinitou přísluší bodům F, jF1; F2- • • na / body F0*, F\Q*, F20*, .... na /„*. Konečně jsou i útvary 2, (27) v rovině (x y) affinní majíce bod O a osy x, y za útvary samodružné; v této afťinitě přísluší tedy bodům F, F\, F2 . . . na křivce / náležejícím útvaru 27 v útvaru (27) body (FQ), (Fw), (F20), . . . na křivce 7ex. Dále přihlédněme k afťinní poloze mezi útvary 27, 27ff. Spustíme-li s libovolného bodu M plochy kolmici k (xy}. jejíž pata budiž M' a jejíž průsek s H budiž M'J, pak jsou body M', M"" taktéž sobě příslušnými v uvedené poloze affinní. Bodu A/'7 přísluší pak v 27* bod M* a tomuto v (27) bod (M). Následkem toho v aťfinitě mezi 2"" a (27) přísluší bodům M', . . . útvaru prvního body (M). ... v útvaru druhém. Bodům 7v . .. na /0 jsou takto přiřazeny přechodem přes FQa, a F0*,. . . body (F0) ... na klt takže v aťfinitě mezi 27 a (2) přísluší křivce /0 prometne křivka kr Obecněji soudíme: z podobnosti útvarů skládajícího se z křivek A^, /, A\° s útvarem složeným z křivek /0"", k^, /"" plyne shodnost útvaru složeného z křivek klt f, l\\"" s útvarem složeným z křivek (/0), (kj),
+XXXVI. ﻿12
+(/). Splývají tudíž úplně křivky (/0) a A,, (Á'j) a / a konečně (/) a /ít°. Z toho plyne, že v příbuznosti útvaru 27, (27) křivkám /„, AY f v útvaru 2příslušejí vztažmo křivky A,, /, A/' v útvuru (27).
+Zvláště můžeme vysloviti větu:
+,,Stanovíme-li příbuznost mezi křivkami h} a / tak, aby vrcholům křivky prvé odpovídaly souhlasné vivholy křivky druhé, pak příbuzností tou přechází útvar 27' = 27 v lit var (27).""
+Při tom souhlasnými vclioly nazýváme ty, které leží na téže společné ose obou křivek. Nazveme-li .r, y souřadnice bodu M' a A', V souřadnice bodu (M), tu, ježto přímkám rovnoběžným k osám x, y útv;iru jednoho odpovídají takové též přímky útvaru druhého, a jejich vzdálenosti od středu O jsou v poměru příslušných poloos křivek /»,, /, obdržíme souvislost souřadnic těch vyjádřenou rovnicemi
+\
+\   62 —C2
+Vytkneme-li na / tři libovolné body l'\, 2:2, .F, a na Ax tři body (.F10), (.F20), (jFgo), které jim v dříve uvedené příbuznosti mezi / a A, odpovídají, pak libovolnému bodu (M) v rovině (x y} příslušejí na ell;pso;du dva body AI,
+a které se
+pro něž M~F == (Afj~í3Fio)» M~F« = (M)~(F,0), MF3 =
+promítají do bodu M' příslušného bodu (M) v příbuzností útvaru (2), 27.
+Tím jsme dospěli k Jacobi-ho vytvoření ellipsoidu a vidíme zároveň jednoduchou jeho souvislost s vytvořením Mac-Cullaghovým.
+8. Úvahy pro dvojdílný a jednodílný hyperboloid jsou zde zcela obdobné a vedou k stejným výsledkům.
+Při dvojdílném hyperboloidu máme příbuznost útvaru 2,""', (27) v ro. ;ně (x z), danou tím, že křivce /í2 v 27' přiřadíme křivku h v (27) tak, aby si souhlasné vrcholy odpovídaly. Potřebujeme tedy jenom znaky A'i a / při ellipsoidu užívané vyměniti za A'.2 a //, ale úvahy samy se nemění. Pro souvislost souřadnic xt z bodu M' a A*. Z bodu (M) platí tu relace
+A""
+x
+\ ir + b~ a
+Vytkneme-li tedy na h libovolně body Hv H2, H3 a stanovíme na kz
+jim příslušné body [//J0], [//20],
+v affinitě mezi h a 7ř2,  v níž si sou-
+hlasné vrcholy odpovídají pak libovolnému bodu (M) v rovině (x z) přísluší na   dvojdílném   hyperboloidu   dva MH2 = (M) (/
+body   M,   pro   něž MHl =-• (M) (H10).
+), A/7/3 = (M) (ffao) Ji které se promítají do bodu M' příslušného bodu (M) v příbuznosti útvaru  (27), 2-"".
+Při   jednodílném   hyperboloidu   přicházejí  oba  případy  k  platnosti. takže tu  máme reálné zobrazení i roviny (xy) i  roviny (x z)   na plochu
+XXXVI. ﻿vedoucí nás k Jacobi-ho vytvoření plochy. Příslušné vyjádření analytické příbuznosti útvaru 27',  (27) v rovině (x y) jest tu dáno rovnicemi
+X_
+x
+\ Ir + r-
+v rovině (.v .:) pak rovnicemi
+X       V a*
+x
+a
+9. Při elliptickém paraboloidu jsme volili za. počátek soustav}' bod O, v němž přímka řídící rff, paraboly / protnula x, Odvodíme-li tedj7 k útvaru 27"""" v H5 útvar podobně položený 27* pro bod T, v němž Hl osu x protíná, jakožto střed podobnosti tak, aby pro libovolný pár příslušných si bodů Ma, M*, bylo T M* = K.TMa, budou křivky /„*, (P) * /* tvořiti útvar shodný s útvarem, jejž tvoří křivky (P), /, (7J)°; bodu Kr v 27a příslušeti bude bod Kl * v 27*. tak že T At * = A . T K^ — T A/. Z toho Splyne, že sklopíme-li HJ do roviny (x y) tak, aby po sklopení bod Aj* ležel na téže straně přímky r jako A, a posuneme-li rovinu tu po sklopení ve směru osy x lak, aby přímka r splynula s rv , čímž útvar 27* nechť přejde v [27], že pak splynou křivky [/„], [(P)j, [/] s křivkami (P), /, (P)°. Jsme tedy opět vedeni k útvarům aiíinním 27', [27] v rovině (.vy) kde l bovomému bodu M' přidružen jest bod [M], tak že opět FM = [Ffí] M, což nás vede k Jacobi-ho
+vytvoření pro elliptický paraboloid.
+p
+Z odstavce •"">.   víme.   že TO-          jest   délkou   prve   uvedeného
+""2
+posunutí.
+Křivkám /0, (P), / v 27' odpovídají křivky (P), /, (P)l) v L27], a značíme-li opět x, y souřadnice libovolného bodu AT v 2"" jsou souřadnice A*, Y bodu příslušného [M] v [27^ v soustavě os .v, v
+X--x =
+při čemž počátek soustavy lze libovolně na. .v voliti.
+Neboť značíme-li na př. .v, v souřadnice bodu M' v soustavě (O x y), kde y = rtf, dále x„, y« souřadnice bodu M* a .v*, y* souřadnice bodu M* v soustavě souřadné (Tt-ij), kde L = 7'Al; )t = r a konečné A', Y sou-řadnice bodu [M] v prvně uvedené soustavě (O x y} bude především
+,                       P                                                                                   h
+A x„ =- .v --j- -'    ,    y„ —- y,   a tedy .v*      A .v„       v     -^ •^                                                                                li
+/>        x-   .
+,,* —
+_
+a konečně A      .v
+-v  :
+2
+XXXVI ﻿u
+Relace uvedené mezi souřadnicemi x, y a A, Y plynou ostatně z ellipsoidu mezním přechodem. Pro vztah souřadnic y, Y jest přechod ten patrný, ježto hodnota A plochy jedné přechází v stejně označenou hodnotu
+plochy druhé a z relace
+x              a
+x : r vF^P""
+plyne
+X— x             x
+V a*
+c-
+Vzda luj eme-li nyní rovinu (y z), obsahující střed ellipsoidu ve směru osy A', výměnice smysl její, do nekonečna, obdržíme
+lim — =
+— Va2 —c2
+takže vskutku X
+
+X—x
+P_ 2
+10. Při hyperbolickém paraboloidu zvolme za počátek O libovolný bod osy x, jejíž kladný směr položíme do kladného směru společné osy parabol (p}, h,... v rovině (x z) ležících. Křivkám /, (P), /0 útvaru 2/ = L v rovině (xy) nechť příslušejí v rovině H.v křivky f"", (P}"", /0° útvaru -La, do něhož se S ve směru z promítá; tyto křivky tvoří útvar shodný s útvarem Z1*, jejž tvoří křivky (P)°, /, (P). Sklopíme-li tudíž útvar 2?* do roviny
+(x y) a posuneme jej pak ve směru x o délku ~ do polohy [2T], tu splyne
+2.
+křivka [/] s (P)°, křivka [(P)] s / a křivka [f0] s (P) a vytvoření Jacobi-ho našeho paraboloidu plyne z relací F~M = M~G — Ma Ga = M* G* = o] "" tedy MF, = [MTKoJ- M~Ft = M [Fn], M~F. = [M] [P30].
+Označíme-li opět x, y souřadnice bodu M', dále #ff, y0' souřadnice bodu M"", při čemž osy souřadné splývají s .-v a s prúsečnicí roviny H, s rovinou (y z) a konečně X, Y souřadnice bodu [Ml v soustavě (O x y) bude x"" = x,
+V T>    L   xA
+cos 9 držíme relace
+kde   cos
+X
+A' =
+Y — y'', takže ob-
+x =
+Y = v
+•
+P + p P
+obdobné relacím pro ellipticky paraboloid.
+Obdobnou souvislost máme vzhledem k druhé křivce fokální h. Stačí tu vyměniti písmenky (P), /, (P)°, /°, y příslušně za (p), h, (p)°, h0, z a naopak, aby souvislost tato byla i doslovně totožná se souvislostí právě odvozenou.
+XXXVI."

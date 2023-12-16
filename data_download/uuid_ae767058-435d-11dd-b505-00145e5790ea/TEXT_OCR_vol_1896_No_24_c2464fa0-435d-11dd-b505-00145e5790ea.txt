@@ -1,0 +1,107 @@
+"","x"
+"1"," ﻿ROČNÍK V.
+TŘÍDA II.
+ČÍSLO 24.
+O Abelovské transformaci trigonometrických řad.
+Sdílí M. Lerch. Předloženo  dne 8.  května 1896.
+Budiž dána konvergentní řada trigonometrická
+00
+f(x)=        a^cosZfJiXn,         (0
+v níž /*>0.  Tuto řadu bude lze přetvořiti pomocí identity Ábelovy
+m                    m —i
+H = h                 č=*
+kladeli se ófi = cos2pxn. Tak se obdrží nejprve
+m                                         m —l
+V                         V1
+^ tip cos 2fixn =   /. (tip —
+sin (2m-\- \}xn — sin (2h — l)xn
+Přejdemeli zde k limitě  pro w=oo,  obdržíme se zřetelem k podmínce lim am = O výsledek
+w=oo
+}xn — sin (2^ — 1)xn 2siníC*                        '
+která vzhledem k okolnosti, že součet
+00
+í hodnotu ah, obdrží tvar f(~\                sin (2 // — 1) x n
+J \x) == — flh — Rozpravy. Ročn. V. Tř. II.
+XXIV. ﻿při čemž užito označení P a^ za a^ — tf^+i. Řadu na pravé straně lze opét podobným postupem přetvořiti, výsledek opět, a tak lze pokračovati jak daleko chceme. Při transformacích těch užívá se identit
+sm(2m-4- Í)XTI — sin (2^ — \)xn = - a - ! — L__ - ^ - L --2 smxa
+cos (2 k — l)xn — cos(2*»-|-l)Ljr = -- a - '—=—. - > - ! — * -2 sin x n
+sin (2 m -4- 2) X n — si
+a zavedemeli označení
+obdržíme obecný výsledek ve tvaru
+(i)
+k-\
+sin
+- l)xa
+Přihází se dosti často, že konvergují řady, jež vzniknou substitucí L = co do prvých dvou součtů na pravé straně, a že poslední, t. j. třetí výraz na pravé straně s rostoucím k klesá pod každou mez, jakmile x náleží jistému intervallu (x0... xl). V tomto zvláštním případě vychází z (1) pro funkci na levé straně stojící zajímavý rozvoj
+(2 sin
+
+v=0
+v němž zbytek, doplňující agregát složený z prvých L členů obou řad, má hodnotu
+*  • cos
+xn .
+XXIV. ﻿podobným způsobem obdrží se rovnice další
+(3) '
+,               *
+srn »,,*« =        (- 1)' Fž"" * • -
+2 sin
+^^i-
+A—l
+„
+* ah .
+cos
+(4) '
+V   některých   případech   jsou   ^k a^   vesměs   kladné   veličiny;    řada Af^ pak jistě konverguje a její součet je p2*""1^.   Jeli pak  mimo to
+lim
+.                    ,
+(2 srn x n)*k
+bude též lim ^ = 0, a rozvoje lze prodloužiti do nekonečna. Tak na př. u řad
+cos
+máme a  =     =
+obdržíme
+> a ježto při l
+XXIV. ﻿1.2.3..../«
+čili
+(5)           r"" -
+Zde lze právě naznačeným způsobem  ukázati,  že zbytek  odpadá v pří. pádě L=oo, a že rozvoje lze prodloužiti do nekonečna, jakmile -řr<.x<i^-
+~ o
+Spojímeli obě řady pomocí veličin pomyslných v jednu
+a klademeli u výsledku elxni = zí obdržíme identitu
+oo          u               oo      /
+(6)                   ^     *     -«   <-
+f*={
+o rw + ř*\
+jež užitečnost odvozených výše transformací dostatečně odůvodňuje. Pravá strana tu konverguje, jakmile reálná čásť veličiny z je menší než půle. Klademeli z = — l, obdržíme
+kde  psáno   y(x)  za
+/""(*)
+/-(*) '
+Užijemeli vzorce (4) v případě řady
+!'°^f-
+jejíž hodnota jest
+V (x) sin x n -\- — cos x n -f- flog 2 n — F' (1)1 sin x n ,
+obdržíme přechodem ke krajnímu případu k = oo výsledek log 2 » — Ff
+(8)
+
+platný za  podmínky -^ < a? < -^. Při důkazu konvergence možno užiti tvaru pro #/-tý rozdíl                           i
+log a;
+dx ,
+jenž se obdrží bezprostředně ze vzorce
+i
+/»    .__|      ^
+dx .
+XXIV. ﻿Zavedeních   x -f- -g- za #, obdržíme ze vzorce (8) tvar přehlednější
+(8*)
+jenž platí za konvergcnční podmínky — -g < x < -^ Budiž tu ještě dopřáno místa řadě
+00
+\^    COS
+(9)
+f
+pro kterou vzorec (1) poskytne přechodem k hodnotě k
+= oo výraz
+(9a)
+'   (2 sin a; í*
+Zvolímeli hodnotu x = -^ ,  w = l,  obdržíme nový rozvoj  pro  Rieman-novu funkci
+i_i__L i J^ i J_ i
+5j»   r 3*   h 4, a sice
+(10)                   (l— 21~'K(f) =
+Rozpravy   Ročník V. Třída II.
+XXIV. ﻿*"

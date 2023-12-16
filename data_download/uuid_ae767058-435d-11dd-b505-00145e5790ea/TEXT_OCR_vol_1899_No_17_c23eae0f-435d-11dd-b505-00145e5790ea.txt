@@ -1,0 +1,249 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+TŘÍDA II.
+ČÍSLO 17
+Příspěvek k Newton-Cotesově kvadraturní methodě.
+Napsal
+Vilém Jung,
+proťessor c. k. státní průmyslové školy v Praze.
+(Předloženo dne 3. února 1899.)
+1.  Značí-li
+y =r/(.v)
+celistvou racionální funkci m-ho stupně, po případě funkci, vyjádřenou nekonečnou řadou konvergentní, stoupající dle mocnin argumentu .r, můžeme hodnotu integrálu
+(i)
+stanoviti buď přesně aneb přibližně výrazem '2)                                                 V
+V   2j   u""}'n
+r        O
+při čemž
+v-h —g\ y, =/(*,), (/- = O, l, 2, ...«).
+Při methodě Newton-Cotesově volí se // -j- l argumentních hodnot •v,   tak, že tvoří arithmetickou řadu  1. stupně, tedy
+1< těm pak se určí n   \~ l  příslušných funkčních hodnot y
+Koz pra vy:   Ročn.  VIII.   Tř. II.   Č.  17.          XVII. ﻿Potom stanoví se výrazem (2) hodnota integrálu (1) přesně, když /// ^ n. Je-li m > ;/, stanoví se výrazem (2) hodnota integrálu (1) přibližně.
+Newton vypočítal hodnoty veličin u,- ve výraze (2) se vyskytujících pro n -f- l = 4, C o t e s pak až do // ' l i= 11.
+Gauss použil při odvozování C ot eso vy methody interpolačního vzorce La ngra ngeo va, ukázal také, kterak tu lze počítati chyby pro /// > ;/, a sestavil pro integrály v mezích od U do l tabulku pro první členy korrekcí až do stupně 12-ho.
+Dále odvodil methodu, při které nevolil argumentní hodnoty .v, v řadě arithmetické, nýbrž zvláštním způsobem, tak že docílil použitím určitého počtu funkčních hodnot y,- takové přesnosti, jaké se docílí při Cotesově methodě použitím dvojnásobného počtu funkčních hodnot.
+Veličiny a, jsou absolutní konstanty, nezávislé na koéťticientech ťr/,, ve funkci _/'(x) se vyskytujících, jakož i nezávislé na mezích ^ // integrálu této funkce.
+Na základě tohoto fakta, jež ihned dokážeme, snadno shledáme, že pro konstanty ct, platí obecně relace
+(3)                                            «r = *a-r.
+Zvolíme-li za /(.v) celistvou funkci stupně //-ho a meze od O do i\ můžeme psáti
+P —
+— \
+•^
+Nahradíme-li  .v, j,   jež   interpretujeme jakožto pravoúhlé souřadnice, proměnnými .r', _/, kladouce
+y—y, x =
+X
+objeví se integrál daný opět ve tvaru integrálu celistvé funkce //-ho stupně proměnné .r', vzatého v mezích O a ť, a funkční hodnoty pro
+//         //
+budou ym y.„- i,     . . /„,
+tak že formule (2) podává
+Odečtením obou výrazů  /•* obdržíme formuli
+[   ( «,,   —  «„ ) J'„ -j- («!  — «„_!   )J/,   -f-   •      •      •      •       f ( U"" ---  """" )>'""   l
+XVII. ﻿která by stanovila relaci mezi n -j- l  pořadnicemi, což jest věcí nemožnou vzhledem k tomu, že lze pro funkci w-ho stupně libovolným n -j- l hodnotám proměnné přiřaditi libovolné hodnoty funkční. Musí tedy poslední relace býti identitou, t. j.
+| «0 — ťt„ — O, «i — a„ — \ = O, . . . , «,- — a„_r — O, . . . ] Srovnáme-li pro jakékoliv v výraz (2) s výsledkem integrálu
+7>
+\   X      (l X —            j     -,   \JH — U,   l,  L,   .   .   .   //J,
+b obdržíme soustavu n-\-l linearných rovnic o u -j- l  neznámých veličinách
+«,, (r = 0,   l, 2, ... «). Ježto pro tento případ
+r v               i   r v  V""
+obdržíme soustavu  rovnic
+(4)
+(5)
+ŽJ «/• = l, /- - (i
+Sn'"" r'"" ar —----------,  (;// = l,  2, 3 ... n). /-=i •       /«H- i
+Touž soustavu linearných rovnic pro veličiny a,, obdržíme při jakýchkoliv mezích g, k a pro jakoukoli rač. cel. funkci f (x) stupně «-ho na základě následující úvahy.
+Patrno, že
+7'
+x -   \ f(r+
+dx.
+Pro /// = n má býti pro jakékoliv g, v jakož i a/, v platnosti rovnice
+\
+•   k
+ak
+Tomu se dá skutečně vyhověti určitými hodnotami «,..
+Na levé straně lze po provedené integraci vyjmouti veličinu v, tak že jí možno rovnici krátiti. Obě strany rovnice dají se potom seřaditi dle veličin aki'\(r^ pfj čemž j -±- t = k, (k — O, l, 2, ...»); pro určité /L• jest
+XVII. ﻿s — /c, k— l, . . .  l, 0; f — 0, l, . . Těchto veličin jest na každé straně různých
+l 4-2
+ČI
+enu
+na levé straně se vyskytujícímu, odpovídá na pravé straně  člen
+(k\t . a k v* g1 .
+r=0      &
+Srovnáním těchto dvou členů pro jakékoliv a/,, i1, ^ plyne
+t. j.
+avšak k — / = í, tedy
+Takových rovnic obdržíme pro určité .v celkem n -+- l — j veskrze stejných.
+Položíme-li   5^0,   l,   2, . . . ;/   obdržíme mezi -— (n -h 1)    (;/-{-2)
+Lá
+rovnicemi celkem n -j- l různých linearných rovnic o n -\- l neznámých a,-, v nichž se vyskytují číselné koefficienty, proto jsou a,, absolutní konstanty.
+Proveďme nyní řešení rovnic (4) a (5).
+Veličina «0 vyskytuje se pouze v rovnici (4), v ostatních rovnicích (5) se nevyskytuje.
+Rozřešíme tedy soustavu (5) // linearných rovnic dle n neznáných «,-, (;-=: l, 2, ... //), čímž jest i nalezeno «0, jsouc rovno «„.
+V následujícím ukážeme, kterak lze pomocí mocninných determinantů odvoditi pro konstanty C o tesový methody obecný vzorec ve tvaru nezávislém.
+Řešením rovnic (5) obdržíme
+XVII. ﻿u,
+kdež A,-, />'/• jsou determinanty:
+A    —
+1 1	91     ol	<V      Ti '           n             (í-   \   1 ""l l	..i
+1 J 1 -	L  ,   O  ,   . 92     oá	• • l;       ! ' i  •• '   f)       ) (/   !   U > • /r       i ia          w             /,.   i   i \2	
+1  )	_   ,    0   ,   .	^7       J ' >          o         >  l;   í   L > > • o	
+1',	2'    3' ^ ,  o ,   .	r,-       i y           ;/              /„  j_ i y-• • </    *; i  ^~nry~ > ^r ~!~ L) >	. .    .
+1 '.'	9;.'   •_>//	ír       1 V'           ;/              í?        1 V'	tt""
+1  ) 11]	- >   ° > • 2L, 31, .	(           '] '     ;/ -f   1    '   (            }'  ' . (/-— 1)'   /-', fr-r-1)1, .	i .   W1
+121	2-, 3-,	.  (r — 1)2    rs   tr\   iy-  .	. #
+			
+lr,	2', 3',	. (r~lY  r'\ (V -L n'-  _	. nr
+			
+1"",	2"", 3"", .	. (r— 1')"", /-"", fr-h IV ......	. n""
+Užijeme-li stručnější symboliky, obdržíme
+(l1, 2"", 3», . . . (r-iy-1, -T
+Zde se nám vyskytují mocninné determinanty, a tu platí obecně*)
+A'„
+K„ ~ i, A'„ _ 2
+L,. ..A„_,,... ^ ... A, \ r, —l        / ~~  ) '
+při čemž
+(«i/ --ti„ __ ť) . . . (a„ — rfj . (a„ . i — ff»_2) • • . («„_i — tft).....^— rtj,
+A,„ znamená součet všech kombinac bez opakování w-té třídy z prvků i, í?2, </.,, . . . a„, tedy
+*) Viz Dr. F. J. Studničky spis: »O determinantech mocninných a sestavných*. íČíslo IX. spisů poctěných jubilejní cenou Král. České Společnosti Nauk v Praze. 1897.)
+XVII ﻿Dle toho dá se determinant naší soustavy vyjádřiti takto:
+(l1, 2-, 33, . . . ;/""; =n\ (1°, 2', 3-, . . . w*-1) — «!(;/ — 1)! (« — 2)! ... 3!  2!   l !
+fm) Označme    si    symbolem    K>-        součet   všech   kombinac   m-té   třídy
+bez   opakování   veškerých   // — l   čísel přirozené   řady   od  l  až do //,   vyjímajíc číslo r, tedy
+Rozložme si determinant v čitateli na algebraický součet součinů elementů r-ho sloupce s příslušnými doplňkovými determinanty, tak že obdržíme :
+(\\ 2-, 3a, .    . (r — 1) '    ',  — - -- , (r-4- 1) r+\       . u"" } V                                    r-^-l                             )
+= (- l) '^1 ^ (ls, 23, 3*. . . . (r- l)'', (r f 1) -+1, . . . ;/"" -f (~ 1V' + 2 ~ (l1, 2:1, 34, . . . (r— 1)"", (r+ !)'+», . . . «• + (-1)'- + 3 -^ (l1, 2á, 3* . . . (r- l)'"", (r+ !)'+«. . . . ««
+.-f (— 1X + '- ' ~-^- ('l1, 2-, 3;í,...(r    -2r-^,(r — l)', 1, 2á, 3»  . . . (r-   1)''    l, (r+
+l-8,
+fflk                  (II—k\
+- Kr     . -4- 1        «—i
+XVII. ﻿Symbol   K>         znamená   součet    všech   kombinac    bez    opakování (n — /')-té třídy   z   (;/— 1)   prvků,   totiž   l, 2, ... (r — 1), (r-}-\), . . . «, při čemž  A'ÍO) = l. Potom lze psáti
+n\     (»—!)!     (M - - 2)!      (M —3)!
+(r --2! (H-l)
+;•       n — r     u — r — l n — r — 2 ~lí\~~(n — í)!     («~^""2J! ~(n~—~3! ~77.
+•                                                                                                                     //                                                           A                      •         »-
+^ (r-2)! (r-3) L..3! 2! 11 V (- 1)''ř*   ~~   AT^
+...(/•-}-2)l   (ř-j-í)""!   H   (r—l)l   (r—2)1   (r—3)l...3! 2! II
+čili
+____________^__^lUL-J!!1-
+"" ř~(« — r) (;7— r— lT(/7— r""— 2)777372717^^1) \ '
+(6)
+podobně
+/í/ť                      i w    X-1
+_!)>•+*                  .   A-;.
+x-   i                          « -+- l        «—i
+r! (« — /')!
+(« — r) ! Poněvadž «,. zz «„...,-, platí identita
+(8)-
+
+Vypočtěme dle vzorce (6) konstanty «,. Cotesovy methody na př. pro // zz 6, tedy vzhledem k # -j- l = 7  funkčním hodnotám. Sestavením potřebných vedlejších výpočtů obdržíme
+l, 2, 3, 4, 5,(6)*); ^ = 1,^ = 15^;= 85, A3=225, A'4zz274, A: = 120. l- 2, 3, 4, 5), 6 ; A'0 = l, A't = 16, A'3 = 95, Á'8 =260, A'4 =324, A""5 = 144. l, 2. 3, (4), 5, 6 ; A'0zzl, A', =17, /C = 107, /v, =307, A;=396, AT5zr.l80. 1. 2, (3), 4, 5, 6 ; A'0= I, A',zzl8, A; = 121, K.^372, A4=508, A; =240. l, '2), 3, 4, 5, 6 ; A'() = l, A't = 19, A"", = 137, AT,zz461, A'4=702, A; =360. ' l ', 2, 3, 4, 5, 6 ; A„ = l, A'1=20! A'ázzl55) A',=580, A'4=1044, AI =7 20.**)
+*) Uzávorkování  číslice  znamená,   že se má tato  při tvoření součtů kombinac ynechati
+stupně.
+)   Součty  A' ;_• ,   K •• ,   A' f ,   Á"" f ,   A' 2 ,   A' l    tvoří arithmetickou   řadu /«-ho
+XVII. ﻿6! O!
+f
+41 ""840""'
+.260 —
+""5!  l! _216 840 '
+-'.180+*. 396-^.307-^'.
+4! 2! 27 r 840 '
+f 240-^.508+-L.372-
+66
+3! 3!
+272
+84ď
+Hodnoty tyto shodují se s hodnotami, jež vypočítal C o t e s pro případ, vztahující se k 7 funkčním hodnotám.
+2. Stanovíme-li hodnotu integrálu (1) výrazem (2), dopustíme se chyby, když /// > n.
+Označíme-li tuto chybu pro meze od g do h symbolem
+můžeme psáti
+D f (.r) =  f / (.r) d -r - v J] «r , / (^
+^                                    A'                                                     ^      O
+Z tvaru pravé strany patrno, že tu platí obecně Ď V ^ - /* (-r) = V ck • D f, í.v)
+u      ^""""                                                  '^""                   !'
+a tedy speciálně
+Když
+* . D x* .
+f (.v) — a0 f </, x -f- ""o -ť2 -l- • - •   f a„ x"" + ""//-l-i ^"" r'
+XVII. ﻿jest
+(9)       D f (.r) = a„+i J) .i-""+l + rt„+2 D x""
+-f ^,3^.r«+3-f-
+neboť   D x'"" == O pro m 5^ n.
+Vyjádřeme /J .r'""   pomocí    D x'"" .
+Položme
+poněvadž
+v            h-r g
+""
+(/ -{- -r)'"" ^ -r
+a poněvadž konstanty «^ jsou na mezích integrálu nezávislé, můžeme psáti
+D x'"" — D (p -f x}'"" — D (pm -f- (m\ p'""-1 x -f . . . -i- (/«)„ /""'-"" ^r"" -f
+Ježto však
+.r'"" =: O pro /// r^ «,
+obdržíme
+~r ~2
+D x>
+--...
+Dosadíme-li do (9) za D x'""   pro m — « -}~ l? n \- 2, . . . .   příslušné
+.í'
+hodnoty z (10), obdržíme po patřičném uspořádání
+-f • • .
+XVII.
+f(.v}=Dx»+^.[all{l + ~ Y ﻿10
+4- D
+\a„ ; , -f
+tedy
+.r"" U3. [a„-i 3 + O -f- 4), ,r„+4 /' -f- (// - 5),
+') AJ    D x""+'A   l
+~ ~2
+V tomto výraze jest však D .ť"" _=: O, je-li ///  liché číslo, třebas větší
+2
+než n, které může při tom býti sudé nebo liché. Pro tento případ jest totiž
+f #""dx —O,
+což také podává vzorec (2), neboť pro liché /// jest  v,- — to vůbec  a, =z «„..,. , následkem čehož
+-j'„_r a mimo
+v        «,.jv == O.
+r    (i
+Pro sudé ;/ z= 2 //  můžeme ted}' psáti
+pro liché n — 2 fi -j- l  pak
+-r -T
+XVII. ﻿11
+Z toho jest patrno, že vzorec (2) odvozený pro sudé n =: 2 ,u použitím lichého počtu n -j- l — 2 tu -f- l funkčních hodnot j',- platí přesné také ještě pro funkce nejblíže vyššího lichého stupně n -j- l = 2 (i -)- 1.
+Vzorec (2), odvozený pro liché « = 2 tu -l- l použitím sudého počtu ;/ -p l — 2 ,« 4- 2 funkčních hodnot neplatí již přesně pro funkce nejblíže vyššího sudého stupně n -j- l =: 2 ;» -j- 2.
+Pro sudé ;/ — 2 t« platí tedy také
+7'                                                                 If
+\  .r"" ' l d .\- =: í' V «/• J'/ > ""
+čili
+tak že (12)
+-f- 2
+Tato   rovnice   platí   jen   pro   sudé // — 2 ti,   avšak  nikoliv  pro liché
+= 2 (i r i.
+Na základe tom a vzhledem k soustavě rovnic (5) platí,   položíme-li
+l1       r)1      31	1           ;/1
+i ,      — ,     <j ,	.    * ,       2
+l2,     2^',     3S,     .	j        ;/• ..«2,        3
+	i
+	
+	n""
+1 u           9 //           O;/	
+1   ,          ^   ,          O   ,	*H-i
+i M+I    9„-i-i    O„-LI	«4-i      w""""rl
+'   ,/ - 2  i
+pro sudé w zz 2 ,u
+(13)                                                       ^.«-
+pro liché ;/ z= 2 /t -f- l  však
+(14»                                               4sM-^
+Rozložíme-li mocninný determinant d„ : i, jenž jest stupně (;/ — l)-ho, dk- elementů posledního sloupce a užijeme-li Studničkova theorému 0 determinantech mocninných, můžeme po krátké redukci psáti
+\ ... 2' l! V (_
+—
+Symbol A'„  /. znamená opět součet kombinac bez opakování (n — X-i-té 'y čísel  1,2,..    //, při čemž A'0 = 1.
+XVII
+•i ﻿12
+Z rovnice (13)   plyne   na   základě   relace (15)   zajímavá   identita pro jakékoliv kladné a celistvé tu
+(16)
+
+o
+Na př. pro 2 u ^= 6 jest ; = 720, /f5 = 1764, h\ = 1624, A', = 735, A'ž =175, A', = 21, A'0 = l,
+tak že
+6*
+A'ó-x- = ~ . 720 — ~ . 1764 — ~ . 1624 — -^3                  4
+. 735+. 175-       .2
+6/
+XVII."

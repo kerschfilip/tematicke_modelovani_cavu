@@ -1,0 +1,651 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK I.
+TŘÍDA II.
+ČÍSLO 35
+/           V  9
+THEKT HE ft EIPEB MENTALN PB
+K NAUCE O STROJÍCH ELEKTRICKÝCH
+NA PROUDY STŘÍDAVÉ.
+PÍŠE
+DR   K.  DÓM A LIP
+PŘEDLOŽENO   DNE  '25).   DUBNA
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VEPY, SLOVESNOST A UMĚNÍ.
+1892. ﻿Ti SEKM .1 OTTV v J'RA/K ﻿Ve vývinu strojů elektrických lze hlavně tři charakteristické doby rozeznávati. — V první době sestrojovány byly stroje s větší působností, po většině stroje na proudy střídavé, se snahou pomocí commutatorů učiniti z nich stroje na proudy stejnosměrné, jelikož stroje na proudy střídavé jen obmezené působení jevily. Účinky, které na směru proudu jsou závislý, jako účinky chemické, nebylo možno jimi docíliti. Commutatory tyto při větších strojích byly dosti složité, čímž i působnost strojů valně trpěla. Zavedením Pacinottiho collectoru Grammem závada tato odstraněna a tím konstrukce strojů elektrických nastupuje druhou dobu, ve které stroje na proudy stejnosměrné vysoké dokonalosti dostoupily. V této době stroje na proudy střídavé za příčinou jich omezeného upotřebení do pozadí zatlačeny byly. V novější pak době otázka přenášení energie do velké vzdálenosti stroje na proudy střídavé opět k platnosti přivedla, ano zdá se, že i první místo při technickém upotřebení zaujmou. Tím zahájila se třetí doba. V této době nejen theoretické prozkoumání, ale i stavba těchto strojů dostoupila na takový stupeň dokonalosti, že se stroji elektrickými na proudy stejnosměrné se na stejném stupni nacházejí, co pak se týče jich vhodnosti při upotřebení, je daleko předčí. Vzhledem na tuto důležitost technickou a i theoretickou, kterou tyto stroje v nynější době vynikají, hodlám v následujících statích o zjevech elektrických na těchto strojích jak se stanoviska theoretického tak i se stanoviska experimentálního na základě pokusů vlastních soustavně pojednati.
+Prve však než k rozboru působnosti strojů těchto přikročíme, dovolím si v následujícím podati nový rozvrh strojů elektrických vůbec.
+Obyčejně dělí se stroje elektrické dle různých vnějších známek, na příklad dle vinutí na induktoru aneb dle jich působení a t. d. Do takového roztřídění však nelze pojmouti všechny stroje, některé pak zaujímají své postavení výlučné. V následujícím podávám roztřídění strojů dle způsobu, jakým síla elektromotorická v nižných strojích pohybem induktoru v poli magnetickém vzniká. Roztřídímc-li stroje elektrické dle této známky vnitřní, lze všechny dosud známé stroje zařaditi do určitého řádu. — Stroje pak do určitého řádu spadající mají společné vlastnosti.
+Jak známo, vzniká síla elektromotorická pohybem uzavřeného vodiče v poli magnetickém, neb užijeme-li obvyklého způsobu mluvy — protínáním silokřivek magnetických — ať již protínání toto děje se tím, že induktor se ﻿^1
+pohybuje a magnetické pole jest v klidu, neb obrácené, pohybuje-li se pole magnetické a induktor jest v klidu. Dle toho, jakým způsobem silokřivky se protínají, lze roztříditi stroje na tři zvláštní řády.
+Ve strojích elektrických pohybuje se induktor neb po případě pole magnetické v kruhu. Magnetické póly jsou v kruhu rozestaveny, podobně i cívky indukční, a protínání silokřivek děje se pohybem otáčivým. Ku snadnějšímu seznání působení stroje přeměníme si pohyb otáčivý v pohyb postupný. V obrazci 1. značí S J střídavě nastupující póly magnetické severní a jižní
+polarity, křivka pak sinusová značí intensitu pole magnetického na různých místech. Do prvního řádu lze počítati všechny stroje, v nichž poloha cívky a prvku proudového zobrazena jest v obr. 1. (A, B). Uvedeme-li si na mysl průběh silokřivek mezi dvěma póly opačné polarity, lze pohyb prvku proudového, který ve stroji se děje v kruhu,
+v našem schématu však
+pohybem postupným od levé ruky ku pravé, takto stanoviti: Rovina tímto prvkem proudovým položená, pohybujíc se ve směru naznačeném, protíná svou hranou silokřivky pole magnetického. Ku stanovení výslední síly elektromotorické, co směru síly této se týče, užijeme pravidla Pfaundlerova. Díváme-li se ve směru pohybu lineárného prvku a otočíme prvek ten směrem ručky na hodinách do polohy silokřivky, kterou právě prvek tento protíná, tu ve směru, kterým se dostaneme ku severnímu pólu magnetu, vzniká síla elektromotorická.
+Ku stanovení pouhého směru síly elektromotorické v prvku proudovém B dostaa, stanovíme-li směr a velikost síly této v bodech (a, b\ tedy v tečnách v těchto bodech ku kruhovému proudu vedených. Dle svrchu uvedeného pravidla bude směr síly elektrické v obou případech označen šipkami, jak v obrazci naznačeno.
+Síly tyto v prvku proudovém B působí v opačném smyslu, jelikož však a pohybuje se v intensivnějším poli magnetickém než b, bude i síla elektromotorická quantitativné větší, a výslední síla elektromotorická bude směřovati ve směru šipkou v prvku kruhovém označeném. Dle pravidla Pfaundlerova seznáme, že směr sil elektromotorických v a a b zůstane nezměněn, pokud a i b se pohybují v severní části pole magnetického, pokud se pohybují mezi body indifferentními, jakmile však a neb b tuto čáru indifferentní překročí, nastane obrat směru síly elektromotorické v těchto bodech. Výslední pak směr síly elektromotorické v kruhovém prvku B závislý bude tedy na tom, v jak silném poli magnetickém tyto body se pohybují. Výslední směr v kruhovém prvku
+690 ﻿řídí se dle sméru síly elektromotorické bodu, který se nachází v intensivněj-ším poli magnetickém. Nad póly magnetickými, kde prvek proudový kolem pólu symetricky jest rozdělen, bude síla elektromotorická rovnati se nulle. Při dalším pohybu prvku proudového od pólu 5 ku čáře indifferentní bude převládati směr prvku b, jelikož v intensivnějším poli magnetickém se pohybuje; za čarou indifferentní v negativném poli pak převládá opět z téhož důvodu směr prvku v a, jelikož ale směr ten jest opačný směru, když a v positivnem poli magnetickém se nacházelo, bude v kruhovém prvku B síla elektromotorická výslední nezměněným směrem působiti v celé délce mezi póly 5 a J. Nad polem J opět síla elektromotorická rovnati se bude nulle, a za tímto polem vznikne opět síla elektromotorická v opačném smyslu, nastane tedy obrat proudu indukovaného. Z předcházejícího rozboru jde tedy na jevo, že kdykoliv cívky překročí póly magnetické, nastává vždy obrat proudu indukovaného. Chceme-li pak proudy tyto střídavého směru usměrniti, třeba položiti commutator s přerušující (isolující) vložkou do polohy axiální. —
+Do tohoto prvního řádu strojů elektrických přísluší všechny stroje, které před Pacinottim (Grammem) objeveny byly a i velká řada strojů novějších na proudy střídavé. Stroje tyto mají společnou úpravu commutatoru, stejné uspořádání pole magnetického, a stejné vinutí na cívkách. Pravidla pro úpravu commutatoru pro uspořádání magnetu a vinutí cívek plynou z předcházejícího rozboru, a nelze mi na tomto místě jednotlivě o nich pojednati, jen připomínám zde toliko co charakteristickou známku strojů do tohoto řádu patřících: je-li magnetické pole utvořeno ze dvou řad magnetů, musí nejen magnety vedle sebe ležící míti opačnou polaritu, ale i magnety naproti sobě postaveny. Cívky pak, je-li jich počet týž co počet magnetů na jedné straně, střídavě opačně vinuty, jestli všecky cívky v jeden celek jsou spojeny.
+Do druhého   řádu   lze  počítati všechny  stroje, v nichž poloha cívky  neb prvku kruhového zobrazena jest obrazcem 2.   Pohyb prvku kruhového v magnetickém poli lze tím způsobem  stanoviti, že rovina   kruhovým  prvkem    tímto    položena, svou   plochou  silokřiv-ky  magnetického pole protíná. Užijeme-li opětně pravidla Pfaundlero-va ku stanovení směru sil  elektrických  v   bodech  a, b, seznáme, že síly tyto  směřují směrem šipkami v tečnách v bodech a, b sestrojených. Směry sil těchto v prvku kruhovém mají opačný směr a výslední směr opět bude tu směr bodu a, jelikož  bod tento pohybuje se v intensivnějším poli magnetickém.   Jelikož bod tento  stále  v  intensivnějším   poli   magnetickém  se
+691 ﻿pohybuje, rozhoduje směr síly elektromotorické v a o směru indukovaného proudu v prvku kruhovém. Pokud se prvek tento pohybuje v severní části pole magnetického od jedné čáry indifferentní ke druhé, nemění se směr síly a tím také se nezmění směr indukovaného proudu. Jakmile však prvek kruhový projde indifferentní polohou, zamění se také směr síly v a a tím obrátí se také směr proudu indukovaného.
+Z tohoto rozboru jest patrno, že nastává obrat proudu v prvku kruhovém, kdykoli překročí čáru indiťferentní neb jinak také polohu aequatoriální zvanou, a tím právě liší se podstatně stroje do tohoto druhého řádu patřící od strojů prvého řádu, kdež obrat proudu nastal přechodem tak zvané polohy axiální. Chceme-li proudy tyto střídavé usměrniti, třeba položiti commutator s přerušovací deskou (isolující) do polohy aequatoriální. Do tohoto druhého řádu patří stroje Pacinottiho, Gramma a jiných, tak zvané stroje prstenové a mnohé stroje na proudy střídavé novější doby.
+Do třetího řádu lze počítati stroje, v nichž poloha uzavřeného prvku proudového zobrazena jest v obrazci 3. Prvek proudový objímá v případě
+tomto celé pole magnetické. Pohybuje-li se jedna čásť a b v severní části pole magnetického, pohybuje se druhá čásť c d opět v jižní části pole magnetického. Dle pravidla Pfaundlerova vznikne indukce směrem šipkami v obrazci naznačenými. Směry těchto proudů v tomto případě v uza-vřeném vodiči se sesilují. Jelikož tu opět směr síly
+elektromotorické se nemění, pokud se vodič pohybuje v téže části pole magnetického, zůstává také směr indukovaného proudu týž. Jakmile však vodič překročí čáru indifferentní, obrátí se opět směry sil elektromotorických v obou částech ab a cd a směr proudu indukovaného bude opačný se směrem proudu dřívějšího. Nastává tedy obrat proudu na strojích do třetího řádu spadajících pravé tak, jako na strojích příslušících do řádu druhého, kdykoliv vodič uzavřený překročí čáru indifferentní. Úprava commutatoru pro proudy stejnosměrné bude tedy táž, jako při strojích řádu druhého. Do tohoto třetího řádu spadají tak zvané stroje bubnové a některé stroje na proudy střídavé. Úprava magnetů strojů příslušících do těchto dvou řádů liší se od úpravy magnetů strojů prvního řádu tím, že magnety protilehlé mají polaritu stejnou, kdežto u strojů řádu prvého polarita protilehlých magnetů byla opačná. —
+Střední síla elektromotorická.
+Na základě principu o setrvačné energii lze vyvoditi známý zákon indukce. Pohybuje-li se vodič v magnetickém poli způsobem takovým, že protíná silo-
+ ﻿křivky pole magnetického, nastane indukce, a síla elektromotorická rovná se počtu silokřivek, které v jednotce časové vodič tento protíná. Tvoří-li vodič uzavřený obvod proudový v magnetickém poli, jest síla elektromotorická na změně silokřivek obvodem tímto procházejících závislá, a sice rovná se opět této změně v jednotce časové. Na strojích elektrických tvoří vodič uzavřené obvody proudové, řídíme se tedy při vypočtení síly elektromotorické tímto pravidlem poslednějším. Máme-li na mysli stroje spadající do prvého řádu, seznáme, že největší počet silokřivek plochou proudovou procházeti bude, když tato nad póly magnetickými čili jinak v poloze axiální se nachází. Přejde-li vodič z polohy axiální nad čáru indifferentní, bude počet silokřivek plochou procházející rovnati se nulle, jelikož v této poloze touto plochou stejný počet kladných a záporných silokřivek prochází. Při pohybu vodiče od pólu do následující čáry indifferentní klesne počet silokřivek plochou proudovou procházející z N na. nullu, nazveme-li N počet silokřivek plochou proudovou nad polem magnetickým procházející. Doba, ve které vodič ze své polohy nad polem severním přijde opět na následující severní pól, nazývá se periodou a značí se T. Jelikož dle předcházejícího počet silokřivek, procházející plochou proudovou, změní se o A^ v čase, ve kterém vodič z polohy své nad polem
+T
+dospěje nad čáru indifferentní, tedy v čase — bude střední síla elektromotorická,
+která při tomto pohybu vzniká
+4N
+V přiloženém obrazci 4. naznačen jest stroj spadající do prvého řádu strojů elektrických. Magnetické pole skládá se ze dvou věnců magnetů. Magnety vedle sebe a proti sobě ležící mají polaritu nestejnou.
+Počet magnetů na jednom věnci budiž ;#, počet pak cívek budiž týž. Vedle sebe ležící cívky jsou opačně vinuty, bude tedy síla elektromotorická, je-li v každé cívce // závitů
+4 m n N
+E
+T
+značí-li v počet obratů za  minutu, bude počet
+v   ni
+Obr.  4.
+period za vteřinu
+60   2
+a tedy doba jedné periody
+T
+2.60
+v. m
+a síla elektromotorická:
+4.v. m* . n . 2.60
+v . m* . n N
+tíl)3 ﻿8
+Harmonická změna síly elektromotorické.
+V předcházejícím odstavci určili jsme střední sílu elektromotorickou, která se ve stroji elektrickém budí. Síla tato však není stálá, ale jak z předcházejícího rozboru na jevo jde, proměnlivá, a sice periodicky proměnlivá. Stejné hodnoty sil elektromotorických vyskytují se ve stejných dobách. Jakým způsobeni síla elektromotorická se mění, vidíme na následujícím jednoduchém případě. Uzavřený vodič mnop (viz obr. 5.) nechť pohybuje se rovnoměrným
+pohybem otáčivým ve stejnorodém poli magnetickém ve směru v obrazci šipkou označeném. Při svém pohybu protíná
+•    lineárný   vodič  m n   silokřivky magnetické a síla elektromotorická jest dle předcházejícího závislá na počtu silokřivek, v jed-
+•    notce časové protnutých. Jelikož dle   předešlého   lineárný  vodič m n pohybuje se rovnoměrnou rychlostí v kruhu, lze za tento
+0
+pohyb dosaditi pohyb harmonický. Promítneme-li pohyb tento na průmět vertikální, bude se ;// n v tomto průmětu pohybovati pohybem harmonickým. Počet silokřivek protnutých v jednotce časové bude na rychlosti tohoto pohybu závislý, předpokládáme-li pole stejnorodé. Pohyb tento vyjádří se, jak známo,
+vzorcem:
+t
+Obr. 5.
+a sin 2 n
+T
+kdež s značí   dráhu   v čase / vykonanou, a pak  amplitudu  a  T dobu jedné periody, a rychlost pohybu harmonického vyjádří se, jak známo:
+v
+dt
+7
+cos-
+T
+značí-li a počet silokřivek protnutých vodičem při pohybu jeho ze středu pohybu harmonického do největší vzdálenosti, bude s měřiti počet silokřivek protnutých v čase /, a jelikož síla elektromotorická na počtu silokřivek v jednotce časové protnutých je závislá, bude:
+E
+n a        ""2 n t
+cos
+T
+T
+kdež a lze také v tom smyslu pojmouti co počet silokřivek, který uzavřeným vodičem mnop v naznačené poloze prochází.
+Z předcházejícího rozboru lze snadně vyvoditi, jakým podmínkám třeba vyhověti při strojích elektrických na proudy střídavé, aby síla elektromotorická ve stroji vznikající měnila se harmonicky. Pohybuje-li se induktor v kruhu rychlostí stejnoměrnou a sice ve stejnorodém poli magnetickém, vzniká harmonicky proměnlivá síla elektromotorická. Z předcházejícího rozboru jde na jevo,
+694 ﻿že lze rovnoměrně otáčivý pohyb induktoru ve strojích elektrických přeměniti promítnutím na rovinu, kolmě stojící na směru silokřivek magnetických, v pohyb harmonický. Ze známých pak vlastností tohoto pohybu lze seznati způsobem jednoduchým zákony o působení strojů elektrických. Koná-li se v témže prostředí dva neb více pohybů harmonických, lze tyto pohyby složiti v jeden pohyb výslední; podobně lze i pohyby takové rozkládati. Jelikož ve strojích elektrických vznikají v obvodu proudovém síly elektromotorické, stejné sice periody, avšak nestejné amplitudy a měny, chceme v následujícím vyhledati mathematický a geometrický výslední pohyb dvou takových pohybů harmonických.
+Dva pohyby harmonické stejného směru a stejné periody a nestejné amplitudy a měny vyjádří se, jak známo, rovnicemi
+x = a sin (m t -\- b) ,
+x\ •=. av sin (mt~\- b^) ,
+kdež  značí  a, al  amplitudy,  b a L,  měny částečných   pohybů   harmonických
+a m
+~
+• Výslední pohyb :
+X = x -f- x\ = a sin (m t -\- b} -\- av sin (m t -\-z rovnice této jde :
+X — (a cos 6-\-at cos ^,) sin ;// / -|- (a sin ó-\- a} sin ^,) cos ;// / ; dosadíme-li do této rovnice za
+,                               í    a sin b 4- a. sin ^, = A sin ,#,
+(a)
+a cos ^ -4- #i cos ^. = A cos # ,
+\                                         lil
+obdržíme
+^=yJ sin (/«/+ L)
+co pohyb výslední.
+Z rovnice této jde, že výslední pohyb jest opět pohybem harmonickým, mající stejnou periodu jako pohyby částečné, avšak jinou amplitudu a jinou měnu. Z rovnice (a) určíme tyto hodnoty:
+A* = a,2 -f a* -f 2aa, cos (L, — b) ,
+^ sin b -\- ťř, sin ^, # cos ^ -l- ^. cos
+»
+\
+OP
+Úlohu předcházející lze způsobem geometrickým takto řešiti. Na místo pohybu harmonického   lze   dosaditi   pohyb   rovnoměrný v kruhu. Nechť tedy první pohyb nahrazen jest pohybem bodu  Q v kruhu   opsaném poloměrem rovným   amplitudě tohoto pohybu částečného = a, a druhý pohyb nahrazen  rovnoměrným  pohybem bodu (?, v kruhu opsaném poloměrem #, amplitudou druhého částečného pohybu. Nestejné měny obou těchto  pohybů vyznačeny jsou v obrazci 6. úhly Q O A  a
+Obr 6.
+695 ﻿10
+QiOA. Sestrojíme-li na O Q a O Qv rovnoběžník, bude úhlopříčna (9 ^amplitudou výsledního pohybu harmonického a ^ROA jeho měnou. OŘ se nemění, jelikož OQ a OQl jsou stálé, podobně nezmění se i měna K A7 CM, jelikož oba pohyby částečné mají stejnou periodu. Jak z obrazce na jevo jde, rovná se výslední pohyb harmonický
+Podobně jako lze harmonické   pohyby skládati,   lze pohyby tyto i rozkládati.
+f
+Výslední síla elektromotorická.
+Počet  silokřivek  protnutých   v čase  / vodičem   otáčecím  se  rovnoměrně ve strojích elektrických vyjádří se, jak nahoře odvozeno bylo, vzorcem
+N
+cos
+
+0)
+předpokládáme-li, že vodič z polohy axiální počne se pohybovati a značí-h
+T protnutý počet silokřivek v čase / =n -j- aneb silokřivky procházející plochou
+uzavřeného odvodu proudového v poloze kolmé na silokřivky magnetické, bude A"" měřiti protnutý počet silokřivek v čase /, neb počet silokřivek, který právě uzavřeným obvodem proudovým prochází.
+Síla elektromotorická, jak známo, měří se změnou počtu silokřivek v jednotce časové, jelikož:
+(2)
+dN dt
+2 n N„             t
+z, n J.»o     •     í-»
+— sin 2 TI
+T
+T   ' bude:
+(3)     e = e0 sin 2 n
+T
+když vzorce
+(4)
+Naneseme-li na osu X čas a na osu Y počet silokřivek (viz obr. 7.), po případě sílu elektromotorickou, obdržíme křivky, zobrazující harmonickou změnu těchto hodnot. Z obrazce toho jde, že v čase, kdy plochou proudovou prochází největší počet silokřivek, síla elektromotorická rovná se nulle, a opačně síla elektromotorická jest největší,
+plochou   proudovou   silokřivky   žádné   neprocházejí.    Z  předcházejícího
+jde, že maximální síla elektromotorická
+T
+096 ﻿11
+jelikož, jak nahoře dovezeno bylo, střední síla elektromotorická
+l No (5)                                              *• =
+T
+bude-
+n
+Dělíme-li  rovnici   (3) pro intensitu proudu
+odporem  celého  obvodu  proudového, obdržíme  vzorec
+ťO        •        c\         l
+i = — sin 2 TI -=- , r             l
+kterážto rovnice souvislost základních hodnot elektrických stanoví.
+Ve strojích elektrických však poměry nejsou tak jednoduché, jak v předcházejícím případě se předpokládalo. V uzavřeném obvodu proudovém působí dvě síly elektromotorické periodické, jedna majíc původ svůj ve vnějším poli magnetickém, druhá ve vlastní indukci vznikající měnivým proudem v cívkách induktoru, která původní sílu elektromotorickou seslabuje
+(8)
+e0 sin
+L
+di ~Jt
+kdež L činitelem vlastní indukce se zove a na rozměrech cívky závislým jest Dělíme (8) odporem r, obdržíme:
+e0        2ní       L    di
+— sin
+T
+kteroužto rovnici lze příslušnými substitucemi, jak známo, v následující rovnici differentiální přeměniti
+(10)                            di-\-aidt—bdt = O .
+Provedeme-li integraci tuto a zavedeme-li opět původní hodnotu, obdržíme
+c
+o
+(II)
+sin 2 n ( -~-----ty l
+vzorec pro stanovení intensity proudové, když vedle vnější síly elektromotorické působí i vlastní indukce.
+Chceme v následujícím podati jednoduché, na uvedené již methodě geometrické se zakládající řešení tohoto případu. Jak již uvedeno, působí v obvodu uzavřeném stroje elektrického dvě periodické síly elektromotorické, jedna vnější, druhá vnitřní, která indukovaným proudem vzniká. Induktorem procházející proud tvoří silokřivky a tím vlastní neb vnitřní síla elektromotorická vzniká, síla tato
+j  — dN
+(12)
+dt
+697
+- • ﻿12
+jest tedy, jak nahoře uvedeno, na změně silokřivek závislá, a jelikož silokřivkv mění se intensitou proudu, bude také:
+(13)
+L
+dt
+značí-li /"",  skutečnou   intensitu   proudu ve stroji a  L činitele, který na rozměrech a úpravě induktoru jest závislý.
+Vyjádříme-li
+i    •   o
+— sin 2 n
+r
+T
+(14)
+bude
+L
+rr l     r
+cos:: n
+(15)
+čili
+_
+_      e. cos 2 n -= l r                 l
+(16)
+Z rovnice této  jde, že síla elektromotorická vnitřní  indukce jest periodickou funkcí téže periody jako skutečná  síla elektromotorická, vzhledem však
+n
+na měnu jest o — čili 90° pošinuta. Amplituda této síly elektromotorické
+s
+2aL
+Původní čili vnější síla elektromotorická  rozkládá  se tedy ve dvě složky
+téže periody ve měně však o
+n
+rozdílné. Značí-li  O B v obrazci 8. amplitudu
+periodické vnější síly elektromotorické, budou kolmo na sobě stojící přímky O C a C B značiti amplitudy skutečné síly elektromotorické a vnitřní indukce. Jest tedy amplituda vnější síly elektromotorické přeponou pravoúhlého trojúhelníka, jehož odvěsny jsou amplitudy skutečné (et) a vnitřní síly elektromoto-
+/
+rické (e^). Uhel a u sestrojení trojúhelníka určí se z původní rovnice
+Tr
+tg a .
+(17)
+OérS.
+Z pravoúhlého trojúhelníka jde:
+e0 cos a
+(18)
+e<> = e0 sin a
+(10)
+098 ﻿13
+Dosadíme-li za tg a hodnoty z rovnice (17), obdržíme:
+(20)
+(21)
+Tr
+V-+fi
+amplitudy sil periodických.
+Vyjádříme-li periodickou změnu vnější, původní síly elektromotorické rovnicí
+c0 sin 2 TT
+T '
+(22)
+bude periodická změna skutečné síly elektromotorické vyjádřena:
+o
+sin 2
+•(7—»)•
+(23)
+kdež 2 TT qp značí -)^ «, o který měna tohoto pohybu vzhledem na původní sílu elektromotorickou se opozdí; toto opoždění měny vypočte se dle svrchu uvedeného vzorce
+Periodická změna síly elektromotorické vnitřní vyjádří se:
+2«L Tr
+— cos 2
+
+- +
+(24)
+Dělíme-li rovnici, skutečnou sílu elektromorickou vyjadřující (23), odporem obvodu proudového, obdržíme skutečnou intensitu proudovou.
+rVl +
+sinán l-ar —<f\
+(25)
+neb
+sin 2 n (-~-----g l .
+Výraz ve jmenovateli pod odmocnítkem nazývá se také odporem zdánlivým. Srovnáme-li výraz ten, určující skutečnou intcsitu v obvodu proudovém, ve kterém dvě síly elektromotorické vznikají, vnější a vnitřní síla elektromotorická, jak nahoře uvedeno bylo, zvětší se tedy odpor skutečný zdánlivě a současně měna pohybu harmonického se zamění. •— V přiloženém obr. 9. naznačena jest periodická změna vnější síly elektromotorické křivkou tmavější a periodická změna
+699 ﻿14
+skutečné intensity proudové slabší křivkou. Jak z obrazce tohoto na jevo jde, jest křivka intensity pošinuta vzhledem na křivku sil elektromotorických vněj-
+ších.   Maximum  síly   elektromotorické  vnější  a  maximum  skutečné intensity proudové nevyskytují se současně, maximum skutečné intensity proudové na-
+jx-stupuje později o -
+a
+Věta geometrická.
+V přiloženém obrazci 10. značí OP a O Q svou délkou a polohou dva pohyby harmonické téže periody, nestejné měny. Otáčí-li se  O P a. O Q stejnou
+úhlovou  rychlostí, budou  jich   kolmé  průměty na
+^                                     osu O Y zobrazovati příslušné pohyby harmonické.
+Otočí-li   se   tyto   amplitudy jednou   kolem,   bude střední hodnota součinů všech průmětů (Op, Oq)\
+S
+cos P O Q ,
+Q
+C
+CbrlO.
+Jest-li  OP=OQ  a
+t. j. rovná se polovině součinu amplitud násobenému cosinem úhlu, který obě amplitudy při geometrickém zobrazení svírají. Důkaz mathematický podal Flemming ve svém spise »The alternate current transformer« p. 118, a geometrický Blakcsley ve spise »Alternating Currents*.
+P O Q — O, bude i Op—Oq^ obdržíme: OP*
+t. j. střední hodnota čtverců harmonické změny rovná se polovině čtverce amplitudy. Měříme-li intensitu proudu dynamometrem, jest účinek závislý na čtverci intensity procházejícího proudu harmonického; měříme-li tedy dynamometrem střední hodnotu čtverců intensit procházejícího proudu, bude tedy:
+—
+TrŤ
+Va
+700 ﻿15
+značí-li /', střední hodnotu čtverců a i0 amplitudu, maximální hodnotu intensity harmonického proudu.
+Značí-li OP amplitudu vnější síly elektromotorické a O Q amplitudu skutečné intensity proudové, procházející obvodem proudovým, bude součin
+OPXOQ
+S
+cos POQ měřiti práci v obvodu proudovém vykonanou, je-
+likož součin ten jest střední hodnotou všech součinů příslušných průmětů kolmých, kteréžto součiny měří práci elektrickou v určitých dobách proudu harmonického. Označíme-li amplitudu vnější síly elektromotorické E0 a amplitudu skutečného proudu yo a je-li úhel, který amplitudy při geometrickém zobrazení svírají, roven a, bude práce této síly elektromotorické vnější v obvodu proudovém vyjádřena vzorcem:
+o Jo
+p
+- cos a
+a práce vnitřní síly elektromotorické v obvodu proudovém:
+'° ?!- cos 90° = O ,
+je-li E'0 opět amplituda vnitřní síly elektromotorické. Vnitřní silou elektromotorickou, neboli indukcí vnitřní, žádná práce se nezíská, aniž se jaká spotřebuje. Vnitřní indukcí nahromadí (utají) se tedy čásť energie, která opět ve vhodném okamžiku se uvolní. Energie utajená a uvolněná se rovnají.
+Střední sila elektromotorická.
+Svrchu uvedené zákony o proudech střídavých chceme na stroji elektrickém Ganze a spol. experimentelně dovoditi. Dle přiloženého obrazce 1 1. vzniká pole magnetické čtyřmi póly magnetickými, které na ose radiálně připevněny jsou. Vinutí sousedních pólů jsou střídavě opačným směrem vinuta. Tyto magnety objímá věnec ze čtyř cívek, které magnetům naproti jsou položeny, a plochy protilehlé cívky a magnetu se rovnají. Cívky opět jako magnety jsou střídavě opačným směrem vinuty. Magnetické pole na tomto stroji vzniká proudem, který se z jiného stroje elektrického do závitů elektromagnetů přivádí. Magnetické pole otáčí se v tomto stroji a cívky nacházejí se v klidu. Myslíme-li si obvodem proudovým cívky položenu rovinu, protínají se silo-krivky plochou této roviny a stroj tento sluší tudy do druhého řádu našeho rozdělení zařaditi. Obrat proudový nastává tedy v poloze aequatoriální. Proud periodický, který otáčením magnetů vzniká, bude míti dvě periody při každém otočení stroje. Je-li v počet obratů za minutu, bude počet period za vteřinu
+Obr.   11.
+tíU
+701 ﻿jr,
+a tedy doba jedné periody
+T
+Iv
+Rozměry stroje tohoto jsou následující:
+Každá cívka indukční obsahuje 69 závitů, tedy 4 cívky 276 závitů. Průřez železného jádra rovná se 52 rw2. Celkový odpor drátu cívek = 0'21 Í2. Na každém magnetu navinuto jest 1040 závitů, celkem tedy 4160; odpor celého drátu na magnetech navinutého rovná se 55-Q. Koná-li stroj 1250 obratů za minutu, vyvine se síla elektromotorická dle uvedeného vzorce
+__   v . m'2 .n.N
+~          30           '
+kdež N počet silokřivek na plochu obvodu proudového značí; je-li N^ intensita magnetického pole čili počet silokřivek připadající na jednotku plochy (cm-\ bude A^ i= Nt q a střední síla elektromotorická vypočte se dle vzorce:
+v . m*. n . q
+30
+v jednotkách  absolutních,
+kdež m počet magnetů značí. V našem případě m = 4; počet cívek rovněž m — 4; počet závitů v jedné cívce indukční n = 69 ; q, průřez cívky indukční = 52 <rw2; v počet obratů za minutu = 1250. Vedeme-li do závitů na elektromagnetu proud takové intensity, že intensita pole magnetického = 6000; obdržíme střední sílu elektromotorickou dle posledního vzorce, dělíme-li l O8
+E5 = 143  V v jednotkách Voltových.
+Experimentelní důkaz  o změně sinusové proudu ve stroji
+na proudy střídavé.
+Stefan* ve své správě o elektrické výstavě ve Vídni ukázal, jak lze experi-mentelně dovoditi, zdali změna proudu indukovaného ve stroji na proudy střídavé jest změnou sinusovou. Nahoře bylo dovezeno, že střední hodnota čtverců harmonicky proměnlivé síly elektromotorické rovná se
+o
+Yř
+kdež e0 maximum síly elektromotorické nebo amplitudu harmonické změny značí. Délíme-li rovnici tuto odporem obvodu proudového, v němž tato síla elektromotorická vzniká, obdržíme opět
+kdež /', střední hodnotu čtverců intensit a i0 amplitudu harmonického proudu
+
+zna.
+* Stefan, Offic, Bericht uber die Internationale elektrische Ausstellung in Wien p. 218. r. 1886.
+102 ﻿17
+Jelikož na stroji elektrickém, jehož rozměry nahoře jsme uvedli, s kterým řada pokusů provedena byla za účelem srovnání theorie s pokusem, vznikají dvě síly elektromotorické, vnější vznikající otáčecím se polem magnetickým a druhá vnitřní majíc původ svůj v induktoru stroje, vyjádří se harmonická změna skutečné intensity proudové vzorcem:
+V
+sin
+Amplituda této změny harmonické rovná se
+r*+
+bude tedy střední hodnota čtverců intensit
+O
+Napíšeme-li rovnici tuto způsobem
+l
+*"".
+t     \
+= -- <j>    .
+r     V
+(a)
+a naneseme-li   na  osu x  r*  a na osu y   r., ,a , obdržíme rovnici přímky
+y = a x -\- b ,
+ve kteréž
+a
+2    »
+_
+2
+Abychom harmonickou změnu proudu ve stroji dovodili, provedeme se strojem řadu pokusů tím, že měníme odpor obvodu proudového a určíme si současně střední intensitu čtverců proudu a zobrazíme si pak výsledky tyto graficky tím způsobem, že ve směru osy X naneseme čtverce vložených od-porů a ve směru osy Y zvratné střední hodnoty čtverců intensit. — Bude-li ^obrazující čára přímkou, pak jest tím důkaz podán, že lze předpokládati ve stroji tomto tuto jednoduchou změnu harmonickou. V následujícím chceme uvésti řadu pokusů, provedených na výše uvedeném stroji na proudy střídavé. V rovnici přímky jest skutečný odpor obvodu proudového a jeho intensita
+zprávy:  Kočn. I. Tr.  II.  Č. 35.
+703 ﻿18
+veličinou proměnnou. Nutno tedy při pokusu hleděti k tomu, aby ostatní hodnoty v rovnici uvedené během pokusu se neměnily. Jelikož e0 značí nám amplitudu vnější harmonické síly elektromotorické, a jelikož tato, jak již uvedeno
+kdež N0 maximální počet silokřivek procházejících induktorem značí, musí tento býti stálým. Podmínce této vyhovíme, když pole magnetické vnější jest stálé, vederne-li tedy kolem závitů elektromagnetň proud stálé intensity. Při pokusech našich veden byl proud ze stroje compoundního Siemens-e a Ilal-ske-ho, vloženým rheostatem stále ve stejné intensitě udržován byl, a sice intensita tato rovnala se l'51 A.
+Podobně třeba T stále ve stejné hodnotě udržeti, jelikož T periodu harmonické změny, která otáčením magnetického pole vzniká, značí, vyhoví se podmínce této tím, že pole magnetické stále stejnou rychlostí rovnoměrnou se otáčí. Magnetické pole otáčelo se rychlostí takovou, že v jedné minutě
+O       7
+nastalo 1300 obratů. Tím vyhovělo se také podmínce druhé, aby i výraz byl veličinou stálou.
+Hodnoty e0 a
+byly tedy při pokusech hodnotami stálými. — Změna
+odporů obvodu proudového provedena byla tím způsobem, že do vnějšího vedení vkládán byl odpor velkým rheostatem, jehož rozměry a úprava je taková, že v něm jen nepatrná, na celkový výsledek bezúčinná vlastní indukce vzniká. Podobné bylo i oteplení vloženého odporu procházejícím proudem jen nepatrné. Odpor vloženého odporu rheostatem měřen byl přímo po každém pokuse jednotlivém pomocí Siemensova universálního galvanometru, kterážto methoda. jak známo, zakládá se na tak zvaném můstkovém rozvětvení Wheatstona. Vnitřní odpor stroje a drátů přivodících měřen byl na konci celé řady pokusů.
+Intensita proudu měřena byla dynamometrem Ganze, ve kterém proud, jak známo, probíhá závity pevnými a jedním závitem pohyblivým, jichž roviny k sobě kolmo jsou postaveny. Závity tyto jsou za sebou spojeny tak, že týž proud pevnou a pohyblivou částí prochází. Účinek elektrodynamický jest zde úměrný, se čtvercem intensity procházející. Jelikož proud procházející byl harmonicky proměnlivým, jest intensita tímto přístrojem měřena
+i'.
+kdež í'0 znáči amplitudu harmonické změny skutečného proudu. Tímto účinkem proudovým pohyblivá čásť v elektrodynamometru se otočí ze své polohy původní, bude tedy                          ., __                                                             l
+kdež g> značí úhel, o který bylo třeba drát skroutiti, aby pohyblivý závit opět v původní své poloze se nacházel, a k značí redukční faktor elektrodynanio-
+M
+metru, který se známým způsobem určí z dané intensity proudu stejnosměrného. Redukční faktor tento na přístroji našem
+AT= 1-48.
+704 ﻿19
+
+V následující tabulce uvedena jest řada pokusů provedená způsobem, jak výše uvedeno.
+Intensita proudu závity elektromagnetů procházející = 1*51 A, počet obratů za minutu v = 1300.
+	**2	i ,*	1	r*	onn	
+	r	! $	»Y	30	«_mv/ • ' i 1 s	
+24-694	609-6	5-694	0-03084	20-32	9-25	
+16-288	265-35	8-240	0-014727	8-845	4-42	
+12-430	154-5	10-254	OO095iai	5-15	2-85	
+10-060	101-2	12-114	0-0068143	3-34	2-04	
+8-534	72-83	13-402	0-0055677	2-428	1-67	
+7-394	54-66	14-8	0-0045654	1-822	1-37	
+						
+Ve sloupci r nachází se součet odporu rheostatem vloženého a odporu drátů přivodících a induktoru stroje, kterýž — 0'604, značí tedy r odpor celého obvodu proudového.
+\e sloupci i's zaznamenány jsou střední intensity, měřené elektrodynamo-metrem a vypočtené dle svrchu uvedeného vzorce. V posledních dvou sloupcích znásobeny jsou hodnoty přiměřenými činiteli za účelem grafického znázornění. V přiloženém diagramu (tab. I.) naneseny byly hodnoty — na osu X
+oO
+a hodnoty 300 -77-^- na osu  K   Z grafického   tohoto   obrazu  jde, že hodnoty
+1 s
+uvedené mění se tu po zákonu přímky.
+y ZE: a x ~\- b .
+Hodnoty experimentelně nalezené jen nepatrně liší se od hodnot, které přímka tato spojuje.
+Ze shody této lze tedy souditi, že síla elektromotorická vnější v tomto stroji mění se harmonickým způsobem jednoduchým. Možno* tedy svrchu uvedené theorie o strojích na proudy střídavé, ve které se předpokládá, že změna vnější síly elektromotorické harmonicky se mění, při tomto případě užiti.
+V rovnici přímky
+y rr a x
+značí, jak nahoře dovozeno bylo:
+a
+2
+2*
+706 ﻿20
+Určíme si ze dvou pokusů na diagramu tyto konstanty.   Dle měřítka na diagramu obdržíme
+Xl = 15
+i =   7
+Dle skutečných hodnot jest:
+y; = 0-023
+F =
+240 0-013
+bude tedy:
+a = 4-762 X L=1-91   X 10 3
+Z hodnot těchto vypočteme
+204-9 ;
+40-1 ;
+2aL
+6-33
+a A = 0-02320 v jednotkách kongressem pařížským přijatých a
+L z= 0'0232G X W9 v jednotkách absolutních (cm. gr. sek.)
+Amplituda vnější  síly elektromotorické = 204'9 V, člen
+v      •
+T
+určuje
+změnu skutečného odporu v obvodu proudovém.   Zdánlivý odpor
+b
+2*L
+r
+Cbr.1L.
+lze geometricky sestrojiti co přeponu pravoúhlého trojúhelníka, jehož odvěsny jsou skutečný odpor obvodu proudového a tak zvaný odpor indukcí vzniklý. Z úhlu bca lze pak pošinutí měny určiti:
+tg« =
+Tr
+Dělíme-li amplitudu   vnější síly  elektromotorické  na odpor   zdánlivý,  obdržíme amplitudu skutečné intensity proudové. —
+Charakteristika stroje.
+V předcházejícím naznačili jsme střední hodnotu síly elektromotorické, neb střední hodnotu intensity vypočtené ze čtverců jednotlivých hodnot harmonicky proměnných
+e's      neb      t*,
+a tyto hodnoty vyjádřeny byly:
+o
+M.f                                          ~        ^___  _^^                                                                                                ^fc                                         —
+V?'                   V?""'
+kdež t'0 a i0  příslušné   amplitudy   harmonické změny   značí. — Vypočtemc-li
+700 ﻿21
+však střední  hodnoty z jednoduchých   hodnot   proměnných, obdržíme   střední hodnotu, kterouž označíme ťs a /, a tyto hodnoty, jak výše uvedeno, rovnají se
+2
+n
+o
+2
+71
+O   •
+kdež opět e0 a i0 amplitudy harmonické změny znáči.
+Dle předcházejícího bude tedy tato jednoduchá střední hodnota síly elektromotorické skutečné ve stroji, ve kterém vedle vnější síly elektromotorické harmonicky se měnící následkem vlastní indukce i vnitřní síla elektromotorická vzniká.
+* V-+(#-)''
+kdež zlomek
+o
+V-+(3L)
+amplitudu skutečné síly elektromotorické značí.
+Jestliže z této rovnice pomocí vztahu
+vyloučíme r> obdržíme:
+*
+'• J
+
+
+co rovnici ellipsy, která nám závislosť střední intensity skutečné a síly elektromotorické stanoví a charakteristikou stroje se zove.
+Naneseme-li na osu ústřední hodnoty skutečné intensity a na osu Ystřední hodnoty skutečné síly elektromotorické, obdržíme ellipsu, jejíž osa na Y značí střední hodnotu vnější síly elektromotorické, a osa na A' ležící střední intensitu skutečného proudu pro případ, že r rz: 0.
+n
+Výraz tento stanoví střední intensitu proudu, kterou bychom ve stroji při výše uvedených podmínkách obdrželi, kdyby skutečný odpor obvodu proudového rovnal se nulle.
+Osy ellipsy, charakteristiky stroje, lze z výše uvedené řady pokusů určiti. Jelikož
+204-9, bude
+130-5,
+a jelikož L =. O02326 v jednotkách kongressem pařížským přijatých, bude
+20-6
+707 ﻿22
+Charakteristika stroje, při intensitě magnetisující 151 A a při 1300 obratů stroje za minutu, vyjádří se rovnicí
+« a                 i *
+tf m
+=    l
+(20-6)2
+V přiloženém diagramu (tab. 2.) zobrazena jest charakteristika stroje tím způsobem, že na osu X naneseny jsou střední intensity, a sice tím způsobem, že jeden dílek měřítka rovná se jednotce Amperově, na ose Y nacházejí se střední hodnoty síly elektromotorické, a sice tím způsobem, že jednotky rovná se jednotce Voltově. Ellipsa zobrazena byla na základě daných os 2OG a liH)5.
+Srovnáme-li hodnoty experimentelně nalezené s hodnotami, které z diagramu najdeme, seznáme, že velmi dobře se shodují, jak z následující tabulky na jevo jde.
+	'•	ea  (exp.)	es (dle diagr.)	
+	5-127	126-6	126-4	
+	7-419	120-83	121-7	
+	9-23	114-75	116-6	
+	10-95	112-28	110-5	
+	12-065	102-98	105-7	
+	13-33	98-52	99-5	
+•				
+Ve sloupcích /, a cs jsou příslušné hodnoty experimentelně nalezené zapsány, kdežto poslední sloupec obsahuje hodnoty es dle diagramu nalezené. Charakteristika tato vyznačuje působnost výše uvedeného stroje jen tenkráte, jestliže se svrchu uvedeným podmínkám vyhovuje, je-li totiž magnetické pole vnější téže intensity, prochází-li závity elektromagnetu proud, jehož intensita — l -51 A a jestli počet obratů se nemění a rovná se 1300 obratů za minutu Z předloženého diagramu lze však vyvoditi další důsledky, jak by se charakteristika tato měnila, kdyby intensita pole magnetického se změnila, neb kdyby počet obratů se změnil.
+Zvětšíme-li intensitu proudu procházejícího závity elektromagnetu, zvětší se tím počet silokřivek v poli magnetickém a tím tedy se zvětší vnější síla elektromotorická e0, jelikož
+kdež N0 maximální počet silokřivek značí, osa ellipsy ve směru Y se zvětší, podobné i osa ve směru X. Zvětšíme-li tedy intensitu proudu magnet isujícího při stejné rychlosti stroje, zvětší se obě osy ellipsy. Zvětšíme-li však počet
+708 ﻿obratů, aniž bychom intensitu proudu magnetisujícího měnili, zvětší se osa charakteristiky ve směru Y, avšak osa X zůstane nezměněna, jelikož osa tato, jak výše uvedeno
+24. IV f       i     jj   ^\
+-   />~------------
+No
+n
+tedy na době periody jest nezávislá. —
+V předcházejícím rozboru předpokládá se, že coefficient vlastní čili vnitřní indukce intensitou proudu se nemění, L jest tedy hodnotou stálou. Shoda důsledků theoretických s experimentelními výsledky vyznačuje mez, pokud podmínka tato splněna byla.
+Jelikož charakteristikou stroje dána jest souvislost dvou hodnot elektrických, a jelikož Ohmovým zákonem vyznačena jest souvislost tří základních hodnot elektrických, ze kterých ostatní hodnoty co odvozené lze určiti, jest patrno, že lze z charakteristiky stroje graficky sestrojiti všechny ostatní hodnoty elektrické.
+Grafické stanovení hodnot elektrických.
+Charakteristikou výše uvedenou dána jest souvislost střední intensity proudové a síly elektromotorické skutečné tedy dány is a eSí dle Ohmová zákona
+/>
+jest však is =z — , kdež r odpor ce-
+r
+lého obvodu proudového značí, bude
+g
+tedy  r =: -r- .   Je-li  /, na  diagramu
+*s
+rovno O A (obr. 13.) bude AB — es a
+eg      A B
+CbrJZ.
+— ^=. -~-- m 'tg a.   Lze tedy  odpor i s       U A
+obvodu   proudového   určiti  tg úhlu, který svírá přímka z počátku souřadnic vedená ku bodu příslušnému na charakteristice.    Vztyčíme-li v příhodném bodě  AI   kolmici,   bude
+A B _ Av Bl   _
+O A ~   O A,   ~~~r'
+Jestliže délku O A^ považujeme za jednotku a měříme-li jí délky Al />, na této kolmici, budou tyto délky značiti nám odpor vyjádřený v jednotkách Ohmových. V našem diagramu jsou hodnoty es desetkráte menší než hodnoty •skutečné. Jednotka Ampěrova rovná se na diagramu l on, kdežto jednotka Voltová se rovná l nim. Vztyčíme-li tedy kolmici ve vzdálenosti l cm od počátku souřadnic, značí nám mm na kolmici jednotky Ohmový — na kolmici 10 cm vzdálené od počátku souřadnic, rovná se l cm — jednotce Ohmové. —
+709 ﻿Tímto způsobem grafickým lze tedy souvislost střední intensity a střední síly elektromotorické určiti.
+Při strojích elektrických souvislost hodnot elektrických s odporem obvodu proudového se vyhledává. Mění se odpor ve vedení a žádoucí jest znáti změnu ostatních hodnot elektrických. Chceme tedy v následujícím všechny hodnoty elektrické na stroji co funkce odporu vyznačiti a graficky sestrojiti. Jak uvedeno, lze tedy hodnoty /, es a r z diagramu charakteristiky stanoviti, a pak opět graficky /, —/ (r) a cs — f (r) zobraziti, ostatní hodnoty odvozené lze pak výpočtem snadno určiti. Spád ve vnějším vedení bude se rovnati odporu vnějšímu, násobenému střední intensitou, bude tedy:
+Jelikož odpor induktoru ;-, zz O21 íí, vypočteme /'2 dle vztahu:
+r.
+r
+\ •
+Sledujeme-li průběh těchto hodnot na diagramu (tab. 3.), seznáme, že intensita ubývajícím odporem roste, jako při stroji senovém na proudy stejnosměrné, avšak při odporu r — O nestává se nekonečně velkou, ale dostupuje tu maxima. V případě našem blíží se intensita při krátkém spojení 2O6 A. Síly elektromotorické a tírn i vnější spády ubývají s ubývajícím odporem, a sice v určitých mezích. Síla elektromotorická střední pohybuje se v mezích 130'5 V a O. Práce elektrická v celém obvodu proudovém
+P
+1'
+'   »
+násobíme-li odpory celého obvodu proudového s příslušnými i's, t. j. střední hodnotou čtverců intensit, obdržíme práci elektrickou v celém obvodu proudovém. Naneseme-li pak výsledky tyto do diagramu, shledáme, že křivka práci tuto označující s ubývajícím odporem stoupá, při určitém pak odporu dostupuje svého maxima a pak opět klesá. Dosadíme-li do svrchu uvedeného vzorce pro práci
+2
+2?zZ,
+r
+obdržíme:
+P
+kterýžto výraz bude maximum při měnivém odporu obvodu proudového r, když
+T
+tedy
+Pmax =
+710 ﻿25
+jelikož v našem případu
+= 6'33 ,   nastane maximum práce   při odporu
+6-33 íi a Pmax = 1658 Watt.
+Srovnáme-li výsledek tento vypočtený s výsledky v diagramu graficky označenými, kde ve směru osy X naneseny jsou odpory tím způsobem, že jednotka délky cm — jednotce Ohmově, a ve směru osy Y naneseny jsou práce v jednotkách Wattových tím způsobem, že jeden dílek rovná se 100 Wattům, shledáme, že právě při odporu (>'4ÍŽ také maximum nastává, jehož hodnota graficky nalezená velmi dobře se shoduje s hodnotou vypočtenou.
+Práci ve vnějším vedení vypočteme dle vzorce
+p — /' 2 r
+•L   \   —       l   S     ' 2   J
+kdež r,2 vnější čili užitečný odpor značí. Podobně jako při celé práci elektrické jest závislosť práce vnější zobrazena tím způsobem, že ve směru osy X naneseny jsou opětně odpory a ve směru osy Y příslušné práce elektrické, vyjádřené v jednotkách Wattových v lOOkráte menším měřítku.
+Účinnost elektrická vyjadřuje se, jak známo, poměrem této práce elektrické vnější ku celé práci elektrické, bude tedy:
+označíme-li 7 účinnost elektrickou ve stroji. Násobíme-li výraz tento 100, obdržíme účinnosť v procentech vyjádřenou. Křivka účinnosti (7) opětně v diagramu jest zobrazena, kdež současně naznačeno, jaká délka při konstrukci za jednotku byla položena.
+Vyjádříme-li výraz pro vnější práci elektrickou
+/)                   ' 9   Q
+I   = '  *   >2
+tím, že dosadíme:
+i                  f 2
+....        i                 eo
+obdržíme:
+2
+Výraz tento dostoupí maximální hodnoty, když
+Dosadíme-li tuto hodnotu do vzorce vnějším vedení.
+Pl max
+
+předcházejícího, obdržíme max. práci ve
+
+711 ﻿
+Podobně  obdržíme   hodnotu   účinnosti   elektrické   při   této   max. práci   vnější, dosadíme-li  nalezený odpor r,2 do hořeního vzorce  pro  účinnost  elektrickou,
+bude tedy:
+l
+y =-----------------------------------------------,
+kterýžto výraz bude, jak   na první  pohled shledáme, vetší než — a v proceň-
+m
+těch vyjádřeno vetší než 50%. Ve strojích sériových na proudy stejnosměrné a při článcích galvanických obdržíme, jak známo, max. působnost stroje neb článků galvanických, když tak zvaný vnitřní odpor rovná se odporu vnějšímu. Na strojích na proudy střídavé obdržíme max. působnosť, když vnější odpor rovná se zdánlivému odporu vnitřnímu; avšak kdežto na strojích sériových na proudy stejnosměrné a v článcích galvanických účinnost jen 50% obnáší, jest na strojích na proudy střídavé tato účinnost větší než 50%.
+Na našem stroji jest i\ r= 0'21 íž, nastane tedy maxim, práce při odporu
+je-li, jak nahoře určeno bylo,
+6-33,
+bude maxim, práce vnější
+204-98 4- 6-543
+1604 Watt ,
+jelikož e0 iz: 204'9   F, bude tedy účinnost' při max. vnější práci
+7 = 96-79%.
+Tyto výsledky vypočtené dobře se shodují s hodnotami v diagramu nalezenými. Z toho patrno, že ve strojích na proudy střídavé účinnost při max. působnosti vnější vysokého stupně dostupuje.
+V předcházejícím stanovení účinnosti elektrické předpokládalo se, že jen v induktoru energie elektrická se ztrácí a energie ve vnějším vedení se vy-užitkuje; přihlíženo tedy toliko k obvodu proudovému střídavého proudu. K udržování pole magnetického, jak výše uvedeno, užito bylo stroje na proudy stejnosměrné, spotřebuje se tedy v závitech elektromagnetů tohoto stroje na proudy střídavé určitá energie elektrická. Chceme-li účinnost strojů elektrických na proudy střídavé srovnávati s účinností strojů elektrických na proudy stejnosměrné, třeba tedy ku této ztrátě v závitech elektromagnetů přihlížeti. Na stroji
+našem  jest tato ztráta
+M = Q i* ,
+u    f
+kdež Q odpor v elektromagnetech = 55 íí a / intensita magnetisujícího značí, tato intensita * — 1*51 a bude tedy
+M= 125-4.
+712 ﻿přihlížíme-li ku této ztrátě při magnetech, obdržíme pro účinnost stroje výraz:
+čili
+i         i
+r\    \~ r*    l   T
+dosadíme-li za i's známou hodnotu, obdržíme:
++
+o
+v.                                                ^
+Méníme-li vnější odpor r2, dostupuje účinnost tato svého maxima při
+LL r+_a
+7   / ^ 2^7
+Jelikož v případě našem
+40-114
+= 35-15,
+bude
+ta = 8-675 tt .
+Při tomto odporu nastane maximum pravé účinnosti elektrické
+7 m = .KJ'4 IQ .
+Dosadíme-li hodnotu   tohoto   odporu  do výrazu  pro práci ve vnějším vedení,
+obdržíme
+P1 = 1530 Watt. ,
+tedy práci, která se při nejvýhodnějším elektrickém využitkování stroje koná, hledíme-li současně ku ztrátě energie elektrické v závitech elektromagnetů. —
+V přiloženém diagramu jest opětné pravá účinnost elektrická zobrazena křivkou (y1) v měřítku stejném jako účinnost' dřívější. Z obrazu tohoto jde, že účinnost tato roste ubývajícím odporem, dostupuje maxima při celkovém odporu r=i 8""8. Práce pak vnější při této max. účinnosti dle diagramu — 1530 W, což s výpočtem velmi dobře se shoduje.
+V přiloženém diagramu znázorněna jest i změna úhlu («), o který se měna skutečného proudu vzhledem na vnější sílu elektromotorickou pošine. Na osu X opětně odpor celého obvodu proudového jest nanesen, ve směru osy V pak naneseny jsou úhly ve čtyřikráte menším měřítku.
+Práci  elektrickou lze, jak nahoře bylo dovezeno, vypočítati dle vzorce:
+,y.
+D P =
+
+cos a ,
+713 ﻿28
+kdež   E0   amplitudu   vnější síly   elektromotorické,   a I0 amplitudu skutečného proudu značí — a < « úhel, o který skutečný proud vzhledem na vnější sílu elektromotorickou jest  opožděn, tedy úhel, který při geometrickém zobrazení amplitudy tyto svírají. Jelikož
+7
+
+a maximum práce při odporu rm = ^-^— vzniká, bude při max. práci elektrické
+tg « = l ,   t. j.   « = 45° .
+V případě tomto amplituda skutečné síly elektromotorické a amplituda vnitřní čili vlastní síly elektromotorické se rovnají.
+Dle diagramu seznáme, že skutečně při 45° max. práce elektrická vzniká a velmi dobře s hodnotou výše vypočtenou se shoduje.
+V následujících tabulkách obsaženy jsou hodnoty elektrické, a sice obsahuje tabulka I. hodnoty dle pokusů nalezené a tabulka II. hodnoty na základě charakteristiky stroje graficky stanovené
+I. (Výsledky experimentální.)
+	'*	es	r	<',	•/    0 rí s	•f    0 V/	1	ri', + M	i	a
+	5-127	126-6	24-69	5-694	800-6	793-7	99-15	926	85-71	14° 23'
+	7-419	120-83	16-288	8-24	1106	1091	98-05	1231-4	88-64	21° 14'
+	9-23	114-75	12-43	1O25	1306	1284	98-31	1462-7	89-26	27°
+	10-95	112-28	10-06	12-16	1487-5	1451	97-91	1601-6	90-00	32° 11'
+	12-065	102-98	8-53	13-4	1532-9	1498	97-54	1658-3	90-37	36° 34'
+	13-33	98-52	7-39	14-8	1619-4	1572-7	97-16	1744-8	90-12	40° 35'
+										
+V tabulce této a sice ve sloupcích i's a r obsaženy jsou hodnoty experimentem nalezené, a sice /', střední hodnota čtverců intensit. Jak nahoře uvedeno bylo, měřena intensita periodického proudu dynamometrem, kterýž, jak známo, střední hodnoty čtverců proudu periodického měří.
+Ve sloupci r obsaženy jsou odpory celého obvodu proudového, které, jak již uvedeno, methodou Wheatstonovou stanoveny byly. Z těchto hodnot základních ostatní elektrické hodnoty výpočtem byly nalezeny.
+Hodnoty ve sloupci ťg nadepsaném stanoví, střední hodnoty jednoduché periodického proudu, vyjádřené v jednotkách Ampěrových.
+Jelikož
+V2
+a
+a
+714 ﻿29
+kdež i0 amplitudu periodického proudu značí, vypočteme dle vzorce
+.•2 V*"".-,
+n
+Sloupec es obsahuje střední hodnoty skutečné síly elektromotorické, vypočtené dle vzorce
+rt* ,
+Ve sloupci nadespaném r i' * obsahuje se práce elektrická, která se koná v celém obvodu proudovém, kdežto ve sloupci r^ /',a uvedena jest práce elektrická ve vnějším čili v užitečném vedení, vyjádřena v jednotkách Wattových.
+Ve sloupci nadepsaném ri'^ -\- M připočtena jest ku celé práci elektrické ve stroji práce, která k udržování magnetického pole se spotřebuje
+M=oi* = 125-4, jak výše vypočteno bylo.
+Ve sloupcích 7 a / obsažena jest účinnost elektrická stroje, a sice obsahuje 7 účinnost elektrickou v procentech vyjádřenou, nehledíme-li současně ku ztrátě energie elektrické v magnetech; kdežto f obsahuje účinnosť elektrickou, když se i k této ztrátě přihlíží.
+V posledním sloupci uvedeny jsou úhly, o které měna skutečného proudu harmonického vzhledem na vnější sílu elektromotorickou pošinuta jest.
+II.
+ř,	es	r	•f * *	*'   2 r*1 s	•/    0 ri s	7	rťs + M	/	a	
+5-127	1264	24-6	5-696	791-3	798-1	99-14	923-5     85-68		14° 25' 47""	
+7-419	121-7	16-4	8-24	1099-4	1113-6	98-72	1239        88-74		21° 6' 2""	
+9-23	116-6	12-6	10-25	1302 P	1329-6	97-93	1455        89-5		26° 40' 26""	
+10-95	110-5	10-06	12-16	1457	1488	97-90	1613-4     90-33		32° 20'	
+12-065	105-7	8-74	13-4	1533	157O8	97-6	1696-2	90-4   35° 54' 51""		
+13-33	99-5	7-46	14-8	1589	1635-4	97-19	176O8	90-3   40° 19'		
+16-3	80-0	4-94	18-14	1550	1619-5	95-75	1744-9	88-8>J 52° 1' 51"" l		
+19-01	40-0	2-04	21-78	868-2	967-8	89-7	1093-2	79-4   72° 8' 13""		
+						1				
+Tato tabulka obsahuje hodnoty elektrické, jak grafickým řešením nalezeny byly. Svrchu uvedené pokusy se strojem uvedeny byly na tvar přímky, a ''- rovnice přímky stanoveny hodnoty, které pak ku vypočtení os charakteristiky sloužily.
+Na základě těchto os sestrojena ellipsa. Ellipsa tato obsahuje střední hodnoty intensity a síly elektromotorické skutečného proudu, co délky na ose X
+715 ﻿:*)
+a K Příslušný odpor celého obvodu proudového podobně v diagramu se odměn, jak výše uvedeno. Jsou tedy hodnoty /„ es, a r hodnoty, které z diagramu ellipsy, z charakteristiky stroje graficky určeny byly. Ostatní hodnoty, jichž označení jest v úplném souhlasu s označením v tabulce první, vypočteny byly na základě těchto základních, graficky nalezených hodnot elektrických.
+Srovnáváním hodnot těchto vychází na jevo, do jaké míry shodují se hodnoty experimentálně nalezené s hodnotami graficky nalezenými. Ze srovnání tohoto jde na jevo, že jednoduché podmínky, které ku theoretickému stanovení působení stroje elektrického za základ byly položeny, a sice: vnější síla elektromotorická mění se harmonicky, a coěfficient vlastní indukce jest hodnotou stálou v těch mezích, ve kterých pokusy provedeny byly, experimentálním výsledkům vyhovují.
+Jest mi konečně milou povinností dosvědčiti, že mi pan Karel Novák, assistent elektrot. ústavu, s kterým jsem společně pokusy s uvedeným strojem provedl, při vypočítávání a zobrazení výsledků experimentálních platně napomáhal.
+ ﻿
+ ﻿Ol
+•• ^  •
+a
+Ol
+u
+ ﻿41-1
+f
+o-
+0-
+Of
+"

@@ -1,0 +1,434 @@
+"","x"
+"1"," ﻿ROČNÍK XI.
+TŘÍDA II.
+ČÍSLO 26.
+Verifikace Fresnelových zákonu dvoj lomu u dvouosých krystallů.
+Píše
+František Záviška,
+assistent fys. ústavu  české techniky v Brně.
+(S   OllIM/.ITIM    V   tCXtll.)
+Předloženo dne 20. června 1902.
+Část theoretická.
+Nejjednodušší způsob ku zkoumání správnosti Fresnelovy theorie jest měření hraničného úhlu totální reflexe. Dopadá-li totiž světlo z media isotropického, opticky hustšího, na medium krystallinické, pak na rozhraní obou nastává totální odraz. Světlo dopadající v menším úhlu než je hra-ničný úhel totální reflexe, z části se odráží, z části láme, světlo, jež dopadá v úhlu větším, odráží se úplné. Tím vzniká hranice mezi světlem parciálně a totálně reflektovaným, což poskytuje možnost měřiti hraničný úhel. Výhodnější je, necháme-li dopadati diffusní světlo do krystallů pod úhlem asi 90 stupňů, čímž se obdrží ostrá hranice mezi světlem a tmou, poněvadž světlo nemůže se lámati do media isotropického v úhlu větším než je hraničný úhel totální reflexe. U krystallů jednoosých možno měřením hraničného úhlu z jediné broušené plochy stanoviti nejen oba indexy, ale i orientaci rozhraní k optické ose; mimo to, měříme-li hraničný úhel pro různé azimuty dopadové roviny, můžeme zkoumati správnost Fresnelovy theorie. Měření provedená W. Kohlrauschem a J. Bankéřem ukázala úplný souhlas s theorií.*) U krystallů dvouosých možno sice ze dvou broušených ploch snadno stanoviti konstanty krystallů i orientaci rozhraní, ale měření hraničného úhlu pro libovolné azimuty roviny dopadové za účelem verifikovati Fresnelovu theorii provedeno dosud nebylo, proto obral jsem si je za úkol.
+*) Viz Liebisch: Physikcilische Krystallographie, pag. 427.
+Rozpravy: Ročn. XI., Tř. II. C. 26.
+XXVI. ﻿Snadnou úvahou plyne z HuygensovV konstrukce lomené vlny, že totální reflexe nastane, jde-li lomený paprsek rozhraním. Mathematicky možno úlohu formulovati tako: Pro úhel # lomené normály platí bikvadra-tická rovnice v tg i, Kirchhoffem odvozená,*) jejíž koěfficienty závisejí na orientaci rozhraní a roviny dopadu k osám optické pružnosti, na konstantách krystallu a na úhlu dopadovém. Totální reflexe nastává, jsou-li kořeny té rovnice imaginárně. Ty jsou však vždy konjugované a mají reálnou část stejnou, takže podmínka pro počátek totální reflexe je, aby ona rovnice měla dva kořeny stejné, čili aby její diskriminant vymizel. Toť cesta poprvé Liebischem nastoupená.
+Jiná názornější formulace, jež pochází od prof. Koláčka, je tato: Je-li 0 hraničný úhel dopadový, y úhel lomu normály, V rychlost světla v mediu isotropickém, •:• rychlost lomené normály v krystallu, je
+sn
+sin qp
+Podíl - - má však jednoduchý geometrický význam.  Sestrojme si vlno-
+plochu   odpovídající  jednotce   časové,   rozhraní   volíme   za   rovinu  z li. 0 , rovnice vlnoplochy v této soustavě buď:
+Tečná   rovina v bodu   (x,y> 0) ,   v  němž při   počátku   totální   reflexe   seče paprsek vlnoplochu, má rovnici
+Kolmice na ni spuštěná udává směr i rychlost normály, jež náleží paprsku jdoucímu bodem (x,j>,0), úhel, jejž svírá s osou s, je qp. Je tedy, jak snadná geometr, úvaha učí,
+Do obou differenciálních quotientů nutno   po derivaci dosaditi ^ZZ0. Ale výsledek se nezmění, klademe-li i před derivací z~&. Než rovnice
+f(x,y,ti} — 0
+značí průsečnou čáru vlnoplochy s rozhraním, —-----je tedy distance tečny
+sin qp
+této čáry vedené v bodu (x,y} od centra vlnoplochy. Je tedy křivka, jejíž
+průvodiče isou —:----, úpatnicí čáry, v níž rozhraní seče vlnoplochu. Označu-
+sm cp
+*) Viz na př.: Liebisch: Physikaliselte Krysiallographie, pag. 353.
+XXVI. ﻿je-li r průvodič bodu (x^y) na této křivce, í> jeho azimut čítaný od jistého pevného směru, k kolmici spuštěnou na tečnu v bodu (,r,j') vedenou, co azimut kolmice, pak, jak jednoduchá geometrická úvaha dává, je
+k — r cos (oj —
+(i),
+tg (v — #) =-----,— —
+í>   *•                  /             „      ,,/  u.
+(2).
+Rovina dopadu prochází normálou rozhraní a normálou vlny lomené, je tedy kolmo na tečné rovině vlnoplochy. Z toho plyne, že její průsek s rozhraním stojí kolmo na tečnu průsečné čáry, takže co udává azimut dopa-dové roviny. K danému co určíme # z rovnice (2), a pak je
+Poněvadž každá rovina jdoucí centrem vlnoplochy seče ji ve dvou křivkách, jež nemají bodu společného, vyjma případ, kdy leží v ní optická osa, plyne z toho přímo, že obdržíme také dvě různé hraničně křivky, jež obecně nemají bodu společného. Dále je patrno, že změní-li se azimut dopadové roviny o 180°, má <D tutéž hodnotu.
+Měřením možno ihned stanoviti maxima a minima úhlu <P i jich azi-muty, o těch tedy pojednáme napřed. Klademe-li co — # — L, je
+k —
+V
+r cos
+tedy
+dk
+dr
+~ď~ft ~~IW cos^~rsm
+. _ cos X ~~
+R značí poloměr křivosti průsečné čáry. Vyjma polohy velmi blízké optickým osám je R konečné a od nully rozdílné, podobně je cosi^-Q,
+takže podmínkou maximo-minimovou je ——- zr 0. Z toho plyne, že rádius
+vektor stojí kolmo na tečně, je tedy GJ—íř; v polohách maximo-mini-mových zůstává paprsek v rovině dopadu.
+Uvedená podmínka —— — 0 je především   splněna,   padne-li průsek
+roviny dopadu s rozhraním krystallu do jedné z rovin optické symmetrie. Plyne to z následující úvahy: Vedeme-li z centra vlnoplochy průvodič k jednomu z kruhových řezů, v nichž roviny optické symmetrie sekou vlnoplochu, nemění se průvodič především vlnoplochy, ani podél této kružnice, což jest samozřejmé, ani ve směru na její rovinu kolmém, poněvadž je to rovina geometrické symmetrie vlnoplochy. Zůstává tedy rádius vlno-
+XXVI. ﻿plochy stacionárním, vykročíme-li z bodu na kružnici podél vlnoplochy ve směru libovolném, tedy i ve směru, jenž odpovídá vzrostu z ?> na &-\-d ft.
+dr Je tedy        — 0 pro ty dopadové roviny, jejichž průsek s rozhraním
+padá do jedné z rovin optické symmetrie. Tak na př. určuje průsek roviny symmetrie x s s rozhraním průsek, jemuž jako normále vlnové náleží Fresnelovy kmity rovnoběžné s osou pružnosti y, kteréž se šíří rychlostí v2. Normála tu koinciduje s paprskem, takže při počátku totální reflexe je úhel lomu 90°, a platí
+sn
+V
+a podobně pro t\  a v3.
+Tři   extrémní   hodnoty  jsou   stanoveny,   a poněvadž  jejich  je počet sudý, existuje ještě aspoň jedno  maximum nebo minimum,  jež stanovíme
+z podmínky —— - — 0. Za tím účelem a v
+nutno definovati orientaci rozhraní. Budiž O P normála rozhraní, x, y, z osy optické pružnosti, jejichž roviny sekou rozhraní v přímkách O I, O //, OIII (viz výkres), těmto pak odpovídají tři již stanovené extrémní hodnoty. Polohu rozhraní stanovíme úhlem ti', jejž svírá osa z s OII a úhlem oj, jejž svírá rovina x z s rovinou proloženou skrz O P a. OII. Libovolný průvodič průsečné čáry je stanoven úhlem #, jejž svírá s O II. Jeho směrové kosinusy jsou
+K = cos & sin ti1 -}- sin O1 cos ti' sin co, u — sin & cos co, v n: cos ?> cos ti' — sin & sin ti1 sin co .
+Dosadírne-li   do rovnice vlnoplochy   x~rK, y — r n,   z — rv,   obdržíme rovnici čáry průsečné v polárních souřadnicích r a # ve tvaru.
+r^ (A cos' •»> -!- 2 R cos ft sin í> -)- C sin'2 ft) -- r2 (D cos'2 ft^-^E cos í> sin » -f Fsin* i>) -f // = 0,
+což možno uvésti na tvar:
+« L0.y 2 # -|- /i -v//v 2 í> =: y,
+a, /j, 7 jsou tu funkce r. Podmínka maximo-minimová je
+— « sin 2 ř> -|- jí cos 2 # — 0 .
+XXVI. ﻿Zdvojmocněiiím a sečtením posledních dvou rovnic obdržíme a2 -J- /32 — j>2. To jest rovnice bikvadratická v r2, máme tedy celkem čtyři extrémní hodnoty. Tři již známe, a čtvrtou snadno stanovíme z absolutního členu a z faktoru u nejvyšší mocniny. Označíme-li ji r, je
+A C—B'
+a po provedení počtu obdržíme
+v."" v*
+„.   2
+A poněvadž průvodič stojí kolmo na tečné, máme přímo
+sn
+Je patrno, že každá čára má jedno maximum a jedno minimum. Azimuty příslušných průvodičů jsou současně azimuty dopadových rovin. Je-li #12 úhel mezi O I a O //, í>23 úhel mezi O II a (9 ///, platí
+j 2
+čili
+COS
+2
+Sin
+m co := 0 ,
+/« 03 =1 0 ,
+03 .
+Je-li konečně & úhel mezi  O JI a r, je
+9                 fi   /        9       •     2     i        l           9           9i\
+f g    - ""V z    (Vl    sm"" V    l    Z>3    COS    V)
+tg- ft zz
+03
+Stanovíme tedy z nejmenšího minima nejmenší index a z největšího maxima největší. Zbývá pak ještě jedno maximum a minimum, z nichž jedno nám iidává index střední, které však to je, nelze touto úvahou rozhodnouti. Neboť, zvolíme-li si kterékoliv z nich za hodnotu udávající v2, vyhovíme vždy i ostatním rovnicím. To souvisí s tím, že nad daným řezem vlno-plochy Fresnelovy s rovinou možno sestrojiti dvě vlnoplochy, jež se liší hodnotou střední rychlosti.*) Máme-li však na krystallu dvě broušené plochy, pak společná střední hodnota maximo-minimová na obou plochách udává v». Je-li to rozhodnuto, pak zbývají ještě čtyři rovnice, z nichž dvě slouží k určení orientace rozhraní, dvě slouží k verifikaci theorie.
+Možno tedy ze dvou broušených ploch stanoviti všechny tři konstanty krystallu. Při tom druhá plocha slouží pouze k rozhodnutí, která z hodnot maximo-minimových náleží ku v^, a mohla by odpadnouti, kdybychom
+*) A. Brill: Matkematischc Amialen, sv. 34.
+XXVI. ﻿přibrali na pomoc polarisaci. Směr Fresnelových kmitů v OI padá totiž do osy x, v OIII do osy z. Svírají li tedy kmity s normálou rozhraní úhly fa a Xa , jest
+a z těchto rovnic možno jednoznačně určiti ty i co.
+Jde-li o více než o úkol dosud řešený, totiž o nalezení hlavních indexů lomu a orientace os pružnosti, jde-li totiž o verifikaci Fresne-lovy theorie, odporučuje se místo právě uvedených geometrických úvah vrátiti se k úvahám analytickým pojícím se k dříve zmíněné bikvadratické
+sin ^í* rovnici dle tg%, a to z toho důvodu,   že z ní obdržíme přímo — -— jako
+funkci azimutu  dopadové  roviny.
+Mathematicky podmínka pro hraničný úhel totální reflexe dá se vyjádřiti diskriminantem oné bikvadratické rovnice, jak to učinil poprvé Liebisch. Tato cesta vede snadno k cíli u krystallů jednoosých a v jednodušších případech u krystallů dvouosých. Avšak v obecném případě při značných mathematických obtížích nelze z diskriminantu vyčísti leč to, že
+sin 0 tři ze čtyř maximo-minimových hodnot pro —  -— odpovídají třem hlavním
+rychlostem, což možno nalézti i úvahou přímou.
+Úloha však se usnadní, jde-li o krystally slabo dvouosé, a tím se chceme zabývati. Nebude od místa v krátkých rysech odvoditi uvedenou rovnici bikvadratickou. Osy symmetrie optické označíme x^ y, z, dále volíme systém x'tj>', s' pevně spojený s dopadovou rovinou tak, že osaj/ je normálou dopadové roviny, osa z normálou rozhraní, kladně ji čítáme do krystallů. Je-li tedy D1' azimut roviny dopadové, pak směrové kosinusy osy x' vzhledem k osám optické symmetrie jsou
+a zz sin ty cos &' -[- cos ty sin #' sin ta, (i zz sin íK cos (o ,
+y zz cos 9' cos ty — sin íX sin ty sin co, směrové kosinusy osy s' jsou
+«2 zz — cos ty cos oo        /í<2 zz sin w        y2 zz sin t/.1 cos co .
+Je-li tedy % úhel lomu, pak směrové kosinusy lomené normály vzhledem k osám optické symmetrie jsou
+/ zz « sin x~\~ K2 cos %•>    ví — ft siu X ~f~ /^2 cos %>    w zz y sin %-{- y2 cos x • Je-li (p úhel dopadu, v rychlost lomené normály, je dle zákona Snelliova
+sn sin
+V '
+XXVI. ﻿Dosadíme-li nyní do rovnice Fresnelovy
+/2
+1                 l              W               l              *              —(A
+2   ~            2                2      l          2                2    -----
+za /, m, nav příslušné hodnoty, a dělíme-li celou rovnici sin*%, obdržíme bikvadratickou rovnici tvaru
+kdež je
+-f
+sin* <p   .  .,     ., ""o =     —74— («"" ^a '
+sin9 (p
+o     o     „>. V -2 )
+(3),
+_    sin11 (p
+OO
+2
+) -f pJ pí, (z .s 2 + ^
+Jednej se nyní o krystally slabo dvouosé, jako je na př. aragonit. Buď :.'i > ^2 > v3 , klademe ^ 2 — v% 2 (l -f- e] , z'3 2 zz ^22 (l — ?/) , u aragonitu je ?^ velmi malé proti L, což také v dalším supponujeme. Dále možno supponovati bez újmy obecnosti, že jedna z křivek hraničných probíhá vždy mezi hodnotami příslušnými ku v2 a ?'3 , neboť, kdyby probíhala mezi L?3 a r, možno toto r zvoliti za v2, čímž obdržíme vlnoplochu, která uvažovanému krystallu sice neodpovídá, ale protíná rozhraní v týchž křivkách jako vlnoplocha skutečná. Z úvahy geometrické dříve provedené pak plyne, že křivky hraničné jsou určeny jednoznačně těmito průsečnými křivkami.
+Je-li -/?:=0, přejde krystall v jednoosý, a podmínku pro hraničný úhel totální reflexe 0 možno snadno napsati. Je-li // velmi malé, pak 0 se změní jen o veličinu řádu ?/, a nutno koěfficient u ?/ tak stanoviti, aby rovnice (3) měla zase dva stejné kořeny. Pozorujme napřed křivku, na níž leží v2 a L'3. Je-li ?/ ZZ0, tato křivka přejde v kruh a odpovídá vlně řádné. Při počátku totální reflexe jde lomená vlna rozhraním, je tedy r(?/^zz0,
+sin 0
+a hraničný   úhel   totální   reflexe  je   dán podmínkou - — -- — v2 ~ l . Je-li rj
+velmi malé   klademe
+sin
+—       v. — l -
+A
+a dosadíme-H  do výrazu   pro a0  a rtt ,   obdržíme   až   na veličiny řádu
+XXVI. ﻿ostatní kočifficienty mají hodnoty konečné. Je-li tedy í?:zz0, má rovnice (3) dva kořeny nullové, aje-li ry velmi malé, jsou také dva kořeny té rovnice
+velmi   malé   a   dají   se   rozvinouti   v   řadu   postupující   po   mocninách   ij- . Klademe tedy
+1                         2
+v   — M v- -l— M   T;'- -U
+11 — at\   'l      \    alt  '(      l    • • •       )
+6
+cot fa = N± if -f- Na »/'-+...
+Poněvadž však podíl - — je řádu r/, plyne z toho, že musí býti M1 -f- A^ =0. Při počátku totální reflexe je
+tttf fa — COt fa ,
+musí tedy Nl — M± in0, takže podíl - ""- je řádu t/L>. Podmínka pro to je
+tedy
+sn
+Tento výraz možno ještě upraviti. Klademe-li totiž
+je Tu je
+takže
+— = tg-0
+7
+sn <P                     r,
+—-V  -- l ~-~    sm- G.
+COS W
+= cos &' cos 4' — sin #' sin 4' sin o i^; —.—-— sin (&23 — #'),
+sn
+'23
+co s co sin f>0 •
+cos 4'         stn (r>ž3 — t>)
+Z rovnic dříve odvozených pro &12  a í)1^  snadno odvodíme vztahy
+cos
+COS- Cú = —:—---------:
+13
+sn
+sin -í>12 sin &23 '
+značí-li #13 úhel mezi  OJ a  6> ///, kladně čítaný na levo od  O III; pak je
+sin 2 ř>
+Mimo to je
+XXVI. ﻿takže máme
+sin
+zz l
+j/«
+(5)
+K danému azimutu roviny dopadove určíme tedy z rovnice (4) pomocný úhel G, a z rovnice (5) pak hraničný úhel 0.
+Docela tak možno diskutovati druhou křivku hraničnou. Je-li í?zz0, náleží tato křivka vlně mimořádné. Rovnice pro cot i rozpadne se ve dvě rovnice kvadratické, a klademe-li k vůli jednoduchosti coti — x, pak snadným výpočtem se přesvědčíme, že vlně mimořádné náleží rovnice
+— 2 f « «2 .r -f-
+
+Na počátku totální reflexe má tato rovnice dva kořeny stejné,   musí tedy její diskriminant vymizeti. Z toho plyne
+
+V ""TT^T) ~ ~A~ • • • •
+Výraz ten možno snadno upraviti. Nejdříve je
+= »       a
+Dále je
+«~   /•/} f*   * r      C 7 i -         l.-(./„)    f/      Oí/
+pak
+Je tedy pro ?/ zz 0
+-4- sin
+ÍZ/Í l""       .     ,»
+li' í?w oj zz------------sin (TT, .,
+J/«ř>12 G3 ZZ ---- COt tfj 2 ^<?^ '^j 3 .
+Společný kořen oné bikvadratické  rovnice je pak
+e K
+l  -f-f — L«22   '
+Je-li tedy rt velmi malé, klademe zase
+(7).
+Zavedeme-li pak v obecné   rovnici   pro cot % novou   neznámou  relací —y-^-x^,  obdržíme rovnici v y, jež pro >/ zr 0 má  zase dva kořeny
+XXVI. ﻿10
+nullové,   a  podmínkou pro hraničný úhel totální reflexe je tedy zase, aby absolutní člen byl řádu rt2.  Ten je
+,ťj je tu řádu f. V tomto výrazu musí tedy vymizeti faktor u >/. Poněvadž se jedná jen o korrekční člen, mimo to i f je dosti malé, stačí, jdeme-li až k veličinám řádu *-, což ve výsledku značí přesnost až k řádu s. Tím se počítání dosti zjednoduší, a obdržíme
+«l> y~ ( l -f- 3 L — L K22 -\- 2 e a2 y2 — j
+a2) -f- 2 s «2
+. . . . (7').
+Uvážíme-li však,   že celá korrekce je nepatrná,   a v první   řadě   záleží   na jejím znamení,  možno také klásti
+9        9
+A  -A      a  v""
+A - ^o -
+l -- 3 ť —
+2 f «2 7 2
+l    r
+Tu je
+i        I     /                                                        /                                       12                      \    23              /
+Tím je tedy úloha úplně řešena na základě té formulace, že při počátku totální reflexe má rovnice pro cot % dva kořeny stejné. Hraničný úhel je tu vyjádřen jako funkce azimutu roviny dopadu.
+Možno však také stanoviti hraničný úhel jako funkci azimutu paprsku,
+V a to pomocí věty dříve odvozené, že podíl     . --- je průvodičem  úpatnice
+průsečné čáry rozhraní s vlnoplochou. Je-li pak & azimut paprsku jdoucího rozhraním, ď úhel mezi paprskem a rovinou dopadovou, je, jak odvozeno,
+k ~ —.—- - ~ r cos d sin ťi>
+tgd
+d
+(log r-}.
+Jsou-li zase   A, ft, v směrové kosinusy   průvodice /•, je rovnice čáry,   v níž rozhraní seče vlnoplochu,
+r"" — v
+l
+""•
+""i   2 ^3
+= 0.
+Klademe-li pak
+— - = ,r, možno psáti rovnici čáry průsečné ve formě
+A x2 -f
+— 0,
+XXVI. ﻿11
+A = l -i- « ** — '/ »'8,    2 />' =r ^
+/l2 + e í? (A2 -f v2) ,
+Budeme diskutovati zase napřed křivku, na níž leží hodnoty příslušné ku t\2 a ?';i • Je-li '/—W, je příslušné _r rovno nulle, pro velmi malé rt rozvineme je v Mac Laurinovu řadu. Až na veličiny řádu r^2 je pak
+x
+.«"" H- v-
+tedy
+Zanedbáváme-li tedy všude veličiny řádu i/~,  máme
+takže tg ó je řádu »;.  Avšak
+V
+sin (
+a poněvadž /^ ď je řádu ??, klademe přímo
+í    u* •— v-
+(8)
+Tedy při tomto přiblížení zanedbáváme úchylku paprsku z roviny dopadu, azimut paprsku koinciduje tu s azimutem roviny dopadové až na veličiny vyššího řádu. Směrové kosinusy (i a v jsou identické se směrovými kosi-nusy /i a y, a rovnice (8) je pak identická s rovnicí (5).
+Druhý kořen rovnice pro .r náleží ke druhé hraničně čáře. Zanedbá-me-li v ní veličiny řádu   >/, je
+*=
+s (l — A21
+l
+Dále je
+až na znamení, o němž později rozhodneme. Tu je
+sin r      .
+A __      .     -----sin ( ETj., — ir),
+sin (>12
+XXVI. ﻿12
+dosadíme-li tedy, a označíme-li
+sn
+sn
+= M,
+12
+Je
+M tgd ~- : -- sin 2 (»12 - ř>
+- • • (8')
+Pokud se týče výrazu pro M, dá se snadno uvésti na formu
+cos •»>
+28
+Pokud se týče znamení pro tg ó\ platí toto: Rovina dopadu seče rozhraní v kolmici spuštěné na tečnu vedenou v bodu, v němž paprsek seče prů-sečnou čáru rozhraní s vlnoplochou. Tato průsečná čára má tvar oválu ellipse velmi blízkého, z čehož plyne, že rovina dopadu leží vždy blíže minimu té čáry než paprsek, a z toho rozhodneme znamení pro ď. Rovnice pro řg- ó slouží k tomu, abychom k libovolnému azímutu roviny dopadové, jenž je měřením dán, určili azimut í> příslušného paprsku. Rovnice pak stane se řešitelnou, zavedeme-li do výrazu na pravé straně azimut roviny dopadové íX místo azimutu paprsku &, což je možno, poněvadž výraz ten je spojitý a ó malé.
+Známe-li   pak   azimut   paprsku,   stanovíme   i příslušné   r,   a jest   pak V-                  r2
+sin2® ~ '  1-f/r c> ' Dosadíme-li sem, a provedeme-li příslušný počet, obdržíme
+srn2®,    _           l -}- Af sin* (»1S — »)
+~""~                         '»12 — í>) (2 -f
+Toto řešení je první přiblížení, poněvadž jsme zanedbali veličiny řádu ?/. Chceme-li jíti až k veličinám řádu >/2, nutno x» rozvinouti v Mac Launnovu řadu dle potencí ?/. Obdržíme
+l
+1 +
+— f A2 — Ntj),    kdež je =r AL> v2 (l 4~ ř)
+-f B A2) (l — A2) —
+až na veličiny řádu f2. Z toho plyne
+1         l                         /
+XXVI. ﻿13
+dl
+-(logr1} = — 2e
+dN
+Tím obdržíme napřed přesnější vzorec pro tgfS. Je totiž
+dK
+~ďlí
+tL-Ů  = L   -----------
+-fA*       2(1    t   L)     d*   '
+zase až na znamení.   Dosadíme-li   konečně   zase do rovnice   pro k,   a za-nedbáme-li v korrekčním členu vesměs veličiny řádu é2, je
+l-fa  V      1 +
+při čemž <2>0 značí přibližnou hodnotu hraničného úhlu plynoucí z rovnice (9\ Výraz ten dá se snadno  upraviti. Označíme-li zase
+a je patrno,   že za o bez velké chyby možno položiti tutéž hodnotu, jaká
+d N
+je v rovnici (5). Differenciální quotient           netřeba zvlášť čítati, známe-li N
+d v""
+pro dosti blízké hodnoty #, poněvadž vyskytuje se jen v korrekčním členu
+dK
+~IW
+a záleží   na   jeho  znamení.   Konečně výraz e —      —r^- není nic jiného než
+l -i- s A-
+/ífď, zanedbáme-li tu veličiny řádu i/.
+Tím je tedy úplně řešena úloha, kterou jsme si stanovili, totiž stanoviti hraničný úhel totální reflexe na libovolném řezu krystallu dvouosého, pro libovolný azimut roviny dopadové, pouze za té supposice, že krystall je slabo dvouosý, což ostatně je pravidelně splněno. Hraničný úhel vyjádřen jednak jako funkce azimutu roviny dopadové^ jednak jako azimutu paprsku. Při té křivce hraničně, jež probíhá mezi bližšími hodnotami hlavních rychlostí, vedou obě formulace k témuž vzorci, poněvadž suppono-vané přiblížení vede k tomu, že paprsek nevybočí z roviny dopadu, pro druhou křivku obdrželi jsme dva vztahy formálně různé. Zbývá tedy ještě měřením verifikovati správnost theorie rozvinuté.
+XXVI. ﻿14
+Měření na aragonitu.
+Měření provedeno bylo Abbeovým totálním refraktometrem od firmy R. Fuess.*) Mediem isotropickým je tu polokoule z vysoce lomivého skla, pro světlo natriové je index lomu N/> =: T7938. Horní plocha její je broušená, na tu se klade praeparát. Byl to aragonitový váleček o průměru 7 uitn a střední výšce asi 3 ////// s dvěma broušenýma plochama, jež svírají úhel asi 17°; zhotovila jej k tomu účeli firma S té eg a Réti té r v Homburgti. Aby mezi sklem a praeparátem nebyl vzduch, dává se mezi ně vrstva tekutiny, jež má větší index lomu než krystall a menší než sklo. V našem případě užito methylenjodidu, jehož index lomu pro natriové světlo a 19° C je T7421. Je-li vrstva kapaliny úplně planparallelní, pak snadná úvaha učí, že relace pro hraničily úhel platí tak, jako kdyby se lom dál přímo mezi krystallem a sklem. Není-li ta podmínka splněna, pak při dosti malých sklonech stačí pozorovati při dvou polohách o 180° rozdílných a z obou vžiti střed, čímž se z části eliminují i jiné chyby justování. Supponujme, že přímky, v nichž protíná rovina dopadu rozhraní mezi kapalinou a krystallem, pak rozhraní mezi kapalinou a koulí, svírají úhel d. Hraničný úhel totální reflexe mezi krystallem a kapalinou buď 3>',
+sin *&'
+rychlost světla v kapalině   V.  Pak podíl   --      ,— je jistou funkcí konstant
+krystallu a orientace rozhraní i roviny dopadové k osám optické pružnosti. Na hranici mezi sklem a kapalinou dopadá však světlo v úhlu <&'-\-d, a v poloze o 180° rozdílné v úhlu CD' — ó . Jsou-li tedy 01 a <&.2 hraničně úhly měřené, platí až na veličiny řádu d2
+sin 3>,           l
+~v~     V>~(SIH
+, ,. ó cos <P ) ,
+V
+= — — - (sin
+_. .,
+ó cos V)
+Tedy hraničná křivka při otočení o 180° není symmetrická, mimo to i poloha maxim a minim vlivem úhlu d se posune. Je-li však <)' malé, pak i úhly <Lj a dX, liší se velmi málo, a jest
+sin CŽ>, -j- sin
+~ Slil
+= ---, sin
+V
+patrno tedy, že v tom případě stačí vzíti střed obou hodnot pozorovaných. Té okolnosti, že vrstva kapaliny není planparallelní, u methylenjodidu vůbec vyhnouti se nelze, poněvadž tato tekutina ke sklu nelne, ale vždy hledí tvořiti kapky, čímž se praeparát nepatrně sklání, věc ostatně dávno známá.
+Měření konáno bylo při natriovém světle Bunsenova plamene, jež dopadalo   shora,   poněvadž   tu   obdržíme,   jak   dříve   řečeno,   hranici mezi
+*) Stran bližšího popisu viz C. Leiss:  Optischc Instrumente^ pag. 45.
+XXVI. ﻿15
+světlem a úplnou tmou. Obdržeti hranici úplně ostrou, je dosti nesnadné, neboť nutno jednak toho dbáti, aby vrstva kapaliny mezi sklem a kry-stallem byla úplně homogenní, bez bublinek vzduchových, jednak nutno vždy methylenjodid po okrajích praeparátu pijavým papírem odstraniti. Při měření samém však docíleno hranice velice ostré, a postavení na průsek nitkového kříže bylo mnohem ostřejší než odečtení na kruhu.
+Vertikální kruh, na němž se odčítá hraničný úhel dopadový, je malý, průměr jeho obnáší asi l dm, je dělen na \ stupně, noniem možno odečísti minuty, ale vzhledem k obtížím měření činí chyby pozorovací asi 2 minuty. Kruh, na němž se odčítají azimuty roviny dopadu, má průměr 75 nim a dělení stupňové.
+Nejdříve stanovena maxima a minima hraničných úhlů a jich azimuty. Srovnáním s druhou plochou se ukázalo, že jedna z křivek hraničných probíhá mezi 02 a <P3 , druhá mezi 3> a tf>j , jak supponováno. Měření dalo
+= 58° 30-5',
+, =69° 32-5',        <í», = 69° 58'5',        0""=62°42'.
+Těmto hodnotám odpovídají hlavní indexy
+i\ = 1-5296              N2 = 1-6806              yV3 = l ""6853,
+jjž dosti dobře souhlasí s hodnotami Míihlheimsovými*)
+= 1-5300,
+N2 = 1-6810,
+= T6854.
+Maximální difference obnáší tu čtyři jednotky čtvrtého místa desetinného, což znamená rozdíl asi 2 minut. Naproti tomu liší se tyto hodnoty dosti značně od čísel Rudbergových, jenž udává
+t = 1-5301,
+2 = l 6816,
+A 3 = 1-6859.
+Příčina tohoto rozdílu je asi v krystallu samém, poněvadž měřením na jiných praeparátech se ukázalo, že stroj kollimační chyby vůbec nemá. Stanovení azimutu maxim a minim je velmi obtížné, zvláště u horní křivky, poněvadž hraničný úhel mění se tu nepatrně. Proto byly stanoveny azimuty těchto maxim a minim tak. že se stanovily napřed azimuty dvou stejných hodnot úhlu hraničného, jež leží dosti blízko příslušného maxima, resp. minima, a z obou azimutu vzat střed. Středem z několika měření jsou hodnoty
+#12 —42° 18'
+i> = — 46° 42'
+Z těchto hodnot možno stanoviti orientaci rozhraní.  V našem případě jest nejlépe k tomu voliti hodnoty 0 a í>1
+= 31° 45' 15'
+Tak stanoveno ^ — — 25° 35'40"",
+*) Landolt und Bórnstein: Pkysikalisch-chemische  Tabellen, pag. 400.
+XXVI. ﻿16
+hodnoty tyto jsou jistě správné až na několik minut. Z těchto hodnot pak určeno t>13 = — 76°, #23 — — 46° 34', což je souhlas vzhledem k obtížím měření velice dobrý.
+Z měření dále plyne s = O20727, í/=0'00556, je tedy vskutku rt velmi malé proti s.
+Při měření hraničných úhlů totální reflexe pro různé azirnuty roviny dopadové, voleno vždy za východisko minimum příslušné úhlu <X>t , poněvadž je ostré. Odtud měřeno dokola v intervallu 15°. Každá série byla několik-krát proměřena, jednak aby se eliminovaly chyby pozorovací, jednak aby následkem různých poloh krystallu na kouli se eliminovaly chyby justovací.
+Jako příklad takové série pro horní křivku uvádím měření následující:
+Azimut dop. rov.	(í>      Azimut dop. rov.		0>
+42° 18'	69° 43'	-137° 42'      69° 38'	
+27° 18'	69° 40'	- 152° 42'	69° 33'
+12° 18'	69° 36-5'	- 167° 42'	69° 30'
+—  2° 42'	69° 36'	— 182° 42'      69"" 29'	
+17° 42'	69° 38'       —197° 42'      69° 30'		
+32° 42'	69° 43'	— 212° 42'	69° 35'
+47° 42'	69U 53'	-227° 42'	69° 44'
+62° 42'	69° 58'	— 242° 42'	69"" 53'
+77° 42'	70° ť	-257° 42'	69° 56'
+• 92° 42'      69° 58'		-272° 42'	69° 56'
+-107° 42'	69° 52'	-287° 42'	69° 51'
+- 122° 42'	69° 42'	— 302° 42'	69° 45-5'
+Není tedy průběh hraničně křivky úplně symmetrický z důvodů dříve uvedených, difference obnášejí až 9 minut, ale možno přece říci, že středy vedou k hodnotám správným.
+Pokud se týče výpočtu, platí tu rovnice (5). Poněvadž však <& a í&2 liší se nanejvýš o 28', možno psáti
+sn     — sn
+=  <ř — #    cos <X>
+tedy
+při čemž   difference 0 — CP2 je vyjádřena v míře  obloukové.   Vyjádříme- li ji v minutách, je
+— 4>2 —
+
+TI
+60 tsr
+-3- sin-
+Hodnoty takto vypočtené souhlasí dobře s hodnotami měřenými, jak patrno z následující tabulky
+XXVI. ﻿17
+ft        <& měřené    0 vypočtené		
+42° 18'	69° 40-5'	69"" 40-8'
+27° 18'	69° 36-5'	69"" 36-5'
+12° 18'	69° 33'2'	69° 33-4'
+2"" 42'	69° 32-5'	69"" 32-5'
+17° 42'	69° 34'	69"" 35'
+32"" 42'	69"" 39'	69° 40 5'
+47° 42'	69"" 48'5'	69° 49'5'
+62"" 42'	69"" 55'5'      69"" 56'	
+77° 42'	69"" 58-5'      69° 58-5'	
+92° 42'	69° 57'	69° 55-5'
+- 107° 42'	69"" 51 5'	69"" 51'
+— 122° 42'	69° 43-7'	69° 43 9'
+Vystihuje tedy uvedený vzorec průběh horní hraničně křivky dosti dobře, neboť difference hodnot měřených a vypočtených činí nejvýše 1'5', leží tedy v mezích přesnosti stroje.
+Pro průběh hraničného úhlu na dolní křivce byly odvozeny dva vzorce. Rovnice (6), (7) a (7') udávají nám hraničný úhel jako funkci azi-mutu dopadovc roviny, rovnice (9) a (9') udávají jej jako funkci azimutu paprsku. Při měření samém je dán azirnut dopadové roviny, podávají tedy první z těchto rovnic hraničný úhel přímo. V následujícím jsou uvedeny hodnoty hraničného úhlu měřené na dolní křivce, pak hodnoty vypočtené dle těch rovnic se zanedbáním th a pak s )t. Výsledek měření a počtu je tento:
+Azimut dop. rov.	0 měřené         ^ počítané bez ?/     ^ počítané s ??		
+42'3°	58° 30-5'                 58° 30-5'		58° 30-5'
+27-3°	58""47'	58° 44'	58°46'2'
+123°	59° 28'	59° 27'	59° 29'
+—     2-7""	60° 29-5'	60° 27-6'	60° 301'
+17-7""	61° 33 5'	61° 31-7'                 61"" 34-1'	
+32-7°	62"" 25-5'                 62° 21 -5'                 62(J23'S'		
+-   47-7°	62° 41'                    62"" 40-3'                 6204T2'		
+62-7°	62° 20'	62° 21-5'                 62° 20-6'	
+77-7°	61°29'5'	61°31-7'	61°31'5'
+92' 7°	60° 28-5'	60° 27-6'	60° 28-2'
+- 107-7°	59° 28 '5'	59° 27'	59° 28-7'
+- 122-7°	58° 47-5'                 58° 44'		58"" 46-2'
+I tu  je tedy   souhlas   mezi   měřením a vesměs v mezích pozorovacích chyb.
+výpočtem   dobrý,   difference   jsou
+Rozpravy: Ročn. XI., Tř. II. C. 2ó.
+XXVI. ﻿18
+Chceme-li počítati hraničily úhel na základě azimutu paprsku, nutno napřed k danému azimutu roviny dopadové stanoviti azimut paprsku. Prů-sečná čára rozhraní s vlnoplochou má největší průvodič v poloze 0,, nejmenší v poloze 0, z čehož plyne na základe úvahy dříve provedené, že rovina jdoucí not malou rozhraní a paprskem je vždy blíže poloze <Z>t, než rovina dopadová. Zanedbáme-li v prvním přiblížení zase /,, pak ze vzorců (8') a (9) obdržíme pro azimut paprsku a pro hraničný úhel </>0 tyto přibližné hodnoty:
+Azimut dop. rov.    Azimut paprsku
+42° 18'	42° 18'	58° 30-5'
+27° 18'	28° 28'	5 8° 45'
+12° 18'	14° 17'	59"" 27-3'
+__ 2° 42'      __ 0""27'		60° 28'
+-17"" 42'      -15"" 47'		61"" 32'
+-32° 42'      -31° 37'		62° 21-5'
+— 47° 42'	— 47° 42'  i	62° 40-4'
+Hodnoty tu vypočtené pro <Z>0 souhlasí velice dobře s hodnotami vypočtenými přímo z azimutu dopadové roviny, což ostatně dalo se očekávati. Zároveň je tu viděti stupeň přiblížení, jehož dosáhneme zanedbáním ),. Křivka hraničná je pak ellipsa,. jež má dvě osy symmetrie, minimum 0 je vzdáleno od 0t o 90"", kdežto měření dává 89U. Z toho je patrno, že, i když není >/ mílie rovno, veličiny <) budou se od vypočtených při suppo-sici i, ~ 0 lišiti velmi málo. Možno tedy ve vzorci pro fífó rt zanedbati. Ze vzorce (9') pak obdržíme:
+Azimut dop. rov.         0 měřené
+vypočtené
+42'3°      58° 30-5'		58 ""30-5'
+27-3°      58° 47'		58° 46'3'
+12-3°      59""L-8'		59"" 28'
+2'7°      60"" 29'5'		60° 28 '2'
+17-7°	61 ""33 5'	61° 35'
+327°	62°25'5'	62 ""26'
+47-7""	62"" 41'	62"" 42-5'
+62-7°	62° 20'	62° 20-9'
+77.70	61 ""29'5'	61 ""30'2'
+92-7°	60° 28 -5'	60° 29'
+- 107-7°	59"" 28-5'	59"" 282'
+- 122 7""	58° 47'5'	58"" 47-7'
+XXVI.
+-L ﻿19
+I tu je souhlas vždy v mezích pozorovacích chyb. Možno tedy tato měření pokládati za verifikaci Fresnelovy theorie dvojlomu v dvojosých kry-stallech. Docela podobně bylo by možno stopovati polarisaci vlny do koule vnikající, ale měření je tu obtížnější.
+Na konec budiž mi dovoleno vzdáti díky panu prof. Dr. Frant. Koláčkovi nejen za popud k práci, ale i za vzácnou ochotu i radu, jíž mi byl ve všem nápomocen.
+XXVI. ﻿*"

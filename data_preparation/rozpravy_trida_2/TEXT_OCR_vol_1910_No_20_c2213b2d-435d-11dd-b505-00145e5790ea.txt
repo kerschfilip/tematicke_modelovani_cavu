@@ -1,0 +1,329 @@
+"","x"
+"1"," ﻿ROČNÍK XIX.                        TŘÍDA  II.                               ČÍSLO 20.
+O vytvořování ploch druhého stupně.
+IV.
+Věta Ivory-ho a některé její důsledky.
+Napsal
+J. Sobotka.
+Předloženo dne 29. dubna  1910.
+i. Přímý důkaz věty Ivory-ho o konfokálních kuželosečkách můžeme provésti následovně. Budiž a, b malá a velká poloosa ellipsy, «, /j budtež absolutní délky hlavní a vedlejší poloosy hyperboly s ní konfokální, budiž dále c společná výstřednost jejich, označme pak příslušně Alt A2 a Blt B.2 vrcholy hlavní a vedlejší ellipsy, A^, A2' vrcholy hyperboly a budiž konečně P bod průsečný obou křivek, jehož souřadnice vzhledem k osám O A-L, O Bl označíme x, y. Seče-li osa x tečnu v P k ellipse v bodě T, k hyperbole v bodě N a klademe-li O T = t, O N = n, a seče-li osa y tytéž tečny v bodě T' resp. N' a klademe-li O T' = ť, ON' = n', platí patrně relace
+t x = a2                  x n — či'                         e2 — t n ,
+ť y = 6-                y n' = — p-              — e2 = ť n'
+Znásobením prvních, jakož i druhých tří rovnic plyne
+2 _ rt2 cr     ., _   b- /32
+e2                      e2
+a dále
+6'2
+takže
+OP= AI Bl .
+Uvažujme nyní dvě konfokální ellipsy o poloosách av \ resp. a2, b% a dvě k nim konfokální hyperboly o poloosách KÍ, «2. Budtež pak P1( Pl
+Rozpravy: Roč. XIX. Tř. II. Č. 20. ﻿body průsečné ellips těch s první, P2, P// s druhou hyperbolou a sice takové body aby P2, P/7 sobě odpovídaly v oné příbuznosti obou ellips, v níž si odpovídají body P1( P7. Klaďme ještě OPi=dí a označme Xj, }\ souřadnice bodu Pi pro libovolné i. Přihlížíme-li nejprv k aífinitě v níž si odpovídají body vzhledem k osám x, y stejnolehlé, tu platí i sc zřetelem na znamení relace
+#1 «2 = c x.2 ,   «2 «! = e Xf , a2 u 2 = e xn
+f
+a dále relace
+z kterých plyne
+xi xn = xi -va a yi A'// = y/ V2 .                           (1)
+kteréžto relace platí, jak snadno se přesvědčíme i pro případ affinit}T v níž na př. bodu Pl odpovídá místo k osám stejnolehlého bodu, který koliv jiný z bodů prusečných druhé ellipsy s první h\'perbolou.
+Dále jest
+V+ a^ - ^,    b*+«*= dn*.    b./ + ax2 = df,   bf + a* = d* a tudíž
+rfi2 + ^//2 ^ rf/2 + ^22 •                                      (2)
+Z těchto rovnic  plyne  odečtením   rovnic = r/ y.2, že P
+xt x.2,  y1 yu —
+°//= PÍ P2  jak to jest větou Ivory-ho vysloveno. Aneb můžeme souditi následovně: Z hodnot pro xi obdržíme
+,            )2 _/v>         )2 =   L   \(a „ — avttf — (a «—««)'•
+a z hodnot pro r^ obdržíme
+(3'2 - r/)2 - () i - y//)2 ==
+kladouce
+obdržíme
+(v___-v V2___(v
+1/2         >/^         V/l
+a tím docházíme k relaci z níž opět plyne, že
+XX. ﻿Snadno dokážeme též, že středy M, M' úseček Pí/3//, P/ P2 ÍSO11 od středu O stejně vzdálen}"".
+Neboť jsou-li PÍ, P/ body ku PÍ resp. P/ diametrálně protilehlé, tedy PÍ O = O Pv P/ O = O P/, pak si body ty též affinně přísluší a proto
+/Y P// = P/P^ a ježto O M = -i-. P/ P/7, O M' = ~ P/ P2, proto ~ÓM=
+= OW'.
+Relace ta plyne též bezprostředně z  (1) a (2).
+2.  Přímky PxP/, PoP//, P\P^, P/P// tvoří čtyřstran opsaný parabole, která se zároveň dotýká os dané soustavy konfokální a jejíž přímkou řídící jest kolmice se středu O na přímku M M' čili symetrála bodů M, M' a zároveň chordála kružnic opsaných nad průměry PÍ P//, P2 P/.
+Neboť parabola dotýkající se stran řečeného čtyřstranu náleží k řadě kuželoseček tomuto vepsaných, jejichž středy leží na přímce MM' spojující středy jeho úhlopříčen, takže MM' udává směr pro osu paraboly, ježto střed její jest nekonečně vzdálený bod přímky MM', takže přímka řidiči paraboly jest kolmá kMM'. Vedeme-li tečny ke kuželosečkám uvedené řady z nekonečně vzdáleného bodu osy y obdržíme involuci přímek danou dvěma páry přímek vedených body Pt, P7/ a body P2, P/ rovnoběžně k y; v této involuci dle rovnic (1) přísluší ose y přímka nekonečně vzdálená; ježto tato se dotýká uvedené paraboly, dotýká se jí tedy rovněži osa y. Obdobně seznáváme, že i osa x se paraboly té dotýká, takže přímka řidiči její prochází bodem O. Body prusečné kružnic nad průměry Pt PH, P2P/ jsou středy involuci pravoúhlých tečen ku křivkám vytčené řady a tedy leží rovněž na přímce řídící uvažované paraboly. Z toho, že osy x, y se paraboly té dotýkají, plyne pak, že v dříve popsané afíiniíě dvou konfo-kalních ellips anebo hyperbol vzdálenosti sobě přidružených bodu (Pt, P/ resp. P1? P2) jsou osami jejich děleny v stálém poměru.
+Kdybychom přibližovali v soustavě konfokální iednu ellipsu nebo hyperbolu k druhé, až by splynuly, pak obdržíme známou v-ětu, že osy kuželosečky, libovolné dvě její normály a spojnice jejich pat jsou tečnami paraboly. Přímka řídící této paraboly spojuje střed kuželosečky s bodem, který půlí vzdálenost uvedených pat. Splynou-li současně obě ellipsy a obě hyperboly, tu dospějeme k větě Steinerově, že parabola, která se dotýká os kuželosečky, dále tečny a normály její v některém bodě, se normály dotýká ve středu křivosti tohoto bodu.
+3.  Pro soustavu konfokálních parabol se výsledky   právě   obdržené poněkud  specialisují.   Zde  nechť  nastupuje   místo   dřívější  první  ellipsy parabola  (/>)  a místo druhé ellipsy parabola (P); místo první hyperboly parabola (q) a místo druhé parabola (Q); parametry těchto parabol buďte příslušně />, P, q, Q.   Přímky  Pt P/, P2P//, Px P2, P/P// jsou tu tečnami paraboly, která má společnou osu x konfokálních parabol za tečnu vrcho-jovou.   Ježto   střed   kuželoseček   konfokálních   jest   v   nekonečnu,   proto
+l* ﻿průměty orthogonální P/, . . . bodů Plt P// a P2, P/ na x tvoří involuci stanovenou páry P/P//, P2' P7 a mající svůj střed v nekonečnu, pročež mají úsečky P/ P//, P/' P2' společný střed a tudíž jest přímka MM' kolmá k #.
+To plyne také z následující úvahy.
+Víme, že vzdálenost přímky PA P/ od vrcholu paraboly (p) rovná se vzdálenosti přímky P/P/' od vrcholu paraboly (P) a sice že vzdálenost
+ta rovná se ~, takže vzdálenost přímek právě uvedených jest   — - — , JL                                                                                                                                                                                                                             —
+a rovněž takovou vzdálenost mají od sebe přímky P2P2', P//P//, kdežto obdobně soudíme, že vzdálenost přímek Pl P/, P2' P2' rovná se vzdálenosti
+přímek P/P/', P// P//' a sice jest vzdálenost ta rovna   — — - . Zvolíme-li libovolnou kolmici k x za osu y, obdržíme tu
+__P—P
+xl      x / — x.2 •    x n -       -      ,
+-  g —g                              (2)
+*a — -xi — *// — xi -       ^
+odkud plyne, že
+Poslední rovnice praví opět, že M M' Sečtením a odečtením rovnic  (1)  a  (2)  vychází
+P — P    Q — q
+Y     __   v     _     _ L_       I       Jí _ l
+2        7                             '
+takže
+(*a - -^/)2 - K - ^//)2 = (^ — P)(Q — q)
+Pro souřadnice y bodů Pj, P2 , P/, P// obdržíme příslušně
+(}'i - y//)2 - (ya - y/)2 - (y^ - >'22) - (y/2 - v//2)
+= (P-p}(Q-q}                           (-')
+Z rovnic  (4) a (•"">) pl\Tne pak, že
+(^2 - */)2 + (y2 - y/)2 = (^r - -^//)2 + O'i - y//)2
+čili
+i~pn = /v/'/ •
+4. Upravme ještě důkaz věty Ivory-ho tak, aby byl pokud možno geometrický a elementární. Uvažujme nejprv ellipsu a konfokalní k ní hyperbolu. Společná reálná ohniska jejich budtež I7V F2, v ostatním za-
+XX ﻿chovejme dřívější označení. Při ohniskové konstrukci ellipsy zvolíme na ose A2AÍ libovolný bod C a pak učiníme F1P — C Av P\P =• AZC; pak leží bod P na ellipse; budiž to společný bod její s vytčenou konfokalní hyperbolou. Je-li C' bod k C vzhledem k O souměrně položený jest C' Aí = Á2 C = F\P , takže F^P — F\P = C' Aí — C Av =C'C,z čehož vyplývá, že C' C jest osa hlavní hyperboly a že tedy C^A^, C' = A2.
+Máme-li tedy v naší soustavě konfokalní mimo vytčenou ellipsu, ještě ellipsu degeneruj ící v dvojnou úsečku F2F1 na přímce F2F1 a mimo vytčenou hyperbolu ještě hyperbolu degeneruj ící v přímku F2Fl, tu rovnice P Fj_ = A± Av PF2=AZAÍ' jsou právě výrazem vět}* Ivory-ho pro tento zvláštní případ.
+Uvažujme nyní pomocnou ellipsu, která má OP za jeden poloměr a úsečku O G = O F1= e kolmou ku O F1 za poloměr k němu sdružený. Když máme v rovině dva sdružené poloměry ellipsy O P, O G a otočíme jeden z nich, na př. O G kolem O o pravý úhel v jednom i druhém možném smyslu do poloh O Glt O G2, tu vzdálenost jednoho z bodů GL, G2 od P rovná se součtu, druhého pak rozdílu poloos ellipsy. Jest to známá vlastnost přicházející hlavně k platnosti při konstrukci os ellipsy ze dvou daných průměrů sdružených. Pro naši ellipsu pomocnou jest tedy jedna z úseček, na př. P F-L rovna rozdílu, a tedy úsečka P F2 rovna součtu poloos; ježto tu ale P Fx = C A: = a — a, P F2 = A2 C — a -f- a, proto jsou a a « délky těchto poloos; následkem toho dle známé věty o sdružených průměrech ellipsy jest a2 + a- = O P2 + O G2 čili
+O P2 = b'2 + a2 a tudíž
+O P = B1 A^',
+což jest výraz dalšího specielního případu věty Ivory-ho.
+Máme-li v soustavě konfokalní libovolné dvě ellipsy a dvě hyperboly, jest následkem toho
+tedy
+W + *n = ^ + d? jako dříve. Z rovnice
+*i *// = *2 */.    y\ yn
+plynou rovnice
+dt dn cos (dt x) cos (dn x) — d2 df cos (d2, x) cos (dj, x) dt du sin (dv x) sin (du, x) = dz dr sin (d2, x) sin (dlt
+z nichž sečtením plyne relace
+dv dn cos (d± dn) = dz dt cos (d2 dt]
+XX. ﻿Applikujeme-li nyní na trojúhelníky O P1 P//, O P2 P/ větu kosi-nusovu, shledáme, že P{ P// = J\~PI .
+Aneb můžeme mysleti si úsečku (77^ * = 0~P\ kolmou k O P1 dále úsečku O P2 * = O P2 kolmou ku O P2 a přihlížeti k dvěma pomocným ellipsám, z nichž jedna má OP//, O P^*, druhá O P/ , O P2* za sdružené poloměry; poněvadž tu jest ČTP// -j- 0~Pl *2 = O^P/2 + 0~P2*2 následkem relace 41 ~M//2 =_^22 + ^/2 a dále 0~P//. ÓP^ sin (OP//, OP^) = OP/ . . CTF2 * sin (O P/, O P2 *) následkem relace d±dn cos (d^dii) = d.2 di cos (d.2, dj) proto jsou tyto pomocné ellipsy shodné. Ze známé konstrukce plyne opět, že úsečka P1 P// jest rovna buď součtu neb rozdílu poloos pro ellipsu prvou a úsečka P2 P/ analogicky pro ellipsu druhou; ježto ale tyto jsou shodný; proto
+5. Pro konfokální paraboly můžeme usuzovati následovně. Především jsme seznali z konfokálnosti  přímo,  že x± -j- xn = ;v2+ xt a že tedy spojnice bodů M, M' jest kolmá k x.   V příbuznosti parabol (P),
+(p} platí pro souřadnice xh XL libovolných  dvou bodů Ph PL , které na
+p__^
+nich  jsou   sobě  přidruženy,   že   [%•—xt    =----^----;    tedy    platí  vůbec
+pro souřadnice x libovolného páru bodů, které si kdekoliv v rovině pří-
+P — p buzností tou odpovídají, že rozdíl jejich má absolutní hodnotu   —^— .
+Sečou-li tudíž přímky P1P2, PÍ PH osu x v bodech Ll 2,   Lf n bude   také
+LI u -í-i 2   — —tt     •     Obdobně   soudíme,   značí-li   L   ,    L2 H   průsečíky _j
+n__Q
+přímek Pl P7, P2 PH s osou x, že   L^ 7 L2 n   = —^— .
+Nyní si vytkněme parabolu g, která má x za tečnu vrcholovou a dotýká se přímek P1 P2, P/P/7. Promítneme-li úsečku, kterou tyto přímky z libovolné další tečny paraboly vytínají orthogonalně na tečnu vrcholovou x, tu ze známé vlastnosti paraboly víme, že délka toho průmětu rovná se L^ 2 L7 77. Naopak naneseme-li na x úsečku S/ S/ = L^ 2 Z,7 7/ a protneme kolmice v S/ a S/ ku x vztýčené příslušně s tečnami Px P2, PÍ PII v bodech Slt Sn pak jest přímka Sí Sn rovněž tečnou paraboly g. Z toho soudíme, že přímky P1PI, P2Pn se taktéž naší paraboly dotýkají a že tedy parabola ta jest totožnou s parabolou dříve uvažovanou. Spusťme nyní s Z,7 77 kolmici na PjP/ až protne přímku P7 P/ v bodě R. Bod ten jest průsečíkem výšek v trojúhelníku L7 77 L^ 7 P7 parabole opsaném a náleží tudíž přímce řidiči paraboly.
+Protne-li dále kolmice s LL 2 na Pj P7 přímku P1P1' v bodě 5 jsou trojúhelníky Lin P/R, Z,12P1'5 shodné a proto P/ 5 = P/ R, pročež R S || x, jak musí býti, ježto bod 5 leží taktéž na přímce řídící.
+Z podobných trojúhelníků
+7""        P ' 7?      P  P ' T LI n jri  K,    */*J  *-!/
+XX. ﻿plyne úměra
+P/R:LIIIP/ = PÍ'LÍI:PIP/.                    (l)
+Z úměry
+L, u P/ : P/ P„' = P7 P/ : (Pu Pn' - P, P/) - V? : ( V(? - >0 plyne, ježto
+že
+2LinP/= {ÍQ+\q}   Y<? .                           (2)
+Obdobně obdržíme z úměr}'
+P/ L! 7 : P/ P/ = P/ P, : (P/ P7- P/ P,} = ťř"": (Vř~_ V# ježto
+* /   ''l    ""        o         '
+že
+2P/I17 = (UM- Y/>) ÍP~.                         (3)
+Z rovnic  (1),  (2),  (3) plyne pak
+4P/R= (íg""+Y?) (VT+>?). Má   tedy   uvažovaná   parabola   parametr   rovný   čtvrtině   součinu
+(fQ+ V?) (V^p + Mp) .
+Jest proto
+Následkem toho půlí přímka řídící parabol}- g úsečku M M' a jest P1P// = P2 P/, poněvadž kružnice nad průměry PlPn, P2 P/ se protínají na této přímce řídící.
+6. Věta Ivory-ho vede k následující vlastnosti jednoduchého čtyř-úhelníku PÍPIPIIP2, jehož úhlopříčny P1 Pn, Py P2 se sobě rovnají. Stran\- toho čtyřúhelníka lze považovati za tečny paraboly. Stanovíme-li pak v rovině příbuznost dvou polí bodových takovou, aby bodům libovolné strany čtyřúhelníka, označme je na př. Plt P2, příslušely affinně přilehlé body P7, P7/ a aby samodružný bod O obou polí ležel na přímce řidiči vytčené paraboly jinak ale libovolně, pak jsou tečny x, y paraboly bodem tím vedené samodružnými přímkami a kuželosečky, které mají tyto tečny za osy, z nichž prochází jedna body P1( P2, druhá body P7, P/7 a které si tedy v této příbuznosti přísluší, jsou křivkami konfokalními. Týž bod a tytéž přímky jsou středem a osami dvou kuželoseček s předešlými konfokálních, z nichž jedna prochází body Pv P7, druhá pak body P2, P77 a přiřaděním bodů Pj, P7 příslušně bodům P2, P77 jest stanovena ﻿druhá affinita, v níž O, x, y jsou elementy samodružné. Zvolíme-li specielně O v nekonečnu na přímce řídící, dojdeme takto k soustavě čtyř parabol konfokálních.
+Že tomu tak jest, plyne z následující úvahy.
+Čtyřstran stanovený přímkami Pt P2, P2 P//, P// P/, P/ P1? pro nějž Pj P// — P2 P/ stanoví parabolu g, pro niž směr osy jest dán přímkou spojující střed Ml úsečky Px P// se středem M2 úsečky P2 P/ a jak víme, jest symetrála s bodů Mv M2 přímkou řídící její. Budtež x, y libovolné dvě k sobě kolmé tečny paraboly, které se tedy protínají v bodě O na s. Stanovme nyní affinitu mající O za samodružný bod, x, y za samodružné přímky, v níž bodu Pt útvaru jednoho 2^ nechť přísluší bod P7 útvaru druhého 277. Označme xít yt pravoúhlé souřadnice bodu PA vzhledem ku soustavě O (x, y), pak platí vzhledem k stranám vytčeného čtyrstranu a k x resp. y jakožto tečnám paraboly, označíme-li ještě Xl 7, X2 n resp. YI i> YZ n průsečíky přímek P1PI, P2Pn s osou x resp. y, jak známo úměry
+-     = (PXP, Y, ,) = (P2P77 Y2 „) =        .
+Xi                                                                      .Y//
+Následkem těchto úměr přísluší v naší affinitě bodu P2 v 27j bod Pn v 2?7. Body P!, P7 proložme kuželosečkou mt mající x a y za osy a vědmě k ní kuželosečky konfokalní %, w7, které ji protínají v Pl resp. P7 orthogonalně. Tu víme, že v naší affinitě stanovené párem bodů P1( P7 křivce n± odpovídá křivka w7. Snadno dokážeme, že obecně křivka % prochází též bodem P2 a křivka w7 bodem P77 a ježto tyto body sobě rovněž přísluší, proto lze jimi vésti křivku m2 konfokalní s uvažovanými křivkami. Neboť kdyby bodP2 neležel na nlt takže by bod P77 též neležel na njt pak přímka P± P2 by protla n± ještě v bodě Lx a přímka P/P// by protla w7 ještě v bodě L7 bodu Lx affině přiřaděném, a dle věty Ivory-ho by bylo P^Li = PTL^. Ježto dle affinity jest (P! P2 Lt) = (P/ P// L/), proto přímka Z-! Lj by byla tečnou paraboly g. Označíme-li M/, M2 středy úseček Pl Lj, Pr Lj, pak by přímka M/ M2 udávala směr pro osu této parabol}^ tedy by bylo Ar/ M2 \\ Mt M2 a z rovnosti P]~~L/ = PT^-i plynulo by dále, že by přímka její řidiči s musela býti též symetralou bodů Ar/, M2. Přímky Mj Af/, M2 M2', z nichž prvá by byla rovnoběžná ku P/ P//, druhá ku PiP2, by se protnuly ve středu 5 úsečky PlPi, kterýmžto bodem by musela procházeti též přímka řidiči s a trojúhelník Ml M2 S by byl rovno-ramenný, mající s za výšku. Ze shodných trojúhelníku Pl M1 S, P/ M2 5 pl>Tiulo by, že P! P/ J_ s a tedy Px P/ || Mj M2 \\ Af/ M2' || P2 Pn \\ L^ L/.
+Není-li tedy čtyřúhelník Pj P2 P77 P7 rovnoramenným lichoběžníkem, pak musí následkem toho Lj ^ P2, L7 ^ P77.
+XX. ﻿Je-li ale takovým lichoběžníkem a zvolíme-li na s libovolný bod O za střed kuželosečky ;;^ procházející body Pv P2, Pj, Pn jest tím tato úplně stanovena, jakož jsou i koncovými body jedné i druhé z rovnoběžných jeho stran stanoveny kuželosečky''^, resp. nf mezi sebou a s m: konfokalní; přímka s jest tu jednou společnou osou všech těch kuželoseček. Zvolíme-li specielně O v průsečíku ramen lichoběžníka, degeneruje m^ \ tato ramena a nv nf jsou kružnice kolem bodu O jakožto středu.
+7. Abychom dospěli k větě Ivory-ho pro prostor, vylučme zatím z úvah našich hyperbolický paraboloid a vzhledem k ostatním plochám ± stupně dokažme si nejprv následující jednoduchou větu:
+Vytkneme-li si na libovolných dvou křivkách kruhových k, l dvě podobné řady bodové Kv K2, ... Ki , . . . resp. Llt L2 . . . Li . . . a zvolíme-li libovolný' bod v prostoru Vk za vrchol kužele opírajícího se o k, pak lze stanoviti vrchol V i kužele opírajícího se o křivku l tak aby Vk Kl = F7 Lv Vk Kz = = VlLi, ...VtK^V,^,...                                                        (I)
+Přiřadujeme-li pak dle věty této dva prostory bodové k sobě pomocí kružnic k a / tu dvojice bodů prostoru jednoho souměrně položených k rovině kružnice k se jednoznačně transformují ve dvojice bodů prostoru druhého souměrně položených k rovině kružnice /.
+Víme, že místem bodů P pro něž poměr vzdáleností A±P : A2P od dvou pevných bodů v prostoru A-L, A2 má stálou hodnotu K jest plocha kulová, která má přímku A:A2 za průměr a odděluje body Av A2 od sebe harmonicky. Jsou-li Blt B2 koncové body toho průměru, jest tedy (A1A2B1 B2) =• — 1. Položme přímkou A:A2 dvě k sobě kolmé roviny A, B; opišme v první kružnici a nad průměrem A±A2, v druhé kružnici b nad průměrem B1B2 takže prve uvedená koule K^ má b za kružnici největší. Jsou-li FI; F2 libovolné dva body kružnice b, tu, ježto body ty leží na K^ platí relace
+l\A.2 čili
+Všechn\- body O pro něž platí relace           = u leží patrně na kouli K
+V1Q
+mající svůj střed S na přímce Vl F2 a poněvadž body Av A% náleží taktéž této kouli, proto jest 5 průsečíkem přímky V± V2 se symetrální rovinou bodu AY, A2, tedy leží S v rovině B a jest v ní průsečíkem symetrály m bodu Alf A.2 s přímkou Vl F2. Následkem toho leží kružnice a rovněž
+i
+na kouli K, pročež pro každý bod Al na křivce a platí relace    JL *• = |«.
+V^Ai
+Máme-li tedy kužel opírající se o křivku kruhovou a a mající vrchol svůj v bodě F! stanovíme vrchol F2 kužele opírajícího se též o a té vlast-
+XX. ﻿10
+nosti, že pro libovolný bod A^ na a platí uvedená relace, opíšeme v rovině B která promítá přímku spojující Vl se středem kružnice a ortho-gonálně do roviny A této kružnice protínajíc ji v bodech Alt A2, kružnici b
+jakožto místo bodů Vjt  pro které jest poměr A =    :*_ 1 =  J_ ] stálý a pak
+V\A2     V/A2
+vyhledáme na b bod F2 tak, aby pro body A' na příslušné kouli K položené
+křivkou a bvl poměr -_.2     = u. Víme, že střed 5 této koule ležící na m _FXA
+jest   dán   poměrem     Ji     = ^.   Stanovíme-li tudíž přímku n rovnoběžně
+1 s m tak aby n — | m : FJ — | m = ji2, pak přímka ta seče /; v bodech F2, F.,*,
+které jsou vrcholy kuželů žádané vlastnosti.
+Vidíme, že danému poměru /i odpovídají dva a jen dva kužele, k rovině A křivky a souměrně položeny, takže přiřadění kuželů těch b}* se stalo jednoznačným, kdybychom na př. vytkli, že vrcholy příslušných kuželu mají býti vzhledem ku A stejnolehlými.
+Naneseme-li na V.iAi v příslušném smyslu délku V2Li = l\Ai. budou popisovati body Lt řadu bodovou na kružnici / podobně položenou
+s   řadou   bodu  J;.     Poměr poloměrů křivek a, / rovná se patrně      ~~ '•
+V\A i čili fí.
+Tím jest důkaz naší věty (I) již dán. Zvolíme totiž na / libovolné tři body L±, L.2, L3 a stanovíme průsečíky ploch kulových o středech Llt L2, Ls a poloměrech rovnajících se příslušné Vk K1, V k A2, Vk K3, při čemž jsou Kl, K.2, A3 body kružnice k odpovídající podobností bodům LI; L2, L3 na /. Budiž Vl jeden z průsečíků těchto koulí; pak platí obecně ViLl = VkKí. Sestroj íme-li totiž ke kuželi (V/, l) jenž má vrchol Vt a. opírá se o / kužel podobně položený pro F, jako střed a tedy s ním splývající pro poměr podobnosti ^i rovnající se poměru poloměru kružnice l k poloměru kružnice k, bude řadě kruhové Lt . . . odpovídati řada bodů A""/ . . . ležících na kružnici k' shodné s k. Převeďme takto transformovaný kužel do polohy takové, aby řada bodů Ay, . . . splynula s řadou bodu AJ, . . . , čímž nechť přejde vrchol F/ do poloh}- F,*. Vzhledem ke kuželi (F^) lze sestrojiti zcela vrčité dva body F2, F2* tak, aby pro všecky
+F KÍ                  F>*A,
+bodv Ki na k platila relace     2    l = ft,  resp.    2 „ '       u.  Tu musí bod V,*
+V k A i                          Vk^i
+patrně splynouti s jedním z bodů F2, F2*. ježt(j následkem uvedených poměru Ax F2 - A2 F2 * - A\ Vl *, A2 F2 = A, F, * - - A2 V, * a A.{ F2 -
+= A3F2* = A3F;*, takže pro přemístěný ku/d j>latí obecně    _     = ,u,
+_ pročež V i Li — F* A^.
+Z naší  souvislosti jest  patrno,  že  spojnice  vrcholu  V,  se středem kružnice / promítá se orthogonálně v její rovinu  do průměru, který ve
+XX. ﻿11
+vytčené podobnosti mezi / a Zodpovídá průměru, do něhož se orthogonalně promítá spojnice vrcholu Vk se středem kružnice k do její roviny.
+8.  Dvě konfokální plochy A1; Aj stejného druhu můžeme affinně k sobě poradovati tak, aby jejich společný střed, hlavní roviny a osy byly samodružný. Příslušné sobě body v takto ještě možných affinitách různících se od sebe tím, zda-li body ty jsou vzhledem k jednotlivým rovinám hlavním stejnolehlé nebo různolehlé, leží  vždy na jedné křivce křivosti k oběma plochám orthogonální.   Následkem toho odpovídá každou takovou affinitou bodu kruhovému ať již reálnému neb imaginarncmu plochy jedné zase takový bod plochy druhé; jsou to průsečíky ploch s touže křivkou fokální. Z toho následuje, že libovolné kružnici /^ na ploše jedné odpovídá afíinně kružnice kf na ploše druhé; affinita kružnic jest ale podobností,   takže řadě bodové Kv ... na k± přísluší affinně řada bodová podobná Kf, . . . na kr   Seče-li k{ re ctným bodem kruhovým procházející křivku hlavní h^ plochy Ax v bodech Klt K2, seče kt souhlasnou   křivku  hlavní  hj plochy Aj v bodech A7, KH ku A1; resp. A2 affinně příslušících. Leží tedy body Klt Kj na téže  křivce  ku hí a hI konfokální,   kdežto K2, Kn leží   na druhé takové křivce.  Obdobně leží libovolné dva body Hv Hj na h± a hf sobě příslušné opět na jedné křivce takové. Z toho ale plyne dle Ivory-ho věty pro rovinu odvozené, že H1 Kj — Ht Klt Hl Kn = Hr K2.   Dle  naší věty pomocné platí pro  libovolné dva sobě příslušné body K}-, Kj kružnic klt kj rovnost Hí Kf — H{ A;.    Vždyť lze dle věty té sestrojiti ku vrcholu Hl kužele (Híkl) vrchol H* kužele   (H* kj) tak, aby pro každý pár sobě příslušných bodů Kf, Kj bylo H1 K} = H * Kf.    Ježto průmět orthogonalný spojnice bodu Hl se středem kružnice kf do její roviny a průmět orthogonalný pro spojnici bodu H* se středem kružnice kt do roviny   této si v obou kružnicích affinně přísluší,  proto musí bod H* ležeti   v rovině křivek hlt hlt   v níž leží též H^.    Poněvadž dále má býti v této   rovině H1 Kj = H* Klt Hv Kl{ = H* K2,   proto vzhledem k tomu,   že Hl K, = Hj Kv H! Kn = H, A2, musí A\ H* - Kt Hz, K2H* = Kz H,.   Bod H* spl\'ne budto s HI nebo jest ku Hf souměrně položen vzhledem ku rovině kružnice   /e^     Jest tedy pro každý pár bodů K-. Kj skutečně   H1 K} ~ HtKj.
+Vytkneme-li nyní Hlt Hl jakožto libovolný pár sobě příslušných bodů na hi a hj, dále je-li Kj, K; vůbec libovolný pár sobě příslušných bodů na plochách At, Aj pak jest vždy H1 K} — Hj Kf. Neboť vedeme-li bodem KJ křivku kruhovou kv na At a bodem Kj affinně příslušnou křivku kruhovou kf na Aj, obdržíme souvislost právě uvedenou, z níž správnost našeho tvrzení vyplývá.
+9.  Vraťme se opět k dvěma sobě příslušným kružnicím klt kl a uvažujme na nich mimo vytčené body Klt A'., na ht a A7, A'7/ na hf ještě další pár příslušných bodů A3, A/7/. První z nich považujme za vrchol kužele (A'3 k,}, druhý za vrchol kužele (A""//7 k^}. Hrany kužele prvého, které spojují vrchol A'3 s třemi body A7, Kfl, Km na kj se vzhledem k předchozí úvaze
+XX. ﻿12
+rovnají hranám kužele druhého spojujícím vrchol Km s body podobně příslušnými Kít Kz, K3, následkem toho platí dle věty (I) pro každý pár sobě příslušných bodů Kf, Kj rovnost K3 Kj = KIH Kj.
+Tím ale jsme vedeni k obecné prostorové větě Ivory-ho.
+Uvažujme tedy libovolné dva body Kjt Kt na Ax a příslušné body Kj, KL na Aj. Při tom mohou býti A1; A! plochami 2. stupně jinak libovolného druhu, jsou-li to ale dva dvojdílné hyperboloidy, tu předpokládejme na okamžik, že Kj, Kl leží oba bud na jednom neb druhém dílu plochy Ax takže rovněž i body K}, KL leží oba na jednom dílu plochy A:. Patrně můžeme ve všech uvažovaných případech dospěti od bodu Kj k bodu Kt nepřetržitě cestou na ploše vedenou po samých kružnicích reálných; dejme tomu, že by to byly kružnice kf, ka, kb, . . . k,, při čemž roviny křivek těch náleží střídavě jednomu neb druhému ze stávajících svazků rovin, v nichž řezy reálné jsou obsaženy. Tak dojdeme na první kružnici od bodu Kj až k bodu Ka ležícímu též na kružnici ka, odtud po ka až k bodu Kb náležejícím křivce kb a tak dále až k bodu Kt. Na ploše A: budou těmto útvarům odpovídati analogicky kružnice kj, kA, kB...kL a body Kj, KA, KB,. . . KL, takže přejdeme od Kf ku KL na ploše Ax po obloucích kruhových přes body KA, KB, . . . Při tom můžeme dráhy uvedené zaříditi tak, aby žádný z uvedených bodů neležel na h^ resp. hj. Poněvadž jsou KJ, Ka na téže kružnici kj a obdobně K}, KA na příslušné kružnici &7, proto jest Kj KA = KjKa. Dále uvažujme kužele (K; kA) a (K* ka). Zde se rovnají tři hrany kužele jednoho příslušným hranám kužele druhého, totiž úsečk}r, které spojují bod Kj s body prúsečnými kružnice kA s křivkou ht rovnají se příslušně úsečkám, jež spojují Kj s přináležejícími průsečíky kružnice ka s křivkou h^ a mimo to jest KfKA = Kj Ka. Následkem toho se rovná úsečka spojující A'; s libovolným bodem na kA úsečce, která spojuje Kf s příslušným bodem na ka, tedy zvláště K} KB — Kj Kl. Přejdeme-li nyní obdobně dále na kB kb resp. kB seznáme opět, že KjKc = Kj Kc a tak dále, až konečně obdržíme, že Kj KL — Kj K/.
+Tím jest důkaz obecné věty Ivory-ho proveden. Zbývá jen ještě případ, když body Kf a Kt leží na různých dílech dvojdílného hyperboloidu a kdy tedy není dříve popsaná dráha mezi Kj a Kl možná. V tom případě podle našeho označení leží jeden díl souměrně k druhému vzhledem ku rovině (y z). Buďtež tu Kj', Kj' body ku Kj, Kj souměrně položené, pak si body KJ', K}' též affinně odpovídají. Nyní můžeme bod}' K- , K{ ježto jsou na témže dílu plochy Ax spojiti dráhou K- Ka Kb . . . Kl složenou z oblouku křivek kruhových k- , ka, kb . . . k/ a obdobně body K}'', KL na Ar obdobnou dráhou affinně příslušnou K/ KA KB . . . KL způsobem prve popsaným. Tu jest na základě souměrnosti vzhledem ku (y z) nejprv K}Kj' = Kj KJ' a dále obdržíme kužele (K^k/), (Kf k'} v nichž tři, tedy všecky příslušné si hrany se sobě rovnají, takže A, KA = Kj Ka, a tak můžeme pokračovati dále až dospějeme opět k rovnosti Kt KL = Kj K{.
+XX. ﻿13
+10. Zvláště nutno vyšetřiti hyperbolické paraboloidy, které nemají vlastních řezů kruhových a které jsme proto z úvah našich dosud vylučovali.
+BucTtež F! vrchol a (p-^, (Pj) paraboly v hlavních rovinách (xy), (x z) o parametrech pv Pl pro takový paraboloid Ax. Stanovme nejprv délku úsečky libovolné přímce plošné přináležející a rovinami hlavními omezené. Přímka ta nechť seče první parabolu v bodě Av druhou v bodě A2] průměty orthogonalní těchto bodu na x označme A± , A2. Bodem A1 položme parabolu (q-^ s (p^ konfokalní a bodem A2 parabolu (q2) s (Pj) konfokalní. Vrcholy těchto parabol budtež Uí} U2. Z dřívějšího víme, že A1/VÍ rovná se poloparametru křivky (q^, VtA2f onomu křivky (q.2) a ježto AI A2 jest tečnou pro (p-^, A2 .4/ pro (Px) proto jest At' Vl = Vv A2 a tudíž mají (q-^, (q2) týž parametr q. Délky Al A± , A2 A2 jsou výškami trojúhelníků pravoúhlých, jejichž odvěsny jsou normálami zde uvedených parabol. Proto jest A^ A22 — q'2, .4/ A^2 = p1 q, A2 A22 = Px q a proto A^A22 = q (p,+I\ + q).
+Mějme nyní paraboloid hyperbolický AI k danému konfokalní o vrcholu Ví a />/, P/ budtež parametry jeho parabol hlavních (pí), (Pí).
+V  známé nám příbuznosti obou ploch přísluší bodu Al bod Af na (q^, bodu A 2 bod An na  (f/2)  a proto jest  .4/ Ari2 = q (/>/-}- P/ +<?).      Poněvadž   P/ -f- pí = Pj + pí, ježto uvedené součty parametru rovnají se dvojnásobné vzdálenosti / vrcholů parabol fokálních pro Aj a AI čili parametru parabol těch, proto .4/ An = Al A2.
+Volme označení ploch Al5 AI tak, aby Px > P/ , pak máme kladouce p _ . p
+VI  Vf = -' — - —      = v a majíce zřetel k tomu, že A^An' = ^Ij^^a^ ^a'^//
+= q + v
+A^An* =(q + r)3 + í (ft + ^/) = ^ + ?2 + q (Pí + PÍ + 2 v)
+J7742' = (? — i')- + q (P! + Px) = v2 + t/2 + q (/>, + Pt — 2 v), tedy
+J7~J7/2 = y2 + í/ (? + PI + A), ^~422 = v> + y (í/ + P/ + pí). Máme tudíž relace
+A^A2 = A^An = V q (q + /) = m
+^„=.4,^ = ^+^                          (1)
+Následkem toho jsou trojúhelníky A^A^Ajj, AfAnA2 shodný a rovněž i trojúhelníky A^AjA^, A1AVA11. Proto přímka .4r47 jest k přímkám A-^A^ .47.477 stejně nakloněna a rovněž i přímka .42.477. Značí-li .43, /44 libovolné body na A± A2 a ^4777, .47F příslušné jim body na .47.477, tu především z příbuznosti ploch Aj, Ar plyne podobnost řad bodových Av A2, A3, AI, ... a ^47, /177, .4777, AIV, ... a ježto .41.42 = AlAn proto přechází podobnost ta v shodnost, čímž dospíváme ke známé větě, že pří- ﻿14
+slušné sobě délky na přímkách dvou koníokálních paraboloidu hyperbolických se sobě rovnají.
+Jsou tudíž trojúhelníky Aí A{ A3, AI A1 AUI shodný,  ježto A^Ai =
+= ÁT~Ai,  A~4.3 = A~Ain,   ^ AI Al A3 = <L AI A! Ain,   pročež A^An[,
+— A! A3 a trojúhelníky A1A3AII[,   AI ,4/// A3 jsou shodný,   tak že úhly
+jejich při A3 a Ain se sobě  rovnají  a  tudíž  i  trojúhelníky  -44.43.4///.
+AIV AUI ^3 shodný jsou, z čehož usuzujeme, že .44 Ain = AÍV A.A.
+Věta Ivory-ho platí tu tedy nejprv pro páry bodů sobě příslušných .4,, Aj\ AI, AL takových, že přímka .4, A/ leží na ploše Aj a tedy přímka Aj AL na ploše At.
+11.  Úvahy, které nás vedl}' k relacím (1) nelze ale bezprostředně provésti pro případ, že uvažované přímky povrchové jsou přímkami vrcholovými.    Seče-li   přímka   vrcholová  jedna   plochy  A1  libovolnou   přímku její ^41^42 v bodě Ah   tedy příslušná přímka vrcholová ploch}' Ar přímku Aj An v bodě AL ku A, příslušném, jsou souřadnice y a z bodu A, patrně
+l    , , .      l    .....                     (                   ]                    l      „
+rovny -- Aí Alf — A.z A2 cíli čtverce jejich rovnají se — q p^, resp. — qP-^
+JU                                       JU                                                                                                                                                         ""T
+Jest tudíž
+takže opět Vl F/ = F/ AL.
+Ze shodnosti trojúhelníku ViVlA/, V1 F/ AL plyne VlAL=VIAl a. tedy, jsou-li A&, AK další dva sdružené body na přímkách těch, jest ALAK= AI Ak . Ze shodných trojúhelníků At ALV^ ALAt V^ plyne <$; A/ V i AL = <^C AL V1 AI, takže i trojúhelníky At F/ AK, ALVl Ak jsou shodný; pročež At AK= ALAk. Tedy relace (1) platí též vzhledem ku přímkám vrcholovým.
+12.  Dále si vytkněme na paraboloidu At libovolný bod Bl a bod C, který leží libovolně na některém hlavním jeho řezu, řekněme (/>,); bodům těm nechť na Aj příslušejí bod}' BJt Cj, poslední z nich na řezu hlavním (pj).
+Dokažme, že jest též B± Ct = Bf Cv
+Bodem Bí veďme na A1 jednu přímku protínající (p^ v bodě I\; příslušný bod Df jest průsečík přímk}' BfDf na Aj ležící s (pj). Bod}' Clt Cj veďme na našich plochách přímk}', z nichž nechť první seče Bl D^ a to v bodě E1, druhá pak Bf D, v bodě Er Patrně jsou tu trojúhelník}-1\ C, Ev, Dj C i Ej shodný, ježto Ct Dí — C1 Dj dle Ivory-ho věty platné pro rovin\-a že ostatní příslušné strany se sobě rovnají, bylo prve dokázáno. Proto úhly jejich při Dl a Df se sobě rovnají a trojúhelníky D1Ct Blt D,C1BI jsou shodný, takže vskutku B1C/ = B[C^.
+Konečně uvažujme libovolné dva body G1, Hl na At a příslušné jim body na Aj. Bodem G1 vecTme jednu přímku ploch}' Al protínající (/>j) v Cj_ a bodem Hl přímku, která GjCj protíná a sice v bodě, jejž označíme EI, průsečík přímky té s (/>j) budiž Dv Sestrojme si na Ar příslušné útvar\-
+XX. ﻿lo
+affinní.   Dle dosavadních vět jest G, El = G1 Ef ježto přímky GlEl, G/ L""/ náleží A]  resp.  AI ,  dále  G/ D{ = Gí Df , jak právě dokázáno.   Z   trojúhelníku shodných G/ D{ L\, Gx /)/ L""/ plyne, že <^C G/ D± E1 = <^C Gt DI Ei takže trojúhelníky G/ D1 //1?  Gt Z)/ /// jsou shodný, pročež G/ //x = Gx /// . Tato rovnost jest konečné vyjádřením obecné věty Ivory-ho pro konfo-kální paraboloidy hyperbolické. Vidíme, že důkaz věty této postupně pio-vedený vyžadoval jen těch nejelementárnějších vět geometrických.
+l.'i. Větu, že sobě příslušné úsečky na přímkách povrchových v soustavě konfokálních hyperbolických paraboloidů se sobě rovnají, lze rychle dokázati též takto. Dokážeme nejprv, že pro příslušné si body Aít Aj na přímkách vrcholových jest l\ Al = Vr Aj tak, jak jsme to prve provedli. Na to posuneme Al ve směru x do polohy Aj * tak aby vrchol Vf splynul s Fx, čímž přejde A: do Aj*. Z příbuznosti obou ploch A,, At plyne, že posunutím přejde příbuznost ta v takovou affinitu mezi Al a A/ *, v níž řada bodová na .v jest samodružná. Úsečky na přímkách rovnoběžných mají poměr, který affinitou se nemění. Vedeme-li k přímce povrchové iní na Ax náležející téže řadě přímek ploch)* té jako V1 Al rovnoběžku bodem Av protne tato osu x v bodě M a to proto, že rovina (.v V^ A-^ jest rovinou řidiči pro Ar Poněvadž M jest v posledně stanovené affinitě bodem samodružným, proto v ní úsečce M At odpovídá úsečka M Af* a jest patrno, že M Aj* — M Av Z toho plyne, že affinitou touto příslušné si úsečky na ;;/! a wz/* též se sobě rovnají; což platí i o úsečkách sobě příslušných na •/»! a w7 v uvažované affinitě ploch Ax, A7. Ze souvislosti té plyne též, že úhel, který určují libovolné dvě přímky mimoběžné na Aj rovná se úhlu, který určují příslušné přímky na A!.
+14. Když již jsme dokázali větu Ivory-ho pro ostatní plochy druhého stupně, tu platnost její pro dva hyperbolické paraboloidy plyne pak kratčeji nežli jsme to právě provedli a beze všech výpočtu. Abychom totiž dokázali, že G i H^ = Gj///, mysleme si položeny bodem G1 další dvě plochy konfo-kalní; jsou to dva elliptické paraboloidy B, C, jejichž osy mají různé smysly. První nechť seče Al v křivce bv druhý v křivce q; kdežto plochu Al protínají v křivkách bj, resp. c7. Prúsečná křivka ploch B, C protíná Ar v bodě G7. Bodem Hs položme možné další dvě plochy s danými konfo-kální B*, C* z nichž jedna, řekněme první bude paraboloidem elliptickým stejně položeným s B, druhá obdobně bude elliptickým paraboloidem stejně položeným s C. Prúsečná křivka ploch B*, C* seče Ax příslušně v bodě H^
+Plochy B a C* protínají se v křivce, procházející bodem L^ — 6t . cl* a bodem L7 = bI . c7* jemu příslušným v affinitě mezi A± a AL stanovené. Rovněž tak křivka prusečná ploch C a B* stanoví dva takové body Ml = q . bl*, Mj = cf. bf*. Všechny zde vyznačené bod\- jsou, jak známo, reálné. Můžeme přihlížeti nejprv k elliptickým paraboloidům B, B* a vytknouti si karakteristickou affinitu jejich, v níž tedy bodům
+XX. ﻿10
+plochy B příslušejí po řadě body
+M1; #!, Hj, Mj
+takže jest vzhledem ku větě Ivory-ho pro elliptické paraboloidy obecně dokázané applikované na páry příslušných si bodu Gl Mv L1 Hj,
+G.H^M.Lj.                             (1)
+V karakteristické aflinitě elliptických paraboloidu C, C* přísluší bodům Glt Mlf M2, Gj na C po řadě body LI} HJt Hj, Lt na C * takže dle věty Ivory-ho použité vzhledem k párům příslušných si bodu M^ Hl, Gj Lf platí rovnost
+M, Lj =H1GI.                                            (2)
+Srovnámc-li  (1) a  (2) obdržíme rovnost
+G1 Hf = //j GI
+kterou jest věta Ivory-ho i pro hyperbolický paraboloid obecně dokázána-15 Tím se věta tato dokázala nezávisle na úsečkách, které si v plochách těch affinně odpovídají. Právě naopak můžeme pomocí věty Ivory-ho dokázati rovnost takových úseček, tedy opět, aniž bychom potřebovali útvary zde se vyskytující algebraicky vyjadřovati. Budtež totiž 11, /7 dvě libovolné sobě příslušné přímky a A^, Af libovolné dva sobě příslušné body. Sestrojme v rovině Ajl^ trojúhelník rovnonimenný A1B1C1, jehož základna 51( Cj leží na přímce /r Ježto AIB1 = A1BI, AIC1 = AÍCI proto bude trojúhelník A1BICI též rovnoramenný. Pata DL výšky s ,47 v prvém trojúhelníku přísluší affinně patě Dt výšky s Ai v trojúhelníku druhém, protože obě půlí příslušné si úsečky B^C^, BjCj', dále musí AID1 — A1DI dle věty Ivory-ho; proto jsou pravoúhlé trojúhelníky A]_ Bf Dj, Aj B! D{ shodné, následkem čehož B2 Dl = Br D^. Z toho soudíme, že příslušné řad}' bodové na /j a /7 jsou vůbec shodné, čímž jest správnost věty o stejných sobě příslušných úsečkách dokázána.
+Čtyrúhelník prostorový stanoví hyperbolický paraboloid. Jsou-li v čtyřúhelníku tom AVA:ÍAUAI dvě protější strany A1A.2, A1AI1 sobě rovny a rovnají-li se sobě též jejich úhlopříčny A1AII, AfA2 pak jest tento paraboloid orthogonálný. Položme totiž přímkou AÍA.2 rovinu R rovnoběžnou ku AtAn a promítejme do ní orthogonálně. Pak průmět AI An' úsečky AIAJI rovná se též A1A2 a úsečky A1AI/, A/ A2 se též sobě rovnají jakožto průměty úseček A1AII, At A2 sobě rovných, jejichž koncové body mají stejné rozdíly vzdálenosti od průmětny. Leží proto body Alt A/, A2, Au' na kružnici, ježto přímky A^ A2, Al AH, pročež i přímky At A2, Aj An' nejsou rovnoběžný, následkem toho jest AÍAI' AiAn'. Tedy orthogonálně promítající roviny přímek A1AI, A2An jsou rovnoběžný; takže vskutku rovina řidiči přímek A1AI,A2AII jest kolmá k rovině řídící R přímek A1A.2> AjAjf.
+Poslední   úvahy  o  stejných   příslušných   sobě  úsečkách   platí  beze změny též pro konfokální hyperboloidy jednodílné, tak že můžeme obecně říci:
+XX. ﻿V příbuznosti karaktcristické dvou konfokálních ploch jsou na plochách těch příslušné sobě řady kruhové podobny a příslušné řady přímé shodný.
+16. Karakteristická affiriita konfokálních ploch A1; Ar vede nás k dalším vlastnostem, které se vztahují k větě Ivory-ho.
+Buďtež opět Av B1 dva body na Ax a At, Bf body jim příslušné na Aj. Čtyřúhelník prostorový ALB1BIAI o úhlopříčnách A1B[, AjB^ stanoví hyperbolický paraboloid H; společné hlavní roviny ploch A1( A7 jsou proň rovinami tečnými. Neboť značí-íi All, Bll průsečík}- přímek AlAl, Bl Bf s některou rovinou hlavní, jest dělící poměr (Al A: ALl) roven poměru vzdáleností bodu Alt Af od této roviny, který na základě affinity rovná se poměru vzdáleností bodů Bv B{ od téže roviny a ten jest dále roven (BÍBIBU}> takže (B^ B2 Bu) = (A± A! Au), následkem čehož přímka Au Bu leží na H. Řečená rovina hlavní obsahujíc jednu přímku plochy H dotýká se jí a obsahuje tudíž ještě další přímku plochy, kterou jest patrně spojnice průsečíků přímek A1Bl, AjBf s ní. Jsou-li A1; Aj plochami středovými, tu v jejich středu O sekou se tři navzájem normálně roviny tečné ploch)' H a proto leží bod O v její tak zvané rovině Monge-ově. Přímka M M' spojující středy M, M' úhlopříčen A: B{, rcsp. Af B± jest jak známo jedním průměrem plochy H. Jsou-li Ar, Ax paraboloid}', pak jest rovina Monge-ova stejnosměrná s jejich společnou osou x, a přímka MM' jest tudíž kolmá k x.
+Máme-li naopak dán libovolný prostorový Čtyřúhelník A1B1B1 A{ tu jest oo3 affinit dvou prostoru možných té vlastnosti, že v každé affinitě dvěma vrcholům na libovolné straně čtyřúhelníka ležícím příslušejí jim přilehlé vrcholy strany protilehlé a že samodružné roviny affinit}' jsou navzájem kolmý. Samodružné bod)' affinit těch tvoří rovina Monge-ova pro hyperbolický paraboloid daným čtyřúhelníkem stanovený a samodružné roviny se paraboloidu toho dotýkají. Náležejí-li A^, B± ploše A1 a Aj, Bj ploše k ní konfokální Ax jest rovina Monge-ova hyperbolického paraboloidu H symmetrálou bodů M, M' půlících úhlopříčny A1 Bj, At B± a prochází středem O obou ploch, jak snadno z následujícího seznáme.
+Především přímky A^Bj, AIBl jsou vzájemnými polárami vzhledem ku H, přímka, která spojuje jejich nekonečné vzdálené body, jest polárou přímky MM'; proto jsou body M, M' sdruženy vzhledem ku H a následkem toho leží střed U úsečky M M' rovněž na H. Ježto pak (A{ Bf M] = = (AjB^M'} = — l, proto přímky A^At, BrBlt MM' náležejí jistému hyperbolickému paraboloidu obsahujícímu též A± Bj a /!/ Bl, následkem čehož středy C, D, U úseček A^A^ Bl Bí a MM' leží v jediné přímce, která taktéž na tomto paraboloidu jest obsažena; obdobně soudíme, že středy C', D', úseček Al Bv Alt B! M M' leží na přímce. Přímky C D, C' D' leží rovněž na H ježto půlí strany protilehlé v čtyřúhelníku A1B1BI Aj. V rovinném čtyřúhelníku C C' D D' jsou všechny strany sobě rovny, ježto
+jejich délky rovnají se bud — A^j aneb ^- Ar B^, Čtyřúhelník ten jest tedy
+2     '                      2>
+Rozpravy: Roč. XIX. Ti. II. Č. 20.                                                                                ^
+XX. ﻿18
+kosočtvercem; následkem toho jest C D JL C' D'. Bodem U veďme tyto tři roviny: rovinu obsahující přímky C D, C' D' a dvě roviny k ní kolmé, / nichž jedna prochází přímkou C D, druhá přímkou C' D'. Ježto tyto tři roviny jsou navzájem kolmý a dotýkají se plochy H, proto jejich společný bod U leží v rovině Monge-ově plochy H.
+Mohli jsme affinitu mezi At a Al voliti též tak, že by bodům AIt Bj odpovídaly body A^' , B^ k Al a B± souměrně položené vzhledem ku společnému středu O obou ploch; pak z relací A1 Bf = At Bl a A^ B{ = Aj B± plyne rovnost O M = O M' a tedy rovina Monge-ova procházející bodem O a kolmá ku M M' seče tuto přímku v bodě U. První důkaz ale má tu přednost, že platí přímo též pro případ, že Ax a Ar jsou paraboloidy. Stejně jsme mohli vésti důkaz v rovině.
+17. Pro další odvoďme si větu následující:
+Jsou-li dány v pravoúhlé soustavě souřadné O (x, y, z] libovolně dva body Av AIt jest tím stanovena affinita prostorů 2/\, 2?7 v níž bod O, přímky x, y, z jakož i roviny jimi stanovené jsou samodružnými a v níž bodu A^ přísluší bod Af, v této affinitě lze sestrojiti plochu druhého stupně Pl která prochází bodem A1 a jejíž roviny hlavní splývají s rovinami souřadnými, takovou, aby affinně jí příslušná plocha Pl byla s ní konfokální.
+Buďtež x, y, z souřadnice bodu A^, X, Y, Z bodu Af a délky poloos pro Pj buďtež a, b, c, pro Pl pak A, B, C.
+Klademe-li
+x               y               z
+x = tt!  Y :=ft'   z '-=r>
+platí tu patře relace
+takže
+a = aA,    b = $B,    c = yC.                            (1)
+Mají-li býti plochy P1; P: konfokální musí platiti vztahy (Č—.& = A* — B*,      ^ — c^ = Bi — Cí,      (* — a* = C* — A*,            (2)
+z nichž vždy jeden jest důsledkem dvou ostatních.  Dosadíme-li do posledních relací za a, b, c hodnoty z  (1) obdržíme rovnice
+A* (l — a-) - L- (l — 02) = C2 (l — f) které dávají úměru
+A: B: C =}(\ - ^) (l -f) : \(1 —/) (l - «^) : V(l -a-2) (1-0*)    (3) a obdobně úměru
+(4)
+P'/ XX. ﻿19
+Poslední rovnice dávají poměry poloos náležejících plochám Pv Pl které mají dané podmínce vyhovovati. Nyní bodem Av prochází jediná plocha P! jejíž poloosy mají poměr daný rovnicí (4) a bodem Ar prochází taktéž jediná plocha Pj, jejíž poloosy mají poměr daný rovnicí (3). Plochy ty jsou dle (1) affinní a dle (2) konfokální.
+Tím jest věta naše dokázána.
+18. Jc-lidán prostorový čtyřúhclník AÍAIBIB1 jehož úhlopříčny A^B^ Aj B) se sobě rovnají, pak lze stanoviti oo3 affinit prostorů 2^, 2^ jimiž se hody Av B± převádějí v body AIt Br a z nichž každá jest karaktcristickou affinitou pro dvě konfokální plochy 2. stupně procházející body Alt B}, rcs/). Af, Br.
+Daný čtyřúhelník stanoví hyperbolický paraboloid H, pro nějž symetrála bodu M, M' půlících úhlopříčny A^Bj, B1AI jest jeho rovinou Monge-ovou M. Každý z oo2 bodu O této roviny jest vrcholem kužele paraboloidu H opsaného, jehož roviny tečné tvoří oo1 trojic rovin navzájem normalných. Nechť jsou x, y, z průsecné přímky rovin libovolné takové trojice. Zvolme je za přímky samodružné affinity, v níž bodu A± přísluší bod Af. Dle předcházející věty lze sestrojiti plochy druhého stupně Pj, P1 sobě v této affinitě příslušné, z nichž první prochází bodem Av druhá bodem Aj a jež mají samodružné roviny affinity za roviny hlavní tak, aby byly konfokální. V této affinitě přísluší bodu B^ bod Bj. Neboť seče-li přímka A^ At roviny (x y), (x z], (y z) v bodech A', A"", A'"" a B± B; v bodech B', B"", B'"", tu ježto (xy), (x z), (y z) jsou rovinami tečnými plochy H, přímky A' B', A"" B"", A'"" B'"" leží na ploše H, pročež (A^AjA'} = = (B^B,B'}, (A1A1A"") = (B^BjB""}, (A1AIA""f) = (B^BjB'""); následkem čehož jest poměr souhlasných souřadnic bodů Blt BT v soustavě O (x, y, z) roven poměru příslušných souřadnic bodů Alt Ar takže vskutku body Bl, Br si ve vytknuté affinitě příslušejí. V affinitě té přísluší tudíž přímce A1 Bv přímka Aj Br První seče Pj ještě v bodě B^, druhá Pj v bodě B/ affinně mu příslušném a dle věty Ivory-ho applikované na plochy Pj, P! bude Al B/ = A2 B/. Značíme-li AT, A"" středy těchto úseček, pak jest především A7 A7' M M', poněvadž přímky M M', N N' jsou průměry paraboloidu H, ježto přímka /?/ B/ též na něm leží. Následkem toho jsou symetrály bodu M, M' a bodů N, N' roviny rovnoběžné, druhá z nich N musí procházeti společným středem ploch konfokalních Pv Pjj tím ale prochází i první z nich M; proto obě tyto symetrály splývají. Body M, N leží na přímce rovnoběžné s A{ Br a protínající úsečku Al A: v jejím středu A0\ body M', N' leží na přímce rovnoběžné s A{ B^ a procházející též bodem A0; středy M0, N0 úseček M M', N N' leží na přímce procházející též bodem At>. Poněvadž M obsahuje bod M0 a N bod Nn tu když >I a N splynou, splynou také body M0, N0 a dále též bod\"" M, N jakož i body M', N', takže 5/= Bv B/ = B,.
+Mezi plochami P^ Pr takto sobě  příslušnými nachází se patrně oo1
+množství paraboloidů, jejichž středy leží v nekonečnu na M.
+•_*
+XX. ﻿20
+Obdobný výsledek bychom obdrželi, kdybychom stanovili affinitu pro tytéž roviny samodružné ale tak, aby bodům Av Af útvaru jednoho přiřaděny byly body Bv Bl útvaru druhého.
+19. Postupme o krok dále a uvažujme dva trojúhelníky A-yB^C^, AjBjCj na dvou konfokálních plochách Pt, P: druhého stupně, jejichž stejně označené vrcholy si přísluší v karakteristické affinitě ploch těch. Tu bude dle věty Ivory-ho
+.4, B, = A, B„ Al C, = A, C,, fíl C{ = B, Q.                (1)
+Naopak můžeme vysloviti větu:
+Jsou-li dva trojúhelníky Al B1 Ct, A{ B{ C{ v takové poloze, že platí rovnosti (1) jest jimi stanovená affinita dvou prostorů 2^, 2?7 té vlastnosti, že v ní lze trojúhelníky těmi proložiti dví sobě příslušné konfokální plochy — sťu&né                                                                                              (II)
+Uvažujme nejprv karakteristickou affinitu dvou ploch konfokálních Pt, Pj a prostorů 21, 2r s nimi spojených.
+Vytkněme si v 2^ libovolnou úsečku M/1' M^, v 277 pak úsečku Ařj(3) Mj(4) k ní normalnou ale jinak též libovolnou. První úsečce nechť přísluší v 2;7 úsečka M7(1) M7(2), druhé úsečce v 2?t pak úsečka Mt(3) M/4'. Označme xít y{, zi souřadnice bodu Mjf1 a X{, 1^, Z^ souřadnice bodu
+Poněvadž Mj(1) M^> _L M7(3) M7(4), proto platí relace Z affinity plyne, podržíme-li dřívější označení
+a                  b                    c   7
+X\ ='- ~      Alí   >'l = ""        M'      21 =   """"     !
+a obdobně
+dále
+X  = — x          X = — x
+a     3' '         4       a   '' *'
+Dosadíme-li tyto hodnoty za x1 . . , x2. . , X3. . , X4 . . do (2) obdržíme relaci
+Relace (3) praví, že také
+M/1' M7(2) _L A/V3' Mj(4).
+Přihlédněme nyní k bodům Av Blt Cl a Ar, Blt C7; bodem Cl veďme rovinu Gt normalnou ku Aj Bj a bodem C7 rovinu Gj * normalnou ku Al Bv Zvolme v G! libovolný bod I\ prostoru 2^; jemu bude v 2?/ přiřaděn bod D7.
+XX. ﻿lil
+Ježto ale Ct Dl J_ At Bt, proto bude C7 /)/ J_ ^ 5j, pročež bodu Dl v G: libovolné zvolenému bude affinně příslušeti bod Dj v rovině G,*; následkem toho poli bodovému v Gj prostoru 2^ přísluší v S/ pole bodové obsažené v rovině G! ^ Gj *. Vedeme-li tedy k dvěma sobě příslušným přímkám plt /), dvěma sdruženými body Qv Ql roviny normálně a sice bodem Qi rovinu Q: normálnou ku />/, bodem Qf rovinu Qr normálnou ku />,, pak roviny Qi,Qi si též přísluší affinně.
+Jsou-li specielně />lf />/ dva affinně sdružené průměry ploch P^ Pl a značí-li Rx rovinu tečnou ku Pj normálnou k průměru p{, pak příslušná rovina tečná Rj plochy Pj jest normála ku p^, aneb jsou-li R1( Rj roviny tečné ve dvou sdružených bodech Rlt Rj, pak kolmici /^ s RI na Rj přísluší kolmice kj s Rf na Rr
+Pro paraboloidy platí tytéž vztahy; neboť máme zde
+kde a, (i, y značí konstanty, takže dosazením do rovnice (2) za všecky veličiny v ní obsažené hodnot plynoucích z těchto relací obdržíme opět rovnici (3).
+20. Jsou-li v affinitě útvarů 2!i, 2?/ dány dvě sobě příslušné úsečky Al B-L, Aj Bj pak můžeme sestrojiti k libovolné rovině Rj útvaru prvého, jež jest normalná ku přímce Aj Bj příslušnou rovinu R: následovně. Zvolíme v Rx libovolný bod Q1 a opíšeme kolem středu A± kouli (A-^ poloměru Aj Qi, kolem středu B± kouli (B^) poloměru Bz Qv Rovina potenční obou koulí jest již Rj. Neboť koule (Aj) kolem bodu At jakožto středu poloměrem Aj <2j opsaná seče kouli kolem středu Bj poloměrem Bj Q± opsanou v kružnici ležící v rovině Rx. Tato kružnice protíná plochu P! reálně nebo imaginárně. Budiž Sx jeden bod průsečný. Jemu přísluší na Pj bod S/, pro nějž bude A! S7 = At Sv B{ S7 — Bf Sx ; bod ten leží v rovině R: JL A^ B±. Tím jest správnost naší konstrukce patrná. Ona platí dle způsobu, jak jsme větu Ivory-ho odvodili, také tenkráte, když se koule (A^, (B^) neprotínají reálně. To dává také analytické vyjádření.
+Označme souřadnice bodů Alt Bv Aj, BIt příslušně x^y^, z^; x2,yz, z2, resp. Xv Yv Zx; X2, Y2, Z2 a kladme AI Q± = l, BI Q-^ = m. Obdržíme pro koule (^4^, (Bj) rovnice
+a tedy pro jejich rovinu potenční Rj rovnici
+28 | (X1-X2) - S (Xj2-^) + P — Pn) koule (A-^, (B^ obdržíme rovnice
+* - 0.
+(1)
+S  X — ^2)2 — w2 =
+XX. ﻿a pro jejich rovinu potenční rovnici
+2 S X fo — -v2) — S (xf — x/) + /2 — w/-2 = o. Z rovnosti «4j Bj — Af B^   plyne relace
+S (*j — X2)2 = S (A^ —%)-, která vzhledem k tomu, že % A'2 = X{ x2, . . . vede k rovnici
+S   /,- 2        v -1\   __  O   IV -i        V 2\
+vvl----' *2 /   — *•  V""l   —' ""2 l
+Můžeme tedy rovnice  (1)  a   (2)  psáti též ve tvaru
+2SČ(Xt —X2)+L:=0 2S L (% — .v2) + k = o
+Vzhledem k naší affinitě můžeme, kladouce opět a = a A, b = /3 B, c = y C, místo  (2')  též psáti
+2 [« 3f (A\ - A'a) aneb krátce
+(Y,
+2S«3L (A'1 — X2) + A' = O.
+""
+Provcdeme-li  transformaci uvažovanou pro body L, i], ± roviny (!')• kladouce  ted
+obdržíme patrně rovinu (2""), pročež vyjadřuje (2"") a tedy i (2) rovinu Rj affinní ku Rj. Odečtením rovnic (l'), (2') obdržíme rovnici roviny procházející přímkou průsečnou rovin Rj, RIf totiž
+o.
+(3)
+To jest rovina procházející počátkem. Rovina ta jest nezávislá na / a m. Jest známo, že svazku rovnoběžných rovin Rx přísluší affinně opět svazek rovin rovnoběžných Rj a prúsečnice příslušných rovin obou svazku tvoří svazek rovinný přímek rovnoběžných, jehož rovina prochází samodružným bodem affinity. Rovnice (3) nám dává zde tuto rovinu, označme ji R0. Rovnice ta praví, že rovina R0 jest normálná k rozdílu vektorů A: Bv AfBT a přímka, v níž se roviny Rx, Rj, R0 protínají, jest rovnoběžná s osou vektorů A1 Blt Al Bf. Jsou-li tedy Mv M7 libovolné dva sdružené body útvarů Llt Lf a spustíme-li kolmici s bodu O na přímku M1 MIt která ji protíná v bode M0, pak každou přímkou kolmou ku rovině O Mí Mt a protínající přímku O M0 procházejí dvě affinně sdružené roviny, z nichž jedna Rj jest kolmá ku O MIt druhá Rj ku O Mv
+Důkaz těchto souvislostí pro paraboloid}' jest dle dřívějšího patrný.
+21. Nyní můžeme přikročiti k důkazu věty (II).
+Čtyřúhelník A1 BL Bt A1 stanoví hyperbolický paraboloid Hj, Čtyřúhelník A1C1CjAI hyperbolický paraboloid H2 a Čtyřúhelník B1 Cl C, Bl
+XX. ﻿23
+hyperbolický paraboloid H3. Středy úseček A^Bj, B1AI> A1C1, ClAl, Bl Cf, Cv B! označme po sobě M, M', N, N', L, L'. Dle dřívějšího jsou symetrály bodů M, M', dále bodu N, N' a konečně bodu L, L' rovinami Monge-ovými paraboloidů H1, H2, H3. Ony se budou protínati obecně v jediném bodě O ležícím v končenu neb nekonečnu. Bod O můžeme považovati za střed tří kuželu Kr K2, K3 opsaných příslušně paraboloidům Hj, H2, H3. Především seznáváme, že mají tyto kužele tři společné roviny tečné. Kužele Kr K2 mají 4- společné roviny tečné, z nichž jedna jest (OA-^Aj), ostatní tři se dotýkají též plochy H3. Je-l i na př. (x y) jedna z nich, pak dělí tato v stejném poměru jakožto rovina tečná plochy Hx úsečky A± Bl, AJ BÍ i úsečky A± AIt B1 BI\ jakožto rovina tečná plochy H2 úsečky Al Cv AjCj jakož i úsečky A1AI, C1CI. Poněvadž tedy jsou následkem toho úsečky B^Bj, C1CI děleny rovinou (x y) v stejném poměru, proto rovina (x y) dotýká se též paraboloidu H3 a dělí také úsečky B1C1, B1CI v stejném poměru. Všecky roviny, které dělí úsečky A1 AT, Bl BIt C± Cf v stejných poměrech, tvoří svazek rovin 3. třídy, přímky povrchové plochy tímto svazkem stanovené i sou tečnami jisté kubické paraboly, a společné rovin}* tečné ploch Hj, H2, H3 jsou rovinami oskulačními této paraboly. Seznáme snadno, že jsou navzájem kolmé.
+Vědmě ku Hj a tedy i K^ roviny tečné kolmé k (x y)', poněvadž bod O leží v rovině Monge-ově paraboloidu H1, proto budou tyto dvě možné roviny tečné (x z), (y z) k sobě kolmý. Považujme dále roviny (xy), (x z), (y z) za samodružné v affinitě, v níž poradujeme bodu A1 bod Aj. Z předcházejícího víme, že lze body Alt Al vésti dvě sobě affinně příslušné plochy konfokalní druhého stupně P1? Px, na nichž leží též body Blt Bl jakožto dva sobě příslušné v této affinitě. V této affinitě přísluší rovině Rj bodem Cj kolmo k AjBj položené rovina Rx bodem Cf kolmo ku Al Bí vedená, ježto Al CI = Aj Cly B± Cj — Bj C1 a dále rovině Lj rovnoběžné s (x r) a bodem C\ vedené odpovídá rovina Lx taktéž rovnoběžná s (x y) a bodem C1 vedená, protože rovina (x y) dělí úsečky A1AI, B^Bf, CÍCI v stejném poměru, který se rovná též poměru souřadnice z pro koncové body těchto úseček. Přímce ql v níž se roviny Rlt Lt protínají a která prochází bodem Ct odpovídá tudíž přímka qlt v níž se roviny KI; ~Ll protínají a jež bodem C7 prochází. Snadno seznáme, že body C\, Cf jsou též sobě affinně příslušnými body ploch Pj, P!.
+Přímka q± seče plochu Px ve dvou bodech; označme je Gv H^, přímka (/; seče P7 pak v bodech Gf, HIt které sobě v affinitě \ytčené útvaru ^'1,-^'/ budou příslušeti. Následkem toho bude Az Gx = A^ G7, Bj Gl = Bl Gj a AIH1 = A1HI, BIH1 = B1Hl. Poněvadž body Gv H± a Gf, Hl leží v rovinách R1, Rj sobě příslušných, vychází z toho, že když body ty stanovíme tak, aby vyhovovaly podmínkám AIGÍ = AÍGI, AIH1 = A1HI že pak budou již vyhovovati také ostatním podmínkám totiž Bf G± = Bl Gf, BIHl — B1HI. Je-li G střed úsečky AL Gl; G' střed úsečky A± Gl a obdobně H střed úsečky A: Hlt H' pak střed úsečky Al Ht, tu, ježto body
+XX. ﻿24
+Glt HÍ leží na Pj a jim příslušné body G,, Hl na Pj, musí jak symetrála G bodu G, G' tak i symetrála bodu H, H' procházeti středem O.
+Přiřadujme nyní body Q(í) na ^ k bodům Q(l) na ql tak, aby vždy bylo AjQ(1) = A1Q(Il Tím obdržíme na přímkách těch dvě prometne involuce bodové. Body Q půlící úsečky AI Q(l) budou popisovati involuci bodovou na přímce r \\ q1 obsažené v rovině (A, qj a půlící vzdálenost bodu Aj od ^; body Q' půlící úsečky A±Q(I) budou popisovati involuci bodovou na přímce r' || qt obsažené v rovině Al qf a půlíc vzdálenost bodu A1 od přímky qt. Tím obdržíme na přímkách r, r' dvě prometne involuce bodové. Dvojné elementy A*, Rx involuce prvé jsou průsečík přímky bodem At, která r kolmo protíná a její nekonečně vzdálený bod; dvojné body R', R'» involuce druhé jsou obdobně bod přímky r' bodu Aí nejbližší a její bod nekonečně vzdálený. Obě involuce vytvořují plochu zborcenou Q jakožto souhrn přímek QQ'; plocha ta jest patrné stupně čtvrtého; pro nás jest významné, že má nekonečně vzdálenou přímku A*x A""oc za přímku dvojnou. Následkem toho každá rovina přímkou tou, to jest každá rovina, rovnoběžná k (x y] seče plochu ještě v kuželosečce, tudíž i rovina půlící vzdálenost přímek qv </7. Označme tuto kuželosečku k. Nekonečně vzdálená rovina obsahujíc A*x R'* protíná Q taktéž ještě v kuželosečce k<», jejíž polární kuželosečka vzhledem k nekonečně vzdálené kružnici kulové budiž /x . Kuželosečka k jest místem pro středy Q0 úseček Q Q'. Kuželosečky k, kx jsou v poloperspektivní poloze vzhledem ku osám r, r' pro karakteristický dvoj poměr — l ; řady bodové na nich jsou tudíž prometne, pročež i řada bodová Q0, . . . na k a svazek tečen /x na /*, jsou promětny, při čemž bodům Qu, . . . přiřaděny jsou průsečnice nekonečně vzdálené roviny s rovinami normalnými ku Q Q1 ',..-', a také řada bodu Q0, . . . jest promětná s řadou bodu 7V, ... v nichž se přímky L»,... kuželosečky /» dotýkají. Následkem toho roviny E, . . . normálně položené ku přímkám Q Q', . . a vedené body půlícími Qu, . . . tvoří svazek rovin 4. třídy obalujíce plochu rozvinutelnou, jejíž přímky povrchové spojují body Qrt, . . . na k s příslušnými body 7\ , . . . na /<* . Avšak tento svazek rovin rozpadá se zde ve svazek 2. třídy a ve dva svazky první třídy, jak snadno z následujícího seznáme.
+Kuželosečku kx sestrojíme tím způsobem, že na př. bodem R vedeme rovnoběžky ku všem přímkám Q Q', čímž obdržíme kužel U, který seče nekonečně vzdálenou rovinu v kuželosečce /o*. Protněme U rovinou obsahující r' a rovnoběžnou s r v křivce u. Rovnoběžka ku Q Q' bodem R vedená nechť seče U v bodě U, takže Q' U = Q R. Dále jest
+pročež vzhledem k rovnosti AI Q = A1Q'
+XX. ﻿25
+Má tudíž levá strana poslední rovnice hodnotu stálou pro každý bod U na u. Proto jest u rovnoramennou hyperbolou, jejíž asymptoty půlí úhly přímek r, r'. Nekonečně vzdálené body Ult Uz těchto asymptot jsou patrně průsečíky křivky ka> s rovinou (xy). Body Ult U% jsou harmonicky oddělen}' od sebe pomocí bodů R*, R'x. Následkem toho v pro-mětnosti mezi k* a k bodu Uí na k*> odpovídá bod U2 na k a naopak, takže k prochází rovněž body U1 a ř/2. Bodu ÍJ\ na k přísluší tedy bod U2 na ky,; polára ť<g, bodu U2 vzhledem k nekonečně vzdálené kružnici kulové prochází zase bodem Ult poněvadž asymptoty hyperboly u jsou k sobě kolmý. Tedy v reciprocitě mezi k a /* body U^ a U.2 na k jsou in-cidentní s příslušnými jim přímkami tečnými ťx, ť'^ ku /x. Tím poznáváme, že skutečně roviny Qlt tx obalují kužel 2. stupně D.
+Bodem O lze vésti obecně toliko dvě roviny tečné k tomuto kuželi, takže jenom 2 symetrály E1( E2 procházejí bodem O. Příslušné jim přímky Qi Qi> QiQ-í Jsou kolmý k nim a protínají r i r' a jsou tím jednoznačně stanoveny. Přímky A2 Qv Aj Q2 nechť protnou gl v bodech Q^, Q2(l), přímky Al Q± , A^ Q2' pak přímku qt v bodech Q^I}, Q2(I). Jest tudíž na přímkách qlt qf obecně obsaženo po dvou a jen po dvou bodech Qi1}, <22(1) resp. Qv(í) QZ(I) té vlastnosti, že At Q^ = A1 Q^, At <?2(1) = At <?2(/), a že příslušné symetrály Ev E2 procházejí bodem O. Ježto pro body prúsečné Gv H^, resp. Gj Hf přímek ql, qt s plochami PI; Pl platí též relace AIG1 = A1GÍ, AIH1 = A1HI a příslušné symetrály středů těchto úseček procházejí v důsledku věty Ivory-ho bodem O, proto musí jeden z bodů Q^l], Q2(1} splynouti s G1 druhý s HL a příslušné jim body Q-^l], Q2{1) musí pak splynouti s Gf resp. Hf. Tedy relace právě vyznačená platí tu jen pro body na plochách Pv Pr Ježto ale pro body Q, Cf na q1 a qt platí relace Aj Ct — A1 CIr proto musí C\ splynouti s jedním z bodu Gv H1 a C2 s příslušným z bodů G7, Hf.
+Tím jsme dospěli k výsledku, že plocha P1 prochází také bodem C\ a plocha Pj bodem CIt a že si bod}- Clt Ct v affinitě dříve vytčené přináležejí.
+22. Naše úvahy byly provedeny ovšem jenom pro případ, že bod O neleží na kuželi D, v kterémžto případě leží vně kužele, ježto jedna a tedy i druhá z rovin tečných ke kuželi jím vedená jakožto symetrála bodů C, C' jest reálná. Kdyby O ležel libovolně na kuželi tom, pak by obě roviny tečné splynuly a přímky qlt qt by se dotýkaly plochy Pj resp. Pj v bodech Q, Cr Výjimka v našich úvahách by mohla tedy nastat jenom v případě, že vrchol řečeného kužele by splýval s bodem O. V tom případě by pro každé dva body Qlt Q1 na qt resp. qf pro něž A{ Ql = A1 Qf symetrála E středů Q, Q' těchto úseček procházela bodem O. Předpokládejme tu nejprv, že bod O leží v konečnu. V affinitě mezi 2/\ a 27/ si přísluší rovin}' L1; Lj rovnoběžné k (x y) z nichž první prochází přímkou qlt druhá přímkou qt\ taktéž kuželosečky llt /7, v nichž rovina první seče Pj, druhá Pj jsou si affinně přiřaděny. Vytkněme si nyní kouli středu Aj protínající Lx v kruž-
+XX. ﻿26
+nici ml a dále kouli stejného poloměru o středu At a protínající L! v kružnici #!. Poloměry koule první směřující ku m^ rozpulme a rovněž poloměry koule druhé směřující ku gv Tím obdržíme kružnice m, g jakožto místa bodů půlících. Zvolme na m libovolný bod M považujíce jej za vrchol nového kužele, jenž se opírá o g; rovina L půlící vzdálenost rovin Llf Lj nechť jej seče v kružnici h. Roviny bodem O kolmo k přímkám tohoto nového kužele vedené budou protínati tyto na kouli průměru O M. Koule ta seče L v kružnici h^. Kdyby specielně kružnice ta splynula s h, musel by především orthogonalný průmět bodu O do roviny L splynouti se středem kružnice h; můžeme ale zvoliti M předem tak, aby se tak nestalo, takže kružnice hv h se nebudou stotožňovati a budou míti nanejvýš dva body F, V v konečnu společný; přímky M V, M V protnou g v bodech VK, F/ které jsou jedinými body na g té vlastnosti, že symetrály úseček M Vg, M V g' procházejí bodem O. Přímka Aj M nechť protíná mí v bodě Mlf přímky A1 Vg, A± Vg' kružnici gt v bodech F7, F/.
+Křivky /L wři nechť se protínají v bodech D^, Df], Df\ D}w. Affinně přísluší kružnici m^ ellipsa mf v Lj a vytčeným bodům příslušejí body 7)/'1, /V2), /V''!), Djw, společné křivkám w7, lz a ležícím též na kružnici g/( poněvadž platí pro body ty, ježto jsou affinními ploch Pp Pj relace Aj D^ = = A! Dj(k], kde za i a k můžeme klásti libovolně J, 2, 3 nebo 4. Vytkneme-li si nyní na m± libovolný další bod K1 a na -nij příslušný bod A""7, tu ježto K, nemůže více ležeti na g/; soudíme, že Al K± -4= A^ Kj. Bod M můžeme voliti a zvolíme ještě tak, aby bod Mí rovněž nesplynul se žádným z bodu D^\
+Z toho soudíme dále, že bod Mj bodu Mt odpovídající nemůže ležeti na gj a že bude tudíž od F7 nebo V/ různý. Veďme bodem M7 přímku i'j neprocházející ani bodem F7 ani V/ protínající gf v bodech WIt W/, qt v bode Qj. Affinně příslušná přímka ^ prochází bodem Mx a Q^ Zde mámí-vzhledem ku ^ a rt úsečky Aj M: = A^ Wj a At M^ = Al W/ ale ani symetrála středů prvních dvou úseček ani druhých dvou neprocházejí bodem O. Tedy budou existovati pouze dva body /, L na i\ a dva body /', L' na rI té vlastnosti, že Aj J = A^ ]', At L ~ A^ L' a že symetrály středu pro první dvě a středů pro druhé dvě úsečky procházeti budou bodem O. Body průsečné přímky rv s Px a přímky r2 s Pj mají tuto vlastnost, tutéž vlastnost mají dle supposice též body Qv Qt. Následkem toho ležel by bod Ql na P1 a bod Q, na Pj. Takto seznáváme, že by celá přímka q^ rovnoběžná s (x y) ležela na P: a celá přímka q, taktéž rovnoběžná s (x y) na PI; což při konfokálních plochách 2. stupně není možno, leda že by qí j QI a plochy že by degenerovaly v konfokální válce.
+Je-li bod O v nekonečnu dán směrem x, mysleme si kužel normalný ke kuželi (M li), k němu lze vésti pouze dvě roviny tečné rovnoběžné ku směru x. Kolmice s Al na roviny ty nahrazují nám nyní přímky M V, M V, kdežto ostatní úvahy předcházející se nemění.
+Když symetrály středů pro dvojice úseček AfB^ — Bl Bf, AJCl — — A1CI, RjC^ = B^Cj se protínají v přímce u tu můžeme bod O zvoliti
+XX. ﻿27
+na u libovolně a vzhledem k tomuto bodu platí pak všecky úvahy zde provedené. V tom případě lze tedy bod}' Alt Blt Cv resp. A, B2, Cl položiti oo1 ploch Pj, resp. Pj jež jsou vždy po dvou k sobě konfokální.
+Větu (II) lze vysloviti také následovně:
+,, Jsou-li v prostorovém šestiúhelníku dvě a dvě protilehlé strany sobě rovny, lze třemi vrcholy, z nichž žádné dva neleží na téže straně jeho, položiti plochu 2. stupně Px a zbývajícími vrcholy (k předcházejícím protilehlými) plochu 2. stupně Pj tak, aby obě byly konfokální.
+XX. ﻿*"

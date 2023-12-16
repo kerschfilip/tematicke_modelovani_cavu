@@ -1,0 +1,2402 @@
+"","x"
+"1"," ﻿ROČNÍK XVII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 1«.
+
+
+Grupa kollineací prostorové křivky bikva-dratické prvého druhu.
+
+
+Napsal
+
+
+Dr. Bydžovský.
+
+
+Předloženo dne bi-c/na 190S.
+
+
+Úkolem této práce jest, užíti pro studium jistých vlastností bikva-dratické křivky prostorové okolnosti, tato křivka reprodukuje kollineacemi. tím účelem provedeno kap. podrobné studium grupy těchto kollineací stránce geometrické; kap. II. obsahuje theorii skupin bodových křivce, jimž dává v/nik grupa její podgrupy. Zvláště význačné vlastnosti připínají invariantním poclgrtipám stupně čtvrtého. kap. III. jedná podobně skupinách, vzniklých užitím grupy podgrup, avšak položených obecně prostoru. Tím dospívá mimo jiné jistým větám kvaternárně cyklické kollineaci pro-stom, zásadnímu rozlišení dvou druhu skupin prostoru.
+
+
+Geometrické studium grupy.
+
+
+Zvolíme-li polárný tetraedr obecného svazku ploch druhého stupně tetraedr souřadný, lze souřadnice bodu příslušné bikvadra-tické křivky vyjádřiti parametricky tvaru1)
+
+
+(-2 (2«) ('2 <?3 (1)
+
+
+Ouadratické vztahy mezi <7-funkcemi podávají nám rovnice kuželu, jimiž promítá křivka vrcholu tetraedru T:'2)
+
+
+Killing, Der Fláchenbuschel IVrlin 1872. Str. 11. Tamtéž str. !).
+
+
+Rozpravy: Koř. XVII. Tr. II. ,18.
+
+
+XVIII. ﻿Průseky souřadných rovin křivkou šestnáct bodu, nichž osku-kiční roviny jsou stationární; lze nazvati vrcholy4) křivky. Jsou cha-rakterisovány vztahem
+
+
+l//. O5)
+
+
+Vedle vrcholu jsou důležitý body, pro něž
+
+
+vyloučením těch, pro něž současně Těchto bodu tedy -4'- 48; lze nazvati osmiteěné""), ježto nich dotýkají křivky plochy druhého stupně sedmém stupni. Body osmitečné jsou jednoduchém vztahu vrcholům křivky. Yedeme-li tětivami, Spojujícími vždy dva vrcholy, tečné roviny křivce, nabudeme jakožto dotyčných bodu jednak zase vrcholu, jednak bodu osmitečných. Neboť kongruence
+
+
+
+
+
+""2m '2n co., 'lni' ""lti' co.,
+
+
+--------------__ -l--------------------
+
+
+plyne
+
+
+(ni ni'} to, n'} oj3
+
+
+co, ;/,
+
+
+])řípadě, -\- m', •//' jsou čísla sudá, nabýváme tak vrcholu jinak bodu osmitcčných. Prvý případ pro dané •;//, muže nastati ])ři těchto hodnotách tu'. n':
+
+
+•;/'
+
+
+ti' -\-
+
+
+Píši pro stručnost veskrze cap místo
+
+
+Dle příkladu knihy: Appcll-I.acour, Principes cle thcorie děs fonctions elliptiques, str. 10(5.
+
+
+Jich argumenty udává Harnack, Ucbcr die Darstcllung der etc., Matli. Ann. XII. str. (53. Souřadnice jich zavedeném označení ange: Die Wendeberuhrungspunkte der ctc. ZCÍI.-M Ph. XXVIII. str. 3—4.
+
+
+Dle analogie bodů sextaktických kubické křivce rovinné. Některé vlastnosti těchto bodů způsobem čistě geometrickým nalcxl Schrocter: „Grund-ziige einer reingcometrischen Theorie der Raiímcurve 4er O."" ctc. Str. 80. Tyto vlastnosti vyjímaje tu, kterou jsou body definovány nejsou charakteristické pro tyto body, nýbrž jsou vlastnosti příslušné všeobecnějším skupinám, nichž bude dalším řeč. ostatně, řečeno všeobecně význačných bodech křivky str.-'W. Také Amescdcr „Ucbcr Configurationen"" ctc. Zprávy vid. Akademie roč. 1883 sv. H.. str. 1207.
+
+
+tabulku argumentu vrcholu llarnacka. Čtyři vrcholy ležící téže stěně liší poloperiody.
+
+
+XVIII.
+
+
+﻿což znamená: má-li bod (m, argument mají ostatní tři argumenty: o,, ro.j, to.,. Avšak jsou body ležící bodem téže stěně polárního tetraedru. Odtud věta:
+
+
+Dotyčné body tečných rovin, vedených dvěma vrcholy křivky, ležícími téže stěně pól. tetraedru, jsou zase vrcholy křivky. Dotyčné body tečných rovin, vedených dvěma vrcholy jinak položenými, jsou body osmitecné. Obdržíme všechny, když libovolný vrchol spojíme všemi vrcholy ostatních tří sten tetraedru těmito spojnicemi ('jichž dvanáct) vedeme tečné roviny křivce', těch J.S, jich dotyčné body, vesměs různé, tvoří souhrn bodů osmi-cčnvch.8)
+
+
+Křivka reprodukuje kollineacemi,9) jichž parametrický výraz dán vztahem
+
+
+0,1,
+
+
+Budeme stručně označovati kollineace kladné,10) příslušné prvému znaménku, (m, n): mezi náleží identita (00); kollineace ostatní, jež nazveme záporné, n].
+
+
+Sestavíme tabulku těchto transformací, vyjádřených analyticky11), totiž pravé strany rovnic, jichž levá vždy táž ,YX .v.2 ,Y3
+
+
+(<0) x,f (3D) -*/
+
+
+(10) *2'
+
+
+(30) --*,'
+
+
+(12) -*,'
+
+
+(32) *,'
+
+
+(oi)
+
+
+(21)
+
+
+(<>3) *4'
+
+
+(23) x,'
+
+
+(U) -x*
+
+
+(31) -X3'
+
+
+(13) xs'
+
+
+(33) x,'
+
+
+
+
+
+_,___V i~>
+
+
+^31 t/no
+
+
+Tyto věty zvláště dobré objasňují analogii body sextaktickými jich poměru bodťim inílcxním.
+
+
+<J) Harnack, str. SI. Více geometricky Schur: .,l""ebcr Fláchen O."" Math. Ann. %20, str. 2(i4, Lange, str. tí, Timenling: ,,Ucbcr clie quadratischcn Transformationen etc."" Annali iu;.t., řada III., sv. 1., str. 1-Í7.
+
+
+10) Dle I.angea, str.
+
+
+Což \-e tvaru poněkud jiném provedl Ilarnack, str. S'2.
+
+
+II. ﻿'! '""' j	**	*a	
+
+
+[20] S	— V	*a	
+
+
+[02 -A','	—v	— X'A	
+
+
+[22] */	X2	--V	
+
+
+[10] *2'	\ Ci2ci:5AV	\'c >	\ ^1,
+
+
+[30] -X2'	\ '	\ '	VM3
+
+
+12] --*,'	\ '	\ /	— 7""
+
+
+[32] A'2'	\ i/12 AJ	\ A:/	— Cri
+
+
+01] *4'	\7i V:	\ ^;2 A:2'	v^~^
+
+
+"".21] A;/	\Vi *3':	- .<	— \/r^Ň^
+
+
+[03] A-/	-V% *,':	- '	\ c31 c,s
+
+
+;23] */	— L31 *a' :	\''T~ '	- C31
+
+
+[11] --V	• .	V7~7 ť.j| í^2 L	\Í3
+
+
+[31J -*8'	\ L1\ •	\ (,oi ,.5 ,Vi'	_\
+
+
+[13] *3'	\ .	— \"" c., ~j~ '	-\
+
+
+[33] <	\ X4' :	vLL*l'	\
+
+
+
+
+
+Klassifikace těchto transformací, ostatně velmi snadná, byla již provedena.12) Kladné transformace pro sudé jsou osové involuce, zbývající jsou kvaternárně cyklické kollineace; záporné pro /// sudé centrálně involuce, ostatní osové involuce. Vrcholem centrálně involuce [111, •;?] jeden vrchol tetraedru nazveme jej r,n>„, protilehlá stěna tohoto tetraedru hlavní rovinou involuce.
+
+
+Osa involuce osové (m, jedna hrana tetraedru r0fl rin„, druhá hrana tetraedru protilehlá.
+
+
+Nalezneme osy libovolné osové involuce [;;/, ;/]. Je-li libovolný bod křivky //' bod ním sdružený této involuci, součet //' ve-
+
+
+oaljr 03.,
+
+
+herna stala, rovna ~T~~ *-° znamená,1*5) spojnice bodu, které
+
+
+dané involuci odpovídají, jsou plošné přímky jedné plochy druhého stupně, křivkou položené. toho následuje, osy každé osové involuce \in, ;/] náleží kongruence tětiv křivky. Osy nalezneme, vyhledáme-li body, které involuce [má nechává j)evné. Pro platí kongruence
+
+
+;// a>, co.,
+
+
+
+
+
+
+
+
+wřw1 eo.j
+
+
+pro .',</,
+
+
+12) Ncjú])lnřji\'. Lange, str. n;'usl. ovšem bez bli/ší geometrické charaku-ri-sace, textu ])ro\-áděné, jex pro náš účel ne/bytna.
+
+
+13) pr. llal]>lien, Tra děs fonctions elliptiques II. ])g. 4"">1.
+
+
+XVIII. ﻿Ježto nejsou současné sudé, jsou body osmitečné; nabýváme výsledku, osy involucí [w, 11] jsou spojnice bodu osmi tečných, sice vždy těch čtyř, jež udává vztah právě napsaný. Abychom poznali, jak máme tyto body spojovati, užijeme věty, rovina osou položená samodružná. Napsané body osmitečné jsou pevné involuci [;;/, ;/]; položíme-li rovinu libovolným nich, dalším bodem křivky parametru
+
+
+;«. ca, (,;0
+
+
+bodem, jenž sdružen dané mvoluci,
+
+
+
+
+
+tato rovina sama involuci pevná obsahuje jednu osu. kongruenee
+
+
+m1+2nua oj, co,,
+
+
+
+
+
+
+
+
+ca, C3, plyne /;/ coj co3
+
+
+
+
+
+spojení tím, bylo řečeno kladných involucích, plyne odtud pravidlo pro určení involuce [ni, n]: Nalezneme čtyři osmitečné body, invariantní pro danou involuci; libovolným nich vedeme transversálu těm hranám pól. tctraedru, jež jsou osami kladné involuce n), totéž učiníme dalším oněch čtyř bodu, jenž neleží prvé transversále. Obě tyto transversály jsou hledané osy.
+
+
+toho především plyne, každé dvě protější hrany pól. tetraedru jsou proťaty osmi osami čtyř involucí. Abychom pak úplně přehlédli souvislost těchto os, sledujme blíže involuce [;//, •;/], pro něž ;// liché jichž osy tedy protínají hrany ron v*.,, v.2() r02. Tyto osy jsou:
+
+
+0>i C3;? Oa) 00>3 Oc^ (O., Oft).,
+
+
+pro involuci [11] spojnice bodu------------, ——------;----—------,—!—------
+
+
+
+
+
+4	4	4	4
+
+
+(Oj 3o>3 Oo?!	+ 7(O3 0(0	i 3(03 c	»i+ ""oJ3
+
+
+4	4	4	4
+
+
+íc?! 3to3 co,	+ 7(0., o?	í .'5c33 3<	»! 7(D3
+
+
+Označíme tyto osy On, O'n atd. týmž způsobem. Shledáváme ihned, osy involucí [11] [33] leží vždy dvou čtyřech rovinách. Poněvadž pak
+
+
+dále
+
+
+což jsou j)odmínky odpovídající involucím [00], [22], projekcím vrcholu ?'00, 7'22, patrno, rovina, níž leží obě osy On, O33, prochází
+
+
+XVIII.
+
+
+3	~)cal-i- 07.	, -'! flJ3	o
+
+
+ra1 307, (.'3	4 í"") r,?3	4 """" GJi ®'j ---------- ------------ (	,7,4
+
+
+﻿hranou i'00 i'22. Tato rovina protne protější hranu jediném bodu, němž musí protínati obě ony osy. Zcela totéž platí O'n, 0'^.
+
+
+
+
+
+''3 _i_
+
+
+
+
+
+
+
+
+-f- ra3 c73 -f- cos
+
+
+H----------------;------------ =------------;----------L H----------------;-----------
+
+
+což jsou podmínky odpovídající involucím [02], [20]. Usoudíme zcela stejně, rovina On, (9'33 prochází hranou í'02 7'20; obě osy tedy protínají témže bodu hraně ?'00 <'.,,,. Totéž platí 0\}, 033. Vychází toho jevo, osy Ou, O'l}, 033, 033' tvoří hranami vaov.,.2, í'02 7'so tetraedr; ^11 ^'11- resp. 033, '33 tvoří dvojice jeho protějších hran. výsledkům týmž dospěli bychom pro osy involucí [31], 13], jež tvoří druhý tetraedr obdobný předchozímu. Nazveme vrcholy prvého tetraedru ?'00 <'._,..> ?«,, w2, í'02 ^20 W3> 7;?4> podobně vrcholy druhého nlt n.,', ;/3, n4. Obě hrany ^oo V22< 7/'o2 ^'20 Jsou Pro všechny čtyři involuce, nichž jednáme, řídící paprsky, tedy neproměnné; ježto pak v.choly pól. tetraedru rovněž body osmitečné mohou těmito involucemi jen navzájem vyměňovati, následuje toho, body y00, vZ2 jsou harmonicky oddělovány body ;//1; mz; HJ, 7Z2; podobně body ;«,, m., harmonicky oddělovány body i'00) atd., zkrátka: tři dvojice
+
+
+i\22; n},
+
+
+podobně
+
+
+'02'
+
+
+mají takový vzájemný vztah, každá dvojice tvoří dvojné elementy involuce určené zbývajícími dvěma.
+
+
+Nabýváme tedy výsledku:
+
+
+Osy involucí osových [m, počtu 24, tvoří celkem tetraedru, které vždy dvou mají dvě protější hrany hranách pól. tetraedru; jedna hrana í'00 r2/„ 2;l. téhož tetraedru náleží osy involuce [m, [3m, 311 hranách pól. tetraedru leží tak dvou dvojicích vrcholů osových tetraedru, jež vrcholv pól. tetraedru tvoří skupinu zajímavé vlastnosti nahoře udané.
+
+
+Každý tetraedr osový vyznačuje ještě další vlastností: jedna
+
+
+osa involuce [m, spojnice bodu
+
+
+(57
+
+
+mu>} ;z«3. boucet obou argumentu
+
+
+n<o„
+
+
+
+
+
+<»««.;
+
+
+rro involua ni, on]
+
+
+111. ;;;fj, -f- ')«»•!
+
+
+obdržíme ondobne součet toho následuje,11) obe osy
+
+
+14) ]^>^n. předchozí.
+
+
+XVIII.
+
+
+﻿involuce [m, náleží jednoho, osy involuce 3>«, 3«] druhého systému plošných přímek téže plochy druhého stupně. Každý osový tetraedr leží tedy čtyřmi osami jedné ploše druhého stupně, jež proložena křivkou charakterisována argumentem rovným čtvrtině periody.15)
+
+
+vůli pozdějším vývodům třeba napsati rovnice všech záporných involueí. Udávají zcela snadno tabulky transformací.
+
+
+
+
+
+-4-
+
+
+LVI	4
+
+
+[30.;	X •*] frl»
+
+
+
+
+
+[12]	Y ---- •*! i:i _!_ íA-2
+
+
+
+
+
+[32]	A-,\ ť,2 C,.' ÍX9
+
+
+
+
+
+[01]	\- ------- -----
+
+
+
+
+
+[03]	-vi c-ncv> -T4
+
+
+
+
+
+21]	*i f:i2 »'^4
+
+
+
+
+
+23]	\
+
+
+
+
+
+[U]	X\ 6'2i ^2:; ~^~ '^3
+
+
+
+
+
+[33]	A'x Í2, ('.23
+
+
+
+
+
+31]	A',\ C21r2;5= ±/X3
+
+
+
+
+
+[13]	Ai ťii '2:; řX?
+
+
+=-- -+-	^
+
+
+	4	4
+
+
+xs	\ ±	#4
+
+
+	4	4
+
+
+	4	4
+
+
+	4	4
+
+
+3	4	4
+
+
+xa	\ +	XS
+
+
+	4	4
+
+
+	4	""
+
+
+í'.,.s _u. A'4	\
+
+
+4	4
+
+
+c"" _____ 2:! A4	Ví
+
+
+4	4
+
+
+A-2 cffl ř.v4	121
+
+
+4	4
+
+
+A:2 c.,3 === /A'4 r.21
+
+
+Zbývají ještě koliineace kvaternárně cyklické.16) Uvažujme libovolnou nich, (;;/, »}. Samodružný bočí této koliineace nemůže ležeti ježto vztah
+
+
+/;, (D,
+
+
+li- ~\- —-7
+
+
+nemá smyslu pro hodnoty »i, jež zdi' jsou přípustný. Nalezneme však samodružné roviny. Mají-li čtyři body sdružené cyklické kollineac ležeti jedné rovině, musí býti vyhověno podmínce
+
+
+oj, 'ln 03; 4>;? -f- 4;/ (5/» 03,
+
+
+""4~
+
+
+
+
+
+""' H&.í
+
+
+
+
+
+15) Teclilo ])locli šest, vedle čtyř ploch kuželových. jich geometrických vlastnostech Schroeter, pg. 73; Harnack, pg. 74.; Voss, Math. Ann. X., ]',""• 147. Nalexneme po/ději, čem xálexí výxnačnó postavení těchto šesti ploch. literatuře /hustá nich mluví jako Yossových plochách.
+
+
+16) Budeme dalším zhusta na/ývati stručně cyklickými.
+
+
+XYIIT. Této kongruenci hoví šestnáct bodu osmitečných, jež čtyřech tvoří^ samodružné roviny kollineace. Tentýž samodružný tetraedr ovšem přísluší také cyklické kolliueaci (:};«, 3;?), jež vznikne prvé trojím opětováním. Nabýváme tak celkem šesti tetraedru.
+
+
+Tyto tetraedry jsou zajímavém vztahu osovým tetraedrum výše nalezeným. ťPředevším patrno, tetraedr příslušný kollineaci (m, obsahuje jako protější hrany rmr.2m .,lt lirami pól. tetraedru této protilehlou. Obsahují tedy vždy dva samodružné tetraedry jednu dvojici protilehlých hran pól. tetraedru. Kollineace nim příslušné pak jsou ty, pro něž čísla //; jsou stejné parity, tedy obě lichá, nebo prvé sudé resp. liché druhé liché resp. sudé. Všimneme zase blíže těch kollineaci (m, n), pro něž ;// liché jichž tetraedry tedy opírají hrany 7'on y22> il'2or02- Hořejší vztah nabude tvaru
+
+
+nabudeme tak šestnácti bodu osmitečných, nalezených výše (odst. •"">.).
+
+
+Zvnlíme-li libovolnv nich, př. —-------, pak kollineaci (11) přísluší
+
+
+
+
+
+tyto samodružné roviny, určené vždy čtyřmi body:
+
+
+***! W;Í *__l__| _li
+
+
+^~4~
+
+
+či, -j- rxa, 3oI 7o.j ~T~
+
+
+3eo, ca:! 5co, 3eo, 7co ~~4'
+
+
+~4""~ '""
+
+
+což můžeme jinak vyznačiti: tyto roviny jsou určeny vždy dvěma osami nahoře zavedenými:
+
+
+Prvé dvě roviny protínají r()0 r.,., jsou roviny tetraedru utvořeného osami involucí 11|, [3.3]; druhé dvě roviny protínají 7'o,, í'02 jsou roviny tetraedru utvořeného osami involucí [31),[ 13J.
+
+
+Týž tetraedr samodružný přísluší kollineaci (33). Pro kollineace (13), (31) obdržíme samodružný tetraedr složený rovin:
+
+
+zbývajících rovin zmíněných dvou osových tetraedru.
+
+
+Nabýváme tedy výsledku:
+
+
+Samodružné tetraedry cvldickvch kollineaci skládají určitým způsobem stěn tetraedru osových involucí. Márnc-li sestrojiti samodružný tetraedr kollineace (m, n), určíme oba tetraedry, skládající involucí (m, n}, -\-2,n -\-2\ [m,ii+ 'J\,[m n]; prvého tetraedru
+
+
+XVIII
+
+
+﻿zvolíme dvě steny, jež protínají hrané VQO v.,m .,n, druhého ty, jež protínají protější hrané tetracdr Tvto čtyři steny tvoří hledaný tetraedr.
+
+
+í). patrno, tetraedr cyklické kollineace příslušnými dvěma tetraedry osovými společné vždy dvě stěny protínající jedné hraně pól. tetraedrn zároveň dva vrcholy ležící protilehlé hraně pól. tetra-edrn. Procházejí tedy každým vrcholem osového tetraedni čtyři paprsky, spojující jej čtyřmi hody protilehlé hrany. Hranami dvou osových te-traedru obou samodružných tetraedru spojeny jsou tedy body
+
+
+nichž byla nahoře řeč, celkem šestnácti paprsky. Nabýváme1 tak zajímavé skupinv celkem ^.V paprsku, jež šestnácti spojují dvojice protějších hran, čtyřech procházejí jedním bodem anebo leží jedné rovině.
+
+
+Jaká další souvislost těchto paprsku, seznáme dalším, opírajíce grupové vlastnosti našich transformací.
+
+
+10. týče skutečné konstrukce samodružných tetraedru, budiž připomenuto jen toto: dané sestrojiti pól. tetraedr úloha st. 4-ho; průseky jeho stěn křivkou naleznou kvadraticky, ježto jsou známy kužele, jimiž promítá vrcholu běží jen to, nalézti přímky společné jednotlivým kuželům stěnám procházejícím týmž vrcholem. Průseky těchto přímek jsou vrcholy. Tím jsou ihned určeny specielní plochy i?ho st., nichž byla výše řeč, ježto každá nich obsahuje l'i spojnic těchto bodu, určitě charakterisovaných.17) Průseky určité těchto ploch příslušnými hranami pól. tetraedru (které jsou příslušné, lze rovněž geometricky přesně vyznačiti, čemž netřeba šířiti) určují nám body w,, m.,, ;//.,, atd. Spojíme-li navzájem, nabyli jsme hledaných
+
+
+tetraedru; snadno přesně lozlišiti.
+
+
+Jde-li pouze to, sestrojiti danému bodu křivky body ním sdružené jednotlivými kollineacemi, není tomu třeba znalosti invariantních útvaru těchto kollineací, ježto každá nich dostatečně určena vrcholy, které určitým způsobem odpovídají. Mimo jinak lze vrcholů prováděti tutéž konstrukci. Zvolíme-li libovolný vrchol, (00), vedeme1 něm tečnu spojíme jej mimo všemi ostatními vrcholy, nabudeme 1(5 paprsku; promítneme-li daný bod těchto paprsku, protnou, roviny promítací křivku počtvrté vbodevh, sdružených daným všemi zápornými involucemi. Neboť kongruence
+
+
+
+
+
+plyne
+
+
+
+
+
+17) Ilarnack, str. 74.
+
+
+XVIII. ﻿Klademc-li všechny hodnoty, pokud nejsou kongruentní mód nabudeme šestnácti bodů žádaných argumentu.
+
+
+Stejné počínáme kterýmkoliv bodem tak získaným obdržíme vedle známého bodu ještě všechny ty, jež ním jsou sdruženy kladnými transformacemi. Tím nabýváme celé skupiny '-\'l bodu. souvisících spolu našimi kollineacemi.
+
+
+Mimo jiné odtud plyne věta: proinítnemc-li libovolného bodu křivky všechny spojnice vrcholit, jichž 120, nabudeme tak jen patnácti nových boiiu khvk\; každým tcdv prochází promítacích rovin, ald. atd.
+
+
+přehledu uvedeme ještě podgrupy, jež obsahuje grupa (:y,.
+
+
+Podgrup st. 2ho 1!>, vzhledem l!) involueím.
+
+
+II. Podgrupy stupně čtvrtého:
+
+
+Kladné mvoluce identitou, označíme
+
+
+Cyklické podgrupy vzniklé opětováním téže cyklické kolíineace. Označíme <>.
+
+
+Dvě centrálně involuce kladnou osovou, jež nich vznikne, identitou; označíme (i.
+
+
+Dvě záporné involuce osové, jichž osy leží léniže tetraedru, involuce kladná nich vzniklá; označíme l>.
+
+
+Dvě záporné involuce osové, jichž osy neprotínají, ale protínají tutéž dvojici hran pól. tetraedru, involucí kladnou nich vzniklou; označíme g'4: \'l.
+
+
+Celkem těchto podgrup
+
+
+III. Podgrupy stupně osmého:
+
+
+Podgrupy vzniklé podgrupy II. adjunkcí libovolné cyklické kolíineace. Obsahují vedle kladných involucí identity čtyři cyklické kolíineace příslušné téže dvojici hran pól. tetraedru. Označíme '•*>.
+
+
+Všechny involuce příslušné polárnímu tetraedru identitou; označíme z'8
+
+
+Podgrupy vzniklé podgrupy II. adjunkcí libovolné záporné involuce osové. Obsahují osové involuce záporné příslušné téže dvojici hran pól. tetraedru. Označíme i'^ .'5.
+
+
+Podgrupy vzniklé libovolné podgrupy II. adjunkcí libovolné involuce centrálně. Obsahují dvě involuce centrálně dvě involuce záporné osové, opírající tutéž dvojici hran pól. íetraedru jako příslušné cyklické kolíineace, jichž osy protínají; označíme
+
+
+Podgrupy vzniklé libovolné podgrupy II. adjunkti záporné involuce osové příslušné jiné dvojici hran. Obsahují čtyři záporné osové involuce; jich osy nepiotíi ají, ale vždy dvou opírají tutéž dvojici hran pól. tetrae ru. avšak jinou, nežli dvojice příslušná daným kollineacím cyklickým. Označíme g'8
+
+
+XVIII.
+
+
+
+
+
+Celkem těchto podgrup:
+
+
+1'2 +12
+
+
+IV. Podgrir: stupně Ki-ho
+
+
+(?) Všechny kladu' transformace identitou; označíme c,6
+
+
+Podgrupy vzniklé podgrup Hkí) adjunkcí libovolné centrálně involuce. Obsahuje všechny involuce centrálně všechny transformace opírající tutéž dvojici hran pól. tetraedru; označíme
+
+
+Podgrupy vzniklé podgrup \\\.a) adjunkcí záporné involuce osové, příslušné jiné dvojici hran. Obsahuje všech osm záporných invo-lucí osových, příslušných jiným dvojicím hran, než ta, níž přísluší cyklické kollineace dané. Označíme g'l(.
+
+
+Celkem těchto podgrup:
+
+
+
+
+
+12. otázkou podgrup bezprostředně souvisí invariantnost jednotlivých tetraedru, které jsme zavedli, vzhledem transformacím grupy.
+
+
+Tetraedr polárný invariantní pro celou G3.,. Každý jeho vrchol invariantní pro podgrupu i^. Totéž platí stěnách.
+
+
+Každá hrana invariantní nejen pro /8, nýbrž také pro všechny transformace, jež tuto hranu protější opírají; jinými slovy, každá hrana protější) invariantní pro určitou g,,..
+
+
+Dvojice protějších hran pak invariantní pro celou G3.2, neboť každou transformací g:t. neobsazenou přejde hrana svou protější.
+
+
+Samodružný tetraedr cyklické kollineace: ježto jeho vrcholy leží hranách pól. tetraedru oddělují harmonicky jeho vrcholy (v. nahoře odst. 8.), invariantní pro podgrupu /8. Mimo jeho vrcholy jsou jednak totožné průseky osových involucí hranami pól. tetraedru, jednak oddělují harmonicky (v. tamtéž). tento tetraedr invariantní pro všechny transformace, opírající touž dvojici hran pól. tetraedru, tedy pro celou <>16. Užijeme-li pak daný tetraedr některé další involuce osové, jsou možný dva případy: bud' zůstane tetraedr nezměněn, nebo přejde druhý samodružný tetraedr, opírající tytéž hrany pól. tetraedru. Tato druhá možnost vyloučena. Neboť onou involucí vyměňují navzájem obě hrany; vrchol jednoho samodružného tetraedru přešel vrchol druhého, jenž leží protější hraně; spojnice obou byla tedy pro onu involucí invariantní. Avšak tato spojnice osou jedné involuce bi« (v- °dst. 11. IV. b)\ tedy musila protnouti osy jedné involuce, příslušné jiné dvojici hran pól. tetraedru. Avšak snadno přesvědčiti, doplníme-li tabulku odst. •"">. napsanou, osa záporné involuce osové protíná jen dvě jiné osy hranách pól. tetraedru. Musíme tedy připustiti možnost prvou, níž pak ihned plyne: samodružný tetraedr každé cyklické kollineace pro celou (V:io invariantní. Neboť podgrupa obsahující více než 1(5 transformací identická grupou.
+
+
+XVIII. ﻿12
+
+
+Určitý vrchol samodružného tetraedru invariantní pro dvě centrálně involuce, jichž středy leží protější hraně pól. tetraedru, kladnou osovou, jejíž osou hrana pól. tetraedru, níž vrchol leží. Mimo tento vrchol invariantní pro obě cyklické kollineace, jež mají tento samodružný tetraedr, pro obě osové involuce záporné, jichž osy vrcholem procházejí. jsou transformace, tvořící jednu podgrupu g8. Touž pod-grupou nemění druhý vrchol, ležící téže hraně pól. tetraedru. Vrcholy protější hraně pól. tetraedru ležící jsou pevné pro jinou g8, mající prvou společnou podgrupu r4.
+
+
+Libovolná hrana samodružného tetraedru, pokud není zároveň hranou p<>l. tetraedru, reprodukuje především pro tuto c4, jež nechává oba vrcholy pevné, pak ještě pro transformace, jimiž oba vrcholy vyměňují. mohou býti jen záporné osové involuce, opírající jinou dvojici hran pól. tetraedru. reprodukuje hrana její protější jednou pod-grupou g'8. Mimo pak žádnou jinou transformací, neboť musila reprodukovati ještě nějakou cyklickou kollineací, což není možno. Zbývající dvě hrany reprodukují jinou g'8, jež však obsahuje tutéž c4. Neboť snadno lze uvážiti, je-li jedna dvojice hran invariantní pro osovou involuci zápornou g'8 obsaženou, zbývající dvě dvojice nutně navzájem vyměňují.
+
+
+Dvojice protějších hran invariantní především pro příslušnou g'8 mimo také pro ostatní kladné involuce tedy pro jednu «'16. pro celou grupu G;j.,, patrno toho, centrálnou involuci přejde daná dvojice hran jinou.
+
+
+předchozího patrno, každá hrana samodružného tetraedru protíná osy čtyř involuci, jež přísluší jiným dvojicím hran pól. tetraedru navzájem neprotínají; tytéž osy protíná také protější hrana. Naopak každá dvojice osových involuci proťata čtyřmi dvojicemi hran samodružných tetraedru, jež opírají jiné dvojice hran pól. tetraedru.
+
+
+Tím nabvvámc jasnějšího obrazu skupině paprsků, nichž byla nahoře řeč (odst. !>.). Každv tento paprsek protíná totiž paprsku téže skupinv, hranách pól. tetraedru mimo ne. Všechny paprsky skupinv protínají tedv celkem 216 bodech] nich leží hranách pól. tetraedru každvm procházejí paprsky, i<)2 mimo každým nich -procházejí jen dra paprsky.
+
+
+Libovolný tetraedr osový invariantní pro určitou g]);, jejíž transformace přísluší téže dvojici hran pól. tetraedru. Pro jinou transformaci nikoliv, ježto mělo následek invariantnost pro celou 6'.,,, což sporu tím, samodružné tetraedry cyklických kollineací mají tuto vlastnost.
+
+
+vrcholech osových tetraedru plutí totéž, vrcholech předchozích tetraedru.
+
+
+Hrana tohoto tetraedru invariantní jen pro příslušnou involuci kladnou osovou dvě záporné involuce osové, jichž osy tomto tetraedru
+
+
+XVIII. ﻿13
+
+
+loží; totiž pro transformace, jež nechávají oba vrcholy pevné; tvoří jednu L4.
+
+
+Kdyby totiž byla invariantní pro jinou transformaci, musily vrcholy navzájem vyměniti, což vyloučeno, ježto samodružný tetraedr cyklické kollineace invariantní pro celou G;,., tedy vrchol transformuje tomto tetraedru ne- onom.
+
+
+předchozím obsažen geometricky význam podgrup naší grupy Upozorňuji, hlediska geometrického není rozdílu mezi oběma druhy telraedrú posléze projednávaných; konfiguraci paprsku jsou zastoupeny obojí zcela souměrně.18)
+
+
+13. předchozího zcela jednoduše obdržíme všechny invariantní poclgrupy, když mezi podgrupami určíme ty, jichž samodružné elementy jsou svém souhrnu invariantní pro celou GK. Uvedeme hned výsledky:19)
+
+
+Podgrupy st. druhého, obsahující vždy jednu osovou involuci kladnou: Samodružné elementy: dvojice hran pól. tetraedru.
+
+
+II. Podgrupy st. čtvrtého: Polárný tetraedr.
+
+
+(>. Samodružný tetraedr cyklické kollineace. Celkem -j-
+
+
+III. Podgrupy st. osmého:
+
+
+Polárný tetraedr oba samodružné tetraedry cyklických kollineací, jež opírají touž dvojici protějších hran pól. tetraedru.
+
+
+i8: Polárný tetraedr,
+
+
+i's Polárný tetraedr dva osové tetraedry opírající touž dvojici hran polárného tetraedru.
+
+
+Celkem +3=7.
+
+
+IV. Podgrupy se. Ki-ho.
+
+
+clfi Polárný tetraedr všechny samodružné tetraedry cyklických kollineací.
+
+
+<*,,, •""). Polárný tetraedr všechny samodružné elementy, opírající touž dvojici hran pól. tetniedru.
+
+
+S'\c, Polárný tetraedr, dva samodružné tetraedry cyklických kollineací příslušné téže dvojici, všechny osové tetraedry příslušné zbývajícím dvěma dvojicím hran pól. tetraedru.
+
+
+18) Což souvisí jistou další vlastností těchto paprsků.
+
+
+""') Jsou sestaveny I.an^e-ove článku, str. l'roto ome/ímo pouhé uvedeni výsledku, je/, dalším jsou potivbné, doplníme jen stránce geometrické.
+
+
+XVIII. ﻿14
+
+
+II. Skupiny bodové křivce.
+
+
+Podgrupy stupně druhého.
+
+
+Podrobíme-li libovolný bod křivky parametru všem transformacím grupy (V32, vznikne křivce skupina :>2-bodová; naší další úlohou souvislosti předchozím oddílem zkoumati její geometrické vlastnosti. 20) Ježto chceme jednati skupině obecné, určeme ejprve všechny body, které pro jednu nebo někclik transformací grupy jsou pevné. možné jen pro transformace záporné; kongruence
+
+
+""l 2:.'
+
+
+
+
+
+
+
+
+plyne
+
+
+2wc3, -11
+
+
+/// co, pro
+
+
+JÚVAV ívvJ.\VkV .WJí- vv.v,wíftvY,Y/i. AVtVAv.vl- AviVAíír frwíiv .bvAíi1 j\"" rrr-vnriantni pro jedinou transformaci; neboť vztahu
+
+
+2/;/ L'// co, -in -;' -»i
+
+
+
+
+
+čili
+
+
+2/7?t cti :?«! co.,
+
+
+^4~
+
+
+plyne
+
+
+jsou vrcholy invariantní vždy 110 čtyřech pro jednu centiálnou involuci; body osmitečné vždy čtyí""cch pro ostatní záporné involuce. Tyto body tedv seskupují \'e skupiny J(i-bodové, kde každý bod lze počítati jako dvojnásobný. Všechny ostatní tvoří skupiny 32-bodové. jejich studiu budeme postupovat podskupin nejnižšího řádu skupině iiplné, takže nabudeme znenáhla přehledu. Při tom budeme označovati skupinu příslušnou některé podgrupě písmcnou, kterou jsme označili podgrupu, avšak závorce-.
+
+
+Invariantní podgrupa st. druhého, obsahující vedle identity kladnou involuci osovou, dává vznik dvojbodovým skupinám; každá leží paprsku, protínajícím dvě protější hrany pól. tetraedru. leží celá skupina 32-bodová pa})rsci\h, nichž \v.dy ])rotíná touž dvojici protějších hran. Hudiž prust-k jednoho paj)rsku příslušnou hranou. Hrana invariantní pro určitou podgrupu L,,-,; pro všechny její transformace body vzniklé a-^ zůstávají téže hraně. Jsou to: bod sdružený
+
+
+20) Tyto skupiny jsou totožné těmi, jež nalezl souvislosti naprosto jiné-Amcsedcr článku napřed uvedc-nrm pozn. fi.). Myslím, neznal pravý jich původ.
+
+
+XVIII. ﻿16
+
+
+harmonicky <7, vzhledem vrcholům pól. tetraedru, \zhledem vrcholům obou tetraedru vzhledem vrcholům obou tetraedru cyklických kollinoací. Avšak posléze uvedené tetraedry mají předchozími společné vrcholy; vzniknou užitím všech trasnformací g1G jen tři další body. toho však následuje: všech 1(> paprsků obdržíme, když určité body jedné hrany spojíme určitými čtyřmi body druhé hrany. máme tomto případe skupinu 4-S paprsku, jež protínají čtyřech bodech hranách pól. tetraedru, mimo třech bodech skupiny křivce. Vedle toho však jak lze dokázati analyticky; důkazu upouštím -každý paprsek proťat ještě čtyřmi paprsky čtyřech různých bodech. Skupina tedy velmi podobna skupině dříve projednané (str. 9); každém paprsku leží však jen šest průseků ostatními; ovšem lze dva pokládati dvojné.
+
+
+Podgrupy st. druhého obsahující jiné osové involuce, dávají vznik podobným dvojicím. vzniká tak dalších dvanáct skupin paprscích, opírajících vždy tutéž dvojici os. toho tedy následuje: Body téže skupiny 32-bodové leží vždy dvou celkem 15.16 240 paprscích, jež náležejí téže linearné kongruence, jejíž osy mají známou polohu.
+
+
+Invariantnost poclgrup prvého druhu projevuje tím, každá příslušná skupina 1(5 paprsků pro celou grupu G3„ invariantní; naproti lomu skupina příslušná podgrupě druhého druhu jest invariantní jen pro určitou g8, jejímiž transformacemi nemění dvojice (v. str. 12.).
+
+
+Podgrupa obsahující involuce centrálně dává vnik čtyřem skupinám 1(5 paprscích, procházejících vrcholy pól. tetraedru. Tyto skupiny transformacemi podgrupy nemění; ostatními transformacemi navzájem vyměňují. Každá nich leží zdi si. druhého.
+
+
+Dávají tedy úhrnem podgrupy druhého stupně vznik skupinám paprskovým; nich jsou invariantní ty, jež přísluší podgrupám invariantním.
+
+
+
+
+
+Všech možných spojnic bodu skupiny je— 40(5; těch uvedené
+
+
+skupiny obsahují 1(5 .'304. Zbývajících 192 tvoří Šest skupin paprscích.
+
+
+Podgrupy stupně čtvrtého.
+
+
+Invariantní podgrupa «4, obsahující kladné transformace (00) (20) (02) (22), přiřacíuje každému bodu další tři: eoL, o>3, o.,.21) Obdržíme tuto čtveřinu bodovou, když kterýmkoliv čtyř bodu
+
+
+21) jsou jediné částečné skupiny vedle skupin (/„), nichž dosavadní literatuře jednáno. Schrocter, str. násl., Harnack, str. 67. Také Amcseder, str. 1180 Není zde ovšem vyznačeno, jaký vztah čtvcrina transformacím křivky, nicméně tento vztah implicite obsažen větách str. ,"">(>. Schrocte-rovy knihy.
+
+
+XVIII. ﻿16
+
+
+vedeme příčky třem dvojicím protějších hran pól. tetracdru; další průseky těchto příček křivkou jsou body, tvořící původním čtveřinu. Takových příček celkem (>; vždy dvě dvě protínají jednu dvojici hran. Tvoří tedy body čtvcnny vrcholy tetraedru, jehož protější hrany opírají hrany pól. tetraedru. tedy křivky vepsáno oč1 tetraedru, souvisících udaným způsobem pól. tetraedrem.
+
+
+Jestliže tečnou jednom bodě čtveřiny vedeme křivce tečné roviny, nabudeme čtyř dotyčných bodu; tyto jsou pro všechny čtyři body téže čtveřiny tytéž. Řeší totiž pro všechny body téže čtveřiny vždy táž kongruence
+
+
+•lil -27-
+
+
+vycházejí vždy tytéž čtyři body: ;/, -f-«o,, -\-. o»2, at}.
+
+
+toho tedy věta: čtvcřina příslušná pod grupě tvoří dotyčné bod tečných rovin, vedených tečnou bode křivky;--') téže čířen přísluší čtyři takové body, tvořící čtveřinu téhož druhu; vztah obou čtveří vzájcinnv.
+
+
+Důležitější věta, které dospějeme uvažováním oskulačních rovin bodech téže čtveřiny. Průsečíky oskulačních rovin bodech -)-«!, -|- OJ3, o., mají parametry: 3«, •>// ca,,
+
+
+o>3, tvoří tedy také čtveřinu téhož druhu (což pro-jektivného stanoviska samozřejmé)23). Avšak tyto body jsou zároveň čtvrté průseky křivkou stěn tetraedru, jehož vrcholy jsou body čtveřiny. sice protne rovina vedená body: +»,, CD.,, o;i křivku čtvrté bodu 3«. toho následuje:
+
+
+Oskulační rovina jednom bodu čtvcnny vedená protne křivku bodě, jenž leží rovině ostatních írí bodů.-1}
+
+
+(Odtud plyne jednoduchá konstrukce oskulační roviny.)
+
+
+Tato věta jen zvláštním případem věty obecnější, jejíž význam také mnohem širší, než jak zde jeví (v. odstavec této kapitoly; kap. III. (>.). Zvolme totiž zcela libovolně tři tetraedry, jichž vrcholy jsou čtveřiny bodu; buďtež tyto vrcholy:
+
+
+•it, co, •// G*,
+
+
+Položme rovinu vždy třemi těchto bodu, nichž každý jiné čtveřiny; těchto rovin 01. Zkoumejme jich další průseky křivkou. ihned patrno, nebudou všechny vesměs různé; jémže bodu protnou křivku př. roviny vedené těmito trojicemi bodů:
+
+
+22) Což definice této ětveriny Schroetera Harnacka. -:{) SchroekTH nalezneme čtveřinách («4)řadu vět, které jsou samozřejmé, jakmile /.nám projektivný v/nik ětveriny (v. str. 58, (ió, Cil). 24) Schrocter, str. Íi8. Ameseder, str. 1220.
+
+
+XVIII. ﻿17
+
+
+W:J; 0»i, <QV', OJ„ OJ3; <0o, <02;
+
+
+M;( '<2> G3;!' ^:i """"V. W2' ^ž' ^ž'- W3' <*>!'
+
+
+co, w:i, oj.j, 0,1; w3, ca.,, o2; o^, oj.,, to2; cor co.,, w;i ca.,; fiJt, oj;3, //3 co2; o1, o>2,
+
+
+ia; Ma+fflpMj oia, •w2+a32;w3+a)1,w1+eo2,z/2+a33.
+
+
+celkem J(5 bodu, které splývají; toho plyne, oněch rovin protne křivku jen různých bodech; tyto body jsou
+
+
+(MJ -+• MS), 4-^i» <o3, -f- co2 tvoří tedy čtveřinu téhož druhu.
+
+
+Tento výsledek vyjádříme větou: vcdcmc-li všcchnv možné roviny obsahující vždy jednom bodu každé tří libovolných čtvcřin, obdržíme pouze čtyři další průseky, jež tvoří čtveřinu téhož druhu. Tvto čtvři čtveřiny jsou lakovém vztahu, firovádímc-li zmíněnou konstrukci kterýchkoliv třech nich, vždy dojdeme zbývajícímu čtvrtému. toho důvodu nazveme tyto čtveřiny konjugovanými. Tvoří konfiguraci (4, i6)lG (dle označení Cantorova).
+
+
+Označíme-li dané čtveřiny bodové
+
+
+a"", b"" c"" d""
+
+
+'kde body jsou seřazeny stejným způsobem vzhledem involucím pod-grupy ř'4) vedeme rovinu př. aa'a"", pak dle předchozího protnou křivku témže bodu roviny
+
+
+ab'b"", ac'c"", aďd"" ba'b""\ ca'c"", da'd""
+
+
+
+
+
+
+
+
+bc'd"", b'c""d, b""cď, bc""ď, b'cd"", b""c'i
+
+
+této věty učiníme specialisace:
+
+
+Splynou-li dvě čtveřiny, tedy a"", b"" atd., pak aaa"", ab'b"" acc"" aďd"" přejdou tečné roviny bodech d'; ostatní roviny obsahují vždy jednu hranu tetraedru a', d'\ ostatně tyto roviny dvou splynou, př.
+
+
+ba'b"" bb'a"" bab'
+
+
+ca' c"" cc' a"" cac'
+
+
+da'd"" dďa"" da'ď
+
+
+bc'd"" bc""ď bc'ď
+
+
+cb""d'~ cb'd"" cb'ď
+
+
+db'c"" db""c' db'cf Odtud věty:
+
+
+Promítneme-li tečné bodech čtveří libovolného bodu křivky, prolnou rovin tak vzniklé jediném bodu křivky. Promítáme-li ony tečné všech bodu jiné čtveřiny, obdržíme tak všechny body třetí čtve-
+
+
+XVIII. ﻿řiny. Tytéž body obdržíme, promítáme-li bodů druhé čtveriny hrany tetraedru, jehož vrcholy jsou body prvé čtveriny.
+
+
+Nepřihlížíme-li rovinám tečným, máme větu jednodušší:
+
+
+Libovolné dvě čtveriny křivce: a', l/, c', jsou takovém vztahu,
+
+
+rovinv a'b'a, a'c'l>, a'ďc, b'c'c, b'ďb, c'ďa\
+
+
+roviny a'b'b, a'c'c, a'ďd, b'c'd, b'ďc, c'ďb;
+
+
+roviny a'b'c, a'c'd. a'ďa, b'c'a, b'ďd, c'd\"",
+
+
+tovinv a'b'd, a'c'ci, a'ďb, b'c'b, b'ďa, c'ďd
+
+
+protínají vždy jediném bodu křivky. Tyto body tvoři třetí čtveřinit, jež spojena stejnvm způsobeni prvou, zase čtveří druhou.-''}
+
+
+Lze ovšem prvý tctraedr pokládati dvojnásobný druhý jednoduchý: pak třetí jiný nežli ten, němž vela mluví.
+
+
+Mimo jiné vychází jevo, lze základě předchozích vět prováděti síťovou konstrukci křivky. Jsou-li dány totiž dvě čtveriny, vede věta '2. ihned třetí sice dvěma způsob}'; máme nové dvě čtveřiny, nimiž provedeme tutéž konstrukci, tak dále. Když získán větší počet čtveřin, lze užíti také věty obecné.
+
+
+Věta nám mimo podává možnost, každém nových bodr sestrojiti tečnou; pak podle specialisace třetí, kterou jsme hned předu vyslovili (v. odst. li.), lze velmi jednoduše sestrojovati roviny oskulační.
+
+
+Specialisace další ta, kdy konjugwané čtveriny dvou splynou. snadno přesvědčiti, jsou pak civě čtveřiny, nichž jedná věta odst. věty obecné čtvennách kónjugováných pak plyne:
+
+
+Dvě čtveříny tak sdružené, tečny bodech jedné tcčnv bodech druhé leží vždy dvou téže rovině, -jsou takovém vzájemném vztahu, také jich spojnice vždy dvou leží íéžc rovině.
+
+
+invariantních pod^rup c4, jichž šest, setkáme týmiž vlastnostmi příslušných skupin bodových jako pro /4.
+
+
+Zvolme libovolnou (00) (m, -/;), (•>;;/, •'>;/) pro současně sudá. libovolnému bodu obdržíme užitím transformací další t""i; bod
+
+
+co., to, -f~ (i«
+
+
+cal o;,, -\-
+
+
+t,'k sdružené tvoří čtvcřiau (C4\.
+
+
+Nazveme body čtveřin} tom pořádku, jak jsou uvedeny nahoře, průseky oskularpích rovin těchto bodech vedené rcsp. i.*i, ^i- Ci, •/,.
+
+
+-•') Tuto s]H-c:i:ilní větu uvádí Schroctcr, (i:í. Také Auu-sc-dcr, str. 11S,""> násl. Věty obecné nc/nají.
+
+
+XVIII. ﻿19
+
+
+Rovina (abc) protne křivku čtvrté bodu: --3t* -f--
+
+
+(bal) -j- &•.
+
+
+„-Ji ();/
+
+
+-^------ i------------
+
+
+
+
+
+Avšak tyto argumenty přísluší téže posloupnosti bodům: blt c^, (/,, #,. Přicházíme tedy výsledku podobném'!, jako předchozích čtveíinách, ovšem důležitým rozdílem, jak vysvítá věty:
+
+
+Rovina položená libovolnými třemi body čtvchny protíná křivku čtvrté bodě, němž protíná oskulacní rovina toho týchž tří bodů, nímž zbývající čtvrtý sdružen příslušnou kladnou involuci.
+
+
+Vzhledem této větě lze body celé skupiny 32-bodové umístiti jistých svazcích rovin, jak vychází této úvahy: Budiž libovolný bod křivky průsek jeho oskulacní roviny křivkou x'. Sestrojíme-li bodu další tři, jež ním tvoří některou čtveřinu (ť4), prochází rovina, položená bodem těmi dvěma, jež ním nejsou sdruženy kladné involuci, paprskem A'A'' (dle předchozí věty Vzhledem šesti podgrupám náleží bod Šesti skupin (c4), čemuž odpovídá šest rovin osou xx'' vedených.. Těchto šest rovin téhož svazku obsahuje vedle bodu jenž všem spo-'ečný, ještě dvanácte bodu téže skupiny Hi-boclové; zbývající tři body nich neobsazené jsou ty, jež bodem jsou sdruženy třemi kladnými involucemi. (Ty ostatně, jak víme, leží rovině bodem x'.} Těchto šest rovin rozvrhneme tři dvojice; téže dvojice náleží roviny, jež přísluší oběma r4, obsahujícím tutéž kladnou involuci. Označíme tyto tři dvojice: «,, a.,; /3,. /32; j-',, y2.
+
+
+Dvojpoměr prvních dvou dvojic (a, p.2) závisí určitým způsobem parametru bodu íunkce tohoto parametru jednoznačná zajisté biperiodická (má periody 0'3, jak plyne toho,
+
+
+tento dvoj poměr uvnitř skupiny (G32) konstantní). Avšak žádném případě, pro žádný bod dvě oněch rovin nesplynou; neboť znamenalo, splynou body, odpovídající kladnou nějakou translormací, což vyloučeno (v. str. 7). hodnota onoho dvoj poměru stále konc\n^ íedv vzhledem hdejším jelio vlastnostem niitiu konstantní, p;-o všechny body táž.
+
+
+Totéž ovšem platí pro dvojpoměry («, a., y.2] (/^ p., y.,}. Jejich hodnoty snadno nalezneme specialisací př. pro jeden vrchol křivky. Zvolme tomu bod, jehož souřadnice jsou 0:1:1:1, argument <>. Všemi cyklickými kollincacemi odpovídají body: (1,0) (3,0); (!,2), (3,2); (0,1) (0,3); (2,1) (2,3); (1,1) (3,3); (1,3) (3,l)-(i). Roviny bodem vždy dvěma nich mají rovnice:
+
+
+'2»i ca., -(i) Bod (m, znamená zde bod argumentu
+
+
+
+
+
+XVIII. ﻿20
+
+
+rovina KI: 'c~~f) -V3 f]2 /3j: x., L3,"" A:., I\,"", ,-v í'., tTo)
+
+
+0,: <•.,„ C,, *4( t'31 C.,,)
+
+
+Všechny procházejí bodem bodem (0,0); spojnice těchto dvou bodů totiž tečnou bodě (0,0) přejde tomto případě osa, níž nahoře byla řeč.
+
+
+hraně .v2 určují tyto roviny body:
+
+
+Dvoj poměr prvých dvojic
+
+
+tr; _|_ Co] r.M c~9 —Y^—V^
+
+
+vhodných úpravách vychází jeho hodnota Tatáž vychází pro dvojpoměr prvé třetí, druhé třetí. Následuje toho: Šest rovin, nichž mluví věta nahoře vvslovcná, tvoří svazku trojím způsobem in-voluci', každá nich jednu dvojici rovin dvojné elementy.-*)
+
+
+Vezmeme-li úvahu celou skupinu (G.K) spojíme každý její bod bodem, němž jeho osktilační rovina protne křivku, vzniknou .'52 o^y. nich tedy .'52 involuce šesti rovinách hořejších vlastností; celkem liiO rovin tohoto druhu.
+
+
+Zcela jako při čtveřině (/4) shledáváme zde, věta oskulačních rovinách jen zvláštním případem věty obecnější, kterou zde uvedeme již přímo, bez odvozem:
+
+
+Zvolíme-li libovolné tři čtveřiny téhož druhu (t. příslušné téže c4):
+
+
+a', l/, a"", b"", ť', d""
+
+
+(body jsou seřazeny stejným způsobem vzhledem transformacím pod-grupy c4), pak rovina aa'a"" ]>rotne křivku bodu, němž protne dalších patnácte rovin:
+
+
+ab'd"", acc"", ab""ď ba'd"", ca'c"", dab"" bďa"", cc'a"", db'a"" bb'c"", bb""c', cb'b"", cďd"", dďc"", dcd"".
+
+
+28) Mimochodem připomínám, tento v/tah šesti elementu trojí involuci pro prostorovou křivku bikvadratickou podobný význam, jaký pro křivku kubickou rovině čtveřina cquianharmonická.
+
+
+XVIII. ﻿'21
+
+
+Totéž mutatis mutandis platí pro roviny bb'b"" Roviny zde protínají ovšem pořadí poněkud jiném, než pro čtveřiny (ř'4); avšak toto uspořádání konfigurace zcela stejná; lze vyjádřiti větou:
+
+
+Vcdeme-li všechny možné roviny, obsahující vždy jednom bodu každé tří libovolných čtvcřin, obdržíme pouze čt\ři další průseky, jež tvoří čtveřinu téhož druhu. Mánie zase konfiguraci (4, /6J,,.. Vztah těchto čtyř čtvcřin vzájemný', nazveme tedy konjugovanými.
+
+
+Učiníme této obecné věty opět specialisace: Splynou-li dva tetraedry, tak a"" atd., obdržíme především větu a), jež zcela totožná větou platící pro (z'4) (v. odst. 4.). Věta tamtéž uvedená poněkud pozmění:
+
+
+Libovolné dvě čtveřiny příslušné téžec4'.a, b,c,d: b', c', 'jsou takovém vztahu,
+
+
+roviny ďb'a, a'c'd, ďc, b'c'c, b'd'b, c'd'a
+
+
+roviny a'b'b. a'c a'd'd, b'c'd, b'd'c, c'd'b
+
+
+roviny ďl/c, a'c'b, a'd'a, Ve'a, i/ďd, c'd'c
+
+
+roviny ab'd, a'c'c, a'd'b, b'c'b, b'd'a, c'd'd
+
+
+protínají vždy jediném bodu křivkv. T\to bod tvoři čtveřinu téhož druhu; ypojíme-li stejným způsobem prvou, obdržíme zase čtveřinu druhou. Vše, bylo řečeno síťové konstrukci bodu křivky, tečných osku-lačních rovin pro čtveřiny (ř'4), platí doslova zde.
+
+
+Další pecialisace známa, týká oskulačních rovin.
+
+
+Konjugované čtveřiny mohou splynouti dvakráte dvou.
+
+
+co, 2nco3 Snadno shledáváme, je-li jedna nich libovolně dána: -f-
+
+
+atd., druhá sdružená //, atd.
+
+
+Platí pak obou věta známá dřívějšího (odst. věta c).
+
+
+í). Shledali jsme předcliozím, všechny invariantní podgrupy st. čtvrtého vyznačují tím, existují pro každou nich čtyři konjugo-vané čtveřiny bodu, nichž tři lze voliti libovolně. Jest duležito, zodpověděti otázku, zdali tato vlastnost pro tyto podgrupy charakteristická, zda-li totiž neexistují jiné čtveřiny křivce, jež vyznačovaly touž vlastností.
+
+
+Předpokládejme tedy, existují křivce1 tři čtvcřiny bodové (píšeme přímo parametry)
+
+
+""l- ll->' "":;- ""i'- ;'i' '<':>. ''.-i- ''4'' u'l' u'_>' ?L':i' u<4
+
+
+jež kombinovány známým způsobem, dávají vznik jen čtyivm bodům. Označujme' rovinu, xvde-nou ti-eMiii body, součtem příslušných tří argumentu. pak jasno, že* čtyři roviny
+
+
+XVIII. ﻿w, z0t í', ze'.,
+
+
++7,', 7L';}
+
+
+protínají křivku čtvrté bodech vesměs různých, tedy všech bodech čtvrté čtveřiny.
+
+
+Totéž platí každé další čtveřině rovin:
+
+
+u<t fc'2
+
+
+7'4 +7^j
+
+
+i-4 ze-3
+
+
+Jejich průseky musejí býti totožné hořejšími. Takových rovin bychom mohli napsati ještě 4S, kladouce prostě //.,, H;Í, z/4 postupně místo ?,',. Vyjádřeme nyní, napsaných rovin protíná křivku čtvrté jen čtyřech bodech, roviny prvého sloupce protnou křivku týchž bodech jako roviny druhého, třetího, čtvrtého. Vzhledem tomu, označení indexy věcí naší libovůle, jasno, lze vždy tyto indexy tak voliti, aby první rovina prvého sloupce, druhá druhého, třetí třetího čtvrtá rovina čtvrtého sloupce proťaly jediném bodě. Napsáno rovnicemi
+
+
+čili
+
+
+ic< lai _I_ íoi -----ví -L.
+
+
+""l ""'i ""T «/2 <'4
+
+
+ostatních rovin týče, možno několik případu, jež zvláště probrati. Budeme psáti vždy jen příslušné kongrucnce hned vypuštěním argumentu u}, který všech případech vypadne.
+
+
+Pro druhou rovinu prvého sloupce jsou tyto možnosti
+
+
+u'., í'.,
+
+
++1L.; «•;
+
+
++^2^fy +7Í'4
+
+
+(i) Přibéřeme-li třetí sloupec1, jasno, nemůže .', -fíťo ^'i»
+
+
+ježto dle předchozíluj m.usilo •;'., íť, 7'o v.,, což
+
+
+vyloučeno. Stejně vyloučíme další dvě možnosti; zbude u1., 7'3 'fy-Vzhledem čtvrtému sloupci zbývá také jediná možnost
+
+
+
+
+
+w..
+
+
+Celkem tedv
+
+
+(1) (2) plyne:
+
+
+u1, í.'3
+
+
+12)
+
+
+l',
+
+
+dále
+
+
+Pro třetí rovinu prvého sloupce vzhledem rovinám třetího sloupce zbývají tyto možnosti:
+
+
+*>! ze>3 -f- ze?j Spojíme-li (1): t'3 27jt i27j3
+
+
+2iL>! 2zL'3 tomto případe
+
+
+2yt 2í>2 2v3 2r4
+
+
+/3) t1! =~:: zi1
+
+
+Spojíme-li (1)
+
+
+2w3 ze/j ^'2 Dle hořejšího výsledku
+
+
+2-it;1 2^2 také
+
+
+Podobně
+
+
+-----ZL'2 W.2-----W
+
+
+tomto případu tedy
+
+
+•ÍW1
+
+
+mimo to:
+
+
+?.', ----- í'o í'o ----- í'o l'o -----
+
+
+----
+
+
+Zde jediná možnost
+
+
+Dále jako předchozím případě
+
+
+Dle (1)
+
+
+Dle (1) (3):
+
+
+
+
+
+2ZL>3
+
+
+4ze>4
+
+
+(3)
+
+
+XVIII. ﻿Zde tedy:
+
+
+2v3 2vi
+
+
+2w3 2wí
+
+
+
+
+
+4z>2 4?^
+
+
+4ze>4 4?^
+
+
+mimo to:
+
+
+z'j 7-3 zc>2 Přibéřeme-li ještě roviny čtvrtého sloupce, vychází jevo jediná možnost:
+
+
+?', ie>3 zz. 7'4 ^'1 Avšak dle (3)
+
+
+7', ZC'., 7'4 ?C't
+
+
+tedy musilo íL?2 w^, což vyloučeno. Tento případ tedy nemožný. Zde pro -\- w.2 jediná možnost:
+
+
+^'2 i'2 ze'4 Pro -)- íL'4 rovněž
+
+
+
+
+
+Vhodnou kombinací (.bdržíme:
+
+
+ze-j i'4
+
+
+t'2 Z03
+
+
+7L'
+
+
+Mimo to: z1! v., z1., z'4 z'4 z'3; ze>2: w.,
+
+
+ze>.
+
+
+Tím jsou vyčerpány všechny ]>ří})ady. Nehledíme-li různostem indexech, obdrželi jsme podstatné různé výsledky dva:
+
+
+27>j 2i»2 2z;3 2z>4; 27^! 2ze;2 2zř'3 2ze'4
+
+
+
+
+
+i'i ---- 7',
+
+
+čemuž přistupuje
+
+
+toho plynou pro argumenty vztahy zcela obdobné. tomu cíli přihlédněme těm rovinám, jež obdržíme hořejších Kí, nahradíme-li index postupně indexy Pak př. čtvenna rovin
+
+
+XVIII. ﻿25
+
+
+7', 'Ho 7.',
+
+
+protíná křivku čtvrté čtyřech různých bodech. musí rovina míti křivkou týž čtvrtý průsek, jako některá těchto rovin. Napíšeme-li příslušnou kongruenci, vypadne vždy r,. Jde-li pak případ a), znásobíme příslušnou kongruenci dvěma, takže vypadne zbude
+
+
+u., stejně ovšem
+
+
+2w3 TT- 2w4
+
+
+Zcela stejným způsobem bychom počínali případě obdrželi bychom pro vztahy shodné těmi, je/ platí pro ze!. Avšak
+
+
+vede nutně řešení tvaru
+
+
+u.2 í»i, ""3 ""i fo3, 114 -}- G32 čtveřina bodu (z'.,) vztahy
+
+
+«., ».,
+
+
+
+
+
+,.v, /// ta. o?.,
+
+
+ukazuji, //2 »4se lisí ?/, čtvrtinu periody, M2~«j ^-j—
+
+
+os, 2;;' «4~«i+
+
+
+Avšak podmínka u.,- u.-, n.A n.A vyžaduje
+
+
+//,
+
+
+;;/
+
+
+
+
+
+~~T— ""l >""• *""]
+
+
+2/;/03, ;/o3.? ;;zo3, 033
+
+
+-4- ""l ""; -f""
+
+
+jedna čtveřina (c4).
+
+
+Poněvadž zcela totéž platí pro u1, nabyli jsme výsledku:
+
+
+Vlastnost vyjádřená vztahem konjugovaných čtveřin charakteristická />/'c skiifiinv příslušné invariantním podgrupáw, /'. není fiuÝch čtveřin křivce, kterým tato vlastnost příslušela.-'}
+
+
+Oba druhy skupin, (/.,) (c4), rozl:ší st1 pak nejsnáze základě věty oskulačních rovinách.
+
+
+10. Další skupinové vlastnosti křivky připínají si- ostatním pod-grupám st. čtvrtého, jež nejsou invariantní. Tyto vlastnosti právě proto mají menší důležitost projednáme jen zběžně.
+
+
+-') j.: neexistují čtyři čtvcriny n;i křivce jiné, nivli (/,) (c,), icx tvořily urat-i (4, (i),,..
+
+
+XVIII. ﻿•2(5
+
+
+Podgrupa i\, odpovídající skupina (ř'4). Body této skupiny mají argumenty:
+
+
+ii, -\- to1 -\- ca3> -f- co, na^ m'} cal w') eo3
+
+
+Jich součet roven body čtveřiny (z'4) leží jedné rovině. Ježto tato rovina invariantní vzhledem dvěma centrálnvm involucím, prochází jednou hranou pól. tetraedru. Touto hranou prochází rovin, příslušných dané poclgrupě obsahujících celou skupinu ((ř^.,). vůli iiplnosti připomínám, těchto rovin tvoří čtyři dvojice involuce, jejíž dvojné elementy jsou stěny pól. tetraedru, zmíněnou hranou procházející.
+
+
+11. Skupina (g4) odpovídající podgrupě vyjádřena parametry
+
+
+co, co, ;;/ 03, -j- ca,
+
+
+u,-—u-sr- co, co.,
+
+
+
+
+
+Jich součet ))ical -j- ;/eo.5 (/;/, nejsou čísla obě sudá) jich dvojnásobný součet tedy kongruentní nullou. však znamená:
+
+
+bodech čtveří (g4) dotýká křivkv nekonečně mnoho ploch druhého st.\ čili: každá plocha druhého st. vedená body čtvenny dotýkající křivky třech těchto bodu dotýká čtvrtém.
+
+
+Těchto ploch pro danou čtveřinu oč'-'; protínají oč'2 křivkách st. 4-ho, jež dané křivky bodech čtveřiny dotýkají.
+
+
+Všeobecněji: dvě libovolné čtveřiny příslušné téže podgrupě dávají součet argumentu existuje -r,- ploch druhého stupně oč2 křivek stupně čtvrtého, jež těmi body procházejí.
+
+
+Podgrupa obsahuje dvě involuce osové záporné, jichž osy náleží téhož tetraedru os, osovou involuci kladnou, jejíž osy jsou hrany pól. tetraedru, jež doplňují právě zmíněný tetraedr os. Vzhledem tomuto tetraedru os, jejž nazveme T4, tedy totéž, čím pro (polárný) tetraedr podgrupa z'4. Všechny kužele, procházející vrcholem tohoto tetraedru, invariantní pro z'4, mají nutně tvar
+
+
+«ii -vi"" -MreV «:« A-32
+
+
+dvěma body tedy dvěma čtveřinami (/,) určen jediný tento kužel. Totéž přenáší vzhledem T""4, plyne odtud:
+
+
+bodu, nichž osv involuci obsažených protínají, promítají každé dvě čtveřiny (g4) zeli pro invariantními', splvnou-li ívto dvě číveřinv, dotýkají kužele křivky hodech čtvenny.
+
+
+ostatně patrno, tato věta vyjadřuje zároveň zajímavý vztah osmitečných bodu ostatním bodům křivky.
+
+
+12. Hody libovolné skupiny příslušné podgrupě (:'4 mají argumenty:
+
+
+co. co* ca, -f- ;// to.,
+
+
+
+
+
+
+
+
+m') co, (;/ //') w., ﻿27
+
+
+Součet argumentu:
+
+
+Jíl
+
+
+kde nejsou čísla současně sudá. toho tedy zase vyplývá závěrek, těchto bodech dotýká křivky nekonečně mnoho ploch st., nebo nekonečně mnoho takových ploch prochází dvěma čtveřinami téhož druhu.
+
+
+Ptáme příslušných plochách invariantních. Provedme výpočet pro určitou podgrupu g'4:
+
+
+(00) (20) [01] [21].
+
+
+Shledáme, užívajíce tabulky pro transformace, plochy st. pro tuto g'4 invariantní tvoří tři systémy:
+
+
+*,*,) 0(1) (2)
+
+
+<7.13 A', A';3 rto-j (Ax L.2l A3) <724 (3)
+
+
+Ježto každý nich obsahuje homogeně tři parametry, dvěma čtverinami určena jediná plocha invariantní každého systému. Existují tedy celkem tři invariantní plochy st. určené dvěma čtverinami. Dvě nich obsahují křivku Neboť obě plochy, vyjádřené vztahy
+
+
+;/. cat
+
+
+jsou pro g'4 invariantní. Jsou to, jak patrno, plochy systému (1) (2), pro a34 ježto rovnice křivky odst. rovu. [2]) obsahuje jen čtverce. Rovnice obou ploch nalezneme, určíire-li plochy obou systému, jež zároveň náleží svazku vyjádřeného rovnicemi (2) kap. Snadno shledáme, iyto dvě plochy jsou dvě ploch Yossových
+
+
+(*}
+
+
+
+
+
+První nich prochází přímkami
+
+
+což jsou osy involucí [21 ['23]\ druhá přímkami ':!
+
+
+•*1 ''žl Í2:5 A'J -----
+
+
+^21
+
+
+což jsou osy involucí [01 [0-'5 (v. kap. odst. 7). tedy především patrno, tyto dvě plochy jsou určeny každými dvěma nebo každou jednou (dvojnásobnou) čtveřinou (í,T'4). Plocha třetího systému nemůže obsahovati křivku tedy pro různé čtveřiny různá. Tato plocha prochází, jak patrno prvý pohled, hranami pól. tetraedru
+
+
+.v, .v, .v;i .v., osami iuvoluce (20).
+
+
+XVIII. ﻿'28
+
+
+Určeme průseky těchto hran oběma plochami (4) (f>). Obdržíme vztahy:
+
+
+
+
+
+C21
+
+
+C1V
+
+
+1/^23 i_y
+
+
+•*""l
+
+
+C.,
+
+
+prvou;
+
+
+*,»(!-V?)
+
+
+
+
+
+pro druhou pit chu.
+
+
+Každá těchto rovnic značí dvojici rovin, jež protnou příslušné plochy přímkách, které protínají obě hrany pól. tetraedru. Ježto obou plochách leží křivka protínají tyto přímky vždy dvou bodech. í)ro ""'4 každá tato přímka invariantní, tedy dvojice bodová, níž křivku protíná; každý bod tedy invariantní pro jednu transformaci; mohou tedy býti jen body osmitečné (v. \\.a) l.) sice invariantní pro [01 ['2\ Těch osm; spojeny určitém pořádku, dávají osy těchto involucí (v. (i); naše přímky jsou tedy rovněž spojnice týchž osmiteč-ných bodu jiném pořádku.
+
+
+Shrneme-li vše, můžeme vysloviti tuto větu bodových skupinách (§'4):
+
+
+Každá skupina odpovídající podgrupě g'4 vyznačena tou vlastností, křivkv dotýkají drč kvadratické křivky pro g'4 invariantní, nichž každá prochází ininio pevnými čtvřini bod jichž poloha závisí dnihu podgnipv g'4. ale nikterak speciálně volené skupině bodové při dané podgnipč. Tvío bod leží dvou protilehlých hranách pól. tetraedru, jež tvoří zároveň osv kladné involuce příslušné g'4; obdržíme je, když osmitečné bod invariantní pro záporné involuce g'4 obsažené spojujeme tak, aby spojnice právě protínaly zmíníné hrany.
+
+
+Netřeba obšírně dokazovati, obě plochy (4), (5) jsou invariantní pro všechny čtyři involuce, jež opírají tytéž hrany pól. tetraedru jako [01 mimo jsou invariantní, jak jich tvaru patrno, pro všechny involuce podgrupy í'8, tedy pro celou poclgnij g1(i. přísluší tytéž dvě plochy celkem čtyřem podgrupám g'4; každé nich tedy leží čtyři sku-pinv invariantních křivek bikvadražických, jež dotýkají křivky čtvcři-nách bodových.
+
+
+Podgrupy stupně osmého.
+
+
+Skupinové vlastnosti, jež připínají podgnipám stu]>ně vyššího než čtvrtého, zakládají podstatě vlastnostech křivky, jež jsme nalezli předchozích odstavcích; bude možno projednati nejstručněji.
+
+
+XVIII. ﻿•29
+
+
+Invariantní podgrupy st. H.: Podgrupa tvar
+
+
+(00) (20) (02) (22) (m,n) 2,») (;//.« +2) Skupina (CK) příslušná rozpadá
+
+
+dvě čtveřiny (í4): lze užíti věty konjugovaných čtve-i-inách (v. II. lb)).
+
+
+dvě čtveřiny (c4). zde lze užíti téže věty.
+
+
+Shledáme pak snadno, užívajíce parametrického vyjádření bodu, platí obou případech věta:
+
+
+Promítámc-li spojnice bodu jedné čtveřiny bodit druhé čtveřiny, jež tli náleží téže (r8), nabvváme cdkcm čtyř bodu, nichž protínají osku-lacní rovinv budu druhé čtvcřinv, bodu, nichž čtvrté protnou roviny, položené vždv třemi bodv druhé čivcřiny.
+
+
+Tím způsobem obdržíme další dvě čtveřiny (ježto můžeme kteroukoli daných čtveřin pokládati první), jež tvoří zase skupinu (rj.
+
+
+Podgrupa dává vznik skupině, jež rozpadá dvě skupiny (/4), nichž platí věta II. (také I).
+
+
+Jinak vyjádřeno znamená to, skupina leží trojím způsobem vždv iia dvou rovinách, celkem šesti rovinách', každvm bodem procházejí Iři.
+
+
+Součet argumentu bodu skupiny (ís) kongruentní lze bodv shupinv položiti ~*>- mnoho ploch druhého stupně.-"") Každá tato plocha pro invariantní. Napíšeme-li totiž, obecná pí. ""2. st. obsahuje jistý hod pak dalších bodu, jež oním leží téže skupině (4), obdržíme užitím tabulky transformací sedm rovnic druhého stupně, jež úplně shodují členech, obsahujících čtverce souřadnic onoho bodu, liší jen znaménky členech obsahujících součiny týchž souřadnic. Odečteme-li jednu těchto rovnic ostatních šesti, obdržíme šest rovnic pro šest neznámých koefficientů hledané plochy ahk, Snadno shle-
+
+
+dáme, determinant těchto rovnic hledaná plocha rovnici
+
+
+tedv
+
+
+<hk
+
+
+
+
+
+tedy pro (řs) invariantní, jak bylo tvrzeno.
+
+
+.'5. Skupina příslušná podgrupě i'8 obsahuje osm bodu, jichž argumenty dávají součet Jimi tedy prochází ze- mnoho ploch L*, st. rozdíl předchozí skupiny nejsou tyto plochy vesměs invariantní. Proveďme příslušný výpočet podrobně pro jednu podgrnpu i'^, př.
+
+
+(00) (20) (02) (22) [10] [30] [12] [32].
+
+
+Je-li jeden bod příslušné skupiny 3^, musí koefficienty zmíněné plochy hověti rovnicím:
+
+
+29) Tuto větu týchx skupinách Schroctcr, str. 51, Amescdcr str. 1:200. ﻿an \\- rt22 3'22 ""33 3'32 fl44 3'4"" -ťři2 3'i 3'2 avA 3'i 3'.'$ <714
+
+
+#23 3'2 3'3 «24 3'2 íř:(4
+
+
+dalším třem, jež této liší znaménky při součinech souřadnic, jak odpovídá involucím (20) (02) (22); pak rovnici
+
+
+a\\ Í722 <'l2 ^13 V,2 a^C^V^ «44 ř'l3 V:f
+
+
+-«i3 ť12 rtu A', í-,., tfí;, A', v4r,2
+
+
+
+
+
+«12 1*13
+
+
+dalším třem, jež této vzniknou tak, jako hořejší rovnice prvé. Odečte-me-li pr\-é rovnice tři vzniklé, podobně druhé napsané tři vzniklé, obdržíme šest rovnic pro ahk:
+
+
+
+
+
+_j_ f__^\
+
+
+Determinant těchto ro\nic jak patrno toho, prvý poslední slor.pec jsou stejné; minory příslušné elementům prvého řádku jsou rovny vyjímaje dva; ten, jenž přísluší prvému elementu, totiž:
+
+
+;-y2y4
+
+
+v., v.>
+
+
+V/^v^ř /""*
+
+
+""-13 12/1
+
+
+ten, jenž přísluší ])osleclnímu elementu, jenž liší předchozího znaménkem, tím, koeííicient y:,v4 nahrazen v,v2. tedy
+
+
+kdežto všechny ostatní a/lk Položme
+
+
+í712 y:! «34 A;I
+
+
+Pak rovnice plochy jdoucí danou skupinou osmibodovou
+
+
+Její koefficienty hoví pak ještě dvěma rovnicím:
+
+
+""11 3'l2 <l'2-l Vo2 «33 í/44 \'42
+
+
+
+
+
+J_, -\f ""* 'A1, ----•
+
+
+Eliminujeme-li odtud a\\ r/,,, olxlržnne «L,o (yal r,o r1:,:.',') í':l:! (y-r 3-r '',2 3'i"" V4"") rt.M (v,- f,3 y,2 y32)=
+
+
+«ll (^i:; yi2 ys8 y22 v.r) ^13 "".» (yZ2y3Z— í',o 3V-342) ""33 (í'i:» 33* ťl2 3'44)^
+
+
+XVI II. ﻿31
+
+
+Vyjádříme-li souřadnice všechny funkcemi <?,, shledáme, koefficicnty prvé rovnice jsou vesměs rovny <7,4 c12 ť13 <?4, obdržíme
+
+
+""22 «33 ^44
+
+
+j)()dobiiě druhé rovnice
+
+
+(ln «,,, -j- í*:tífl:«
+
+
+čili tedy:
+
+
+""44 «22 «:«, ""li ťI3 L!.» i'.,, fígg
+
+
+upra\-ená rovnice
+
+
+""22 (^:i *22 tis, (CM A'f *32 .T4-) (y3 3/4 -t, ,Y2 3', -T4!
+
+
+Tato jjlocha muže býti invariantní pro 2V,S: c/) bud pro
+
+
+Pak neobsahuje souřadnic musí tedy známých důvodu obsahovati křivku Obdržíme tak dvě ploehy::!0)
+
+
+nebo
+
+
+a.A .\\ .v.> (?<?, .v.? .v4
+
+
+plocha, obsahující dvě dvojice hran polárného tetraedru, něž ř'8 neopírá.
+
+
+Vedle obou invariantních ploch '2. st.. jež procházejí křivkou existuje tedy jediná invariantní plocha, jež obsahuje danou skupinu osmi-bodovou. Když skupina mění, probíhá tato plocha svazek parametru <?2<y3 <y<7j.
+
+
+můžeme vysloviti větu: Bodové skithitiv (/%) jsou rvííndin' křivky svazkem f>locJi druhého shihiu"", hase tohoto svazku jsou dvč lívojiee protčj-šícíi hran pól. tetraedru. VŠCC/UIY ploeJiv jsou pro /'s invariantní.
+
+
+Lze mimo snadno přesvědčiti, obě čtveřiny, něž í/'s) rozpadá vzhledem podgrupe /4, jsou konjugovány smyslu věty II.
+
+
+•4. Zbývají grujiy, jež nejsou invariantní. snadno přesvědčiti, součet argumentu bodu skupiny příslušné podgrupě i,řs tedy zase existuje -j.- ])loch L', st. určených touto skupinou. Zvolme určitou pod-grupu:
+
+
+(oo) (lo) (20) (.'.o) [00] [loj [i>o] L:>>uJ.
+
+
+Skupina odpovídající rozpadá: dvě skupiny (/'4).
+
+
+30) Jal< patnui,
+
+
+\""osso\'y. \'. po/n.
+
+
+II. ﻿32
+
+
+Vzhledem leží body skupiny dvou rovinách, totiž
+
+
+í-ntf.,*3— 7,""., <?3
+
+
+Tato dvojice invariantní vzhledem g„.
+
+
+Vzhledem 6J: oběma skupinami lze položiti čtyři kužele známých vrcholech (II JI). Tyto kužele jsou neproměnné pro příslušnou dvou tvoří systém neproměnný pro celou í,v Prusek takových dvou křivka bikvadratická pro invariantní. existují dvě invariantní křivky procházející skupinou (gs). Ale takovými křivkami jsou obě dvojice kuželoseček, nichž roviny pod uvedené jsou proťaty oběma plochami st., pro invariantními obsahujícími křivku (plochy Vossovy).
+
+
+Nabýváme tedy výsledku všeobecného: skupina (gs) dvojím způsobem leží invariantních dvojicích kuželoseček; kužcloscikv každé dvojice procházejí dvěma pevnými bodv hraně pól. tctracdru, jež spojuje střcdv ccntrálných involucí podgrupě obsažených. Jsou pruscčíkv této hranv osami záporných involucí osových.
+
+
+Vzhledem příslušné rozpadá tato skupina dvě čtveřiny, nichž platí věta (II. c)).
+
+
+skupinách, odpovídajících podgrupě í>'s, lze říci jen to, plyne věty skupinách (g'4). (V. str. 28). Skupina («'s) rozpadá dvě skupiny (g'4); lze vysloviti větu:
+
+
+Bodv skupí (g's] leží dvou křivkách st. 4-ho, nichž každá prochází určitými čťvhni pevnými bodv: tato dvojice křivek invariantní pro g'8; přechází jedna druhou užitím cyklických kollincací podgrupě obsažených.
+
+
+Ploch st. invariantních pro podgrupu <,>'s není.
+
+
+Pod grupy stupně šestnáctého.
+
+
+Skupina K>-bodová,:il) odpovídající podgrupě c10, vyznačena důležitou vlastností, již uvedenou 10), kterou takto vyjádříme:
+
+
+Promítncmc-li libovolného bodu skupinv (rK)) tečnu jednom vrcholu, obdržíme další bod; jestliže tohoto bodu promítneme všechny spojnice zvoleného vrcholu ostatními, obdržíme dalších bodu oné skupinv.
+
+
+podgrupám #,,. připíná se. konfigurace konjugovaných čtveřin (v. II. 3.). Každá podgrupa tohoto druhu tvar:
+
+
+(00) (20) (02) (22) (m,n) (m, +2) '2,n +2) [00 [20 [02 [22 [m, [m, [;;/
+
+
+Vzhledem podgruj)ě rozpadá příslušná skupina Ki-bodová skupiny (užijeme pro body označení platícího pro transformace):
+
+
+skupinách těmito totožných jedná Amcscdcr, str. 1185.
+
+
+XVIII. ﻿:J3
+
+
+(00) (20) (02) (22) (/«,;/) ;?) (m, +2) +2, +2) [00 [20 [02 [22] l///. \in +2, [';«, [;// +2, -f2J.
+
+
+Tyto čtyři skuj)iny jsou konjugované. Xehoť spojíme-li rovinou klerékoliv tři body prvých tří skupin, př.
+
+
+co, '2n oj.}
+
+
+-f-
+
+
+protne tato rovina křivku čtvrté bodě
+
+
+'lni to, 'ln- 03:i
+
+
+~T~
+
+
+je/ náleží čtvrté skupiny.
+
+
+Vzhledem některé podgrupě f4, jež g,,, obsažena, rozpadá naše skupina podobné čtveřiny. Uvažujeme-li př. podgrupu
+
+
+(00) (/;/, ('2ui. '2n) (:};«, :J;/) rozpadá skupina čtyři:
+
+
+(O, •!)) (;//, //) (-lni, //) (:> ///, //) [00], ['/;/, ['2in, 'lu [:>/;?, ""ni]
+
+
+další dvě, jež obsahují ostatních bodu skupiny. Jestliže jsou čísla lichá, 'lni 'ln mód tedy třetí skupina obsahuje body (20) (02); čtvrtá [20 [02 Spojme zase tři body tří těchto skupin, n;; př. ;/,
+
+
+Čtvrtý průsečík této roviny 03, bod [20] příslušný čtvrté skupiny.
+
+
+Podgrupa. g'lc obsahuje celkem podgrupy st. 4-ho; lze vysloviti větu:
+
+
+Body skufrinv (g]B) lze trojím způsobem seskupiti cťccřinv konjn-gované.
+
+
+Podgrupy ?lr, jsou vyznačeny ještě jednou vlastností. Křivkou lze položiti, jak známo, nekonečně mnoho ploch druhého stupně, jež jsou charakterisován vztahem
+
+
+Každá nich, jak snadno pozná, invariantní pro podgrupu /,.
+
+
+'lín a), ca, Mezi těmito plochami obsazeno plocn, pro než
+
+
+vyloučením ;//, obou sudých) (I. (i.). Lze přesvědčiti, každá nich invariantní pro jednu podgrupu Llr>; naopak pro každou podgrupu dvě tyto plochy jsou invariantní.32) Obě í\orí zvrhlou plodní st. etvrtéhn, iin-ariantní pro d.^.
+
+
+;J-) Jsou plochy \ossovy. Ota textu u\c'(lfii;i vystihnu- pravý jejich význam.
+
+
+XVIII. ﻿.'54
+
+
+Podgrupa g'lfi obecně tvar
+
+
+(00) (20) (02) (22) (m,*) (m,n +2) l'wV] [;«' L>, •;/' [///'. '2, [•;//'.; -2, [.///' ;;/,«' •;« //' /;/. //' ';«' •/// /i'
+
+
+Vzhledem rozpadá čtyři skuj)iny: přesvědčíme jako předchozím, jsou skupiny konjugované.
+
+
+Abychom prozkoumali, jak se' chová skupina vzhledem podgrupě cyklické, vezměme určitý případ, ;// liché; rozvrhněme pak skupinu vzhledem podgrupě
+
+
+(00) (22) (///, (ni 4,2, +2) čtyři skupiny:
+
+
+(00) (22) (m. ;/) +2, 2); (02) (20) (/// +2, -;/) (/«. +2)
+
+
+;»'»'] [m'+ ;/' [///' ;;/, ;/' [;/// ;// V/'
+
+
+\m',n' +2] [;//' \m' —ni +2,n' -^n] [mr ni' +2]
+
+
+kde /;/', ;/' nemohou býti čísla současně sudá ani současně lichá, ježto tom případě byla podgrupa předchozí.
+
+
+Spojme zase tři body tří čtveřin, př.
+
+
+co:!,
+
+
+'ín
+
+
+GJ,
+
+
+Čtvrtý průsek této roviny argument
+
+
+'lm' -f- 'ln' 03,
+
+
+03,
+
+
+2;;/ío1
+
+
+
+
+
+2;;'
+
+
+/TI'- lil VJ-i lil VJ-, U/0
+
+
+ířj Je-li ;/ř sude, liché, 033 —j—
+
+
+čtvrtý bod nikoli čtvrté.
+
+
+2/w' oj, -l,i' 07,
+
+
+tedy náleží třetí skupiny
+
+
+Je-li ;;/' liché, //' sudé, pak
+
+
+'2m' oj,
+
+
+(m' 03,
+
+
+•ln' 03,
+
+
+2)03:
+
+
+čtvrtý bod (;;/'
+
+
+jenž náleží skii])iny th-tí nikoliv čtvrté.
+
+
+toho následuje: skupina (.;'',,;) rozpadá čtyři skupiny jugované vzhledem i4; avšak vzhledem nikoliv, nvbrž čtyři skupiny, než tímto zpusobem rozpadá, vzdv -po třech jsou konjugované.
+
+
+Zkoumejme-, jak dalece jsou vlastnosti zde uvedené charakteristické pro skupiny (>-bodové (ovšem uvnitř skupiny -'>2 bodové). Mají-li čtyři čtveřiny býti konjugované vzhledem z'4, musejí dvě nich dáti uvésti tvar (00) (02) (20) (22); (m,n) ""l, (m. (/// 2): zbývají.-í
+
+
+﻿dvě podobné týž tvar, jen se- změnou znamének při ti. beze všeho patrno, obě napsané skupiny tvoří jedinou skupinu osmibodovou (ct), podobně zbývající dvě. Je-li jeden bod nich \>n' n'], pak snadno vidíme, obě osrnibodové skupiny shodují těmi, jež vzniknou schématu (1) nebo (2). toho patrná věta:
+
+
+Každé iivři skn/nnv konjugované vzhledem náležející téže skupiny j2-bodové tvoří skupinu i6-bodovon, příslušnou některé podgrupě st. i6-ho. Které obou možných druhu, rozhodneme dle předchozích vět, zkoušejíce, zdali příslušná skupina nemá tutéž vlastnost vzhledem některé podgrupě cyklické.
+
+
+Bez důkazu uvádím, nelze obdobnou větu vysloviti vzhledem některé podgrupě r4. Avšak lze zde vysloviti jinou větu, totiž:
+
+
+Každé tři čfvenitY, konjugované smyslit véív b(II. 8), které náleží téže skupinv ji-bodové, leží zároveň skupině, odpovídající některé podgrupě sf. i6-ho.
+
+
+Pišme zcela obecně tři čtveřiny, sdružené téže cyklické podgrupě:
+
+
+
+
+
+[•') ;//', ""']
+
+
+Mají-li býti tyto tři čtveřiny konjugovány tak, aby složením tří vznikla zase třetí (jež tedy musí sestávati bodu záporných, jsou-li body prvých dvou kladné) musí argument ?',, hovící kongruenci:
+
+
+//, oj.j ca1 ra;5
+
+
+11H-----------1-;-------------h í',
+
+
+náležeti zase třetí čtveřin. Obdržíme:
+
+
+E-----U
+
+
+
+
+
+mohou nastati čtyři případy:
+
+
+///
+
+
+
+
+
+-(- oj3
+
+
+(;//,+ m') 2(;/, n')
+
+
+
+
+
+musí ;//, 2;;/', //, -""' ^ýti čísla sudá, tedy ///,, //, býti čísla sudá-Ale tom případě druhá čtveřiua obsahuje dva body, jež odpovídají kladným involucím; obě čt\'eiiny pak tvoří jednu skupinu příslušnou podgrupě ciS. Avšak vznikne adjunkcí libovolné zájiorné involuce \'/.dy podgiupa st. Kí-ho.
+
+
+/;) ?_(^1+..""_'L^L+ (""' "") <°a
+
+
+:?*
+
+
+XVIII. (mt 2;;/')
+
+
+-J-
+
+
+;;/j +m, •;/! čísla sudá; vede předchozím důsledkům.
+
+
+2(ni'+2,n)mi+<2(n' 2n)a>z 1/1
+
+
+(•;«! ;;/. m') to, (;/t ""') <*»
+
+
+""T'
+
+
+?;/,. ;/! sudé; případ </).
+
+
+ť/yl Zde podobně vychází podmínka: m,-f •'>?;/, n1^'-íii sudé, což vede týmž důsledkům.
+
+
+Tím jest hořejší věta dokázána. Vyjadřuje pak tato věta vlastnost charakteristickou pro podgrupy ;'',,;, neboť víme. skupiny (L,,-,) se1 rozpadají konjugované čtveřiny čtyři, však tři.
+
+
+Skupinv úpliu'.
+
+
+Zbývá nám užíti předchozích výsledku tomu, abychom přehlédli celkovou konfiguraci bodu -52-bodové skupiny, odpovídající cele grupě G.,.,. Kterak lze jednoho bodu sestrojiti celou skupinu, nám iiž známo (I. 10). Omezíme dalším vlastnosti lineárné.
+
+
+'2. Druhá důležitá otázka je: kolika rovinách leží body skupiny?38) Určitěji řečeno, kolik existuje rovin, nichž každá obsahuje body skupiny?1 Budeme dalším pro stručnost nazývati kladnými body argu-
+
+
+co., mentu —j— zápornými ty, jichž argument -(-
+
+
+-f- co,
+
+
+Pak lze říci: čtyř bodu skupin}-, jez leží rovině,
+
+
+jsou nutně dva kladné dva záporné. Zvolíme-li libovolné dva kladné body skupiny, lze vždy jednomu přisouditi argument -u, druhému
+
+
+eo, at^
+
+
+—j— stručném označeni: (00), (m, n). Spojime-li tyto
+
+
+dva libovolným bodem záporným, vznikne rovina, jež protne křivku čtvrté dalším bodu záporném. Tak nabudeme jedné hledané roviny vyjma případ, oba záporné body splynuly. Tyto případy však lze snadno vymýtiti. Najdeme dotyčné body tečných rovin, vedených křivce spojnicí obou daných bodu:
+
+
+o:;
+
+
+
+
+
+
+
+
+určíme body jež leží zase skupině.
+
+
+33) Úlohu tuté'., avšak speciálním případě vrcholu, řešil I.an^e, sir. '21. případě obecném ivíil Amcscdcr, str. llí)S čistě geometricky.
+
+
+III.
+
+
+﻿Vychází
+
+
+?>,
+
+
+oj,
+
+
+no,
+
+
+Avšak 71, jen tehdy náloží skupiny, když ;;/ jsou čísla sudá, spojujeme-li bod (00) jodním hodu (20), (02), (22). Ale tom případě všechny čtyři dotyčné hody náleží skupiny. Spojujeme-li tedy hod (00) jedním uvedených tří, nabudeme jen šesti rovin, ježto bodu záporných máme disposici jen (šestkráte dvou). Pro všechny tři body činí rovin. Spojujeme-li bod (00) jinými body kladnými, obdržíme pro každý celkem rovin. prochází libovolným bodem skupiny 114 rovin. tedy všech rovin, nich: :,dá
+
+
+obsahuje čtyři body skupinv —-----= 912.
+
+
+Příslušná konfigurace (4, //-/):!2.
+
+
+•'). Skupinu .'52-bodovou lze několika způsoby rozvrhnouti osm čtveřin, jež čtyřech jsou konjugovány.
+
+
+Vzhledem rozpadá skupina osm čtveřin, jež lze šestervm způsobem rozvrhnouti dvě skupiny konjugovaných čtveřin; odpovídá šesti podgrupám glfi g']fi.
+
+
+Vzhledem dané rozpadne skupina rovněž osm čtveřin. Budiž (ni, daná cyklická kollineace. Jedna čtveřina obsahuje bod (00) tedy také bod ('2ni, 2»); jiná obsahuje dva body, jež odpovídají zbývajícím dvěma kladným involucím. Tyto dvě čtveřiny nazveme II. patrno, tvoří dohromady osmibodovou skupinu, odpovídající pod-gru.|)ě c8. složení grup st. lO-ho (I. 11) vychází jevo, tuto skupinu lze dvojím způsobem doplniti skupinu šestnáctibodovou přibráním vždy dvou čtveřin záporných. Nazveme prvém případě I', II'; druhém III', IV. Jedna vzniklých skupin Ki-bodových, př. II, I', II', (g16) čtyři čtveřiny obsažené jsou konjugované; druhá. II, III', (í,r/16) čtyři čtveřiny obsažené nejsou konjugované. Jsou-li zbývající skupiny kladné: III, IV, pak jasno: spojíme-li některou nich libovolnou zápornou, musí jako čtvrtá čtveřina nimi konjugovaná objeviti některá záporných čtveřin (jak plyne tvaru argumentu); ale nemůže býti táž záporná čtveřina, ježto zvolené tři čtveřiny musily náležeti téže (§Í6), (II. o.), což dle předchozího vyloučeno. dospějeme tom případě vždy čtyřem kon-jugovaným čtveřinám. jsou ještě možné kombinace III; IV. Každou nich možno dvojím způsobem spojiti čtveřinami zápornými; dává celkem případy ovšem tvoří zbývající čtyři čtveřiny pro sebe zase skupinu kónjugovanou).
+
+
+předchozího vychází jevo, vzhledem dané t'4 rozpadá (Gaj) osm čtveřin, jež paterým způsobem tvoří vždy dvě skupiny konju- ﻿38
+
+
+govaných čtveřin. Ježto všech jest šest, máme výslednou větu, přibe-reme-li také ještě z'4:
+
+
+Skupinu ((r.tí] lze celkem způsoby upraviti dvojice skupin konjugovaných čtveřin.
+
+
+křivce jsou význačné body, pro něž 8// Jsou vrcholy body osmitečné, vyznačené oproti ostatním bodům jistou projektivnou vlastností. snadě řešiti obecnou úlohu: nalézti všechny body křivky jež vyznačují jistou projektivnou vlastností.
+
+
+Každá taková vlastnost vyjádřena řadou projektivných konstrukcí. Užijeme-li daný bod projektivně konstrukce, znamená to, bod nahrazujeme bodem
+
+
+
+
+
+kde jsou čísla celá. Totéž zůstává platnosti, užijeme-li celé řady konstrukcí. Yýznačnost bodu pak spočívá tom. užijeme-li naň určitých konstrukcí, bod reprodukuje. Podmínka tedy vyjádřena vztahem tvaru
+
+
+
+
+
+Avšak jasno, totalita bodů, určených pro dané touto kongruencí, musí býti invariantní pro G.,.2. Musí tedy platiti současně také
+
+
+Zbývá tvar
+
+
+
+
+
+Užijeme-li některé transformace pro
+
+
+co, -f- ra3
+
+
+E.--
+
+
+
+
+
+obdržíme nutnou podmínku
+
+
+cal a-------~A~
+
+
+mód
+
+
+toho následuje: všechny projektivně význačné body křivky jsou obsaženy kongruenci
+
+
+-/m .3, inf.
+
+
+znamená geometricky: každý projektivně význačnv bod křivky určen požadavkem, něm dotýkati plocha daného stupně křivkv bodech 34).
+
+
+3l) Srovnej tím Halphcn: ..Rechcrches sur les courbcs planeš dc^ré,"" Matli. Ann. 15, str. 359—370. Jedná bodech, pro něž pit jex definuje /působeni posléxe uvedeným. Způsob, jímž určuje počet těchto bodů pro dané />, l/e ihned přenésti určení počtu našich bodů.
+
+
+XVIII. ﻿39
+
+
+pivdrho/írli výkladu j);ik plyne: vyjímaje- pro rozpadají vvznaěné bod příslušné témuž skupiny ji-bodovč; každá -nich všechnv vlastnosti, nalezené předchozích oddílech. Tyto vlastnosti přísluší ledv těmto bodům následkem projektivně vlastnosti, jež charakterisuje, nvbrž jediné proto, tvoří zmíněné skupinv. pak jasno, další vlastnosti těchto bodu, které jsou vlastním následkem základní vlastnosti definující, nejeví uvnitř jednotlivých skupin 32-bodových, nýbrž projevují vztaliv mezi těmito skupinami (bud všemi nebo několika}. ﻿*"

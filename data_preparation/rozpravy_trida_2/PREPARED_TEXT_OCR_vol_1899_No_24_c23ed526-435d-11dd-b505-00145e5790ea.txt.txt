@@ -1,0 +1,287 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 24.
+
+
+problému homografie.
+
+
+Napsal Eduard Weyr.
+
+
+Předloženo dne 14. dubna 1S99.
+
+
+hasle formuloval XIV. ročníku Nouvelles Annales Mathé-uialiques úkol, nazvaný později problémem homografie, těmito slovy:
+
+
+»On donne dans méme pian deux systěmes sept points chacun qui correspondent. Faire passer par chacun ces systěmes fais-ceau sept rayons, telle sortě que les deux faisceaux soient homo-L,fraphiques. Démontrer qiťil n'y que trois solutions.«
+
+
+Řešení podstatě správné, jehož odůvodnění však není zcela posta-čitclné, podal Jonquiéres krásném pojednání »Essai sur généra-tion děs courbes géométriques, particulier sur celle courbe quatriéme ordre«,*) řešení analytické pak Hesse pojednání »Die cubische Gleichung, voň welcher die Losung děs Problems der Homographie voň hasles abhángt«.**) řešení tohoto problému vede konstrukce kvadratického vztahu dvou soustav rovinných, daného sedmi páry sdružených t>odů, vytknul Reye své práci >Geometrische Verwandtschaften zwciten kradeš*,***) opíraje úvahy, které vedly Seydewitzef) hrote ff) konstruci plochy druhého stupně devíti bodů.
+
+
+Před dvěma roky uveřejnil prof. těchto Rozpravách řešení vytčeného problemu,ff) při čemž však jistá zvláštní poloha daných bodů byla výslovně vyloučena.
+
+
+Mémoires présentés par divers savants l'Academie děs sciences, XVI, 1'aris 1862.
+
+
+**) Crelle-Borchardtův žurnál, LXII. ***) Zeitschrift fůr Mathematik und Physik XI, 280. Archiv fůr Mathematik, vydávaný Grunertem, IX. tt) Crelle-Borchardtův žurnál, LXII.
+
+
+tft) jistém základním problému projektivně geometrii. Rozpravy České Akademie, třída II., roč. VI.
+
+
+Rozpravy: Roč. VIII. Tř. II. 24.
+
+
+XXIV. následujících řádcích rozřeším problém homografie novým způsobem, případě poslední práce vyloučeném.
+
+
+Označme ciframi dané body skupiny první l', 2', korrespondující body skupiny druhé.
+
+
+Applikujme rovinu prvních sedmi bodů kvadratickou transformaci, při níž body nichž předpokládáme, nejsou přímce -jsou body hlavními této roviny; označme II, III příslušné hlavní body roviny transformované, symbolem (V) bod, něhož transformuje libovolný bod .v. Označme dále literou .S' tuto transformaci, již vytkneme tím, zvolíme body II, III přiřadíme některému bodu, pr. bodu libovolný bod (4).
+
+
+Budiž obdobně kvadratická transformace, jež transformuje rovinu bodů druhé skupiny tak, aby byly l', 2', hlavními body této roviny; označme I', II', III' korrespondující hlavní body roviny transformované, obecně x', (x) dva body sdružené.
+
+
+Značíce libodvolný bod první roviny, veďme kuželosečku body body .r, označme A"", kuželosečky rovině druhé, kollinearné resp. kollineací, jež přiřaďuje bodům body l', 2', 3', 4', resp. bodům body 2', 3', 5'.
+
+
+Aby kollineace tyto, jež nazveme první, resp. druhou, způsobem vytknutým byly stanoveny, nutno předpokládati, žádné tři bodu nejsou přímce, taktéž žádné tři bodů ovšem také tři bodů kollinearné při řáděných. Supposici učiňme.
+
+
+Kuželosečky A'', procházejí body l', 2', protnou dalším bodě A-'. Vzhledem první kollineaci mají paprsky týž clvoj-poměr jako 3'4'), vzhledem druhé paprsky týž jako (!' 5'); máme tedy projektivnost
+
+
+234 A-' 2'3'4' 5'J.
+
+
+Transformace přiřaďující bodu bod A-/, definovaný touto projektivností, slujiž 2.""; nyní prozkoumáme.
+
+
+Transformace transformuje kuželosečku přímky (A') procházející bodem (4), kuželosečku přímky (L] procházející bodem (3).
+
+
+Obdobně transformuje přímky (A7) procházející bodem přímky (I/) prochájející bodem (5').
+
+
+Přímky (A), (L] protnou bodě (A-), přímky (/v''), (L') bode (x').
+
+
+Přihlédněme transformaci přiřaďující bodu (.r) bod (x'}.
+
+
+Promítněme libovolný bod (A*) bodů (4), (5) přímkami (4) (x), (5) (.v). Těmto přísluší transformací ,S"" dvě kuželosečky A"", procházející body resp. svazek parsků (4)(x) vrcholu (4) jest projek-tivný svazkem kuželoseček A', svazek paprsků (5) (x) vrcholu (5) -Sl' svazkem kuželoseček
+
+
+První kollineace přiřaďuje svazku čar A"" svazek kuželoseček základných bodech l', 2', 3', ním projektivný, druhá svazku čar /-projektivný svazek kuželoseček základných bodech l', 2', 3', 5'.
+
+
+﻿Transformace však přiřaďuje těmto dvěma svazkům čar jva nimi resp. projektivně svazky paprsků (A''j (Z/), čili (4') (x'\ í'5') (.v'). toho soudíme, mají místa projektivně vztahy
+
+
+(«) (4) (*), ....
+
+
+rímž dokázáno, transformace jest kvadratická, jakmile ukážeme, /<: vztahy («) (/i) nepřiřaďují paprsku (4) (5) paprsek (^(S'); zároveň pak patrno, jsou (4), (5) hlavní body roviny první, (4'), (5') korre-.poiulující hlavní body roviny druhé transformaci
+
+
+Přímky, přiřaděné projektivnými vztahy («) (/i) přímce (4) (5) jsou hlavními přímkami roviny druhé. Přímce (4) (5) přiřaďuje však S~l kuželosečku AO, body vedenou, této přiřaďuje první kollineace jistou kuželosečku A'/ druhá najisto jinou kuželosečku /„/, uči-níme-li supposici, bod není kuželosečce A'/; supposici zde činíme, přihlížejíce či. násl. případu, kdy nalézá čáře A'',;. Kuželosečky AV, procházejí ovšem body l', 2', 3'; jich čtvrtý průsečík jest patrně přiřaděn transformací 2."" každému bodu čáry K„. -Transformace přiřaďuje čarám K0' L,' dvě přímky (AV), (/>,/) procházející resp. body (4'), (5'), jsou hlavní přímky druhé roviny; jich průsečík (p'} jest třetí hlavní bod této roviny.
+
+
+Zcela obdobně soudíme, třetí hlavní bod (//) první roviny přísluší transformací čtvrtému průsečíku dvou kuželoseček body resp. body procházejících, jimž přiřaďuje první resp. druhá kollineace kuželosečku vedenou body l', 2', 3', 4', 5'.
+
+
+Transformace jest nyní redukována tři kvadratické transformace sobě jdoucí: S'~l bodu přiřaďuje ""tiž bod (A*), tomu přiřaďuje bod (V), tomuto Sf~l bod
+
+
+Abychom vytkli povahu transformace 27, ukažme především, přiřaďuje bodům II, III resp. body I', II', III'.
+
+
+Bodu III př. přiřaďuje S~l všecky body hlavní přímce 12, \\jma každému nich přiřaďuje určitý bod .v' přímce položený stanovený požadavkem
+
+
+
+
+
+*'(!' 5').
+
+
+Všem těmto bodům „v' však přiřaďuje S*- jediný bod III'; ten tedy přísluší bodu III transformací
+
+
+Budiž nyní libovolná přímka první roviny; pak jest (/') kuželosečka procházející hlavními body II, III, tedy (/"") bikvadratick**- čára pro-
+
+
+Hody .v, .v' souvisí patrně kollincncí, přiřaďající bodům přímce r(~'«p. body 3', 4', přímku 1'2', čili bodům ;;/, body 3', 4', //', označíme-li •lfl> průsečíky přímky přímkami 35, »ť, průsečíky obdobné.
+
+
+XXIV. ﻿cházející body I', II', III' dvojných bodech (4'), (5'), (/'); této přiřaďuje transformace .S'""1 mimo hlavní přímky l'2', 2'3', 3'!' ještě čáru pátého stupně dvojných bodech l', 2', 3', 4', 5', />', jelikož souhrn těchto čar musí tvořiti čáru osmého stupně čtyřnásobných bodech l', 2', 3'.
+
+
+Jest tedy 2.' transformací Cremonovou, přiřaďující přímce čáru pátého stupně šesti pevných bodech dvojných, což ovšem shoduje výsledkem odvozeným citované práci prof. Kiippera.
+
+
+Nahradíme-li předchozí úvaze body 4', body 6', 7', obdržíme místo kvadratickou transformací L/, která přiřaďuje bodu (.v) bod (.v"") takto definovaný.
+
+
+Kuželosečkám vedeným body resp. přísluší kollincací třetí resp. čtvrtou dvě kuželosečky, jež mimo l', 2', protnou bodě .v"", tomu přiřadí bod (.v""); při tom zoveme třetí kollineací onu, jež bodům přiřaduje body l', 2', 3', 6', čtvrtou onu, jež bodům přiřaďuje body l', 2', 3', 7'. Opět předpokládáme, žádné tři body jedné skupiny nejsou přímce.
+
+
+Pro trasformaci jsou (6), (7) dva hlavní body roviny první (6'j, (7') korrespondující hlavní body roviny druhé.
+
+
+Kuželosečce, vedené body přísluší třetí čtvrtou kollineací najisto dvě různé kuželosečky, předpokládáme-li, bod nenalézá první nich; kuželosečky mají mimo body l', 2', 3', ještě čtvrtý společný bod r"", jenž transformací přechází třetího hlavního bodu (/') roviny druhé pro transformaci Dále přísluší kuželosečka body l', 2', 3', 6', vedená kollineacemi třetí čtvrtou dvěma různým kuželosečkám body procházejícím, jichž čtvrtému průsečíku přiřaďuje ó"" třetí hlavní bod (s} první roviny transformaci
+
+
+Jest důležito poznamenati, také transformace bodům II, III přiřaďuje resp. body I', II', III'.
+
+
+Applikujeme-li libovolný bod transformaci .V, obdržíme bod (.v), něho transformací bod (x'), toho transformací ^>'~1 bod takový platí
+
+
+(12345) (!' 5').
+
+
+Obdobně vyvodí bodu posloupně applikované transformace U^S? body (x), (x""), A-"", máme
+
+
+A-(l 67) x"" (!' 7').
+
+
+Splynou-li body .v' A*"", soudíme obou projektivností, platí (!' 7),
+
+
+ovšem jen supposice, jak paprsky xl, x2, x3, tak paprsky .v'l', .v'3' jsou různé, tento závěrek jest jistý jen tehdy, kdy bod není žádné straně třírohu ovšem .v' žádné straně třírohu 1'2 body A', A-' podávají pak rosení problému homografie.
+
+
+XXIV. ﻿Aby body x', x"" stotožnily, jest nutné stačí, aby splynuly body (V), (X'), příslušné témuž bodu (x) transformacemi
+
+
+Veďme bodem (4) libovolnou přímku (P); vztah transformuje přímky (/"") bodem (4') procházející, vztah kuželosečky (/>"") procházející hlavními body (6'), (7'), (r""} bodem (4""), příslušným bodu (4) tímto vztahem.
+
+
+Svazku přímek (F) vrcholu (4) přiřaďuje projektivný svazek přímek (P'} vrcholu (4') projektivný svazek kuželoseček (P"") základných bodech (6'), (7'), (/'""), (4""). Jsou tedy tyto dva svazky projektivně, vytvoří kubickou čáru která patrně obsahuje body splývající uv') (x""}. Tři takové body známe, totiž I', II', III'; body .v', jim příslušné transformací S'~\ jsou stranách třírohu nevedou řešení problému homografie.
+
+
+Obdobně přísluší svazku přímek (/v*), bodem (5) vedených, vztahem svazek přímek (A"") vrcholu (5'), vztahem svazek kuželoseček (R"") základných bodech (6'), (7'), (;•'), (5""); oba tyto svazky vytvoří kubickou čáru Ft.
+
+
+Čáry procházejí obě body I', II', III', (6'), (7'), (r"") protnou tudíž ještě třech bodech, jež, vzhledem vzniku čar, jsou patrně body samodružné (x'} (.v""); procházejí totiž každým nich dva různé paprsky svazků vrcholech (4)' (5'), tedy dvě různé kuželosečky oněch dvou svazků kuželoseček; přísluší totiž společný paprsek (4') (5') obou svazků transformací dvěma různým paprskům svazků (4) (5), totiž paprskům (4) (s) (5) (s).
+
+
+Transformace ^S'""1 přiřadbje bodu (.r') (x""} bod x', transformace T~l aneb U""'1 témuž bodu (.v') bod (V), tomu transformace S~'í bod .r; body řeší problém.
+
+
+Tím nalézáme celkem tři řešení problému homografie, nichž alespoň jedno reálné.
+
+
+Osm bodů čáry přímo známe, body I', II', III', (6') (7'), (;-""), (4'), (4""); sestrojíme-li paprsek svazku (4') projektivně příslušný kuželosečce vedené body základnými (6'), (7'), (r""\ (4"") bodem (4'), máme tečnu čáry /"""" bodě (4'), obdobě pro ri. Tím řešení provedeno stanovení tří neznámých společných bodů dvou kubických čar, jich šest společných bodů jest známo, mimo tři body každé čáry; hledané body plynou známou cestou jakožto průsečíky dvou kuželoseček, jichž jeden společný bod jest dán.*)
+
+
+Přihlédněme nyní případu, předchozí úvahy vyloučenému, kdy bod nalézá kužel osečce A"",/, příslušné první I«>1 line kuželosečce A'„, již jsme vedli pěti body
+
+
+has les, Notě sur les courbes troisieme ordre concernant les points intersection ces courbes entre elles par děs lihneš ďun ordre inťérieur. Comptes XLI, 1190.
+
+
+XXIV. předpokládejme nejprve, bodu touto kollineací nepřísluší bod 5', tak druhá kollineace čáře A'„ přiřaďuje kuželosečku L,' různou K„. Čára ovšem prochází body l', 2', 3', 5', jsou průsečíky čar L„.
+
+
+Kvadratická transformace jest nyní speciálného rázu. Projektivně vztahy (a) (0) potrvají, ale («) přiřaďuje paprsku (4) (5) paprsek (4') (5'), vztah (/J) však nyní paprsek svazku (5') různý (4') (5').
+
+
+Skutečně .S""""1 přiřaďuje přímce (4) (5) kuželosečku A',,, této první resp. druhá kollineace čáru A""/ resp. Lrf tyto čáry nutno applikovati transformaci Sř, abychom obdrželi paprsky svazku (4') resp. (5') příslušné paprsku (4) (5) projektivností (a) resp. (/?). Transformace však přiřaďuje čáře přímku (4') (5'), čáře L,,' ovšem jinou přímku (Z,,/) bodem (5') procházející. Případ tento lze tedy pokládati limitní případ, který vzniká tím, hlavní bod (/') přímce (L,'} jest nekonečně blízký hlavnímu bodu (5').
+
+
+Transformace tudíž přiřaďuje přímkám první roviny síť kuželoseček, procházejících hlavními body (4'), (""5') dotýkajících bodě (5') pevné přímky (Z./).
+
+
+Libovolné přímce roviny první přiřaďuje opět kuželosečku (/') procházející body II, III, této bikvadratickou čáru (/y) body I', II', III' procházející dvojném bodu (4'), bodu úvratu (5') tečnou (L0r), takového rázu, veškeré čtyři průsečíky přímky (Z,/) touto čarou spadají bodu (5'). Této bikvadratické čáře přiřaduje S'~^ mimo hlavní přímky 2', 3', ještě čáru pátého stupně dvojných bodech l', 2', 3', bodu úvratu 5', němž tečna splývá tečnou kuželosečky Z,/, jenž jest takového rázu, něm sjednocují čtyři průsečíky čáry touto kuželosečkou.
+
+
+Transformace Cremonova přiřaďuje tedy našem případě libovolné přímce čáru pátého stupně čtyřech pevných dvojných bodech l', '-', 3', pevném bodě úvratu vytknutého rázu; bod tento absorbuje osm průsečíků dvou čar zastupuje šest bodů příčině stanovení čáry pátého stupně P'.
+
+
+Předchozí řešení problému homografie zůstává nyní platnosti, tenkráte, kdy také kvadratická transformace nabývá rázu zvláštního, kdy bod nalézá kuželosečce, kterou třetí kollineace přiřaďuje kuželosečce vedené body ani/ však body touto kollineací příslušely. případe tom vzniká čára svazkem paprskovým vrcholu (4') ním projektiv-ným svazkem kuželoseček procházejících třemi body (6'), (7'), (4"") dotýkajících bodě (7') pevné přímky, hlavní přímky transformaci obdobné přímce transformaci
+
+
+Vezměme úvahu další případ, kdy body jsou sdruženy kollineací první, kdy tato kollinoace stotožňuje kol-
+
+
+XXIV. ﻿lineací druhou, kdy ale body nejsou sdruženy kollineací
+
+
+Vztah 2,"" patrně stotožňuje kollineací první, to, každému bodu kuželosečky přísluší každý bod kuželosečky Kót také vztah 7*jest nyní téměř kollineací, poněvadž přímce (4) (5) projektivnost (a) (ft) při-řaďuje přímku (4') (5'j. Skutečně přiřaďuje přímce (4) (5) transformace &""1 kuželosečku body procházející, této jak první tak druhá kollineace kuželosečku K,', body l', 2', 3', 4', vedenou, již pak při-řaďuje přímku (4') (5'). Ovšem přísluší vztahem každému bodu přímky (4) (5) každý bod přímky (4')(5'); bodům II, III tímto vztahem nyní přiřaděny body I', II', III', jest patrné.
+
+
+Vztah jest kvadratický, případě speciálný, totiž pouze dvěma hlavními body, tenkráte, kdy zapadá kuželosečku příslušnou třetí kollineací kuželosečce vedené body opět přiřaďuje hodům II, III resp. body I', II', III'.
+
+
+Přímce (4) (5) přiřaďuje kuželosečku procházející pěti body (6'), 17'), (r""), (4""), (5"") vztah přímku (4') (5') dva průsečné body těchto Car jsou patrně body samodružné (.v') („r"") vedou řešení problému bomografie.
+
+
+Vyvodí-li totiž S'^1 bodu (jr') bod .v', U~l téhož bodu bod (V) ovšem (4) (5) položený, tohoto pak S~* bod čáry K0í jsou .v, těšením problému.
+
+
+Třetí řešení nalezneme takto:
+
+
+Budiž (P) paprsek vytvořující svazek vrcholu (6); pak přímka (/•"") vytvoří kollinearný svazek vrcholu (60), příslušném kollineací bodu (6) přímka (/""') taktéž projektivný svazek vrcholu (6') tyto dva svazky vytvoří kuželosečku procházející body I', II', III', jakož patrno, přihlédne-li třem paprskům (P) procházejícím resp. body II, III.
+
+
+Jest-li obdobně (ty paprsek vytvořující svazek vrcholu (7), vzniká druhá kuželosečka, opět body I', II', III' procházející.
+
+
+Čtvrtý průsečný bod obou kuželoseček jest patrně samodružným bodem (.v') (.%•"") podává způsobem již vytknutým třetí řešení.
+
+
+Zároveň patrno, případě, kdy první dané skupiny sedmibodové možno vytknouti skupinu pěti bodů, nimž body korrespondující skupiny druhé jsou kollineárné, problém homografie rozkládá den problém kvadratický jeden
+
+
+Vezměme konečně úvahy případ, kdy kollineace první stotožňuje druhou, třetí čtvrtou, kdy máme dvě kollineace:
+
+
+první koll. l', 2', 3', 4', 5', druhou koll. l', 2', 3', 6', 7',
+
+
+XXIV. nichž výslovně předpokládáme, nestotožňují; kdyby totiž byly totožný, byly každé dva body .r, jimi sdružené řešením problému.
+
+
+uvažovaném případě jest vztahem kollinearným to, při-řaďuje každému bodu přímky (4) (5) každý bod přímky (4'j(5'); obdobně, jest kollineací to, každému bodu přímky (6) (7) přiřaďujc každý bod přímky ~(&)'(Ť).
+
+
+Vztah nechť bodům (6), (7) přiřaďuje body (6„), (7„), vztah bodům (4), (5) body (4""), (5"").
+
+
+Přímka (4') (5') protne přímku (6') (7') samodružném bodě (.v')""~ (.v"") jenž totiž přísluší oběma vztahy průsečíku přímek (4) (5) (6) (7) bod (.r') vede vytknutým již způsobem řešení .r, x''.
+
+
+Přímka (4') (5') protne přímku (4"") (5""j samodružném bodě (/') (y""\ jenž vede druhému řešení; konečně přímka (6') (7') protne přímku í60)(70) samodružném bodě (.o-') —(5""), vedoucím řešení třetímu.
+
+
+jiný samodružný bod přímkách (4') (5') aneb (6'j (7') neexistuje, jest patrné; každý jiný samodružný bod (*•') (*•"") byl samodružným kollincarných soustavách (.v') koll. (V), takovými body jsou jen body I', II', III', nepodávající však řešení problému homografie.
+
+
+Uvážíme-li, .$""~° přiřaďuje přímce (4') (5') kuželosečku body l', 2', 3', 4', přímce (6') (7') kuželosečku body l', 2', 3', 6', vedenou, vidíme, řešení jest čtvrtým průsečíkem těchto kuželoseček.
+
+
+Táž transformace 5'""""1 přiřaďuje přímce (4"") (5"") kuželosečku AV, j^ž přísluší druhou kollineací kuželosečce vedené body jest tedy řešení čtvrtý průsečík kuželosečky A'/' kuželosečkou K,' body l', 2', 3', 4', vedenou.
+
+
+Konečně přiřaďuje přímce (6')(7') kuželosečku//' vedenou body l"", 2', 3', 6', přímce (60) (J0) kuželosečku H0' jenž přísluší první kollineací kuželosečce//« body vedené; jest tedy řešení .o1' čtvrtý průsečík čar //' H„.
+
+
+Zároveň vidíme, případě tomto článku uvažovaném problém homografie rozkládá tři problémy lineárně.
+
+
+XXIV."

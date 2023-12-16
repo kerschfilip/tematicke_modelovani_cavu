@@ -1,0 +1,134 @@
+"","x"
+"1"," ﻿ROČNÍK XIII.
+TŘÍDA  II.
+ČÍSLO 5.
+Příspěvek k algebraické části problému pro určení dráhy planety ze tří pozorování.
+Podává
+G.   G ruš s.
+(Předloženo   dne   15.   ledna 1904.)
+Část algebraická problému dala podnět ke vzniku různých method, jež čelily hlavně k zjednání větší konvergence hypothes. Následující příspěvek podává rychlý a snadný způsob pro výpočet kurtované distance planety pro pozorování prostřední a osvědčil se výborně na celé řadě případů. —
+Prof. Edmund Weiss, ředitel c. k. hvězdárny ve Vídni, zkoumal v pojednání: »Uber die Bestimmung der Bahn eines Himmelskórpers aus drei Beobachtungen.« Vídeň 1893, přesnost approximací, které poskytují známé methody k výpočtu drah od Gaussa a od Th. voň Op-polzera a theorém Gibbsův.
+Gauss zanedbával   v poměrech trojúhelníků      !     a   — — již veličiny
+2                   2
+druhého řádu, takže, je-li pohyb země v mezidobě malý, jsou základní rovnice Gaussovy přesný až na veličiny řádu druhého. Th. vonOp-polzer bral ohled ještě zúplna na členy ') závislé na třetí mocnině času. Gibbs přihlížel při své methodě výpočtu dráhy v poměrech trojúhelníků ještě k členům čtvrtého řádu. E. Weiss odvodil v uvedeném pojednání nejúplnější hodnoty pro poměry ploch trojúhelníkových dle stoupajících mocnin času.
+Znamenají li //,, //3 a ;?3 dvojnásobné plochy trojúhelníků mezi dru-hýmatřetím; prvním a t ř e t í m ; a mezi prvním a druhým místem planety a označí-li se příslušné mezidoby krát Gaussovou konstantou /•:
+k í/3
+/)=:
+k (/3
+= T2, k (ř2 — /,
+[r2 = r3 -f T,].
+*) Th. v. Oppolzer, Lehrbuch der Bahnbestimmung der Kometen und Planeten. Band. II. Auflage p . 99 et scq.
+K o* pravý:  Roč. X11I.  'J'ř.   II. Č. r>.
+V. ﻿a píšeli se dále  k vůli  zkrácení:
+l    dr9 _            l Vd*r9
+r 4    fir                  r
+'   O           ď Ir                                  / (
+4  /
+_ ___ (
+;-,  V
+-
+dr
+kdež r2 jest průvodičem v elliptické dráze pro druhou dobu pozorování, jsou Weissovy vzorce (viz pag. 9. citovaného pojednání):
+nL       T^_ f         _rsj>i *    ""~ r.   I              6r,
+'2         fc2
+-f
+360r26
+40
+
+6r9
+360 r2 R
+40
+Zavedřne příslušné poměry do základní rovnice pro výpočet kurto-vané distance (>2  planety v druhé době pozorování, totiž do rovnice:
+kdež značí:
+cos/32
+R% sin (L2 — K)          _ Á\ sin (L^ — K)
+C -                                                                  ,            6>  -                                                    —
+a                                      a
+sn
+.
+íř        i
+/LJ, ^2, R% jsou  rádie vektory země pro první /j, druhou /2  a třetí /<,
+dobu pozorování;
+/vj, Z2, /,3 jsou délky země pro udané doby pozorování; ^n ^21 ^3  zna^í délky planetoidy pro tytéž doby; /*i> /^2> /^3  značí šířky planetoidy pro tytéž doby. (ÍQ jest určeno z relace :
+tg/i0 =: sin (A, - A-)tgy,
+kdež K jest výstupným uzlem,   J- pak sklonem největšího   kruhu proloženého geocentrickým místem prvním a třetím.
+V. ﻿K určení K a J slouží relace:
+sin (Aj — K) tg J ~
+sin (A, — A') tg 7 -
+Poněvadž   pro  vzorec I)   neznáme r2,   supponujme   v rovnici A) pro ,    řadu hodnot:  l, 1'1,  1*2,  1/3 . . . . ; pro tyto supponované hodnoty vypočteme si z relace:
+----~—    . — R9 cosď, -l- v/V2— ^92sin2ř)9.  [cos í)9 zz cos rf2 cos (Ag — L2)1
+cos/^2
+příslušné hodnoty pro r2, jež zavedeny do vzorců I), dají příslušné poměry trojúhelníků. Za příčinou malých heliocentrických oblouků lze v prvném přiblížení i % i */' zanedbati.
+Výpočet hodnot r2 příslušných supponovaným hodnotám pro
+cos
+získáme snadno, položíme-li :
+R% sin
+Pro každou hypothésu o
+2
+cos
+cos /J2 č., cos ď0 ~
+. . .      1). máme totiž :
+. . .  . 2)
+avšak Označíme-li tedy:
+;tr„ =:
+• 3),
+dostaneme po vypočtení úhlu  s2 z rovnice 3) dále
+r   —         ""               4)
+/ y    -----        .                  .      .      .         i  /
+sin ^r2 Ze vzorce A) můžeme pro supponované hodnoty po
+_
+cos/32
+a pro
+těmto příslušné hodnoty   pro — vypočtené   dle   druhého   vzorce   sou-
+L
+stavy I (krátce označeno L) odvoditi si hodnoty pro — -1 , jež však  vypo-
+«2 čísti lze také z prvé rovnice soustavy I (krátce označeno Ia). Ze srovnání obou
+//                                                                                                      O
+řad pro        odvodíme si snadno exaktní hodnotu pro    -""=-. «2                                                                                cos/i,
+V. ﻿Postupovati   lze  však   také   cestou   následující:   Ze   vzorce A) vypočte se pro řadu supponovaných hodnot pro       2^   a pro řadu těmto
+cos.
+hodnotám  příslušných  veličin pro     *,   které se   dostaly   dle Ij),   řada
+ii>2
+Ťt
+veličin pro     3, podobnou   řadu zjednáme si   také pomocí   druhých rovnic «2
+soustavy I (I2). Ze srovnání analogických obou přibližně stejných hodnot
+pro    3   zjedná se snadno exaktní hodnota pro        2 ,   . «2                                                                           cosp2
+Ačkoliv obojí postup jest snadný a rychlý, ukazuje nám třetí rovnice soustavy I   —  (Í3)   —  cestu,   kterou   lze   zjednodušiti   celý   výpočet.    Dle
+rovnice té lze poměr trojúhelníků    *   při přibližně   stejných   mezidobách
+na
+(rj ==r3) vyjádřiti nejjistěji  hodnotou     ' .
+T3
+Rovnici A] pišme*) takto :
+cos a zaveďme:
+= c
+«t.^ A =<_*
+Wj    «2     /              ;/2
+.
+
+Máme pak:
+cos/i2
+Pro supponované hodnoty pro----""a    ~ l,  1'1,   l'2,  1'3 .  .  .   vypo-
+cos ^2
+U-.
+čtěme z A ) příslušné hodnoty pro —i- z rovnice
+s*      ___                _ .*_____
+«j    _                COS /12
++ .""i
+Jinak máme také z první rovnice soustavy I  —  (Ij) — :
+^=-^[1+3lflV5):'+-••]•••«•
+kdež každé r2 příslušné k hypothese o         ^    si snadno vypočteme z dříve udané relace.
+*) Dle prof. W. Lásky.
+cos
+V. ﻿De Gasparis podal v AsírononnscJie Nachrichten sv. 42. p. 205 až 206   rovnici,   která spojená se   vzorcem A) dává hodnoty pro —- a —
+pro každou hypothésu  o      *-—.   Volíme-li pro
+cos/*3
+jest přibližně také
+hodnotu, pro kterou
+6/23 —
+dostaneme   snadno   pravou   hodnotu pro
+Jakmile jest
+cos/l,
+známo,   určují obě   známé rovnice*  které obsa-
+cos /iž
+hují   (>!   a y.,,   pak yž   a y,   s  hodnotami  ;/3,   «2,   ;/1,   kurtované   distance (j    a      .
+VI. ﻿*"

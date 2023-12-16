@@ -1,0 +1,359 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 43.
+
+
+Nové tvary staticky určitých spojitých nosníků
+
+
+příhradových.
+
+
+Napsal
+
+
+Dr. techn.
+
+
+(Se dvěma tabulkami.)
+
+
+(Předloženo dne 20. října 1906.)
+
+
+Spojitý nosník třech polích kloubovými čtyrúhelníky vnitřních podporách vnějšími podporami pevnými.
+
+
+Spojitý nosník trámový jedné podpoře pevné jest staticky určitým, má-li kloubové čtyrúhelníky všech vnitřních podporách. Nosník dvěma podporami pevnými jednu neznámou složku reakce více, potřebuje tedy jeden střední kloub kterémkoli poli, aby byl také staticky určitým. Vyšetřování takového nosníku (obr. 1.0) provede tím způsobem, určí paprsky, nichž působí síly kloubech při obtížení právo levo kloubu základě výminek rovnováhy, jež poskytují soustavy nosník tvořící vnitřní podpory jako styčné body.
+
+
+Je-li kloub poli středním, pak působí soustavu (bz #3) neznámé síly kloubech ^2, osová síla podporového prutu Lé, což celkem pět neznámých složek; jelikož výminky rovnováhy jsou pouze tři, nelze při neobtížené soustavě (L2 #3) určiti nich paprsky sil kloubech. Posouvatelnou podporou #2, jež jest zároveň styčným bodem, přibývají dvě neznámé A2, dvě výminky rovnováhy; jest tedy neznámých stále dvě více než výminek. Soustavou (c2 #2) přibudou konečně dvě neznámé (složky síly kloubu c2) tři výminky rovnováhy; pak jest pouze jednu neznámou více než výminek. tedy možno, není-li uvažovaných soustavách obtížení, stanoviti paprsky všech sil, načež jediná scházející výminka, př. velikost jedné síly, dává také velikost všech sil.
+
+
+Viz pojednání autorovo: »Staticky určité spojité nosníky příhradové* (Rozpravy České Akademie, Tř. II, XIV., 27.), jež obsahuje veškeré potřebné věty konstrukce.
+
+
+Rozpravy: Roč. XV. Tř. II. 43.
+
+
+XLTTI. ﻿Budiž soustava (La a3) neobtížena neznámý paprsek reakce bode zvolen zatím libovolně přímce pak plyne rovnováhy reakce opeře 03, osové síly podporového prutu síly kloubu t>2 paprsek této přímce spojující bod průsečíkem paprsků obou ostatních sil LU, Dále jsou rovnováze síly A2t L3} čehož plyne, paprsek výslednice (Q, Z,3), jdoucí průsečíkem obou sil prochází zároveň průsečíkem paprsků A2. Mění-li směr zůstávají vrcholy trojúhelníka mnq, jejž tvoří paprsky pevných přímkách L3, L±, A2, jdoucích jediným bodem dvě strany procházejí stále pevnými body a3, l>2; proto také třetí strana jde pevným bodem #3, který body a3, leží jediné přímce. Bod možno nazvati pravým základním bodem soustavy (c2 b2}. Při neobtížené soustavě (^2^3) prochází tedy paprsek výslednice sil B2, základním bodem us. Je-li také soustava (c2 b2] neobtížena, síla kloubu rovnováze výslednicí (B2, L3), jdoucí bodem u3; obě síly působí pak téže přímce C2ř c2u3, čehož bylo snadno stanoviti paprsek síly reakce bodě a3. obtížení pouze prvém poli jsou rovnováze síly C2', L2f Bv', působící soustavu (bí c^), pročež j5/prochází průsečíkem obou ostatních. Konečně plyne rovnováhy sil A\, LÍ} C2, paprsek výslednice (B^, L^) prochází průsečíkem paprsků L72', tedy dán přímkou #/.
+
+
+Podobně lze postupovati levé strany. neobtížené soustavy (#0 Lx) prochází paprsek výslednice (Bl, L2) levým základním bodem soustavy (bl ť2); bod leží přímce určí použitím výslednice (Lt, L2), která odpovídá libovolně zvolené reakci a0. Tak př. svislou reakcí (při //=0) jsou rovnováze Lt, L1=a0'ói1 načež paprsek výslednice (B^, L2) spojuje průsečík obou sil Í2' průsečíkem AQ, AÍ} tedy svislý. Je-li pouze třetí pole obtíženo, spojuje síla C2"" body L2, /2, síla kloubu t>2 prochází pak průsečíkem sil C2"", výslednice (L2, L4), jdoucí průsečíkem obou sil /4, prochází zároveň průsečíkem sil A2, C2"", působí tedy paprsku ^/4. Nejsou-li soustavy (a0 ^t), (b± c2) obtíženy, působí síla kloubu paprsku C2""; pak paprsek síly kloubu spojuje tento bod průsečíkem paprsků L2, C2"" paprsek reakce (A0, bod průsečíkem paprsků
+
+
+Nejsou-li vnější pole obtížena, působí část nosníku středním.
+
+
+poli strany síly jejichž výslednice prochází základ-
+
+
+pravé J32,
+
+
+ním bodem Jeví tedy část nosníku středním poli
+
+
+
+
+
+při obtížení pouze tomto poli jako oblouk třech kloubech /2, L2, #3. Je-li pouze prvé pole obtíženo, působí soustavu (a0 L,) pravé strany síly Bl, Llt jejichž výslednicí jest Ul> levé strany reakce podpory #0; odpovídá tedy soustava (a0 b^} nosníku
+
+
+XUIl ﻿trámovému šikmým podepřením bodě kolmo č/j). Obdobně soustava (Ó2 a3) při obtížení pouze poli třetím jako nosník trámový, podepřený bodě pevně, pak kolmo J4.
+
+
+Reakce osové síly prutu podporových: Příčinkové čáry reakcí osových sil prutů podporových stanoví úplně pořadnice kloubech L,, c*, b^, jež určí jako příslušné síly obtížení břemenem /*= oněch bodech. Při břemeni P=. bodě (obr. 1.6), pokládaném obtížení soustavy (bl L2), prochází paprsek výslednice (Z?1(Z,2) bodem zároveň, jak toho žádá rovnováha sil, působících onu soustavu, průsečíkem paprsku břemene síly C2. Pak jest paprskem Z?/' síly kloubu spojnice průsečíkem L2, f2. Počítá-li břímě obtížení pole prvého, působí kloubu síla Z?/. Dává tedy Z?/' účinek soustavy (#0 Lj), Z?/ účinek soustavy (bv L2). Břímě rovnováze silami B^', Z?/'; dále jest Z?/ výslednicí (Z,,'. C,'), Z?/' pak výslednicí sil (AJ, H'} Lvf, takže (AJ, Z/') prochází průsečíkem paprsků Llt Z?/'. Reakce rovnováze silami L2'.
+
+
+Působí-li břímě P~l bodě (obr. c), podobně rovnováze silami C2""; síla C2"" výslednicí L2"" síly působící paprsku vz, Z?t pak výslednicí Z,/' (AQ"", H"") paprsku Stejně určí síly Cz' veškeré síly právo (téhož postupu užíti lze pro tyto síly při obtížení bodě ^).
+
+
+Neutrálně polohy příčinkových čar možno pro kontrolu odvoditi také přímo.
+
+
+Reakce (obr. \.d) při obtížení prvého pole rovnováze obtížením silami Llt B^, nichž obě poslední mají výslednici Ul. Průsečík sil //, í/j tedy neutrálnou polohou pro reakci oboru soustavy (a^b^)', příčinková pořadnice bodě pak Neutrálnou polohu oboru soustavy c2~) možno určiti jako polohu břemene, které vede výminka Pak zbývá pouze vodorovná síla jež při neobtížené soustavě (a0 bt) rovnováze silami Z,,, B^, takže paprsek příslušné síly prochází průsečíkem paprsků rovnováhy sil AI} L2, plyne pak, paprsek výslednice (Blt Z,2), který při neobtížené soustavě (a0 b^) prochází základním bodem /2, spojuje průsečík z'j paprsků Z^, průsečíkem aí"" paprsků Al. Výslednice (J5l, L2) při obtížení soustavy (bl cs) rovnováze obtížením silou C2', stanoví tedy její průsečík C2' neutrálnou polohu. oboru soustavy (c2 <5>2) jest neutrálnou polohou základní bod us, který současně neutrálnou polohou pro všechny síly, působící předcházející soustavy levé, což plyne přímo toho, při obtížení poli druhém jeví část nosníku tomto poli jako oblouk třech kloubech us- Pa^ také základní bod neutrálnou polohou pro všechny síly, jež působí následující soustavy pravé.
+
+
+Příčinkové čáry sil L{, L2, (obr. \.e] jsou úplně podobny, poněvadž tyto tři síly jsou každého obtížení rovnováze. oboru vnějších
+
+
+XLIII. ﻿soustav jsou neutrálnými polohami vnější opery, oboru soustavy (c2 b^) základní bod «8. Neutrálnou polohu příčinkové přímky, platné oboru soustavy (b^ c2\ určiti lze opět jako polohu břemene, které vyžaduje výminka Pak také načež působí soustavu (a0 pouze síly A0, prochází tedy příslušná síla bodem rovnováze obtížením soustavy (bl c2] silou C2ř. Neutrálnou polohou proto průsečík spojnice paprskem C2'.
+
+
+Vodorovná síla (obr. l./) při obtížení druhém poli vodorovnou silou oblouku kterým možno nosník tomto poli nahraditi; plyne totiž rovnováhy sil A0, Bí, L2, při neobtížené soustavě (ao &i) přímo, rovná vodorovné složce výslednice (Llt L2), která levou reakcí zmíněného oblouku. Jsou tedy základní body f2, neutrálnými polohami síly oboru soustav (b^ c2\ (c2 b2). týmž bodům jako polohám neutrálným dospěti lze předpokladu //~0. Pak působí bodě pouze svislá reakce A0, při neobtížené soustavě (a0 b^) paprsek výslednice sil (B^ Z,2), jdoucí bodem /2, svislý. Tato svislá výslednice býti rovnováze břemenem silou Caf, což možno pouze, působí-li břímě bodě (tu ovšem C2' &}•
+
+
+Osové síly prutů soustavách: Při prutech vnějším poli postupuje obtížení tohoto pole jako při trámovém nosníku šikmo podepřeném, tak, vnitřní reakce poli jest Pak určí
+
+
+třetím
+
+
+neutrálná poloha témž poli výminky, paprsek reakce příslušné vnější opeře procházeti přidruženým středem momentovým. příčky (obr. 1.^-) určuje tedy paprsek reakce opeře a3, spojující body #3, neutrálnou polohu e^, neboť odpovídá sečnici při oblouku. Také neutrálná poloha oboru soustavy předchozí (c2 b2] plyne téže polohy paprsku reakce a3; při neobtížené soustavě (b2 az) prochází paprsek výslednice (.Z?2, Z,3) bodem mimo průsečíkem a2"" paprsků reakcí (ve přímce A2, určuje tedy neutrálnou polohu^"" sečnici C2"" spojnice ať'u3. oboru soustavy^ cz) neutrálnou polohou ovšem základní bod t2. Příčinková čára oboru soustavy, které prut náleží, určí jako při nosníku prostě podepřen neutrálných polohách (pro přímku právo- levostrannou), což dokázati lze jako při oblouku třech kloubech.*) Při prutu jsou neutrálnými polohami a3, e^, plyne čára příčinková př. pořadnice L\', která určí jako osová síla, vyvozená pouze reakcí Další postup jako prostého nosníku. oboru každé soustavy, které prut nenáleží, příčinkovou čarou jediná přímka.
+
+
+Stejně postupuje při pase (obr. l./z); neutrálnou polohu poli třetím určuje spojnice přidruženým středem momentovým hm, neutrálnou polohu k"" pro přímku oboru soustavy (c2 b2) pak průsečík
+
+
+Viz citované pojednání, str. 7.,
+
+
+XLIII. ﻿spojnice 2*3 tf2'"" sečnicí Ca'f. Vyjde-li tato poloha mimo obor statické platnosti paprsku C2"" jako sečnice, mimo obor soustavy (c2 L2), význam pouze geometrický, čímž však sestrojení čáry příčinkové geometricky nemění.
+
+
+poli druhém postupuje obtížení tomto poli jako při oblouku třech kloubech u3, oboru vnějších soustav jsou pak neutrálnými polohami vnější opery. Tedy při prutu (obr. l.i) určuje neutrálnou polohu <?2 oboru soustavy (cz L2) sečnici C2"" spojnice bodu 2/3 přidruženým středem momentovým d2; pak oboru soustavy (c2 L2) určí příčinková čára jako pro nosník prostě podepřený neutrál-ných polohách u3, e>2.
+
+
+II. Spojité nosníky trámové třemi pasy.
+
+
+Spojitý nosník trámový polích, jedné podpoře pevné posou-vatelných budiž složen prutové soustavy obyčejné (se dvěma pasy) mimo třetího pasu, který prutovou soustavou zmíněnou spojen pouze koncích, jinak však podepřen neb zavěšen pouze svislými pruty. Počet neznámých reakcí obnáší: -[- -\- nim přistupuje jako neznámá osová síla třetího pasu. tedy celku u-\-3 neznámých. Obecné výminky rovnováhy jsou pouze tři, zbývá tedy neznámých, pročež vyžaduje statická určitost tolika kloubů, kolik polí.
+
+
+Nosník třetím pasem přimým.
+
+
+Je-li třetí pás vodorovný (obr. 2.a) podporován pruty svislými, možno třetí pás vyjmouti nahraditi osovou silou bodech #</, a3', předpokládá-li zároveň, obtížení působí přímo soustavy, nichž nosník složen. Působí-li obtížení pouze soustavu (a0 q), vyžaduje rovnováha soustavy (c3 «3), aby paprsky sil A3, fí, C3', které působí, procházely jediným bodem a3'. Podobně musí protínati jediném bodě
+
+
+{&o -il í^q •""*! ^""2 L«i /-.-v
+
+
+paprsky sil jez působí soustavu Stejné
+
+
+ířj L>2 -A\,
+
+
+odvodí při obtížení právo kloubu paprsky sil kloubech C/', C2"", C$"".
+
+
+Při obtížení poli prvém působí část nosníku tomto pól' levé strany síly//, /40, jdoucí bodem #„', pravé strany síly C2\ A^, jejichž výslednice jde bodem a/. tedy část nosníku prvém poli obtížení tohoto pole jako oblouk třech kloubech Je'li obtíženo pouze druhé pole, působí část nosníku tomto poli levé strany síly Cl"",Al, jejichž výslednice prochází bodem #/', pravé strany síly C3ř, A2, jdoucí bodem #2'. tedy obtížení druhém poli část nosníku tomto poli jako oblouk třech kloubech al/'c2a2ř.
+
+
+LIII. ﻿2. Reakce osová sila třetího pasu: Příčinkové čáry stanoví úplně pořadnice bodech největšího příčinku, jimiž jsou klouby clt c2, c3; pořadnice pak plynou jako síly, vyvozené břemenem příslušném kloubu působícím. obtížení kloubu (obr. 2.L) působí levo výslednice sil (AQ> H'} paprsku C^', právo výslednice (C2', A^} paprsku C/; obě výslednice jmenované jsou břemenem rovnováze, C2' pak výslednicí (C3'} As') (^'výslednicí (A3', H'}. Podobně břímě kloubu působící (obr. 2.c) rovnováze silami C2""', C2', nichž prvá výslednicí sil A^\ GI"", tato pak výslednicí sil AQ"", H""\ obdobné platí síle C2'. Při souměrném nosníku není třeba řešiti obtížení kloubu c3; příslušné síly plynou sil, vyvozených obtížením kloubu clt záměnou pravé levé strany nosníku.
+
+
+Reakce při obtížení soustavy (a0 c^) rovnováze obtížením silami Č7,'; průsečík těchto dává tedy neutrálnou polohu pro pří-činkovou přímku (obr. 2.d] oboru soustavy (a0 cl), jež pořadnici oboru ostatních soustav jsou neutrálnýrni polohami body podporové.
+
+
+Příčinková čára reakce (obr. 2.e) bodě pořadnici kloubech pořadnice A/, A^', A^'"" již stanovené. Mimo lze určiti neutrálnou polohu příčinkové přímky oboru soustavy (cl c2) jako průsečík paprsků C^"", C.2f, neboť při obtížení soustavy (C1c2) jest rovnováze obtížením silami C^"", C2'. Je-li obtížena soustava (a0 c^, reakce rovnováze obtížením, silou C.2r výslednicí (A0, U), procházející bodem #„'; jestliže paprsek této výslednice při určité poloze břemene vyjde rovnoběžný C^', pak tedy příčinková přímka oboru soustavy (a0 ct) pořadnici bodě s1, stanoveném seč-nici přímkou aQf C2'.
+
+
+Příčinková čára osové síly třetího pasu (obr 2/) stanovena jest úplně pořadnicemi bodech clt c2, c3; mimo jsou všechny podpory neutrálnými polohami, což může býti kontrolou řešení.
+
+
+Osové síly prutu soustavách: Příčinkové čáry osových sil prutů soustavách určiti lze základě oblouku třech kloubech, jímž možno příslušné pole nosníku nahraditi. Tak př. příčinková čára osové síly prutu soustavě (cs <?3) (obr. 2.g) určí jako při oblouku třech kloubech a2""c3a3'; neutrálnou polohu stanoví tedy sečnici (^""spojnice bodu a3' přidruženým středem momentovým načež plyne příčinková čára oboru soustavy (c3 jakoby šlo nosník trámový, podepřený prostě bodech a3'. Podobně určí příčinková čára osové síly prutu (obr. 2.//) soustavy (c2 c3) poli třetím; neutrálnou polohu určuje sečnici C3' spojnice bodu a2"" přidruženým středem momentovým příčinková čára oboru soustavy (c2 c3] pak totožná čarou nosníku prostě podepřeného bodech a2"", oboru soustav, nimž prut nenáleží, neutrálnou polohou vždy podpora.
+
+
+XL1II.
+
+
+﻿Konečně při prutu poli druhém (obr. 2.Í) stanoví příčinková čára jako při oblouku a{"" neutrálnou polohu dává sečnici C2"" spojnice bodu #2' přidruženým středem momentovým příčinková čára oboru soustavy (c2 c3) plyne jako pro nosník prostě podepřený bodech a2. Kontrolou zde jako při trámovém nosníku pořadnice svislici jejíž velikost obnáší Pii.
+
+
+Nosník třetím pasem zakřiveným.
+
+
+Osové síly prutech třetího pasu zakřiveného mají případě, tento pás spojen pouze svislými pruty ostatním nosníkem, stálou složku vodorovnou této složky stanoví osové síly všech prutů třetího pasu závěsných svislic základě toho, třetí pás každého obtížení výslednicovou čarou silám závěsných svislicich, což plyne rovnováhy každém styčném bodě třetího pasu; osové síly závěsných svislic jsou břemeny, osové síly třetího pasu pólovými paprsky vodorovná síla //stálou pólovou vzdáleností. Statická určitost nosníku vyžaduje opět tolika kloubů, kolik polí, řešení různí pak dle vzájemné polohy těchto kloubů.
+
+
+Nosník klouby přímce.
+
+
+Klouby clt c2, při nosníku třech polích budtež položeny vodorovné, tedy př. vodorovném horním pase soustav prutových (obr. 3.a), jež tvoří nosník. libovolného obtížení svislého působí kloubech síly, jejichž vodorovná složka rovna protivná vodorovné síle třetího pasu (je-li tedy třetí pás tažen, jsou kloubech tlaky naopak).
+
+
+Je-li obtížena pouze soustava (a0 c^, působí soustavu (c3 as) reakce A3> síla kloubu c3, kterou možno rozložiti svislou složku vodorovnou osová síla třetího pasu K\\\ nad kloubem c3. Paprsek výslednice (A3, //) prochází bodem azř, (C3, KU\) pak bodem c3f; obě částečné výslednice, jež jsou rovnováze, působí tedy paprsku C3' soustavu (c2 c3) působí pak síly: C3f, A2, osová síla třetího pasu K\\ nad kloubem c2> svislá složka síly kloubu vodorovné složky sil kloubech c2, cz, jež však ruší, jsouce velikostí rovny smyslem protivný. Zbývající síly C3'f A2, KU, jsou tedy rovnováze, čehož plyne, paprsek C2' výslednice (Cs, Ku), procházející bodem c2', protíná paprsky sil C3', jediném bodě a2'. Podobně ruší vodorovné složky sil, jimiž soustavu (cl c2) působí kloubech obě soustavy sousední, jsou pak rovnováze síly: C2', Al, Cl} K\, což žádá, aby paprsek výslednice (Cít K\) procházel průsečíkem paprsků C3'} Aí; působí tedy ona výslednice paprsku ČT,' L/#/.
+
+
+Při obtížení soustavy (cs #3) určí stejně, výslednice svislých složek sil kloubech osových sil prutů třetího pasu nad klouby působí
+
+
+Lil ﻿(C paprscích C^"", C^"", Cs"". Pak obecně jest \r„] paprsek výslednice svislé
+
+
+složky síly kloubu osové síly prutu třetího pasu nad kloubem, pů-
+
+
+Icvo
+
+
+sobí-li obtížení pouze [od kloubu
+
+
+právo
+
+
+Při obtížení poli prvém působí část nosníku tomto poli pravé strany síly C^', A1} jdoucí bodem «/, vodorovná síla kloubu L2, levé strany pak reakce A^t která zmíněnou vodorovnou silou dává výslednici bodě a0'. Počítají-li osové síly prutů třetího pasu závěsných svislic zevnitřním silám jednotlivých soustav nimž náleží obtížení reakce), pak jeví část nosníku poli prvém zevnitřních sil soustav při obtížení téhož pole jako oblouk třech kloubech a0'cl'al'; vodorovná síla tohoto oblouku působí soustavy kloubech jež liší kloubů onoho oblouku, čemž podstatný rozdíl proti dosavadním případům.
+
+
+levé
+
+
+Při obtížení poli druhém působí toto pole strany síly
+
+
+pravé
+
+
+
+
+
+jejichž výslednice prochází bodem t\\ mimo pak
+
+
+
+
+
+obou stran vodorovné síly výši kloubů Jelikož při obtížení
+
+
+části pole prochází paprsek výslednice bodem r/,
+
+
+pravé-' (Cj -A\;
+
+
+nosník druhém poli při obtížení téhož pole zevnitřních sil soustav jako oblouk třech kloubech a^r a^\ vodorovná síla mimo působí opět soustavy kloubech
+
+
+Reakce vodorovná síla třetího pasu: Příčinkové pořadnice kloubech jež úplně stanoví příčinkové čáry, plynou jako síly, vyvozené břemenem kloubu působícím. Břímě působící kloubu (obr. 3.L), rovnováze silami Q"", C/; prvá výslednicí A^, H', druhá výslednicí A/, C2', tato dále výslednicí A2f, C3' poslední konečně výslednicí sil A3', H'. Podobně břímě kloubu působící (obr. 3.ť) rovnováze Csf, C2""; tato složky A^"", C^"", poslední pak složky AQ""', H"". Je-li nosník souměrný, postačí uvedené síly.
+
+
+Kontrolou řešení jsou neutrálně polohy; obecně každá podpora neutrálnou polohou pro všechny síly, vyjma svislou reakci téže podpoře, jež zde příčinkovou pořadnici P=\. Též další kontroly snadno odvodí.
+
+
+Příčinková přímka reakce (obr. 3.d) oboru soustavy (a0 Lt) neutrálnou polohu průsečík paprsku vodorovnou c2, neboť obtížení, působící pouze soustavu (a0 cJ, rovnováze A0> C\' bodě
+
+
+Podobně příčinková přímka reakce (obr. 3.^) oboru soustavy (ct L2) neutrálnou polohu průsečík paprsků L7,"", C2'. Příčinková
+
+
+XL1II. ﻿přímka oboru soustavy (a0 ct) pak pořadnici bodě /», který stanoví sečnici č7/ pro obor oné soustavy platné přímka #„'/1| C2', což plyne toho, při břemeni bodě vyjde paprsek výslednice (A0, //), která rovnováze břemenem, reakcí silou č?2', rovnoběžný C2'.
+
+
+Příčinkovou čáru vodorovné síly //(obr. 3/) stanoví úplně pořadnice kloubech vnější podpory jako neutrálné polohy; vnitřní podpory jsou rovněž neutrálnými polohami, což kontrolou.
+
+
+Obdobně určily základě pořadnic kloubech podpor jako poloh neutrálných také příčinkové čáry svislých složek sil kloubech, jejichž výslednice osovými silami prutů třetího pasu nad klouby
+
+
+jsou síly _.. při obtížení kloubu kloubu, jehož právo
+
+
+sílu jde, obdrží ovšem dvě pořadnice, jež liší hodnotu břemene P~l; jedna složkou síly (jako výslednice svislé síly příslušné osové síly třetího pasu) určujíc levou přímku příčinkovou, druhá složkou síly C"" stanoví pravou přímku příčinkovou.
+
+
+Dosud stanoveny byly veškeré příčinkové čáry předpokladu, všemi klouby procházejí svislé pruty, jdoucí třetímu pasu. Je-li kloub mezi dvěma takovými svislicemi závěsnými, možno postupovati zrovna tak jako byla svislice také kloubu, dodatečně pak pozmění příčinková čára oddílu kloubu dle věty, při obtížení nepřímém příčinkovou čarou každém oddílu jediná přímka.
+
+
+Osové síly prutu soustavách: Příčinková čára osové síly libovolného prutu stanovena jest úplně, je-li známa čára oboru soustavy, které prut náleží; neboť oboru každé jiné soustavy příčinkovou čarou jediná přímka, jejíž neutrálnou polohu dává bod podporový.
+
+
+Budiž vyšetřen obecný prut soustavy (a0 c±) (obr. 4.). stanovení příčinkové čáry oboru soustavy (<z0 L,) třeba znáti neutrálnou polohu přímky pravostranné. Při obtížení pravostranném jsou rovnováze síly: A0, S,„, D,n //„, K,t (obr. a}. Neutrálná poloha pro prut ona poloha břemene, při které paprsek výslednice (AQt Kn] jde přidruženým středem momentovým Paprsek (A0, K,,} prochází průsečíkem obou sil tf0""; druhý bod jeho při určité poloze břemene určí snadno, přidají-li vodorovné, vedené kloubem síly //"", jež nemění ničeho původním stavu rovnováhovém. Paprsek výslednice (A0, protíná paprskem břemene sečnici C/, jest tedy př. při břemeni //„ paprsek #<///„, dává silou průsečíku ?/,'výslednici patrně svislou, poněvadž ruší vodorovnou složku síly KH. Průsečík této poslední svislé výslednice sil II, silou dává druhý bod paprsku výslednice (J0, K„\ jenž procházeti středem momentovým má-li býti polohou neutrálnou. toho plyne konstrukce polohy neutrálné.
+
+
+XLIIi. ﻿10
+
+
+Dvojiny přímek ?^'«0', a0"", utínají patrně svislé přímce rovné úseky, tedy: n"" ríri"", což vede jinému snadnému sestrojen* přímky a0'n'""t která dává sečnici neutrálnou polohu //„. Příčinková čára osové síly (obr. plyne pak jako pro nosník prostě podepřený bodech <70, Jin,
+
+
+Pro prut S,„) věc jednodušší potud, síla prochází přidruženým středem momentovým d„, takže stačí stanovení neutrálně polohy, když paprsek svislé výslednice (A0, //, Ku] prochází přidruženým středem momentovým d„. Určuje tedy neutrálnou polohu sečnici 6,' spojnice bodu průsečíkem ď'„ pasu svislou, vedenou přidruženým středem momentovým dn. Příčinková čára osové síly (obr. určí zase jako pro nosník prostě podepřený #0, e„. Geometrická platnost tohoto způsobu sestrojení zcela obecná.
+
+
+Při prutech prvém poli právo kloubu postupuje obdobně: místo bodu a'0 nastupuje zde #',, místo přímky Cv' přímka C^'.
+
+
+poli druhém (obr. dospěti lze sestrojení neutrálné polohy pro osovou sílu prutu stanovením paprsku výslednice sil ČT/', /i/j, Ks, kloubu Lj) při břemeni př. poloze Výslednice (C""/', A^] spojuje bod a/' průsečíkem břemene sečnici Cař dává silou průsečíku výslednici svislou, jejíž průsečík silou jedním bodem výslednice celkové. Rovněž silou dává (6,"", At) průsečíku svislou výslednici, jež protíná sílu druhém bodě z"" hledané výslednice sil C.,"", Alt Ks,
+
+
+Dvojiny přímkové KS} k'i ki\ utínají patrně svislé přímce rovné úseky, tedy: b^""a^' b^'bl. Bod L/, němž protíná paprsek paprsek výslednice sil C*/', At, Ks, //, nezávisí proto poloze břemene. Neutrálná poloha vyžaduje, aby ona výslednice procházela přidruženým středem momentovým třeba spojiti SĎ/, určiti průsečík paprskem bod u2' svislé přímce bodu pase Ksy načež stanoví spojnice #2'tfj"" sečnici C2r neutrálnou polohu ks. Jelikož však b^' ~b""cii"", utínají opět dvojiny přímkové Ha. Ks, u.2f a^"" svislé přímce rovné úseky, takže přímku a^"" dává také jednoduše přenesení: ss"" s'sr"".
+
+
+Pro prut dle předešlého (po případě základě přímého odvození, jako prutu poli prvém) určuje neutrálnou polohu sečnici C2' spojnice «/' bodem d/, němž protíná prut svislá přímka, vedená přidruženým středem momentovým ds. Příčinkové čáry sil fjs, (obr. oboru soustavy (cl <r2) určí zase jako pro nosník prostě podepřený podpoře neutrálné poloze hS} případně es.
+
+
+Způsob jímž stanoveny byly neutrálné polohy pro pruty horního pasu soustav, dal užíti pro všechny pruty případě, klouby byly vodorovné, nikoli však horním pase.
+
+
+﻿11
+
+
+Nosník klouby různé výši.
+
+
+Jsou-li klouby různé výši (obr. a), pak vodorovné složky sil, jimiž určitou soustavu působí kloubech obě sousední soustavy, neruší, dávajíce dvojici silovou, potřebí vyšetřování pozměniti.
+
+
+předpokladu, jest obtížena pouze soustava (a0 ct), působí soustavu (c3 a3) rovnováhová soustava sil A3, síly kloubu c3, jež budiž rozložena složku svislou šikmou H\\ paprsku c2c3. Rovnováha žádá, aby výslednice (C3, Km) působila paprsku C3' cs'a3', kde asf průsečík paprsků sil A3, H\\. soustavu (c2 c^) působící síly kloubech rozloženy buďtež složky svislé C2, šikmé společném paprsku H\\\ mimo působí onu soustavu síly A2t Km, K\\. Vodorovná síla třetího pasu stálá, ruší tedy vodorovné složky sil Km, K\\; zbývají pak jen vodorovné složky sil H\\ kloubech c2, c3, čehož plyne, obě síly jsou samy rovnováze. Pak jako případě předešlém (obr. působí výslednice (C2, KU) paprsku C2', spojujícím bod c2' průsečíkem paprsků A2, C3'.
+
+
+Pro snadné stanovení paprsků výslednic při soustavě (cl c2) třeba rozložiti síly kloubech složky svislé šikmé paprsku ffuf^=c1c2-Tím mění také paprsky výslednic při soustavě (c2c3); jde hlavně výslednici (C2, ^n), rozložena-li síla kloubu svislou šikmou HU""'. Tato nová výslednice určí takto: Síla kloubu budiž rozložena svislou šikmou Hm, jež protíná H\\' reakci bodě b2. Tomuto rozkladu síly kloubu odpovídá výslednice (C3, Km) paprsku C3"", jenž spojuje bod c3f průsečíkem a3"" paprsků //m, ^3- soustavu (c2 c3) působí pak síly C3""', As, C2, Ku, //u""; vodorovné složky obou posledních sil ruší, dávají tedy tyto síly výslednici svislou bodě b2, paprsku reakce A2. Pak spojuje paprsek C2'"" výslednice sil (C2, KU) při rozkladu síly kloubu složek C2, HU"" bod průsečíkem a2"" paprsků C3'"", A2. obrazce plyne: az""\ dle toho lze stanoviti C2'"" přímo, bez rýsování paprsků Hni, C3"".
+
+
+neobtíženou soustavu (ct c2) působí tedy síly: C2"", A}, C1} šikmé složky sil kloubech cy, společném paprsku Hn"", jež ruší. Paprsek Ct' výslednice sil (Cv, K\) spojuje pak bod průsečíkem paprsků Alt C2"".
+
+
+Stejně určí při obtížení právo kloubů výslednice svislé složky síly kloubu příslušné osové síly třetího pasu paprsku C/', C2"" při rozkladu sil kloubech cí, směru svislého HU"", dále C2lv, C3"" při rozkladu sil kloubech c2, směru svislého H\\ při tom
+
+
+opět <'<""•
+
+
+Reakce vodorovná sila třetího pasu: Břímě bode (obr. 6.^) rovnováze silami C\"", C^, nichž prvá výslednicí sil AQ', HU"", druhá výslednicí (^/, t\'""}. Stejnou vodorovnou složku
+
+
+XLI1I. ﻿12
+
+
+silou Č72'"" výslednice C2' sil A3', C3'; poslední síla výslednicí (A3't //li')- Podobně břímě bodě (obr. rovnováze silami Č2', Í2IV, aneb též silami 62"", Ca'""; síly č""2"" určí jako její složky A^\ 6/' této jako složky A0"", H\\'. Tím stanoveny jsou příčinkové pořadnice reakcí kloubech cít L2, což při souměrném nosníku stačí. Příčinkové pořadnice vodorovné síly třetího pasu dávají obou případech vodorovné složky H', //"", společné silám C3' /7j/, H\\'.
+
+
+Neutrálně polohy určí obdobně, jako při kloubech vodorovné. Jsou jimi především podpory. Při reakci (obr. dává neutrálnou polohu pro přímku příčinkovou oboru soustavy (a0 L,) průsečík paprsků C\\ H\i"", nimiž rovnováze reakce obtížení soustavy (a0 c1)) je-li jen tato obtížena.
+
+
+Podobně stanoví neutrálnou polohu příčinkové přímky reakce (obr. oboru soustavy (cl C2) průsečík paprsků č/', C2'"". Příčinková přímka téže reakce oboru soustavy (a0 pořadnici bodě jejž sečnici C1f určuje přímka a0'p\\C2""'. Příčinková čára vodorovné síly třetího pasu týž tvar, jako při kloubech vodorovné (obr. 3./) stanovena jest úplně pořadnicemi //', .//"", H'"" kloubech; neutrálnými polohami jsou opět podpory.
+
+
+Osové síly prutů soustavách Stanovení neutrálných poloh provésti lze podstatě stejně, jako pro horní pasy //„, při kloubech rovné výši (obr. 4., 5.). Neutrálná poloha pro prut stanovena sečnici (?/ bodě spojnicí a0'2'"", je-li 2~2"" 2'2'"" (obr. a). Podobně určuje neutrálnou polohu pro prut sečnici C3' spojnice tf2'""4'"", při čemž: 4""^: 4'"" přidružený střed momentový, 4'bod třetího pasu svislé přímce bodu 4-"" bod paprsku fJn, jenž odpovídá sečnici C3'). Konečně také neutrálná poloha pro prut určí obdobně. Při obtížení druhého pole část nosníku tomto poli jako oblouk a^"" c2' a2', nějž působí ještě síla H\\, pokud jde soustavu (c2 c3). Přidruženému středu momentovému z/7 odpovídá prodlouženém třetím pase (přenáší-li obtížení styčných bodů horního pasu) bod z>/, paprsku H\\ bod z//'; přenesením V^V^"" V^VT""' plyne bod z>/"", jehož spojnice a2' určuje neutrálnou polohu sečnici C2IV. Příčinkové čáry (obr. určí pak oboru soustavy, které prut náleží, jako při nosníku prostě podepřeném podpoře neutrálně poloze.
+
+
+Takto lze postupovati při všech prutech, vyjma spodní pasy svislice vnitřních podpor (při uspořádání prutů mezipasových dle obr. neb 3.).
+
+
+Příčinkové čáry těchto sil, př. .S5, (obr. určují úplně pořadnice kloubech, jež stanoví jako osové síly, vyvozené břemenem P-=. příslušném kloubu působícím. břemene kloubu (obr. 7./) jsou ním rovnováze síly L,"", C/, složkami této jsou C2""\ Al. naznačuje výslednici (L7,, K4), počítá-li břímě obtížení soustavy (a0
+
+
+XLIII.
+
+
+
+
+
+je-li druhou složkou síly kloubu síla H\í' toho plynou síly Ct, ostatní síly třetím pase mají stálou vodorovnou složku jsou rovnováze osovými silami závěsných svislic, jako př. 7""4. Tak určiti lze všechny síly, jež působí soustavu (cl c2) kloubu působí mimo uvedenou svislou složku síla //u""), načež osové síly prutů řešiti lze methodou bodů styčných.
+
+
+Podobně při břemeni bodě (obr. l.e) určí síly C2""' C2"", které jsou břemenem rovnováze, dále Alt 6\"" jako složky síly Č72""; další postup jest obdobný, jako při břemeni bodě (ze síly L/' určí
+
+
+její složky: svislá síla věsných svislicích; bodě
+
+
+K±, dále ostatní síly třetím pase zácí působí mimo ČT, síla Hn"").
+
+
+Stanovené osové síly S$', S6"" podpory jako neutrálně polohy určují úplně příčinkovou čáru síly (obr. 7.^). Síla podpoře pořadnici P~l (přenáší-li obtížení styčných bodů horního pasu), kloubech clt stanovené pořadnice F5', F5"" všechny podpory, vyjma alt jsou také neutrálnými polohami, čímž čára příčinková (obr. určena.
+
+
+XLT1I. ﻿Farsky Praze ﻿si? -o(|p; ••;
+
+
+﻿*"

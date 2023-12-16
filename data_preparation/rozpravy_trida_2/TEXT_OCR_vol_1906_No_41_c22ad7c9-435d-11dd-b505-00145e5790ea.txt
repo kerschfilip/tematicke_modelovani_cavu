@@ -1,0 +1,71 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+TŘÍDA II.
+ČÍSLO 41.
+Postupná konstrukce Ribacourovýéh křivek.
+Podává
+Dr. Mik. Smok,
+s. professor c. k. české reálky na Kr. Vinohradech.
+(Se 4 obr. v textu.) Předloženo dne 16. listopadu 1906.
+Bodové souřadnice každé Ribacourovy křivky R„ indexu u — (reálné číslo u je poměr poloměru křivosti a příslušné Cartesiovy normály) — dají se psáti ve tvaru
+y„ — L sin~'; qp
+x„ — n c \ sin    "" d <p.
+Při tom parametr qp je úhlem kladného směru normály příslušné tomu bodu s kladným směrem osy A"". Pro křivky k ose X konvexní (index kladný) považujeme za kladný směr normály směr její ku středu zakřivení, pro křivky konkávní (index záporný) obráceně.
+1. Uvažujme nejprve křivky s indexem záporným « — — m.
+Jich souřadnice tedy jsou:
+R-,n
+' — m — c sin'"" qp
+.V —m •=. — mc\ sin'"" qp d qp.
+Poněvadž se dá applikovati integrace per partes,  platí též 'y — m — c sin""' qp
+in'""""1 qp cos (p — (v2 — 1) c \ sin'""~2qpř/qí>.
+mJ
+•_,„ — c sin
+i                                                           2
+Souřadnice tyto dají se však snadno vyjádřiti pomocí souřadnic křivky /v>_(,„_2) příslušných bodu, jehož normála je rovnoběžná s normálou bodu křivky R — m. Jest totiž:
+y_m — j.'_(fw_2)sin2qp
+A'_.,„                                                  ,    m — l
+X-m — J/_(,„_2)Sin qp . COS qp -f-        _      ^._(,„__2).
+Rozpravy:  Tř. II. Č. 41.                                                                               |
+XLI. ﻿Pokládáme-li x — (m — ^ j'_(,„_2) za známé, vidíme, že se dají souřadnice ;r_,„, y — m také snadno sestrojiti pomocí souřadnic .i'_(w_2), j_(m_2)- Rovněž normálu příslušnou bodu (x _ „,, y _ „,) pak přímo známe, — svírá s osou X úhel qp, — známe tedy i tečnu toho bodu. Příslušný poloměr křivosti je ///-násobná Cartesiova normála.
+Pomocí křivky A^_(„,_2) lze tedy sestrojiti křivku R-m\ pomocí této zase křivku A—^ + o) atd. vůbec křivky /í_((;; + 2/fr), k— l, 2, 3....
+Při tom ovšem předpokládáme, že křivku A_,„ známe geometricky řešiti.
+Volme na př. ;« =: 1. Křivkou A_i jest obyčejný kruh, jejž známe geometricky řešiti. Pomocí obyčejného kruhu dají se tedy postupně sestrojiti a geometricky řešiti všechny Ribacourovy křivky indexu záporného lichého — zvané Ribacourovy kruhy.
+V obr.   1. provedena jest konstrukce pro křivky A?_a a R — &
+Obr. 1.
+Volíme-li m — 2, dostaneme A_2, což jest obyčejná cykloida. Plyne tudíž, že pomocí obyčejné cykloidy lze sestrojiti a řešiti postupně všechny Ribacourovy křivky indexu záporného sudého — Ribacourovy cykloidy. Obr. 2. podává sestrojení pro A?_4 a R-6.
+X
+X LI. ﻿Podobně   na př.   křivky R    i        , R   i        , R    2         atd.
+___2             — 3 —     .          — a —2
+se sestrojovati pomocí  křivek resp. R    \ , R    \ , R    2   atd., — jenže ne-
+~~ 2           ~~ 3           ~ 3
+známe dosud těchto nejjednodušších  křivek R    \ , R    \ , R   2 jako vůbec
+~ 2         ~~ 3         ~lf
+žádné křivky Ribacourovy s indexem lomeným geometricky řešiti. 2. Je-li index kladný, máme
+R„ i
+f u              •      ,,
+sin"" fp
+C    dq>
+xn — w c V —r—-
+] sin"" <p
+aneb integrujeme-li per partes
+Rn   <
+sin
+T
+« ť      r          cos w            .          .,   f        <r/ g)        l
+*"" ~ ""«^ l   l ~~ ""sirť7^"" + (« — 2) V -^"",7=^-J •
+'                  t'
+Zavedeme-li analogicky jako při indexu záporném souřadnice křivky ?„_2 a místo úhlu normály (p úhel příslušné tečny r,  dostaneme
+J'«-2
+cos'' r «
+(Xn _ 2 + /„ _ 2 tg r.
+I
+R
+X
+XLI. ﻿Každá Ribacourova křivka indexu kladného R„ ať celistvého ať lomeného dá se sestrojiti a řešiti'pomocí křivky R„ — I. Pomocí R„ mohu pak dále stanoviti R„ + 2 atd. křivky R„ + 2k (k— l, 2, 3—).
+Tak na př. R2 jest obyčejná parabola; její geometrické řešení známe. Pomocí paraboly dají se postupně sestrojiti a geometricky řešiti všechny Ribacourovy křivky indexu kladného sudého — Ribacourovy paraboly.
+R! jest řetězovka. Pomocí řetězovky dají se tudíž sestrojiti postupně a řešiti Rib. křivky indexu lichého kladného, — zovou se Rib. řetězovky.
+Dle toho sestrojeny v obr. 3. křivky R± a R6\ v obr. 4. křivky R° a RK.
+Připomněli jsme již, že návod tento platí též pro lomený kladný index, jen že i zde jako při indexu lomeném záporném schází nám dosud znalost konstrukcí příslušných nejjednodušších křivek.
+V  obr. 3. naznačeny  jsou   též   dvojné   isolované  body křivky R± resp. RG.
+J3f;  a  />
+X LI."

@@ -1,0 +1,353 @@
+"","x"
+"1"," ﻿ROČNÍK XVI.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+novém odvození řady Lagrangeovy.
+
+
+Napsal Dr. FRANT. RÁDL.
+
+
+(Předloženo dne 20. března 1907.)
+
+
+Rozvoj funkce (x) dle mocnin jiné libovolné funkce (x) proveden nejprve Lagrange odtud jméno vzniklé řady. Koéfficienty rozvoje stanoveny různými cestami,*) nikde však nebyl stanoven zbytek řady podobně jako rozvoje Taylorova, jest zbytek ten důležitý při vyšetřování konvergence. Nadepsaný odvodil koéfficienty tyto pomocí limitních funkcí, všeobecných jaksi differenciálních poměrů, úplně ana-Irgicky dle řady Taylorovy, avšak výrazu pro zbytek obecném případě neobdržel.
+
+
+Velmi jednoduchým způsobem obdrží rozvoj Taylorův zbytkem integrací. Jest otázka, je-li možná methodu upraviti pro řadu Lagran-geovu. následujícím jest podáno řešení, jímž odvozen zbytek.
+
+
+Aby methoda lip vynikla, řešme nejprve specielní případ, totiž rozvoj
+
+
+(x) dle mocnin Ix.
+
+
+ePy
+
+
+Je-li při (x) limita =fl (x) (x), označme obráceně
+
+
+Cv%
+
+
+
+
+
+(x)
+
+
+\fl (x) dx—f(x) (x) l—------dx, vynecháme-li konstantu. Jest
+
+
+
+
+
+
+
+
+tedy l----= It, mimo platí také dx=uv dle
+
+
+částečné integrace.
+
+
+Užitím tohoto vzorce platí tedy, pokládáme-li stálou, ne-noodvisle proměnnou:
+
+
+
+
+
+J/1 Itf \fu
+
+
+
+
+
+
+
+
+Í/n /„,i vfy_ /-u r*. /ni í^r -f- dt— (#4-1 -f-
+
+
+
+
+
+
+
+
+Bůrmann, Mémoires 1'Institut, tome II, 14. Puiseux, Lion-uville's Journal Bd. 15.
+
+
+**) limitních funkcích, Rozpr. Ak. 1907.
+
+
+Rozpravy: Roč. XVI. Tt. II.
+
+
+IX. ﻿ti
+
+
+
+
+
+J/""1
+
+
+-«+
+
+
+IV/
+
+
+
+
+
+
+
+
+Uvážíme-li, í/1 —f(x =f(x) —/(l),
+
+
+obdržíme sečtením hořejších rovnic rozvoj funkce dle mocnin
+
+
+
+
+
+
+
+
+
+
+
+Abychom mohli dáti tomuto výrazu pro zbytek také jiný tvar, užijme
+
+
+
+
+
+známé věty střední hodnotě dx, kde jsou funkce
+
+
+
+
+
+
+
+
+hodnota mezi největším nejmenším obnosem, kterého na-
+
+
+
+
+
+
+
+
+bude intervallu A"". Platí pak též ww^%
+
+
+
+
+
+-V0 .10
+
+
+ATI
+
+
+
+
+
+dx=U\vdx.
+
+
+
+
+
+t\""~~l
+
+
+Tedy dt, kde nachází mezi hodnotami
+
+
+
+
+
+(x) (1), tedy j"" (9> -^~ J"". x),
+
+
+/t'
+
+
+poslední nerovnosti platí znamení svrchní nebo spodní dle toho, je-li x^ž
+
+
+Nyní hledíme podobným způsobem odvoditi všeobecný rozvoj La-grangeův. Dána funkce (x) kterou dlužno rozvésti dle mocnin funkce (x). Budiž jeden kořenů rovnice (x) nechť dána funkce
+
+
+J\f -W~>
+
+
+(x) rovnici (x) (A).
+
+
+\x) ﻿dlv Je-li (x), (.v) (*) =/' (*)
+
+
+označme obráceně
+
+
+(x)
+
+
+\fl (x) (x) (x} -—j-— Platí tudíž \——,
+
+
+
+
+
+což dle rovnice (.4) jest (i). Též patrně platí \uvldx=uv-— Je-li stálá, proměnná, plyne
+
+
+f/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sečtením těchto rovnic dosazením obdržíme, uvážíme-li,
+
+
+
+
+
+platí =/—/ +*» (x) (xk), řadu
+
+
+
+
+
+Lagrangeovu zbytkem:
+
+
+(x\
+
+
+(**)
+
+
+
+
+
+
+
+
+
+
+
+Poněvadž však opět platí \uvdx U\vdx, možná dát tomuto
+
+
+zbytku jinou formu. Možná totiž psát
+
+
+dt, kde
+
+
+nachází mezi (x) /íř (^), tedy =f'l(&x},
+
+
+tudíž
+
+
+
+
+
+s_Li
+
+
+
+
+
+IX. ﻿Odvození toto jest nezávislé Taylorově řadě, jejíž důkaz jest specialisací této methody. Stačí totiž místo (x) položiti takže <jp (x) máme obyčejný rozvoj Taylorův.
+
+
+Známé jest odvození Taylorovy řady integrováním rovnice differen-
+
+
+
+
+
+ciální fn(x] .*) Zavedeme-li místo derivace limity svrchu uvedené,
+
+
+obdržíme týmž postupem rozvoj Lagrangeův.
+
+
+dny Te-li totiž /""(#), obdržíme integrací
+
+
+dxn
+
+
+
+
+
+ďly ífcd
+
+
+l/* (x) čili —.----'— /2=í (x) 2=í (xa]
+
+
+yrn TC11—
+
+
+,Vo
+
+
+[(/""—l )t—1 ~o.
+
+
+
+
+
+Další posloupnou integrací dostaneme:
+
+
+____ n—'2 ___ Y\___T^ \~\ Jí—
+
+
+__.) J------\ 0'J
+
+
+
+
+
+neboť integrační stálá levé straně vždycky zmizí, př. poslední rovnici iest [y] =0.
+
+
+
+
+
+Řešíme-li poslední rovnici dle _/"" (x), obdržíme Lagrangeův rozvoj. Položíme-li něm pro xtí xk, bude míti týž tvar jako nahoře, při čemž hodnota značí zbytek Rn. Kdybychom chtěli dostat vhodnou jeho formu, postupovali bychom týmž způsobem jako při Taylorově řadě citovaném článku. Methoda předešlá vede však němu daleko pohodlněji.
+
+
+Uvedeno př. Serret, Diff.- Int.-R, Bd. II. 693 sq. Táboře, dne 12. března 1907."

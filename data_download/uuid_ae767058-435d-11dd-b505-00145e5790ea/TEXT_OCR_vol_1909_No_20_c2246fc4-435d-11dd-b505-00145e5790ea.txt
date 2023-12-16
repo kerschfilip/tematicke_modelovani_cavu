@@ -1,0 +1,74 @@
+"","x"
+"1"," ﻿ROČNÍK XVIII.
+TŘÍDA   IT.
+ČÍSLO 20.
+Určení minimální a maximální vzdálenosti
+od slunce malé planety, která se pohybuje ve dráze
+skoro kruhové s velkou poloosou a.
+Napsal G. Gruss.
+Tvar křivky mezní pro astcroidický problém tří těles, případ to spe-idní problému tří těles, kde jednu z hmot jest velice m;'lá a mimo to bé konečné hmoty se v kruhu kolem společného těžiště pohybují, má iro pohyb důležitý význam.
+r, = m^ G
+>'.-, = (i Hlz
+------------------+-U               Hmota od wx jest
+volena jako jednotka hmot, těleso mz mějž hmotu ji. Na pohyb hmot mv a mz nemá velice malé těleso (asteroida) P, hmot}/ velice malé m, vlivu. Pohyb těles ml a mz se děje s rovnoměrnoíi rychlostí kolem těžiště G. Vzdálenosti těles wt a mz od společného těžiště G buďtež označeny i\ a rz.
+Asteroida P hmoty m nechť se pohybuje v rovině určené pohybem od ml a mz. Začátek souřadnic nechť leží v těžišti G, osa Ar-ová nechť směřuje k mí a
+kladná osa V-ová nechť tvoří s osou X-ovou  ťihel 90° ve směru pohybu.
+(Viz obrazec.) Máme pak: ﻿r, + i'., = l ,  t\ • — u r2 = O
+Jednotku pro čas volme tak, že se gravitační konstanta rovná jednotce. Doba T oběhu hmoty wt a m2 kolem G jest
+2*
+-VT+7'
+Úhlová rychlost pohybu — 77- — jest tedy
+Pohybové rovnice asteroidy P jsou pak  dle    D a r \v i n a   dány ve
+tvaru:
+-^""•-*-
+-3X- + 2 n
+d?
+dt  '     9v '
+kdež
+2 íi = c>r + — + /i f(»22 + — Pí           V           ?2 /
+Pí a ^2 Json vzdálenosti asteroidy od těles nii a ';;/2. Pohybové rovnice mají integrál   J a c o b i h o.
+kdež C jest tak zvanou   „J a c o b i h o""   konstantou.
+H i 11 - o v a   křivka mezní (HilFsche Grenzkurve)
+má pro pohyb, jak již bylo řečeno, důležitý význam. Reelní rovina se křivkou tou dělí ve dvě území a pohyb tělesa P jest možný pouze v jednom z těchto území.
+Pro každé p jest křivka závislá pou/e na hodnotě , Jacobiho"" konstanty C. Konstanta C má určitou kladnou minimální hodnotu 3 (l + řO-(Vide Caři Ludwig Charlier. Die Mechanik děs Himmels. Bd. II. p. 212). Je-li C menší než tato hodnota, neexistuje žádná křivka mezní.
+J a c o b i h o   integrál dává
+
+XX. ﻿, .i,|0st asteroidy v pohyblivé soustavě souřadnicové. Za podmínky, že
+l V ^J      ""
+l 'aha asteroidy jest pro určitý čas kruhovitou, dostane se rychlost asteroidy flohvblivé soustavě souřadnicové také ze vztahu:
+l
+ds dt
++ P.
+vk
+7 Jarob'ho integrálu odvodíme.
+-»•-<*)-«""L+
+VTT7+
+Asteroida pohybuje se vně kruhu, jehož střed leží ve slunci a jenž ;ná rádius o něco větší než velká poloosa dráhy M a r s o v y. (Viz C. L, ( liarlier. Die Mechanik děs Himmels. Bd. II. p. 291.) Rádius tohoto kruhu se může považovati za minimum pro vzdálenost asteroidy od slunce. V výpočtu hodnoty tohoto radia (x) zanedbejme členy násobené malou
+hmotou Maršovou; 2 íž bude se rovnati xz -\ -- a  .Jacobiho"" konstanta
+x
+'
+V/. Jest tedy:
+x       a
+Rovnici .%---(- — =    -4-2 Ví vvhovuie ^ = — =: po dělení s kořenem tím
+•bude kvadratická rovnice:
+x- +        -2 V'?
+Kořen:
+l        l
+i)
+dává minimální vzdálenost asteroidy od slunce [v jednotkách vzdálenosti Marsa od slunce (T52 astron. jednotek)].
+Za předpokladu, že obě rušivé planety (Mars, Jupiter) nezávisle na s«bě určují mezní křivky pro asteroidu, můžeme týmž vzorcem stanoviti také velmi přibližně maximální vzdálenost asteroidy od slunce v jednotkách vzdálenosti Jupitera od slunce (5.201 astr. jednotek). ﻿Pro Jupitera máme:
+a íž .-= .v' + 2 + ^ (V2 4- — Y
+#         'V*         ^o/
+'2 }a \
+Tudíž :
+2&-C = **4-- —-2
+x       a
+l + ř* + íř2 a = O,
+aneb
+2       l +2 y«  yi 4- #i—a2fi
+p
+x        a
+v jednotkách vzdálenosti Jupitera od slunce. Velmi přibližně bude:
+*•+-!« i. + á vr
+#           (7
+Příklad. Asteroida vzdálenosti od slunce yoj. v jednotkách astro nomuckých má minimální vzdálenost od slunce l'305 v jednotkách vzdálenosti Marsa od slunce aneb 2'08 v jednotkách astronomických; maximální odlehlost od slunce bude v jednotkách vzdálenosti Jupitera od slunce přesně 0^75 a ze vzorce A] velmi přibližně O""745 aneb v jednotkách astronomických přesně 3'í>0, přibližně 3'88."

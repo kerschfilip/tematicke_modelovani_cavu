@@ -1,0 +1,90 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+TŘÍDA II.
+ČÍSLO 8.
+Poznámka z theorie funkcí.
+Podává M.   Lerch.
+(Předloženo 20. prosince 1899.)
+1. Předpokládejme, že lze analytickou reálnou funkci reálné proměnné _/ (V), která se na všech místech (reálného) oboru (,r0 . . . .r:) délky xl —XQ = / chová pravidelně, rozvinouti v řadu trigonometrickou
+co                                                                                                                               A
+/1N              ,.,  \               V* /            2 vxx       ,         2 v x n.
+/(.r) — a0 + 2j \a» cos-----~i-------^ *> sm-----~f-----/ '
+platnou v tomto oboru
+(x0 <C x <C afi).
+Předpokládejme dále,   že   řada (1)  tak rychle konverguje, že též veškery řady
+, (*=Qi 1,2,....)
+jsou   konvergentní;   pak   platí   rovnice   (1)   též pro  x — x^  a pro x ~=. xl a dále obdrží se veškery derivace /W (x} funkce ./(.v) přímým diťferenco-váním řady (1) člen po členu; odtud pak plynou rovnice
+z nichž vychází, že Taylorovské rozvoje funkce /~(-v) platné v okolí bodu -ID a x^ mají stejné součinitele. To jest, bude v jistém okolí bodu -f0 a ve shodném s ním okolí bodu .v, platit rovnice
+/(.r) — ^ (.v —*•„), resp. /(.r) — ^ (.v — .v,).
+Rozpravy:  Ročn. IX. Tř. II. Č. 8.               VIII.                                                    l ﻿Je-li x v okolí  bodu   ;r0,  bude x-}-l v okolí bodu xlt takže   máme současně
+čili
+/(*)=/(*
+Funkce /(x) má tedy periodu / a musí se chovati pravidelně uvnitř jistého pásu obsahujícího osu reálnou. Musí tedy existovati kladná veličina <?, tak že pro veškery hodnoty/ obsažené mezi — G a o bude lze funkci f(x-\-iy) vyjádřiti řadou Lau rentovou ; ta však musí splývati pro y =: O s naší řadou (1), a tedy bude
+fi     \   •  \ -f(x-\- ty) — «„
+cos
+2v«(x-\-iy
+•   ~  J
+.   ,    .  2 v TC (x -4- i y) -f č„ sin - -   ^   •""
+t.  j.   řada   (1)   musí  též   konvergovati pro jisté   komplexní   hodnoty   proměnné x.
+Výsledek náš lze takto vyjádřiti : >Řada trigonometrická
+2 v x n                  2 v .v TT   ,
+cos----------------j- bv sin-------------),
+(4)
+kterou lze do nekonečna postupně differencovati člen po členu, konverguje buď také pro jisté komplexní hodnoty (ve. kterémžto případě chová se analyticky pravidelně poblíže osy reálné), aneb konverguje pouze pro reálné hodnoty x a v tom případě má nutně v každém oboru (JTO . . . ;r0 -j- /) místa zvláštní.* 2. Znamenejme nyní
+řadu kladných celistvých čísel v pořádku rostoucím, která od jistého místa počínaje   mají  vždy   určitého   společného   dělitele, jenž   se může státi tak velkým jak libo, začneme-li   od čísel  na  místě  dosti  vzdáleném   stojících1 Reálné konstanty
+buďte tak voleny, aby veškery řady
+05
+(5)                             7/^VVT V O = O,  l, 2, 3, . . .)
+VIII. ﻿konvergovaly, ale aby řada trigonometrická
+(6)
+f(x) — 2^ av cos v   i
+v sin 2 mv x it)
+konvergovala jediné pro reálná x.
+I tvrdíme, že funkce f(x] není nikde analytickou, takže nikdy nebude lze ji vyjádřiti řadou Taylorovou.
+Připusťme, že opak platí, takže se funkce (6) chová pravidelně na jistém třeba jen úzkém oboru reálném (a . . . /3). Ustanovme celistvé číslo p tak, aby největší společný dělitel čísel
+přesahoval veličinu
+; znamenáme-li // zmíněného   dělitele,  bude   lze
+uvnitř   oboru (a ... /3) vytknouti   obor ( x0 . . . . XQ -\-----), ve   kterémž   se
+\            ""        n /
+funkce f(x] chová tím  spíše  pravidelně.   Rozdělme nyní   řadu (6) ve dvě
+části
+p
+S (x) = V (av cos 2 mv x n -j- bv sin 2 mv x n], , cos 2 mv x n ^- bv sin 2 w„ x it),
+v     l
+z nichž první jest funkce analytická. V části druhé budou podíly
+čísla celistvá, a zavedeme-li označení
+bude lze výraz /t (V) psáti takto:
+(7)
+cos
+2'                                          O      í^    '   V   TT
+//*«   ^T 7t        ,            .         ^  //tj;   *V  7t
+,        .
+~ bv sm
+^L\
+Dle supposice nemůže tato řada konvergovati pro žádné opravdu komplexní x, ale lze ji differencovati člen po členu tolikrát za sebou, kolik libo; zároveň ale jest /j (x} rozdílem funkcí /(*•) a.S(x\ jež na (XQ .. . x0 -\- 1} jsou analyticky pravidelný, a tedy jest sama funkcí analyticky pravidelnou.
+VIII.
+l* ﻿Tato okolnost se však s předešlou nesnáší, poněvadž řada (7) je zvláštní případ řady (1) v předešlém odstavci studované. Dospěvše k odporu, rnusili jsme vyjíti ze supposice nesprávné, a ta byla, že funkce f(x) se chová pravidelně v jistém oboru (a . . . /i). Dokázali jsme tímto nepřímým způsobem, že funkce daná řadou (6) se v žádném sebe menším oboru pravidelně chovati nemůže.
+Takovou řadou, jako zde uvažovaná funkce (6) jest řada
+(8;
+cos 2 a'1 x 7t
+v níž a znamená číslo celistvé větší jedné. Neboť předně čísla mv = av', v nichž i>i^/, mají společného dělitele af, jenž se může státi tak velikým, jak si kdo přeje, zvětšíme-li dostatečně číslo/; dále jsou všecky řady
+03 •    •         , -^ 11
+(x-0,  l, 2, 3, . ..)
+v\
+konvergentní, kdežto pro komplexní .v řada direrguje.  Neb součet
+2 cos k(x-\- iy] = ek
+jest absolutně větší než rozdíl prostých hodnot sčítanců
+V našem případě k r= 2 a"" it roste přes všecky meze, a tím při y stává se e~ky malým, takže lze říci, že platí
+O
+cos 2 a""
+iy) \ > \ é2 *""•?*, y > O ,
+a poněvadž řada
+při kladném y vždy diverguje,*) jest tvrzení dokázáno.
+Trigonometrická řada (8) tedy funkcí analytickou není, ačkoli veškery její derivace jsou funkce veskrze konečné a spojité. Vyložený právě výsledek řady (8) se týkající odůvodnil jsem jiným způsobem ve svojí práci Ueber die Nichtd iffer e ntiirbar keit gewisser Functionen uveřejněné ve 103. svazku Crelleova žurnálu. Před tím byl Paul d u
+*) Jest patrně ;/! < u"", tedy obecný člen
+e2a""j>.-i               e2a"" p.-i             r,   „
+*•        J          \,       fc                  — e2 <t'lj' .-r —« log «,
+n!                   H""
+a tu pro dosti veliká n exponent je velmi veliký a kladný.
+VIII. ﻿Bois-Reymond (Mathem. Annalen, sv. 22.) tušil existenci tohoto druhu funkcí, ale příklady, kterými znamenitý tento mathematik pokoušel se doložiti svoje domnění, ukázaly se býti klamnými, o čemž čtenář nalezne bližší výklad v naší rozpravě Ueber die analytische Nátur einer voň P. du Bois-Reymond betrachteten Function (Monatshefte fůr Mathematik und Physik, VIII. ročník), po případě v její francouzském překladu (Acta mathematica, sv. 22. str. 371).
+VIII. ﻿*"

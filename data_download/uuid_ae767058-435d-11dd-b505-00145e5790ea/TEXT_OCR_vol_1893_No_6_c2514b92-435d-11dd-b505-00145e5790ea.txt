@@ -1,0 +1,119 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ   AKADEMIE CÍSAŘE FRANTIŠKA JOSEEA PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK II.
+TŘÍDA II.
+ČÍSLO 6.
+DŮKAZ OBECNĚJŠÍ VĚTY
+lEZEIt
+""i j
+••	-	íl b	H
+PODÁVÁ
+DR- ANT. PLESKOT,
+S.   PROFESSOR  NA  GYMNASIU  V  PLZNI
+
+PEDLOENO   DNE ^.       JNA  185)2
+
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIK CÍSAŘE FRANTIŠKA JOSEFA
+FKO VĚDY, SLOVESNOST A UMĚNÍ.
+1893. ﻿V  P»<A/B. ﻿l ři úvaze své použijeme následujících dvou vět:
+rc) Jsou-li /•'(#) a u» (x) funkce, které v intervallu (a ...li] nestávají se nekonečnými a je-li /'""(x) v tomto intervallu funkcí spojitou a i// (x) funkcí integrace schopnou, jež své znamení v tomto intervallu nemění, pak platí:
+.
+\ F(x) v (z)
+x
+-f v (b —
+\
+a
+Jsou-li <7, (t„, a.A . .. ti,, veličiny vesměs  stejného  označení a blb„,b^...bn libovolné veličiny, pak platí:
+kdež  // /nací jakousi střední hodnotu,   která jest větší   než nejmenší z veličin l\ b„ ... bn a zároveň menší než největší z těchže veličin /;, /;2 . . . ^a .
+Nechť jsou nyní /""'(#) a i^ (a?) dvě funkce, které v intervallu a...b nestávají se nikde nekonečnými. Obě mohou míti v tomto intervallu určitý počet konečných průtrží. O I1~(x) předpokládejme, že v intervallu a . . . b jen roste a zůstává positivní, funkce y (#) budiž taková, že nemá v intervallu a ... b nekonečný počet míst, v nichž-by procházela z hodnoty positivní do negativní.
+Vyhovují-li F(x] a ty(x) těmto podmínkám, pak jest možno intervall a...b rozděliti na určitý počet intervallu, v nichž v každém /•*(/) jest funkcí spojitou a i/' (x) své znamení nemění. Nechť jsou tyto intervally atv f,ř(2 f„ ř3 . ..#„_!/>. Poslední intervall tn — \b rozdělme na intervally dva fn — i*n a ř»^« Poloha f„ mezi f„_i a ^ budiž prozatím libovolná.
+Pro každý intervall můžeme užiti věty a), čímž obdržíme:
+F(x) ty (x) dx = F (a -f- ^, (řt
+VI. ﻿n
+(x) i/' (x) dx =
+„
+II- l
+l
+n-l
+kdež O < tfx < l .
+Nahradímc-li na pravé straně v posledních relacích   \    rozdílem   \ — \  ,
+tu promění se v následující:
+/•""(.r)
+(a -f- //j (ř,
+(a?) dx
+,/• -i/
+„ _
+- 1
+/'""(a)
+=*•(«.+
+6 p
+—  ř„) j   l
+«/
+Sečtením  těchto rovnic obdržíme
+(x)
+F (a -\- rt , (ř, — ř/)J V
+(a?)
+n - l
+•       •
+/» (a;)
+^ (a?)
+„
+...o)
+* (*, - ^)      V C'') d
+f, + '\> (*2
+VI. ﻿Na pravé straně této rovnice jest součet součinů, každý z činitelů
+jest positivní, neboť F (x) v intervallu a...b jen roste. Podobně i činitel /'""(« -j- #, (f, — rt)) jest positivní, neboť F(x) jest v intervallu a . . .b positivní. Můžeme tudíž na součet hořejší applikovati větu /?), čímž obdržíme
+b
+(x)dx = F(in + * (* — *,$) B>
+kdež /> značí jakousi   hodnotu,   ležící mezi největší a nejmenší  hodnotou   integrálů
+*                               b                              b                                  b
+}ty(x)dx ,      \y(x)dx ,
+mf
+a
+""'
+•' •
+W
+Poněvadž ale  it>(x) jest funkce integrace schopná a   \y(x)dx   tudíž   spojit
+f
+funkcí argumentu ř, lze hodnotu fi vyjádřiti následovně:
+on
+b
+»
+kdež <7 < ^ < ř„ .
+Rovnice (1°) nabude pak tvaru
+( l )
+x;
+a < í < ř;/ .
+a
+Z tohoto vzorce snadno vyvineme větu všeobecnější.
+Budiž f(x) funkce, která může býti positivní buď negativní a nechť vyhovuje všem ostatním podmínkám jako F(x), tedy i té, že v intervallu a ...b stále roste.
+Pak můžeme na funkci
+applikovati větu (1), čímž obdržíme
+[/W
+
+
+Í7
+čili po krátké redukci
+a; =/(/i)
+kdež *<;$<*„ a o < ^ < l .
++ <>
+X ,
+VI. ﻿6
+Docela k stejné relaci bychom dospěli, kdybychom o f(x) předpokládali, že v intcrvallu a . . . b stále se menší, při čemž muže býti buď positivní neb negativní a sice applikováním věty (1) na
+Platí tudíž rovnice (2) o f(x] , která může býti buď positivní neb negativní, jen když v intervallu (a . . . 1)) stále roste, neb se menší, při čemž všem ostatním podmínkám jako F(x) vyhovuje.
+Věta (2) jest obecnějším případem známé druhé střední věty. Poloha tn jest totiž v posledním intervallu, v kterém f(x) jest spojitou a ty(x) své znamení nemění, docela libovolná. Volme tudíž lim <-„ = b .
+Z relace (2) pak plyne druhá střední věta : *                                   S                           b
+\f(.r} it> (x) dx = /(*) \ V (x) dx +f(ff) \ V (x) dx ,        a <1 f < b .
+a                                           a                                |
+Je-li f(x)   v celém intervallu a . . . b spojitou a       x   vůbec v tomto intervallu
+znamení nemění, pak jest poloha *,, v celém intervallu docela libovolná; volme tudíž lim tn = a .
+Jelikož v tomto případě | = a , plyne z relace (2) následující
+b                                                                                        b
+ř
+f(x) y (x) dx =f(a-\- v (b — a)) \ y (x) dx ,
+€/
+a                                                                             a
+kteráž značí prvou střední vetu.
+VI."

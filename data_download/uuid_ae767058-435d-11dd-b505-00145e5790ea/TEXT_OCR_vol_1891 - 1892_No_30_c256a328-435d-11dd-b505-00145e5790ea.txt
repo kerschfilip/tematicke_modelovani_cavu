@@ -1,0 +1,701 @@
+"","x"
+"1"," ﻿;     ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK I.
+TŘÍDA II.
+ČÍSLO 30,
+O TRANSFORMACI
+FUNKCÍ ELLIPTICKÝCH
+(SUR LA TRANSFORMATION DĚS FONCTIONS ELLIPTIQUES.)
+NAPSAL
+CH.   HERMITE.
+PŘEDLOŽIL PROF. ED. \YKYR DNE 26. ÚNORA 1892.
+^   -.  ,   .-X''
+_
+.
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ.
+1892. ﻿FISKKM J   OTTY v PRAZE. ﻿Sut la transformation děs fonctions elliptiques,
+par
+M. Ch. Hermite
+Dans le § 32 děs Fundamenta Jač obi a fait la remarque que si l'on designe par k Tun děs modules relatifs a la transformation ďordre impair n, par ),' son complément, on a entre les fonctions completes A, A' analogues a K et K', et le multiplicateur M, les relations suivantes,
+n M
+a1 A'-\-iff A
+ou a, a, «, a sont děs nombres impairs, b, b', /?, $' děs nombres pairs, satisfaisant aux conditions a a' -\- bb'= n, aa'~\- /?/?' = l . Puis il ajoute en notě »Accuratior numcrorum a, a', b, b', ctc. detcrminatio pro singulis eiusdcm ordinis transformationibus gravibits laborare difficultatibus videtur. hnmo Jiacc detcrminatio, nisi egrcgie fallimur, maximě a limitibits pcndct, intcr quos modulus k vcrsatnr, ita ut pro limitibus diversi s plane alia evadat: quod quam intrieatam rcddat qucstionem, expcrtus cognoscct, ctc.* C'est dans le but ďéviter ces difficultés que j'ai modifié le point de vue du grand geometre dans la théorie de la transformation; j'ai suivi une marche inverse, je mé suis donné a priori les relations entre K, K', A, A\ pour en conclure les formulcs analytiques de la transformation, que Jacobi au contraire établit en premiér lieu, et j'ai posé la question comme il suit.*)
+Soit   avec   une   légére   modification   děs   notations   employées   dans   les Fundamenta:
+/2sin2gi
+L' -
+o
+/'2sin2qp
+*) Cours de la Faculté děs Sciences de Paris, 4~ Edition, p. 265.
+Rozpravy. Roín. I. Tř. II. Č. 30.
+l ﻿les mémes  quantités  que K et K',   relatives á un autre   module /,  et á son complément
+— /*.   On propose  de déterminer ce module ainsi que la constante M,   de telle sortě  que,   sn(^-,/),    cn(^,/),   dn(^,/), admet-
+tent pour périodes 2 K et 2 /'K',   et  s'expriment  par  conséquent  au   moyen děs fonctions doublement périodiques de module k.
+Nous ferons pour cela,
+K
+(A)
+M
+a L -|- z' b L' ,
+M
+, r, d étant   děs nombres  entiers   quelconques,   avec  la   condition  que
+L'
+le determinant a d — b c soit positií, afin que la partie réelle du quotient -=—
+JLrf
+soit positive.   On aura ainsi les égalités,
+sn
+cn
+M
+x-\-2K M
+,/)
+(-1)""
+puis:
+sn
+M
+(-!)< sn(|-,/),
+cn
+M
+./J-í-iy+W
+M'
+Cela étant,  la recherche děs formules de transformation   repose en entier sur les propriétés de la fonction:
+inbx1
+4KLM
+qui consistent dans les relations suivantes:
+(x + 2K)
+(x + 2 i K7) = (—
+(x) , (x) e
+K
+Ce  sont  aussi  ces  égalités  dont je ferai   usage  pour  1'objet  de cette  notě, et j'indiquerai ďabord une méthode facile pour y parvenir. ﻿Je remarque á čet effet qďayant
+C—
+V M
+l n m x m a  LM
+nous pouvons ecnre
+(m = O, ± l , ± 2, . . .) ,
+fjj (x) = V (— l)»» ^»*?(*,*) ,
+si l'on pose pour abréger
+(x,
+4KLM
+,     m x     ,    z;;/2 L'
+~ř   TV/T
+M
+I
+Remplacons maintenant dans le dernier terme z L' par la valeur tirée de la pře miere děs équations (A), on obtient ainsi
+(x,
+bx*
+4KLM
+,    m x     . + LM +
+(K — *LM)
+ou bien,
+(jp (o?,;;/)
+'J cette nouvelle expression résulte immédiatement que 1'on a
+= g-
+le changement de o; en x -f- 2 K se trouve donc ramene á celui de m en ;// -f- b qui peut toujours se faire dans une série s'étendant á toutes les valeurs de 1'entier m. Nous parvenons de cette maniére, en ayant égard au facteur ( — l)m, á la premiére děs égalités á démontrer.
+La seconde découle de 1'identité
+
+4/K K'
+4/^K'LM
+on 1'établit en transformant comme il suit la quantité
+(a;,
+
+4/KK'
+4/KK'LM
+L M
+L'
+Je tire ďabord děs équations (A) par rélimination de L' cette expression,
+au moyen   de  la quelle   le  premiér  terme  devient    * 'irfi M   '  Je rerni^ace
+ensuite  dans le dernier terme /L',  par la valeur tirée  de la seconde  de ces égalités. Nous obtenons ainsi
+nx
+dx
+4* K K'
+4/K'LM
+""""""
+m x
+LM
+(JJl ﻿i
+ce qui démontre le résultat annoncé. On en conclut comme tout-á-rheure :
+n (x
+4/KK'
+et en simplifiant:
+K
+c'est la relation qu'il s'agissait de démontrer.
+On en déduit immédiatement que si l'on pose
+sn
+cn
+dn
+(-5--0
+(T.') (-M-')
+U (x)
+les fonctions holomorphes 77 (a;),  Hl (x),   '/>j (a;) satisfont a děs relations ana logues, et ilen résulte que les quatre quotients:
+P(x)
+!•(*)
+1n(x)  '
+. M
+>»(#) '
+vérifient les égalités suivantes, qui sont ďune grande importance:
+(a;),
+R (x + 2 K)
+(— })«*+* R(x)t
+Ces quantités sont donc děs fonctions doublement périodiques, ayant un póle unique,   x = /K'   et  sauf un   facteur  constant   qui  reste   inditerminé,   elles
+622 ﻿s'expriment souš formě entiere au moyen de snx, cnx, dnx*) Nous en donnerons une expression différente qui s'obtient, en introduisant les fonctions de M. Weicrstrass, définies par les relations:
+AI (a?) AI (x\
+AI (x),
+AI *
+W
+O)
+IK
+Jz*
+H» H, (*
+J*=
+.
+0, (o)
+La constante J designe dans ces formules 1'intégrale compléte de seconde espéce, et l'on a comme on sait:
+K
+j
+k^sn^xdx
+O
+Posons afin de passer au module /:
+sn* (x,l) dx ,
+nous pourrons ecnre
+2L
+Soit enfin
+(B)
+au lieu du quotient
+N
+LM(J
+n]    -__inb
+K
+2KLM
+n (x)
+, on sera amené en determinant par la condition
+S (o) = l , le facteur arbitraire qui entre dans S (x) , a la nouvelle formule :
+et les relations
+*) Cours ďAnalyse, p. 281.
+sn o;
+AI"" (a;)
+AI (os),
+Al(*)
+cn x
+dn x
+AK*)3_ AI (ar)   '
+623 ﻿nous donnerons pareillement:
+1.0,  !L
+----------------------/»       *
+AI"" '-N                 '
+
+» (x)
+La quantité N qui est mise en evidence dans ces expressions mé semble appeler 1'attention et avoir dans la théoric de la transformation un role im-portant Aux équations algébriques entre k et /, entre le multiplicateur M et le module doivent en effet s'ajouter celles qďon peut former entre N et k; j'ai essayé ďouvrir la voie a ces nouvelles recherches par les remarques qui vont suivre.
+En premiér lieu j'établirai les relations entre les deux fonctions complétes de seconde espéce, qui correspondent aux égalités
+K
+M
+-\-ib\J ,
+M       ' Je remarque ďabord que si Toň pose, ad — frc = n, on en déduit
+M
+in\J
+M
+de sortě qu'en tirant de 1'équation (B)
+Ji
+M
+«JLM         inb
+K
+2K
+-f LMN
+nous trouvons:
+j,
+M
+d
+K
+n
+2K
+N
+n
+J'introduis  maintenant   la   seconde  fonction  complčte   de  seconde  espéce  en employant la relation:
+J'K—JK'
+
+je remplace á čet effet,          par  J'
+T K'
+Jv—
+Jv
+n :~2~'
+,   et   il vient   aprés  une  reduction
+facile :
+j.
+M
+K') —
+024 ﻿Cest la premiére relation que je voulais obtenir, une autre semblable qui con
+j',
+černé —'    se conclut de 1'égalité M
+J', L - J, L'
+n
+ďoú 1'on tire:
+]\
+M
+LM
++^
+_ M
+en éliminant J, au moyen de 1'équation (B). Nous substituerons donc la valeur
+LM
+K
+inb 2KL'
+ce qui donne:
+J',        ;/L'JM
+INI
+K
+2LM
+Cela étant, si Toň écrit ďabord:
+n
+2LM
+tnbU 2KL
+*r(K
+2KLM
+et qíťensuite on remplace K — zV^L/M par # LM, et L'M par cette expression devient
+in
+M
+(
+
+N
+
+an
+et par conséquerit:
+'Ti
+N
+n
+II importe ďobserver que dans ccs résultats la quantité N, comme nous allons 1'établir, est une fonction algébrique du module. Considérons pour en donner un exemple, le čas simple de la transformation du second ordre; au théoreme II
+du § 37 děs Fundamenta, qu'en remplac,ant q par </2, les quantités /*, K et K'
+\_/.'      \ _|_ ^'
+deviennent, T—r-,  —E—K,   (l-j-X^K',   nous  ajouterons   que J   et J'
+~í
+se changent en,
+l
+*• K) et I-F (2J' - ﻿10
+On remarquera encore que les relations auxquelles nous venons de parvenir peuvent étre pré.sentées souš une formě plus simple; en se rappelant qu'on a posé ad—óc = n, on en déduit aisément les égalités:
+(Q
+M
+id}\
+M
+dont nous allons montrer les conséquences.
+Multiplions la premiére par }' la seconde par J, et retranchons membre a membre, on obtiendra ďabord cette nouvelle expression de N a savoir:
+n
+N
+M
+M
+oú ďentrent que les integrál es complétes de seconde espéce. Soit ensuite
+V
+on a ces deux relations:
+'2
+dl
+dV
+dl
+/2U —V,
+/•(U— V),
+que je vais employer pour différentier par rapport a k, 1'égalité
+ou bien, K = M U.
+Nous trouvons ainsi
+K. M
+//'2 '
+cela étant, j'exprime  en  J et K  le second   membre,   en remplac.ant   U et V par les valeurs
+M '
+Ce calcul nous donne
+
+K
+(n J + K
+ce qui est une relation linéaire homogene entre J et K. On aurait évidemment le méme résultat en J' et K', en posant,
+626 ﻿11
+poiir differentier 1'égalité /'K' = M (VL-f- id\J]; il faut donc que les coeffi-cients de J et K soient séparément nuls, le determinant ]' K — J K' étant différent de zéro. Nous avons par conséquent:
+dk               dl
+k k'*
+//'
+k dk ~~kfir
+M
+,
+/'2
+dl
+La premiére de ces relations a été découverte par Jacobi et donnée dans le § 32, děs Fundamente; on sait qíťelle est ďune importance capitale dans la théorie de la transformation. Elle permet ďécrirc la seconde souš la formě:
+kd,
+M
+i
+et nous  en   tirons  l'expression nous 1'avons annoncé,
+N
+suivante   qui est purement algébrique comme
+irtog    r    ,
+je vais en faire quelques applications.
+Je considere ďabord le čas de la transformation du second ordre oú 1'on a:
+On en conclut aisément
++
+
+nous avons donc
+','2    »
+ce qui donne immédiatement
+N
+En passant au čas de ti = 3, j'employerai les expressions děs deux mo-dules et du multiplicateur qui ont été données par Jacobi dans le § 13 děs Fundamente, a savoir:
+,_ (2 + «U»
+(2 +«)3«
+Rozpravy, Kočn. I. Tř. II. Č. 30.
+027 ﻿12
+On en tire ďabord par un calcul facile:
+O-*2) (!-
+ďoú
+/'
+et par conséquent:
+/'
+Ayant ainsi la formule:
+
+d log l~:
+nous écrirons ďabord:
+N
+ct         L
+En remarquant ensuite que 1'on a:
+3/LL'2
+(l - «') (2 « + «•) ,
+nous parvenons a 1'expression suivante:
+N = 2 (2 a -f «-) . On en conclut, si 1'on résout par rapport a «:
+•— I+YI+ÍK,
+et en substituant   dans la valeur de k* ,   on trouve 1'équation entre N et
+a laquelle nous voulions parvenir, a savoir:
+/NV         /'N^2
+(T; ""6^lTJ
+N
+Nous rapprocherons ce résultat de la formule,
+o            3 —(4
+sn 3 x =
+en considérant le numéráteur cíle fait voir sur le champ que 1'on a:
+. 2///K + 2«/K'
+i                  l
+N
+et n étant deux entiers quelconques.
+3
+628 ﻿O transformaci funkcí elliptických.
+Napsal
+Ch. Hermite.
+Ve Fundamentech S 32. poznamenal Jacobi, že, značí-li /. jeden z modulů příslušných transformací lichého stupně n, a /.' jeho komplement, platí mezi úplnými funkcemi A, A' obdobnými s K a K' a mezi multiplikátorem M následující vztahy
+M
+kde a, a', «, a' značí čísla lichá, /;, //, ^, /?' čísla sudá hovící výminkám a a' -\- b b' = n , ««'-)- /?/?' = l . Dále k tomu přičiňuje jakožto poznámku *Accuratior numcrorum a, a'*, b, // <W. dctcnninatio pro singitlis ciusdcni ordinis transforjnationibus gravibns laborarc difficultatibus vidctur. Innno háce dctcnninatio, ni s i cgrcgie falli)nur, má.\-iinc a l i)n i tibu s pťndct, intcr qitos inodiilns k vcrsatur, ita ut pro liinitibus dircrsis plane alia wadaí: quod quain intricatatn rcddat qitcstionon, expertu s cogtwscct, ctc.« Abych se vyhnul těmto obtížím, změnil jsem hlediště velkého mathematika v theorii transformace ; volil jsem opačnou cestu, pokládaje relace mezi K, K', A, A' za dané a priori, abych z nich odvodil analytické formule transformační Jacobi m naopak nejprve vyvozené, a formuloval jsem úkol způsobem následujícím.*)
+Budtež, s malou změnou označení užívaných ve Fundamentech,
+.T
+I
+L'
+u
+í—/'sin
+'
+«
+o
+tytéž hodnoty jako K a K'   vzhledem   k jinému modulu / a k jeho komple-
+*) Cours de la Faculté děs Sciences de Paris, 4'^ Edition, p. 265. ﻿14
+mentu /' = Y l—/*.    Nechť se   stanoví  tento   modul  a   stálá   M  tak,   aby sn (^ , /),    cn (j* , /),   dn ( * , /)   měly periody 2 K a 2 / K',   a tudíž bylo lze je vyjádřiti pomocí dvojperiodických funkcí o modulu k. Za tím účelem klademe
+K
+(A)
+AI
+i K' M
+c L -j- /' d L' ,
+kde a, b, c, ti jsou  libovolná celistvá  čísla  hovící výmince,   by determinant a d — /; c byl kladný,   čímž reálná část   podílu
+L'
+se stává kladnou.    Máme
+pak rovnosti
+sn
+c
+AI
+cn
+AI '
+dn
+(*-   ^
+us' ;
+dále
+cn
+dn
+AI
+(-i)
+c + d
+cn
+a; M
+•O
+AI
+Nyní spočívá vyšetření transformačních formulí zúplna na vlastnostech funkce
+TI b x2
+(x)
+O
+M  •
+e
+vyjádřených následujícími dvěma relacemi :
+(a?)
+K
+Těchto rovnic užiji   k dosažení účelu   této práci   vytknutého;   především však naznačím snadnou methodu k nim vedoucí.
+K tomu cíli poznamenávám, že vzhledem k
+= >,(
+,-T m2 L'       i jim x L           ~LM~
+(m — O, ± l , ± 2, . . .) , ﻿15
+můžeme psáti
+S
+klademe-li za příčinou stručnosti
+qp (x, ni)
+bx
+4 K L M
+m x
+/';;/2L
+2'
+Nahraďme nyní  na pravé straně /L' hodnotou plynoucí z první rovnice (A), i obdržíme
+(x,
+4KLM
++ -1
+m x
+2 (K — aLM)
+LM
+aneb
+qp (x,
+a
+4JKLM
+Z tohoto nového výrazu vychází ihned, že platí
+čímž změna a; na x -f- 2 K jest převedena na změnu hodnoty m na m -\- b , kterouž změnu lze vždy provésti v řadě, v níž summační index ;;/ probíhá všecka celistvá čísla. Tím dospíváme, přihlížejíce k faktoru ( — l)m, k první z obou rovnic, jež jsme chtěli dokázati.
+Druhá vyplývá z totožnosti
+nx
+i i l   C
+4 /</K' L M
+doděláme se jí, transformujcme-li následujícím způsobem hodnotu
+•        í>   T     /
+/ mm \
+g> (x, ni) -\-
+nx 47KK'
+4iKK'LM
+L
+L
+Nejprve odvodím z rovnic (A) -eliminací hodnoty L' tento výraz
+jehož pomocí první člen  přejde do
+dx
+; napotom nahradím v posled-
+4 /K' L M
+ním členu /L'  hodnotou  plynoucí  z druhé   z oněch rovnic.   Tím  nabýváme
+<T (*,«*) + ^TKK7"" = 4/K'LM  + LM ""^          5TM         '
+čímž dokázána vytknutá formule   Z ní soudíme, právě tak jako nahoře, že
+w (* + 2/K'i2                                                         nx1
+2 /K') aneb, zjednodušíme-li,
+K
+což jest relací, jejíž správnost jsem chtěl dokázati.
+(531 ﻿16
+Z toho soudíme ihned, že, klademe-li
+sn
+(M -•
+cn
+dn
+M
+M '
+funkce celistvé 77 (x), 77j (x), ř/', (x)  hoví obdobným relacím, z čehož vychází, že čtyři podíly:
+n(x)
+O»(X)
+R(x) S(x)
+hoví následujícím velmi důležitým rovnostem:
+(a?)
+S (a?+ 2/K')
+"" S (x) .
+Tyto hodnoty jsou tedy funkcemi dvojperiodickými o jediném pólu # —/K' a lze je až na stálého činitele, jenž zůstává neurčeným, vyjádřiti jakožto výrazy celistvé pomocí sn#, cn#, dnx .*) Vytkněme je však v jiném tvaru, jehož nabývají, zavedeme-li funkce \Veicrstrass-u\y, definované rovnostmi:
+T /*»2
+M (./•)
+— c
+iiK
+-2K
+AI
+*) Cours dfAnalyse, p. 281.
+632 ﻿17
+Stálá J značí v těchto formulích kompletní integrál druhého druhu, a platí jakož známo,
+K
+J
+k* srí* x dx .
+Položme, chtějíce přejíti k modulu /,
+i lze pak psáti
+AI
+•')
+LMZ
+Budiž konečně
+(B)
+N
+J, L M
+n]
+2KLM
+i přicházíme pak,  vytknuvše výminkou S (o) = l  libovolného do S (x) vcháze
+M
+jícího činitele, na miste  k podílu
+k nové formuli
+S (.,)
+X** -2
+a relace
+sn x
+cn x
+dn x
+Al_(*), AI (a?)
+AI
+A\(x)
+podobně podávají:
+V (x)
+Q (.r) =
+AI
+R(x)
+AI ""(.'•')
+Hodnota N, vytknutá těmito výrazy, zdá se mi, že zasluhuje pozornost a že jí přísluší důležitý úkol v theorii transformace. K algebraickým rovnicím mezi /-a /, a mezi multiplikátorem M a modulem nutno zajisté připojiti ony, jež lze utvořiti mezi Na/-; pokusil jsem se zahájiti dráhu k těmto novým výzkumům následujícími úvahami.
+033 ﻿18
+Nejprve odvodím relace mezi oběma kompletními integrály druhého druhu obdobné k rovnicím
+JC^_ M   ~'
+LK/_ M   ~C
+Podotkněme především, že učinivše ad — bc = n, máme
+• čímž, vzhledem k relaci z Ji	"""" ~          M u T ' —
+	'•L ~             M rovnice (B) plynoucí _   «JLM        inb
+M nalézáme -Ji -id —	—       K            2K    '  L""MJN> ibYJ\          inb 1 T                         f//K       7 /
+M   — lrf	K    )J       2K    '   (a^      ""'
+N
+Nyní zavedu druhou kompletní funkci druhého druhu užívaje relace
+J'K — JK'
+71
+2   '
+71                                     K.'
+nahradím totiž —^ hodnotou J' — TF""I a obdržím po snadné redukci:
+2K
+K
+Ji M
+„   N
+Toť první relace,  již jsem chtěl   odvoditi,  jiná obdobná  vztahující se  ku
+T'
+~
+plyne z rovnice
+2
+podávající
+r.
+M
+Ji L-LM
+4
+2LM
+•eliminujeme-li Jj  pomocí rovnosti (B). Dosadíme tedy hodnotu
+J,
+čímž
+M
+L M
+y/L/JM K
+7/JM.
+""k
+inb
+2KL
+C34 ﻿19
+píšeme-li nyní
+i
+n 2LM
+2KL
+2KLM
+a   nahradíme-li   pak   K — /LL'M   hodnotou   #LM,   a   L' M   hodnotou
+in
+, nabývá náš výraz tvaru
+' f
+íli
+~M
+(
+K
+N    )   ian
+~     r
+a tudíž
+ÍL.
+M
+J + * « J' + (— c K + /'* K')
+N
+n
+Jest důležito podotknouti, že hodnota N v těchto výsledcích se vyskytující jest, jakož ihned ukážeme, algebraickou funkcí modulu. Vezměme jakožto příklad v úvahu jednoduchý případ transformace druhého řádu; ku theoremu II, Fundamenta § 37., že, nahradíme-li q hodnotou <72, hodnoty L, K, K'
+l _ k'      \-\-k' přejdou do -—p-7y ,      —7-     K,   (l -j- k') K'   připojíme,   že J a J'   přejdou do
+7 (J
+\
+a
+(2J'
+Dále podotkněme, že výsledky, jichž jsme se právě dodělali, lze podati ve tvaru jednodušším; připomeneme-li si, že jsme položili a d— bc = ;/, snadno odvodíme rovnosti
+(Q
+M
+KN,
+M
+z nichž vyvodíme některé důsledky.
+Znásobivše první hodnotou J', druhou J,   obdržíme jich odečtením tento nový výraz pro N
+2
+M
+' (""J,
+^ M
+do něhož vcházejí pouze kompletní integrály druhého druhu.
+Rozpravy. Ročn. I. Tř. II. C. 30. ﻿20
+Budiž napotom položeno
+U V
+ib\J
+i máme tyto dvě relace
+dl
+/2U —V,
+'2
+V),
+jichž  užiji   k  differenciaci   podle k rovnice Tím nalezneme
+K M
+' čili K = MU.
+V)
+a nyní  vyjádřím pomocí J a K pravou stranu,  nahrazuje  M a V hodnotami
+u
+JL
+M '
+M (n]
+Tento počet nám podává
+2          M
+což jest  linearná  a homogenní relace mezi J a K.   Patrně bychom se  téhož výsledku dodělali vzhledem ku J' a K', položivše
+differenciaci rovnice /K' = M (^L -f- id\J) ; poněvadž determinant J' K — J K' jest různý od nully, jest nutno, aby koefficienty u J a K, každý o sobě, vymizely. Máme tedy
+dk
+k k'
+dl
+//'
+kdk __ ť/M   ,   Idl
+~A'2               M              7/2""
+MaN
+První z těchto relací nalezena Jacobi-m a podána ve Fundam. § 32.; jakož známo, jest významu základního v theorii transformace. Vzhledem k ní lze druhou relaci psáti ve tvaru
+k dk V*
+M
+Idl /'«
+nkk
+,'•2    » ﻿21
+z čehož odvodíme následující výraz, jenž jest, jakož jsme již byli ohlásili, ryze algebraický:
+7        »
+k němu připojím applikace.
+Nejprve uvažujme případ transformace druhého řádu, kde
+M
+l
+Odtud snadno vychází
+Li  —-i
+' ) ~ l
++
+y     v
+pročež
+n i      M*' DA- log —7T
+l
+,2
+,    ,
+odkud ihned
+Přecházeje ku případu, kdy ;/ = 3,   užiji výrazů, jež podal Jacobi v § 13 Fundam. pro oba moduly a pro multiplikátor, totiž
+_ (2 + «)««
+/9     ^3 ^
+/2=   U + «)    «
+M
+Z nich především snadno obdržíme
+,,
+v /        v
+čímž
+a tedy
+3*
+687 ﻿'22
+Majíce tímto způsobem formuli
+dk
+pišme nejprve
+N
+l
+dk    l — ««
+Uváživše napotom, že
+k
+dojdeme následujícího výrazu
+N
+2 (2 « + «2) .
+Odtud řešením dle «:
+a dosazením do výrazu pro k* nalezneme rovnici mezi N a chtěli odvoditi, totiž
+, kterouž jsme
+(!)'-«-(Ť)
+2
+Porovnáme-li tento výsledek s formulí
+o O
+(4
+sn 3 x
+shledáváme, přihlédnuvše k čitateli, ihned, že platí:
+kde man značí dvě libovolná celistvá čísla.
+O
+638"

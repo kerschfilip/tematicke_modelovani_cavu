@@ -1,0 +1,590 @@
+"","x"
+"1"," ﻿ROČNÍK XII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 34.
+
+
+Studie polárním planimetru. Část
+
+
+Napsal
+
+
+Jindřich rvi
+
+
+báňský akademik Lubně.
+
+
+(Se obr. textu.)
+
+
+(Předloženo dne 16. října 1903.)
+
+
+následujících řádcích hodlám uveřejniti první svou studii polárním planimetru, níž jsem byl již nadchnut, když jsem planimetru poprvé přednáškách slyšel, pak ještě více tím, mne můj učitel Edvard Doležal, prof. báňské akademii Lubně, zasvětil své interes-santní práce polárním planimetru zároveň vyjádřil, musí platiti jisté dosud neodkryté relace polárním planimetru.
+
+
+Úkolem naším jest, základě polárního planimetru Amslerova, který budeme zde nazývati »polárním planimetrem kruhovým*, dokázati, podobných planimetru polárních, které budou lišiti pouze dráhou, níž bod vodivý pohybuje (obr. 1.), možno sestrojiti tolik> kolik vůbec křivek existuje. Při polárním planimetru kruhovém pohybuje totiž bod vodivý kružnici, která jest určena pólem ramenem pólovým Shotovíme-li však tuto dráhu pro bod ČT, můžeme vynechati pól rameno pólové čímž ovšem jsme pro praxi nezískali, naopak ztratili; avšak theoreticky pro pohyb bodu jest úplně lhostejno, ponecháme-li zbývající části planimetru beze změny. Nahradíme tuto dráhu kruhovou drahou ellip-tickou, ostatní součástky planimetru neměníce, obdržíme planimetr polární ellipt ický, podobně parabolický d., čili obecně »polární planimetr křivkový*. Hlavní zřetel ovšem bude nutno bráti odvození rovnic vyjadřujících plochu, předloženou křivkou omezenou.
+
+
+Rozpravy: Roč. XII. Tř. II. 34.
+
+
+XXXIV. ﻿Dříve než však řešení tohoto thématu přistoupíme, podáme novou theorii pro polární pláni metr kruhový, která theorii Dr. Lásky prýští jednoho pramene, abychom tím opatřili potřebnou kontrolu.
+
+
+Bod po-hybujž křivce, jíž plošný obsah jest určiti, bodě budiž kotouč
+
+
+poloměru bod pak budiž pól. Položme
+
+
+TČ—c, UŠ=a, PŠ=Q,
+
+
+Vykoná-li tento mechanismus pohyb nekonečně malý, takže přijde 5', C', vznikne
+
+
+SřC'P— d»t CPC dy, Obr. <3C PS' ~dK,^. dy-d&.
+
+
+Značme dále plochu SCP=flt SrCP-f„ SS'P~ df„ ar(S'SCPC'S'} d<D.
+
+
+obr. vyplývá d^—A —/s+^/s.........í1-)
+
+
+...
+
+
+sin —=-L
+
+
+
+
+
+čili
+
+
+y1-/1 -rf/1 --^-cos»rfd......(i.)
+
+
+dále
+
+
+df,= ýdl..........(2.)
+
+
+Tedy rf/i df,.........(I/)
+
+
+&PCS vysvítá
+
+
+5,2= 2ac cos^........(3.)
+
+
+dle sinusové věty
+
+
+sin sin -(- O1)........(4.)
+
+
+čili
+
+
+cotg 7^—S sin
+
+
+XXXIV. ﻿»^iti L*• 919 ••••
+
+
+—(— -.— cos
+
+
+Differencováním rovnice (5.) vzhledem (6.) obdržíme
+
+
+(*-
+
+
+dP--<~ 2acco99
+
+
+Dle obr. (1.) platí relace
+
+
+úřA <^<jp -j- ť/(íí cos O1)
+
+
+drp
+
+
+-{- 2accos& Dosadíme-li tuto veličinu rovnice (2.), obdržíme
+
+
+(60
+
+
+(70
+
+
+(8.) (9.)
+
+
+dfs (a2
+
+
+cos
+
+
+(2'.)
+
+
+-i- cos^)
+
+
+cos O1) dw-----^r-
+
+
+
+
+
+Rovnice takto psaná značí, možno plochu d<Ď vyjádřiti rozdílem dvou výsečí kruhových poloměru resp. středovém úhlu d(p, resp. d&.
+
+
+Dejme rovnici (I^.) tuto podobu
+
+
+sečtením rovnicí (1.) vychází
+
+
+
+
+
+čili kratčeji
+
+
+
+
+
+(dy dff)
+
+
+
+
+
+sccs1 cfsf .... (i7"".)
+
+
+
+
+
+Tento rozklad plochy č/<5 ukazuje novou cestu odvození rovnice (I/). (Viz: Dr. Láska, Lehrbuch der Vermessungskunde, str. 136.)
+
+
+Abychom mohli rovnici (1^.) integrovati, nutno buď znáti vztah mezi anebo výraz accos&dcp nahraditi jiným integrace schopným. Tuto funkci vykonává kotouč.
+
+
+Délka ĚTĎ odpovídá válení, B'D smýkání kotouče. Tudíž
+
+
+InRdv BĎV -\- ĎJ) —ccos»d<p b(d<p
+
+
+Dosadíme-li tuto rovnici (1'J, obdržíme konečně
+
+
+(rt -XXXIV.
+
+
+-\~ InaRdv. (II.) ﻿Odtud vyplývá hledaná rovnice integrační:
+
+
+(a2 -}- 2ab] dy--
+
+
+2naR\dv ......... (III.)
+
+
+
+
+
+Abychom určili mezné hodnoty integrační, pozorujme, jaký pohyb vykonávají jednotlivé body
+
+
+Počáteční poloha bodu kryje konečnou, jelikož křivka, jíž plocha určiti, musí býti uzavřena. Poloha bodu nemění. Avšak vzhledem bodu dlužno rozlišovati dva případy, totiž:
+
+
+identickou symmetrickou polohu bodu
+
+
+Praktický význam má? jak ukáže, pouze identická poloha bodu
+
+
+Identická poloha bodu resp. planimetru, jest karakterisována tím, poloha planimetru počátku pohybu stotožní polohou jeho konci pohybu, při čemž dlužno dobře rozeznávati, kterou cestou bod vrátil své původní polohy.
+
+
+bod může totiž pohybovati tam zpět, při čemž možno tedy psáti rp2 <p}
+
+
+mimo jest í>9
+
+
+
+
+
+Rovnice (III.) nabývá tvaru
+
+
+kn^, .(IV.)
+
+
+kde značí počet otoček známou konstantu.
+
+
+pí) 2it #,. Rovnice (III) promění
+
+
+——a(a~ 2b)n -\- knf .(V.)
+
+
+Bod může se, vykonav cirkulaci, navrátiti původní polohy, takže: qp2 2zr -J- g^, při tom
+
+
+Tedy
+
+
+<í>
+
+
+
+
+
+2ab)
+
+
+(VI.)
+
+
+Plocha pak vyjádří:
+
+
+(VII.)
+
+
+XXXIV. ﻿B. Symmetrickou polohu bodu obdržíme, jestliže konečná poloha planimetru jest obrazem polohy počátečné, při čemž rovina zrcadla prochází syrnmetrálon stojí kolmo podložce.
+
+
+Budiž SCP počátečná poloha planimetru (obr. 2.), pak jest SC'P)eho poloha konečná.
+
+
+Snadno můžeme představiti^ mezné integrační hodnoty vliv relativní poloha pólu křivky, jejíž plochu jest určiti. určení plochy bylo nutno měřiti jednu veličinu, př. <^C mimo ještě odečísti počet otoček. právě této příčiny symme-trická poloha bodu pro praxi malý význam.
+
+
+Vyšetřiti, jaké hodnoty příslu-šejí jednotlivým mezím integračním tomto případě, jest úkolem
+
+
+geometrickým.
+
+
+Zařídíme-li planimetr tak, aby bod rayon překročiti nemohl, zamezíme též symmetrickou polohu bodu Avšak tím získáme více. Neboť také tétéž příčiny odpadají rovnice (V.) (VII.).
+
+
+Zbývá nám tedy pro určení plochy známá dvojice rovnic, totiž rovnice (IV.) (VI.).
+
+
+Theorie polárního planimetru křivkového.
+
+
+Při polárném planimetru kruhovém jest kružnice, jak již počátku bylo řečeno, níž bod pohybuje, určena pólem polárním ramenem Možno však těchto dvou určujících veličin postrádati, sestrojíme vhodně zmíněnou kružnici, čemuž také jsme nuceni, když př. polární rameno nekonečně zvětší tím promění kružnice přímku (po lární planimetr lineárný); při tom předpokládáme, ostatní části planimetru zůstanou beze změny.
+
+
+Nebude zajisté nesnadným, zmíněného zvláštního případu vše. obecnému přistoupiti, nahradíme-li jmenovanou kružnici libovolnou křivkou. Zajímavou bude nyní otázka, zda-li křivka tato býti uzavřena, jaké vlastnosti tato křivka míti, aby mechanické provedení její bylo jednoduché výsledek možná nejsprávnější, podle jakých rovnic pak předložená plocha určiti, zda možno tyto vyvoditi vůbec anebo jen zvláštních případech, zda nutno tím účelem znáti povahu dotyčné křivky čili nic.
+
+
+Rozumí se, zde budeme míti dvojí polohu bodu identickou rozlišnou, když původní poloha planimetru konečnou
+
+
+XXXIV. ﻿nekryje (odpovídá poloze symmetrické). známé však příčiny budeme přihlížeti pouze případu prvnímu.
+
+
+příčinou analogie budeme voliti zde týž postup důkazu, jako planimetru kruhového.
+
+
+Bod pohybujž libovolné křivce r=f(cp), jejímž pólem jest bod přímka polární osou; bod 5"" pohybuj křivce, jejíž plošný obsah jest určiti, bodě jest kotouč poloměru Mysleme si, přístroj ten vykonal differencialní pohyb, takže bod přišel bodu S', B'.
+
+
+Značme dále
+
+
+(SCP S)—
+
+
+SCP #,> S'CP -{-
+
+
+dx, CPS
+
+
+~ČŠ obr. vedle stojícího vyplývá: d*=fl-f9+éf, (I.)
+
+
+srn
+
+
+Jest zřejmo, platí vztah
+
+
+tedy
+
+
+Dále
+
+
+
+
+
+cos
+
+
+(2.)
+
+
+ft.
+
+
+
+
+
+obdržíme
+
+
+C2-
+
+
+sin2
+
+
+-(- cos Differencováním rovnice (4.) zřetelem rovn. (5.) obdržíme
+
+
+XXXtV.
+
+
+cos 31	. (3.)	
+
+
+cos &	. (4.)	4
+
+
+sin i)1		
+
+
+.í2 sin2 &	. (5.)	
+
+
+﻿sin cos O1)
+
+
+<22 -f- cos
+
+
+(6.)
+
+
+Vložením rovnice (2.) vyplyne
+
+
+(#2 -j-?-2 cos úřqp
+
+
+cos
+
+
+(7.;
+
+
+Konečně
+
+
+•=. dep
+
+
+sin
+
+
+čili
+
+
+sin dr-----— (I'.)
+
+
+Druhá část tohoto důkazu určena jest transformaci rovnice (!') příčinou integrace, kterou vykoná kotouč.
+
+
+Také zde odpovídá délka válení B'D smýkání kotouče; tedy
+
+
+
+
+
+Dále vyjádříme
+
+
+RD\ —KČ~~ČČ' sin sin (0- «), kde ~ČC' ds. čili BDÍ cos (sin 9""—cos .....(8.)
+
+
+/""^/^' /'""V l\LL plyne
+
+
+rd(f cos tgazi------.—
+
+
+Dosazením těchto veličin rovnice (8.) vyplyne
+
+
+BD± sin •O1 cos d<p.......(8
+
+
+D^D (d<p dO1) •........(9.)
+
+
+Tudíž
+
+
+InRdví^ sin cos
+
+
+Násobíme-li tuto rovnici veličinou odečteme rovnice (I'.), obdržíme
+
+
+2naRdv .... (II.)
+
+
+Odtud konečně rovnice integrační
+
+
+
+
+
+4-\(*"" 1ab}dy 2b} dft 2naR \dv .(III.)
+
+
+
+
+
+
+
+
+XXXIV. ﻿Opominouce rozlišnou polohu planimetru, přikročíme určení mez-ných hodnot integračních při identické poloze planimetru Pohybuje-li bod tam sem, qp2 qpt je-li
+
+
+bude hledaný plošný obsah vyjádřen rovnicí:
+
+
+(IV.)
+
+
+kde značí počet otoček kotouče konstantu.
+
+
+Pak
+
+
+2ti) -{-2naRn\ ....... (V.)
+
+
+Navrátí-li bod vykonav cirkulaci, své původní polohy, jsme oprávněni klásti <p2 ~2n -\- q)l, je-li mimo
+
+
+rovná plocha
+
+
+-\- knr
+
+
+r2dq) plocha omezená křivkou, níž bod pohybuje.
+
+
+Kladouce
+
+
+zjednáme jednoduchý tvar
+
+
+
+
+
+rovná hledaná plocha kde 2b)n.
+
+
+a(a 2b)n
+
+
+(VI.)
+
+
+x-\- kn'4,
+
+
+(VII.)
+
+
+Nyní jest třeba uvážiti toto: případě (a) může býti křivka bodu docela libovolná. Avšak má-li bod pří pádě (//) navrátiti vykonání cirkulace své počáteční polohy, jest patrno, křivka, níž bod pohybuje, musí býti uzavřena. Zároveň dlužno připomenouti, pro tento případ theoreticky též přímky možno použiti, ježto můžeme pokládati kružnici nekonečně velikou, tedy rovněž křivku uzavřenou; prakticky ovšem nemá významu, jelikož tím vzroste nekonečna. Avšak podstatný rozdíl poskytují nám spirály.
+
+
+XXXIV. určení plochy jest rovnice (IV.) nejvýhodnější pro svůj jednoduchý tvar.
+
+
+Abychom přesvědčili správnosti tohoto důkazu, použijeme pro tento obecný případ theorie Dr. Lásky podané knize již jednou citované, která vztahuje planimetr polární kruhový kterou jistém směru zjednodušíme.
+
+
+Plošný differencial možno totiž vyjádřiti takto:
+
+
+<i> CPC SCCSi
+
+
+čili
+
+
+-\-a.BDi
+
+
+Pro počet vykonaných otoček obdržíme rovnici
+
+
+(II.)
+
+
+Násobíme-li tuto rovnici veličinou odečteme rovnice (L), zjednáme známou již rovnici differenciální
+
+
+(""24-2
+
+
+ti) q>-----—
+
+
+
+
+
+InaRdv (III.)
+
+
+Další postup jest již důkazu prvního znám.
+
+
+Tak tedy dvojím způsobem dokázáno, lze planimetr kruhový nahraditi libovolným křivkovým. Zvláštního povšimnutí zasluhují výrazy pro předloženou plochu, protože jsou při úplné všeobecnosti tak jednoduché.
+
+
+této prvé části polárním pláni metru* rozšířen pojem jeho vzhledem jedné jeho části, totiž vzhledem pohybu bodu Zbývá pojednati ještě pojmu kotouče ním souvisejícími vlastnostmi polárního planimetru, dále pojmu ramen jeho konečně jistých velmi zajímavých jeho relacích, kterýchžto věcech budeme psáti později.
+
+
+XXXIV. ﻿*"

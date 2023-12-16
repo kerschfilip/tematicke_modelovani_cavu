@@ -1,0 +1,238 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+TŘÍDA  II.
+ČÍSLO 36.
+Rychle konvergentní vyjádření některých limit.
+Sdílí
+M.   L e r c h,
+professor na universitě ve Fribourgu švýcarském.
+(Předloženo dne 20. května 1899.)
+Ve článku IX. své rozpravy Příspěvky k theorii funkcí elliptických, nekonečných řad a integrálů omezených *) uvedl jsem v souvislost s jistými řadami rychlé konvergence dva integrály, a sice
+U)
+dále
+(2)       * (a., «) =
+cos 2 w n
+d x
+cos 2 ze; ar —l
+Souvislost  ta   záležela  v  invariantivní  povaze   výrazů,   a v nejjednodušším případě zněla tak, že výraz
+log—
+
+_4i   V.,+-,.+^-
+JL
+— l
+*) Rozprav II. třídy č. Akademie ročník IV., číslo 1., str. 35 a násl.
+Rozpravy: Ročn. Vlil. Tř. II. Č. 36.
+XXXVI. ﻿a pak výraz
+8 it y]
+n
+m = — oo
+,L                                 l    »       N
+(O Zt>, -(- L Zí>2 -j- 0 Wí)  —
+— e
+/
+2.T
+(«',   + «)«
+zůstane ve své hodnotě nezměněn, vyměm-li se litery a a c, a současně ?ťj a wz. Při tom «, /^, c byly veličiny reálné, «, c mimo to kladné, podobně výraz 4 — ač — b2.
+Těchto vlastností využitkujeme nyní pro odvození vzorců sloužících k rychlému vypočtení hodnot integrálů ^ a %. Položíme b — O, takže bude ^/ 1= a í, a vypíšeme rovnice vyjadřující vlastnost právě vyslovenou ; tak obdržíme vztah
+(3)
+l
+l
+Vf. V( ;
+»•* 7T « + 2 .T Vf.   \/(Wl + ,„)* + -""
+r *   l              «__ ^
+l      /        »\
+= log7 + ^^2,7J +
+a dále
+(4)
+
+00
+n
+n
+IW = — 00
+' cos 2 zt-j jr -f- <r
+kteréžto rovnice řeší daný problém. Jest však důležito, aby pravá podstata vyšetřovaných výrazů vynikla, převésti integrály na tvar řad neb limit, třeba jen zvolna konvergentních.
+XXXVI. ﻿O íunkci  ty (w, u}  toho   docíleno  již v citované rozpravě, kde bylo dokázáno, že
+(5)
+ty (ze/, «) = lim
+— 2 log n
+Abychom podobnou otázku řešili pro druhý integrál, uvedfrie nejprve oba integrály na jednodušší tvar tím způsobem, že zavedeme integrační proměnnou
+/       2     i           i.    J                  -|/~I2/                    tAt
+t—\x*-\-H) tedy x = V r — u,   d x —      q         .
+Tím způsobem obdržíme nejprve
+N      .               ,
+''.«) = log— + 4
+čili přehledněji vyjádřeno
+e2ntcos 2wn — l
+COS     W7T----
+dt
+J cos hyp 2 it t — cos 2 w n   i/ ^__u
+t~                                            '
+Podobně
+(V)
+cos 2 w n — e~
+2   l  cos hyp 2 n t — cos 2 w it
+V /2 — u dt.
+Differencujeme-li výraz (7) vůči u, vyjde
+— 4 í (w, u] =
+COS 2 W 1t ----
+dt
+cos hyp 2ní—cos2wjr  J/2__
+yT   iy
+kde psáno %' (w, ?/) za —j-=-.   Porovnáme-li s (6), plyne
+8 a;' («;, «) + ^ (ze;, «) + log — = O,
+takže vyjde 8
+(«                      1
+2 log « — V     ,-          ==
+^_ V (^' H~ /';)""
+Integrujeme-li dle u v mezích L0 a -cr, obdržíme
+XXXVI.
+ ﻿8 % (zv, z) — 8 i (w, L•„) = (l + 2 log 2) (s — s^ — z log z -f s0 log ^0 /                              «     _        «
+im    2(*-*0)log«-2 V >/(«'+iOsl + * + 2V V(^ + "")2 = -
+""\
+o J
+čili
+4 3; (zv, s) — 4 i (zv, J0) = (y -f log 2J (s — ^0) — - s log s -f - ZQ log ^
+/^                                    n      __        u       ______ ""\
+~j- lim     z log n — 20 logw — V V (w -\- v)2 -f- z + V V(w + v)a + -o     •
+« = co l                                                         *••                                                    ^™                                                 f
+\^                                          - «                                         — «                                     /
+V tomto   vzorci   přejděme  k mezím   pro  ^0 == O,   při   čemž chceme předpokládati O < w <C l ; i obdržíme
+4 l («,, L:)-4 Z (zt;, O) = (-i- + log 2) 0 - -L •; log 0
+/""              «     __                        ^v
++ lim     «log«— V V(«' +"")»+«+ re; + «(«+!)   l
+—V          --                                 7
+Při tom jsme užili okolností, že
+a tedy
+V)2 = J      w + v pro v = O, l, ... — «
+l — v — zv    >    v = — l, — 2, ... — n
+. «(«-hn
+n(n-\-\)
+Hodnotu i (zv, 0) určíme přímo z integrálu (7); a sice
+(w, 0) =
+l
+cos    ry» —
+2   } cos hyp 2nt — cos 2zvjt
+-tdt
+^_         i________________:_______________
+:i+2lI""r<'_i  '   ezt^-^w7t'_l
+= s
+cos 2 n zv n
+XXXVI. ﻿Scos 2nwn        l   /                      l \ -------------------- =----l  Ti)    ---- lít ~T""  -----  l • 4n*n2           4 V                 l    6 J
+Vložíme-li tuto hodnotu
+(8)                                   4
+, 0) = iv2 • — w -\- -_-
+do posledního vzorce, obdržíme
+, z) =
+- log 2   s —
+-j- ™2 -j-
+r» ^log« — w2 -\-n— J
+Píšeme-li v rovnici (3) « ^ na místě u, a klademe-li —=/2, obdržíme
+--- t/' (cL'2, /2 «) = lo
+l
+cos
+(3*)
+
+^z)2 -f- ?/
+l
+cos hyp   2 n t   (ze'! -f-
+u ) —
+cos 2 a
+cos
+cos hyp
+_ Cos 2 Wl »
+kterýžto vzorec poskytuje pohodlný prostředek k číselnému stanovení funkce ty (w, u], když se za w2 a t2 u zvolí vhodné konstanty. V mnohých případech, jako na příklad při stanovení Riemannova potenciálu*)
+»í  =---- CO
+*-2
+— a)
+stačí   znáti   rozdíly tvaru ty(wltu) — ty(w^u\ pro něž se obdrží ze vzorce (3*) rozvoj zvlášť rychle konvergentní, ano tu í = 1.**) Podobným způsobem plyne z rovnice (4)
+8 n
+(4*)
+_.
+l — 2 e
+„      .
+cos 2 ?L'2 n   \~ e
+cc   1 — 2
+cos 2 ct'! ^ -)-
+*) Zuř Theorie der Nobili'schen Farbenringe (Poggendorffa Annalen der Physik u. Chemie, sv. 95; 1855, též v sebraných spisech R., druhé vyd. str. 57)
+**) Jiné a přímé  odvození  z podobného   pramene  vyjde  ve  Věstníku (Theorie funkce gamma).
+XXXVI. ﻿(10)
+Volíme-li  / zz l, a nahradíme-li   výrazy % jich hodnotami na základe vzorce (9) vyjádřenými, obdržíme
+lim    V (\i(ti'i -{-v}2 -\-u —
+n=--<a     ^   \
+oo                           — 2 .T V(«', -4-»T
+1—2*       V   1+
+ze^o
+0           ,
+cos 2 w2 it -4- e
+2e
+Abychom vypočetli limitu (w = 0)
+/""
+-f- lim l L log « -(- w
+« = oo v^
+aneb, což totéž jest, integrál
+V \/ v ^
+V ar — L
+potřebujeme znáti toliko konstantu 2
+(11)
+)g 2 -(- lim
+
+= 0,399108 .    . *)
+čili A zz 4 ^ (O, 1). Podle rovnice (4*J pak obdržíme pro « —- l, 7^ = zt
+00                   _27t/v»«24-l
+čili
+(12)
+l—
+*)   Opakování  výpočtu  obratnějším  počtářem,   disponujícím dobrými tabulkami, bylo by žádoucím.
+XXXVI. ﻿kde psáno
+(12"")
+Poznamenání. Na různých místech, zejména pak v rozpravách Základové theorie Malmsténovských řad a Další studie v oboru Malmsténovských řad vytkl a zužitkoval jsem souvislost funkce
+cc
+v*         l
+(w -\- v}5
+s theorií funkce gamma, jež vyjádřena rozvoji
+i         rf(-
+-f A, (s - 1) + . . . ,
+R (w, s) —
+Mám za svou povinnost: sděliti na tomto místě se čtenáři svých prací že tyto dvě věty základní byly již dříve známy, a sice obsažena prvá v publikaci pana Heřmana Kinkelina, professorana universitě Basilejské: »Allgemeine Theorie der harmonischen Reihen, mit Anwendung auf die Zahlentheorie* (Programm der Gewerbeschule Basel 1861 — 1862)«, druhá věta pak zároveň s applikací na dovozem' řady Kummerovy přichází v rozpravě »Dr. Ernst Schróder, Eine Verallgemeinerung der Mac-Laurin'schen Summenformel nebst Beitrágen zuř Kenntniss der Bernoullischen Function« (Ziirich, Programm der Cantonsschule 1867).
+Dodatek. Chceme ještě podati vysvětlení, jak lze docíliti číselné hodnoty konstanty A.
+Jde nejprve o limitu výrazu
+B,t = n2 -f n + log n — l — 2
+jemuž udělíme tvar
+Btt = n2 -f- n -\- log n — l — 2 Ježto dle věty binomialní
+_1___1_  ,       1^3_ J_
+""2.4   i/3~T"" 2.4.6""v5
+1.3.5      l ""274.6.8 ^ —
+obdržíme
+XXXVI. ﻿10
+16
+-
+128 -J
+10
+•dle čehož se jeví B„ ve tvaru
+B. = (log . -       - 1   90 - 2
+10
+Přejdeme-li   k limitě   pro   n = co   znamenajíce   literou    C   konstantu Eulerovu
+C =0,5772156649 . . . a kladouce
+R,         L-J—J-J.-1        '         l        • '         ~TO'
+obdržíme
+ir
+12*
+<*)
+Veličiny 1?3, R^, R^   lze stanoviti pomocí řady semikonvergentní pro
+funkci
+K           1
+(M = S 1^:7)
+která zní (Rozpravy č. A. ročník III., číslo 28.)
+l                    l       ,
+1""    ''1
+12
+30         3
+l           l   /^+4\
+^5+^ ~""     84 V    5   )
+sice bude zde
+a = 10, AJ (a, j) -r A',, Podle tohoto vzorce jsme vypočetli
+XXXVI. ﻿R.A = 0,0055246692 AJ5 = 0,0000304051 A\ = 0,0000002215
+9                     9
+Součty   V -   -   a  V Jv2~\-l     dlužno   počítati   přímo,   což   jest   při
+celém výpočtu nejzdlouhavější.
+XXXVI. ﻿*"

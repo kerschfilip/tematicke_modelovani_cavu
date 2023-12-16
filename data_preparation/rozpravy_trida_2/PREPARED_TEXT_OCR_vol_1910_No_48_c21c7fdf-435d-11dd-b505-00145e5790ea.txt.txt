@@ -1,0 +1,2624 @@
+"","x"
+"1"," ﻿ROČNÍK XIX.
+
+
+ČlSLO 48.
+
+
+kvadratických komplexech kružnic rovině.
+
+
+Napsal Dr. Bohuslav Hostinský.
+
+
+(Předloženo dne 14. října 1909.)
+
+
+tJVOD.
+
+
+Přítomná práce zabývá kvadratickými komplexy kružnic rovině dle programu naznačeného Kleina. Kružnice znázorňují body prostoru tak, geometrie dotykových transformací kružnic rovině jest ekvivalentní geometrii konformních transformací prostoru; kvadratický komplex kružnic zobrazuje cyklidou.
+
+
+Klassifikace kvadratických komplexů jest dána Loriovou klassi-fikací cyklid, která jest provedena dle známé methody Weierstrassovy. dělí cyklidy druhů; nich však toliko druzích vyskytují cyklidy reální. těmto desíti reálním druhům vztahuje téměř celá literatura cyklidách, níž jest pro směr této práce zvláště významný Bócherův spis ,,t)ber Reihenentwickelungen der Potential-theorie"" (1894). Bócher studuje zde všechny degenerace trojnásobně ortogonálního systému konfokálních cyklid zv. souřadnic cyklidických zřetelem applikacím theorii potenciálu. Rozšíření jeho method studium ostatních osmi druhů cyklid nemá ovšem již takového zájmu, poněvadž jednalo jen plochy imaginární. Jestliže však dle Kleina sledujeme zároveň geometrii kružnic rovině, obdržíme zde zajímavé výsledky, neboť všech druzích naší klassifikace vyskytují komplexy reální. jest vlastní předmět této práce.
+
+
+Pro všech druhů řeším následující dva problémy: ustanovení zv. křivky singularit řad oskulačních daného komplexu. Při řešení prvního problému užívám hojně representace kružnic body prostoru; tím vývody značně zjednoduší, což platí zejména důkazech vět týkajících křivky singularit obecného komplexu [11111]. Druhý problém
+
+
+Rozprava: Roč. XIX. Tř. II.
+
+
+XLVIII. ﻿řeším užitím souřadnic, jež odpovídají souřadnicím cyklidickým, sleduji všechny degenerace systému konfokálních komplexů. Zavedením oněch souřadnic oddělí proměnné differenciální rovnici oskulačních řad shledáváme tak, oskulační čáry jsou algebraické druhů [(11) (11) 1], (11) [221] pro některé hodnoty absolutních invariantů, druhů [(41)], [(32)] [5] vůbec. Differenciální rovnice vede ostatních druhů hyperelliptickým integrálům rodu aneb nižším transcendentám.
+
+
+Tím jsou zároveň ustanoveny minimální Čáry cyklidách; speciálně jsou určeny všecky cyklidy plochy stupně) minimálními čarami algebraickými.
+
+
+Podotýkám ještě, odvozuji odst. 39. diskussi oskulačních čar komplexu [(32)] rovnice systému parallelních křivek čtvrtého stupně, který, pokud vím, nebyl dosud znám.
+
+
+Orientované kružnice rovině.
+
+
+Orientovaná kružnice jest určena pravoúhlými souřadnicemi (a, středu poloměrem daným znamení.
+
+
+Průsečný úhel dvou kružnic (a, (a', b', jest určen rovnicí
+
+
+cos <\> d?—r2—r'2, (1)
+
+
+kde značí vzdálenost středů (a, (a', b'). Úhel <jp tedy nezmění, změníme-li současně orientaci (t. znamení poloměru) obou kružnic. Kružnice dotýkají, když
+
+
+cos tedy
+
+
+/)2 (2)
+
+
+Jsou-li obě kružnice reální, mohou dotýkati vně (n. uvnitř), jen když mají oba poloměry nestejná (n. stejná) znamení.
+
+
+Délka společné tečny dvou kružnic jest určena rovnicí
+
+
+aT- +(b- &')2 r')8 (»)
+
+
+případě dvou kružnic reálních stejně (n. nestejně) orientovaných jest délka společné tečny vnější (n. vnitřní).1)
+
+
+Takové pojímání geometrie kružnic zejména důsledně provedl Sur geometrie direction (Bulletin Socicté math. France 8.; 1880); Sur les hypercycles (Comptes Rendus 94; 1882); Transformation par semidroites réciproques (Nouv. Annales Math. 3me série, 1882) Viz též II.
+
+
+XLVIII. rovnic (1) (2) plynou následující důsledky: Je-li poloměr kružnice nekonečně malý, jest cos <jp nekonečně velký tak,
+
+
+lim cos op) —-------- (4)
+
+
+
+
+
+Kružnice poloměru rovném nulle dotýká kružnice konečném poloměru, leží-li její střed obvodu této.
+
+
+Dvě kružnice poloměrech rovných nulle dotýkají, je-li vzdálenost jejich středů rovna nulle leží-li jejich středy přímce isotropické.
+
+
+Píšeme-li
+
+
+*-í-, JL, ,=.!.. ťíi-i-5i-,ra (5)
+
+
+
+
+
+splňují veličiny rt, (homogenní souřadnice kružnice) homogenní kvadratickou rovnici
+
+
+*""*'
+
+
+Obecněji budeme pokládati homogenní souřadnice kružnice pět lineárních homogenních forem xlt xz, x^, proměnných ri, (i, splňují vždy kvadratickou homog. rovnici
+
+
+polarisací formy obdržíme formu (^; yť), jež vymizí, dotýkají-li kružnice (x^ (Vj).2)
+
+
+Později budeme užívati následujících tří soustav
+
+
+«/, ĎÍ, ,T3 2irt, («2 í2),
+
+
+#f=«*+;&t—r8—**;
+
+
+xf+xf xf+x*
+
+
+212, -^x2, irt:
+
+
+2xíx2 x32-j-x? ^52
+
+
+^2, r-~ '""=
+
+
+irt;
+
+
+A;2 .TS .r4 A;52
+
+
+těchto vzorcích jsou psány pravoúhlé souřadnice středu^a poloměr
+
+
+formě homogenní (—, místoMrívějších r}.
+
+
+
+
+
+Srv. Klein: Vorlesungen íibcr hóhere Geometrie I., 208.
+
+
+XLVIIL ﻿3. Rovnice kružnice pravoúhlé soustavě souřadné jest
+
+
+užijeme-li formulí (5). Pro obdržíme přímku (orientovanou); jestliže jest přímka isotropická nepřipouštějící dvojí orientace. rovnice
+
+
+vyjadřující dotyk dvou kružnic vyplývá, dvě přímky rovnoběžné stejně orientované:
+
+
+___ ___ ___ ___
+
+
+
+
+
+dotýkají.
+
+
+Kružnice nekonečně vzdálená A^o) dotýká každé přímky (ji' 0).
+
+
+System vůbec vylučujeme (podobně jako vůbec systém x-i jakékoliv soustavě); nepředstavuje žádné kružnice.
+
+
+Dotykové transformace kružnic rovině.
+
+
+Každou (orientovanou) kružnici lze znázorniti bodem prostoru naopak. Kružnici středu (a, rovině poloměru nechť odpovídá bod (x, prostoru, jehož souřadnice jsou
+
+
+r.3) (7)
+
+
+Bodům, jež naplňují nějakou prostorovou křivku jsou tak při-řaděny rovině kružnice tvořící jistou řadu C'; je-li křivka minimální (t. protíná-li každá její tečna kružnici nekonečně vzdálenou), jest utvořena oskulačními kružnicemi jisté křivky rovinné (,,řada osku-lační""}. Je-li přímka isotropická, která protíná rovinu bodě jest složena kružnic, jež procházejíce bodem mají něm společnou tečnu. „Přímočarý element"" roviny, společný těmto kružnicím, může být považován obraz isotropické přímky
+
+
+Bodům naplňujícím rozvinutelnou plochu vytvořenou přímkami isotropickými, odpovídají všecky kružnice dotýkající rovinné křivky které protíná rovinu o.4)
+
+
+této transformaci, kterou (Sur les relations cntre les groupcs points etc. Annales scientifiques 1'Ecole Normále Supérieure série, 323) přičítá Cayleyovi, jedná obšírně př. Lie-Scheffers: Geometrie der Beríihrungstransformationcn Kap. 10, 1896.
+
+
+Lic-Schcf crs Kap. 10.,
+
+
+XLVIII. ﻿Má-li plocha dvojnou křivku, odpovídají bodům této kružnice dvojnásobně dotýkající křivky A.5)
+
+
+Pět čísel xít x2, x3> xít vyhovujících rovnici
+
+
+(8)
+
+
+kde jest homogenní kvadratická forma pěti proměnných xit můžeme považovati bucT souřadnice kružnice rovině (dle odst. 2.) aneb souřadnice bodu prostoru, jenž jest kružnici přiřaděn transformací (7). Tak obdržíme pro bod prostoru pět souřadnic pentasferických x^; dalším budeme užívati tří systémů takových souřadnic. Vzorce, které vyjadřují homogenními souřadnicemi pravoúhlými (x, t), obdržíme vzorců konci odst. 2., píšeme-li nich místo ir,
+
+
+(x* t2),
+
+
+~\-
+
+
+212, z2, 2xt, 2yt,
+
+
+2x,x2 x32 x-2
+
+
+212, z2, ~iy)
+
+
+x-0 2zt
+
+
+Skupina konformních transformací prostoru jest analyticky vyjádřena skupinou lineárních homogenních substitucí pěti proměnných xit kterými nemění rovnice (8), interpretujeme-li jako souřadnice penta-sferické.7) Jestliže však interpretujeme jako souřadnice kružnice, představují tytéž substituce skupinu (T) všech dotykových transformací roviny, jež mění kružnice kružnice.8) Skupina (T) isomorfní skupina (T0) všech konformních transformací prostoru) obsahuje libovolných parametrů.
+
+
+Dle Liouvillea lze každou konformní transformaci prostoru rozložiti transformace neměnící tvar (pohyby zvětšení rozměrů) inverse. ukazuje, lze rozložiti dle formule
+
+
+/o-kde značí transformaci neměnící tvar, inversi.
+
+
+(9)
+
+
+Klein I., 479.
+
+
+Darboux (Sur une classe remarquable courbes surfaces algébriques, Notě 1873) zavedl pentasferické souřadnice (systému A). Lor (Geometria della sféra; Memorie delťAccademia delle Scienze Torino Ser. II. 36, 1884) zabýval obšírně obecnějšími systémy takových souřadnic.
+
+
+Viz Klein I., 382.
+
+
+Lie-Scheffers Kap. 10, Klein I., 475.
+
+
+Lie-Scheffers 417.
+
+
+XLVIII. ﻿Symbolický součin značí, nejprve jest applikovati transformaci A0, pak /0.
+
+
+Jiný způsob rozkladu obdržíme následující úvahou: Konformní transformace prostoru jest úplně určena, je-li dána pro všechny body roviny Transformované body naplňují jistou kulovou plochu Budiž inverse, jež převádí rovinu kouli 'transformace
+
+
+fi„ (10)
+
+
+nemění roviny převádí kružnice kružnice; můžeme tedy nazvati kruhovou transformací roviny vlastně transformace prostorová. Je-li dále Z)0 translace, jež převádí střed inverse roviny jest
+
+
+(in
+
+
+(12)
+
+
+inverse mající střed rovině
+
+
+rovnic (10) (11) následuje hledaný rozklad:
+
+
+D0,
+
+
+kde značí kruhovou transformaci roviny translaci kolmou této rovině, inversi mající střed téže rovině.
+
+
+skupině (T0] jsou obsaženy některé skupiny zajímavé svým zobrazením skupině (T):
+
+
+Skupina (P0) pohybů. Každý pohyb možno rozložiti translace rotace; všechny translace tvoří skupinu, rovněž všechny rotace kolem jednoho bodu.
+
+
+Vzdálenost dvou bodů (xlt y,, zt) (v.,, y2> z„) daná vzorcem
+
+
+(x, x.^ (yi v->)2 (z, zj*
+
+
+jest invariantem při každém pohybu.
+
+
+skupině (R(}) rotací kolem bodu (o, jest invariantem
+
+
+(13)
+
+
+(U)
+
+
+Skupina (P„) pohybu transformací symetrických; vytvoří kombinací jedné transformace symetrické (zrcadlení rovině) všemi pohyby. Poněvadž jest každá rotace ekvivalentní sledu dvou transformací symetrických, jichž řídící roviny protínají ose rotace, může býti každá transformace skupiny (Pn) složena translací transformací symetrických.
+
+
+Invariant dvou bodů této skupině jest jako skupině (P()). Všechny transformace skupiny (P0), jež nemění bodu (o, o), tvoří skupinu (R0); každá transformace této skupiny jest ekvivalentní sledu několika transformací symetrických, jichž řídící roviny procházejí bodem (o, o). Invariantem (Rn) jest (14), jako (Rn).
+
+
+XLVIII. ﻿c) Skupina (K0) transformací, jež nemění roviny Každou transformaci této skupiny lze rozložiti translace rovnoběžné rovině rotace osách kolmých této rovině inverse středech téže rovině (mezní případ}' těchto inversí jsou symetrické transformace, jichž řídící roviny jsou kolmé o).
+
+
+Skupina transformací neměnících danou kouli (jejíž poloměr nerovná nulle) jest isoformní (K0).
+
+
+Rovnicemi (7) přenáší úvahy skupině (T„) skupinu (T) (viz odst. 5.).
+
+
+Vyšetřme nejprve transformace odpovídající nejjednodušším transformacím T0.
+
+
+Translacím skupiny (T0), jejichž směr jest rovnoběžný rovinou odpovídají patrně translace této rovině.
+
+
+Je-li směr translace prostoru kolmý rovině jest
+
+
+c10); příslušná dotyková transformace jest tedy
+
+
+
+
+
+
+
+
+dilatace, zvětšení všech poloměrů jistou konstantu. Rotace prostoru, jejíž osa jest kolmá rovině dává podobnou rotaci skupině (7""). Každou rotaci prostoru lze rozložiti dvě transformace symetrické. Volme pro jednoduchost takovou symetrickou transformaci, jejíž řídící rovina prochází osou Ov. Rovnice roviny budiž
+
+
+transformační formule jsou pak
+
+
+
+
+
+cos sin q>.
+
+
+sin cos rp.
+
+
+Kladouce
+
+
+cos
+
+
+—k*
+
+
+obdržíme vzhledem (7) rovnice
+
+
+
+
+
+b'~ A""
+
+
+~ír;
+
+
+&-, sin2tp
+
+
+2ik
+
+
+
+
+
+
+
+
+
+
+
+(15)
+
+
+^/e2
+
+
+jež definují příslušnou dotykovou transformaci skupiny (T).
+
+
+10) Čárkovanými písmenami značím souřadnice útvarů transformovaných.
+
+
+11) Touto substitucí vyhneme imaginárním koefficientům transform. vzorcích (15).
+
+
+XLVIIT. ﻿Při této transformaci, kterou budeme zváti Laguerreovou transformací,12) jsou invariantní všecky kružnice, jež protínají přímku („osu transformace"") úhlu určeném rovnicí
+
+
+
+
+
+COS 1Í>
+
+
+
+
+
+Symetrické transformaci, jejíž řídící rovina protíná rovinu přímce odpovídá Laguerreova transformace ose
+
+
+Každou transformaci skupiny (T), která odpovídá rotaci skupiny (T0), lze tedy složiti dvou Laguerreových transformací. Speciální případy Laguerreovy transformace jsou:
+
+
+Symetrická transformace rovině (je-li rovina kolmá rovině o).
+
+
+Změna orientace všech kružnic roviny (splývá-li tato rovina rovinou a).
+
+
+transformacích skupiny (T), které odpovídají prostorovým inversím, bude jednáno později; je-li střed inverse rovině jest příslušná transformace opět inverse.
+
+
+Applikujme nyní formuli (12) libovolnou transformaci skupiny (T), která odpovídá konformní transformaci T0.
+
+
+Transformaci odpovídá kruhová transformace složená pohybů inversí rovině transformaci odpovídá dilatace transformaci odpovídá inverse rovině Vzorec (12) vede rozkladu:
+
+
+D-I (16)
+
+
+dané křivky algebraické jejíž stupeň jest třída počet in-flekčních tečen multiplicity kruhových bodů /2, vzniká inversí (není-li pól inverse bodem křivky) křivka, jejíž charakteristická čísla jsou, jak známo
+
+
+/2) /2), m-/2, /»'=*»—/!.
+
+
+Charakteristická čísla křivky vznikající dilatací jsou dle známé theorie
+
+
+
+
+
+
+
+
+w"" 2w, i"" 2*. L""-ri-
+
+
+
+
+
+znamená počet bodů, kterých dotýká přímky nekonečně vzdálené. Nebudeme-li později někdy zvlášť udávati, rozumí se, jest
+
+
+Viz pozn. Laguerre rozšířil tuto transformaci prostor (Comptes Rendus 92, 71; 1881); srv. též D:arboux: Le9ons sur théoric generále děs surfaces (1887), Livre II. Chap. VIII. Formule tam uvedené (sub [8] str. 254) souhlasí našemi formulemi (15).
+
+
+XLVIII.
+
+
+Čísla m""', n"" platí pro úplnou obálku kružnice konstantním poloměru, jejíž střed pohybuje křivce Rozpadá-li obálka
+
+
+m"" n""
+
+
+dvě parallelní křivky, patří každé nich čísla ——, —^— .13)
+
+
+
+
+
+10. Skupinám konformních prostorových transformací vypočteným odst. odpovídají rovině následující skupiny dotykových transformací které převádějí kružnice kružnice:
+
+
+Skupina (P), jejíž každá transformace skládá pohybů, di-latací sudého počtu Laguerreových transformací.
+
+
+Skupina (P), jejíž každou transformaci lze rozložiti pohyby, dilatace Laguerreovy transformace. (ť) jest obsažena skupina (R) všech Laguerreových transformací, jichž osy procházejí počátkem (o, o).
+
+
+Invariantem dvou kružnic (av b}, (az, b2, r2) skupině (P) jest dle rovnic (7) (13)
+
+
+02)2 (b, btf (r, r^,
+
+
+kterýžto výraz představuje čtverec společné tečny obou kružnic [dle rovnice (3)]. Tedy:
+
+
+Všechny transformace zachovávající délku společné tečny dvou kružnic tvoří skupinu, jejíž každou transformaci lze rozložiti pohyby, dilatace Laguerreovy transformace™}
+
+
+skupině (K] jest invariantem kružnice (a, dle (14) výraz
+
+
+a'2 r'2,
+
+
+potence kružnice vzhledem počátku (o, o). Tedy:
+
+
+Všechny transformace neměnící potenci kružnice vzhledem danému bodu tvoří skupinu, jejíž každá transformace skládá transformací Laguerreových osách daným bodem procházejících.
+
+
+Skupina (K] konformních transformací kruhových. Invariantem dvou kružnic jest zde jejich průsečný úhel.
+
+
+Lineární komplexy kružnic.
+
+
+11. Lineární rovnice mezi souřadnicemi definovanými odst. 5.:
+
+
+tfo (17)
+
+
+představuje plochu kulovou A„, interpretujeme-li jako souřadnice
+
+
+13) Tento případ nastává. je-li možno uděliti každému poloměru křivosti křivky určité znamení (,,orientace křivky""); takovém případě prostorová křivka minimální, jež řadě oskulačních odpovídá, není souměrná rovině
+
+
+14) tep nos (Sur geometrie děs sphěres; Comptes Rendus 92, 1195, 1881) upozornil obdobnou skupinu dotykových transformací prostorových, jež mění koule koule objasnil souvislost Laguerreových ideí principy Lieovy geometrie ploch kulových.
+
+
+XLVIII. ﻿10
+
+
+pentasferické; považujeme-li však souřadnice kružnice, představuje (17) „lineární komplex kružnic"", který nazveme Každému bodu (x^ koule odpovídá kružnice (xt) komplexu naopak [dle rovnic (7)]. Tato definice lineárního komplexu kružnic jest analogická definici lineárního komplexu ploch kulových smyslu Lieově.15)
+
+
+následujícím jedná především vlastnostech invariantních vzhledem transformacím skupiny (T) (v. odst. 5.); obrazy těchto vlastností nalézáme geometrii konformních transformací prostoru, Čímž přehled značně usnadní.
+
+
+Všechny kulové plochy prostoru (roviny počítaje výjimkou rovin dotýkajících kružnice nekonečně vzdálené), jichž poloměr nerovná nulle, jsou navzájem ekvivalentní skupině (T0); příslušné „obecné"" lineární komplexy kružnic jsou tedy všechny navzájem ekviva lentní skupině (T) vždy existuje této skupině transformace, která převádí daný komplex jiný komplex daný.
+
+
+Budiž kulová plocha dána rovnicí
+
+
+rovnice komplexu jest pak
+
+
+b'2 (A'- y;)
+
+
+(18)
+
+
+značí-li (a, obyčejné souřadnice kružnice komplexu.
+
+
+Srovnejme rovnici (18) (1); shledáváme, každá kružnice (a, protíná konstantním úhlu (jpT pevnou kružnici (o, r^}, při čemž platí
+
+
+y-, sin
+
+
+cos <pi
+
+
+(19)
+
+
+jest dle toho průsečná kružnice koule Afí rovinou nazveme kružnicí řídící komplexu A.16)
+
+
+15) Pro Lieovu geometrii kulových ploch jest fundamentální pojednání Ober Complexe etc. (Math. Annalen V., 145; 1872), jehož obsah největší části jest zpracován díle Lie-Scheffers: Geometrie der Berůhrungstransformationen (1896). Reyc (Synthetische Geometrie der Kugeln, 1879) založil geometrii kulových ploch jiném stanovisku, bližším geometrii* projektivní. Dle těchto vzorů lze pojímati geometrii kružnic rovině dvěma způsoby; přidržíme důsledně vzoru Lícová. Odst. odpovídají úvahám tvarech lineárních komplexů kulových; viz Ober die lin. Complexe der LAe'schen Kugel-geometrie, Dissert. Góttinky 1895; surfaces enveloped spheres belonging linear spherical complex, Transact. the Amer. Math. Soč. I., 1900; odvození podávám jiným způsobem než autoři právě jmenovaní. Darbo (viz pozn. pod čarou) vyšetřoval celou řadu problémů kružnicích rovině užitím transformace (7).
+
+
+Úlohy týkající lineárních komplexu kružnic řeší deskriptivní geometrii užitím zv. cyklografie, jejíž princip neliší podstatně transformace (7).
+
+
+XLVIII. ﻿11
+
+
+Zvláštní tvary obecných lineárních komplexů jsou: Je-li střed koule rovině o), jsou kružnice komplexu ortogonální (komplex ortogonální). Náleží-li ortogonálního komplexu kružnice (a, r), náleží tam též (a, r).
+
+
+ft) Dotýká-li roviny R), jest nekonečně malý cos nekonečně velký tak, [viz odst. rov. (4)1
+
+
+cos
+
+
+
+
+
+Je-li rovina různoběžná rovinou jest složen komplex kružnic protínajících konstantním úhlu přímku
+
+
+Je-li rovina rovnoběžná rovinou obdržíme komplex
+
+
+comt.
+
+
+Splývá-li rovinou obdržíme komplex kružnic poloměru rovném nulle.
+
+
+Kouli poloměru rovném nulle (č. kuželi isotropickému) odpovídá komplex speciální složený kružnic, dotýkajících kružnice řídící, která může přejíti bod neb přímku. Všechny přímky roviny tvoří speciální komplex lineární, jehož řídící kružnice jest nekonečně vzdálená (viz odst. 3.).
+
+
+Analytická podmínka, aby rovnice (17) představovala komplex speciální, jest
+
+
+«22 #23 tt24 #25 ""í
+
+
+#23 tt33 #31 #35 ""^3
+
+
+«25 «35 «45 «55
+
+
+
+
+
+
+
+
+kde jsou koéfficienty formy (odst. 5.1. 12. Dva komplexy lineární
+
+
+.v,
+
+
+určují svazek komplexů
+
+
+
+
+
+
+
+
+němž jsou bud dva speciální komplexy neb jen jeden dle toho, obsahuje svazek koulí, určený koulemi dané komplexy představujícími, dvě koule poloměru rovném nulle aneb jen jednu.
+
+
+Dva svazky téhož druhu jsou vždy ekvivalentní.
+
+
+XLVIII. ﻿12
+
+
+Zvláštní tvary svazků prvého druhu:
+
+
+Pru sečná kružnice koulí leží rovině všecky komplexy svazku mají kružnici řídící, úhel rpl mění komplexu komplexu.
+
+
+/3) Koule mají společný střed bodě (a, fi, y); řídící kružnice všech komplexů svazku jsou soustředné poloměry řídících kružnic úhly g>;, nichž jsou kružnice každého-komplexu proťaty kružnicí řídící, vyhovují rovnicím
+
+
+COS (f! COS (f).2
+
+
+ty.
+
+
+(20)
+
+
+Kružnice společné dvěma komplexům tvoří lineární řadu; obrazy jejich jsou prostoru body jisté kružnice (průsečné kružnice koulí Bn}. Není-li poloměr kružnice roven nulle, jest lineární řada obecná; kružnice takové řady obalují dvě kružnice. Je-li poloměr kružnice roven nulle, jest lineární řada specielní, skládá dvou svazků kružnic splývajících základních bodech jednou kružnicí společnou.
+
+
+Průsečný úhel koulí Z?0 jest absolutní invariant skupině (T0) konformních transformací prostoru; dva komplexy budou tedy míti též absolutní invariant skupině (T). Jsou-li koule ortogonální, obdržíme dva „komplexy involuci"" (dle Kleina); řídící kružnice dvou takových komplexů protínají úhlu ti.', jenž jest vázán úhly <jpt, <p2 (ve kterých kružnice prvého resp. druhého komplexu jsou proťaty příslušnou kružnicí řídící) relací
+
+
+cos -fy cos (pí. cos <p.2
+
+
+(21)
+
+
+Tato rovnice jest invariantní vzhledem všem transformacím skupiny (T).
+
+
+Pro některé zvláštní tvary komplexů (odst. 11.) nabývá rovnice (21), vyjadřující involutorní polohu, jiné podoby:
+
+
+Komplex kružnic konstantním poloměru jest involuci komplexem jestliže
+
+
+cos q>í= (22)
+
+
+Zvláštní případ: komplex kružnic poloměru rovném nulle jest involuci každým komplexem ortogonálním.
+
+
+Komplex obecný jest involuci speciálním, náleží-li řídící kružnice tohoto komplexu prvého. Pěti koulím, jež navzájem protínají pravých úhlech, odpovídá soustava pěti komplexů, jež jsou dvou involuci. Každá taková soustava pěti obecných komplexů involuci jest ekvivalentní soustavou utvořenou komplexem kružnic poloměru rovném nulle čtyřmi komplexy ortogonálními, jichž řídící koule jsou navzájem ortogonální.
+
+
+XLVIII. ﻿13
+
+
+13. každým obecným lineárním komplexem jest spojena zvláštní involutorní transformace T', kterou nazveme inversí vzhledem tomu komplexu; obrazem jejím prostoru jest obyčejná inverse, jejíž řídící plocha kulová representuje daný komplex
+
+
+Dvě kružnice, jež jsou přiřaděny transformací T', tvoří obálku řady kružnic náležejících daného komplexu. Každá kružnice daného komplexu přechází transformací sama sebe.
+
+
+Obyčejná inverse rovině Laguerreova transformace tedy změna orientace (viz odst. 8.) jsou zvláštní případy transformace T'.
+
+
+Klassifikace kvadratických komplexů tříd druhů.
+
+
+14. Kvadratický komplex kružnic jest soustava kružnic, jejichž souřadnice (odst. 5.) vyhovují homogenní kvadratické rovnici
+
+
+x2, x.s,
+
+
+
+
+
+(23)
+
+
+Poněvadž souřadnice splňují vždy homogenní kvadratickou rovnici
+
+
+(xlt x2, x3, #4, #5) (24)
+
+
+jest klassifikace kvadratických komplexů (vzhledem vlastnostem, jež nemění transformacemi dána řešením následujícího algebraického problému:
+
+
+Ustanoviti všechny skupiny párů kvadratických forem neekvivalentní takové, pár skupiny jedné nelze lineární substitucí proměnných transformovati nějaký pár skupiny jiné.
+
+
+Při tom předpokládáme, jeden týž komplex jest definován bud párem rovnic (23) (24), kde lze interpretovati jako souřadnice kružnice, aneb libovolným párem ekvivalentním. Není-li možno převésti daný kvadratický komplex žádnou transformací jiný komplex daný, jsou oba komplexy representovány páry forem <íi, neekvivalentními; neboť transformace jsou substituce neměnící formu íi.
+
+
+následujícím užijeme řešení zmíněného problému, jež udal r-straš s.17)
+
+
+Interpretujeme-li (24) jako identitu mezi souřadnicemi pentasfe-rickými (odst. 5.), přechází náš problém klassifikaci cyklid, při které hledí vlastnostem neměnitelným konformními transformacemi prostoru. Lori a18) provedl tuto klassifikaci Weierstrassovou methodou; r19) vyšetřil podrobně reální formy cyklid.
+
+
+dalším přidržím Bócherova označování.
+
+
+17) Viz Muth: Theorie und Anwcndung der Elcmentarthcilcr (1899).
+
+
+18) Viz pozn.
+
+
+19) Uber dic Reihcncntwickelungcn der Potentialthcoric (1894).
+
+
+XLVIII. ﻿14
+
+
+15. Výsledek klassifikace možno shrnouti asi takto: Dle toho, jaké „elementární dělitele"" diskriminant formy
+
+
+dělí všechny páry kvadratických forem pěti proměnných druhů, jež jsou seřaděny sedmi tříd (I. VIL). Symboly jednotlivých druhů jsou:
+
+
+[11111]; [(11) 111]; [(11) (11) 1]. II. [2111]; [2(11) 11; [(31) 11]; [(21) (11)].
+
+
+III. [311]; [3(11)]; [(31)1].
+
+
+IV. [221]; [2(21)]; [(22) 11.
+
+
+[41]; [(41)]. VI. [32]; [(32)]. VII. [5].
+
+
+Vyloučeny jsou páry forem, jež představují cyklidy resp. komplexy degenerované.
+
+
+Dva komplexy (n. cyklidy) různých druhů ovšem nejsou ekvivalentní; ale ekvivalenci dvou komplexů nestačí vždy, aby náležely témuž druhu.
+
+
+Komplexy některých druhů mají absolutní invarianty; aby takové komplexy byly ekvivalentní, musí míti stejné invarianty.
+
+
+Komplex druhu [11111] tři absolutní invarianty. Komplexy druhu [(11) 111] [2111] mají dvou absolutních invariantech. Komplexy druhů [(11) (11) 1], (11) 1], [(21) 111, [311] [221] mají jednom absolutním invariantu.
+
+
+Komplexy zbývajících desíti druhů nemají absolutních invariantů; dva komplexy jednoho takového druhu jsou vždy ekvivalentní.20)
+
+
+Vhodnou transformací lze každý pár forem uvésti zv. kanonický pár, kterým jsou representovány všechny páry ním ekvivalentní. Každé sedmi tříd přísluší jistý kanonický pár forem forma obsahuje pak jisté parametry, které odpovídají jednotlivým druhům třídy jich absolutním invariantům.
+
+
+16. Hlavní problémy, které máme řešiti pro každý druh kvadratických komplexů, jsou následující dva: ustanoviti zv. křivku singularit; integrovati differenciální rovnici řad oskulačních obsažených daném komplexu. První úlohu řeším vždy nejprve pro zvláště jednoduchý komplex daného druhu přecházím obecnou dotykovou transformací komplexu všeobecnému tím zároveň získá přehled různých tvarech, jaké mají křivky singularit příslušné komplexům daného druhu. Druhou úlohu řeším soustavně užitím nových souřadnic které jsou
+
+
+-°) Srv. Scgrc: Studio sullc quadriche uno spazio lincare numero qualunque dimensioni (Memorie della Acc. Torinb, ser. 2da 36; 1880). Tam jsou přesná data počtu absolutních invariantů případecli obecnějších.
+
+
+XLVIII. ﻿15
+
+
+vlastně zv. souřadnice cyklidické, interpretujeme-li jako pentasfe-rické souřadnice bodu prostoru; zavedením těchto nových souřadnic lze differenciální rovnici oskulačních řad separovati proměnné.
+
+
+Soustava takových souřadnic jest dána soustavou konfokálních kvadratických komplexů, jež odpovídá soustavě konfokálních cyklid. Poněvadž jednom systému konfokálních komplexů vyskytují vždy jen komplexy jednoho druhu, můžeme tyto systémy označovati přímo symboly dotyčných druhů dříve zavedenými (odst. 15.).
+
+
+udal methodu, která dovoluje odvoditi rovnice všech systémů konfokálních cyklid tedy konfokálních komplexů) rovnic platících pro druh [11111]; tomto posledním případě jest theorie konfokálních cyklid dobře známa tvoří přirozené zevšeobecnění theorie konfokálních ploch centrálních druhého stupně. Bócherova methoda záleží limitních přechodech, kterými odvozují všechny kanonické páry forem kanonického páru platného pro druh [11111].
+
+
+Jednám nejprve (odst. 17—21.) tomto druhu přecházím pak postupně všem ostatním druhům kvadratických komplexů.
+
+
+Kvadratický komplex obecný [líni].
+
+
+17. Kanonické formy jsou zde:
+
+
+x.f x.* x4z ,r52
+
+
+x±- #22 #32 -f- .r,2 x52
+
+
+
+
+
+(*»
+
+
+Užijme nyní formulí (odst. 5.), dle kterých komplexu (A) danému rovnicí
+
+
+odpovídá cyklida (C), jejíž rovnice pravoúhlých souřadnicích jest
+
+
+(*2 >2)2
+
+
+Obecná kružnice komplexu (A') obsahuje dva body, nichž dotýkají kružnice téhož komplexu nekonečně blízké; výjimku činí „singulární kružnice"" komplexu, nichž oba tyto body splývají. Všecky singulární kružnice tvoří oskulační řadu, jejíž obálka nazývá křivkou singularit daného komplexu.
+
+
+Jednotlivým kružnicím této řady odpovídají body naplňující čáru úvratu imaginární rozvinutelné ploch}7 opsané cyklidě (C) kružnici nekonečně vzdálené; dle odst. jest průsek plochy rovinou
+
+
+Plocha dle známé.theorie21) pět dvojných křivek, jež jsou fo-,kalami cyklidy (C); jedna jest bicirkulární křivka čtvrtého stupně ro-
+
+
+21) Viz Sur classe etc. No. 51.
+
+
+XLVIII. ﻿16
+
+
+vině dvě jsou rovinách souřadných dvě jsou koulích soustředných počátkem souřadnic.
+
+
+Řez plochy rovinou skládá těchto částí: 22) křivky dvojnásobně čítané; osmi isotropických tečen této křivky, které protínají její šestnácti ohniskách; tato ohniska jsou průseky roviny Čtyřmi fokálami cyklidy (C). Všecky přímočaré elementy řezu tvoří irreduktibilní algebraickou varietu jsou vzájemně jednoznačné korrespondenci povrchovými přímkami plochy při tom považuje přímka isotropická rovině vždy jediný, neorientovaný přímočarý element.
+
+
+Cyklida (C) tři roviny symetrie mimo nemění dvěma inversemi, jichž středy jsou průseku těch rovin symetrie. toho následuje:
+
+
+Komplex (K) jest sám sobě reciproký vzhledem pěti involu-torním lineárním komplexům; jejich rovnice obyčejných souřadnicích (a, jsou:
+
+
+(26
+
+
+Poslední čtyři komplexy jsou ortogonální (odst. 11.); náleží-li některého nich kružnice (a, r), náleží doň (a, r). Křivka (totiž jest společnou obálkou pěti řad kružnic dvojnásobně dotýkajících náležejících danému komplexu (K); kružnice jedné řady mají poloměry každé ostatních řad dotýkají libovolně daném bodě křivky dvě kružnice lišící toliko orientací.
+
+
+18. Nejobecnější komplex druhu [11111] lze odvoditi, applikuje-li (K) transformace (viz odst. 9.)
+
+
+
+
+
+BD\
+
+
+(16)
+
+
+křivka přejde tak křivku singularit komplexu obecného.
+
+
+Provedme postupně jednotlivé transformace, nichž skládá.
+
+
+Kruhovou transformací mění obecnou bicirkulární křivku čtvrtého stupně, jejíž charakteristická čísla (odst. 9.) jsou
+
+
+12,
+
+
+Pro parallelní křivku této platí (odst 9.) značí-li počet bodů úvratu
+
+
+16, 24,
+
+
+Podle Pliickera jest
+
+
+
+
+
+22) těchto částí skládá právě křivka parallelní křivce vxdťilenoš když limd
+
+
+XLVIII. ﻿17
+
+
+Jeden osminásobný bod jest redukce třídy equivalentní bodům dvojným, oba kruhové body vydají tedy bodů dvojných. Mimo kruhové body proto křivka ještě bodů dvojných.
+
+
+Podobně najde počet dvojných tečen
+
+
+(«'
+
+
+
+
+
+němž jest zahrnuta nekonečně vzdálená přímka (jež křivky nedotýká) 56krát, jakožto spojnice osminásobných bodů kruhových; vlastních dvojných tečen jest tedy 20.
+
+
+Tato charakteristická čísla m', již nemění ani obecnou inversí ani dilatací23; odpovídají tedy křivce singularit obecného komplexu [11111].
+
+
+19. Bližší podrobnosti této křivce snadno odvodíme, máme-li zřeteli cyklidu, která představuje komplex, rozvinutelnou plochu S'', která jest opsána cyklidě kružnici nekonečně vzdálené; průsek plochy rovinou jest právě s'.
+
+
+pět dvojných křivek čtvrtého stupně 5), jež leží pěti kulových plochách navzájem ortogonálních. Každá křivek yež jsou fokálami cyklidy odpovídající komplexu) protíná rovinu čtyřech dvojných bodech křivky s', nekonečně vzdálené kružnici čtyři body, kterým odpovídají čtyři dvojné tečny křivky s'. Tedy:
+
+
+Křivka singularit obecného kvadratického komplexu [11111] jest stupně třídy 16, prochází Skrát každým kruhovým bodem, jest společnou obálkou pěti řad kružnic, jež dvojnásobně dotýkají. Každá řada jest obsažena lineárním komplexu středy kružnic řady jsou křivce čtvrtého stupně dvěma body dvojnými. Řídící kružnice každého komplexu jest soustředná kružnicí obsahující čtyři dvojné body křivky kružnicí dotýkající čtyř tečen téže křivky**}
+
+
+20. Uvažujme jednu pěti bikvadratických sférických křivek •/* př. /j. Každá čtyř kulových ploch obsahujících křivky /2, /3, protíná čtyřech bodech (,,vrcholech""), nichž jest oskulační rovina stacionární. Tečny křivky takových čtyřech bodech sestrojené sbíhají středu příslušné plochy kulové.
+
+
+23) Křivka parallelní rozpadá zde dvě křivky, jejichž charakteristická Čísla mají hodnoty právě nalezené m', Křivka singularit obecného komplexu [11111] jest orientovaná, kdežto křivka singularit komplexu (K), kterého jsme vycházeli počátku odst. 18., orientovaná není. Srv. odst. pozn. 13.
+
+
+si) Tyto věty plynou bezprostředně vět fokálách cyklid těchto viz Darboux No. 43); bez důkazu uvádí Smith (Transactions the American Math. Soč. vol. I., 390; 1900), jenž dokázal analogické věty kvadratických komplexech kulových.
+
+
+Rozprava: Roč. XIX. Tr. 48.
+
+
+XLVIII. ﻿18
+
+
+Budiž poloměr kulové plochy obsahující křivku ft, průmět středu plochy roviny Průmětem křivky jest křivka čtvrtého stupně dvěma dvojnými body; průmětem každého vrcholu křivky jest bod, kterém čtyři soumezné body společné jistou kuželosečkou. Tečny křivky těchto bodech sestrojené sbíhají čtyřech bodech A.,, A^, A-a, které nazveme póly křivky ct; připojíme-li totiž některému nich oba dvojné body křivky, obdržíme tři fundamentální body quadratické transformace I,'25) která při vhodné volbě konstant nemění křivku Křivka c1( jakožto průmět sférické křivky fv, dotýká patrně čtyřech bodech kružnice středu .4, poloměru toho následuje:
+
+
+každé rovinné křivce čtvrtého stupně dvěma body dvojnými, která jest vepsána kružnice 2H) středu poloměru patří čtyři jiné křivky c2, cs, stupně čtvrtého dvěma dvojnými body vepsané kružnic poloměrech R2, R^, jR4, R-)t středech A.2, A3, A^, Aň, které •jsou právě póly dané křivky Vztah mezi pěti křivkami jest souměrný', každý pěti bodů jest středem kružnice opsané křivce polem ostatních čtyř křivek.
+
+
+Dle odst. .11. jest řídící kružnice komplexu průsek koule ten komplex představující koule obsahující křivku rovinou úhel qp(, kterém kružnice komplexu protínají poloměr kružnice souvisí spolu dle rovnice (19):
+
+
+
+
+
+=-- RÍ.
+
+
+Jsou-li křivky tedy konstanty Rt) dány, jest možno voliti ff>{ nekonečně mnohými způsoby tak. aby bylo rovnicím (19) vyhověno. Příslušné křivky 16. stupně jsou parallelní, neboť pošinuje-li plocha směru osy nemění cit avšak poloměry všech kružnic, jež dvojnásobně křivky dotýkají, zvětšují tutéž veličinu.
+
+
+Kružnice jest proťata křivkou osmi bodech, nichž čt}7ři (průseky roviny křivkou /ť) jsou středy kružnic poloměru dvojnásobně dotýkajících křivky s'; nejsou však ohniska této křivky obyčejném smyslu, nýbrž čtyři dvojné body, poněvadž přímočaré element}- společné křivce některé oněch čtyř kružnic jsou právě dány oběma tečnami křivky sestrojenými bodě dvojném. Křivka nemá vůbec ohnisek.
+
+
+Zbývající čtyři průseky jsou středy kružnic poloměrech dvojnásobně dotýkajících křivky s'. Křivka jest dokonale určena, je-li dána křivka čtvrtého stupně dvěma dvojnými body vepsaná kružnice poloměru mimo g?, jež vyhovují podmínce sin
+
+
+25) jest projektivně transformovaná kruhová inverse.
+
+
+26) dotýká kružnice čtyřech bodech.
+
+
+XLVIII. ﻿19
+
+
+Obecná rovnice křivky obsahuje tudíž libovolných parametrů. témuž výsledku dospíváme, uvážíme-li, jedna řada kružnic dvojnásobně křivky dotýkajících jest zobrazena křivkou prostorovou čtvrtého stupně, která jest průsek koule obecným kuželem druhého stupně.
+
+
+Poznamenáme-li ještě, taková prostorová křivka jest průsekem obecné cyklidy plochou kulovou, obdržíme větu:
+
+
+Křivka jest obálka obecné kvadratické řady kruhové řady společné jednomu kvadratickému jednomu lineárnímu komplexu, její obecná rovnice obsahuje parametrů.*1}
+
+
+21. Každá cyklida jest obsažena jisté soustavě oo1 konfokálních cyklid cyklid vepsaných jedné téže imaginární rozvinutelné plochy, jejíž tangenciální roviny dotýkají kružnice nekonečné vzdálené. Applikací transformace (7) obdržíme oo1 kvadratických kruhových komplexů konfokálních, jež mají jednu tutéž křivku singularit.
+
+
+System konfokálních komplexů druhu [11111] rovnici
+
+
+
+
+
+x'-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(27)
+
+
+kde jest libovolný parametr; souřadnice jsou vázánv rovnicí (25). pozdějším účelům užijeme jiné soustavy souřadnic, kterou obdržíme násobíce předešlé souřadnice x-t konstatními faktory Vó~. Místo rovnic (25) (27) máme této nové soustavě
+
+
+
+
+
+x.2
+
+
+
+
+
+x:*
+
+
+
+
+
+
+
+
+x-!
+
+
+t.> ÍÍO ^/.J
+
+
+jj___i __*
+
+
+
+
+
+(29)
+
+
+Rovnice (29) jest třetího stupně vzhledem její kořeny fi, mohou být voleny nové souřadnice kružnice; souřadnice téže kružnice jsou pak dány vzorci
+
+
+
+
+
+
+
+
+Cí)
+
+
+e4) es)
+
+
+(30)
+
+
+kde značí libovolný faktor úměrnosti, derivaci polynomu index může nabýti hodnot
+
+
+Tyto formule jsou známy theorie cyklid; interpretuj eme-li jako souřadnice bodu prostoru, jsou zv. cyklidické souřadnice bodu.28)
+
+
+27) 390.
+
+
+28) No. 50; Kip. Souřadnice (*, jsou zevšeobecněné souřadnice clliptické (srv. odst. 25.).
+
+
+XLVIII.'
+
+
+﻿20 Uvažujme cyklidu, která těchto souřadnicích rovnici
+
+
+
+
+
+kdež značí nějakou konstantu.
+
+
+Minimální čáry této cyklidě vyhovují differenciální rovnici
+
+
+ds2 (31
+
+
+značí-li element oblouku. cyklidických souřadnicích zní rovnice (31
+
+
+(c—)(ř-rt (»-rt(»-» (>-rt(>-»)
+
+
+/(P) /(v)
+
+
+pro obdržíme integrací:
+
+
+
+
+
+
+
+
+vTŤ^T
+
+
+f(9)
+
+
+nsi.'29
+
+
+(32)
+
+
+jakožto rovnici minimálních; obecným bodem cyklidy procházejí dvě takové čáry.
+
+
+Přenesme tyto výsledky geometrie kružnic:
+
+
+Obecná kružnice kvadratického komplexu náleží dvou oskulačních řad (odst. 4.) komplexu obsažených; zavedeme-li souřadnice ji, lze rovnici těch řad (32) utvořiti užitím hyperelliptických integrálů rodu neboť (A) jest polynom stupně.
+
+
+Ostatní druhy třídy
+
+
+22. Duh [(11) 111]. Kanonické formy dostaneme kladouce rovnicích (25):
+
+
+x.* (*4
+
+
+(33)
+
+
+Rovnici cyklidy pravoúhlých homogenních souřadnicích představující tento komplex obdržíme zase dosazujíce dle formulí (odst. 5.) druhé rovnice (33); zřetelem první rovnici (33) vychází
+
+
+A4)
+
+
+(A2 A4) (A3 A4)
+
+
+Každá cyklida druhu [(11) 111] jest tedy ekvivalentní jistým kuželem druhého stupně. Rozvinutelná plocha, níž jsou vepsány kužely konfokální, jest utvořena čtyřmi rovinami, nemáme zde vlastně žádnou
+
+
+Dar boux 143.
+
+
+XLVIII. ﻿21
+
+
+čáru úvratu tedy také žádnou vlastní křivku singularit příslušného komplexu.
+
+
+Konfokální systém nevede zde zdánlivě žádnému systému souřadnic (i, ježto pro rovnice (27) jest toliko druhého stupně; kořeny její označíme
+
+
+Připoj íme-li soustavě konfokálních kuželů soustavu ploch kulových nimi soustředných, obdržíme trojnásobně ortogonální systém ploch, který vede souřadnicím podobně jako systém (27) případě [11111]. Analytickou definici prvé souřadnice obdržíme dle ó-c 30) následovně:
+
+
+Položme rovnici (27)
+
+
+
+
+
+(34)
+
+
+což vede hledanému výsledku
+
+
+fi-1
+
+
+
+
+
+Vzorce udávající souvislost mezi souřadnicemi (xt) souřadnicemi jti, obdrželi bychom podobně jako vzorce (30) anebo těchto posledních limitním přechodem. Poněvadž však jich svým účelům nepotřebujeme, neuvádím jich ani vzorců analogických pro další druhy souřadnic [i,
+
+
+Rovnice (32) mění transformací (34) rovnici
+
+
+*4~""
+
+
+«i) *2)(04—
+
+
+
+
+
+e2)
+
+
+
+
+
+(35)
+
+
+kde značí integrační konstantu.
+
+
+Rovnice (35) představuje oskulační řady komplexu
+
+
+23. Druh [(11) (11) 1]. Kanonické formy obdržíme kladouce (33) A3:
+
+
+
+
+
+_L-v2_l_r2_i_v2 ""T
+
+
+
+
+
+(36)
+
+
+Užijme opět systému (odst. 5.); dosadíme-li rovnic (36), obdržíme rovnici plochy, jež representuje daný komplex:
+
+
+jest rotační kužel; každá cyklida druhu [(11) (11) jest ekvivalentní rotačním kuželem.
+
+
+Bócher 90.
+
+
+XLVIII. ﻿Abychom dostali rovnici konfokálního systému, musíme dosaditi rovnici (27) e.t ez.31) Nová rovnice pak toliko jediný kořen (libovolná kružnice [#.] náleží toliko jediného koní okolních komplexů); druhé dvě souřadnice doplníme následujícími dv<yma transformacemi rovnice (27):
+
+
+
+
+
+;.{ -\- (i; lim ?., e7, ť., lim
+
+
+Tak dostaneme dvě rovnice
+
+
+
+
+
+
+
+
+v—l
+
+
+kterými jsou definovány souřadnice
+
+
+Applikujeme-li limitní přechody (37) rovnici (32), vychází rovnice oskulačních řad komplexu nových souřadnicích:
+
+
+VTT+ VfT— (Vv~+ VíT— kde jest integrační konstanta,
+
+
+(W)
+
+
+Rovnice (38) tedy integrál algebraický, je-li (absolutní invariant komplexu) číslo racionální. rovnice koaxiálních kuželů
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+následuje, ie-li úhel sevřený osou kužele přímkou po-sin<p
+
+
+vrchovou. Tedy máme větu:
+
+
+rotačním kuželi jsou minimální křivky algebraické, když sin jest racionální.
+
+
+Třída II.
+
+
+24. Kanonický tvar (25) identity byl pro komplexy třídy takový, jsme mohli interpretovati formulemi odst. 5.; tím jsme obdrželi všech ekvivalentních komplexů daného druhu ploch jim odpovídajících representanty tvaru zvláště jednoduchého. Stejného postupu užijeme třídách ostatních.
+
+
+3l) prostoru obdržíme tak systém rotačních kuželů koaxiálních (.'}(>/<).
+
+
+XLVIII. ﻿-23
+
+
+Kanonický tvar identity třídě II. III. odpovídá případu B)', pro všechny druhy komplexů třídy II. bude
+
+
+
+
+
+<V2 -v;2
+
+
+(39)
+
+
+tak zde můžeme užiti formulí odst. resp. 5., abychom obdrželi ekvivalentních komplexu resp. ploch představujících jednoduché representanty.
+
+
+25. Druh [2111]. Kanonické tvary obdržíme (28) následující transformací:52)
+
+
+
+
+
+
+
+
+x.,;
+
+
+
+
+
+(40)
+
+
+Tak obdrží tvar (39), rovnice obecného komplexu resp. plochy odpovídající bude
+
+
+
+
+
+A',2 A;J #3- .Y42 x--
+
+
+(41)
+
+
+Rovnice této plochy pravoúhlých souřadnicích jest dle formulí odst.
+
+
+(A, At) .v2 (A, (A, A,) z'1
+
+
+jest centrální plocha druhého stupně.
+
+
+Křivka singularit příslušného komplexu najde právě tak jako obdobná křivka komplexu [11111] (odst. 17.): jest průsek rozvinutelné plochy opsané ploše (41 nekonečně vzdálené kružnici rovinou Průsek ten jest dvojnásobně čítaná fokální kuželosečka plochy (410) její isotropické tečny). Křivku singularit nejobecnějšího komplexu druhu [2111] odvodíme transformací (16) (viz odst. 18.).
+
+
+Applikujeme-li nejprve inversi, obdržíme dle odst. bicirku"" lární křivku stupně dvojným bodem, pro níž platí
+
+
+(), ti, /j_ /.,
+
+
+Pro parallelní křivku platí
+
+
+L>, i=12,
+
+
+(42)
+
+
+Uvážíme-li, plocha tři lokály plochy (41 čáry dvojné, tudíž každá plocha odvozená konformní transformací prostoru rovněž tři čáry dvojné, vidíme, křivka pro kterou platí rovnice (42) jest společnou obálkou tří řad kružnic dvojnásobně dotýkajících (viz konec odst. 4.).
+
+
+""-) ó(i.
+
+
+XLVIII. ﻿24
+
+
+Abychom odvodili (29) rovnici konfokálního systému [2111], užijeme následujícího limitního přechodu, jenž neliší podstatně (40):
+
+
+Tak obdržíme rovnici
+
+
+
+
+
+—eL)
+
+
+
+
+
+—:—r
+
+
+(40')
+
+
+(43)
+
+
+která jest vzhledem (39) třetího stupně její kořeny zavedeme nové souřadnice.
+
+
+Rovnici oskulačních řad komplexu obdržíme kladouce rovnice (32):
+
+
+
+
+
+
+
+
+cáp
+
+
+(44)
+
+
+*3) e4) e&) 26. Druh [2(11)1]. Kanonický Ivar odvodíme (41) pro A3:
+
+
+*i2 (%,2 ^s2 °-V pravoúhlých souřadnicích plocha komplex představující rovnici (A3 A,) (*» y') (A5 (45
+
+
+jest tedy rotační plocha centrální druhého stupně. Rozvinutelná plocha, níž jsou vepsány konfokální rotační plochy druhého stupně, degeneruje isotropický kužel; nemá tedy vlastní čáry úvratu, příslušný komplex nemá singulární křivky.
+
+
+Rovnice (43) konfokálního systému jest pro jen druhého stupně nazveme její kořeny dosadíme rovnice (43) e±, učiníme lim Tak obdržíme rovnici
+
+
+
+
+
+definující jsou nové souřadnice. Transformace právě naznačená převádí rovnici (44) rovnici oskulačních řad komplexu nových souřadnicích:
+
+
+(46)
+
+
+kde jest integrační konstanta,
+
+
+XLVIJI. ﻿25
+
+
+__„ /__»f
+
+
+c—e1 '~^-e5 ""V
+
+
+V——~--------- _c5
+
+
+Integrál jest algebraický, je-li (absolutní invariant komplexu) číslo racionální.
+
+
+rovnice konfokálních rotačních ploch odpovídajících komplexům konfokálním:
+
+
+~T^V VT^~~~T^17/
+
+
+
+
+
+vyplývá, jest poměr poloos meridianového řezu. Tedy: Minimální čáry centrální rotační ploše stupně jsou algebraické, je-li poměr poloos meridianového řezu číslo racionální.
+
+
+27. Druh [(21)11]. Kanonický tvar obdržíme (41) pro A6= Ax:
+
+
+
+
+
+(47)
+
+
+Rovnice plochy představující komplex jest
+
+
+jest válec; příslušný komplex nemá křivky singularit.
+
+
+Rovnice (43) jest pro jen druhého stupně kořeny její označíme Abychom obdrželi zase systém souřadnic položíme (43)
+
+
+Tak vychází rovnice pro (i:
+
+
+
+
+
+(44) rovnice oskulačních řad komplexu
+
+
+!(*_4) V(,-.4)(,-4)(,,—4)
+
+
+(48).
+
+
+28. Z)^M/ř [(21) (11)]. Tento druh vznikne [2111] spojením obou specialisací, které vedly [2(11)1] [(21)11]. Položíme (45) A5, máme
+
+
+
+
+
+
+
+
+(49)
+
+
+Viz 95.
+
+
+XLVIII. ﻿26
+
+
+Koplex představuje rotační válec
+
+
+(A3—A,) (*i.+ y») —*«=
+
+
+(49«)
+
+
+Rovnice konfokálního systému jest zde toliko prvního stupně mimo její kořen zavedeme další dvě nové souřadnice kombinací dvou limitních přechodů dle vzoru (34) (47'). Dosaďme (43) postupně
+
+
+í/4 L., -|~
+
+
+t/v, -f~ *', -\- ~i"" Tak obdržíme rovnice pro pro
+
+
+
+
+
+
+
+
+//;w //;»
+
+
+^-=o.
+
+
+Naznačenou transformací přechází (44) rovnici oskulačních řad komplexu
+
+
+
+
+
+5l) (e,
+
+
+log (V/i"" const. (50)
+
+
+Třída III.
+
+
+29. Druh [311]. Kanonické formy obdržíme (28), učiníme-li substituce:32)
+
+
+
+
+
+Tak vychází
+
+
+x2- A-42 A'52 (52)
+
+
+(52) platí nezměněně pro všechny druhy třídy III. Abychom (53) dostali obyčejnou rovnici plochy komplex představující, užijeme formulí odst. zaměníce nich x.2 rPi. Rovnice zní:
+
+
+(A, (A, A,) (53r/)
+
+
+představuje tedy paraboloid.
+
+
+Rozvinutelná plocha, níž jsou vepsány konťokální paraboloidy, dvě paraboly křivky dvojné, nichž jedna leží rovině Křivka singularit .s' obecného komplexu [311] bude míti tedy dvě řady kružnic dvojnásobně dotýkajících.
+
+
+XLVIII. ﻿27
+
+
+Applikujeme-li inversi, obdržíme bicirkulární křivku stupně bodem úvratu; charakteristická čísla takové křivky jsou:
+
+
+/., této křivky vzniká dilatací křivka, jejíž charakteristická čísla:
+
+
+10, /,' /./
+
+
+náleží též obecné křivce s'.
+
+
+Rovnice konfokálního systému
+
+
+vzniká (29) substitucí:
+
+
+—e.
+
+
+kde s', jsou vázány podmínkami (51). Kořeny rovnice (54) (třetího stupně volíme nové souřadnice kružnice (#;); rovnici osku-1 učních řad komplexu
+
+
+
+
+
+
+
+
+
+
+
+((i ťJj) í>4) (/* r-)
+
+
+
+
+
+—ťj) —^; —-/?.,) —e5)
+
+
+obdržíme (32) splynutím konstant e}, c.2 ^,.
+
+
+30. Dmh [3(1.1)]. Rovnice analogické rovnicím (53) (53 obdržíme jednoduše kladouce těchto A5:
+
+
+A.,
+
+
+
+
+
+-T,2) nebo, vzhledem (52):
+
+
+(A4 At) (^2 -v,2) .Y! j»2 (A, Aj) (ya :-) —2xt
+
+
+Poslední rox^nice představuje rotační paraboloid; komplex nemá křivky singularit.
+
+
+Rovnice (54) nyní jen dva kořeny poněvadž jest položiti c-,; třetí koordinátu nalezneme dosadí rovnice
+
+
+í'- lim XLVIII. ﻿28
+
+
+což vede výsledku
+
+
+
+
+
+
+
+
+Oskulační řady komplexu rovnicí (55) (pro e.-t
+
+
+jsou těchto souřadnicích určeny
+
+
+log
+
+
+are
+
+
+
+
+
+e^—e,
+
+
+e-.
+
+
+
+
+
+
+
+
+(57)
+
+
+[(31)1]. rovnicích (53) (53 jest položit
+
+
+31.
+
+
+tak obdržíme vzhledem (52)
+
+
+(Aj—AO 2*1*2
+
+
+(58) (58a)
+
+
+Tato rovnice představuje parabolický válec; komplex nemá křivky singularit.
+
+
+Rovnice (54) opět jen dva kořeny ježto e^\ třetí koordinátu doplníme limitním přechodem:
+
+
+e-± -\- L-{-L* /ř'w
+
+
+Tak obdržíme (54) rovnici
+
+
+
+
+
+(55) pro Cj_ plyne rovnice
+
+
+V(í= C'»-C \________í____
+
+
+(gj ^5) (PJ
+
+
+(59)
+
+
+která definuje nových souřadnicích oskulační řady komplexu
+
+
+Třída IV.
+
+
+32. Drw/ř [221]. Kanonické formy odvodíme (28) následujícími substitucemi utvořenými dle vzoru (40):
+
+
+XLVIII. ﻿29
+
+
+-f- <-4 #5=1,
+
+
+lim
+
+
+Tak dostaneme dvě rovnice:
+
+
+
+
+
+
+
+
+#52
+
+
+(00) (61)
+
+
+nichž první platí nezměněně pro všechny druhy třídy IV.
+
+
+Rovnici plochy (61) souřadnicích pravoúhlých obdržíme dle formulí (odst. 5.):
+
+
+(X+iyY- (A3 -A,) (*2 y2) (A5 -A,) (61
+
+
+jest rovnice centrální plochy druhého stupně, která dotýká kružnice nekonečně vzdálené.
+
+
+Rozvinutelná plocha opsaná této kružnici ploše (61 a), j-plocha, níž jsou vepsány plochy druhého stupně konfokální (61 a), jest projektivně ekvivalentní rozvinutelné ploše opsané soustavě konfokální paraboloidů (53 a). dvě paraboly čáry dvojné, jež obě dotýkají nekonečně vzdálené roviny jednom témže bodě, obsahuje jednoduše kružnici nekonečně vzdálenou. ploše jest naopak tato poslední čára dvojná; mimo dvojnou kuželosečku jež ležíc rovině prochází jedním její kruhovitým bodem, obsahuje jinou kuželosečku jednoduchou, jejíž rovina dotýká obou čar dvojných. vzata dvojnásobně jest křivka singularit daného komplexu.
+
+
+Křivka singularit obecného komplexu [221] odvodí transformací (16); bude míti jednu řadu kružnic dvojnásobně dotýkajících.
+
+
+Applikujme inversi; dostaneme imaginární křivku jejíž charakteristická čísla jsou:
+
+
+křivky vzniká dilatací křivka charakteristických číslech
+
+
+(62)
+
+
+Tato čísla platí pro křivku singularit obecného komplexu [221]. Rovnici konfokálního svstému
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(63)
+
+
+odvodíme limitním přechodem, který jest dán vzorem (40') (odst. 25.). Rovnice (63) jest opět vzhledem (52) třetího stupně její kořeny fí, volíme nové souřadnice. Rovnice oskulačních řad komplexu kterou obdržíme kladouce e.2 elt e.A rov. (32)
+
+
+XLVIII. ﻿30
+
+
+^iiY ""' J?L±_L
+
+
+/i'
+
+
+kde
+
+
+(C5 (l), (C7t LJ3 fl) (f- ft' V""- (<•- V(fl <•.,)
+
+
+
+
+
+——r -5------,
+
+
+
+
+
+integrál algebraický, je-li (absolutní invariant komplexu) číslo racionální.
+
+
+33. Druh [2(21)]. rovnicích (61) (61 jest dosaditi Al( což vede výsledku
+
+
+j;/2 A;, %._, -j- .v-,2) -%"" ^'4 "". (6-))
+
+
+(.v y)2 (A3 A,) (*-' y2) (05
+
+
+Poslední rovnice představuje válec; komplex nemá křivky singularit. Rovnice (63) pro jen dva kořeny třetí souřadnici doplníme limitním přechodem
+
+
+(i, lim Tak dostaneme rovnice (63)
+
+
+
+
+
+rovnice (64) přechází rovnici oskulačních řad komplexu
+
+
+A/--------- «/— c—c„ \ICo-—c-, v—c
+
+
+Ve, V--------— arctei —-------- .----------)
+
+
+1^3 c\'
+
+
+
+
+
+34. Druh [(22)1]. rovnicích (61) (61 položme A,:
+
+
+Xj2 A-3- (XL x., A:,) A--2 (67)
+
+
+ÍA; y)2 (A, A.) (67a)
+
+
+Rovnice (67 představuje válec, jehož povrchové přímky jsou isotropické, jenž protíná rovinu kuželosečce
+
+
+Válec (76 jest plocha minimální.36)
+
+
+XLVIII. ﻿31
+
+
+Zde není možný systém ploch konfokálních (67 a), které protínaly ortogonálně třech každém bodu prostoru; nemůžeme zde zavésti systém souřadnic ft,
+
+
+Rozvinutelná plocha opsaná ploše (67 kružnici nekonečně vzdálené degeneruje dvě roviny isotropické. Komplex nemá křivky singularit.
+
+
+Abychom ustanovili řady oskulační, volme místo plochy (67 jinou, kterou obdržíme transformací:
+
+
+
+
+
+COS
+
+
+if""
+
+
+---- A.j A-2
+
+
+sin
+
+
+COS
+
+
+
+
+
+(cos sin op)2 (A- AJ.
+
+
+Nová plocha, jež jest ekvivalentní (67 a), rovnici (nehomogenní)
+
+
+z)* (<57
+
+
+eliminujme pomocí této rovnice differenciální rovnice minimálních čar
+
+
+Tak obdržíme kladouce
+
+
+-\- differenciální rovnici minimálních čar plochy (67 b):
+
+
+jejíž integrál skládá dvou oddělených řad křivek:
+
+
+dává const; jsou povrchové přímky válce (67 b).
+
+
+
+
+
+dává integrál
+
+
+
+
+
+kde jest integrační konstanta. rovnic (67 (68) obdržíme též sou řadnice jako funkce parametru
+
+
+
+
+
+
+
+
+XLVIII. ﻿32
+
+
+Místo posledních tří rovnic můžeme psáti:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v------- -Ví -y*
+
+
+y2------log----------------—
+
+
+
+
+
+toho následuje vzhledem transformaci (7): Komplex kružnic druhu [(22)1]:
+
+
+(69)
+
+
+který jest ekvivalentní každým komplexem téhož druhu, obsahuje následující dvě skupiny řad oskulačních:
+
+
+Svazky kružnic základních bodech splývajících jednotlivých bodech kružnice
+
+
+
+
+
+společná tečna kružnic jednoho svazku vždy rovnoběžná osou
+
+
+Řady, jichž kružnice mají středy traktoriích (69) a); příslušné poloměry jsou dány vzorcem (69) b).
+
+
+Třída
+
+
+35. Druh [41]. rovnicích (28) učiňme následující substituci:
+
+
+-\- x.2
+
+
+—-l
+
+
+
+
+
+
+
+
+a-a
+
+
+/íw //m B"" Tak obdržíme kanonické tvary:
+
+
+Xr?
+
+
+XLVIII.
+
+
+(71) ﻿33
+
+
+
+
+
+(72)
+
+
+rovnice (71) platí pro oba druhy komplexů třídy přechod souřadnicím (x, bude dán opět vzorci odst. 5., jen budeme nyní těchto vzorcích psáti xtl místo resp. x^.
+
+
+Komplex jest tedy representován plochou druhého stupně:
+
+
+(x~iy)2 iy)t (A5—A3)^ (720)
+
+
+jež jest paraboloid dotýkající kružnice nekonečně vzdálené; obou nekonečně vzdálených povrchových přímek paraboloidu nedotýká však ani jedna této kružnice.
+
+
+Rozvinutelná plocha opsaná paraboloidům konfokálním (72 jest třídy stupně. Jediná dvojná křivka plochy jest kuželosečka ležící rovině dotýkající nekonečně vzdálené přímky jednom kruhovém bodě. vzniká inversí imaginární křivka třetího stupně, která jest totožná křivkou odst. 32.
+
+
+Křivka singularit obecného komplexu [4]] jest tedy totožná křivkou singularit obecného komplexu [221].31)
+
+
+Substitucí naznačenou počátku tohoto odstavce přechází rovnice (29) rovnici konfokálního systému [41]:
+
+
+=0,
+
+
+(73)
+
+
+položíme-li vzorcích (70) elt ... místo í,lt ...
+
+
+Rovnice oskulačních řad komplexu souřadnicích ji, jež jsou právě kořeny rovnice (73), zní
+
+
+F(n)=F (v) (p) ^T7Ť==f= «*<*?
+
+
+
+
+
+Obdržíme (32) pro >fe jest integr. konstanta. 36. Druh [(41)]. rovnicích (72) (72 učiňme A5:
+
+
+x2z iy)2
+
+
+(75)
+
+
+Poslední rovnice představuje imaginární válec st.; komplex nemá křivky singularit.
+
+
+Viz rovnice (62).
+
+
+Rozprava: Roč. XIX. Tř. II. 48.
+
+
+XLVIII. ﻿34
+
+
+Rovnice (73) konfokálního systému jest pro toliko druhého stupně Kořeny její doplníme třetí souřadnicí limitním přechodem:
+
+
+c-b který applikujeme (73). Výsledek jest rovnice
+
+
+
+
+
+=o,
+
+
+která definuje (i; nových souřadnicích rovnice oskulačních čar komplexu jež jsou zde vždy algebraické, zní
+
+
+odvodíme tímtéž limitním přechodem rovnice (66).
+
+
+Třída VI.
+
+
+37. Druh [32]. Kanonické formy
+
+
+x2- x4x-a (A4 Aj)
+
+
+
+
+
+(77) (78)
+
+
+obdržíme (28) substitucí následující, jež vzniká spojením substitucí (40) (51):
+
+
+
+
+
+g"",
+
+
+-f- s""
+
+
+Rovnice (77) platí pro [(32)].
+
+
+Rovnici plochy, jež komplex představuje, souřadnicích pravoúhlých (x, odvodíme (78) užitím vzorců (odst. 5.); vzhledem (70) musíme však těch vzorcích psáti nyní xs, #.,, x-t> místo *i, xz> x3, xt, xb. Tak vychází
+
+
+y}'2 (A4 A!)
+
+
+(78a)
+
+
+jest paraboloid, jehož jedna nekonečně vzdálená přímka povrchová dotýká kružnice nekonečně vzdálené; druhá tuto kružnici protíná dvou bodech (neprochází bodem dotyku prvé).
+
+
+XLVIII. ﻿35
+
+
+Rovnice konfokálního systému
+
+
+íp""
+
+
+x,-
+
+
+^=o (79)
+
+
+odvodí (29) limitním přechodem udaným počátku tohoto odstavce; příslušných formulích jest položiti e.2 ... místo AT,
+
+
+Interpretujme (79) souřadnice tak jako jsme právě učinili (78); rovnice (79) představují pak soustavu konfokálních paraboloidů. Rozvi nutelná plocha jim opsaná skládá plochy třetí třídy čtvrtého stupně) svazku rovin, jehož osa dotýká kružnice nekonečně vzdálené jenž plochou společné dvě různé roviny.
+
+
+Křivka singularit společná příslušným komplexům konfokálním (průsek plochy rovinou nehledíme onomu svazku rovin) jest racionální křivka stupně body úvratu; prochází oběma kruhovými body rnimo dotýká přímky nekonečně vzdálené.35)
+
+
+Inversí vznikne této křivky křivka (se čtyřmi body úvratu), jejíž charakteristická čísla jsou
+
+
+
+
+
+(80)
+
+
+Applikujeme-li dilataci, dostaneme křivku rozpadající dvě křivky týmiž čísly charakteristickými; snadno přesvědčíme, (72) platí pro křivku singularit obecného komplexu [32]. Volme nové souřadnice /i, kořeny rovnice (49); oskulační řady komplexu jsou pak určeny rovnicí
+
+
+((i) (v) (p)
+
+
+
+
+
+
+
+
+(81)
+
+
+kterou obdržíme (32) kladouce e.2 elt čá.
+
+
+38. Druh [(32)1. Abychom obdrželi kanonickou formu učiníme rov. (78) (78 a):
+
+
+(82)
+
+
+y)3
+
+
+Místo poslední plochy zavedeme transformací
+
+
+x', 2)''
+
+
+35) průsečné křivce plochy (t. plochy vytvořené tečnami minimální křivky prostorové třetího stupně) rovinou budeme jednati odst. 39.
+
+
+XLVIII. ﻿36
+
+
+plochu ekvivalentní:
+
+
+z)- (82a)
+
+
+kde pro jednoduchost vynecháváme čtvrtou homogenní souřadnici
+
+
+Plocha (82 jest válec povrchovými přímkami isotropickými (cf. odst. 34.); řez učiněný rovinou jest parabola
+
+
+(83)
+
+
+Není zde tedy možný systém koniokálních ploch takový, aby každém bodě prostoru protínaly ortogonálně tři plochy systému; rovnice (79) jest pro e.: toliko prvního stupně nemůžeme zde zavésti systém souřadnic ^>.
+
+
+Plochu (82 lze vyjádřiti užitím dvou parametrů takto:
+
+
+_4_
+
+
+~~^~
+
+
+
+
+
+(826)
+
+
+Položíme-li const, obdržíme isotropickou přímku; pro const, obdržíme prostorovou křivku třetího stupně minimální; všechny isotro-pické přímky (povrchové přímky válce) jsou rovnoběžné, všecky křivky třetího stupně jsou kongruentní. Válec (82 vytvoří, posunu je-li takováto minimální křivka třetího stupně směru přímky isotropické. Dle známé věty jest tedy (82 plocha minimální*6} plocha, jejímž každém bodě oba hlavní poloměry křivosti liší toliko znamením.
+
+
+Přejděme nyní transformací (7) komplexu, jehož kružnice odpovídají bodům plochy (82 a); obrazy křivek třetího stupně válci (82 ležících budou oskulační řady, jejichž obálky jsou průsečné čáry roviny rozvinutelnými plochami utvořenými tečnami oněch křivek. Obdržíme výsledek následující:
+
+
+Kružnice komplexu tvoří oo1 svazků splývajících bodech základních. Tyto body naplňují parabolu (83) každém nich jest společná tečna příslušného svazku rovnoběžná osou Mimo tyto svazky lze sestrojiti oox oskulačních řad; středy kružnic patřících takové řady naplňují křivku třetího stupně dvojným bodem, všecky tyto křivky jsou shodné vytvoří libovolné nich translacemi směru osy Obálky oskulačních řad jsou křivky Čtvrtého stupně třemi body úvratu;
+
+
+36) tyto zvláštní minimální plochy stupně upozornil již (viz Darboux: Lt^ons sur théorie generále děs surfaces etc. I., 290). theorii ploch minimálních zejména přihlíží zajímavým formám ploch; poněvadž tyto válce jsou vždy imaginární, nedošly differenciální geometrii zvláštní pozornosti.
+
+
+XLVIII. těchto křivkách jednali jsme již odstavci předešlém. Obecný komplex druhu [(32)] odvodí našeho speciálního komplexu inversemi dila-tacemi.
+
+
+Zobrazení minimální křivky prostorové třetího stupně roviny, kterém isme právě zmínili, jest zajímavé též proto, vede sestrojení soustavy parallelních křivek čtvrtého stupně; tom jednám odstavci následujícím.
+
+
+39. Všechny minimální křivky prostorové třetího stupně jsou shodný vhodnou volbou pravoúhlých souřadnic lze takovou křivku vyjádřiti rovnicemi37)
+
+
+
+
+
+
+
+
+
+
+
+kde značí libovolnou konstantu parametr. Průsek tečny sestrojené bodě (x, rovinou souřadnice:
+
+
+—Sk u.(\ -4/2, -TtTjW-n
+
+
+
+
+
+
+
+
+
+
+
+(85)
+
+
+kde jest položeno
+
+
+
+
+
+
+
+
+Rovnice (85) vyjadřují parametricky racionální křivku čtvrtého stupně, která obaluje oskulační řadu, jež jest transformací (7) přiřaděna křivce (84). rovnic (85) snadno odvodíme, tři body úvratu. Evoluta křivky daná prvními dvěmi rovnicemi (84)38) prochází každým bodem úvratu křivky takové bod}' obdržíme pro hodnoty para metru jež hoví současně rovnicím
+
+
+
+
+
+Tyto dvě rovnice redukují vzhledem (85) nebo:
+
+
+37) \\7. Lie-Scheffers Vorlesungen uber contimuerliche Gruppcn (1893) 705.
+
+
+38) Tato evoluta jest projekcí křivky (76) roviny Viz př. Schcffcrs: Einfiihrung dic Theoric děs Cnrvcn (1901) 345.
+
+
+XLVIII. ﻿38
+
+
+kterážto rovnice pokud jest reální jeden reální kořen dva imaginární kón jugo váné.
+
+
+průseku křivky (85) přímkou nekonečně vzdálenou dva .(pro oo) splývají zbývající dva jsou bodech kruhových, neboť (ne-
+
+
+
+
+
+závisíc pro -4- Jí.
+
+
+Zvětšiti nějakou veličinu znamená posunouti původní křivku (84) směru takovému posunutí přiřadil však transformace (7) zvětšení všech poloměrů křivosti křivky touž veličinu. Tedy:
+
+
+Rovnice (85) představují soustavu parallelních křivek čtvrtého stupně. Každá nich prochází oběma kruhovými body, dotýká mimo přímky nekonečně vzdálené tři body úvratu konečné vzdálenosti', je-li reální, jest jeden nich reální dva imaginární. Společná evoluta křivek soustavy jest křivka třetího stupně
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dvojným bodem] přímku nekonečné vzdálenou tečnu in/lekční.
+
+
+Křivka (86) jest známá pode jménem Catalanova trisektrix39) rovnici
+
+
+y)2 (8(}«)
+
+
+Inflekční body konečnu ležící jsou
+
+
+
+
+
+
+
+
+obě příslušné tečny inflekční jsou přímky isotropické.
+
+
+rovnic uvedených odst. lze snadno dokázati, každá soustava parallelních křivek stupně nutně skládá křivek trikuspidálních, které dotýkají přímky nekonečně vzdálené procházejí oběma kruhovými body; dle theorie evolut následuje toho, jejich společná evoluta jest racionální křivka stupně, která tečny inflekční dvě přímky isotropické přímku nekonečně vzdálenou. Těmito podmínkami jest však tvar evoluty úplně určen; evoluta jest právě křivka (86). Tedy:
+
+
+Existuje jen jedna soustava parallelních křivek čtvrtého stupně daná rovnicemi (85).
+
+
+Jednoduchý důkaz této věty plyne též Lieova theorému minimálních křivkách prostorových stupně počátku tohoto odstavce uvedeného.
+
+
+Třída VII
+
+
+40. Jediný druh [5]. Kanonické formy
+
+
+#32
+
+
+(87)
+
+
+8Í) Tak nazývá (Spezielle alg. und transsc. Kurven; 1902); rovnice (5') tomto díle str. uvedená souhlasí pro naší rovnicí (86 a).
+
+
+XLVJII ﻿39
+
+
+odvodíme (28) následující substitucí:
+
+
+
+
+
+Ařa
+
+
+*'"", «""' n""
+
+
+fi"" «/X/ <I2 8')
+
+
+tf3 («' («' e"") («' as? (ť""—l"") =1,
+
+
+
+
+
+(88)
+
+
+1?' s"" (f"" s), v)"" s'"" (s'"" s],
+
+
+(89)
+
+
+
+
+
+
+
+
+Abychom odvodili rovnici plochy představující komplex (88), užijeme zase rovnic odst. 5., ale položíme nich vzhledem (87) xl, x:>, x.-,, xit x.< místo A'I; x2, xs, ,r,, x.}. Plocha hledaná:
+
+
+—iy)t
+
+
+(88a)
+
+
+jest imaginární paraboloid, jehož jedna nekonečně vzdálená povrchová přímka dotýká kružnice nekonečně vzdálené druhá prochází bodem dotyku.
+
+
+System konfokální, jehož rovnice
+
+
+
+
+
+
+
+
+
+
+
+x2xs -}- x1x4 (90)
+
+
+odvodí transformací (89) (nutno zavésti ovšem místo A,), jest utvořen paraboloidy vepsanými rozvinutelné plochy stupně, jež rozpadá plochu třetího stupně (jako příp. [32], odst. 37.) svazek rovin, jenž toliko jednu rovinu společnou (vlastně dvě splývající).
+
+
+Nehledíme-li tomu svazku, jest křivka singularit příslušného komplexu táž jako případě [32].
+
+
+Dosadíme-li konečně rovnice (32) e-a e,, elf obdržíme rovnici oskulačních řad komplexu
+
+
+L-L) (Jt=L+ C]_ ,u— c-i
+
+
+nové souřadnice /t, jsou kořeny rovnice (90). Integrál tedy vždy algebraický.
+
+
+XLVIII. ﻿OBSAH.
+
+
+Ovod.
+
+
+Orientované kružnice rovině.............
+
+
+Dotykové transformace kružnic rovině.........
+
+
+Lineární komplexy kružnic...............
+
+
+Klassifikace kvadratických komplexů tříd druhů
+
+
+Kvadratický komplex obecný [11111]..........
+
+
+Ostatní druhy třídy I..................
+
+
+Třída II.......................
+
+
+Třída III.......................
+
+
+Třída IV.......................
+
+
+Třída Třída
+
+
+Odst.
+
+
+1.—
+
+
+4.—K). 11.—13. 14.—l(i. 17.—21. 22.—23. 24.—28. 29.—31.
+
+
+VI. Třída VII.
+
+
+System parallelních křivek stupně
+
+
+32.—34. 35.—36. 37.—39. 40.
+
+
+XLVI1I."

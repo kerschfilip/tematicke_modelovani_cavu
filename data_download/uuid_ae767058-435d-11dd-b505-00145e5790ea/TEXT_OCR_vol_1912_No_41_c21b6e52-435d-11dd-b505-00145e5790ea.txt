@@ -1,0 +1,879 @@
+"","x"
+"1"," ﻿ROČNÍK XXI
+TŘÍDA II.
+ČÍSLO 41.
+O ohybu elektromagnetických vln na dvou parallelních,
+kruhových válcích.
+Podává Dr. Frant. Záviška, s. docent české university.
+(S obr. v textu.) (Předloženo dne 5.  listopadu   1912.)
+Přesné řešení ohybových problémů vyžaduje integraci Maxwellových rovnic se zřetelem k podmínkám, jež musí býti splněny na rozhraní, což jest úkol velmi nesnadný; provedení jeho zdařilo se až dosud jen v několika málo případech. K nim patří v první řadě ohyb způsobený ostrou, rovnou hranou nekonečně dlouhého stínítka, kterouž úlohu přesně řešil poprvé Sommerfeld1); řešení jeho později rozšířil Schwarzschild2) i na nekonečně dlouhou štěrbinu. Tím podařilo se uspokojivě vysvětliti polarisační zjevy spojené s diffrakcí na ostré hraně; za to však vliv materiálu stínítka, pokusy také zjištěný, zůstal nevylezen; neboť řešení Sommer-feldovo jest omezeno na předpoklad, že stínítko jest z látky bucf dokonale zrcadlící nebo úplně černé, takže jakýkoliv vliv konstant charakterisujících optické vlastnosti materiálu jest z theorie a priori vyloučen. Naproti tomu ukázalo se později, že jest možno zpracovati některé diffrakční problémy bez této zjednodušující supposice; tak nejdříve podali I g n a-towsky3) a Seitz4) téměř současně řešení ohybu elektromagnetické rovinné vlny na nekonečně dlouhém kruhovém válci, později řešil M i e5) týž problém pro kouli. Postup řešení jest ostatně v obou případech týž; výrazy pro složky elektrické a magnetické síly obdržíme ve formě nekonečných Fourierových řad, v jichž koěfficientech vystupují Besselovy, resp. sférické funkce. Tyto řady však konvergují dostatečně rychle jen potud, pokud jest poloměr válce, resp. koule dosti malý proti délce dopadající vlny, takže experimentální stvrzení theoretických výsledků jest
+J) A.   Sommer.f eld,   Matli. Ann. 47, 317. 1895.
+2)   K.   Schwarzschild,"" Math. Ann. 55, 117. 1902.
+3)   W. v.   I g na to w s k y, Ann. d. Phys. 18, 495. 1905.
+4)  W.   Seitz,   Ann. d. Phys. 16, 746. 1905 a 19, 1906. B)    G.   Mie,   Ann. d. Phys. 25, 377. 1908.
+Rozpravy: Roč. XXI. Tř. II. Čislo 41.
+XLI. ﻿vlastně omezeno jen na Hertzovy vlny, kdež se dá tato podmínka snadno splniti. Při tom se ukazuje, že vliv konstanty vodivosti jest poměrně nepatrný,, a není-li poloměr válce nebo koule extrémně malý proti délce vlny, možno vždy vodivost látky pokládati za nekonečně velikou; takže značnější vliv konstant materiálu dá se očekávati jen u dielektrik. Ohyb rovinné elektromagnetické vlny na kruhovém válci z dielektrika řešil obšírně Schaefer a společně s Grossmanem6) provedl i měření, jež vzhledem k dosti značným obtížím, s nimiž jest spojeno, potvrzuje theoretické výsledky velice dobře. Podobně 1) e b y e 7) řešil ohyb vln vznikající na dielektrické kouli a stanovil hodnotu tlaku, jímž záření na kouli působí, při čemž pomocí nových semikonvergentních rozvojů pro Besselovy funkce podařilo se mu rozšířiti úvahy i na případ vln optických. Schaefer a Reiche8) konečné podali theorii ohybu rovinné vlny na mřížce složené z válcových tyčí, omezivše se ovšem na ten jednoduchý případ, že vzdálenost jednotlivých válců od sebe jest tak veliká, že jich vzájemný vliv možno zanedbati, a účinek celé mřížky jest pak dán superposicí účinků jednotlivých válců. Theorie vykládá hlavně zjev již dříve experimentálně známý, že totiž, pokud jest délka vlny dosti veliká proti poloměru válců, mřížka propouští snadněji kmity, jichž rovina polarisační jest s osami válců rovnoběžná, než kmity polarisované k nim kolmo (t. z v. Hertzův effekt), že však s klesající délkou vlny tento rozdíl mizí, až konečně pro délky vlny dosti malé se poměry obrátí; mřížka propouští více kmity polarisované kolmo k osám válců, jak nalezl du B o i s 9) pro viditelné záření (t. zv. effekt du Boisův). Konečně budiž ještě uvedeno, že S i e g e r10) řešil ohyb rovinné vlny na elliptickém válci, ale za předpokladu, že vodivost jeho jest nekonečně velká.
+Účelem této práce jest podati přesnou theorii ohybu vznikajícího na dvou nekonečně dlouhých, parallelních válcích kruhových, jichž vzájemná vzdálenost může býti libovolná, takže účinek obou válců na sebe nikterak nevylučujeme. Vlna dopadající budiž rovinná, lineárně polariso-vaná a nechť se šíří směrem k osám obou válců kolmým. Při tom budeme rozeznávati dva hlavní případy: oba válce jsou vzhledem ku směru, jímž dopadající vlna se šíří, buď vedle sebe — směr dopadající vlny jest kolmý k rovině proložené jich osami — nebo za sebou — směr dopadající vlny jest s rovinou jich osami proloženou rovnoběžný. V prvním případě, který jest patrně pro měření důležitější, budeme ještě předpokládati, že oba válce jsou úplně identické, tedy z téhož materiálu a stejného poloměru/ poněvadž počet se tím patrně značně zjednoduší; v druhém případě,
+1911.
+') P.   Dcbyc,   Ann. d. Phys.  30, 51. 1909.
+6)   C.   Schaefer  a  F.   G r o s s m a n n, Ann. d. Phys. 31, 455. 1910.
+8)   C.   Schaefer   a F. R c i c h e,   Ann. d. Phys. 32, 577. 1910 a 35, 817.
+9)    H.  d u  B o i s,  Wied. Ann. d. Phys., 46, 542. 1892 a 48, 546. 1893.
+10)  B.   Siegcr,   Ann. d. Phys. 27, 626. 1908.
+XIJ. ﻿jehož řešení bude podáno hlavně za tím účelem, aby bylo možno vyložiti některé odchylky od theorie, jež pozorovali Schaefer a Gross-m a n n v uvedené práci při měření ohybu způsobeného jedním válcem z dielektrika, mohou býti oba válce různé. Elektromagnetické konstanty látky válců nechť mají hodnotu libovolnou; jediný předpoklad, který ještě učiníme, jest ten, že poloměr válců jest dosti malý proti délce dopadající vlny — řešení jest tedy opět omezeno jen na vlny Hertzovy. Směr kmitů v dopadající vlně může býti také libovolný; je však patrno, že stačí projednati oba základní případy, kdy totiž dopadající vlna jest polarisována bud parallelně s osami válců nebo k nim kolmo; obecný případ obdržíme pak jednoduše superposicí těchto dvou.
+Maxwellovy rovnice, o jichž řešení tu jde, transformujeme nejdříve na válcové souřadnice r, fp, z, v nichž souřadnice x a y pravoúhlé soustavy v prostoru jsou nahrazeny rovinnými polárními souřadnicemi r a <y>; osa z nechť jest rovnoběžná s osami válců. Rovnice Maxwellovy pak znějí
+l  /   3 E?                \       l    3
+— ( L   ~      + 4 jt (7 E2 ) = — - — i c  \     21                      /       r   ér
+l (   2Er       ,          \      l   3H,        3HV
+--- ( L -^~ + 4 JT G Er )=----------------V
+C   \     3ť                        /        fScp            3 z
+........(1)
+ti    d íi ?              .L     ^                      lo xi ?
+'         _________   -^^-   ____   ____  _____   (sy    íy       \        I        ____ _________
+c     d i                r   dr                1    y     S(p
+c     21                r    c <p            3 z
+(i  dHlf             2E,        c'Ez
+c     c11                   3 z             S r   '
+kdež L3, Er, Ey jsou složky síly elektrické, #«, /řr, H^ složky síly magnetické, L značí dielektrickou konstantu, /* permeabilitu, a konstantu vodivosti a konečně c rychlost světla ve vakuu.
+V našem případě patrně nic nezávisí na z; rovnice (1) následkem .toho se rozpadají na dva systémy na sobě nezávislé, totiž
+— ( L ' ^  z  + 4 n G Ez} =----.' -   (r Hv} —------r—^
+G \ \ot                  /       r   ar                r     3 (p
+c     21             r
+3Hr        3I^ c     2t          dr   '
+XLI. ﻿*                        •""•                 /      T-     \       l
+__ — __                    __ Iv H     \  —l— ___
+—                      *        \f   L-'O) l
+l    /      3 Er l L     ^~:
+c  \      3 /
+Y      l   W*
+)    '   r    3g>
+(2')
+První systém odpovídá případu, kdy dopadající vlna jest polariso-vána k osám obou válců kolmo, kdy tedy kmity elektrické síly se dějí k nim parallelně. V tom případě jest totiž v dopadající vlně Er — Ev>= O, a ze symmetrie jest patrno, že totéž platí jak pro vlny na obou válcích odražené, tak pro vlny lomené dovnitř, takže jest všude výsledná elektrická síla rovnoběžná s osou z. Z první rovnice (2') plyne pak, že jest i Hz = O, a všechny rovnice (2') jsou nyní splněny identicky, takže zbývají jen rovnice (2). Je-li naopak dopadající vlna polarisována paralelně s osami obou válců, elektrická síla tedy k nim kolmo, jest opět magnetická síla s osami válců parallelní, takže v dopadající vlně jest pak H, — Hv = O, a jest patrno, že to platí všude. Z toho plyne Ez = O, a nyní jsou rovnice (2) identicky splněny.
+Přikročme nyní k řešení jednotlivých případů.
+A. Oba válce vedle sebe.
+1. Dopadající vlna jest polarisována kolmo k osám válců. V tom případě tedy platí rovnice  (2).  Poněvadž jde o děje čistě
+periodické, klademe
+= Z eim
+Hr=Pei<
+kdež jest co =
+značí periodu kmitů. Komplexní veličiny Z, P,
+jež v dalším budeme nazývati krátce amplitudami,  nechť jsou na t nezávislé. Po dosazení do rovnic (2) a zkrácení obdržíme
+l                                    13
+— (4 n ff + i s ra) Z = -- — (;-
+c                                    r   3 r
+l   3P
+— r   3 <p
+Z
+r   3 qp
+0-=
+....   (3)
+Dosadíme-lijnyní z posledních dvou rovnic za P a 0  do rovnice první, obdržíme differenciální rovnici pro Z ve tvaru
+(4),
+XLI. ﻿kdež kladeno
+4 n <J w o)
+(5)
+Hodnota veličiny k závisí patrně v první řadě na konstantách media. Jde-li o isolátor, jest 0 = O, a k reálné. Máme pak
+2 n  \/----
+kdež A = c r značí patrně   délku vlny odpovídající ve vakuu periodě r, ___značí ostatně délku vlny odpovídající téže periodě v isolátoru. Ve
+•     tl>  C
+vodičích jest k komplexní; v dobrých vodičích, jako jsou na př. kovy, jest ovšem hodnota dielektrické konstanty s neznáma, jest však patrno, že možno tu ve výrazu (5) pro kz první člen obsahující s zanedbati proti členu druhému, což vlastně neznamená nic jiného než, že v dobrých vodičích zanedbáváme Maxwellův proud posunutí vůči proudu Ohmovu. Jest tedy pak kz čistě maginární; abychom odstranili neurčitost znamení u k, budeme pro ne v dalším vždy voliti tu hodnotu, jejíž imaginární Část má znamení záporné. Platí tedy v kovech
+(5"").
+Jde nyní o to stanoviti obecný integrál rovnice (4), což lze provésti dosti jednoduše. Nejdříve je patrno, že Z musí býti periodickou funkcí úhlu qp, rozvineme-li ji tedy ve Fourierovu řadu, vidíme, že partikulárními integrály rovnice (4) jsou výrazy
+Z = R cos n (f    a    Z = R sin n <p,
+kdež n jest libovolné číslo celé a kladné, íčpak závisí jennar.   Dosazením do (4)  obdržíme differenciální rovnici pro R, jež zní
+jež opět substitucí u = k r přejde ve známou rovnici Besselovu
+XLI. ﻿Jest tedy R obecnou Besselovou funkcí ;j-tého řádu, argumentu k r, takže, značí-li Fn a G„ dvě libovolné Besselovy funkce, jsou partikulárními integrály rovnice (4) výrazy
+Z — Fn (k r) cos ntp obecný integrál jest pak
+Z = Gn (k r) sin n <p,
+Z = 2 [Fn (k r) cos n (f> + Gn (k r) sin nq>
+n=0
+(7) .
+Tvar funkcí Fn a Gn dá se nyní   specialisovati. — Prostor mimo válce, o němž pro jednoduchost hodláme předpokládati, že jest vyplněn vzduchem, takže v něm jest  L = u = l,   označíme indexem l,   prostor uvnitř   válců  indexem 2.   Elektromagnetický rozruch v    prostoru vnějším skládá se jednak z vím"" dopadající,    jednak    z    vln na obou válcích odražených. Vlna dopadající šíří se smě-T       rem osy y (viz výkres),  budeme   předpokládati, že přichází od kladných hodnot yt takže můžeme  pro  ni klásti v komplexním tvaru
+Obr. 1.
+Zld=e
+kdež k-L =
+značí hodnotu konstanty k definované rovnicí (5) resp. (5')
+v prostoru vnějším; amplituda dopadující vlny volena rovna jedné.
+Vzhledem k symmetrii celého uspořádám budeme užívati v dalším dvou polárních soustav; vrchol první z nich (r', <p') nechť jest ve středu pravého válce C', vrchol druhé (r"", <p"") ve středu válce levého C"" ' , jak naznačeno na připojeném výkresu. V obou soustavách jest patrně
+y = r' sin ff>' = r"" sin tp"",
+takže možno klásti buď
+nebo
+Oba tyto výrazy  možno   snadno   rozvinouti  v řadu   Fourierovu; dle známého vzorce11) jest totiž
+u)   Srv. na př.   H.   W c b e r,   Partielle Difícrcntialgleichungcn d. mathcmat. Physik,   1900. p.   156.
+XLI. ﻿eixsín<(' = J0 (x) + 2 </, (x) cos 2 rp + 2 «74 (*) cos 4 (f -f ... -f 2 ř («7a (#) sm ÍJP + J3 (A;) sw 3 <p + ...),
+kdež Jn (#) jest Besselova funkce prvního druhu, w-tého řádu. V našem případě máme tedy bud""
+aneb
+Zld = J0 (kv r') + 2/2 (kj_ /) cos 2 rp' + 2 J4 (k^ r') cos 4 <p' +  ...
++ 2 í [«/! (&t r') sin q>' + «/3 (kt r') sin 3 <p' +...].   .   .   .   (8) ,
+2 í
+(^/') cos 2 <p"" + 2 J4 (^ /') cos 4 srn <p"" + J3 (^ r"") srn 3 <p"" +..
+oba vzorce jsou patrně identické.
+Ve výrazu pro vlnu odraženou nutno Besselovy funkce voliti tak, aby výraz (7) pro velmi veliká r' resp. r"" představoval postupnou vlnu šířící se směrem rostoucího r', po případě r"", s amplitudou klesající k nulle, poněvadž patrně vliv obou válců ve veliké vzdálenosti vymizí. Jak I g n a t o w s k y12) ukázal, vyhovuje této podmínce jedině funkce
+Qn = Kn-i-^
+(9),
+kdež /„ jest Besselova funkce prvního druhu, již dříve zmíněná, Kn jest Besselova funkce druhého druhu, jak ji Heine zavedlj^ve svých ,,Kugel-functionen""; Qn samo se liší ostatně jen konstantním faktorem od t. z v. druhé funkce Hankelovy. Pro malé argumenty možno ku stanovení J„ a Kn užiti dosti rychle konvergujících řad
+Jn (x) =
+X""
+2 . 4 . 6. . 2 n
+x*
+'2(2Vr+~2)~
+s.
+2 . 4 (2 w + 2) (2j» + 4)         '',/ ' „(*)                        ...(10),
+s=i
+kdež log y = 0-57722, jest to t. zv. Mascheroni-ho konstanta. Pro argumenty veliké naproti tomu dají se funkce Jn a Kn rozvinouti v semikonvergentní řady; omezíme-li se v nich jen na první člen, což jest tím správnější, čím jest x větší a řád Besselovy funkce n nižší, máme
+.   , . Jn (X} =~'
+2« — l     \ ~         4 -- *)
+(u),
+12)   W. v.   I g n a t o w s k y, loc. cit.
+XLI. ﻿takže pro dosti veliká r možno klásti
+••)
+čili
+(11'),
+což vskutku představuje vlnu postupnou, šířící se směrem rostoucího r,
+_ JL^
+s amplitudou klesající k nulle jako r    2 . Má-li tedy výraz (7) odpovídati vlně odražené, musíme klásti
+n = An Qn
+=  Bn Q„ ,
+kdež An a B„ jsou dosud neznámé konstanty, takže v polárních souřadnicích r', fp' obdržíme pro vlnu odraženou výraz
+n = 0
+(A'„ cos n v' + Bn sin n ý] Qlt (kl r'),
+podobně mohli bychom v souřadnicích r"" , <p"" klásti pro odraženou vlnu
+X
+(An"" cos n tp"" -{- Bn"" sin n <i "") Qn (kv r""),
+«=n
+a konečně je patrno,  že i součet obou těchto výrazů vyhovuje všem podmínkám, jež odražená vlna má splňovati,   takže  celkem  klademe pro ni
+ce
+Zlr — Z (An' cos n (f>' + Bn' sin n qp') Q (&v r'}
+n = 0
++ L (A„"" cos n <f"" + BH"" sin n <p"") Qn (kt r"").
+n = 0
+To možno ještě zjednodušiti. Ze symmetrie totiž plyne, že v bodu M', jenž leží k bodu M symmetricky vzhledem k osej/, jest elektrická i magnetická síla táž. Zaměníme-li tedy r' a /', píšeme-li dále 180 — qp"" místo <p' a 180—<p' místo qp"", nesmí se poslední výra/ pro Z\r změniti. Snadný počet vede tak k relacím
+takže pro amplitudu odražené vlny obdržíme konečně výraz
+Zir — 2 An [QH (k-i r') cos n qp' -f (— 1)"" Qn (kt r"") cos n qp""j
+;i=0
++ E Bn [Qn (&! r'} sin n qp' + (— 1)"" -1 Qn (kl r"") sin n qp""].
+XLI. ﻿9
+Komplexní  amplituda  výsledné  síly  elektrické  v  prostoru   mimo válce jest pak
+Z\ = Z\ d + Z i r ,
+čili po dosazení
+t=J**y + LA« [Qn fa r') cos n <p' + (— 1)« Qn fa r"" cos n <p""]
+n = 0
++ L Bn [Qn fa /) sin n <?' + (— 1)»-' Qn fa r"") sin n <?""]
+...(12).
+Ve výrazech pro vlny lomené do válců mohou se vyskytovati jen Besselovy funkce prvního druhu, poněvadž všechny ostatní stávají se nekonečně veliké pro r = O, což ovšem nastati nesmí. Jest tedy tu
+•P         _    /-<        T                          S~>          _     T)        J
+r n — UM wu               LrH  — LJn J n ,
+kdež Cn a Dn jsou nové konstanty. Pro vlnu lomenou do pravého válce klademe pak
+Z2' = 2 (Cn cos n <p' + Dn sin n qi') Jn fa r')     ....   (13),
+n=0
+podobně vlna lomená do levého válce jest dána výrazem
+Z2"" = L (— l)'1 (Cn cos n <p"" — Dn sin n <//') Jn fa r"") .   .   .   (13'),
+n=0
+při čemž v tomto druhém výrazu jsou již konstanty voleny tak, aby byla splněna dříve zmíněná podmínka symmetrie; dále k« značí hodnotu konstanty k definované rovnicí (5) v prostoru uvnitř válců.
+Zbývá tedy nyní ještě stanoviti hodnoty konstant A„, Bn, C„ a Dn. Ty plynou z podmínek, jež musí býti splněny na povrchu obou válců, a dle nichž tangenční složka elektrické i magnetické síly musí se měniti spojitě při přechodu z prostoru vnějšího do vnitřního. Ze symmetrie všech výrazů jest patrno, že, vyhovíme-li podmínkám hraničným na povrchu válce jednoho, budou již splněny podmínky i na povrchu druhého válce, takže stačí se omeziti na válec jediný, na př. na pravý; v dalším pak polárními souřadnicemi r a <p, na něž jsou vztaženy Maxwellovy rovnice (2), budeme rozuměti souřadnice r' a rp', jichž vrcholem jest střed pravého válce C'. Poloměr válců označíme Q, pak musí pro r' = y a pro každé <p'
+platiti
+Z1 = Zlt            <D1 = OV.   .   .                    .   (14),
+kterážto druhá podmínka dá se také psáti vzhledem k rovnicím (3) ve
+tvaru
+l    ? 7        137'
+CZl        JL^-!_                            (14')
+,.       3 v>..........V1* /•
+? r'
+XLI. ﻿10
+Nyní musíme nejdříve výraz (12) pro Zx vyjádřiti úplně jako funkci proměnných r' a g>'. Poněvadž eikiV již vyjádřeno jest, a to rovnicí (8), zbývá jen učiniti totéž se součiny Qn (^ r"") cos n <p"" a Qn (k^ r"") sin n <p"", jakož i s jich derivacemi dle r'. To se dá jednoduše a elegantně provésti takto. V trojúhelníku C' C"" M označíme úhel C"" C' M na chvíli ř>, takže jest í> = 180 — y>', dále vzdálenost os obou válců C' C"" označíme a. Pak platí patrně
+r""* — a2 + r""2 — 2 ar' cos 0-, mimo to jest
+r"" cos y"" = a —• r' cos ft r"" sin (f"" = r' sin ft.
+Násobíme-li poslední rovnici imaginární jednotkou i a přičteme li ji jednou k rovnici první, podruhé pak odečteme, máme
+r"" ei(f"" = a — r' c - ť * z čehož dělením plyne
+r   c - f  = a
+re1
+'   * *
+r e
+a — re
+- i f>    '
+a odmocněním obdržíme
+,—Í<P"" _ (_^_____^e —y^
+kdež znamení odmocniny nutno voliti tak,   aby pro r' = O byla rovna + l, poněvadž pak jest patrně q>"" = 0. Máme tedy celkem
+Qn (k, r""} e> » r*
+* Q„ (k,
+' Tento výraz rozvineme nyní v řadu postupující dle Besselových funkcí prvního druhu; podle vzorce poprvé Grafem13) odvozeného totiž platí
+kdež Gň může býti ostatně libovolná Besselova funkce, o níž zde chceme předpokládati, že pro reálné argumenty zůstává reálnou; řada na pravé
+13)   J. H.   Graf, Mathematischc Annalen, 43,  143.  189:$.
+XLI. ﻿l
+11
+straně konverguje jistě, je-li r' < a, což jest v sousedství povrchu válce patrně vždy splněno. Ty Besselovy funkce, jichž řád jest tu dán číslem záporným, jsou definovány relacemi
+G-n (X)  =  (— 1)» Gn  (X)            J-n (X)   =   (— 1)» Jn  (X).
+Zavedeme-li tedy zpět tp' místo tt, máme *
+C    Ib   v""\ />««</>"" _   y l        IV"" ď          íb   si\   7     Ib   v'\ c—imcp'
+í*ii \n\ r    )  C       i      • — s-j  \ - l)     V* + m \KI l*) ""m \KI r ) í>         ť  ,
+•                                                     m = — n
+aneb,  nahradí me-li dvojitou řadu na pravé straně řadou jednoduchou,
+Gn (&! r""} c* ""v"" = G„ (kj_ a) Jn (ki r') + 3? (— !)«/«(*! O [(?» + , (k, a) c~ i """"i'' + (—l)mGH _„,(^ a) e* """"?'],
+m= l
+z čehož konečně rozloučením části reálné a imaginárné obdržíme hledané rozvoje nejdříve pro funkci Gn, a pak, klademe-li jednou Gn = Kn, podruhé Gn = Jn, i pro Qn- Píšeme je ve tvaru
+co
+Qn (ki r"") cos n ty"" = Ha„mcos m <jp'
+"":""                     ...... d6),
+Qn (k\ r"") sin n rp"" = 21 b„ m sin m y""
+m = l
+kdež kladeno
+fl«o = Qn (kva) J0 (k^r'}
+an m = (— I)»1J„, (k, r') [Qn + „, (k, a) + (— 1)» Qn_m (k, a)].   .   (16') . bn,n = (— l)*-1/* (k, r') [Qn + m (k, a) + (— l)—1 Qn_m (k^a)} .
+Specielně pro n = O máme «oo = Qo fa a) J0 (k, r'),      aom - 2 (— 1)'"" Qm (kt a) Jm (k{ r'), bom = 0.
+Derivací rovnic (16)   dle  r' obdržíme další rozvoje,   jež  píšeme   ve varu
+l     d                                      °°
+— -j-r (Q» (kv r""} cos n r;/') = 2? cn m cos m (f'
+ki dr                                      »' = ° '
+Id                  *
+-r- -j—r (Q„ (ki r""} sin n rp"") = 27 d„ „, sin m rp'
+RI   CIT                                                       m = l
+kdež jest
+cnm - (- 1)'"" J,n (k, r'} (QK+m (k, a) + (- 1)""' <?„_ m (k, a)]   .   (17') dnm= (— l)—1 </„/(L,>"") [Qn + m(kía) + (— l)""-1 ^.-» (*!«)],
+při čemž kladeno
+dJm(x)
+dx
+XLI. ﻿12
+Speciellně pro n = O máme opět CQO = <?o (*i «) Jo' & O.    <W = 2 (— 1)* Qm (k, a) Jm' (k, r'), dQm = 0.
+Tyto vztahy nyní zavedeme do rovnice (12) pro amplitudu výsledné elektrické síly v prostoru mimo válce, a po jednoduché úpravě obdržíme vzhledem k rovnici (8)
+oO                                                                                                                  oo
+Zx = J0 (ki r'} + 2 27 J2 m (&! /) cos 2 w <p' + 2 i 2] J2 ,„ _ a (^ r') srn (2 m — 1) <p'
++ 27 [Am Qm (kj_ r') -f- A0 aom —- A1 «t w + A2 a2m — . . .] cos
+w=0
+00
+»»=!
+a derivací dle r' obdržíme dále
++ 2 i 27 Já m-1
+m = l
+I:[AmQ'm(klr') + ^Oc„« —
+w= O
+i; [Bm <?;„ (^ r') + BI dl m —
+cos
+m= l
+m (2 w —• 1) g)'
+^ m . . .] sn m
+Výraz pro vlnu lomenou do pravého válce i pro její derivaci dle r' plyne přímo z rovnice (13). Dosadíme tedy nyní do rovnic (14) a (14') vyjadřujících podmínky na rozhraní a porovnáme faktory u cos m qp' a sin m <jp' na obou stranách. Tím obdržíme lineární rovnice mezi koéffi-cienty Am, B,n, C„, a Dm, jež se rozpadnou na dva na sobě nezávislé systémy; první z nich obsahuje jen koěfficienty Ama.Cm, druhý jen B,H a Dm. Označíme-li ještě pro stručnost
+k.2 g =
+jest první systém
+0 Qo (Pí] \ Q\ (Pí)
+2 Q2 (fc)
+* Q3 (Pí)
+A0 «02 — Al «12
+A0 «03 — Al «13
+2 a20 — •••   +        J0  (Pí}   = C0 e/Q 2 «21 — ••'                      = Cl Jl
+., a.22 — ... + 2 J2 (pj = C.2 J2
+(19)
+XLI. ﻿13
+A0 Qo    (Pí)   + A0 COO~A1 C10 + A2 C20 ~ ""•   +       JQ    fa)   = C0 r} «/„' fa)
+AI Qi (Pí) + AO coí - A! cn + AZ czi - -                    = ct n Ji (A)
+Az Qz (Pí) + A0 coa — Al cn + ^, Caa — ... + 2 J2' (^ = C2 1? J2 (A) • • (19')
+A* Q*   (A) + 40 CM - AI C„ 4- A, ca - ...                     = C, 1J /,' (A)
+a analogicky druhý systém
+2   o 2   \/  l/      l       l     12           2     22     l       3     32       * * *                                        22   \/ 2/
+#* <?* fa) + #! &1d — Bz 6?4 + #3 6M — ...                          = L>4 «/4 (A)
+/J   •      \   )   m     l  */)       l         --1--         19     (i       -----•       /»     /7-----         fl     /7       ----->                                                 -T       'Z         //-T?«/.    l   /l) -L  l
+*-* A.  \f ít     Vři'       I      ^""^ l       1 ^            *-^9 """">/t      l      *^fl ť*""?/l             • • •                                                          ~^""^4    l       4    \f     *
+při čemž ovšem nutno do rovnic (16') a (17') pro koěfficienty íř„w, #„,„ atd. dosaditi y' = Q , tedy ^ / = kt Q = p^
+V první řadě jsou to hodnoty koěfficientů Am a Bm, jež nutno stanoviti, poněvadž jen ty se vyskytují ve výrazu (12) pro amplitudu výsledné elektrické síly v prostoru mimo válce; vyloučíme-li tedy ještě z rovnic (19) a (19') koěfficienty Cn, pak z rovnic (20) a (20') Dn, obdržíme nejdříve pro koěfficienty An rovnice
+Ao [Qo  (Pí) Jo (Pz) — n Qo (Pí) JQ   (A)] + Ao [COQ JQ (A) — n aoo «V (Pz)] — A i [Ciojo (Pz) — n awJa (Pz)] + • • • =—Jo (Pí) JQ (Pz) + f^o (A) Jo' (Pz)
+AI [Qi (Pí) Ji (Pz) — iQi (Pí) Ji (A)] + A» (% Ji (Pz) — n «oi Ji (Pz)]
+-A, [clzj!fa)—vanJ2r fa)] + .. . = -2J2' fa) /.(to + 2*lJ,(Pi)Jt'(PJ a podobně další rovnice pro koěfficienty Bn
+BI [Qi fa) Ji (Pz) - n Qi (Pí) Ji (Pz)] + ^i [dn Ji (Pz) — n &u/i' (Pz)]
+B2 [<?•/ (A) Jz (Pz) -VQz (Pí) Jz  (Pz)] + BI [dlz J2 (A) — V] 612 Jz  (Pz)] B3 [Qz  fa) Já (A) — *} Qs (Pí) Já (Pz) ] + -^i C^is J* (Pz) — *! ^iz J& (Pz) l
+M/t (M+ >•«/• M//M)
+XLI. ﻿14
+Kdyby válce byly z látky nekonečně dobře vodivé, což ostatně bez veliké chyby možno supponovati vždy, jde-li o válce kovové, a není-li jich poloměr Q velmi malý, pak na místo podmínek (14) a (14') na rozhraní nastoupí podmínka jediná: na povrchu válců musí totiž vymizeti tangenční složka elektrické síly. Jest tedy Z, = O pro r' = Q, a pro koéfficienty A„, a Bm obdržíme rovnice stejné jako jsou (19) a (20), pouze pravé strany nutno položiti rovny mílie.
+Rovnice (21) a (21') dají se řešiti velmi jednoduše, je-li, jak již řečeno,
+í) _ poloměr válců Q malý proti délce vlny dopadající A, je-li tedy pl —   - — Q
+A
+malé. V tom případě totiž hodnoty koěfficientů A,,, a Bm s rostoucím indexem klesají velmi rychle knulle, takže zpravidla stačí, známe-li hodnoty prvních dvou, nanejvýš tří, ostatní možno už zanedbati. To je patrno z rovnic samých, uvážíme-li, že pro malé argumenty jest Qm (p) řádu P~m, Qa(P) Ícst řádu logp, tedy Q'm (p) řádu p-c»+v, kdežto Jm (p) jest řádu pm , a Jm' (p} řádu p1""'-1, J0' (p) řádu p. Jest tedy A,„. i Bm obecně řádu p'im, takže pro malé hodnoty p s rostoucím indexem m hodnoty obou koěfficientů vskutku dosti rychle klesají. K tomu přistupuje dále ta okolnost, že měření pole dif frakcí vzniklého možno konati jen v dosti veliké vzdálenosti od válců, poněvadž jinak proud v měřícím přístroji (thermoelementu, bolometru a pod.) vznikající indukuje zpět proud ve válcích a modifikuje pole jimi vzbuzené, jak ukázali Schaefer a Gross-m a n n v citované práci, a jak v dalším ještě bude i theoreticky dokázáno. Je nyní patrno, že v tak velikých vzdálenostech eventuellní nehomogennost pole ve válcích nepadá tak na váhu. To je viděti i z výrazu pro vlnu odraženou v rovnici (12), kdež u koěfficientů Am i Bm stojí faktor Qm (^/). V bezprostředním sousedství válců jest r' a také k± r' malé, Qm (k± r'} jest pak řádu (k± r')~m, s rostoucím m tedy roste, kdežto pro dosti veliká r'
+jest Qm (k-L r'}, nezávisle na indexu, řádu -^=     ;   vliv členů závisejících
+Vf^r'
+na y' jest tedy tu daleko menší než v prvním případě.
+Z toho plyne jednoduchá methoda k určení koěfficientů Am a Bm . V první rovnici (21) nejdříve zanedbáme členy s Alt A.2, atd., čímž obdržíme
+A, [<?„' (A) J° (Pz) —vQo (/>,) JQ' (&)] + A, (Cnfl J0 (p.2] — *} a00 J0' (p2)}
+a z této rovnice stanovíme přibližnou hodnotu /!„. Tu dosadíme do druhé rovnice (21), v níž zatím zanedbáme členy s A2, atd., a obdržíme přibližnou hodnotu A-L, podobně mohli bychom z třetí rovnice stanoviti přibližnou hodnotu Áz, atd. Dosadíme-li nyní do prvé rovnice (21) takto získané hodnoty Av Az, . . ., vypočteme z ní přesnější hodnotu An, podobně z druhé rovnice dostaneme přesnější hodnotu Alt a další postup jesc už beze všch )
+XLI. ﻿15
+patrný. Stejně stanovíme koéfficienty BL, B2, atd. Tato methoda vede velmi rychle k cíli, a zpravidla stačí úplně již znalost prvních přibližných hodnot A0, Aí a Br Tak na př. pro dva vodní válce (s = 81) poloměru y = 0-4 cm, v kontaktu, tedy a = 0-8 cm, a pro A = 10 n = 31-4 cm,
+2 it
+takže pl = —— Q = 0-08,  vede první počet k těmto hodnotám: A
+A0 = — 0-0858 — 0-294 i,     Al = 0-0003 + 0-0009 i,     BL = 0-0005 i.
+Hodnoty koěfficientů Al a Bl jsou tedy nepatrné, a při výpočtu vnějšího pole můžeme je i při poměrně malých vzdálenostech od válců (na př. 10 cm) zanedbati a omeziti se pouze na konstantní člen s Aa. Druhý počet dává pro An hodnotu —- 0-0853 — 0-295 i, změna jest tedy velmi malá.
+Jsou-li nyní koéfficienty Am a Bm známy, pak dosazením do (12) obdržíme hodnotu komplexní amplitudy výsledné elektrické síly v prostoru mimo válce a připojením časového faktoru eimt i hodnotu výsledné síly samé. Klademe-li tedy Z1 = M -\- i N, kdež M a N jsou reálné, jest v komplexní formě
+Eíg = (M + ÍN) eíh)t,
+a podržíme-li pouze část reálnou,
+Eis = M cos to t — N sin co t. Měření udávají zpravidla střední časovou hodnotu čtverce L%,,   tedy
+El =
+kdež T značí periodu kmitů. Po dosazení za E\z a provedení jednoduchého počtu obdržíme
+Táž střední hodnota v dopadající vlně, čili v poli, jež vzniká bez válců, jest rovna —-,   takže možno říci, že M2 + N2 udává poměr mezi
+střední intensitou pole vzniklého v určitém místě ohybem na válcích a mezi ,,původní"" střední hodnotou pole, t. j. tou, jež byla na témž místě dříve než byly válce vloženy dopadající vlně v cestu. Tento poměr označíme v dalším R2.
+Abychom jej stanovili, klademe
+A „ = K„ -f- / ;•„           B„ = |8„ + « d„.
+XLI. ﻿dále jest
+16
+Qn = K„— Í --- J„ ,
+při čemž Besselovy funkce K„ a Jn jsou pro reálné argumenty &t r' a &t r"""" taktéž reálné. Dosazením do rovnice (12) a rozloučením části reálné a imag!-nárné obdržíme
+kdež jest
+M = cos k-L y + P           N = sin kv y + Q,
+P = L Kn (&! r'} (a„ cos n <p' + ftn sin n y')
+°°
+Jn (&i r') (yn cos n <p' -f dn sin n (pr)
+n = 0 TC
+2} ( — l)w Kn (&j r"") («» cos M rp"" — j8(í sm n <jp »=o
+-f- J; (— 1)» J„ (^ r"") (yn cos n <p"" — ďn sin n
+(22),.
+uo
+= Z Kn (kt r'} (y„ cos n rp'
+w = 0
+'
++ 2; ( — l)n-Kn (k^ r""} (yn cos n rp"" — dn sin n 9""
+n = 0
+7T    °°
+-- — 27 ( — l)n ./„ (^! ^"") («M cos n rp"" — /J„ sin n <
+a z toho plyne dále
+M2 + 2V2 = L2 = l + P2 + Q'2 + 2 (P cos
+. (22'),.
+. (23) ..
+Obecná diskusse těchto vzorců je patrně nemožná; značné zjednodušení však nastane, omezíme-li se na případ, kdy vzdálenosti r' a r"" pozorovacího místa od obou válců jsou tak veliké proti délce vlny A, že Besselovy funkce Jn a Kn v rovnicích (22) a (23') dají se vyjádřiti asymptotickými vzorci (11). Klademe-li tu
+obdržíme po snadném počtu pro P a Q výrazy, jež možno psáti ve tvaru
+l   ~\    A   ,,-,,          ,    .     „.         ,/\        *   l/  ""    IT^II         ,n    i    f^n     •       . m
+- G sin fy) H—— y-77 (F   cos y   + G   sin ty ),
+l    \/~T   .„,,       ,n         T?„     •       ,/n
+-F sin v) ~r ~s~ V~TT (G   cos t/>  —r   sin ty ),.
+=         .            cos
+XTT ﻿17
+kdež klademe
+cos <p' + #1 sin <jp') — (cu2 cos 2 qp' + /32 sin 2 qp') (j>3 cos 3 g/ + ďa sw 3 qp') -f- ...
+(25),
+! cos qp' + & sm qp') — (y2 cos 2 qp' + d2 sm 2 qp') — («3 cos 3 qp' + /33 SÍM 3 qp') + ...
+a'výrazy pro F"" a G"" obdržíme z výrazů pro F' a G', klademe-li v nich 180 — <p"" místo qp'.   Po dosazení do rovnice (23) máme pak
+R2 = l + ~- (F'2 + G/2) + -J-TT (F""2 + G//2) : [(Ff F"" + G' G"") cos (ty1 — t//') — (F' G"" —F"" G') sin (ty' — tí>"") ]
+2 Ví
+Vr [(^
+r [(^ cos (kvy + ť/)
+.   .   . (26).
+wn
++
+y-4
+"" cos (^3; + ti'"") + G"" srn (^3; + ^"")j
+Poslední dva členy jsou periodické; intensita pole mění se tedy obecně periodicky s polohou pozorovacího místa, a vznikají interferenční pruhy. Ovšem diskusse i tohoto vzorce jest obtížná, poněvadž koěfficienty F', G', F"" a G"" závisejí mezi jiným i na qp' a qp"", změní-li se tedy poloha pozorovacího místa, změní se jich hodnota také. Ale přes to můžeme je pokládati s dosti velikou přesností za stálé, jednak protože, jak již řečeno, hodnoty koěfficientů «„, /3M, atd. klesají dosti rychle s rostoucím indexem, takže vliv členů závisejících na qp' a qp"" jest nepatrný, jednak také proto, že ve velikých vzdálenostech od válců úhly qp' a qp"" se mění poměrně zvolna.
+Z rovnice (26) jest pak patrno, že bude nejlépe stopovati průběh intensity na křivkách, pro něž rozdíl ty' •— ty"" má hodnotu stálou. Poněvadž
+o _.
+jest ty' — ty"" = — — (r' — r""}, jsou to patrně hyperboly, jichž ohniska spadají
+do středů obou válců; v prostoru jsou to vlastně hyperbolické válce. Pro
+2 ÍT
+ty' — ty"" = O přijdou obě hyperboly v osu symmetrie, pro ty' —-ty"" = ± —— a
+A
+v přímky k ose symmetrie kolmé a jdoucí ze středu válců do nekonečna. Vzhledem k tomu, že vyšetřujeme pole ve velikých vzdálenostech od válců, možno vždycky příslušnou část hyperboly nahraditi její asymptotou, ovšem musí tu býti r' a r"" dosti veliké nejen proti délce vlny A, ale i proti vzdálenosti obou válců a. Úhel asymptoty se zápornou osou jy-ovou (viz výkres) označíme %, v dalším budeme jej nazývati úhlem ohybovým. Přejdeme-li nyní podle některé z těchto přímek od jednoho maxima nebo minima k nejblíže následujícímu, a vzroste-li při tom y o 4y, ty'
+Rozpravy RoC. XXI. Ti. II. Cis. 41.                                                                              2
+XLI. ﻿18
+nebo tí>"" o z/ ^ — vzrůst  obou jest stejný — jest dle rovnice (26) tím přesnější, čím jest větší / a r"",
+&i zí y + z/t/; = 2 TI.
+Z rovnice (24) plyne ^í t^ = k{ ^J r, kdež r značí vzdálenost pozorovacího místa od osy kteréhokoliv z válců, aneb také od počátku soustavy O. Dále jest patrně y = — r cos i, tedy d y = — z/ r cos #, a pro vzdálenost dvou po sobě následujících maxim a minim, jež odpovídají ohybovému úhlu i, obdržíme z poslední rovnice
+l — cos
+V rovině symmetrie, ale před válci, jest % = n, tu tedy jsou interferenční pruhy nejhustší, jich  vzdálenost  obnáší —, v rovině proložené
+osami  válců  jest   z = —""ir >   tedy
+2i
+= /.,    vzdálenost  interferenčních
+pruhů jest tu tedy dvakrát větší než v předešlém případě, konečně v rovině symmetrie, ale za válci, jest % = O, tedy z/ r nekonečně veliké, interferenční pruhy tu tedy vůbec nevznikají, aspoň ne ve velikých vzdálenostech. Ze vzorce (26) plyne, že intensita pruhů klesá s rostoucí vzdáleností od válců; jest také zajímavo, že se nemění symmetricky vzhledem k intensitě původní (bez válců), poněvadž v rovnici (26) neperiodický člen se obecně liší od jedné. Poloha jednotlivých maxim a minim, jakož i jich intensita, tím ovšem dosud není stanovena, ta závisí na všech konstantách vyskytujících se v rovnici (26), tedy v první řadě na vzdálenosti válců, na jich poloměru a konečně i na jich materiálu. Pokud se týče závislosti na vzdálenosti válců, jest patrno z rovnice (26) aspoň tolik, že intensita pole v určitém místě se mění periodicky, vzdalují-li se válce od sebe, což patrně souvisí s interferencí obou vln odražených na válcích; nějaký jednoduchý vztah se tu však udati nedá, aspoň potud, pokud není vzdálenost válců tak veliká, že je možno jich vzájemný účinek zanedbati.
+Rovnice (26) se ještě zjednoduší, jde-li o válce poloměrů velmi malých. Pak podle toho, co řečeno dříve, můžeme ve výrazech (25) pro F' a G' a podobně i v F"" a G"" vynechati všechny členv vyjma první, takže máme
+F' = F"" = a0            G'= G"" = yn;
+se stejnou přesností ponecháme na levé straně první rovnice (21) jen první dva členy s A0. Dále plyne z rovnice (10) vzhledem k tomu, že
+Pí — —r-p Jest velmi malé,
+•.        , .:/;,•   ;         •-;•   l.-.-fj      . ';
+T    ÍÁ \__i          r '  /.A Y  __         ' rí        ""' n    /A V '__   7^ ~                    f\ >  l ^• \   _
+_l_
+~P~l
+XTJ. ﻿19
+Jde-li nyní o válce z dielektrika,   jest p2 = pv v s— permaebilitu /i volíme pro jednoduchost rovnu jedné — také malé, a pro J0 (p2), Jn' (p.2), atd platí podobné vzorce.  Dosazením do první rovnice  (21)  a zanedbáním veličin vyššího řádu obdržíme pak vzhledem k tomu, že jest tu y = V s.
+čehož plyne
+F' =
+1),
+(28),
+takže konečně z rovnice (26) obdržíme s toutéž přesností
+S* = l + 2 (s - 1) *L- (l    cos (kiy + ty'} + -^=-cos (k,y + ty""} ) . . (28')-^2     \ V r                           v r                       '
+Poněvadž ve velikých vzdálenostech od válců r' a r"" se liší poměrně málo, možno ve jmenovatelích periodického členu klásti r' — r""', poloha maxim a minim jest pak určena maximy resp. minimy výrazu
+cos
+2 cos
+cos
+COS
+V posledním faktoru na pravé straně možno klásti
+ty' + ty"" = k, (/ + r"") + — = k.
+•a. 2 '
+kdež   r   značí   vzdálenost   pozorovacího   místa   od   středu  O,   dále   jest y = •— r cos x, takže celkem obdržíme
+,        ,    ty' + ty""        2 n r  ,,         ..   ,.   ,:-*'.
+maximum tedy nastane, je-lij
+minimum, je-li
+l —cos
+L\. '••
+(í<\) •-
+A
+cos
+XIJ.
+2* ﻿w značí tu číslo celé. Z toho plyne zajímavý výsledek, že poloha maxim a minim jest nezávislá na dielektrické konstantě s, jež se tu vůbec nevyskytuje; ovšem intensita interferenčních pruhů s * roste, jak patrno z rovnice (28'). Tato nezávislost poloh maxim a minim na dielektrické konstantě jest splněna velice přesně i při malých vzdálenostech od válců, jak pro případ jediného válce z dielektrika dokázali Schaefer a Gross-m a n n numerickým výpočtem. Intensita interferenčních pruhů závisí dále na hodnotě rozdílu ti/ — tí>"" a mění se s ním periodicky, jak patrno z výrazu (28""); v těch místech, kde jest tí»' — ty"" — (2 n + 1) vt, čili r' •—r"" = (n + i) A, interferenční pruhy vůbec nevznikají. Tak na př. pro body položené v rovině jdoucí osami válců jest r' — r"" — a; interferenční pruhy tu tedy nevzniknou, je-li vzdálenost válců a rovna (n + o) A- To patrně souvisí s již zmíněnou interferencí obou reflektovaných vln; z výrazu pro Afí jest ostatně viděti, že v tomto přiblížení zanedbáváme vzájemný účinek válců, a výsledné pole jest pak dáno jednoduše interferencí polí, jež by vzbuzovaly oba válce samy o sobě.
+Ze vzorce (28'), který ostatně již R a y l e i g h-ovi14) byl znám je také patrno, že modifikace původního pole válci způsobená — velikost její udává druhý člen na pravé straně té rovnice — roste se čtvercem poloměru válců a mimo to jest tím větší, čím jest kratší dopadající vlna. Dopadá-li tedy na válce záření, v němž jsou zastoupeny různé délky vlny, pak ve vlně odražené bude záření kratších délek vlny sesíleno; kdyby tedy šlo o záření viditelné, bude odražené světlo zbarveno modravě.
+Jsou-li válce z materiálu vodivého, na př. z kovu, pak jest nejdříve k., komplexní, jak patrno z rovnice (5""). Konstanta vodivosti kovů <?, která tu musí býti dána v jednotkách elektrostatických, jest velmi veliká, tak na př. pro med máme <? = 5-25 . 1017, pro platinu jest <? = 6-2 . 1016. Za obvyklých poměrů, jak se vyskytují u Hertzových vln, jest pak i k% dáno velikým číslem, a totéž platí i o p2 = ^2 Q> pokud ovšem není poloměr válců Q extrémně malý. Pro měděný válec na př. poloměru Q = 0-1 cm a při délce vlny A = 30 cm jest />2 = 480 (l — i), jest tedy vskutku veliké.
+Zanedbáme-li nyní v první rovnici (21) členy s Aít Az, atd., obdržíme pro AQ hodnotu, již píšeme ve tvaru
+m
+kdež kladeno
+_
+n —
+J    (ft \ _ J
+\ í)'
+Jo'
+Jo (P2
+"")   Lord   Raylcigh.   Phil. Mág. 12, 81. 1881.
+XLI. ﻿21
+poměru
+Poněvadž pz má tu hodnotu velmi velikou,  možno ku stanovení (A)
+užiti  asymptotických vzorců   (11).   Dle  nich jest
+což jest správné až na veličiny řádu —— ; s toutéž přesností obdržíme dále
+Pz
+takže jest
+Pro   komplexní   argumenty,   jichž   imaginární   část   jest   negativní a velmi veliká, konverguje cot k hodnotě i', máme tedy
+hodnota tohoto podílu   jest tedy vždy konečná.    Naproti tomu  jest -—•
+velmi malé, takže, pokud není, jak již řečeno, Q extrémně malé proti délce
+k
+vlny, můžeme v posledním výrazu  pro A0 členy s obdržíme
+zanedbati,   a tím
+A
+0     ""
+» (Pí)
+V tomto výrazu se konstanty charakterisující materiál válců vůbec nevyskytují, a je patrno, že bychom obdrželi pro Afí touž hodnotu, kdybychom v první rovnici (19) položili pravou stranu rovnou nulle, kdybychom tedy supponovali, že jsou válce z látky nekonečně dobře vodivé; konstanta vodivosti nemá tedy vlivu ani na rozdělení, ani na intensitu interferenčních pruhů.
+Poněvadž p1 jest malé, zjednoduší se poslední vzorec ještě dále, takže jest
+*—  1
+l°S-~r-
+a z toho plyne dále
+F' = —
+log
+log
+G' = 0
+(29),
+XLI. ﻿22 a dosazením do rovnice (26) dostaneme konečně
+YT      /  l        ,.....,        l                  ,„A
+R — i--------------;— l *s—cos («ijy + fy) + 'A/-__cos (RIy + $ ) j•
+,      A    v v /'                         v *•""                      /
+Interferenční pruhy vznikají tu tedy na týchž místech jako, jsou-li válce z dielektrika, avšak maxima a minima jsou zaměněna. I jiné rozdíly se tu ukazují, srovnáme-li tento vzorec se vzorcem (28') platícím pro-válce dielektrické. Intensita vlny na válcích odražené mění se tu s poloměrem válců daleko pomaleji, poněvadž Q se tu vyskytuje v logarithmu, mimo to jest tu menší, je-li délka vlny dopadající kratší; takže, kdyby na válce dopadalo viditelné záření, bude odražené světlo zbarveno červe-navě. Vzorec (29') udal poprvé J. J. Thomson15); rozsah platnosti jeho jest však daleko menší než vzorce (28').
+Zajímavý jest také průběh intensity výsledného pole v rovině symmetrie, ale za válci; jak již řečeno, v distancích dosti velikých tu interferenční pruhy nevznikají, takže, vzniknou-li vůbec, jest jich počet jistě konečný. Poněvadž jde o děje na ose symmetrie, jest r' = /',. fy' = fy"", F' = F"" , G' = G"" ' , dále za válci jest y záporné, a je-li r' veliké i proti vzdálenosti os obou válců a, možno klásti y = — r' , takže
+jest k-L y + fy' — —, a z rovnice (26) plyne jednoduše
+= l +         (F' + G') +     - (F'* + G'2)
+Ve velikých vzdálenostech od válců mění se veličiny F' a G' poměrně zvolna; můžeme je tedy pokládati přibližně za stálé. Je-li nyní F' -f G' kladné, jest za válci všude R2 > l, nastává tedy sesílení původní intensity pole, jež ovšem s rostoucí vzdáleností od válců klesá. Je-li F' -f- Gr záporné, pak ve vzdálenostech velmi velikých jest pole jistě seslabeno, poněvadž vždy možno voliti r' tak veliké, aby v posledním výrazu pro R* druhý člen byl větší než třetí; ve vzdálenostech menších může býti pole bucT také seslabeno nebo sesíleno. V prvním případě intensita pole za válci s rostoucí vzdáleností neustále stoupá, blížíc se k hodnotě původní, v druhém případě s počátku klesá, dosáhne minima a pak už jen stoupá. Který z těchto uvedených tří případů nastane, to možno rozhodnouti jen přímým vypočtením hodnot koěfficientů F' a G'; pouze, je-li p velmi malé, možno počet provésti přímo. Jde-li o válce z dielektrika, je tu F' a G' dáno rov-
+™)   J-   J-   Thomson,    Reccnt  Rescarches  in  Electricity  and  Magnctism, Oxford.   1893, pag.  431.
+XLI. ﻿23
+nicerni   (28),  takže  dosazením  do rovnice   (30)   obdržíme,   zanedbáme-li současně veličiny vyššího řádu,
+pole jest tedy za válci sesíleno. U vodičů jest F' a G' dáno rovnicemi (29); z. rovnice (30) plyne pak
+~T         l
+l°S—-:—
+v tomto případě jest tedy pole za válci seslabeno, jak se ostatně dalo očekávati přímo.
+Všechny tyto úvahy ovšem platí jen pro případ, že pozorovací místo jest od válců značně vzdáleno, a celkem lze říci, že v těchto velikých vzdálenostech jest průběh intensity pole u dvou válců docela podobný jako u válce jediného, umístěného v O. Také tam vznikají interferenční pruhy, jichž vzdálenost, ba i poloha maxim a minim souvisejí s délkou vlny K a s ohybovým úhlem ^ docela tak, jak bylo nalezeno v případě zde uvažovaném. To lze snadno vysvětliti. Jde-li o ohyb na jednom válci, máme jedinou odraženou vlnu, naproti tomu u dvou válců vznikají odražené vlny dvě, jež jsou dány zcela podobnými výrazy jako u válce jedno] LO; tyto dvě vlny spolu interferují. Když nyní vyšetřujeme průběh intensity pole ve veliké vzdálenosti a v určitém ohybovém úhlu #, pak podél celé této přímky (asymptoty) zůstává rozdíl r' — r"", a tedy i fásová difference obou interferujících vln stálá, takže vliv interference se jeví pouze ve stejnoměrné změně intensity; poloha i rozdělení interferenčních pruhů jest však totéž. Z toho lze souditi dále, že, je~li vzdálenost obou válců malá proti délce vlny, pak i v bodech dosti blízko u válců ležících bude průběh zjevů podobný jako u válce jednoho, poněvadž fázový rozdíl obou interferujících vln nikde nedosahuje značnější hodnoty. Tak na př. ukázal S e i t z přímým numerickým výpočtem pro jeden válec kovový, a podobně Schaefer pro válec dielektrický, že v bodech ležících za válcem interferenční pruhy vůbec nevznikají, ani v bezprostředním sousedství válců, nýbrž u kovových válců intensita pole s rostoucí vzdáleností neustále stoupá od hodnoty téměř míliové -- nejde-li o velmi jemný drát — k hodnotě původní (bez válců), kdežto u dielektrických válců jest průběh složitější. Pokud jest totiž poloměr válce malý, jest pole bezprostředně za válcem sesíleno, intensita jeho pak s rostoucí vzdáleností klesá k původní hodnotě; toto sesílení spočátku roste s poloměrem válce, pak dosahuje maxima a klesá. Nyní nastane druhý případ; intensita pole s rostoucí vzdáleností klesne až pod původní hodnotu, dosáhne minima a pak stoupá, konečné, je-li poloměr válce ještě větší, jest pole za válcem seslabeno, a intensita jeho
+XLI. ﻿stoupajíc s rostoucí vzdáleností se blíží k původní hodnotě. Je patrno, že celkem tytéž vztahy lze očekávati i v případě ohybu na dvou válcích, je-li jich vzdálenost malá proti délce vlny; také tu za válci nevznikají interferenční pruhy, a průběh intensity, jakož i jeho závislost na poloměru válců bude celkem docela podobná.
+Je-li ovšem vzdálenost válců větší, pak interferenční pruhy na ose symmetrie, za válci, mohou vzniknouti, a v případě, že vzdálenost válců jest velmi veliká proti délce vlny, dá se přímo dokázati, že vskutku vzniknou. To plyne ze vzorce (24), jenž nyní platí patrně pro všechny body osy symmetrie, na níž mimo to se ještě zredukuje a zní
+R- = i + -4- (^/2 + G'2) + 2 v4- tF'cos (k^y +i(/) + G> sin (hy + #')]•
+Uprostřed mezi válci (na ose .v-ové) jest v — 0. tedy argument obou
+tjf                    jf
+periodických členů jest ty = —-a -\- —, ve velmi veliké vzdálenosti od válců naproti tomu jest, jak již ukázáno ty = -- ; pro dosti veliká a vytvoří se tedy na ose symmetrie vždy maxima a minima, ovšem v konečném počtu.
+Tab.  1. G = 5-25 . 1017             o = 0-05 cm             A = 31-4 cm
+d	a = 1 cm			a = 15 cm		
+	,r = 0, :V^0	y = 0     [^=0, y250		* = 0, >=^0	1-555	* = 0, y^O
+0 cm	0-180	0-180	0-180	1-555		1-555
+2-5	0-869	0-488	0-314	1-951	1-404	1-164
+5	1-533	0-886	0-458	2-038	0-968	0-913
+7-5	1-636	1-181	0-537	1-629	0-000	0-773
+10	1-266	1-375	0-589	0-952	0-760	0-716
+12-5	0-809	1-458	0-626	0-488	0-996	0-686
+15	0-638	1-437	0-655	0-555          1-104		0-672
+17-5	0-838	1-329	0-678	1-049          1-139		0-668
+20	1-182	1-147	0-697	1-521	1-126	0-669
+22-5	1-355	0-997	0-712	1-583          1-087		0-673
+25	1-223	0-850	0-726	1-210          1-037		0-677
+27-5	0-930	0-758	0-738	0-748          0-990		0-682
+30	0-744	0-737	0-748	0-589         0-957		0-689
+32-5	0-817	0-783	0-758	0-844          0-942		0-695
+35	1-064	0-882	0-766	1-261	0-945	0-700
+37-5	1-253	1-006	0-773	1-466	0-962	0-707
+40	1-162	1-125	0-781	1-287	0-986	0-712
+XLI. ﻿25
+Tab. 2. = 0-25 cm
+A 314 cm
+<*	a = l cm			a = 15 cm		
+	x=0, y^Q	?«e	x=Q, y^Q	#=0, y^O	y=0	r = 0, y-<0
+0 cm	2-033	2-033	2-033	0-682	0-682	0-682
+2-5	0-651	1-191	1-703	0-556	0-741	0-870
+8	0-349	0-655	1-427	0-633	0-953	1-006
+7-5	0-830	0495	1-315	0-961	—	1-082
+10	1-419	0-507	1-253	1-318	1-092	1-120
+12-5	1-609	0-648	1-214	1-437	0-952	1-138
+15	1-315	0-867	1-187            1-242		0-911	1-147
+17-5	0-987	1-097	1-167           0-905		0-913	1-150
+20	0-621	1-285	1-152            0-706		0-940	1-150
+22-5	0-790	1-399	1-139           0-793		0-977	1-149
+25	1-160	1-416	1-129	1-066	1-008	1-147
+27-5	1-387	1-344	1-120            1-279		1-129	1-144
+30	1-283	1-207	1-114            1-155		1-037	1-142
+32-5	0-964	1-036	1-108            1-028		1-037	1-138
+35	0-725	0-878	1-103           0-809		1-033	1-134
+37-5	0-771	0-766	1-098           0-785		1-014	1-132
+40	1-039	0-723	1-094           0-964		0-998	1-130
+V připojených dvou tabulkách (tab. 1. a 2.) jest propočítán průběh intensity pole v bezprostředním sousedství válců; v první pro dva válce měděné (konstanta vodivosti G = 5-25 . 1017 v absol. míře elstat.) poloměru Q = 0-05 cm, v druhé pro dva válce vodní (dielektrická konstanta f = 81) poloměru Q = 0-25 cm. Délka vlny A=314cw. vzdálenost os obou válců volena jednou a — l cm, podruhé a = 15 cm; v prvním případe jest tedy malá proti délce vlny, v druhém rovna asi její polovici. Hodnoty d v prvním sloupci uvedené značí vzdálenost pozorovacího nr.sta od bodu O (viz výkres); v druhém resp. pátém sloupci jsou uvedeny hodnoty intensity pole na ose symmetrie před válci (.v = O, v > 0), ve čtvrtém resp. sedmém hodnoty intensity pole na ose symmetrie za válci (x — O, v <[ 0), konečně v třetím a šestém sloupci jest udán průběh intensity pole v rovině proložené osami obou válců (y = 0). Z tabulek jest patrno, že, jak před válci, tak v rovině jdoucí osami válců vznikají interferenční pruhy; jest zajímavo, že, pokud vzdálenost válců jest malá proti délce vlny, jest vzdálenost, ba i poloha maxim a minim velmi přibližně stejná, jak bylo nalezeno pro body od válců značně vzdálené. Odlehlost dvou po sobe následujících maxim a minim má obnášeti v rovině symmetrie před
+válci —-, v rovině y = O pak ----, obojí jest dosti dobře splněno; také se
+XLI. ﻿2(5
+ukazuje, že, vzniká-li ohyb jednou na válcích kovových, podruhé na válcích z dielektrika (poloměru dosti malého), jest poloha maxim a minim přibližně zaměněna. Je-li vzdálenost os obou válců téhož řádu jako délka vlny, vystupuje interference obou odražených vln; to je v našem případě nejlépe viděti z průběhu intensity v rovině y = O, kde pro body, jež leží mimo válce (d>7'5cm) intensita se mění s polohou pozorovacího místa poměrně nepatrně; účinek obou válců se tu totiž seslabuje následkem toho, že jich vzdálenost se rovná přibližně poloviční délce vlny. V rovině symmetrie za válci interferenční pruhy nevynikají; pro a = l cm intensita se tví mění způsobem již dříve popsaným, pro a = 15 cm vytvoří se za válci minimum resp. maximum intensity, a je patrno, že s rostoucí vzdáleností obou válců budou vzn kati nová maxima a minima, a vytvoří se interferenční pruhy.
+Jinou důležitou otázkou jest, jak se mění intensita pole v libovolném místě za válci s rostoucí vzdáleností os obou válců a. Z rovnic (21) a (22) pro koěfficienty A,t a Bn, v nichž členy s amn, b,nn, atd. odpovídají vzájemnému účinku obou válců, je patrno, že vzájemný účinek obou válců mění se periodicky, vzdalují-li se válce od sebe, ve výrazech pro amn, bmn, atd. vyskytuje se totiž periodická funkce Q„ (kla); periodou jest tu přibližné délka vlny /., a sice tím přesněji, čím jest větší vzdálenost obou válců, ovšem současně klesá amplituda těchto změn. To vše lze ostatně pochopiti i přímo. Vzniká-li ohyb na jediném válci, jak již řečeno, v rovině kolmé ku směru dopadající vlny (v = 0) vytvoří se interferenční pruhy, vzdálenost sousedního maxima a minima obnáší tu zhruba polovici délky vlny; mimo to, jde-li o válec kovový, můžeme s velikou přibližností předpokládati, že první minimum leží ve válci samém. Z toho můžeme nyní souditi, že, je-li vzdálenost válců rovna lichému-počtu polovičních délek vlny, budou se válce ve svém vlivu na změnu pole navzájem seslabovati, a poněvadž účinek jediného válce v případě nyní uvažovaném, kdy totiž dopadající vlna jest polarisována na kolmo k osám válců, jeví se v tom, že intensita pole za válcem jest seslabena, čili, jak říkáme, válec stíní, bude u dvou válců tento stín seslaben; naproti tomu, je-li vzdálenost válců rovna sudému počtu půlvln, čili celému počtu vln, bude stín za válci sesílen. To ovšem platí jen pro body, jichž vzdálenost od válců jest dosti veliká; v bodech blízkých přistupuje i vliv interference obou odražených vln, jak již vyloženo, a tu jsme opět odkázáni na číselný výpočet. V připojené tab. 3. jsou udány hodnoty intensity pole dvou měděných válců poloměru p — 0'05 cm, při různé vzdálenosti os a a téže délce vlny co dříve. Pole stanoveno v místě, jež leží 10 cm za rovinou proloženou osami obou válců (y — — 10 cm), a to jednou na ose symmetrie (x = 0),
+podruhé za jedním z válců ř (pf — —— J; konečně v posledním sloupci jsou
+připojeny hodnoty intensity pole, jež by vzbuzoval jediný válec v tom místě, kde se právě nachází válec druhý. Jest viděti,   že pole se mění
+XLI. ﻿periodicky s rostoucí vzdáleností válců; na ose symmetrie vystoupí jeho intensita dosti značně nad hodnotu původní, kdežto v bodech za válcem položených nikdy jí nedosáhne; tam tedy vzniká vždycky stín. Je-li vzdálenost os válců malá, nastává seslabení pole v obou případech; jest také viděti z hodnot v tabulce uvedených, že stín, který oba válce tvoří, neroste bez přestání, když oba válce k sobě přibližujeme, nýbrž jest největší při určité jich vzdálenosti, jež v našem případě obnáší asi 6 cm. Tato vzdálenost se mění s polohou pozorovacího místa; pro body velmi vzdálené jest rovna asi 13 cm, což odpovídá poloze prvního maxima v případe ohybu způsobeného jedním válcem.
+Tab.  3. G = 5-25.1017        Q = 0-05 cm       y = — 10 cm        l = 314 cín.
+a	x = 0	Tt 9 =— g-	Jeden válec	a	* = 0	Tt v = ~Y	Jeden válec
+1 cm	0-589	0-589	0-372	25 cm	1-136	0-862	0-863
+3	0-563	0-526	0-726	30	1-266	0-721	0-810
+5	0-480	0-497	0-959     35		1-403	0-590	0-930
+7-5	0-456	0-505	1-168      40		1-538	0-553	1-107
+10	0-483	0-579	1-292	45	1-543	0-685	1-175
+15	0-716	0-845	1-299	50             1-359		0-829	i  i i a
+20	0-974	0-912	1-085	00	1-000	0-708	
+							
+Vyšetřujeme-li intensitu pole v určitém bodě za válci, na př. na ose symmetrie, jako funkci poloměru Q, pak u válců vodivých, jak lze očekávati přímo, bude s rostoucím poloměrem její velikost klesati, naproti tomu u válců z dielektrika jest tato závislost složitější. Pro jediný válec nalezl Schaefer, jak již uvedeno, že intens;ta pole spočátku stoupá zároveň s Q, jsouc pro malé hodnoty y úměrná (r, pak dosahuje mixima,
+jež na př. u vodního válce nastává, je-li poměr —
+něco málo větší než 0-1,
+potom rychle klesá, pro ™ = 0-2 (přibližně) nastane dosti hluboké mini-
+A
+miim, pak následuje mírné stoupám, potom náhle ostré maximum, po němž ihned přijde opět hluboké minimum, a tento průběh, jak se zdá, se periodicky opakuje. Schaefer také ukázal, že tato maxima souvisejí s vlastními kmity válce; měřením podařilo se potvrditi průběh této závislosti aspoň spočátku (první maximum a minimum). Jest patrno, že pro dva válce lze očekávati podobné vztahy, aspoň pokud jich vzdálenost jest malá proti délce vlny, a počet to potvrzuje. Vzájemný účinek válců jeví se v tom, že se maximum poněkud posunuje k menším hodnotám Q; tak na př. pro délku vlny A = 31-4 cm nastává u jediného válce
+XLI. ﻿28
+vodního (s = 81) maximum, je-li Q = O 34 cm, u dvou válců ve vzdálenosti a = 3-0 cm jest maximum asi při Q — 0-26 cm, konečně, je-li a = 0-8 cm, nastává maximum pro Q — 0-23 cm.
+Vliv délky vlny A možno přehlédnouti velmi snadno; z rovnic (21) a (21') jest totiž patrno, že koěfficienty An a Bn závisejí jen na poměrech
+-~ a   . , z rovnice (12) pak jest viděti, že intensita pole v libovolném po-'•       'k
+Y             Y
+zorovadm místě závisí  mimo  to jen na poměrech —a --—.   Je-li tedy
+A             A
+znám průběh pole pro určitou délku vlny l, jest tím již znám i pro jakoukoliv jinou její hodnotu, předpokládaje, že i poloměr válců Q i jich vzdálenost a se změnily v témž poměru jako délka vlny.
+Ku konci vrátíme se ještě k rovnicím (21) a (21'). Koěfficienty am„, bm„, c,Hn a dmn v nich se vyskytující odpovídají, jak již řečeno, vzájemnému účinku obou válců; kdybychom vynechali členy, jež je obsahují, obdržíme pro An a Bn tytéž rovnice, jaké vyvodili Ignatowsky a S e i t z v případě ohybu rovinné vlny na jediném válci. Ostatně je patrno z rovnic (16') a (17'), že, je-li vzdálenost válců a veliká proti délce
+vlny ""/,, jsou tyto koěfficienty řádu   y —, takže, je-li a nekonečně veliké,
+(l
+vypadnou; vzájemný účinek válců vymizí. Pro veliká a dají se pak rovnice (21) a (21') značně zjednodušiti. Dle rovnic (11') jest totiž tu nejdříve
+dále jest patrně
+čili
+\/""+'« l""'i ty — '     V"" (""'i ty>
+.-«(*•* 4) _
+""i /       yf           — i (k, a H------)
+•""+'» y    *     e     V         *',
+()M_M (Lx a) = (— 1)'"" <2,í+w (^ a), takže po dosazení do rovnic (16') a (17')  obdržíme
+«nm = 2 (— i}m Qn (&! a] J,„
+cnm = 2 (— i)m Qn (k, a) J'm
+bnm = O, dnm = O,
+kdež jest všude m > O, dále za k1 r' kladeno pv = k{ g,   jak se také děje v rovnicích vyjadřujících podmínky na rozhraní.
+Dosadíme-li nyní tyto hodnoty do rovnic (19), (19'), (20) a (20'), pak je nejdříve patrno, že v posledních dvou systémech odpadnou všechny členy, jež odpovídají vzájemnému účinku obou válců, takže i nyní dostaneme pro Bn tytéž hodnoty, jako kdyby šlo o jediný válec. Jest patrné Bím = 0. V rovnicích (19) a (19') můžeme u členů obsahujících koěfficienty ďmn a cmn dosaditi za An hodnoty, jež platí pro případ ohybu na jediném
+XLI. ﻿2$)
+válci, a jež můžeme pokládati za přibližně správné. Obdržíme je z oněch rovnic, položíme-li v nich amn = cmn= O, a označíme je pro jednoduchost A„; jest nyní opět A-zm+i — 0. Klademe-li pak ještě
+A0 Q0 (k, a) + A.2 Q, (k,a}+ ... =M, znějí rovnice (19) a (19')
+^o Q0 (A) +    MJO (pj +   /„ (/»t) = c0 /„ (/g
+^i&(fc) — ZiMJtfa)                   = Q«Mfc)
+^ <?2 (fc) — 2   M J2 (^) + 2 /2 (pj = C2 e/2 (/>2) ^s & (#,) + 2 i M J3 (Lt)                   = C3 /3 (/>2)
+(/>,) +    J0' (/>,) = C0 rj J0' (pz) Qí (#1) - 2 » M J/ (/>,)                    = Ct i? <// (/>2)
+2 62' (#1) — 2 M J2' (&)    + 2 J2' (pj =C^ J2' (pj S Q3' fa) + 2ÍM J3' (/),)                      = C3 T? /,' (A2)
+z nichž možno hodnoty koéfficientů An přímo stanoviti. Ostatně možno také tyto rovnice interpretovati velmi jednoduše. Jsou patrně tytéž jako v případě ohybu rovinné vlny na jediném válci, avšak k původní dopadající vlně, jež se šíří směrem klesajících y, přistupuje tu vlna nová. Její komplexní amplituda jest
+M [J0 (kt r') — 2 i Jx (ki r'} cos y' — 2 /, (^ /) cos 2 <p' + 2 iJ3 (^ r') cos 3 y' + ...], aneb, vzhledem k tomu, že platí rozvoj
+00
+o — ik, r'cos op'—    7    (h    v'\     l     O   y /___.i\m   T      (l,   v'\ rns wi rr>'
+c-                   ~   —  t/Q  ^/ř^ A  J   -J-   ^ ^_   ^----- řj      «/,n   ^/ťj A J  tOo Wl ff ,
+m = l
+jednodušeji
+M g-»*ť/.««qp'.
+Tato vlna šíří se tedy směrem rostoucích ^, jest to patrně vlna na levém válci odražená a dopadající na válec pravý, na nějž hraničně podmínky vyjádřené rovnicemi (19) a (19') jsou vztaženy. Střední časová hodnota její intensity jest rovna polovici čtverce modulu komplexní veličiny M, mění se tedy periodicky se vzdáleností válců a. Jak již v úvodu bylo řečeno, podali Schaefer a Reiche theorii ohybu rovinné vlny elektromagnetické na mřížce složené z válcových tyčí za předpokladu, ﻿že vzdálenost válců od sebe jest tak veliká proti délce vlny, že jich vzájemný účinek dá se zanedbati; předešlý počet ukazuje, jak by bylo možno tento účinek vzíti v úvahu aspoň v prvním přiblížení.
+Z rovnic (21) a (21') jest dále patrno, že i při poměrně malých vzdálenostech válců jest jich vzájemný účinek nepatrný, je-li jich poloměr v dosti malý. Při tom jsou poměry poněkud rozdílné, dle toho, jde-li o válce kovové nebo o válce z dielektrika, při čemž v prvním případě opět předpokládáme, že poloměr (> není extrémně malý. Pak jest totiž u kovů p..
+i      •        TI   '     i           i        '     v,   i                           J'n  (
+velmi veliké  komplexní  číslo, a poměr    T~~/
+"" n  (
+liší se velmi málo od i.
+V první rovnici (21), ježs louží ku stanovení koěfficientů A0, jest nyní první
+faktor u A0 pro velmi malá p^ řádu -'""— ,  naproti tomu druhý faktor, od-
+ři povídající účinku obou válců na sebe, jest i při malých a nanejvýš řádu
+log k^ a1}  při čemž jest  vždy kl a > 2 pv   jest tedy vskutku  malý proti faktoru prvnímu. Jsou-li válce z dielektrika, pak jest nejdříve pt = p^V s
+také malé a téhož řádu jako pv první faktor u .4,, jest opět řádu
+— Pí
+druh
+faktor jest však řádu p1 log k± a, tedy značně menší než v případě předešlém. To tedy znamená, že u dvou válců kovových jest vzájemný účinek vždy větší než u dvou stejně velikých válců dielektrických umístěných v téže vzdálenosti od sebe. To je i přímo pochopit elno; v prvním případě jsou patrně proudy ve válcích indukované daleko intensivnější než v případě •druhém. Ostatně ještě lépe ukazuje to přímý výpočet. Pro vodní válec poloměru Q = 0-10 cm a při délce vlny A = 31-4cw obdržíme pro koéf-ficient A0, na němž patrně nejvíce záleží, hodnotu 0-0172 — 0-0005 i. Máme-li dva vodní válce téhož poloměru ve vzdálenosti a — 3 cm, jest ^0=0-0173 — 0-0009 i, tedy málo rozdílné, ano ještě pro a — 0-8 cm jest A0 = 0-0177- — 0-001 i, ani tu se nejeví vzájemný účinek válců znač-něji. Naproti tomu pro měděný drát téhož poloměru a při téže délce vlny jest An — — 0-215 — 0-084 i, pro dva měděné dráty ve vzdálenosti a — 3-0 cm jest A0 = — 0-154 — 0-102 i, konečně, je-li vzdálenost drátů a = 0-8 cm, máme Afí = — 0-132 — 0-069 i, tu je tedy vliv válců na sebe zřejmě patrný.
+2.   Dopadající vlna jest polarisována parallelně s osami válců.
+Tento případ dá se experimentálně daleko obtížněji realisovati než předešlý, také theoreticky jest méně zajímavý; proto pojednáme o něm stručně. Výsledná magnetická síla jest tu všude parallelní s osou z, a platí tu rovnice (2'). Klademe-li zase
+~F/*<.   .   .   .   (31),
+XLI. ﻿31
+obdržíme po dosazení a zkrácení ď'""l rovnice
+1                                  \   ^ 7           \                                     3 Z.
+— (4 n o -f s i M) R =-----—         — (4 n a + f i 01) F —-----^—
+c                                     r   3 fp            c
+3r .   .   .   (32).
+7                        /   ™   , — * w Z =---------r— (r r) H-------=—
+c                          r   c r                   r   o cp
+Eliminací R a F z   těchto   rovnic   obdržíme   differenciální   rovnici pro Z tvaru
+l   a /  a z \     i & z
+a z \     i &
+-= — ) + — -~— c r /       r*  9qr
+kdež k jest opět stanoveno rovnicí (5). Jest to patrně táž differenciální rovnice jako jsme obdrželi dříve pro amplitudu výsledné elektrické síly Z (rovnice 4), jejím obecným integrálem bude tedy zase
+Z — 2 [Gn (k r) cos n <p -f Hn (k r) sin n <jp] ,
+kdež Gn a H„ jsou obecné Besselovy funkce w-tého řádu. Ty se dají specialiso-vati jako dříve, a tak obdržíme pro komplexní amplitidu výsledné magnetické síly ve vnějším prostoru výraz
+(33)
+Zl = c^y + L An [Qn (^ r') cos »?>'+(— 1)M Q* (V) cos n q>""] «=o
++ ŽBn [Qn far') sinn tp' + (— l)—1^ far"") sinny""},
+n=l
+dále pro amplitudu magnetické síly uvnitř pravého válce máme
+00
+Z2' = 27 (Cn cos n tp' + Dn sin n <p') J fa r'),
+n — O
+a konečně uvnitř válce levého jest
+Z2"" = L (—1)» (CH cos n <?""—Dn sin n <p"") Jn far"").
+Podmínky na rozhraní, jež vyžadují spojitost tangenční složky elektrické i magnetické síly na povrchu válců, znějí tu vzhledem ke druhé rovnici (32)
+9r'
+kdež jest
+s= — (4 n G
+c v
+XLI.
+(34), (34'), ﻿32
+a Lt značí hodnotu této konstanty v prostoru vnějším, L2 uvnitř válců. Poněvadž supponujeme, že v prostoru vnějším jest vzduch resp. vakuum;
+jest patrně Lt =-----=—— i = kv i;   jsou-li pak válce z dielektrika, jest
+L l =
+s i,    jsou-li   z   materiálu  vodivého,   máme  jednoduše
+4*
+go  =   - O.
+Rovnice (34) jsou patrně úplně podobné rovnicím (14) a (14'), jež vyjadřují podmínky na rozhraní, je-li dopadající vlna polarisována kolmo k osám válců, a poněvadž i výrazy pro Zlt Z.2', Z2"" jsou tu tytéž jako pro Zv Z2', Z2"" tam, plyne z toho, že pro koěfficienty An> B„, Cn a Dn obdržíme stejné rovnice co dříve. Platí tu tedy zase rovnice (19), (19'), (20) a (20'), resp. (21) a (21'), jen s tím rozdílem, že nyní jest vzhledem ke druhé rovnici (32)
+t       k        k _    si      «g       «i                                          (OK\
+*    T"" ' TT    X '    ......... (   }'
+t,2        «1          «2
+jak plyne ihned z rovnic (5) a (32'); permeabilita látky válců volena tu zase rovna jedné. Jsou-li válce z dielektrika,   jest
+l
+!      V7
+.»
+Jsou-1 stanoveny koěfficienty An a Bn, pak dosazením do (33) obdržíme amplitudu výsledné magnetické síly ve vnějším prostoru, a z prvních dvou rovnic (32) i amplitudy obou složek elektrické síly F: a R^ Klademe-li Ft = K + i L, R1 = M + i N, jest
+Elv=(K + i L) eic'} '
+Lir= (M + i N) ť""*,
+takže, podržíme-li opět jen část reálnou, máme
+E1 y = K cos OD í — L sin to t          El , = M cos ca t — N sin o t ',
+čtverec výsledné elektrické síly v prostoru vnějším jest pak
+Ej2 = (K cos mí — L sin co í)2 + (M cos co t — N sin co t)2, a konečně pro střední jeho Časovou hodnotu obdržíme
+Diskusse tohoto výrazu dá se provésti zcela jako dříve a vede k podobným výsledkům, nebudeme tedy ji prováděti, a to tím spíše, že, jak
+XLT. ﻿33
+se dá snadno ukázati, ohyb válci způsobený jest v tomto případě daleko s-Iatší řež v případě předešlém. Pro jednoduchost budeme zase před-pckládati, že poloměr válců jest velmi malý.
+k U válců kovových jest nejdříve fi = -^-   velmi malé,   tak   na př.
+«2
+u mědi jest při délce vlny A = 30 cm řádu 10~ 5. Zanedbáme-li tedy v první rovnici (21) členy s AL, A2, atd., obdržíme pro A0 hodnotu
+kdež jest
+A                   m
+n — Q0 (&! a) m '
+
+» (ft)
+z čehož vynecháním členů s -L- plyne jednodušeji
+Q* (fc) + Qo fc
+a pro velmi malé ^ obdržíme konečně A0 =
+. V předešlém případě, řádu
+kdy dopadající vlna byla polarisována kolmo k osám válců, bylo
+;   iest tedy nynější jeho hodnota vskutku malá,   a účinek válců
+nepatrný proti jich účinku v dříve uvažovaném případě.
+Totéž platí, jsou-li válce z dielektrika. Tu je opět   pl i p2 = p^ s
+velmi malé, a vzhledem k tomu, že jest nyní 17 =          , obdržíme snadno
+pomocí rozvodů (10) pro Besselovy funkce že A0 jest řádu pf, kdežto dříve bylo řádu p^. Celkem tedy lze říci, že ohyb válci způsobený v případě, kdy dopadající vlna jest polarisována parallelně k osám válců, jest značně menší než, je-li vlna dopadající polarisována k osám válců kolmo.
+Totéž platí i o vzájemném účinku obou válců. Vyjma tedy body válcům velmi blízké, můžeme vždy říci jednoduše, že pole jest i v přítomnost i válců totéž,, jako bylo bez nich.
+Dopadá-li vlna polarisována kolmo k ose válce na válec kovový, pak jest pole v místech za válcem seslabeno; možno tedy také říci, že kovový válec propovští snáze kmity polarisované parallelně k jeho ose než kmity polarisované k ní kolmo. Totéž platí i pro válce dva; jak patrno
+7t
+z hodnot uvedených v tab. 3. pod záhlavím <L/ = — — , jest pole za jedním
+li
+z válců vždycky seslabeno, je-li dopadající vlna polarisována k ose válců kolmo;   ovšem toto seslabení mění se značně s polohou druhého válce
+Rozpravy: Roí. XXI. Ti. II. Číslo 41.                                                                                       3
+XLI. ﻿34
+a někdy jest i velmi nepatrné. Válce z dielektrika chovají se naopak, ty propouštějí snáze kmity polarisované kolmo k jich osám, aspoň pokud jich poloměr jest dosti malý proti délce vlny; s rostoucím poloměrem se i tu poměr obrátí.
+B. Oba válce za sebou.
+Přejdeme nyní k případu, kdy jsou oba válce umístněny za sebou, kdy tedy směr, jímž se šíří vlna dopadající, jest rovnoběžný s rovinou proloženou jich osami. Vlna šíří se pak směrem osy x-ové (viz výkres, pag. 6); supponujeme, že přichází od kladných hodnot souřadnice x. Poloměry obou válců nemusí býti nyní stejné; označíme poloměr pravého válce Q'', poloměr válce levého (>""; válce mohou býti také z různého materiálu. Omezíme se dále na případ, kdy dopadající vlna jest polarisována kolmo k osám válců, takže výsledná síla elektrická jest všude s nimi parallelní, a platí tu rovnice (2). Jich řešení bylo provedeno již dříve, takže zbývá jen výrazy pro jednotlivé vlny upraviti vzhledem k podmínkám nyní splněným.
+Pro vlnu dopadající klademe nyní
+při čemž její amplituda volena opět rovna jedné; položíme-li počátek pravoúhlé soustavy nyní do středu pravého válce C', jest patrně
+•^ lá        #                           K>
+Vzhledem k relaci
+ei k r cos <p = J0(kr] + 2 Ž im Jm (k r) cos m (f>
+možno oba výrazy pro Zíd snadno rozvinouti ve^Fourierovy řady postupujících dle násobků úhlu <p' resp. qp"". Pro vlny na obou válcích odražené platí docela podobné výrazy co dříve; jest ovšem patrno, že nyní jest symmetrie kol osy x-ové, takže členy obsahující sin n <p' a sin n cp"" tu odpadnou. Jest pak
+00
+Zlr = L A „ Qn (&! r') cos n <p' + 2J Bn Qn (k: r"") cos n y"",
+H = 0
+a pro komplexní amplitudu výsledné elektrické síly v prostoru vnějším obdržíme
+Zj = č *« * + L An Qn (Lj r') cos n <pr + Ž Bn Qn (^ r"") cos n rp"".   .   .   . (36).
+n=0
+Pro  vlnu lomenou do pravého válce klademe nyní Z2' = L C„ J„ (k2f r') cos n y' .   .   . XLI.
+(36'), ﻿35
+kdež &>' značí hodnotu konstanty k definované rovnicí (5) uvnitř pravého válce; pro vlnu lomenou do válce levého pak klademe
+Z2"" = S Dn Jn (k.2"" r"") cos n <p'
+(36"")
+k.,"" značí tu hodnotu konstanty k ve válci levém.
+Podmínky, jimž nutno » vyhověti na povrchu obou válců, jsou dány zase rovnicemi (14) a (14'), musíme však je formulovati pro každý.válec zvlášť. Jde-li nejdříve o válec pravý, rozvineme součin Qn (k^ r""} cos n <p"", jakož i jeho derivaci dle r' ve Fourierovu řadu postupující po násobcích úhlu q>'. Počet jest docela týž co dříve; dosazením do hraničných podmínek obdržíme rovnice
+o Qo (Pí] + B o
+(Pí]  + #0 00
+(Pí) + B a «0
+.   .   .   .(37)
+i, «„ + .'... — 2iJ3(pl)=C3J3(p.2)
+iQQ0'(p^+B0cw-i-B1cw + .... +
+.. .(37')
+2iJ3'(pl)=C3rjJ3'(p2)
+kdež kladeno
+Pí =
+.   .   .   .  (37""),
+a koěfficienty amn, cmn jsou zase dány rovnicemi (16') a (17'), ovšem nutno do nich dosaditi pl za k^ r'.
+Podobně, abychom vyvodili rovnice plynoucí z podmínek na povrchu levého válce, musíme napřed Qn (kí r'} cos n <p', jakož i derivaci tohoto výrazu dle /' rozvinouti v řadu Fourierovu odpovídající úhlu qp"". To lze snadno provésti podobnou cestou, jako jsme to učinili dříve. Z trojúhelníka C' C"" M plynou relace
+r' cos <p' = r"" cos qp"" — a r' sin <p' = /' sin g>""',
+násobíme-li druhou rovnici jednou i, podruhé — i, a  sečteme-li pokaždé obě rovnice, obdržíme
+r' ef*' = r"" e{ v"" — a
+r'e-W = r"" e-'v"" — a,
+XLI.
+3* ﻿3(5 z čehož dělením plyne
+a — r
+""  -
+a vzhledem k tomu, že pro r"" = O jest qp' = se, máme pak
+/ a — r"" ei(f""   \J
+/>»Y>' —   _   (   __   )2
+\a — r"" e-W ) '
+kdež znamení odmocniny nutno tak voliti,  aby pro r"" — O byla rovna + 1. Dále platí
+ar
+takže, značí-li Gn jakoukoliv Besselovu funkci, jež pro reálné argumenty zůstává reálnou, jest
+Vzhledem k rovnici (15) platí tu
+Gn (&! r') e~in V = (— l») 2? Gn + w (^ a) J,„ (kt r"") elmr"",
+»l=5  03
+aneb, nahradíme-li zase řadu dvojitou řadou jednoduchou, Gn (kt r') e-in(f' — (— l)n Gn (k^ a) J0 (k^ r""}
+Rozloučením   části    reálné   a   imaginárně    obdržíme   rozvoj    pro Gn (ki r') cos n y', a z toho,  klademe-li jednou Gn — Kn, podruhé Gn = Jn>
+násobením druhé rovnice i -""- a přičtením k první, i pro Qn (kt r'} cos n qp'.
+2i
+Klademe
+00
+' = 2? «„ m cos m q>""
+m = O
+kdež jest
+«.o=(— l)""^.(*i«)^o(*iO
+.   . (38')
+XLI. ﻿37
+Derivací dle r"" obdržíme další rozvoje, jež píšeme ve tvaru,
+l     d                                      *
+IT -Tš*"" K?"" ^1 r') cos n *'] = Zy™ cosm 9""    .   •   .•   .   (39),
+KI   d r                                                       m = O
+kdež jest
+y»o= (— ^-YQn(kí a)Jtt' (k, r"")
+.   (39').
+; »« - (— 1)"" [<?» + -n (M)  +  (— 1)* 0—m (*l «) l /m' (^ ^"")
+Tyto rozvoje zavedeme nyní do rovnice (36) pro amplitudu výsledné elektrické síly ve vnějším prostoru, načež dosazením do rovnic (14) a (14') vyjadřujících podmínky na rozhraní obdržíme rovnice
+ť (*l)  +^0^02 + ^1^12+----
+2 J'
+W    -..     (40)
+V(*2)    (40')
+kdež jest
+ki (>'
+k2"" (>'
+r=
+k,""
+^2"" ^i
+(40"")
+O řešení těchto rovnic platí totéž, co bylo řečeno již drive, a ns-budeme se jím zabývati, ale užijeme odvozených rovnic k tomu, abychom vysvětlili některé odchylky od theoretických výsledků, jež pozorovali Schaefer a Grossmann při měření ohybu způsobeného jedním válcem dielektrickým. Zdrojem vln byl tu Hertzův oscillátor umístěný v ohniskové linii parabolického zrcadla, takže vlnu vycházející možno pokládati za rovinnou. Jí v cestu byl postaven dlouhý válec z tenkého skla, naplněný vodou, jehož osa byla rovnoběžná s ohniskovou linií válce; střední časová intensita pole měřena byla Klemenčičovým thermoele-mentem naladěným na oscillátor. Ohyb válcem způsobený stanoven tím, že v pozorovacím místě stanovena nejdříve střední intensita pole bez válce, pak vlně vložen v cestu válec, měřena intensita znova, a vypočten poměr obou takto stanovených hodnot. Autorům podařilo se velice pěkně potvrditi výsledky theorie, souhlas vzhledem ku značným obtížím měření jest velice dobrý, jen při dlouhých vlnách, kdy vzdálenost thermoelementu od válce byla poměrně malá proti délce vlny, ukázaly se odchylky. Tak na př. plyne z úvah theoretických, že v místech za válcem položených
+XLI. ﻿interferenční pruhy nikdy nevznikají; střední intensita pole tu buď neustále klesá nebo stoupá, nebo nanejvýš spDČál.ku kle>i, aí dosáhne m nimi, pak bez ustání stoupá. Naproti tomu hodnoty měřením získané ukazovaly s počátku periodické změny intensity, a teprve v bodech od válce značněji vzdálených nastalo neustálé stoupání, po p:ípade klesán' intenvty.   Tyto odchylky vykládají autoři zpětným působením thermoelementu na válec, a my se nyní pokusíme o bližší jich vysvětlení.
+Za tím účelem mysleme si thermoelement nahrazen nekonečně dlouhým, válcovým drátem, poloměru velmi malého; ohyb dopadajících vln vzniká pak účinkem obou válců, a, měříme-li intensitu pole buď za válcem nebo před ním (vzhledem ku směru, jímž se šíří dopadající vlna), je patrno, že máme případ právě uvažovaný. Jde-li tedy na př. o intensitu pole za válcem, pak levý válec (viz výkres, str. 6) nám nahrazuje thermoelement, takže Q"" jest velmi malé. Rovnice (37) a (37') se pak velmi zjednoduší, poněvadž, jak již několikrát řečeno, koěfficienty Bn s rostoucím indexem klesají velmi rychle k nulle, a stačí úplně, podržíme-li jen první z nich, B0, jenž odpovídá stálému členu. Neznamená to vlastně nic jiného, než předpoklad, že v rozsahu tak tenkého drátu intensita pole jest konstantní, nezávislá na <p"". Vyloučíme-li nyní z těch rovnic koěfficienty C„ obdržíme pro A„ hodnoty tvaru
+kdež jest
+.
+~      ~
+A0 =
+o  (Pí] JQ
+B
+= ;»t + nt B(),    atd.,
+» (Pí) Jo  (A>
+...   (40'""),
+Koěfficienty n0, nv atd. patrně odpovídají zpětnému účinku thermoelementu na válec, kdyby ho nebylo, bylo by jednoduše A0 = m0, A± = mv atd. Z rovnic (40) a (40') zbývají nyní jen dvě první; dosadíme-li do nich za A0, Av atd., můžeme z nich stanoviti koěfficienty B0 a D0.
+Úchylka galvanometru spojeného s thermoelementem jest úměrná čtverci intensity proudu v thermoelementu indukovaného, a tedy i čtverci intensity pole, resp. jeho časové střední hodnotě. Intensita pole uvnitř thermoelementu jest dána rovnicí (36""), zanedbáme-li v ní členy závisející na y"" , máme jednodušeji
+místo čehož vzhledem k tomu,   že v celém rozsahu válce pole se mění velmi málo,  možno bez veliké chyby zavésti hodnotu odpovídající ose
+XLI. ﻿39
+válce, tedy r"" = O, takže jest pak Z2"" = DQ.   Řešením obou zbývajících rovnic (40) a (40') obdržíme
+1     J
+u
+- s
+—h
+,   .   • ,   ,  (41),
+kdež kladeno
+r = /„ (JT,) s « /„' ta)
+^ = ^o' (*i w = Qo (*i)
+-f
++ y10
+. (41')
+Tento vzorec se ještě značně zjednoduší vzhledem k tomu, že jest poloměr drátu Q"" velmi malý, a tedy i JTX = A, Q"" jest malé. Pak můžeme klásti JQ (wj) = l, dále jest /„' (n-J řádu jtv tedy také velmi malé, a totéž platí i o s, jež obsahuje J0' (JT,) jako faktor, jak patrno z rovnic (39'). Poněvadž i — jest malé, můžeme na pravé straně rovnice (41) zanedbati
+člen   —     ,         s vedle r.   Podobně   ve výrazu  pro i   zanedbáme  členy
+b    Jo (nz)
+s y00, y10, atd. vedle Q0' (n}).   Klademe-li pak
+-l          T      /         \
+_       l     UQ   \7lz)         _    ,    .        .
+-»»-   —   ~T.        -r i   i      ;— Vn    l«il >
+obdržíme z rovnice (41)
+Zž"" = J7W
+JQ  (X-.y)        K ----  U
+.  (42).
+V tomto výrazu vyskytují se koéfficienty n0, nv, atd., jež odpovídají zpětnému účinku thermoelementu na válec, jen ve členu u, kdybychom je zanedbali, jest, jak patrno z poslední rovnice (41), u = Q0 (ar,), a my m áme
+A'^    •.......(42').
+4
+K-
+Dá se snadno ukázati, že tento výraz můžeme skutečně pokládati za míru výsledné elektrické síly, již vybuzuje pravý válec sám o sobě v místě, kde jest měřící thermoelement. Jest totiž patrno, že jediný člen na pravé straně poslední rovnice (42'), jenž závisí na konstantách pravého válce a na vzdálenosti měřícího thermoelementu od něj, jest r, všechny ostatní členy závisejí jen na konstantách thermoelementu samého a na délce vlny, i můžeme je tedy pokládati za faktor úměrnosti, aspoň pokud
+XLI. ﻿délka vlny jest táž.   Poněvadž ^ jest velmi malé, plyne z rovnice (38'), do n'ž nutno dosaditi k r"" = n,
+a dosad?me-li tedy do první rovnice (41'), obdržíme k>* + w0 Qo (^i «) — ™i Qi (ki a)
+r =
+kdež, jak již řečeno, w0, Wj, atd. rovnají se hodnotám koěfficientů A0, Alt atd. v případě, když diffrakci thermoelementem způsobenou zanedbáváme. Potom však výraz (36) pro komplexní amplitudu výsledné elektrické síly ve vnějším prostoru zní jednodušeji
++ L AH Qn (&! r'} cos n
+a poněvadž podle předpokladu thermoelement jest ve vzdálenosti a za pravým válcem, jest tu x = — a, r' = a, y — n, a pro Zv obdržíme dosazením hodnotu
+jež, vzhledem k tomu, že A0 — mQ, A^ = mí atd., jest identická s hodnotou r. V dalším budeme nazývati Z2 theoretickou hodnotou výsledné elektrické síly ve vnějším prostoru.
+Měření naproti tomu udávají hodnotu Zz"" danou rovnicí (42), jež se liší od hodnoty theoretické faktorem úměrnosti. Tento však se mění se vzdáleností a thermoelementu od válce; členy na a závisející vyskytují se v u, jak patrno z rovnic (41'), (40'"") a (38'). Dosadíme-li za u, a označí me-li pro jednoduchost
+K - <?o K) - -^T^T - & W = ~L>
+t,    «/0   1^2 )
+obdržíme pro poměr obou hodnot
+Z ""
+•^2
+. _ l     i
+*-  ~T
+Poněvadž měření thermoelementem týkají se vlastně středních časových hodnot Z2 a Z2"", jež jsou dány polovičními čtverci jich modulů, jest patrně poměr g mezi theoretickou hodnotou střední intensity pole a mezi hodnotou měřenou dán čtvercem modulu komplexního výrazu na pravé straně poslední rovnice. Označíme-li jej tedy M ~f- i N, jest
+q = M2 + N*. XLT. ﻿41
+Pro veliké vzdálenosti thermoelementu od válce dá se tento výraz opět zjednodušiti. Podržíme-li nejdříve jen člen s n0, na němž patrně nejvíce záleží, máme pro veliké hodnoty a vzhledem k rovnici (11)
+nn = m„
+f\    l K      \
+«o„ = <?„<*,«) =
+položíme-li pak
+mn
+obdržíme po snadném počtu a zanedbání veličin vyššího řádu A
+Poměr q mění se tedy periodicky s klesající amplitudou, periodou jest tu —.  Totéž můžeme očekávati s dosti velikou phbližnostíi v bodech
+i
+bližších.
+81
+Tab. 4.
+: 0-8 cm
+= 62-8cw.
+(1	Theoretická hodnota intensity pole	Pt drát,   9"" = o.lCT""4 cm		Pt drát,    9""= tO~2 cm	
+		Měřená int. pole	1	Měřená int. pole	f
+4 cw	1-848	2-414	0-766	3-011	0-614
+7	1-448	1-747	0-825	1-956	0-741
+10	1-282	1-414	0-907	1-436	0-893
+15	1-147	1-120	1-024	1-076	1-066
+20	1-076	1-003	1-073	0-964	1-116
+25	1-040	0-997	1-043	0-987	1-054
+30	1-017	1-027	0-990	1-047	0-971
+35	1-002	1-043	0-961	1-070	0-936
+40	0-991	1-023	0-969	1-033	0-959
+50	0-979	0-953              1-027		0-937	1-045
+60	0-971	0-970	1-001	0-977	0-994
+70	0-963	0-983	0-981	0-990	0-973
+85	0-962              0-946		1-017	0-941	1-024
+100	0-961               0-976		0-985	0-982	0-978
+XLI ﻿Tab. 5. f = 81,        Q' = 1-2 cm        l = 62-3 cm.					
+(i	Theoretická hodnota intensity pole	Pí drát,   0"" = r>.10-4í-Wi		Pt drát,    Q"" = 10"" 2 cm	
+		Měřená int. pole	1	Měřená int. pole               *	
+4 cm	0-273               0-371		0-737	0-409	0-668
+7	0-218               0-255             0-854			0-264	0-827
+10	0-227               0-218             1-043			0-204	1-115
+15	0-278               0-252		1-102	0-239	1-165
+20	0-327               0-309		1-058	0-305	1-073
+25	0-369               0-374		0-988	0-384	0-963
+30	•0-405               0-426             0-951			0-440	0-921
+35	0-43G               0-452             0-965			0-456	0-956
+40	0-462	0-459               1-006		0-432	1-022
+50	0-505	0-492              1-027		0-486	1-039
+60	0-538	0-550              0-978		0-559	0-962
+70	0-564	0-566	0-997	0-563	1 -002
+85	0-599	0-596	1-005	0-597	1-003
+100	0-626	0-630             0-993		0-629	0-994
+Pro srovnání s měřeními, jež provedli Schaefer a Grossmann, jsou v připojených tabulkách 4. a 5. propočítány dva případy: vodní válec poloměru (jr = 0-8 cm při délce vlny /l = 62-8 cm a vodní válec poloměru y' = 1-2 cm při téže délce vlny. V prvním sloupci tabulek jsou uvedeny vzdálenosti pozorovacího místa od válce, v drahém theoretické hodnoty střední intensity pole, v třetím hodnoty měřené, při čemž thermo-elcment si myslíme nahrazen platinovým drátem poloměru y"" = 5-10~4 cm, ve čtvrtém jest udán poměr q mezi hodnotou theoretickou a měřenou, konečně v posledních dvou sloupcích jsou uvedeny analogické hodnoty pro platinový drát poloměru Q"" — lQ—2cm. Z tabulek jest viděti, že poloměr q se vskutku mění periodicky s rostoucí vzdáleností a, perioda
+jest dosti přesně rovna —. Poloha maxim a minim mění se s poloměrem
+ů
+thermoelementu Q"" velmi málo, za to ovšem roste amplituda periodických změn, roste-li (>"", což jest přímo pochopitelné. V diagrammech, jež uvádějí Schaefer a Grossmann (loc. cit. pag. 497), dají se s případy tu propočítanými nejlépe srovnati vodní válce poloměru 0-74 cm a 0-98 cm při délce vlny A = 58 cm. Souhlas jest tak dobrý, jak možno čekati vzhledem k obtížím měření i vzhledem k tomu, že podmínky theoretické tu nejsou zcela splněny. Poloha maxim a minim jest stejná, vzdálenost sousedního
+maxima a minima obnáší -.  ; hlavně ukazuje se dobře, že při větším polo-
+XLI. ﻿měru válce (/ první maximum poměru q, a tedy i první minimum měření s řední intensity pole dostavuje se již při menších vzdálenostech od válce. Amplitudy změn  pozorovaných  autory  jsou  daleko  větší  než  hodnoty zde vypočtené, což při obvyklé konstrukci Klemenčičova thermoelementu — autoři detailní popis neuvádějí — dá se očekávati.                           •
+V Praze, v říjnu 1912.
+XLI. ﻿*"

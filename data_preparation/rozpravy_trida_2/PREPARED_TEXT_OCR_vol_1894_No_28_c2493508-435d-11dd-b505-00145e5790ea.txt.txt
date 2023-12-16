@@ -1,0 +1,6026 @@
+"","x"
+"1"," ﻿ROČNÍK III.
+
+
+TŘÍDA
+
+
+ČÍSLO 28.
+
+
+Další studie oboru Malmsténovských řad.
+
+
+Píše Lerch. Podáno dne -1. září 1894.
+
+
+
+
+
+následujících úvahách chceme zabývati zejména krajními případy Lipschitzovy funkce
+
+
+Nejprve vzpomeňme důležitého vztahu Lipscliiízova
+
+
+jehož obsah různých místech rozmanitými způsoby byl dokázán.*)
+
+
+předpokládá, jest reálné sice mezi Gal, komergenční
+
+
+podmínky jsou splněny, reálná část veličiny kladna, jeli větší
+
+
+neb rovna jedné, pomyslná čásť veličiny kladna.
+
+
+Veličina podstatě mnohoznačná (—ix-\-ivf dána jest jednoznačně
+
+
+vzorcem /__ \og ,.>
+
+
+
+
+
+němž logarithmus reálnou čásť mezích-----— ---. Volme veličinu ryze pomyslnou kladnou; blížili nulle, stává právo jediný člen, totiž —O, nekonečně velikým; násobímeli tedy obě strany veličinou (—2x7TÍ}s, přejdeme mezím pro vznikne vzorec
+
+
+lim
+
+
+x=°
+
+
+^*--""'(«'-f r(s]
+
+
+Píšemeli zde t'2-c-7/=^, takže ,c'je kladné, reálné menší než obdržíme vzorec
+
+
+
+
+
+(3) lim log „), -i,«, n=r (s)
+
+
+n^o
+
+
+Lipschitz Journal fůr die reine und angewandte Mathematik, 105; dále vi/ naSe publikace Acta mathematica sv. 11, pak nai^i rozpravu /ákladové theorie Malmsténovských řad T>, kde též úvodu podána literatura příbuzných studií.
+
+
+Rozpravy. Kočn. 111. Třída II.
+
+
+XXVIII ﻿který platí ovšem též pro jiné přechody limitní než reálnými hodnotami, poněvadž x)s blíží mílie zároveň když ncnf ryze pomyslné
+
+
+r""0 č°' přechod
+
+
+jeli totiž '/y, ď-f- *V, bude íx)a
+
+
+limitní býti takový, obdrží záporné nekonečně veliké hodnoty,
+
+
+
+
+
+kdežto zůstává mezi --- dovolené přechody limitní jsou
+
+
+takové, blíží mílie zůstávajíc stále severní polovici roviny, čili blíží bodu probíhajíc určitou čáru uvnitř kruhu -=.
+
+
+log
+
+
+Vzhledem rovnici lim možno vzorec (3) psáti také
+
+
+
+
+
+(3a)
+
+
+lim
+
+
+zvláštní případ tohoto vzorce, příslušný hodnotě totiž
+
+
+
+
+
+(3b) lim i**-1 z""
+
+
+
+
+
+byl uvažován pp. A/C.I-. Bergerem?) Picardem**) Céskronemf**)
+
+
+Vzorec (2) ovšem líčí chování funkce
+
+
+
+
+
+poblíže bodu způsobem mnohem určitějším; neboť vyloučení členu zůstane právo funkce, která místě jest pravidelnou lze
+
+
+psatl
+
+
+pokud přejdemeli tedy proměnné máme poblíže místa rozvoj
+
+
+log
+
+
+němž stálý člen a{} hodnotu
+
+
+
+
+
+(V)
+
+
+<?ft
+
+
+±1,±2,±3,...)
+
+
+cos
+
+
+
+
+
+:i:) Recherches sur les valeurs moyennes clans théorie ck-s nombrcs (Nova Acta Rej;. Societatis Scient. Upsaliensis, vol. XIV., ser. III.
+
+
+**) Traité ďAnalyse, 2DS.
+
+
+*'•••') Sulla determina/.ionc assint«->tif;i clclle série cli potcn/e. (Rendironti čidla Reále Accademia delle Scienze I;isiche Matematiche cli Napoli, '.'S. října ISiKi.)
+
+
+XXVIII. ﻿Abychom obdrželi <?, derivujme obé strany rovnice (.->*) dle násobme vznikne tak krátké redukci
+
+
+n)' H^r
+
+
+W^O
+
+
+tudíž dle (í>0*) bude
+
+
+
+
+
+log 3*, (log *)• ...,
+
+
+GV)
+
+
+2T(s+l) cos(2«a>» —-^-g)
+
+
+
+
+
+obecně obdrželi bychom opakováním tohoto postupu
+
+
+^-r<
+
+
+vJP ----
+
+
+zvláštním lépe krajním případě re' máme pak poblíže místa rozvoj
+
+
+r»/
+
+
+m-^ (S]
+
+
+kde součinitelé jsou dáni rovnicemi
+
+
+2F(s-\- fi). cos TT)
+
+
+
+
+
+\?p} ti:
+
+
+nichž užito označení Riemannova
+
+
+jako všech dosavadních našich rozpravách
+
+
+Způsob, jakým Cesaro odůvodnil rovnici (3b), jest nejvyšší míře pozoruhodným. základ slouží totiž následující velezajímavá věta Jsouli
+
+
+^/7'řr r^^/j' kladnými součiniteli, konvtrgentni pro všecka ./' menši jedné, ale divergentní pro /^/* platí vztah
+
+
+lim --^— lim
+
+
+jakmile existuje pravá strana. Pan Cesaro volí pak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-ť|-ť
+
+
+Š(x^=(\— v)* ~~~~
+
+
+XXVIII. ﻿poněvadž
+
+
+lim -7^- lim
+
+
+
+
+
+,s—
+
+
+existuje, bude
+
+
+lim .r)s
+
+
+
+
+
+právě vzorec (3b). Poněvadž dále opět
+
+
+(s)
+
+
+
+
+
+můžeme voliti
+
+
+obdržíme
+
+
+lim
+
+
+což kryje vzorcem naším (3a).
+
+
+Při této příležitosti podejme další applikaci uvedené vety. Budiž celistvé kladné číslo; pak bude, jak snadno shledáme
+
+
+n-l
+
+
+značili jak obyčejem E(ti) celky veličiny volme nyní
+
+
+
+
+
+/w=S.L(^)-.
+
+
+poněvadž
+
+
+W-i
+
+
+
+
+
+lim
+
+
+—oo
+
+
+bude dle uvedené věty obecné také
+
+
+lim
+
+
+odtud ale plyne, násobímeli rovnicí
+
+
+lim
+
+
+
+
+
+
+
+
+-L)
+
+
+
+
+
+výsledek čili
+
+
+lim
+
+
+
+
+
+XXVIII. ﻿Výsledek ten lze podobné jako vzorec (3a) vyvinouti přímo následujícím způsobem. Pišme z=^c~x, znamenejme okamžik
+
+
+sečtemeli nerovnosti
+
+
+vznikne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<//>$
+
+
+takže
+
+
+
+
+
+f-'a*
+
+
+
+
+
+
+
+
+
+
+
+kde iV- značí neznámou funkci, jejíž hodnota stále kladná menší jedné. Tim ale dokázán zároveň výsledek obsažnější
+
+
+(5*)
+
+
+
+
+
+
+
+
+log
+
+
+Chceme nyní vyšetřiti různé krajní případy funkce St(w,Xts) zejména odvoditi různé tvary, jaké těchto případech zaujme Lipschitzův vztah
+
+
+Pokavad reálná čásť veličiny kladnou, platí známý vzorec
+
+
+
+
+
+17} (-n __--
+
+
+\*/ *™t*»f/- ""rTTT „2xjr*-f
+
+
+{*)
+
+
+
+
+
+němž zároveň komplexní proměnná TÍ' musí míti reálnou čásť kladnou. Jde nám hlavně to, abychom zjednali funkci ft(wtX,s) výraz, kterém může býti libovolné. tím účelem rozložme integrál (7) dle schématu
+
+
+f+f,
+
+
+
+
+
+kde značí kladnou malou veličinu, užijme prvém obou těchto integrálů mocninového rozvoje
+
+
+
+
+
+
+
+
+XXVIII.
+
+
+jdio/ součinitelé jsou celistvé funkce veličiny íi'; proměnná byla původně podrobena podmínce, aby její pomyslná část' byla kladnou, aneb když reálným, aby nebylo celistvým. Integrál (7) ale zůstává jednoznačnou funkcí analytickou proměnné pokud příslušný bod rovině probíhá rovinu (#), vyhýbaje řezům, které sestávají polovičních přímek vycházejících bodů .+. probíhajících jižní polovici roviny kolmo osu reálnou. Pokud náleží tomuto oboru, konverguje poslední rozvoj pro všecka komplexní obsažená uvnitř jistého okolí bodu /=0. Jeli menší než poloměr tohoto okolí, bude lze integrovati řadu mezích sice obdržíme tak
+
+
+načež
+
+
+(8)
+
+
+řada (V) konverguje pro všecka definuje analytickou funkci jednoznačnou proměnné podobně druhý integrál vzatý oo) existuje pro všecka celistvá funkce transcendentní. Poněvadž JT(sJ právě tak jako L(í) nekonečným prvém stupni místech bude podíl
+
+
+celistvým; odtud plyne, («' celistvá funkce transcendentní
+
+
+(s)
+
+
+proměnné
+
+
+Přejděme nyní prvému krajnímu případu, kdy totiž přejde míliu; řada (1) obdrží tvar
+
+
+rv->
+
+
+
+
+
+
+
+
+němž dlužno předpokládati (již vůli přechodil limitnímu) splněnu podmínku konvergenci nutnou, aby reálná čásť proměnné byla vetší jedné. tomto případě máme sice opět vzorec podobný rovnici (7)
+
+
+(10)
+
+
+*(«'.')
+
+
+
+
+
+e-»' i'-1
+
+
+
+
+
+
+
+
+ale úvaha poslední postrádá zde platnosti; bude totiž
+
+
+tedy pro
+
+
+XXVIII. ﻿znamenáme!! tedy
+
+
+bude
+
+
+(ii)
+
+
+v*)
+
+
+<""•'>* /•(.) +TČÓ
+
+
+poněvadž druhý člen právo celistvá funkce transcendentní vůči prvý
+
+
+(s) člen jediné místo zvláštní sice pól stupně prvního po-
+
+
+CO*'
+
+
+cnazejici clenu ——, takže jest
+
+
+/'VijT ^--T""+6(-V!<
+
+
+kde (s) značí celistvou funkci transcendentní, nacházíme, rozdíl
+
+
+
+
+
+celistvá funkce transcendentní pnnnčnné
+
+
+Druhým krajním případem funkce (T.V jest řada
+
+
+(12)
+
+
+
+
+
+x.2
+
+
+která odpovídá hodnotě bude dle (J)
+
+
+-Ví
+
+
+\JU —-—
+
+
+dále podle vzorce (S)
+
+
+(1JA /'-r v""l —__-^
+
+
+\4t I*J
+
+
+kde položeno
+
+
+
+
+
+í"" /s~1
+
+
+__j _j_t»
+
+
+<>piH shledáváme, (x, cel stra funkce transcendentní pro-ničnné
+
+
+rovnice (8) (14-) plyne, pro všecka platí rovnice
+
+
+(l5a) lim ,*,*) /-«•""' (ar,
+
+
+tkne chování funkce ,SI pro nekonečné malá ít', patrno řady (1),
+
+
+lim
+
+
+t4>=0
+
+
+a;, .v) --= >kud Reál. ^"" ]>• (). \\\\\\.
+
+
+Zbývá ještě vyšetřiti tuto limitu případě, kdy reálná čásť veličiny záporná. užijeme vzorce (8) obdržíme
+
+
+
+
+
+
+
+
+
+
+
+lim TI- .1- užijemeli rozkladu
+
+
+obdržíme zřetelem podmínce Reál.
+
+
+(os
+
+
+
+
+
+/Í~I (x) -****-*
+
+
+__— i___
+
+
+Jiutri—t
+
+
+,.-i
+
+
+Zx.t
+
+
+
+
+
+kromě toho máme
+
+
+takže bude
+
+
+
+
+
+náš výsledek obdrží tvar
+
+
+;•»
+
+
+c^xm ^-^ fl)s ts~l
+
+
+,im Ut' ^1,, ~"" <Zx.i
+
+
+pokud Reál.
+
+
+tudíž dle (14)
+
+
+(15C) lim (TÍ' ,x,s) L(3.
+
+
+w-Q
+
+
+Vzorec (15bJ lze ještě doplniti takto
+
+
+(15dj lim :civ Ut/, a:, pokud Reál. í.).
+
+
+u>=:0
+
+
+Vraťme nyní opětně funkci ,Sl (w, pro nekonečně malá užijme opětně vztahu Lipschitzova, němž nahraďme veličinu ft.(x,l w,s) hodnotou
+
+
+
+
+
+takže bude
+
+
+w>»1-
+
+
+
+
+
+Pro nekonečné malá mají výrazy závorce hodnotu konečnou, takže vše /á.i-,í chováni prvého členu pravé strany; shledáváme, funkce
+
+
+XXVIII ﻿51 («>,#, —s) nekonečně velikou při nekonečně malých jeli reálná čásť veličiny kladnou; vymčnímcli —s,
+
+
+(lfia) lim &(w,x,s) pro Reál.
+
+
+Hodnotu této limity případe, kdy reálná čásť veličiny větší jedné, obdržíme přímo řady (1), sice
+
+
+(16b)
+
+
+
+
+
+,x>s) R(w,s) pro Reál.
+
+
+vzorce (a) plyne, že, jeli veličina ryze pomyslná nully různá, stává výraz neurčitým pro nekonečné malé kladné hod-
+
+
+noty jeli však zmizí otázce. Zde máme přímo
+
+
+«(«,,
+
+
+což lze psáti
+
+
+
+
+
+
+
+
+rovnice («) neposkytne odpovědi naší
+
+
+nx.-ci
+
+
+
+
+
+pro nekonečně malá zůstává prvá řada právo konečnou, kdežto loga-rithmus stává nekonečně velikým, tedy platí (I6a) též pro
+
+
+Předpokládáních Reál. <T. máme («) pro zřetelem rovnicím (15)
+
+
+-L*(«,, l_.,) ,»""'L(!_«,,,)
+
+
+(17)
+
+
+
+
+
+jestliže dále rovnici (G) předpokládáme Reál. přejdeme limitě pro obdržíme
+
+
+('*) ^7^
+
+
+
+
+
+
+
+
+-ÍV .t/
+
+
+Ježto funkce (íť, jsou vůči analytické jednoznačné, musí vzorce (17) (18) míti platnost"" všeobecnou, pro všecky hodnoty Pokud Reál. máme patrně
+
+
+lim (íť
+
+
+jeli však Reál. plyne (11)
+
+
+lim A'(«>,,-) ..r„(0) ""'^ ^r+ —~'f
+
+
+\Sj „^""Q ~t~
+
+
+
+
+
+c-vty-idt r^.} t__^_ř—;
+
+
+XXVIII. ﻿bC
+
+
+
+
+
+>>-o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<*>
+
+
+
+
+
+""a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9-o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OTCI
+
+
+
+
+
+
+
+
+-í?----->8
+
+
+fX,
+
+
+
+
+
+
+
+
+﻿11
+
+
+tedy přičtemeli délíme dvěma
+
+
+takže
+
+
+rovnici naši lze tedy psáti
+
+
+
+
+
+,!'=ni0A (IC'
+
+
+
+
+
+pravá strana skutečně splývá výrazem (4*) citovaném místě. Máme tedy vzorec
+
+
+pro Reál. lim W~Q pro Reál.
+
+
+(no
+
+
+Připojímeli ještě vzorec všeobecně platný (19*) ]\mL(w,s) L(s)t
+
+
+obdržíme pomocí vzorce (18)
+
+
+n)s sin pro Reál. lim
+
+
+pro Reál. •$•<!• Avšak případě Reál. máme přímo řady (12) vzorec
+
+
+tudíž (20)
+
+
+lim
+
+
+*=0 n=lH
+
+
+(f(j) pro Reál. lim L(x ,s)
+
+
+pro Reál.
+
+
+zároveň máme porovnáním hořejším výsledkem Riemannův vztah L(s) (27r)s-1 sin *""- r(\— f(l—§),
+
+
+Jak jsme dokázali, jest rozdíl
+
+
+
+
+
+
+
+
+celistvá funkce transcendentní proměnné lze jej tedy vyvinouti řadu stále konvergentní
+
+
+(21)
+
+
+,-J, (w) (s-
+
+
+Vlil. ﻿12
+
+
+součinitelé tohoto rozvoje jsou úkony veličiny omezíme určení součinitele A0(w); tomu účelu užijme vzorce (11); máme především
+
+
+tedy
+
+
+aneb
+
+
+
+
+
+
+
+
+r-*4É/ ť-""' —<?-'
+
+
+-4» -„-+T+ Llog f"" T=7'-J -f=ř<-
+
+
+(i);
+
+
+přejdemeli zde limitě odpadá jak řada tak uzávorkovaný výraz zbývá
+
+
+
+
+
+1-^7=-' d'-
+
+
+Máme tudíž větu
+
+
+Prví dva Členové rozvoje (21) sní jí:
+
+
+F~*'
+
+
+""*-!'•/»+—
+
+
+Dále chová funkce místě pravidelně, tedy existuje rozvoj
+
+
+(22) (w) (w) ^?o (w)
+
+
+\'/ 0\/ll\/l ^^""
+
+
+konvergentní oboru jest podle (11)
+
+
+abychom obdrželi />', (re') differencujme (22) podle užijme vztahu platného pro všecka
+
+
+levá strana bude
+
+
+/;0 _|_ 7), _j_ Btl
+
+
+kdežto pravá strana dle (21 hodnotu porovnáním součinitelů při nacházíme
+
+
+XXVIII. ﻿13
+
+
+tedy integrací:
+
+
+(w) (i) log log (i).
+
+
+zbývá ještě určiti číslo /?, (2J funkce /?t (w) bude stanovena; znamenámli toto číslo prostě <L, máme rozvoj
+
+
+*(i-,í)=*,*+v+.....
+
+
+rovnice (18) pak plyne pro
+
+
+(2*0* ros Jír fff1 ——-r- cos
+
+
+(s)
+
+
+levá strana začíná svůj mocnino rozvoj členem pravá členem tedy máme
+
+
+následkem čehož
+
+
+dosazením této hodnoty hořejšího výsledku obdržíme konečně
+
+
+tím dokázána věta
+
+
+/)/'^/ ^/í/^ členové Maclaurinovského rozvoje funkce (?L»
+
+
+(22*) *(w(í)=(|-w) log-5p-*H- .....
+
+
+)2?r takže máme vzorec
+
+
+(22a) log (u>) log \'2T
+
+
+který pro log /^(w) poskytne tolik tvarů, kolik výrazů platných okolí místa máme pro funkci DifTerencujemeli př. rovnici (17) dle klademe vznikne
+
+
+při tom předpokládá log
+
+
+odtud plyne
+
+
+L(wtl)
+
+
+tedy máme výsledek
+
+
+(23) iogr(«o Ýi°g
+
+
+K-) ni- log (i> sin
+
+
+log sin «/«)
+
+
+!*)—A-iL(l—w,j)},
+
+
+XXVIII ﻿14
+
+
+
+
+
+Dosadímeli sem rozvoj
+
+
+
+
+
+S^-n
+
+
+něhož plyne
+
+
+
+
+
+obdržíme
+
+
+1V^>^
+
+
+sin
+
+
+^{D9 iL(w,s)
+
+
+tedy rovnice (23) poskytne
+
+
+log r(^) log ^^L (,„ J.) (io„ (l))
+
+
+(23*)
+
+
+
+
+
+
+
+
+sin
+
+
+známý vzorec Kummerův,
+
+
+Užijemeli stanovení pravé strany (23) vzorce (13), něhož obdrží
+
+
+
+
+
+
+
+
+iog
+
+
+čili
+
+
+^Ifl (1) [(l- «*- log sin ze>
+
+
+obdrží výraz pravé straně (23) tvar
+
+
+
+
+
+takže vzorec (23) obdrží tvar
+
+
+(24)
+
+
+kterém
+
+
+sin
+
+
+
+
+
+sin
+
+
+
+
+
+log
+
+
+-\- cos 2wn
+
+
+své rozpravě Základové thcoric Maimsténovskýck rad dokázali jsme vzorec*)
+
+
+a)' ^-'(— «<)(Lr— «Q-'^ 2~»YJ e-t»*i-*
+
+
+Str. *2<i, čís. (5>:j. Tam omylem vynecháno znamení záporu (—), což tuto opravujeme.
+
+
+XXVIII. ﻿15
+
+
+Přejdemeli zde mezím pro předpokládajíce ovšem, reálná
+
+
+čásť veličiny větší jedné, obdržíme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+veličina obou vzorcích kladná menší než jinak libovolná, mimo předpokládá Integrál poslední konverguje pouze tehdy, jeli reálná čásť proměnné větší jedné; abychom něho obdrželi
+
+
+výraz všeobecně platný, rozložme jej dvě části
+
+
+
+
+
+___ SJ„ /,_. ___
+
+
+
+
+
+jest patrnč (jp (s) konvergentním pro všecka zbývá jen přetvořiti (s) podaří pomocí identity
+
+
+___L _!_
+
+
+___ -f- ^>2 .-r i___
+
+
+sice obdrží tím způsobem
+
+
+V>C
+
+
+cxj
+
+
+
+
+
+r)==l(jr «f)
+
+
+(-8T —«/)
+
+
+aneb vyčíslímeli první integrál,
+
+
+
+
+
+.-T
+
+
+vložímeli hodnoty (s) (s) rovnice
+
+
+obdržíme výsledek
+
+
+
+
+
+
+
+
+l""
+
+
+Diťferencujme obou stranách vůči klaďme dosadme vzorce (22 tím v/nikne
+
+
+r(íL')
+
+
+log -log-
+
+
+
+
+
+nt)-*_dz_
+
+
+
+
+
+í/s l"" í/^r
+
+
+>„/4.,-7T7Z:-r r-^ /^M^7
+
+
+
+
+
+Slng /') ř/J log
+
+
+t-á ___ ^-r2 -f-
+
+
+XXVIII. ﻿10
+
+
+Nahradímeli výraz
+
+
+
+
+
+
+
+
+
+
+
+*»«*'•+•-«/—
+
+
+jeho hodnotou
+
+
+vznikne
+
+
+log±A^=-_~+
+
+
+•»/_-.
+
+
+
+
+
+log i). log (.5 */#
+
+
+,&.wxi-{-z ai___ ___ ,,— <iw z-j-aí
+
+
+
+
+
+Poslední integrál přetvořme substitucí užijme při tom rovnice
+
+
+log log -f- čímž integrál ten obdrží tvar
+
+
+
+
+
+_log(Lr ""2
+
+
+-f- «""i
+
+
+
+
+
+
+
+
+pišme nyní čímž náš výsledek obdrží tvar
+
+
+log (íč') -)- log //! W-\- log
+
+
+
+
+
+í"" Jóg (s_-^unj)__ log(g 2«>f &*ť L^2-'1 «'(»-«) řa»i(ii-w)
+
+
+
+
+
+Avšak
+
+
+
+
+
+
+
+
+
+
+
+^an/
+
+
+
+
+
+
+
+
+log *•' «>) log sin (7^ je))
+
+
+dosazením této hodnoty poslední rovnice vznikne konečně
+
+
+.sin
+
+
+log (V) log log --^ log
+
+
+log log (f+^jiHf
+
+
+27TÍJ ť2*l(«o-«) ^2jrl(M
+
+
+XXVIII. ﻿17
+
+
+Píšemeli -\- obdržíme výsledek
+
+
+(25)
+
+
+r-/ SmVTT
+
+
+log -\-v} log log log
+
+
+
+
+
+
+
+
+log -"" 2*r/ ^+«*»/
+
+
+/,*
+
+
+Při odvození předpokládalo, jsou dvě kladné reálné veličiny, jichž součet jest menší jedné. Pravá strana však konverguje zůstává pravidelnou funkcí analytickou, pokud proměnná probíhá pás omezený osou pomyslnou rovnoběžkou vedenou bodem při čemž může býti jakákoli veličina komplexní kladnou částí reálnou.
+
+
+Zvláštním případem vzorce (25) jest rovnice (24), sice vznikne, pře-
+
+
+jdemeli mezím pro Jiný zvláštní případ obdržíme pro sice
+
+
+
+
+
+bude pak pravá strana zníti
+
+
+<~*j log (s-\- ni) log (<cr 2ttni\
+
+
+""2^7 <•+!
+
+
+což lze uvésti tvar
+
+
+arctg -~-
+
+
+máme tudíž
+
+
+
+
+
+arctg -""-
+
+
+(26) log log «_^log,r -75^!""
+
+
+aneb přetvořímeli integrál částečnou integrací
+
+
+
+
+
+log
+
+
+log
+
+
+log
+
+
+
+
+
+_""(' /;'• rlog
+
+
+/ť'2 -f-
+
+
+Tento vzorec splývá podstatě vzorcem (27) naší publikace TJuoric funkce gamma (Věstník České Akademie 18(.*3.).
+
+
+Vzorec (25) možno přetvořiti částečnou integrací pravá strana obdrží především tvar
+
+
+^'^ los log
+
+
+
+
+
+-í-rU
+
+
+*>ni
+
+
+
+
+
+log *-***'') log
+
+
+
+
+
+
+
+
+T-\-2uitL
+
+
+««"""")
+
+
+Rozpravy. Ro^nik III. Tfida II.
+
+
+XXV1H. ﻿18
+
+
+prvý člen tohoto výrazu hodnotu
+
+
+-5-1 log -\- log sin TI)
+
+
+následkem toho vzorec (25) poskytne
+
+
+(20°)
+
+
+^^J
+
+
+-M'f
+
+
+
+
+
+log —-/•""• !-2""-71') log
+
+
+S-{-2
+
+
+
+
+
+Přejdemeli zde mezím pro obdržíme vzorec Bhiclitv log (//) ^// log log Y2*
+
+
+(26
+
+
+čili
+
+
+(27)
+
+
+<•-*>,
+
+
+
+
+
+log (//) log -f- log ^2*
+
+
+vzorci (25a) dosaďme (neb veličina náleží taktéž našemu pásu) výsledek přičtěme (""25 a); obdržíme
+
+
+log -\~ (II -\- --- L>) log -|- 7<T log ^ŽTT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+log cos 27/^
+
+
+---
+
+
+užijemeli levo rovnice (//-(- v)=.(ii— v)F(ti— ?'), klademeli integrálu <2nx, vznikne
+
+
+log -f- -j- log (// log -\- log Y2n
+
+
+\^) log ťr'-2^--1 cos VÍT -f- ^""4a:-T)
+
+
+""""---- —í»—[ —o— -------------------- ""^
+
+
+
+
+
+Integrál tento lze tedy vyjádřiti transcendentami elementarnými, jeli celistvé. Pro máme příklad
+
+
+(29)
+
+
+
+
+
+Iflog(l-
+
+
+
+
+
+
+
+
+.--'
+
+
+log sin log vj\ -f- log XXVIII. ﻿li)
+
+
+Klademeli však vzorci (2r>) přičteme vzorci původnímu, obdržíme
+
+
+log (// -f- -2u log log
+
+
+
+
+
+(<-' COS
+
+
+___
+
+
+2w*J ť*5 2<?3 cos2z
+
+
+9**f
+
+
+IQCT *""
+
+
+
+
+
+Píšemeli zde 2xn, vyjádříme logarithmus funkcí arcus tan-gentis, vznikne
+
+
+log 7') (// 7') -f- lug ("" —v) log -f-
+
+
+
+
+
+(30) sin 7'57 r2r-T cos Z/TT—l
+
+
+-f- log----— -íxa íxn cosTgT^-iTT arclg ""i""
+
+
+
+
+
+
+
+
+Pro //í máme odtud vzorec výsledkem (29) rovnocenný
+
+
+
+
+
+(31) -f- log V^1^ CÍ,)S1-Z^:1- arccot dx,
+
+
+^4x.-r---2e**x COS 7^^ ~\-
+
+
+
+
+
+tedy př. pro
+
+
+
+
+
+r_pf- -2+1 gTG'
+
+
+pro 7^:=
+
+
+arccot
+
+
+
+
+
+—1~
+
+
+rovnice
+
+
+
+
+
+log (//) log
+
+
+odvodili jsme před nedávném*) vzorec
+
+
+
+
+
+arctg
+
+
+
+
+
+-T--
+
+
+-\-X2
+
+
+kde «',_, značí kořeny kvadratické rovnice
+
+
+Giornale Matematishe diretto dal Professore Battaglini, sv. XXXI. Časopis pro pěstování mathcmatiky fysiky 1804.
+
+
+XXVIII
+
+
+33* ﻿20
+
+
+Zvláště případě máme
+
+
+
+
+
+"""" log 7Í' ~t~ log ^W) ~^~ Iog
+
+
+druhé případě «/,-{- re>2 tedy --,
+
+
+
+
+
+
+
+
+--a log g** .-r
+
+
+"""" log T""~ log sin w*~"" ""^ log
+
+
+Podobným způsobem lze naložiti rovnicí (26)
+
+
+Klademeli totiž (26) jednou wv, druhé «'2 sečtemeli výsledky obdržíme
+
+
+log ^e'2 log «', w,, log w(J!
+
+
+log
+
+
+L'2x-T -l-
+
+
+kde Arctg značí oblouk obsažený mezích tedy
+
+
+Arctg arctg pro ale Arctg arctg z-\-n pro pišme nyní -f- ít/2 «', 7i»2 .:/, přetvořme integrál substitucí
+
+
+při níž jest
+
+
+takže pravá strana našeho vzorce zní
+
+
+
+
+
+
+
+
+^rť/+V«2/2
+
+
+/2«(«/-H«>/> /0_|_
+
+
+Arccot
+
+
+částečnou integrací obdrží tento výraz tvar
+
+
+
+
+
+Arccot log -f-
+
+
+
+
+
+
+
+
+_lf_
+
+
+
+
+
+XXVIII. ﻿21
+
+
+Funkce Arccot jest intervallu ....-)- oč) spojitá hodnotu hodnotu takže náš výraz konečný tvar
+
+
+log
+
+
+
+
+
+
+
+
+
+
+
+-(-
+
+
+log
+
+
+
+
+
+(<>-
+
+
+tedy máme výsledek
+
+
+
+
+
+log -4- 7L'„ -l------l ----7t'. log --- 2ť,2 log ct^ -f- «---log
+
+
+
+
+
+(32)
+
+
+
+
+
+í^-il
+
+
+*""
+
+
+kde značí kořeny kvadratické rovnice
+
+
+Klademeli zvláště :e'2 7e; tedy u<- máme
+
+
+log (w) log -j- ít' log y2«
+
+
+
+
+
+volímeli však íc'„ r=rl tedy it' :ťa, vznikne
+
+
+
+
+
+(oo (14-.— T+""i""«
+
+
+log COS 7T---log (-J- ---Ti') -f- 'ř' l°g :í' --- :C^ l°g --- -j- l°g 2---l
+
+
+kde jsme vůli rozkladu —re1)— «') F(\ u'}} předpokládati
+
+
+Podobné obraty jsou možný rovnice (30). Pišme tam opětně 7L't resp. ivn, sečtěme čímž obdrží rovnice
+
+
+Sin 7fT
+
+
+íť, log 7C', u-, log 7t-tt (re-, 7L'a) log
+
+
+
+
+
+ť«-cos2fi»—
+
+
+ííííir^t-ii-^-g^v+i'
+
+
+
+
+
+
+
+
+
+
+
+Toutéž substitucí jako výše obdrží pravá strana tvar
+
+
+
+
+
+,,2,-TX CQS
+
+
+-TT— -7— Arccot </a?
+
+
+*.-!* e**x cos -f-
+
+
+XXV11I.
+
+
+﻿22
+
+
+kde litera značí «/-J-yj?/*-(-/9; částečnou integrací vznikne výraz
+
+
+
+
+
+log log sin 7'.7- log 2^- 2x-Tcos 27'« ^~4x
+
+
+(35)
+
+
+Dosadímeli tento výsledek hořejší rovnice nacházíme hledaný vztah
+
+
+log (7t», 7>) r(íc»2 ?') i^, 7') (7i-2
+
+
+--- («', log íi-j -(- 7i'2 log tt/2) --)- log (i'2 --- -|~ (?) -\- «--- log
+
+
+—------v _JÍ „log(l 2^**<««+Y«íÉ*4Dcos2t'*4-*~4*(aal+^
+
+
+
+
+
+kde opětně 7ť'2 jsou kořeny kvadratické rovnice
+
+
+všech těchto vzorcích tedy zejména (;32) (35) býti kladné. Volímeli zde opětně 7Í'« tedy ec'2, obdržíme
+
+
+36)
+
+
+log sin (rť -L- z;) sin (Zc' í;>) -f- log
+
+
+log (í'2 7c/ rc'2j log kde ovšem předpokládá 7-' 7t'
+
+
+7ť) log(l
+
+
+II.
+
+
+Binetúv Cauchyův integrál
+
+
+považovati možno zvláštní případ obecnější funkce
+
+
+
+
+
+f/i,
+
+
+Konvergence tohoto integrálu vyžaduje, aby reálné části veličin .v-| byly kladny; této podmínky jest pak (ti funkcí analytickou obou proměnných. chceme nejdříve předpokládati, reálná čásť veličiny dokonce větší jedné. případě tom lze integrál (1) rozložiti součet
+
+
+
+
+
+e-at (,-
+
+
+(<t,/) —r<tt
+
+
+
+
+
+XXVIII. ﻿23
+
+
+poněvadž zmíněné okolnosti každý těchto integrálů existuje. pak jest
+
+
+
+
+
+
+
+
+
+
+
+e~at ts~*
+
+
+
+
+
+
+
+
+
+
+
+r(j—i) r(f)
+
+
+r(j)
+
+
+2"" ""Y
+
+
+
+
+
+
+
+
+
+
+
+->5
+
+
+tedy bude
+
+
+Odtud plyne čili
+
+
+/o\ //>
+
+
+i/>
+
+
+klademeli zde ~[- sečtemeli pro ,...;/ vznikne
+
+
+
+
+
+(/z, -[-;/,
+
+
+(«+»+!)•
+
+
+
+
+
+poněvadž, jak (1) patrno,
+
+
+lim -j-
+
+
+
+
+
+máme rozvoj (4) s^,.)
+
+
+který vzorce (2) liší pouze nepatrně. Ovšem ale řada tato konverguje pro všecka jr, jichž reálná čásť jest větší záporné jednotky, kdežto řada
+
+
+
+
+
+
+
+
+((l ^_________
+
+
+((í ~T~
+
+
+konverguje pouze při reál. Důkaz toho lze vésti tak odvodí rovnice (,'5) přímo integrálu (1), vzatého pro hodnoty </, </-j-l sup-posice Reál. s^> načež plyne bezprostředně vzorec (4). Ostatně lze konvergenci řady (4) vyšetřiti přímo tím určí asymptotická hodnota vzdálených členů.
+
+
+Přejdemeli (4) mezím pro vznikne rada
+
+
+,rf«+J_
+
+
+~.&L(a~ '""
+
+
+XXVIII. ﻿24
+
+
+rovnice (2) máme dále
+
+
+j)= F(S] tedy
+
+
+takže obdržíme zřetelem známé hodnotě
+
+
+
+
+
+čili
+
+
+(/O log log -f. iog«-f|
+
+
+}-*
+
+
+^b) log r^/) (íř -*-) log log y'2
+
+
+kterýžto známý vzorec lze považovati nové potvrzení výsledku (22a).
+
+
+Veličinu (rf .r) lze dále ještě zobecniti, čímž zároveň podstata rozvojů vyskytujících ještě určitěji vynikne. Znamenejme jak zvykem
+
+
+4»4»4»*""A»**<
+
+
+Bernoulliova čísla definovaná mocninovým rozvojem
+
+
+
+
+
+-<*-. ••*—— L/- fí- ^)\
+
+
+konvergentním pro rovnomocný tímto vzorcem rozvoj
+
+
+rín-
+
+
+(6') T=^ +2^-
+
+
+předeslavše, znamenejme
+
+
+2y__i
+
+
+*WJ '""'
+
+
+Poněvadž výraz závorce obsažený okolí místa začíná mocninový
+
+
+X*P
+
+
+rozvoj členem (—\ffiFjr\-- ---— existuje integrál, pokud reálná čásť
+
+
+P/-J-2)!
+
+
+veličiny s-~-'2fl-\-l kladnou, ovšem též reálná čásť veličiny Předpokládámeli okamžik Reál. obdržíme
+
+
+(8)
+
+
+
+
+
+tato rovnice musí platit pro všecka .v, pro něž obě strany existují; zároveň shledáváme, Tfp(a,s) jest jednoznačná funkce analytická proměnné
+
+
+XXVIII. ﻿25
+
+
+rovnice obdržíme dále
+
+
+
+
+
+
+
+
+i»-
+
+
+
+
+
+Znamenejme nyní
+
+
+f()\
+
+
+(<i)
+
+
+shledáme, bude
+
+
+odtud obdržíme podobně jako vzorců (3) (4)
+
+
+
+
+
+^)""2;?
+
+
+Tato řada konverguje, pokud reálná čásť veličiny ^-f-2/-[-l kladnou. Abychom přímo ukázali, vyšetřme asymptotickou hodnotu vzdálených členů. máme především
+
+
+
+
+
+
+
+
+Dosadímeli tyto rozvoje, obdrží obecný člen naší řady
+
+
+(rt ,/j
+
+
+XXVIII. ﻿26
+
+
+tvar nekonečné řady mocnin
+
+
+kde konstanty ~lr nezávisejí ani Chceme ukázati, tyto konstanty mizejí incl. ^-2P-\-
+
+
+Hodnota koefťicientii patrné zní
+
+
+kde symbol značí nullu, jeli sudé, aneb jeli liché větší než 2/, ale
+
+
+jeli liché menší než 2/.
+
+
+Tudíž pro 2/> -j- možno psáti
+
+
+tomto výrazu máme tedy dokázati, rovná nulle. máme především
+
+
+0—1)^-1-
+
+
+r_---, /""
+
+
+stačí tedy dokázati,
+
+
+2.H aneb což totéž jest,
+
+
+
+
+
+
+
+
+(2*)!(r+l —»*)!
+
+
+IV- (2f)!
+
+
+
+
+
+
+
+
+Tato rovnice vsak správná obdrží se, násobímeli rovnici ((>) příslušnýma stranarna rovnice
+
+
+
+
+
+X'1
+
+
+porovnámeli součinitele při xr.
+
+
+XXVIII. ﻿27
+
+
+Rada naše začíná tedy členy
+
+
+čehož plyne,
+
+
+kde jest konečné pro -)- =00. Jeli tedy reálná čásť veličiny s-\-2p-\-\ kladnou, konverguje naše řada
+
+
+absolutně, poněvadž
+
+
+Pro veliká tato řada '-' hodnotu malou, takže nám vzorec (8)
+
+
+(s—
+
+
+podává pro funkci R(a,s) totéž vzorec Stirlingův pro \ogr(a). Možno jej psáti
+
+
+JT_) —t- zúaT^rr
+
+
+____L_.
+
+
+2^—l /«•+•»-> r(j)
+
+
+Veličina
+
+
+
+
+
+
+
+
+zt}e patrně hraje roli zbytku při rozvoji řadu stnrikon-
+
+
+vergcntní. Diťferencujemeli vůči klademe obdržíme známý vzorec theorie funkce gamma. Při tom objeví zbytek jako zobecnění řady Gudermannovy.
+
+
+Úvahy předešlé nutí samy zobecnění, které jest velmi jednoduché. Budiž f(x) funkce reálná, pro niž existuje integrál
+
+
+c~^
+
+
+Teto funkci f(x) ncclif odpovídá rada
+
+
+konvergentní nebo divergentní, jící vlastnost^ rozdíl
+
+
+/V-j/ //V 7'.sV<7/ k!ndných svc absolutní luhlnotc itiensi než pný vynechaný cp.
+
+
+XXVIII. ﻿Pak bude patrné integrál
+
+
+
+
+
+
+
+
+p-l
+
+
+míti hodnotu
+
+
+nerovnosti
+
+
+plyne
+
+
+r-~i
+
+
+
+
+
+
+
+
+jmenovaných podmínek pleti tedy rozvoj sanikonvcrgcntní r_-_l
+
+
+nímé zbytek jest IHCHŠÍ první vyneeJianý den ~~i-f
+
+
+Toť zajisté nejrychlejší nejjednodušší odvození rozvojů skupiny, níž náleží vzorec Stirlingův. Jeli zvláště
+
+
+zní řada (12)
+
+
+\v-l
+
+
+
+
+
+
+
+
+,-, (2-)!
+
+
+potřebujeme dokázati, rozdíl
+
+
+
+
+
+
+
+
+jest menší než ^r-ň\T^~p (^/~r *)•
+
+
+Podle zv. věty Maclaurinovy však
+
+
+kde leží mezi potřebujeme tedy dokázati pouze, x.e
+
+
+nejsnáze provede základě řady
+
+
+-í-
+
+
+AJ. 4»»«»«-4-»« 2n»r< 2i«r«i mni)'
+
+
+
+
+
+vin. níž máme
+
+
+/<M (x) (2/)
+
+
+
+
+
+Avšak
+
+
+*""
+
+
+rovná pomyslné části veličiny
+
+
+
+
+
+tedy menší než prostý obnos této veličiny, tedy (pro reálná
+
+
+
+
+
+""2
+
+
+
+
+
+(2;«
+
+
+tudíž
+
+
+/<2/» (a:)
+
+
+
+
+
+~""
+
+
+:/*'(*)
+
+
+jak tvrzeno.
+
+
+Bude tudíž dle věty (13)
+
+
+
+
+
+kde zbytek menší než první vynechaný člen. Levá strana jest Binetův integrál («), jenž dle (5b) hodnotu
+
+
+log F(a) ^-) log tf+a— log v/2 tím dokázán zv. vzorce Stirlingův (14) log (a) log log v'2^""
+
+
+_1)r
+
+
+
+
+
+rt*''-1
+
+
+kde zbytek /v^ menší než první vynechaný člen, jeli kladné reálné. vzorce (8*) plyne, přesná hodnota zbytku dána výrazem
+
+
+(a, lim rsp (a,
+
+
+
+
+
+kterým nechceme obírati. Kdybychom volili
+
+
+vin. ﻿obdrželi bychom vzorce (8) dodatkem, zbytek menší
+
+
+F(s)
+
+
+Lqrí-, předpokládaje, ve-
+
+
+než prvý zanedbaný ^-_
+
+
+činy jsou reálné ovšeui
+
+
+III.
+
+
+své rozpravě Základové tJieorie Malmsténovských řadí- shledali jsme straně (587) 12., výraz
+
+
+(l-
+
+
+
+
+
+
+
+
+
+
+
+VTV
+
+
+jest invariantem rovnomocných forem (a, záporném diskriminantu i)- ač, při rovnomoci vlastní nevlastní (odpovídající substitučnímu determinantu hodnotě 1). Výraz ten nezmění tedy svoji hodnotu, nahradíme-li formu (a, formou (V, čímž vznikne výraz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Imbni
+
+
+rovný veličině (laj.
+
+
+Pišme nyní obou těchto výrazech <?, /><?, ň"" <?, tudíž //, přejděme mezím pro
+
+
+Rada vyskytující výrazu (la) zní pak
+
+
+
+
+
+
+
+
+
+
+
+blíží nulle zároveň takže výrazu (la) zbývá pouze integrál
+
+
+Oúl
+
+
+
+
+
+.,v
+
+
+**\-i
+
+
+XXVIII. ﻿31 tkne výrazu (lb), především integrál
+
+
+rv>
+
+
+
+
+
+blíží nulle nekonečná řada zní
+
+
+
+
+
+
+
+
+při konečně ubývajícím blíží integrálu
+
+
+<-v~i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__j \au-
+
+
+Porovnáním obou výsledků nacházíme zajímavý vztah
+
+
+(2)
+
+
+
+
+
+
+
+
+
+
+
+němž ^>>0, ť>0, //>>0, který chceme nyní přímo dokázati.
+
+
+tím účelem položme pravé straně
+
+
+takže
+
+
+
+
+
+integrál právo obdrží tvar
+
+
+
+
+
+Tento integrál přetvořme substitucí
+
+
+
+
+
+obdrží tak vzhledem relaci tvar
+
+
+oo'
+
+
+XXVIII. ﻿kde integrační cesta jest poloviční přímka vedená počátku přes bod
+
+
+
+
+
+
+
+
+nekonečna; přímka prochází též bodem =1JJ bi.
+
+
+\j-\-bi Integrovaná funkce zvláštní místa bodech, pro než
+
+
+kteréžto body leží vesměs ose pomyslné.
+
+
+Mezi cestou integrační osou reálnou chová tedy funkce integrovaná pravidelně tedy máme dle věty Cauchyovy hodnotu pravé strany vzorce ^2)
+
+
+tvaru
+
+
+
+
+
+l______
+
+
+
+
+
+kde integrační cesta ose reálné.
+
+
+Podobným způsobem přetvoří levá strana rovnice (2); klademeli tam nejprve ______
+
+
+obdrží výraz
+
+
+
+
+
+
+
+
+jenž substitucí přejde integrál («) obě strany rovnice (2) jsou
+
+
+tedy redukovány týž integrál («) rovnice ona tím dokázána přímo cestou dosti elementarnou.
+
+
+
+
+
+Klademeli rovnici (2) nahradímeli tam veličinu její hod-
+
+
+notou \ac J=v*c
+
+
+
+
+
+vznikne rovnice
+
+
+
+
+
+__r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+obdržíme
+
+
+značí kladné reálné veličiny. právo pišme dále a;,
+
+
+XXVIII. ﻿zavedcmeli ještě označení -=/.'•*, vznikne vztah
+
+
+(2*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*;r ^~2 ^^""P^ <^T víT+V -j- .,;-
+
+
+který lze též vyjádřiti včtou, integrál
+
+
+
+
+
+
+
+
+2x.-r/ ;i-*»
+
+
+1-3?""
+
+
+nezávisí hodnotě proinčiinc t., pokud
+
+
+Derivace této funkce vůči musí býti rovna nulle takže mánie
+
+
+(3)
+
+
+-}- VT^- A2) Vx+a:z ix\í /.2___
+
+
+
+
+
+__^L_
+
+
+nr-T*}
+
+
+
+
+
+
+
+
+\x-f ^:-
+
+
+blí/íli krajní hodnotě blíží integrál pravé straně nulle
+
+
+pravá strana obdrží tedy pro tvar neurčitý Píšemeli /.= i»'z,
+
+
+obdržíme pravou hodnotu pravé strany pro //=<) dli! známého pravidla derivováním, čímž vznikne rovnice
+
+
+f-1
+
+
+kterou však obdržíme ])římo částečnou integrací, takže tomto případě neobdržíme ničeho zajímavého.
+
+
+Integrál (2*) možno vyjádřiti novým tvarem, užijeli věty Cauchyovy vhodným způsobem. rovině komplexni ])roměnné definujme obor omezený osou reálnou půlkruhem velikého poloměru ležícím severní polovici roviny. oboru tom veďme řez (O.../)*), takže obor okraj složený úseku (O....A*), půlkruhu (/v), úseku A'.... O), dále břehu •/. břehu protějšího
+
+
+tomto oboru bud dána jednoznačně funkce (\x-|-#-), která úseku (O... /v) splývá kladnou hodnotou odmocniny -(- x"" ostatním oboru chová pravidelné. Tato funkce (\x-\-x~) úseku A'...0i hodnotu \x-|~#a, břehu (0.../\x) hodnotu (kde //), břehu protějším (/\x ...O), pak hodnotu j>-
+
+
+Rozpravy. Ročník III. Třída II.
+
+
+UVI1I.
+
+
+﻿34
+
+
+Toto předeslavše, uvažujme integrál
+
+
+
+
+
+
+
+
+
+
+
+(\x *>) A»__i „ú)
+
+
+
+
+
+vzatý podél okraje oboru 51; jelikož oboru funkce integrovaná jest jednoznačnou, rovná integrál součinu součtem rcsiduí obsažených uvnitř Póly funkce integrované odpovídají řešením rovnic
+
+
+^-==-
+
+
+
+
+
+kde /// značí libovolné číslo celistvé; odtud plyne
+
+
+ježto jde pouze body obsažené uvnitř sice musí zde býti kladné, poněvadž rovnice (/3) vyžaduje, aby reálná čásť veličiny (Yx-j-^'"") kvh zápornou.
+
+
+Avšak residuum pólu zní
+
+
+
+
+
+-''
+
+
+tedy bude
+
+
+xm— i\\ .\/
+
+
+
+
+
+2*i\z m'-
+
+
+jeli celistvé číslo tak volené, aby —/•"" -\- ~t~ největší hodnota obsažená oboru 51, takže největší celistvé číslo hovící podmínce M*-\-*?.« A1tt tedy )/ťa —TF,
+
+
+takže pro veliká jest sblížené rovno
+
+
+Integrál však sestává částí
+
+
+
+
+
+
+
+
+
+
+
+x'1'
+
+
+í,-2A.ivix+*»-«*Wivr-""A»_
+
+
+dále částí vxatých podél obou břehii řezu (0...lY*J části vzaté podél půlkruhu (/ť).
+
+
+řezu •/.) leží jeden pól integrované funkce, totiž bod x-=il}xt proto dlužno tomuto vyhnouti při integraci pomocí malého půlkruhu, jehož poloměr nazveme NTa břehu (().../V*) máme pro integrovanou funkci okolí bodu rozvoj
+
+
+„L. -4- (x__r"")4-
+
+
+yio yii \-'- J(\)
+
+
+XXV1I1. ﻿kde
+
+
+kdežto břehu protějším funkce integrovaná chová pravidelně. Integrál
+
+
+podél půlkruhu rovná
+
+
+
+
+
+2Y*
+
+
+zbývají břehu (().../ YX) pouze integrály přímočaré
+
+
+
+
+
+jichž součet limitě (pro splývá Cauchyovou hlavní hodnotou integrálu máme tedy jako příspěvek pocházející obou břehů řezu výraz
+
+
+
+
+
+--- val. princ. 2Y*
+
+
+idy
+
+
+
+
+
+C-*''-* **-/•• +2;r* !-/.»_ YX—
+
+
+VIT
+
+
+f<?
+
+
+^2;.^ vjr=7»+sjrw vrz.-!* ^'x^Z^a
+
+
+Integrál vzatý podél půlkruhu (R) mizí pro integrál //) pomocí identity
+
+
+ATI V*-f»a— 2x.-rí /.»
+
+
+přetvoří následující výraz
+
+
+/.*___
+
+
+^/a;
+
+
+Y?^^ ~^"" a^TŤ*—! ""Ý^L
+
+
+tomto výrazu prvý člen hodnotu
+
+
+A>+YX+/?«
+
+
+log j_P =log^4-log-=
+
+
+kde značí veličinu mizící pro
+
+
+Máme tedy
+
+
+
+
+
+
+
+
+
+
+
+val. princ.
+
+
+
+
+
+rinc.
+
+
+ť-2/..-r vx_j2+2r.T M_;.3__ yx__r*
+
+
+
+
+
+
+
+
+-/f
+
+
+L,áA.t Vx-r» +2^-1 ^1-/.J
+
+
+34*
+
+
+XXVIII. ﻿3(5
+
+
+kde -,, značí výraz mizící zároveň ---. Porovnámeli tuto hodnotu předešle nalezeným součtem
+
+
+;;/a'
+
+
+přejdemeli limite pro vznikne vztah
+
+
+
+
+
+i-o
+
+
+-i-
+
+
+ť-2;..T >x-fxs Žz.-ri Vi_A»
+
+
+
+
+
+_<^_
+
+
+í-2;..-r>x^-c5+2x.-l>i-^_ NX_TL
+
+
+val. princ.
+
+
+
+
+
+
+
+
+f—U* -2.r.7 »1— ___ _r'2
+
+
+Porovnámeli části reálné pomyslné, máme výsledky
+
+
+
+
+
+
+
+
+LI.
+
+
+""hÍ!!Poo| ,\x ///^ °8'
+
+
+<X3 __________
+
+
+sin ('2 --/.-) ^/#
+
+
+r"" i;< ''"" (') ""\'l '/•-
+
+
+
+
+
+d.r.
+
+
+-j-- ""2
+
+
+.},2'
+
+
+
+
+
+pnnc.
+
+
+
+
+
+-2;..,
+
+
+.3. jiné rozpravě, nazvané Studie ohoiu Malmsténwských ř<i<f ui-'t l<»\)n kvadratických, dokázali jsme vzorec
+
+
+\jx-\ ani2 \lx
+
+
+""^
+
+
+V"" ~oo \'^
+
+
+=,:
+
+
+
+
+
+
+
+
+
+
+
+kterém jsou kladné veličiny, kladné ryzí zlomky.
+
+
+XXVIII. ﻿137
+
+
+v/orci tomto pišme v.2 takže vznikne
+
+
+ani-.V
+
+
+ť7?/
+
+
+
+
+
+•\-
+
+
+
+
+
+cm1
+
+
+Zde lze bez újmy obsažnosti výsledku klásti =\\ přejdemeli pak me/ím pro (), přejde levá strana integrál
+
+
+
+
+
+
+
+
+,—1.1(1
+
+
+______ '*-2 „^.-S* ««»
+
+
+------ v.^;
+
+
+pravé strané pak vymizejí výrazy
+
+
+
+
+
+/T'2-T° y^ip^šr
+
+
+takže máme relaci
+
+
+-{-cm1
+
+
+.<•
+
+
+'""v zbude
+
+
+(1)
+
+
+SOŽ.-TÍ 2r.T\J- «22 á.T(l —r)
+
+
+
+
+
+
+
+
+V*+«*í
+
+
+
+
+
+
+
+
+
+
+
+\""
+
+
+-Jm,.,/
+
+
+
+
+
+
+
+
+
+
+
+platnou podmínek ^^>(), ^'^>0,
+
+
+Dosadímeli sem a;, o-, hodnoty rA, píetvorímeli levou
+
+
+(V-
+
+
+siranu dosazením .•;• A.;;, přejdemeli limite pro (_), vznikne
+
+
+CX)
+
+
+\.t-~\-<iz- \<i v*+ -""
+
+
+PíšcMncli levo n-' ^,/,
+
+
+nechání čári^k zní:
+
+
+rovnici, kteiá JH> vy-
+
+
+(8)
+
+
+<;J,,(„:/-, =')
+
+
+^^>
+
+
+J-»""
+
+
+
+
+
+ť/ř
+
+
+XXVIII. platí pro všecka kladná Rovnice nevyjadřuje nic jiného, než tvrzení, integrál
+
+
+;•«<••< -»«T^
+
+
+
+
+
+
+
+
+
+
+
+/t- soumčrnoii funk -či liter rr, což lze přímo dokázati, přetvořili integrál substitucí
+
+
+,o- VaT+in= substitucí
+
+
+
+
+
+Násobímeli i<S) obou stanách frs~l dna. integrujeme mezích oo, vznikne
+
+
+cos
+
+
+f_7_ t,-2T.-r V,+7> J^_
+
+
+f*r+V
+
+
+cos
+
+
+kde předpokládá Reál.
+
+
+IV.
+
+
+následujících úvahách podati chceme nové zobecnění vzorce Lip-schitzova tím také vyvinouti nový dosti jednoduchý jeho důkaz. východisko volíme integrál Euleráv
+
+
+
+
+
+r(71) rív] xu~* .—. \_______
+
+
+klademeli zde gz, vznikne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tomto vzorci dosaďme -\- -f- ix, a—-6 i'x, násobme -ix) sdx integrujme Znamenámeli
+
+
+
+
+
+-r~
+
+
+-71
+
+
+obdržíme tak vzorec
+
+
+[_. (ix
+
+
+
+
+
+xxvin. ﻿39
+
+
+Při tom předpokládá, reálné části veličin <?, jsou kladné reálná čásť veličiny převyšuje reálnou čásť veličiny b-, veličina reálnou kladnou, proměnná může býti jakákoli, ale předpokládáme, její reálná čásť větší jedné, aby bylo dovoleno změniti pořad integrační. Bude pak
+
+
+
+
+
+
+
+
+takže nám běží nyní pouze stanovení integrálu
+
+
+<•/ (s)
+
+
+
+
+
+Tento integrál tvaru
+
+
+tedy nemění parametrem /;, poněvadž jeho devivace vůči
+
+
+
+
+
+Ir- _a;
+
+
+-y-r -i- [/(* *)1
+
+
+-oo
+
+
+
+
+
+patrně rovna nulle.
+
+
+Funkce (s) patrně celistvou vůči pro její určení stačí předpokládati, reálná čásť veličiny leží mezi nullou jednou. tomto případě bude možno přejíti mezím pro což
+
+
+
+
+
+/-» Í.T/^»
+
+
+c-ixl°zz x-s x-}-C~~*~~ i'i
+
+
+vyjádřímeli oba integrály,
+
+
+Jeli L]> bude log kladno tedy
+
+
+___
+
+
+
+
+
+j^. r(i (log sy—
+
+
+
+
+
+Jeli však bude log záporné oba členy výrazu (.0 ruší,
+
+
+takže
+
+
+(f> (j) pro .cr XXVIII. ﻿40
+
+
+NTá< poslední tvar pro ./, který lze psáti
+
+
+
+
+
+
+
+
+obdrží tedy dosazení (s] tvar:
+
+
+
+
+
+ritr-4-t) (log
+
+
+1.\ p*+ť
+
+
+(\+fs
+
+
+
+
+
+který 1/e substituci též ]isáti
+
+
+_íl^ r-).
+
+
+
+
+
+(1-)-^ «')-«- ť-.1
+
+
+Integrál tento konverguje [>ouze pro hodnoty .s\ jichž reálná čásť jest kladna; předpokládejme mimo to, jest větší jedné, aby rozvoj binomialní
+
+
+
+
+
+Ví"" ^-'J ^-(<H '""
+
+
+;;;
+
+
+byl konvergentní. Užijemeli tohoto rozvoje pro stanovení integrálu (lc), obdržíme
+
+
+-f- ///)*'
+
+
+Pišme nyní ,í,r— --''•""7 7', znamenajíce literou veličinu ryze pomyslnou kladnou; tím obdržíme (la) (ld) rovnici
+
+
+ri«+<>iír"",
+
+
+
+
+
+""-'""""""
+
+
+
+
+
+
+
+
+integrál tento existuje když reálnou čásť nully různou, obsa-
+
+
+/čilou mezi---^ rovnice (1) bude platnou pro tato iMy pak píšeme r', takže výsledek náš obdrží tvar
+
+
+r(a **•**_
+
+
+
+
+
+
+
+
+(l*)
+
+
+
+
+
+L(« b)(l 2v)
+
+
+
+
+
+(*-\
+
+
+
+
+
+při čemž splněny býti mají podmínky
+
+
+Reál. a>L>0, Kcal. ř>0, Reál. Im. 7-X).
+
+
+\\VI1I. ﻿41
+
+
+Klademeli tomto vzorci a-\-c užijemeli ovšem vzorce
+
+
+r(c-\-b
+
+
+této podmínky platného, obdržíme rovnici
+
+
+sin
+
+
+ix)
+
+
+(2)
+
+
+
+
+
+,,,
+
+
+sin
+
+
+která poskytuje nové vyjádření řady («?, s). Vzorec tento byl námi zcela jinými prostředky odvozen rozpravě Základové theoric Malmsténavskýck rad*'} poskytuje přímo vztah Lipschitzftv, rozvineli integrál pravé straně nekonečnou řadu.
+
+
+našem hlavním vzorci (l*) pišme nyní -j- ""2 jr, násobme -n-k sečtěme výsledky pro 2,. ...«»; obdržíme
+
+
+
+
+
+
+
+
+>•.
+
+
+
+
+
+[(""
+
+
+při odvození bylo nutno předpokládati (><C^<C^> takže pak další podmínka
+
+
+(í? -f- ///)- //- tím již splněna. Rovnice ale zůstane platnou pro všecka //, pro než obě strany zůstávají jednoznačnými funkcemi této proměnné, tedy pokud leží uvnitř pásu omezeného rovnoběžkama osou reálnou, vedenýma body čili jinými slovy, pokud Im. <^b, pokud ovšem ostatní podmínky vzorce (l*) uvedené jsou splněny.
+
+
+Klademeli rovnici (;3) -\- obdižíme vzorec
+
+
+(4)
+
+
+
+
+
+
+
+
+
+
+
+.....í
+
+
+</x
+
+
+\<l _____ /y,\
+
+
+/.<')"";//"""" Slil ^<f -----
+
+
+platný podmínek Reál. Im. /;-
+
+
+Rada levé straně tvoří částku řatly J// (,-', <r, //, .v), kterou jsme studovali citované rozpravě, ale poněvadž summační uka/.ovatel ;// probíhá pouze hodnoty kladné, liší výraz (4) funkce (?', ti,/t, podstatné;
+
+
+l., v/orcc (-»:i).
+
+
+XXVIII. ﻿42
+
+
+Vyjádřímeli sinus funkcí exponenciální, obdrží pravá strana rovnice (4) tvar
+
+
+e1r.tHb
+
+
+
+
+
+[(*+«*)•+*']*
+
+
+jeli pak reálné, můžeme užiti rozvoje
+
+
+
+
+
+dále vzorce
+
+
+i(b —2rt v-\-n)x
+
+
+
+
+
+2x,-r
+
+
+(*""•-""' a-b)+**x(n-v)
+
+
+nro pru
+
+
+pro
+
+
+provedemeli integraci pomocí těchto řad, objeví pravá strana rovnice (4) tvaru
+
+
+s&naTii láv
+
+
+*»•
+
+
+
+
+
+kde položeno
+
+
+
+
+
+01, ffi*l ---- JĚ9*i(9'
+
+
+""~
+
+
+
+
+
+dále
+
+
+
+
+
+(5b) ^_. #»-'(•+•>-«""<•
+
+
+
+
+
+'aJs
+
+
+Při tomto označení tedy bude
+
+
+^5. /'2
+
+
+(B) jSo----- —------^T
+
+
+Znamenámeli dále chvíli Y^i »*""i«T»J
+
+
+?/^
+
+
+obdržíme koeíficienty trigonometrického rozvoje
+
+
+přímo tvaru
+
+
+
+
+
+fc==\/W
+
+
+XXVIII. ﻿43
+
+
+tedy dosazení f(ti)
+
+
+
+
+
+/-» ---- ,,<ív.-Ti(a-{-ni) %n.-ii
+
+
+A,)
+
+
+m=9J
+
+
+
+
+
+odtud známým postupem
+
+
+(5C)
+
+
+j„— ^.r.-ri (.;-»)
+
+
+(// ,...)
+
+
+Určitost výrazu f(a) pro všecka intervallu (O... vyžaduje, aby nebylo ryze pomyslným, tedy dlužno předpokládati Reál.//]>().
+
+
+Porovnámeli výsledek (5C) rovnicemi (f>a) (5b), obdržíme vztahy
+
+
+
+
+
+-'í'""""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e1*ib (n-r,
+
+
+clxxi(v-n)
+
+
+(v*
+
+
+Nahradímeli zde veličiny i>, resp. n-\-i> symbolem ^—, takže značí
+
+
+
+
+
+libovolnou veličinu kladnou částí reálnou, obdržíme
+
+
+e~cx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bci ____—
+
+
+oj'
+
+
+při čemž mají býti splněny podmínky Reál. Reál. Im.
+
+
+Identifikace koefficientu rozvoje (5) výrazy (5C) není oprávněna, pokud nedokáže, rovnice (5), odvozená podmínky platná také pro a<b\ třeba především ukázati, integrály (7)a) (5b) nezávisejí /^, což jest snadné. Předpokládámeli té, jest reálné, bude podmínka Im. u\<^b splněna pro všecka uvnitř intervallu (0...1); volímeli pak okamžik velmi malou hodnotu //, bude rovnice (5) platná pro malá poněvadž nezávisí //, shledáváme, rovnice (5) platí celém intervallu jeli reálné kladné.
+
+
+Rovnice (6) jsou tedy platný pro kladné reálné tedy též pro všecka pro něž obě strany chovají pravidelně. Předpokládejme nyní reálné kladné) přejděme vzorcích (G) mezím pro Integrály levo
+
+
+XXVI11. ﻿se rozštěpí dva, ježto funkce lim [(/>-f- ix}*1 -j- u*l2 různou povahu
+
+
+
+
+
+intervallech (O...//) (//... oo) Tím zpíisobem obdrží vzorce
+
+
+(T)
+
+
+
+
+
+<e'' </a? i-c
+
+
+-7+""
+
+
+(««+**)* (//« #•-•)*
+
+
+c«0
+
+
+cxi **dx c*dx
+
+
+----/
+
+
+lil
+
+
+r*ť*-L-r»\i r,/^__^2\8 ^_*/^-.>
+
+
+odtud snadno plynou rovnice nimi rovnocenné, platné pro reálná kladná
+
+
+(7*)
+
+
+Ícos e~cx —a^ sin STI -7-5------; (x*+u*y o-2
+
+
+
+
+
+
+
+
+
+
+
+cos -]-
+
+
+""\í
+
+
+'>' •""
+
+
+
+
+
+13éží nám ještě analytickou povahu funkce
+
+
+
+
+
+c-c:r
+
+
+e~CX ~(M*^
+
+
+Nahradímeli pod integračním znamením funkci řadou
+
+
+Vcn x"" obdržíme ^•j
+
+
+e-^dx #dx
+
+
+(««-_a;2)* /// (w1 -**)*
+
+
+n=0
+
+
+poněvadž substitucí x-^= u"" lyne
+
+
+
+
+
+
+
+
+
+
+
+,n-l-l l«l
+
+
+
+
+
+
+
+
+mamě
+
+
+ríw íí-//)""
+
+
+
+
+
+XXVIII. ﻿45
+
+
+vzorce Legendreova Gaussova
+
+
+H-M
+
+
+plyne pro ./• —í—
+
+
+tedy máme konečně
+
+
+(*«
+
+
+
+
+
+Rada tato rozpadá dvě, nichž jedna ol)sahujc členy sudých druhá členy lichými hodnotami Znamenámeli
+
+
+(9)
+
+
+
+
+
+
+
+
+
+
+
+obdržíme pravou stranu rovnice (<S) tvaru
+
+
+(8-)
+
+
+Abychom obdrželi hodnotu prvého integrálu (7*), odvolejme výsledky naší rozpravy Základové líícoric Malmsténavských řad znamenali cíle tamního vzorce (1)
+
+
+cos
+
+
+poskytne nám vzorec (3) citovaném místo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vzorec (S) tamtéž podá
+
+
+.«/,('""'- t\-(±V'-t *(L*.
+
+
+JLÍA_ _V^ JL*I 2.'
+
+
+sin
+
+
+
+
+
+XXVIII ﻿40 tedy máme
+
+
+--2cossn.r(
+
+
+J(f (s) (V2
+
+
+s-~
+
+
+odtud dle prvního vzorců (7*):
+
+
+
+
+
+
+
+
+(io) -^~ —-L-- ___IÍT-J L(—-—»*___1-
+
+
+Dosadímeli výsledky (8a) (10) vzorců (7), shledáme, integrály
+
+
+
+
+
+
+
+
+
+
+
+e±cxi
+
+
+lze vyjádřiti pomocí transccndcnt Bessclovskýck
+
+
+
+
+
+pomoci íransccndcnty příbuzné
+
+
+
+
+
+Tudíž také součinitele trigonometriekéko rozvoje (5) vyjádřiti trans-cendcntanri tčnriio, kdežto vyjádření kocfficientů trigonometrického rozvoje funkce Ml. transcendenta poslední nevyskytuje.
+
+
+
+
+
+Naše pozornost' nyní býti věnována vzorcům (l)a(l') str. 50-a 57., dále vzorci (2) str. 60. naší rozpravy •Základové tJicorie Malmstt!-novských řad-. Vzorce jednají řadách, jichž obecný člen jest
+
+
+--*s resp>
+
+
+vezmeme úvahu případ zcela zvláštní, kdy případě tom znějí naše výsledky
+
+
+(i)
+
+
+XXVIII. ﻿47
+
+
+(2)
+
+
+
+
+
+j=i
+
+
+
+
+
+
+
+
+.-i
+
+
+
+
+
+~^T
+
+
+kde si.mmační podmínky znějí
+
+
+____ ř»,f=l,2,3,4,....
+
+
+1=1,3,5,7,9 .....
+
+
+řárka znamení součtu znamená, dlužno vynechati škodný člen Podle známých vět arithmetických*) bude
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i)-
+
+
+
+
+
+(6)
+
+
+Znamenejme nyní
+
+
+(«5)
+
+
+dále
+
+
+(1)
+
+
+připomeňme identitu
+
+
+
+
+
+i,;;,r.,7,...),
+
+
+
+
+
+9***
+
+
+af-f
+
+
+IV'
+
+
+Pomocí vzorců (4) (fV) obdrží pak rovnice (1), (2), (3) tvar
+
+
+2<l-scp(s)^(s).('2i's~ 2s(-Jí) (2*)
+
+
+:;:) Věty míněné dokazují také theorii funkcí elliptických tvaru
+
+
+
+
+
+Lř«' i4-42;(-i)""i /"", i)""V'""' —l+4*(—l)T*~
+
+
+XXVIII. ﻿•18
+
+
+(3*) 2'- (s) (s) (_>' (2>
+
+
+Podle vzorce (S) str. 37. citované rozpravy však
+
+
+
+
+
+
+
+
+tedv
+
+
+cos Znamenali nám
+
+
+t-)n (ii] součet n-tých mocnin všech dclitclu čísla bude patrné
+
+
+dle toho zní vzorec (l*)
+
+
+vzorce podobné plynou (2*) (3*). Vzorce mají svoji zajímavost' nejen příčiny, vyjadřují určité řady utvořené pomocí transcendent Bessclo-vých funkcemi C"" nýbrž ony také mají cenu praktickou, poskytujíce případě celistvého prostředky rychlému vypočtení součtu (/(.v) t(.v). případě celistvého totiž vždy jedna veličin (.v) (s) známa; jeli sudé, známo t(V), jeli liché, známo (.v), neboť pak bude
+
+
+_v(-i)
+
+
+
+
+
+;>,, 6,...)
+
+
+
+
+
+čili
+
+
+tuto řadu lze vyčísliti tvaru zakončeném.
+
+
+tomuto účelu, stanoviti bud' <(s) nr-b </(.s) pro celistvá .v, nejlépe hodí vzorec C3*J. třeba především vyčísliti integrál
+
+
+
+
+
+;2''''
+
+
+(lx
+
+
+""'
+
+
+XXVIII. ﻿49
+
+
+substitucí obdržíme
+
+
+aneb užijcmeli vzorce*)
+
+
+(a) J"" <""'Y
+
+
+
+
+
+ferj
+
+
+Znamenejme okamžik
+
+
+
+
+
+r-—
+
+
+
+
+
+
+
+
+r1* _L_
+
+
+
+
+
+
+
+
+
+
+
+jeli kladné celistvé číslo, pak obdržíme užitím binomického rozvoje výsledek
+
+
+
+
+
+ť-a^
+
+
+
+
+
+poněvadž integrály členů lichém jsou nullami. Avšak
+
+
+
+
+
+
+
+
+í*l ^ax= ^2)'~ '"" Af«
+
+
+
+
+
+tedv
+
+
+
+
+
+(2s—l\(s ('-!-«-: -7+7,
+
+
+
+
+
+Znamenámeli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Základové theorie Malmsténovských řad, str. :>4 •'>"">, vzorce (^*) (ó).
+
+
+Ko/pravy. K.uhiik 111. Třída II. ;{r)
+
+
+XXVIII ﻿50
+
+
+bude
+
+
+tedy
+
+
+
+
+
+/Ir'//
+
+
+\s~ l•*"" ~""
+
+
+(^7J ;-s~' /«""""A> '''"" ""T ~~u-
+
+
+""*
+
+
+Odtud plyne, klademeli znamenámeli f-/.2.v (;/) součet nich mocností všech lichých dělitelů čísla ;/, rovnice
+
+
+-(n
+
+
+'""
+
+
+čili
+
+
+kde položeno
+
+
+(10) </>*
+
+
+Rovnice (3*) následkem toho obdrží při celistvém tvar -sW) =2-' HŽTT-,
+
+
+VI.
+
+
+tomto článku chceme vyvinouti nékteré detaily týkající řady
+
+
+Malmsténovské
+
+
+
+
+
+(1) Ml. (ts«s*,j)=
+
+
+.-r
+
+
+pro jsme nalezli rozvoj
+
+
+2»«ť \T1 /""»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-j- W)<2 -(- ?/-]
+
+
+,-t2 (t> n)a
+
+
+Základové theoric Malmsténovských řad,
+
+
+XXVIII. ﻿51
+
+
+Funkce tato celistvou transcendentní vůči pokud není číslo celistvé; Maclaurinovský rozvoj její bude varu
+
+
+při čemž
+
+
+Ml. -\- A<t s11
+
+
+
+
+
+/""""S
+
+
+
+
+
+.-r2
+
+
+aneb dle známého vzorce
+
+
+
+
+
+
+
+
+
+
+
+2-T
+
+
+^-« .-l ,-r
+
+
+
+
+
+lř—
+
+
+supposicc
+
+
+
+
+
+máme tedy
+
+
+f>— »i» w-« .-.znw.i
+
+
+
+
+
+
+
+
+tuto funkci lze vyjádřiti zakončeném tvaru pro racionálna 7'; možno psáti též
+
+
+(3<)
+
+
+Znamenejme nyní
+
+
+kde reálné části kladné; differencováním plyne
+
+
+Odtud plyne, K(x,v} nemá jiných míst zvláštních mimo logarithmické body —-/'/,(/• -i-, '2,...), sice máme okolí místa —/•
+
+
+x,—2A-.f/(l
+
+
+
+
+
+kde značí řadu mocninovou; integrací máme odtud
+
+
+čímž povaha funkce okolí míst zvláštních dostatečné charakterisována. Utvořme nyní funkci
+
+
+
+
+
+XXV11I. ﻿kde součtu -"" dlužno vynechati člen (). Rozdíl
+
+
+K(x,i>] (x, chová pravidelně celé rovině (x) tedy funkcí celistvou; ježto derivace
+
+
+
+
+
+hodnotu .~r bude rozdíl
+
+
+konstantou.
+
+
+-\-
+
+
+"".*- (předpokládali ovšem 1),
+
+
+<~í\
+
+
+Hodnota její mění ovšem zároveň volbou větví mnohoznačných funkcí A"", A*!. Vedemeii rovině (x) rez podél osy pomyslné, bude rozkrojené takto rovině (x) jak tak ATt jednoznačnou funkcí umlu-
+
+
+~~T~
+
+
+víme klásti log '——-.— hodnota hlavní, jejíž pomyslná čásť leží mezi
+
+
+A-^
+
+
+
+
+
+Poněvadž
+
+
+tedv
+
+
+nacházíme
+
+
+čili
+
+
+dále jest
+
+
+
+
+
+e*x*^-^dx ^í1-^^^ —=—
+
+
+?-»--l ^—1
+
+
+,2(1 ___
+
+
+,-) ____
+
+
+Í^z ___ ___
+
+
+
+
+
+-Iog2«
+
+
+lim ('A"",
+
+
+takže odečtením předešlé rovnice plyne
+
+
+lim (AT— A',)^ log
+
+
+
+
+
+čínix konstanta A', ustanovena.
+
+
+XXVIII. ﻿53
+
+
+Tím doká/án vzorec
+
+
+
+
+
+(4)
+
+
+
+
+
+log c1Ll '•""'log
+
+
+-j-
+
+
+který dlužno považovati doplněk Lipschitzova vztahu (2j článku I., kterém nutno předpokládati
+
+
+Kdybychom chtěli obdržeti výsledek (4) limitním přechodem řečené rovnice Lipschitzovy, upravili bychom takto:
+
+
+
+
+
+odtud odečtením výsledku příslušného hodnotě xtí
+
+
+c^n^oo' u*-
+
+
+Přejdemcli limitě pro ()> vznikne
+
+
+Sf—lx.T.r c,--2 slt
+
+
+»4-v~ """" 2j."" 7'-r^~
+
+
+-r-
+
+
+í-,'A-,.T/log_ ^-F-r- /,.
+
+
+x-\-ki
+
+
+odtud plyne, výraz
+
+
+
+
+
+-f-
+
+
+nezávisí načež hodnota jeho určí přechodem limitě pro jako výše.
+
+
+Volímeli ryze pomyslnou hodnotu /.r, kde mezi Dal, obdržíme
+
+
+/--2*««(»+») r""(7^
+
+
+l^„o_
+
+
+
+
+
+-logar-
+
+
+
+
+
+L±J
+
+
+
+
+
+Tomuto vzorci udělme tvar
+
+
+,2x,,,/
+
+
+
+
+
+(7,>| f^i log .r)
+
+
+
+
+
+t.2 r.-ii(>.
+
+
+
+
+
+XXVlll.
+
+
+﻿54
+
+
+píšíce vůli pohodlí i/> (?') ~r~rr Dosaďme sem za. odečtěme; tím vznikne rovnice
+
+
+log
+
+
+
+
+
+*±_*_
+
+
+
+
+
+log
+
+
+kde součtech nepřicháxejí více členové /C' této rovnici přejděme limitě pro #=1,1 obdržíme
+
+
+*'o -(log **-/""(
+
+
+_v>^2^Mo(,l+l .4. y-„
+
+
+
+
+
+
+
+
+Znamenejme okamžik
+
+
+""' (i'1 ''2 ^.,,- log A+J.
+
+
+pak praví náš výsledek, funkce
+
+
+(b)
+
+
+nezávisí
+
+
+Dosadímeli sem výraz
+
+
+obdržíme
+
+
+avšak
+
+
+xxvin. ﻿SÍn
+
+
+tedy
+
+
+
+
+
+ježto pak /""(!) log náš výraz ib) pro v~---- hod-
+
+
+
+
+
+notu log log log -~- log
+
+
+Máme tedy
+
+
+(V) (<2---""ř (v)
+
+
+
+
+
+i)=o,
+
+
+odtud krátké redukci
+
+
+(5)
+
+
+
+
+
+
+
+
+log /""'(.l)) sin -j- -;y cos -yr/^-r- sin
+
+
+Abychom řešili podobné otázky funkce
+
+
+
+
+
+užijeme rozvoje*)
+
+
+
+
+
+MI.
+
+
+
+
+
+-f- cos rL'
+
+
+
+
+
+.T» 4-3
+
+
+místě chová funkce tato pravidelně její Maclaurinovský rozvoj (6a) Ml. «•, //, ^Ja 4-....
+
+
+Zákl. theorie Malmst. řad, vzorec (l).
+
+
+Vlil. ﻿56
+
+
+prvního součinitele
+
+
+/-Al-= -\- \TI cos 2;/
+
+
+-^?l
+
+
+
+
+
+,,—
+
+
+COS
+
+
+
+
+
+__«* log 2í-2
+
+
+čili
+
+
+2cos2wjrj
+
+
+vzorce (4) článku IV. máme pro
+
+
+
+
+
+
+
+
+/.í „2s Sin (rt /a;)
+
+
+
+
+
+kde platí podmínky Reál. kde omezíme kladná reálná Konvergence řady integrálu vyžaduje, aby reálná čásť veličiny .s-byla větší než půle.
+
+
+Vyjádřímeli integrálu sinus funkcí exponencialnou, obdržíme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tomto integrálu přejde limitě pro čímž obdrží
+
+
+(**"""" a?a)~""i^?
+
+
+m^o [(« «)» ««] r-""-'—
+
+
+wa-
+
+
+(V2 *"")- ^/a; (o;2
+
+
+__l ___ ,,!i
+
+
+e-<iajii tx7t
+
+
+
+
+
+předpokládaje ovšem, reálná čásť menší než jedna vetší než půle. Druhý integrál nahraďme výrazem
+
+
+
+
+
+(a* w») *dx
+
+
+TBiWFiSríri {*•—<)-•
+
+
+XXVIII ﻿K1""""1', obdržíme
+
+
+jehož druhá čásť hodnotu
+
+
+
+
+
+
+
+
+
+
+
+^jgi±4^!lziÍEíí! to» „«- rf, «)' «""]' :"" '4"" -2fí"" cos 2a""
+
+
+("" ,•„« s*)- ,/x '.,-
+
+
+_1_ ____ s,— _____ jjl—
+
+
+
+
+
+
+
+
+e~*ani-íxx
+
+
+
+
+
+
+
+
+Výraz pravé straně jest jednoznačný, pokud reálná čásť veličiny menší jedné, poněvadž jen podmínky integrály naše existují: abychom zjednali integrály existující pro všecka nahraďme přímočarou cestu integrační cestou (oo,;/,oo), která vycházejíc -f- vine podél severního břehu osy reálné nějakému místu poblíže načež okrouží bod vine zpět -[-oo podél jižního břehu osy integrál původní obdrží podle obecného vzoru
+
+
+f(f\ (r-__ ?/2\—* ///r---— f(r\ fy12 r/-\—
+
+
+\Jj) l*v •*/ ---- l1""'/ v.1*""
+
+
+
+
+
+,M,OO)
+
+
+kterém (x) značí funkci jednoznačnou.
+
+
+Druhý integrál uveďme rozložením cesty integrační funkce integrované tvar
+
+
+>___________ .—. __V_ _>_____
+
+
+aneb konečně tvar
+
+
+___ /y*-*l~1~i^,///y* xCM1*)y>*T /řy* ••• ^xT^y*
+
+
+l** íMlI l// Ji-
+
+
+
+
+
+integrál tento lze nahraditi integrálem obecně konvergentním, užijeli vzorce /(*)(* ^"") g7^7 (#) (^* OC~}~S
+
+
+(».*w,0)
+
+
+kde cesta //, vychází obíhá kladném směru úsek ...
+
+
+XXVIII. ﻿Užijemeli těchto výsledku, obdržíme jednak vzorec
+
+
+
+
+
+
+
+
+(8)
+
+
+sin (-><i -\- .c**-'' sin <•*•"" :><•*<"" cos L',,*
+
+
+pak vzorec
+
+
+*i» -t- jf'\ c-u'-T sin
+
+
+rr~ .,iv -i,—/—, -4*. -r-r n-r3<i.'
+
+
+m^o [(* m)* u*]' 2s-^— ř»- J«- *cos25*+
+
+
+iOC W,OČ
+
+
+sin (//"" ir~) lix
+
+
+.""M ,.-)
+
+
+
+
+
+
+
+
+
+
+
+jehož pravá strana existuje pro všecka jest jednoznačnou funkcí proměnné Tím dána propagace funkce (ti, definované elementem
+
+
+
+
+
+
+
+
+vůči proměnné pro niž jest jednoznačnou.
+
+
+Prvé dva výrazy právo rovnice ($) mohou míti póly ;\,
+
+
+pak 2...... bodech poslednějších ale mizejí integrály
+
+
+funkce zůstává konečnou; pólech druhu prvního, uvažujme jeden nich residuum znělo
+
+
+_i>» ""•»""//
+
+
+kde psáno
+
+
+(u-\-x}-k
+
+
+ale residuum toto patrně mizí prví dva členové pravé straně rovnice (S) poskytnou tedy součet celistvou funkci transcendentní singularity funkce ,u\s) mohou pocházeti pouze členu
+
+
+
+
+
+který póly stupně prvního =--
+
+
+Chcemeli tedy analytickou povahu funkce nastíniti, stačí poznamenati, rozdíl
+
+
+celistvá funkce transcendentní vůči
+
+
+XXVIII. ﻿5'J
+
+
+místě chová funkce R(a,u\s) pravidelné její hodnotu obdržíme přímo pomocí řady
+
+
+kterou lze psáti
+
+
+takže máme
+
+
+
+
+
+A~2Í7 lT+ÍÍ=Í7-'-T+m uí)'
+
+
+K(a „.n_ -^7 7,-
+
+
+Zajímavější znáti prvního součinitele Maclaurinovském rozvoji (10a) A,, s*+...
+
+
+tomu účelu užijeme vzorce
+
+
+
+
+
+//; R(a,n -|-
+
+
+který lze přímo verifikovati pomocí řady (il) který musí míti platnosť obecnou, poněvadž běží funkci analytickou.
+
+
+Derivujemeli tedy řadu (10*1 podle //, obdržíme
+
+
+ZA* (a, //) A(I //j -\- =-----V^ -s% ~V^""
+
+
+
+
+
+tuto řadu porovnejme následující, kterou lze obdržeti přímo
+
+
+usR(a //; usR /V'1"" tím obdržíme rovnice
+
+
+
+
+
+
+
+
+
+
+
+čili podle (a)
+
+
+^Al(at -\- /"") ni]
+
+
+///)"""" r\(r^ui}
+
+
+čehož máme integrací
+
+
+
+
+
+.-j, (,/ //) log -j- -\-
+
+
+Abychom určili konstanty ((7 //"") které záviseti mohou toliko uvažme, pro naše funkce přejde řadu
+
+
+
+
+
+=^(^,2^),
+
+
+(^-fw)lv
+
+
+která dle vzorce (22*) článku začíná svůj rozvoj členy
+
+
+
+
+
+XXVIII. ﻿takže máme jednak výsledek jednak rovnici
+
+
+níž plyne bude tedy
+
+
+iog^== log/>)»+<:,
+
+
+Y2*
+
+
+
+
+
+\ti //) log
+
+
+~f~ (/'
+
+
+(10)
+
+
+
+
+
+Tím dokáxána věta MaclaHrinavský rozryj funkce R(ii^u\s} definované řadou (i1) r.\
+
+
+log —^—t—J—L-------s
+
+
+tni Pleny
+
+
+Určímeli .-J, (ř?,;/1 pomocí integrálů (7) obdržíme především
+
+
+CXO
+
+
+COS 1><7 C-X7T SÍ11 lOLI (x"" ---
+
+
+____
+
+
+ť4^ 2í-r'TCOs2«^+l ^x^_[_f-2r.-r ^COS
+
+
+sin rt- logj
+
+
+7žx.T_i-f-2T:-T7r
+
+
+xít}dx
+
+
+cos
+
+
+
+
+
+Prvý člen určí přímo hodnotu
+
+
+log(l —2*-""*cos2<
+
+
+takže plyne
+
+
+čili
+
+
+
+
+
+sin log
+
+
+""~""cíx .-riir .-»•
+
+
+-(- r"" -j;rr cos
+
+
+log
+
+
+f'(a
+
+
+
+
+
+cos
+
+
+píi ___ 7/íí
+
+
+------
+
+
+cos Van
+
+
+kde předpokládá
+
+
+
+
+
+XXVIII. ﻿lil
+
+
+Poznamenejme ještě, vyjádřímeli rovnici (Ví, ?/, stranu pomocí integrálů (7) obdržíme zajímavý vzorec
+
+
+:-----a levou
+
+
+
+
+
+
+
+
+sin
+
+
+jejž lze ovšem přímo vypočísti pomocí substituce
+
+
+
+
+
+Dělímeli sin2</?r klademeli 0=-ň jeví levá strana tvaru ne-
+
+
+určitém určímeli dle známých pravidel, vznikne
+
+
+
+
+
+Dodatek. VTzorec (28) str. vede přímo výsledku log -f.
+
+
+
+
+
+adx ^-T-Lí-í-r.T COS
+
+
+TÍ5+Í1"" '°k' fr-.-r-..-.)'
+
+
+který obdržel Sfú/fjcs velmi elegantní úvahou 'Journal Math. pures appliquées, série, torné 1889). Naopak obdržel Hcrwitc, vycházeje výsledku Stieltjesova, vzorec (28), dokázal jej nanovo způsobem našich úvah zcela různým (Mathern. Annalen, sv. 41.). Všecky tyto vzorce plynou naší rovnice (25) již jsme základe theorie Alalmsténovských řad odvodili jaře 1893.
+
+
+Opravy. str. 22. vzorci (3í>) prostřední řádek zníti log sin ~\- í'i sin í/) ^rj -'- (TI' log :«.' -*- riO log w))
+
+
+str. 27. rovnici (8*) druhý člen pravé strany zníti
+
+
+
+
+
+
+
+
+místo
+
+
+str. 4lí. posledním řádku integrálu při //• exponentu státi činitel
+
+
+XXV111. ﻿Výtah dopisu pana Karla Hermitea.*)
+
+
+Paříži, dne listopadu 1804. ...Vzorec pro rozvoj log (x] který jste mému potěšeni obdržel,
+
+
+
+
+
+log (x\ sin -\- cos -\- |log
+
+
+sin
+
+
+log ""// -^1 sin ^"" •*•'
+
+
+jsem odůvodnil, jak následuje.
+
+
+Násobiv sin -j- shledávám nejprve, integrál levé strany, vzatý redukuje veličinu
+
+
+
+
+
+
+
+
+sin sin -f- log F(./')
+
+
+
+
+
+
+
+
+cos log 7"" (#) cos -J- log F(x)
+
+
+t.""
+
+
+Ježto máme vzorec
+
+
+stačí užiti výrazu
+
+
+pro -4- abychom shledali, pravá strana rovnice (1) zní prostě
+
+
+cos ťxr
+
+
+2*«
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+»)f
+
+
+</r
+
+
+poznamenávám, platí vzorec
+
+
+
+
+
+
+
+
+
+
+
+n>*
+
+
+C)riginál viz Bulletinu.
+
+
+XXVIII. ﻿takže konečně /.bývá pouze voliti nekonečnou hodnotu výrazu r~}2 _\a /<> -.NÍ
+
+
+-4- -+• .B) 71)
+
+
+'---"" *°L l-----*--- -------- ----\1T ----------i----------\9.
+
+
+jehož limita skutečně váš výsledek log
+
+
+i>ředcházejícím dlužno vyloučiti případ —O, který mne však zvláště zajímal němuž tuto obracím. Máme tudíž
+
+
+sin2 nxd\og C(X) (1; log
+
+
+nahradímeli 2sin2^^ hodnotou cos obdržíme konečně
+
+
+
+
+
+r'(l)-log2irl
+
+
+-.71-
+
+
+-(-
+
+
+což podává pro Eulerovu konstantu výraz různý integrálu
+
+
+
+
+
+
+
+
+dy.
+
+
+\jr
+
+
+
+
+
+který vztahuje logarithmu integrálnému.
+
+
+XXVIII. ﻿*"

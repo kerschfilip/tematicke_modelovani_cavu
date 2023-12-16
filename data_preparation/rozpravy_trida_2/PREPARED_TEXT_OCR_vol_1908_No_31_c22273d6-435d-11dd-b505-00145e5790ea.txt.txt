@@ -1,0 +1,281 @@
+"","x"
+"1"," ﻿ROČNÍK XVII. TŘÍDA l!. CÍSI.O 31.
+
+
+resoiventách dvěma parametry,
+
+
+Karel Rychlík.
+
+
+Predlo/.enu dne 2'í. ř<Tvn,i iílOS.
+
+
+
+
+
+Krone<'ker vyslovil 18'il větu. nctVí možno při obecné rovnici si. pně nalézti resolventu jediném parametru, aniž zavedly irra-cionalily akcessoiické. Důkaz podal nejprve Klein11) jiný důkaz pochází Gordana.
+
+
+následujícím snažím dokázati období. vrtu pro rovnice stupně (').: totiž není možno nalezli resolvcníu dvou parametrech, aniž s*-z iv.ídly irracionality akcessorické.
+
+
+II.
+
+
+Při důkaze Kleinově Gordanově užito jest theoremn Lůrothova křivkách racionálných.
+
+
+Budeme potřebovati obdobné věty pro plochy racionálno (t. oč2 rozmanitosti) prostoru libovolném počtu dimensí.
+
+
+Věta zní:
+
+
+Je-li U], n.,, svstem racionálnýcli ťiukcí d\'ou proménnýcl) />, (racionálna plocha prostoru dimensionálním), pak existují dvě racionálno funkce [7, proměnných //•, •//,, i/r__i
+
+
+//,, ...
+
+
+ii> (//.. //,.
+
+
+ICrlangrr Bcrichti- IS77. Matlu in. Annalcn |-J. 1S77. Vorlesungrp.
+
+
+iibcr das Ikosardcr, 2"")4.
+
+
+INIatlicMii. Annalcn 2!>. ISS7 té/. \\'c'lx-r: Algebra II. díl. l.iiroth. j\Iatlu>m. Annalcn !». \\'c^b(>r: Algebra 11. t""'2.
+
+
+opravy: KoC. XVII. 'IHcla II. 31.
+
+
+XXXI. ﻿které mají vlastnost, «,, «,__, dají vyjádřiti racionálně pomoci
+
+
+Pro dokázal vrtu Castelnuovo.x)
+
+
+Obecné lze /ákladě tohoto speciálního případu snadno odvoditi úplnou indukcí.
+
+
+Předpokládejme, platí pro v—l funkcí uíf u,_}
+
+
+(/>, ""2 (/>. (J)
+
+
+«,-i (/>-
+
+
+kdež symbol /nací racionálnou funkci, která není blíže kvalifikována. 1/e dle předpokladu nalézti dvě funkce
+
+
+
+
+
+
+
+
+vlastnosti,
+
+
+(>) (P,
+
+
+«*,_, =12 (P, (>>) Uvažujme nyní funkce
+
+
+U=R (p,
+
+
+R<p,q)\........4.
+
+
+(/>•
+
+
+Dle věty Castelnuovovy lze /.voliti d\v funkce
+
+
+(P, (u, uy, w,_,) (dle 2.)
+
+
+(P, (u, M,, ... «„_,) (dle 2.)
+
+
+vlastnosti, ž<í
+
+
+(ř/.
+
+
+(U, \........6.
+
+
+(U,
+
+
+Ale rovnic plyne pak
+
+
+(U, (U.
+
+
+ur--= (U, V), Mathem. Annalen 44, 1893.
+
+
+XXXI. ﻿při čemž zároveň (dle 5.J
+
+
+
+
+
+(M, «*,
+
+
+čím/ theorérn dokázán.
+
+
+111 Resolventy dvou parametrech.
+
+
+rvažujme nivnici (#) stupně jejíž kořeny jsou XQ, xlt „_i- Předpokládejme, mezi kořeny jest libovolný počet relací
+
+
+
+
+
+.,) (x0, Xl, *„_,) ....
+
+
+kdež A', X', jsou racionálně funkce kořenu Relace nechť jsou takové, kořeny tvoří rozmanitost kdež ""2. Budiž Galoisova grupa rovnice uvažované příslušný obor racionality. Jest patrno, relace (X) nemění substitucemi grupy
+
+
+Položíme otázku:
+
+
+Jest možno nalézti dvě racionálně funkce kořenů z2, které r.áležejí oboru <Í2 racionálnou funkci kořenu jejíž různé hodnoty, HI, u.2 «„_!, vzniklé, použijeme-li substituce grupy vyhovují rovnici ]•' (n, Z-L, z2)
+
+
+Rovnice tato bude pro resolventou rovnice daiié.
+
+
+kořenech budeme předpokládati:
+
+
+l/.e z;i .r0, ..... *n—i položiti racionálně funkce dvou parametrů
+
+
+])o této substituci nestanou neoclvislvmi Dokážeme nejprve následující větu pomocnou: Jestliže racionálna
+
+
+funkce *P""(w, í#j. «>_i) annullu identicky, klademe-li x0, xlt *,,_! racionálně funkce })arametru vyhovující podmínkám vytčeným lze tvrditi, funkce annulluje také jako funkce proměnných máme-li zřetel relacím (X).
+
+
+Budiž gruj>a (ialoisova rovnici- (u. ;1; z.,) (Grupa tato jest isomorfní grupou G.) Použijme substituce této grupy funkci utvořme součin funkcí takto vzniklých (zl, z.,).
+
+
+(zl, z2] budí- racionálnou funkcí proměnných z2, Annulluje-li s(: jeden činitelů tohoto součinu identicky jako funkce bude (zlt z2) identicky, ježto zxa nejsou neodvislé toho plyne, jeden činitelů tohoto součinu annulluje jako funkce což následek, všechny rovnají mílie, jakož plyne, použijeme-li racio-uálnou rovnici tak vzniklou Galoisovu grupu
+
+
+Yčla tato jest analogická větě platné případě resolventy jednom parametru, viz Weber: Algebra II. 475.
+
+
+XXXI. ﻿Dále dokážeme Kořen u,,
+
+
+rovnice (u, :',, 2.,) l/o vyjádřiti rit-
+
+
+cionálnč pomocí dvou parametrů
+
+
+<p(U, V}. /«, qp., V).
+
+
+<r„-i (U, i').
+
+
+kdež jsou racionálně funkce nejen /.' ale
+
+
+Dle x.evšcobecnené vety rastehuiovovy jest možno, uvažujeme-li /ná/.orněni :*; pomocí paramelrn naléxti dvě racionálně funkce pro-ménnvch takové,
+
+
+(L7, F), <p, ((/. F), Zavedeme-li pak parametry bude //„ <pn (U.
+
+
+identicky dle předešlé vetv romocné bu('o'i !y!o rela.ee s]>liu''nv s{'cl)na vyhovující rovnicím (A'). Předpokládejme nyní, použijeme na. sulislitnci grupy proměnné změní dle substituce grupy změní ř/s u/ijeme-li relací, vyjadnijícícli racionálně pomocí //, ř/j. ?/,,_! reLicí ?/n řř„ (/r- I7) shledánu-, L^s 1',. jsou racio-iálné ítmkce Fxijeme-li j;-ak !i:-op;;k substituce shledáme, jsou racionálno fniikcc1 ř'"", Fs. l^xistnjc tedy me/i jedné strany stran\ druhé relace bi-racionálná. Tyto relace biracionálné ivoří patr!i'""- grupu isomorfní grujiou
+
+
+IV.
+
+
+Dnka/ vět při obecné rovnici stupně vyššího neexistuje resolventa dvou parametrech, neposkytuje již obtí/í.
+
+
+Uvažujme rovnici, jejíž kořeny jsou neodvisle proměnné kte-a tedy grupu Galoisovu brd' gru])u symmetrickou neb alternující. Pak Ix.e \'\-jádřiti kořeny parametry •/>, ho\-njícínu podmínkám praeí Kantorovýchž) práce Wimanovy ph-nepak, jediná grupa biracionálních transformací, isí>mo'~\\\\ gnniou alternující neb svmnu--trickou \'íce písmenech, jest V^alentinerova gru]);; 'KiO kollineací. Tím dokázáno ihned, jedině při obecné rovnici slupne (>. b\- moiila
+
+
+Kaň tor: Preiuirrs foiidaiiicnls pour un< tliéoik- dcs iransf. p^riodiqiics uc.s (Ncapel 1SSH) Journal fiir Matli, lil (I8!)4). Arta inatlicinatii
+
+
+19, 1895. Thcorie der r-ndl. (iruppcn \-nn hirntionalon Transformationen, lícrlin
+
+
+1895.
+
+
+Mnthein. Annalen 4S. iSÍXi.
+
+
+XXXI. ﻿existovati resolventa (hon parametrech pan iální při rovnici grupě symmetrické, totální při grupě alternující.
+
+
+Stačí tedy uká/,ati. při rovnici grupě alternující taková resol-venta neexistuje.
+
+
+tomu ríli položme
+
+
+<]P (A',,, -v,. xs) (*0, Xf)
+
+
+(xn. x,, A,} (*0, *lf *6)
+
+
+kde/ <p, ty, jsou nesoudělné polynomy.
+
+
+Ukážeme, jest m-možno /-voliti tř>, tak, aby měnily dle grupy Yalentiuerovy, použijeme-li kojeny substituce alternující grupy písmenech.
+
+
+Předpokládejme, substituci
+
+
+-f-
+
+
+~i~ a""U+b""V c""
+
+
+-rb'V
+
+
+kdež <p' t/;'. jsou opět polynomy be/ společně míry Jest patrno můžeme položiti
+
+
+<p' bty ty' -f-
+
+
+tak ii', mění dle ternárnícll homogenních substitucí.
+
+
+Avšak Valentinerově grupě 300 kollineací odpovídá grupa aspoň 3.300 homogenních ternárnícll substitucí; musily tedy funkce <jp, ty, nabývati více než 300 různých hodnot, užijeme-li alternující grupu písmenech, což jest nemožno.
+
+
+XXXI. ﻿*"

@@ -1,0 +1,275 @@
+"","x"
+"1"," ﻿ROČNÍK III.
+TŘÍDA II.
+ČÍSLO 5.
+Nová analogie řady theta a některé zvláštní hypergeometrické řady Heineovy.
+Napsal M.  Lerch.
+Věnováno za přijetí do České Akademie císaře Františka Josefa pro vědy, slovesnosť a umění.
+Předloženo dne 15. prosince 1893.
+1.   Buďte </, q   dvě   veličiny, jichž  absolutní   hodnoty jsou  menší jedné, a uvažujme funkci /(#,L;<?,q) proměnných x, L danou  nekonečnou  řadou
+(1)
+n-\
+'     •«
+t. j. řadou
++ ?•*•(! + q |'0 (l + q»f •) (l + q»f «)+
+(l + q-'|») (l + q-af) (l + q-5L2)
+První základní vlastnost této funkce obdržíme, píšemeli y prvé části řady n -\- l, v druhé n—l za n, a dělímeli na gx*(\ ~\- qL2); tím vznikne
+f(x,&______1_
+/7 /r« fl     l     rt Jt«\     l     l
+n = l
+Prvý  člen  pravé  strany  možno   považovati za člen posledního součtu a sice přísluší k hodnotě indexu n = l.
+V. ﻿Pravá strana tedy splývá s řadou /((]L, q>) a máme tedy jakožto prvou základní vlastnost' funkce f vztah
+(2)
+Druhou   základní   vlastnosť   funkce / obdržíme   způsobem   následujícím. V obecném členu prvého součtu pišme n -\- l za ;/, čímž člen tento obdrží tvar
+provedme násobení posledním činitelem  l -j-q2""""*'1!8, i obdržíme tak
+t«) (l -f- q.iL«) . . .
+2» --
+« = i
+M = l
+CO
+= l
+V druhém součtu pak   pišme ;/ — l za // a u vzniklém   tak   členu   obecném
+___________4*(gx)-**-g&                       (}  ,    _.„f i t«x
+(l + q-'L«) (i ^_ q-3t«j... (i + q-2« + i ^) l
+provedme násobení činitelem  l -f- q—2w + 1 L-. Tím vzejde
+-   -1
+CXJ
+-s
+^ (i _j_ q- i já) (i _|_ q-3L2)... (l 4. a spojením obou výsledků nacházíme vztah
+/   l O'1      J* i      —   /7 /y* •*   f (sj /y      t \ _l      /7rt'Y1^J*^   f \ /T (\ nT      J*i
+/    V**'  j T* /   *----   v  ^     /   l v         l V J      I      t/ U w     *>     J   \ l     \         l V J   *
+Podle vzorce (2) možno levou stranu nahraditi výrazem
+odtud plyne
+f(3X, f) + q ř«/(ř q * , f) = aneb, píšemeli x místo ^íc,
+v. ﻿Funkce f(x, L) má vůči proměnné x pouze dvě místa zvláštní, a sice x = O a x = oo ; vůči L má mimo to póly Š'2 — — q , — q3 , — q5 ,... ; abychom je odstranili, násobme ji funkcí
+a znamenejme
+(5)                             T (* , f í ? , q) = /* G?, q) . f(x , L ; q , q) -Funkce 77 hoví patrně rovnici
+(6)                                77 (qí, q) =
+pomocí této relace obdržíme z rovnic (2) a (3a) základní vztahy
+. /   .                     l
+(2*) (3*)
+T (x , L) , y M •""  s
+— T (q x , L) = -^- g) (x , f) .
+Charakteristické vlastnosti funkce qp (# , L) jsou:
+l . g (a? , L) jest jednoznačná analytická funkce proměnných x , L ,  L/r/w ///#' <r;/ místa zvláštní x = O # a; = oo , ytoL t — o ^ t =z= oo ^ /rt-X^í- ^v e/ okolí
+všedi tníst (x , L), ?/ w/V//^   a;  > O,    L  >> O, ť//^^^ pravidelně ; a mimo to 2. hoví r/ (a; , ^ základním rovnicím (2*) a (3*) a jest sudou. Z prvé vlastnosti plyne, že lze funkci 7 vyjádřiti řadou stále konvergentní
+Jm>„ í2"" #2« ,     (;// , n = O , ± l , ± 2 , ± 3 , . . .) .
+m ,
+A tu je z definice funkce r/  patrno, že
+3. J/rt/ý íVť;/ -.^0,0 mocniHWcJio rozvoje funkce y(x,t) rovná se 1.
+Vlastnostmi 1., 2. a 3. jest funkce qp (x , L) úplně dána; neboť možno z nich vyvoditi její výraz, t. j. určiti koefficienty Am>n- Rovnice (2*) a (3*) poskytnou totiž
+Am,n
+porovnáním koefficientů máme odtud vztahy
+Kladomeli v rovnici (/^) po řadě m = n ,n -\- l , « -(- 2 , . . . , obdržíme ^« + i,n— O, Jn + a.a = (>, ^» +3, n = O , . . . , takže bude vždy ^WiB=0, jeli /// ]> ;/ .
+V. ﻿Jeli však ;// < // ,   položme do (/9) za ;//  liodnoty   ///,/// -j~ l , /// -f- 2 , . // — l  a znásobme výsledky ; i obdržíme
+a zbývá jen určiti --JB,«. Tu nám poskytne rovnice («) vztah
+odtud shledáme,  že bude
+ježto dle supposice Máme tedy
+^
+a pro m < //
+,
+""
+^0,0 =
+= ( q q ')""
+= O      prO   /// > //
+čili
+""     n —
+(qí
+(l — q2) (l — q4) (l — q6) ... (l — q*"" -*>»}
+-f i)
+následovně máme pro funkci <j výraz
+-2n t
+'
+2«
+čili, píšemeli ;/ — m = »
+.7*1
+/r t\4
+(i""-- o (i - ÓTÍ^
+- l , 2 , 3 , 4
+,    ,    ,    ,
+2. Budtež nyní T, , T(J veličiny komplexní o kladné části pomyslné a ii'„ neodvisle proměnné; klademeli
+q = ťi*' ,      q = é""""-""1' ,      x = ť1""'-""11' ,      | = ť10'*1' , přejde funkce <\  v celistvou funkci transcendentní proměnných w, , TI'O
+která hoví podmínkám
+(9)
+' f/> (w, , ^ + ra) — <l> (w, -f- ra , w,t) jež plynou z rovnic (2*J a (,'J*j.
+(w,
+V. ﻿Vložímeli do rovnice (7) a provedemeli součet vůči w, obdržíme
+/-v~>
+f2 + rTl  r. + r<
+(10)     </M™,,^   ft.rja
+„
+11(1—^^
+• si
+í'
+při čemž má symbol   II   přejíti v l , jeli r = O .
+Klademeli za r>2 násobky veličiny T, ,   přejde <l> ve funkce   theta   vyšších řádů; klaďme zvláště r, = r2 = T ,   a', = vt -f- « ,   íťu = í'2 -|- //,   pak bude
+celistvá funkce proměnné ?/, jež hoví podmínkám
+p(u _|_ 1) === ^""(») ,        F(u-4-r) = C~ 2-i'K-f »S4- ž« + O /«'(//) ,
+v ,   v   ,        v    , Y       ^i ~h ^2 z čehož plyne, ze r \n------'
+v              L
+Je funkcí   theta   řádu 2  a  známky  00-
+takže existují konstanty A , />' , tak aby
+Abychom tyto konstanty   určili,   položme jednou   // = -   —-^ —-
+po
+druhé
+l
+9
+— , čímž obdržíme
+i   »
+kde psáno jako ve všech našich publikacích t^2 místo i'>2 (O   7) ;   zbývá tedy určiti veličiny
+•7',,
+•( l~v>-(        2
+při čemž parametry r, , r„ funkce </* mají společnou hodnotu T.   Výrazy tyto
+jsou tvaru                                       ř/í / „   . _-\
+i ^~< ,        / *
+a tato veličina má dle (10) hodnotu
+-
+*   '
+~,"", U -**)(! -*1)- (l
+Jeli r sudé, bude
+^3 O''     -'O   —f^^ťO    -T)'
+jeli však r liché — 2/<-|- l , bude
+2r) = i^3 ^ -f 2/1 r , 2r) = q -*-""1 .'^ (r i 2 r) = ^-•/•'-i ^ (O \ 2r) ;
+V. ﻿(u)
+máme tedy
++ »tlO  -': Znamenámeli tedy
+Vo t~) =
+*i (-) = bude
+o U -</)(l-?4)
+.   u - ?2) (f=?) (i - '
+"" =    ""
+1 ""
+Í/J
+•
+Naše konstanty A , ^9 budou dle toho dány rovnicemi
+A -V = », (o á») V
+,' V = #, (O   2r) v.„    ^~*-    + *, (O   2
+a tudíž máme výsledek
+z*<l»(vt +*,v1-|-«   T,T)
+(13)
+Klademeli zde L>, = z/a = U , vznikne
+03a;
+při čemž znamenáno i/>0 , ip,  místo t/;0 (O), t/;, (O) .   Tím ukázáno, že lze součin
+výrazů
+^2 n — l a— *inu;t i
+),
+jn* g— lnu ni
+vyjádřiti transcendentami clliptickými.
+V. ﻿'i. Do kategorie uvažovaných výrazu spadají také ony, jež vyskytují se v theorii Ileineovy obecnější řady hypergeometrické. Vyložíme zde některé /vlastní výsledky, k nimž jsme byli vedeni opětným studiem svojí práce o Schendelově zobecnění řady Taylorovy, uveřejněné v prvém ročníku Věst-níka, ponechávajíce si na vhodnou příležitost podrobiti hlubšímu studiu tento důležitý druh veličin, mathematickým úvahám dosud tak málo přístupný.
+a] Bud' i] opětné menší jedné ve své hodnotě absolutní a hledejme, za příčinou jasnosti výkladu, známý jinak rozvoj inocninový funkce
+tato hoví rovnici
+W
+TT l
+M i
+l -\-vx
+a dá se pro dosti malá x vyjádřiti řadou tvaru
+v = 0
+a o hodnoty koefficientů Av této řady nám právě běží. Za tím účelem skytá nám vztah («)
+00                                         00
+V       v _    l i v x V
+7j  -d* x*        i _i_ „    2j     r * x* '
+= O                        l   *    r =í
+vynásobímeli v levo \ -\- x t a rovněž v právo, vznikne
+v = O
+»• - O
+Av
+v-i = /
+Av
+čili
+píšemcli zde za r hodnoty \ , 2 ,...'',   vznikne vzhledem k okolnosti patrné, že A{} = l , vzorec
+tedy
+i--/ ' ﻿8
+Tím dokázána důležitá věta
+°°     1  -U    « -;                   1 -
+(b)
+(a)
+při čemž lze pravou stranu symbolicky psáti
+i +
+Kladeních' v (a) za v nullu, vznikne
+1                                                                                                  tí
+
+o -?)(!-
+(|-y«t,) _3-
+,y, (l— *>)(!— g«0...q — g— '«0 ,„
+o -?)(i -*•).. -u -*"")
+co
+n (
+a=Q
+- q^ (l - 9) (l - ?*) "" (l - q) (l - ?») (l -
+(c)
+l íšemeli dále v (a) ?/ místo í/ x , a položímeli po té x — O , obdržíme
+oo
+nn   _,         x   __   j|       U      [              ^1«2             |                     ^3?^ ___       |
+a=0(                 "" r^ + a - ?) a - ^ "" "" '(r^Ki^íTCí^^y ""
+___                   __
+r (i ._ ř) (i - ?=) ( i ~^-S)77. (i - f) ^
+Rady (a) a (b) konvergují pouze v případě   x < l ,  kdežto řada (c) je konvergentní pro všecka u .
+Na místě (a) pišme vzorec rovnomocný
+„
+ff   l
+*
+g"" *
+— *) O
+a položme na okamžik
+(i -
+.
+""
+(l—
+-       -       L     --        _,   ,        -      —       ""      _, ,
+-(l-?)'3   ^(1-?)(1_?V      (l_?)(l_^)(l_7.-.)s
+Užijemeli zde věty binomické
+vznikne
+__ V)
+
+17__V v' — """""" ' — y "">""• V*        '/         v' (      IV („"" r^« l
+* - - 7 ""~r\—       /i        a\      7í        w —1\    \     */ ^/    /
+^*   (l — </) (l — q )... (l — fl*                                    V   J
+V. ﻿tedy
+kde položeno
+v =0
+& (i-?) O-
+-^-'»>)
+•
+takže patrně
+závorku lze obdržeti pomocí vzorce (a""), i bude
+c         /i         \         TT   l — qa + v + l<l'
+S,- = (l — V] qv x \         —L-
+;/      1JL     \—(ť + vx
+pravou stranu lze psáti
+a tedy bude
+(\.—v)qvx. JJ -y
+/( =V
+g.'i X
+kde výraz v závorce () má hodnotu x, jeli r = O .
+Dosazením nalezeného výrazu pro „V,, clo řady  f' vznikne
+Píšemcli zde — za r', máme vztah ř
+»   +___L^IL
+— </)*  '  (i —</)(! — i   T\       „\
+ff* + (l—q)(\—q*)(\ — fY*
+- g) (l - ^a)
+_ (l —vx) (l —qvx) (l — q*vx] (l — q*vx]... ^TT^1^) (l —                                         ~
+-|~ j       .        l   </'*   T^---        v                      v\            ,.         ~~j~ .  •  •    l    .
+v. ﻿10 Zde opět  klaďme v = l), abychom  měli zvláštní případ
+/**                                                                                                  /*»'2
+»<                                          i                                                         »*
+(c)
+(l -< 7) (l -?») (l -f) (l-?
+4v ~r • • •
+
+č     O-** (i -
+(l — a?) (l — Mimo to pišme v (d) v x = u a po té klaďme x = O , čímž vznikne
+i
+a.
+=- '/) » i -r?!)í    (T
+-?')(!-,
+(- l )* q\ »(»-») ?^«
+i- :     — rt — a - rt u — ""1-11
+Abychom uvedli další důsledek vzorce (d), differencujme vůči ?' a klaďme po té ?' = l ; i obdržíme tak identitu
+(g)
+CXJ                                                                                     OO
+HT^=<I-^.S,-(Í
+v ^*+«
++ (i-'/)s >j (    „
+n — I
+z   níž   specialisováním   hodnot s a .r   lze  obdr/eti   množství   výrazů  pro řadu Lambertovu.
+V."

@@ -1,0 +1,379 @@
+"","x"
+"1"," ﻿ROČNÍK  XVIII.
+TŘÍDA   II.
+( ÍSLO 35.
+Plochy W o čarách křivoznačných stejné geodetické křivosti.
+Napsal
+Dr. Frant. Velísek v Praze.
+(Předloženo   dne '25. června  1909.)
+Vztáhneme-li plochu na čáry křivoznačné, zjednoduší se vzorce Codazzi-ho udávající vztahy rotací triedru tvořeného tečnami k čarám křivoznačným a normálou plochy o lineárním elementu
+(1)                                     ds* = A* d n* + C* d v*
+na výrazy tyto (Darboux t.  II. str. 380):
+i   ar               i   a</                  i   ?PI
+(2)
+_i__3A
+/^    ^ /""* >
+lpi-
+Cdpovídaií-li   čarám  souřadným  hlavní poloměry   křivosti R,  Rlt platí vztahy
+P)                                  A' = -           ...
+Naliradíme-li v rovnicícli 2) A, C pomocí Tv1, Rv obdržíme:
+-IL.  _L (^   _/0 íř/     :^i         ]   •«     - 3^
+q       1             3 v '
+? H                Pí
+34
+Pro plochy W jsou hlavní poloměry křivosti funkcí jeden druhého, a tudíž možno v systému (4) první dvě rovnice integrovati. Při integraci *""é možno bráti funkce promímných u-, resp. v rovny l, poněvadž sférický
+XXXV. ﻿obraz   elementu   lineárního   dán  jest   výrazem   if d -u2 -j- pf d v~,   a   tedy potřebí voliti jen parametry čar křivoznačnvch vhodně. Pak jest:
+l~\                                       ,                   J   A', -K                      \   l,\~^W
+(.))                             />! = c                  ,    q—e*
+Položíme-li
+obdr/íme
+l                     !                      (f (k)                 w (k)
+("")      Pi~ ~n~ir\ -    q ^   r >   A -            > ' •   ( =—mr\—fí-
+9   (K)                  fí                          k                     (p   (k)
+I)osadíme-li tyto hodnoty pro p^ q do poslední rovnice (4), obdržíme pro určení k rovnici
+3     / k q)""  ^^\         c     / ^'    3^/v_\        _J_
+3« V (jp'2   a i* /.....d~v \ &  dv) ~~~h~y'
+Pro stejnost geodetických křivostí rar souřadných platí
+? /l            ? C
+9 v
+neb
+3 v  \ k Rovnici této vyhovíme, klademe-li
+/v
+pro kteréžto hodnoty nabývá rovnice (7) tvaru'
+32
+(l.
+,V (f
+Položíme-li
+obdržíme derivací rovnice (9) cíle w resj). dle y a srovnáním výsledku jako rovnici podmínečnou pro ^
+Pomccí relací t/;,,,, = /' tyui. = /'- ^,v , ť'„.  — /' ^;.;. atd., můžeme psáti předchozí rovnici
+< 10)        (2 /' f"" F"" + L> /""a /••'  i- /' /v// /••') ^..,.2 + :í /' /"" F' ^..,, = 0.
+Vyloučíme-li  pří|)ad  A'— kon«t.,  snadno se  přesvědčíme,  že řešení ^.,t, ^= o, neb F' =() nevyhovují.
+XXXV. ﻿Pro f"" — O plyne ií>,( = a #;. -j- alt oxnaOíme-li integrační stálé a, av Klademe-li v rovnici (]0) $,ÍV = o, t^;i^0, obdr/íme rovnici:
+2 F''        -2 j""        ť""
+- -j-      L - -i.   L_    = (ji
+jejíž řešením, znamenají-li U, V funkce u, resp. v, jsou \ýra/,y /'2 /"" p'i — ev      f'» f p'i = c\- t
+tedy proti předpokladu i/;,, = konst.
+Pro obecný případ piíme (10) ve tvaru:
+/""        P""         i
+7. čehož integrací dle v, resp. dle u obdržíme
+= O,
+f'2 f
+Musí tedy býti //3 = gt/ + K, a pak vychází F jako funkce U 4- V, což dle (9) není připustilo.
+Zbývá tudíž jako jediné možný případ
+^•„ = a ty,   -f- íř,_ , kde a možno klásti 1.   Pro funkci <p (&) plynou rovnice
+/ nichž eliminací 4\- jde
+(JO*)                        (f tp' + A2 ^' — A- o^ — í/j k y' — O.
+Substituce
+</! A' 03 -- A2 03 03  -     k
+dává
+,       í7j o»2 — 2 A to2 — í/, A'2 03' -- A2 03 — A3 03'
+;;, redukováno
+d 03
+03- (03 —
+(w - A)2
+(U)
+Označínie-li integrační konstantu C, obdržíme pro řas — a-,              ,.  A -— n,
+_____________*_   /»            -----   /      .                 ____*•      ,-»
+OJ
+l*
+XXXV ﻿při čemž
+ca —
+q> k
+-!- P--atA '
+Pudiž nejprve a, —0; pak jest pro integrační konstantu a., JL       J_                           /e!
+klademe-li nejprve «2 — O, a poněvadž 4>„,  = t^,,„, jest
+3_/ř        9 A 3 w         3 7' tedy k funkcí a -j- ?•'•
+Dosadíme-li pak za <jp jeho hodnotu do rovnice (7), plyne pro k výraz
+3 M  V 7e   3 v /        %v  \ k   3 « /        k* neb provedeno:
+Nepřipojíme-]i  při  druhé  integraci  additivní konstanty,   obdržíme e(u+*Yc> +e-i"" + 2
+kde G! značí integrační konstíintu.
+V tomto případě tedy obdržíme
+4 -- A     c-     --       K-    --       R    --
+tudíž   plochy   mini m á l n í.   Poněvadž pak
+máme tím specielní případ známého theoremu, že čáry křivoznačné a jich sférické obrazy tvoří systém iscthermický. Není-li a2 nullou, jest
+k
+Ví + a2
+V ! 4-«
+tedy
+-
+""
+l .._ Ví 4- «2A2 '              V l -f- íř2A- (l   -.  V l 4
+z čehož plyne relace mezi poloměry
+7?! +• R -   az K A'.   - (».
+xxx\. ﻿Poněvadž pok
+__k
+r —
+[ _. VT+a~&'
+tvoří i v tomto případe čáry kř ivoznačné systém isothermický. Z podmínky i)>HV = tyVH obdržíme opět,   že k jest funkcí u -f v,  a  použijeme-li výrazu
+l
+lává rovnice (7)
+k ví+ «,*«'   ?*••v k vj + >
+neb po provedení
+k k"" 4- a2 /?' k"" — ]•:'-      ""l řř.> /.'- /c'-Rovnice snadno se integruje.   Položme
+ii k'
+/?'   =r (O   fl    -l-   ířo «~)         A'       rrr:  /í    ~
+f^ ^
+/. toho
+Předchozí rovnice pak po snadné úpravě dává
+a tedv integrací
+:> ro- 4- J =
+14- a.Jí- '
+/načí-li Cj integrační konstantu. Zavedením hodnoty pro w obdržíme pro k v vraz, nehledíme-li k additivní konstantě,
+u 4- y = v L»
+k
+Řešení tedy vede k integrálu elliptickénm, vyjímaje případ C1 = a2, kdy obdržíme plochy minimální.
+Rovnice poslední se dá psáti ve tvaru
+« 4- -L^) O               ^
+(ř,/vv   "" c7-^/
+XXXV ﻿Abychom obdrželi plochy reellní, můžeme s ohledem na výraz pro <p připustiti jen případ}"" az > o, C\ > o při C± — a« > o, a «ř < o. Cl^> o. V prvním případě obdržíme
+«, (G i — az)  (     :
+2          l*+.|>)-
+V.:
+= f u
+nebo
+V případě druhém musí A1- býti v mezích
+""Č! + «,    ^   A"" ^   ří„   '
+a tedy rovnice přede.Uá má tvar
+i + a
+dk
+VY_L _«iWff-
+»   U2        / \         Ci
+2^?í- • l v^r*, V -^ Cl    i
+L                 »   C1 4- /ía J
+neb
+J-;t^ („ +.), V ..--1"" !
+^i 4~ ^c J
+Obrátíme ^e nyní k případu ^j ^ O, kdy platí rovnice (II)
+GJ  — Í7,         —
+,
+k
+kde
+GJ  ~
+Dle základních rovnic mezi ty a k plyne i nyní, že k jest jen funkcí argumentu u -{• v. Z rovnic předešlých a rovnice (7) dlužno určiti 7e. Rov-nire (7) po dosazení nabývá tvaru: ﻿k k"" (<p -f k9- — <?! /c)2 ('2 g?   - at /e) + A:'- («/ A? — 'í «ta W -f 2 at /o' - 5 tfj2 9 7e9 + 11 ii q> '':! - • 4 9 /e4 + C ť?1 <p2 A - S <p2 A- — 2 <p;i)
+(<p + A'2 ~ fli/0'
+
+neb při ponechání ca
+co4 A;'2 (-2 k — flj) -f «! A-'- (^ — 'l Ul A) + oj- ('> k1 k"" — :5 a1 /el A"" +
++ a? /c2 /;"" ~ l A;3 li'- —2 a? k //- -f r, «x # k'*) -\   av k- 03 .
+. (flj /í A;"" — & k"" + 2 /f /i'- — at ^'-) = A3 (/; — rt])2.
+Z této biquadratické a rovnice (11) dlužno vyjádřiti k. Provedení tohoto úkolu zdá se však v této formě ne-li nemožným, tedy aspoň příli-komplikovaným.
+Abychom dospěli k explicitnímu řešení, \yjcleme od lineárního elementu ve tvaru orthogonalně geodetickém
+d s- = d -h- + ^i2 d í'-.
+Čáry křivoznačné dány jsou v obecném případě tvarem (I) irboux. 1. II., str. 385)
+p d u*   l- G-L q^ d ?'- -j- (pí -;   q Gj) ti u d r = o ,
+(A]
+kde
+Dle známé věty mají symetrály čar souřadných pro uvedený tvar lineárního elementu stejnou geodetickou křivost. Rovnice jich obdržíme z výrazu pro úhel sevřený dvěma křivkama na ploše
+d u — Gl d v --- O ,    d li -f G! d v = O, neb spojením obou rovnic
+d u- — Gf d v- = o.
+Křivky dané touto rovnicí splňují ii:> podmínku stejné geodetické křivosti; stanou se křivoznačnvmi dle ro\nice (.4), kdyx
+Výpočet rotací a funkce Gt stane se jednodušším, vztáhneme-ii plochu n«i  čáry křivoznačné, jichž parametry buďte/ a, /3.   Pak existují vzť.ihv
+- (d u -j- G± d ?') = d cc,    — (d n - -• G i d v) — d /i ,
+A     '                                                          Aj
+kde A, Aj jsou integrační faktory.   Tyto musí splňovati relaci
+-? A         c A!
+XXXV. ﻿již splníme, klndeme-li
+Nabývá tedy lineární element tvaru
+2 d s2 — ^„2 d «2 4- t/>,.2 <f /32 .
+I7vážíme-ii, že dle předešlého musí býti součinitelé v tomto tvaru lin. elementu funkcemi argumentu « -|- fi, obdr/íme pro přechod od jedné soustavy k druhé, označíme- li integrační konstantu a^
+A (a 4 /j)
+« =
+/(« -f
+Lineární element má pak tvar (12)                             'l d s- = (^ + /')- d a- -L- ť2
+tedy
+n    -U   /'                       /'
+r =
+\ 2""
+\   L>
+Zbývá tedy ještě určiti / tak, b}7 (xáry souridné byly křivoznačnými. Použijerue-li rovnic  (2), obdržíme
+
+Eliminací <?z tohoto systému rovnic plyne pro p^ differenciální rovnice
+32
+/
+a 9 ji
+
+Označínic-li pak k vůli krátkosti  « -{- /i -- %,  plyne při integrační konstantě C: z této rovnice
+[L""<•. >•>!
+l   čí X~                                    '
+a podobné pro r/
+_i_    ______i______r,     ., r    /""      ^ if(*+n*x\
+q- '   r ďj     ,        „r- L '    "" J Hj + /' ^^2   '                     •
+!:de Czznačí integrační konstantu. Výrazy tyto mají pak splňovati posle.'ní 7. rovnic systému (13).
+XXXV ﻿Lineární element (12) můžeme však uvésti na tvar, jímž charakteri-sovány jsou plochy rozvinutelné na plochy rotíiční.   Stačí jen klásti
+M utviti 7. podmínky orthogonality čar souřadných
+funkci yr   Vychá/í
+Kterážto  fuiikce  splauie  zároveň požadavek,  abv koefficienty   při  d n-,2,
+J.             J                                        L                                                  */                                           .*        l
+./ í'i2 v lineárním elementu byly jen funkcemi v^ Položíme-li pak /;:. novou proměnnou
+r + K + /')2
+i píšeme místo nl . . . u, nabývá lin. element žádaného tvaru
+(U)
+flf s2 = TI'2 fíř 7/? -1- rf r3)
+kde TT jest funkcí y.
+K témuž výsledku bychom dospěli, vycházejíce od rovnic Codazzi-ho pro rotace triedru na ploše za daných podmínek problému předloženého, Vychází totiž, že na hledaných plochách uzavírají čáry křivoznačné s čarami konstantní totální křivosti podél celé délky každé z nich úhel stálý. Tím však dle známé poučky (Bulletin de la société mathématique de France t. XIX. p. Iftl) jsou charakterisovány plochy šroubové, které dle theoremu Bour-ova jsou rozvinutelny na plochy rotační, jichž lineární element možno psáti vždy ve tvaru (14).
+Formule Codazzi-ho pro rotace triedru tvořeného normálou plochy > tečnami na čáry souřadné pro tvar lineárního elmentu (14) dávají
+9 u
+(15)
+
+d   ( Uv \
+37VTFV-**-*-*•
+Pro lilavní poloměry křivosti pak obdržíme (Darboux, t. II., pag. 385)
+(17)           !            ]    JL(*L\
+RRl '      ~ II'-   rfw V If /'
+XXXV.
+J_      l ~k      Rk
+W ﻿10
+Pro  plochy  Weingarten-ovy   musí býti tedy  dle poslední  rovnice pí — q funkcí jen v. Položíme tedy
+(18)                                />j = ni + F,    q = m — V ,
+kde m jest funkcí u, v.
+Poslední z rovnic  (1(5) nabývá pak tvaru
+(19)                                p- -f w2 = V'1
+Tuto relaci splníme, položíme-li
+p = Fj cos T,    m — Fx sin r ,
+(""20) kde tedv
+Zavedený úhel r má určitý geometrický význam.  Zavedeme-li totiž do rovnice čar křivoznačných
+p d u2 + qíd v- + (q + />j) du dv = O hořejší hodnoty rotací, obdržíme místo ní
+cos T (d ir —- d v2) -f '2 sin r d u d v — O neb (B)                              cos T d u + (sin r -+- l) íč w =0.
+Cáry křivoznačné  svírají s čarami v = konst.   úhel co, daný relací
+co
+cos r
+d u
+sin T -(_ l '
+neb jednodušeji
+tg 2 OJ  =   — dg T.
+První dvě rovnice systému (16) dávají d
+(21) z čehož
+cos
+d v dr dv
+\- r V« cos r — F/ cos T = O
+— r       sn v—
+dr        r V + V             .         V'—r V\
+—--------p------cos v,     smr •-     —1ír~^ř771
+rf y             í •                                      r V + K
+při předpokladu Fj ^ 0.
+Z podmínky stejné geodetické křivosti čar křivoznačných, již obdržíme specialisací obecného vzorce pro tuto křivost čar na ploše daných rovnicí
+M d u + iV d v = o, XXXV. ﻿II
+A C     3u v  \ ,-12 w
+s«      V.42 A72     C2
+při lineárním elementu (i), plyne vzhledem k rovnici  (B) a A — C — JF relace
+2                                                      ___
+IT (V   l -j- ,sm r -i-  V  l   - sin r) = <) ,
+c v
+z níž integrací jde při integrační konstantě b
+W* (l + cos T) = b~.
+K   vůli   jednoduchosti   předpokládejme   b- — 1. ;   tím   vyjmut   jen případ, kdy tato konstanta jest milion.   Tedy
+(22)                                      IP (l -f- cos t) = 1.
+Z této rovnice a rovnic  (21) obdržíme vyloučením r U/            II""               II""
+ir
+tedy integrací
+F/
+FT
+F
+i ir
+l — IF- ' kde ĎJ značí integrační konstantu.   Použijeme-li relace
+sin"" T + cos2 T = L ,
+obdržíme dosazením za cos T a sin T z rovnic  (21) a  (22)
+TY       rV
+/i    n-^ _/i-v v    ir-   /    V r
+a použitím výrazu pro l'\
+wv — wv
+/ čehož integrací V = &   IF
+261inr/
+2 IF- — l          l + Y2 TF2 — l
+I^^TP    '   T:_ 1^9^
+'i
+kde ft2 integrační stálá.   Použijeme-li pak rovnice definující Fx
+]>ro  II' differenciální rovnici
+(l -- IF2)2
+__ V2 IF2 — l
+V2 ÍF- -l         ,   l        \ 2 IF2 — l
+_______^____________i       /   __
+</ s v ir
+XXXV ﻿Zaveďme do rovnice úhel r definovaný rovnici  (22)
+i    ir-                 \ 2 w*~\
+cos T =                      sin r — •
+fi/š
+tedv
+Rovnice (2.'5) nabývá tvaru l
+d-    .         r — :,   / COS d v-               ""2
+cos r
+o, 4- bí (tgr + l
+cos T
+První integrace dá\""á pro   -- :
+/ d            V     , , f         , cos 2 + s/
+l — / cos c ) — bf \2tgzl-
+\ d r            '          L            cos L — s?
+f
+h 2 Oj 62 ue L
+z + sin z Sin Z cos z 4- sin
+l              COS 2 4- s W
+2 cos- c       cos r —- sm
+2 cos- .;      cos ~    - sin z konečně druhá integrace
+V-2
+cos
+""i      i l//        , 14-s-mr\/\          ,14-SMÍT       \
+IVlc + l-           \\2sim—l-            ~c) + A (\ + cosr)
+•       '     \               COS T     /  \                        COS T
+kde -p- kladeno c, .4 pak značí   integrační  konstantu.   Výsledek   možno
+snadno uvésti pro tg — = y na tvar
+
+Tím provedeno řešení na quadraturu pro případ obecný;  výsledek v^ak nepřipouští jednoduchých applikací.
+Vd   f~W~'~\ F-    4-     ——      l      —JT-     j Av \ W J
+pomocí druhé rovnice (2J), která se redukuje na
+J/'         W'                                                                     W
+-==-   -  ——- = O,     neb j>r<; integrační konst. k .V — —^-,
+])odmínku  pro  \V
+JL ( """"
+dv v ir
+H  Jíl .- o ﻿Ponžijeme-li výrazu pro totální křivost  (17), obdržíme
+J        !
+Ř A*!   ^ :   /:-  '
+a pro střední křivost dle rovnice (17)
+2 V W
+tedy hlavní poloměry křivosti jsou stejné.   Plodní  hledaná jest plochou kulovou.
+Jsou-li rovnice (21) splněny identicky, tedy pro
+Y = o,   r v i- v = o,
+dr dlí
+O    při
+
+jest r konstantním, a tedy dle rovnice (22) i W.   Položme bez újmy všeobecnosti W = l .   Obdržíme pak z rovnice
+rr
+a na základě předchozích relací
+V\ = F = yfe (konst.) .
+Poněvadž totální křivost jest nullou, obdržíme plochy rozvinut elné, o střední stálé křivosti. Poněvadž i rotace triedru jsou konstantní, mají čáry křivoznačné geodetickou křivost míliovou. Kdybychom použili známých relací pro úhly Euler-ovy (Darboux, t. II., p. 52), a rovnic vyjadřujících souřadnice plochy pomocí translací a těchto úhlů, obdržíme snadno
+x = kouši, sin (k i v — A'.: u),    y = konst. cos (kl v — k.2 u),
+kde kv k2 jsou konstanty, a součinitel při funkcích v obou rovnicích ty/. ledy spojením obou rovnic
+x- -f- y- = konst.
+Obdržíme tedy plochy válcové rotační, což souhlasí s větou, že jsou-li čár}7 křivo/načné geodetickými, musí býťi v rovinách kolmých na plochu. Pro
+k - O
+obdržíme rovinu, ježto totální i střední křivost jest nullou.
+Kdybychom hledali čáry křivoznačné konstantní geodetické křivosti, dává totální křivost vyjádřená geodetickými poloměry čar souřadných
+-
+RRI
+as.
+XXXV. ﻿14
+ihned, že plocha hledaná musí býti pseudosférickou.  Klademe-li pak v li neárním elementu (1) geodetické křivusti rovny a, tedy
+i             i    ar
+= a =
+l      3/1
+obdržíme z čehož
+A C   č u ' a A d u -l- a (
+= a =
+A C    37''
+3 u 9 v         3 u    í v
+a označíme-li  L7,  F funkce argumentu u, resp. a, obdržíme jako řešení
+Element lineární nabývá pak tvaru
+1
+neb zavedeme-li nové proměnné rovnicemi
+«! == J L7' du=U,      Vl = \ Vdv = V, l
+d ^  =        2  (      21-. a v     ('^ Wl2  4-» °12)  •
+Cáry souřadné musí tedy tvořiti systém isothermický. Vyjádříme-li však podmínku pro čáry křivoznačné (2), neobdržíme reelního řešení, vyjímáme-li totální křivost míliovou.
+Předpokládáme-li konečně v rovnicích (21) sin r = O, kdy tedy čáry křivoznačné půlí úhly čar souřadných, obdržíme
+V
+a dosazením do výrazu
+pro funkci TF rovnici
+
+d v  \  ÍT
+
+4- a* W* — W = O,
+jejíž řešení  vede k elliptickým   integrálťiin a dává   isothermické   plochy v úvodě projednávané."

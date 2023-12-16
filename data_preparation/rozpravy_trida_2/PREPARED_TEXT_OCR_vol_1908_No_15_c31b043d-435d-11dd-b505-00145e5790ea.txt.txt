@@ -1,0 +1,2516 @@
+"","x"
+"1"," ﻿ROČNÍK XVII. TŘÍDA II. ČÍSLO
+
+
+Poznámky theorii funkce
+
+
+(a, btv, x~a —x)~b ev* x*~l —x}b~l dx.
+
+
+
+
+
+Podává Lerch Brně.
+
+
+Předloženo dne března 1908.
+
+
+Před dávnými lety zabýval jsem omezenými integrály typu
+
+
+gvx a-1 ---%} b-l fa, C-u* Za~l(v b-1dz,
+
+
+
+
+
+nalézaje hlavně pod vlivem prací Kummerových Dirichletových; vztahy, které vládnou transcendentními tohoto diuhu, lze obyčejně odvoditi jako krajní případy vztahů známých tiieorie hypergeometrické řady. poslední době výrazy tohoto druhu vyskytly důležitých otázkách elektrotechniky nautiky; tato okolnost mne přiměla tomu, jsem tomuto předmětu vrátil, nabyv dííve nových výsledků pomocí svého zv. principu nejrychlejší konvergence.
+
+
+této práci chci vyložiti tcliko výsledky týkající funko.-
+
+
+(1) (a, =x-a -'' cvxxa~l
+
+
+dx.
+
+
+k<erou dle nu'ho soudu zjednoduší výpočty pp. Arnolda Mie
+
+
+prvé prací citovaných uvažuje Mie funkce qpl)0 (.v), cplo (.v) qp(U (,v), které naší symbolice znějí
+
+
+<p()0 (x) =x(l e-** 0(\. r,l <p10 (x) c~vx ('2
+
+
+při čemž zde užito litery místě autorova T'.
+
+
+Gustav Mie, Ober die KurzschluBstromkurve eir.es Gleichstromankers (Zcit-chrift Matli. Phys., s/. 53; 1906). Arnold Mie, Klcktrotechnische /citschrift, 1899.
+
+
+Rozpravy. II. tř. Roč. XVII. Čfs. 15.
+
+
+XV. ﻿I.
+
+
+Vyšetrme nejdříve povahu funkce (1) okolí bodu tam platí rozvoj
+
+
+ev* b~l í-2 +.....
+
+
+jehož součinitelé jsou celistvé racionálně funkce veličin bav, násobíme-li differenciálem
+
+
+x""-1
+
+
+integrujeme-li, obdržíme pro funkci
+
+
+('2) (a, \ev*x«—1 x)h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrál (2) vyžaduje své existenci podmínku, aby reálná část veličiny byla kladná; vynechárne-li však podmínku, aby byl integrál omezený, bude řada (3) při libovolném které není nullou neb záporným číslem celistvým, rovna integrálu
+
+
+cv* xa-] ''-1
+
+
+vhodně volenou konstantou, možno (.'$) zvoliti definici funkce t/; (a, x). tedy
+
+
+(9)
+
+
+x)b (a, x—aty (a,
+
+
+
+
+
+—TT
+
+
+řada konvergentní oboru \x\ která vůči proměnným celistvou, vůči toliko jednoznačnou, majíc polárná místa zvláštní prvého stupně
+
+
+Podíl
+
+
+
+
+
+
+
+
+(a,
+
+
+jest celistvou funkcí (transcendentní) vůči proměnným pokud absolutní hodnota zůstává menší jedné. tomto oboru funkce naše rozvoj
+
+
+(4)
+
+
+-7-
+
+
+
+
+
+a(a+l) při čemž C2, C3, ... jsou celistvé racionalné funkce veličin
+
+
+XV. ﻿Abychom určili tyto veličiny blíže, užijeme differencialné rovnice cvx
+
+
+___
+
+
+W-rfV ^^V
+
+
+která vychází bezprostředně definice (1). Pišme tvaru
+
+
+(x*
+
+
+[(a a]® -}- cvx
+
+
+hledaný rozvoj bud přehlednějším tvaru
+
+
+Rozviňme levou stranu rovnice (51) dle mocnin vyjadřme, součinitel při rovná mílie; obdržíme tak vztah
+
+
+(li) kv-l
+
+
+
+
+
+platný pro '2, ... při čemž /e_x —0.
+
+
+Zaveďme nyní obvyklé mých pracích označení
+
+
+F(a
+
+
+(a,
+
+
+tedy zvláště (a, (a, a', pak bude lze rovnici (0) psáti
+
+
+(a,
+
+
+
+
+
+í«,
+
+
+(a,
+
+
+
+
+
+sečtěme obou stranách pro =1, ... uvažme, k;,= rovná pravé straně psané pro obdržíme
+
+
+(a,
+
+
+
+
+
+
+
+
+(a,
+
+
+tedy
+
+
+
+
+
+(«.
+
+
+Poněvadž
+
+
+
+
+
+máme výraz pro součinitele řady (4)
+
+
+
+
+
+(•i') (a,
+
+
+Nalezený rozvoj
+
+
+(4*) »(fl,M,*)
+
+
+K4J0 (a, í-lQv\ konverguje skutečně toliko podmínky \x\
+
+
+XV.
+
+
+﻿Předpokládejme, není záporné číslo celistvé neb nulla; pak existuje řada stále konvergentní
+
+
+(a,
+
+
+
+
+
+bude lze psáti
+
+
+
+
+
+(a,
+
+
+
+
+
+UZ,
+
+
+„.írÍiv' ""^
+
+
+pravá strana rovnice (4*) tak rozpadne dvě části
+
+
+(7) (a, (a, (a, (a, x),
+
+
+kde položeno
+
+
+11} (a,
+
+
+''""'""•*;==L *"" b,v
+
+
+
+
+
+(íí «•)
+
+
+~"" (a,
+
+
+
+
+
+(9)
+
+
+Řada (8) konverguje toliko oboru |#|< naproti tomu řada (í>) stále konvergentní, tak/e (a, ,r) celistvá funkce transcendentní proměnných jednoznačná vůči nemající jiných singularit vůči mimo póly -f- =0, .'.}, takže bude
+
+
+(10)
+
+
+
+
+
+(a,
+
+
+celistvou funkcí všech čtyř proměnných .', První řadu ('.*) lze
+
+
+lépe psáti
+
+
+""f ~jj
+
+
+\^\ v""•
+
+
+(«. 1)!
+
+
+(9*) n(a, b,v,x)=
+
+
+pozoruhodné, při -\- veškery členy, nichž «í, jsou konečný, takže pak výraz (10) bude vyjádřen konečným počtem mocnin bude celistvou racionalnou funkcí stupně ;;/.
+
+
+Pro patrně 77= rovnice (7)
+
+
+(U)
+
+
+(a, (a, (a, =#-*(! x)—b xa~l %)*-' Í/A-.
+
+
+xv. ﻿Pokud reálné části veličin jsou kladné, lze psáti
+
+
+první integrál pravé straně hodnotu
+
+
+druhý substituci obdrží tvar
+
+
+
+
+
+tj''~l rt] a~l r},
+
+
+
+
+
+takže, vychází
+
+
+
+
+
+
+
+
+
+
+
+čili
+
+
+(a,
+
+
+Pokud jsou různý nully záporných čísel celistvých pokud leží př. mezi konvergují obě řady
+
+
+
+
+
+•""-)
+
+
+(a, x}= xll (b, x)= -jj-------~- x)""
+
+
+*_J -4-1) (o,
+
+
+
+
+
+jsou jednoznačné funkce proměnných rovnice (12) zůstává pak platnou pro všecky řečené soustavy hodnot jakožto jejich funkce analytická.
+
+
+pravé straně rovnice (12) druhý člen funkce pravidelná bodě x-=\, vychází tedy, ,,funkce (a,b,x] místě chová tak •jako funkce
+
+
+jest tedy místem zvláštním funkce konečnu její jediným.
+
+
+Podobný vztah jako (12) objeví funkce bude především
+
+
+
+
+
+míti hodnotu
+
+
+
+
+
+.___ ^.\ -------------------;----------
+
+
+^^H
+
+
+﻿Substitucí vyjde integrálu (13) vztah
+
+
+(U) (a, K(b.
+
+
+tedy též
+
+
+(14i) K(a,b,v)=:e* (b,a,
+
+
+Upneme nyní svoji pozornost integrál (2); možno jej psáti
+
+
+
+
+
+(#)= (e**x*~l x)l>-ldx—( e»*%*-1 l)''-1
+
+
+
+
+
+užije-li vzorce (13) klade-li druhém integrálu r;, vyjde (15) tf> (a, A;) (a, e1' (b,
+
+
+odtud obdrží
+
+
+(1(5) (a, (a, x~a -'> (b, Vyjádří-li obě strany základě vzorce (7), obdržíme
+
+
+(a, (a, (a, (a, x~a ~ev (b, (b, (b,
+
+
+čili vzhledem vlastnostem (12), (131) (141) (a,
+
+
+K(a, x~a -<> (b, prvé členy obou stranách jsou patrně rovny, nacházíme tak rovnici (17) (a, (b, a,—
+
+
+II.
+
+
+Funkce (a, hoví diíferencialné rovnici
+
+
+
+
+
+
+
+
+kterou obdržíme přímo rovnice (11) diíferencováním. užijeme vyšetření funkce
+
+
+
+
+
+3JÍ (a, e»* (a,
+
+
+Existence tohoto integrálu zajištěna podmínkou, aby nebylo celistvé číslo záporné neb mília, dále aby reálná část byla rnenší jedné.
+
+
+Neboť lze integrovati přímo dle rozvoje (8) načež roz-
+
+
+klad (12) umožní integraci x=-4)-do x=\. ﻿Dříve však určíme integrál
+
+
+3JÍ (a, (a, 3JI
+
+
+podmínek užších, nichž pak snadno budeme moci vyzouti. Ježto
+
+
+(a, *-- *)-'' v""""
+
+
+substituci /ní
+
+
+H(a,b,x) (l—x)-b\ rja~l T?)6
+
+
+obdržíme
+
+
+3JÍ
+
+
+
+
+
+Položme místě
+
+
+
+
+
+
+
+
+obdržíme
+
+
+""~i
+
+
+li? —Ifl
+
+
+i-g
+
+
+r/)s
+
+
+
+
+
+
+
+
+^a—l
+
+
+^^nrdídr';
+
+
+při tom jsme předpokládali reálné části veličin mezích Pomocí geometrické řady
+
+
+V""
+
+
+=y>švrr
+
+
+
+
+
+obdržíme pak
+
+
+ježto
+
+
+
+
+
+
+
+
+
+
+
+r(y) r(.v)
+
+
+(fl b—l v/' nacházíme vzhledem známé rovnici
+
+
+cv) (.v)
+
+
+l>ři označeni
+
+
+(20)
+
+
+výsledek
+
+
+(21)
+
+
+((, »(<.)-* (i-*) ,„_,,,
+
+
+
+
+
+XV.
+
+
+předeslavše, obraťme rovnici (18), kterou přepišme tvar
+
+
+[(to
+
+
+
+
+
+Odtud plyne
+
+
+
+
+
+(22) (x- -v) c""x [(a cu*H c«x -_=
+
+
+
+
+
+ježto předpokládáme reálnou část veličiny mezích vymizí součin
+
+
+(x- (x)
+
+
+mezích takže
+
+
+(xz .v) t**dH (*2 (x) c"" (x)
+
+
+«.'
+
+
+
+
+
+zavede-li prozatímné označení
+
+
+tyl (a, e»x
+
+
+
+
+
+bude
+
+
+
+
+
+(x* c"" (a, rfM*
+
+
+tedy nalezený právě výraz
+
+
+(x)dx=(a
+
+
+dále jest
+
+
+
+
+
+c""
+
+
+tedy zní (22) změně znamení
+
+
+(22i)
+
+
+
+
+
+
+
+
+duz
+
+
+Zavedme prozatím značky
+
+
+aby rovnice (221) mohla psáti tvaru
+
+
+/OO'2\ /.' ,,\
+
+
+c""—
+
+
+XV. ﻿VypOČteme-li obou stranách ;/-té derivace pro =0, obdržíme
+
+
+vztah
+
+
+a'+ b'} odtud pak
+
+
+
+
+
+(23)
+
+
+(()) «') /<""> (<)) 1,2,
+
+
+(«', (a1, (a,
+
+
+Sečte-li obou stranách pro '2, —-l, vyjde
+
+
+(a',
+
+
+tedv
+
+
+(2S*j ř<»>(0) -(PAgL (0. (a'> («' //, /O7 («'+ />',
+
+
+
+
+
+(0)
+
+
+
+
+
+Maclaurinova řada funkce bude zníti
+
+
+Jwtin\a(a' b'\l)
+
+
+(a',
+
+
+(24)
+
+
+(„,
+
+
+-1)
+
+
+(ťř',
+
+
+Považujíce konstantu, předpokládejme, j-je blízké zápornému číslu celistvému /;/; pak lze náš výraz psáti
+
+
+C2~>) 3)i (a.b.u)
+
+
+ti- («.) ti- —;/»— (íř'-;/) ""•""
+
+
+
+
+
+
+
+
+•;/!
+
+
+-;;/ ])'
+
+
+;/; L)**i (a,
+
+
+
+
+
+Výraz uvnitř hranaté závorky musí vymizeti pro musí t|>(í/) (íř in—•!) (ď,n) u""
+
+
+•;/! 1)!
+
+
+
+
+
+
+
+
+(cť, 11) }}_
+
+
+(n— 1)~! 21l v(íř',v)""
+
+
+
+
+
+XV. ﻿10
+
+
+druhé radě vzhledem podmínce vnitřní součet
+
+
+
+
+
+;;/,
+
+
+
+
+
+
+
+
+(a', (a1,
+
+
+v=l v=l
+
+
+nezávislý takže rovnice poslední bude zníti
+
+
+(a) ni,
+
+
+i»=
+
+
+
+
+
+1)1
+
+
+vWT^T
+
+
+(a'> M>t
+
+
+
+
+
+•»!
+
+
+musí tedy
+
+
+(26) aneb lépe
+
+
+(a) ;;/
+
+
+
+
+
+(a'
+
+
+ttb
+
+
+7^l>
+
+
+
+
+
+
+
+
+
+
+
+Avšak derivace uzávorkovaného výrazu pravé straně rovnice (2o příliš složitá; bude lépe uvolniti výraz takto
+
+
+(25i) «|K(rt, Ď,ÍÍ)
+
+
+(a}—
+
+
+
+
+
+(a', u""
+
+
+fJ()
+
+
+(«' u""
+
+
+
+
+
+stanoviti hodnotu levé strany pro jako stálý člen rozvoje dle mocnin proměnné především máme
+
+
+
+
+
+
+
+
+tedv
+
+
+(«',
+
+
+
+
+
+
+
+
+11)
+
+
+(a', (ni 1)!
+
+
+řadě
+
+
+Si,-
+
+
+M""
+
+
+
+
+
+
+
+
+
+
+
+a',
+
+
+jsou jmenovatelé F(« /// pravidelní Třeba ještě znáti stálý člen rozvoje funkce F(- |); jest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XV. ﻿11
+
+
+tedy
+
+
+
+
+
+
+
+
+
+
+
+kde (L) značí mocninnou řadu, která mizí zároveň Výsledek ten lze přehledněji psáti
+
+
+
+
+
+'''-'• •••' -p\t
+
+
+Obraťme nyní řadě tam bude
+
+
+(l)
+
+
+
+
+
+
+
+
+
+
+
+ŠLív v)! (a', (V_w_2)!
+
+
+
+
+
+tedy
+
+
+
+
+
+,«+!
+
+
+w""
+
+
+a',
+
+
+
+
+
+v«,
+
+
+1)! v)! (a', (a',
+
+
+lil
+
+
+(í).
+
+
+jsou členové počínaje nekoneční pro naproti tomu členové ... ;;z jsou koneční; tedy
+
+
+1)"" (af, M""
+
+
+-LJ-n! ;;z (;« (;»
+
+
+n=0 i(i
+
+
+bude dle (27) zníti
+
+
+
+
+
+^ňrr
+
+
+
+
+
+n\ňT(m—\}.
+
+
+'"" (a'> (n---;;/)
+
+
+1)!
+
+
+
+
+
+
+
+
+l)!
+
+
+(a', tt""
+
+
+l(! -t-
+
+
+
+
+
+čili
+
+
+(=1(1
+
+
+(ar, u""
+
+
+ni\ ii\ in— 1)!
+
+
+
+
+
+1)1
+
+
+(I),
+
+
+XV. ﻿12
+
+
+tedy
+
+
+
+
+
+(a) jt(a
+
+
+
+
+
+rty (a) •—ty •—m-—1) ty'(a (•—1)'"" (a',n)u""
+
+
+rty
+
+
+l)2
+
+
+»i! 1)1 11=111
+
+
+kde značí výraz
+
+
+ÝY.D.Jíl^ fcJ
+
+
+/<**
+
+
+!(w—m—Ij!
+
+
+
+
+
+Podmínka -\- —-1=1
+
+
+tak lze shrnutí výsledku 1), •"">) psáti
+
+
+(a, M.)
+
+
+
+
+
+
+
+
+
+
+
+;// 1)!
+
+
+(a', (ni -f- 1)!
+
+
+m—l)l\LJr v(m+l v)l(a',v)
+
+
+r-i (v— ;;/ 2)1
+
+
+
+
+
+(a',
+
+
+111+
+
+
+(a'', ""*
+
+
+m—1)1 v(ni v)l (a',
+
+
+V=~\.
+
+
+Volme zvláštní případ /;/ =0, kdy totiž a-\-b =2; výraz značné zjednoduší bude
+
+
+
+
+
+
+
+
+111
+
+
+(a', u""
+
+
+n\(n— 1)! ,n)u»]
+
+
+a',n)u"" rty (1) (n) \?(v
+
+
+i(»—2)!1
+
+
+(a',
+
+
+n\(n—\\l
+
+
+zde výraz druhé řádce zruší víiči první části řádky třetí jeden člen, vyjde
+
+
+XV. ﻿(ar, u""
+
+
+(v— 2)!_
+
+
+»!(«— («',
+
+
+i»=2
+
+
+
+
+
+(v— 2)! (a'-\-v, —-v)
+
+
+n\(n—l) Jiné stanovení integrálu 9Jř (a, obdržíme výrazu
+
+
+x}-''dx x""~l x)1""
+
+
+částečnou integrací, při čemž budeme prozatím předpokládati, reálné
+
+
+části veličin jsou mezích Obrdžíme
+
+
+
+
+
+J=\e**x-*(l~x)-b x"" -l(l x)'>-ldx
+
+
+x*-1 x)1'-1 \eux x-*(l—x] -''
+
+
+
+
+
+~~FT
+
+
+poněvadž
+
+
+
+
+
+lze tento vztah psáti (29)
+
+
+cotga*+cotg&*
+
+
+
+
+
+(a,
+
+
+cotg an-\- cotg
+
+
+íř, /;, //)— (l— rt, -v) dx.
+
+
+-\-
+
+
+
+
+
+Integrál pravé straně přicházející pak určí pomocí v/.oicc (7)
+
+
+Q(l—a,I H(l a,l—
+
+
+tvaru
+
+
+—a, H(l
+
+
+(110
+
+
+﻿14
+
+
+jest především dle (í)), píšeme-li opětně b',
+
+
+(cť, b',
+
+
+
+
+
+dle (21)
+
+
+(a' +b',
+
+
+(a'> Ut>
+
+
+<*•*>*>-S ;iVl
+
+
+
+
+
+tt-^V-----
+
+
+
+
+
+takže dle (29) bude
+
+
+a-\-
+
+
+
+
+
+-f- (a', b',
+
+
+Ježto
+
+
+cotg tř> tř> («•) cotg (b) i}; zjednoduší poslední výsledek jak následuje:
+
+
+(30)
+
+
+(«,
+
+
+
+
+
+_8, i_,
+
+
+Píše-li řada pravé straně tvaru
+
+
+rr-.
+
+
+(a' -f- b',
+
+
+(#',
+
+
+„>'-y)M""
+
+
+jUjir! («' 6',
+
+
+obdržíme pouhou změnou sčítacího pořadu, píšíce
+
+
+
+
+
+u""!
+
+
+(a' b', («', tím vychází novo rovnice (24;.
+
+
+lil.
+
+
+Výsledky právě odvozené slouží stanovení integrálů
+
+
+
+
+
+A^' (xf< (l—x)ť (x) (x) C-™ (a,
+
+
+které applikacích jsou důležité. rovnice (7) máme
+
+
+W(x) (a, C-""* (a, e~^n(a,
+
+
+XV.
+
+
+tedy kde
+
+
+(a,b, fíp^,
+
+
+
+
+
+l'>ft,p' xfl (a,
+
+
+
+
+
+
+
+
+r/"" M__r\ f*' g-~v*
+
+
+•ii ./v
+
+
+
+
+
+obdrží pomocí (9) příme
+
+
+
+
+
+(a, i')
+
+
+pří čemž integrály vyčíslí zakončeném tvaru, dále určí pomocí derivací funkce SDI (a, l>, pro —v.
+
+
+případě -4- pišme rovnici })rvý člen pi^me
+
+
+(29)
+
+
+cotg cotg r-^—
+
+
+(fl 6—2)
+
+
+jest
+
+
+fl, »)=L-
+
+
+cotg cotg
+
+
+tedy nám poskytne vzorec (29)
+
+
+sin-
+
+
+(v— 1)!
+
+
+sin-
+
+
+,____ fiV
+
+
+(3J1) m(— ~.n~ .V(— \y±—L-L— o>(—
+
+
+sin- (v—
+
+
+V=l
+
+
+vzorci (10) veličina
+
+
+dx.
+
+
+zůstává určitou pro tedy máme dle téhož vzorce
+
+
+,v)~r— e-* (T, x),
+
+
+kde
+
+
+
+
+
+v=l
+
+
+
+
+
+﻿Následovně bude
+
+
+t'-'1 \<L(T,— —x) dx,
+
+
+prvý člen pravé strany lze psáti
+
+
+v\(v— 1)!
+
+
+vypadne rovnice (.'U1) dosazení hodnoty (:}!-); tedy máme
+
+
+
+
+
+(•51) 9JČ 7') c~~v \<P (T, 7', ;Y) dx.
+
+
+
+
+
+Funkci
+
+
+(T,
+
+
+chceme vyšetři jako krajní hodnotu funkce
+
+
+.ví (Tt, X), (tl -f- která dle (7), (8) (!)) splývá výrazem
+
+
+(TJ, 71) (TI, .v) (rl,
+
+
+~/~ ""f
+
+
+
+
+
+T,, V""
+
+
+
+
+
+
+
+
+?!,
+
+
+tii±: iri>
+
+
+(*!.*+ VL+1VI(1+Š>V-V
+
+
+při tom jsme funkci 77v\jádřili prvým tvarem (!)) isolovali jsme člen Vynásobíme-li první dvě závork}^ zruší se. člen
+
+
+
+
+
+-1'
+
+
+zbude
+
+
+
+
+
+
+
+
+(*P»+1)
+
+
+i/) 7;y
+
+
+r^~-^ry;
+
+
+zde provede přechod krajní hodnotě bezprostředně objeví tvar
+
+
+(T> (v—• i)'.
+
+
+1)! (r,
+
+
+
+
+
+XV. ﻿zde
+
+
+tedy
+
+
+
+
+
+(v—-l)!*"" n\x""
+
+
+LTTir! (F+TF+ir: rn(r-
+
+
+(*• 7>B V^T I.V) «""
+
+
+-,-/— -rr; >--------- -f- '/'
+
+
+(v— 1)! -!- I)!
+
+
+(r, r,v,x)- -\- 7>)
+
+
+\""' Zde tedy bude
+
+
+(l, 7',
+
+
+7.'
+
+
+
+
+
+
+
+
+?•)-->
+
+
+^(•«. (r,n
+
+
+Integrál
+
+
+
+
+
+(0) ^Y// -i-r, r.íf
+
+
+určí podle (2o*) ve, tvaru
+
+
+l)\
+
+
+x.de řř' -f- 0.' -}- takže vxorer
+
+
+
+
+
+precháxí tvar neurčitý--; pravá hodnota veličiny jest tedy
+
+
+(O) ^'(ÍT) ==^'(] +»), /'(O) -r^'(l +r) následkem toho poslední výraz pro
+
+
+
+
+
+zníti
+
+
+(T, 7-, 7.) l)]
+
+
+
+
+
+
+
+
+l)! '•"">'•""
+
+
+'•'
+
+
+Ho/ prav II. R-f. XVII Čís
+
+
+﻿1S
+
+
+takže máme pro integrál
+
+
+
+
+
+71) '•. .r)
+
+
+vyjádření plynoucí rovnice, (.'51)
+
+
+9tt í.') -!' l)]
+
+
+(i;
+
+
+-')!
+
+
+r,»+l)l
+
+
+
+
+
+Znajíce tento výraz, můžeme stanoviti integrál
+
+
+
+
+
+--0i tvxdx
+
+
+
+
+
+bdržíme totiž pomocí (7)
+
+
+-r,r, d.\ K(\ -i- -T, .v)
+
+
+
+
+
+
+
+
+""' -:- .v) rf.Y.
+
+
+tedy (34)
+
+
+kde
+
+
+-f-*,
+
+
+(í-1 U-""' í/.f
+
+
+
+
+
+Rada (8) našV.m případe
+
+
+1)1 x""
+
+
+konverguje stejné rychle jako rada
+
+
+tedy pro malá zvoln;i, bylo naivní chtít stanovit integrály SDÍ (u] integrací člen členu této řady, pokud nepřevýší určitou mez. Pro možno-li spokojiti menším počtem desetinek, jednoduchá tato methoda ovšem dostačí. Naproti tomu jsou řad\ vyskytující vzorcích (:}3) (.'54) usta\'ičnč konvergentní tedy velmi rychle sběžné, vezrno-li počtu dostatečný počet členů. ﻿l!)
+
+
+tkne funkce
+
+
+(a, --=
+
+
+
+
+
+podáme- níže (1\ "".) řetězový rozvoj její logarithmické derivace; tím bude hodnotou (<!) určena také hodnota A'' (u); pomocí differencialní rovnice
+
+
+které hoví funkce (a, (>, v), vypočtou pak všecky následující derivace tedy též koeffieienty Taylorova rozvoje funkce (v) okolí bodu v.*)
+
+
+tkne funkce (a, x), vložme integrálu (11)
+
+
+vyjde
+
+
+tedy (35)
+
+
+
+
+
+
+
+
+(«,
+
+
+
+
+
+
+
+
+Je-li celistvé kladné číslo, převede pravá strana integrací částech stanovení funkce
+
+
+
+
+
+pro niž podal již Lagrange rychle konvergentní rozvoj řetězový,**) který následujícím rozšíříme případ obecný.
+
+
+Poznamenejme ještě pro případ '2, lze pomocí vzorce (35) verifikovati rovnici
+
+
+
+
+
+
+
+
+níž vychází integrací dle (36)
+
+
+
+
+
+J(a)V+ («+l)
+
+
+4ríTr= H(x)dx,H(x}=H(a,2-a,x).
+
+
+jiné řešení léhox })roblému podáme jedné příštích rozprav.
+
+
+**) Lagrangeova funkce jest integrál integrál varu (35l).
+
+
+substitucí objeví
+
+
+XV. ﻿Pro máme odtud zvláštní případ vzorce
+
+
+
+
+
+
+
+
+
+
+
+řady, kterou jsnu' definovali funkci (.v) pak obdržíme jednoduchou transformací
+
+
+(a, .v) x},
+
+
+
+
+
+
+
+
+vložímc-li sem obdržíme pomocí předešlé rovnici'
+
+
+H(l a,l a,l)=-
+
+
+""~~
+
+
+Jiný zajímavý detail vychází (.'H)) pro
+
+
+čili píše-li
+
+
+(37)
+
+
+
+
+
+IV.
+
+
+Jiná vyjádření funkce (u, plynou jako zvláštní případy řady hypergeometrické, sice vytkl Schaeffer rozpravě a-t
+
+
+—l—ift
+
+
++1)
+
+
+kteréžto vzorce zde prostě přepisuji:
+
+
+r(«)
+
+
+
+
+
+(38) H(a,b,x)
+
+
+___r ^'-
+
+
+t)h
+
+
+
+
+
+
+
+
+(a) rí-!>(l+t
+
+
+
+
+
+Crelicúv žurnál, sv. 37-, str. 127.
+
+
+XV. ﻿21
+
+
+První těchto t\'<iru funkce (<?, nás povede odvození řetězového rozvoje jejího, při čemž nám bude toliko nápodobiti postup /nániý prací Cebyseva mechanické kvadratuře.
+
+
+Uvažujme polynom
+
+
+(:'.!») I>„ (l) --xť ""(l--/)' *D?\tn*m l(l— /)""+í '],
+
+
+něm/ /nací dvě konstanty kladnou částí reálnou, konstantu, již po/ději přiměřeně /volíme; znací-li nám (t) libovolný polynom stupně bude
+
+
+(4o)
+
+
+(t) (t)
+
+
+neboť odstranění konstanty tento integrál
+
+
+/7(/) />•' [/""
+
+
+
+
+
+bude při označení
+
+
+(t) v.- *""+«-
+
+
+zníti
+
+
+
+
+
+nv^ dt;
+
+
+
+
+
+integrál tento určí podle vzorce
+
+
+/ile jest identicky n{""'1 —O, ježto reálné části veličin jsou kladné' zmizí hodnoty v("" íj(""~2), bodech t—\, takže bude
+
+
+
+
+
+HV(""ldt=0,
+
+
+jak tvrzeno.
+
+
+rozvoji integrálu
+
+
+
+
+
+/v',,
+
+
+dle mocnin vvmizí součinitelé při x°, .v1, .v2, x""~l, znamenáme-li
+
+
+T>„ (t}
+
+
+XV. ﻿bude při označení
+
+
+
+
+
+r'C)
+
+
+předešlý výraz zníti
+
+
+
+
+
+(43) (*)=*.(*)
+
+
+odtud plyne (44)
+
+
+c-'- ríl
+
+
+/;„ (.v)
+
+
+Zde (x} patrně celistvá racionálna funkce proměnné .v, rovnice (44) vychází,
+
+
+Q*(*}
+
+
+sbližný zlomek řetězo\'ého roz\'oje j)ro lunkci le\-é straně rovnice stojící; při tom jsme integrálu i)řipojili stálý faktor abychom spccialisací mohli ihned užiti prvního vzorce Schaefferova, něhož plyne tak
+
+
+volíme-li a-\-b, —b, stálého činitele (45; -=--
+
+
+bude pak hledám' řetězec zníti
+
+
+(40) (.v)
+
+
+
+
+
+""i
+
+
+Sbližné jeho zlomky budou
+
+
+
+
+
+""(i
+
+
+na<cž ostatních zlomku prvky tvoří postupně dle formuií
+
+
+(47)
+
+
+nichž vychází
+
+
+n+í (a„ +C'nX)—P„
+
+
+(a„ c'„ Qn-i
+
+
+(48)
+
+
+Q„+l
+
+
+XV. ﻿odtud plyne
+
+
+
+
+
+
+
+
+
+
+
+/„/„,.
+
+
+Volíme-li stálého činitele tak, aby (()) bude pravá strann začínati rozvoj svůj členem
+
+
+dále plyne rovnic (x}
+
+
+/;„ />, h.-, ... x'2l!
+
+
+X""J<n ,... l(x}
+
+
+Pn(x) H(X} LW7W
+
+
+rozvoj funkce
+
+
+(?„
+
+
+^±1- x*""
+
+
+začíná týmž členem jako
+
+
+(;"")()) x"" =y„ x-"" y'„ A2'i
+
+
+jest pak dle definice integrálu
+
+
+y„= í«-' (l-
+
+
+poslední integrál stanoví základě vzorce (41), takže
+
+
+Dle podmínky P,, (O) bude nejvyšší součinitel polynomu /•*„ (t) roven jedné, tedy
+
+
+1)"" •;/!
+
+
+
+
+
+odtud
+
+
+
+
+
+(«4 p—I,2n)
+
+
+Dosadíme-li našeho výrazu pro tuto hodnotu hodnotu dle (45), vyjde
+
+
+(51) fM(«.«)(^.fQ(C /l-l.«)
+
+
+
+
+
+Porovnáním (41)) (oOj uacházínu'
+
+
+(/i h(^ -') -j- '2)- :J)
+
+
+ted) ﻿•24
+
+
+Prvá rovnice (47) pro poskytne vzhledem podmínce (0) výsledek pro =1, veličinu muzeím-voliti takže
+
+
+(54)
+
+
+dále plyne
+
+
+(7* =0, 1,2, .);
+
+
+(55)
+
+
+Definici funkce pišme
+
+
+~pn (ť} l)""/1 «(* l)1 íjx/)"" ;/'""«
+
+
+:.'. n+a+3
+
+
+rili posléze
+
+
+
+
+
+Součinitel při /"" zní
+
+
+
+
+
+/i—
+
+
+-\-
+
+
+
+
+
+(*l
+
+
+(x) ——'-
+
+
+
+
+
+následovně dle (55)
+
+
+ft-'2)
+
+
+??2 -f- («_+ «""+7T(2'w ó~+y
+
+
+XV. ﻿•20
+
+
+Změníme tedj- znamení kladouce c'n dále jest (#, tedy b0= tudíž nacházíme, naše funkce
+
+
+(íř !>, x""
+
+
+»w-S ,•„.,,
+
+
+Jl=ll
+
+
+řetězo\ý rozvoj
+
+
+(51 (<i,
+
+
+c.,.v-
+
+
+hodnotami*)
+
+
+
+
+
+___
+
+
+U7í ""v
+
+
+—b)
+
+
+/;) (a—
+
+
+
+
+
++a—
+
+
+Vyloučena jsou kladná reálná větší jedné. zlomek řetězoví""
+
+
+
+
+
+
+
+
+A'o
+
+
+
+
+
+y(y—
+
+
+
+
+
+(y+2""v— (y~+'2v)
+
+
+(vr -t>—
+
+
+Konverguje značné siaDeji.
+
+
+Klade-li Gaussově hypergeometrické radě
+
+
+(3,
+
+
+podá limitní přechod
+
+
+lim <>.
+
+
+1'iipad -f- řešil již Lagrangc, Sur 1'nsage děs íractions continues dans cali-ul integrál (Oeuvres, sv. IV., str. 301—332). Bohaté příspěvky theorii řetězen jsou uloženy thesi vir. Montessus Ballore (Rcnd. C?ircolo mat. 1'alernio, l!»04); nemenší pozornosti zasluhuje starší práee, pařížská these Padé-a ISiťJ, jakož různé články po/dější hlavně Comptes Rcndus uveřejněné.
+
+
+XV. ﻿Tu pak obdržíme Gaussova zlomku řetězového
+
+
+(a, .v)
+
+
+(«, .v)
+
+
+
+
+
+n-i
+
+
+hodnotami
+
+
+
+
+
+"")
+
+
+((i
+
+
+-f-
+
+
+toutéž substitucí limitním přechodem
+
+
+
+
+
+především lim rti»+i
+
+
+
+
+
+
+
+
+lim/ž
+
+
+lim u.2V
+
+
+
+
+
+'Iv] -f-
+
+
+
+
+
+kterýžto řetězový rozvoj vdmi rvchle konverguje. Poněvadž
+
+
+P'(*)= P(^+ i,y+ l,*),
+
+
+
+
+
+slouží tento řetězový zlomek výpočtu funkce (:;), známe-li (2) funkce hoví lineárně homogení rovnici difíerencialní prvního řádu, tedy pak snadno počítají veličiny P"" (~), P'"" (z), ... tedy též součinitelé rozvoje Taylorova okolí bodu neb jakkoli tento celé rovině konvergentní, skutečné počítání pohodlné pouze okolí rozvojového středu.
+
+
+Pomocí vzorců (5(>) (oíí) stávají funkce [x] (a, (a, snáze přístupnými.
+
+
+XV."

@@ -1,0 +1,1760 @@
+"","x"
+"1"," ﻿ROČNÍK III.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+Rektifikace dutých hranolů při stanovení lomivosti kapalin.
+
+
+Podávají Parízek Šulc.
+
+
+(Se vyobrazeními.)
+
+
+Předloženo dne října IHlKl.
+
+
+zimě 188(J zabývali jsme stanovením optických konstant rham-nosy,*) při kteréž práci nám bylo vykonati více měření indexu lomu roztoku zmíněného cukru.
+
+
+tomu cíli užívali jsme, jako obvykle, hranolovitých nádob opatřených dvěma deskami planparallelními. Aby mohlo při výpočtu indexu lomu užiti téhož vzorce jako při tělesech tuhých, platného pro methodu minimální úchylky, totiž
+
+
+sin (cp řV)
+
+
+kde značí úhel lámavý hranolu, pozorovanou minimální úchylku, jest nutno, aby desky hranolu byly planparallelní naprosto, tak aby samy úchylce, niž nám jde, nikterak neúčastnily.
+
+
+Splnění požadavku toho poskytuje ovšem nemalé obtíže technické, čehož následek jest, cena hranolu závisí hlavně oné dokonalosti desek, takže hranoly opravdu bezvadné jsou velmi drahé.
+
+
+bezvadnosti desek lze přesvědčiti známým způsobem užitím okuláru Gaussova. Jest-li deska zcela dokonalá, splývá obraz vláknového kříže zrcadlením přední rovině desky vzniklý obrazem vzniklým rovině zadní jedno. Tomu však jest tak jen málokdy: začasté nesplývají oba obrazy jedno, ale lze pozorovati jistý rozstup obou, někdy při hranolech velmi drahých, jak jsme při jednom hranolu pozorovali, který nad pocházel firmy tom oboru velmi osvědčené. Při jedné totiž desce tohoto hranolu jevil rozstup pouze tím, obraz vláknového kříže byl pohled silnější než originál sám, neobnášel totiž rozstup ani tloušťku vlákna; při druhé desce byl rozstup něco větší, neboť mezi oběma obrazy probleskoval proužek světlého pole, jen právě pozorovatelný. Však měření těchto rozstupů nebylo ani lze pomysliti, jsme zplna oprávněni tak malých rozstupů ani při měření nevšímati.
+
+
+Viz: Parízek Šulc, Optické konstanty rhamnosy. Předloženo král. češ. společnosti nauk dne března 1891.
+
+
+Rozpravy. Ročník III. Třida II. Číslo
+
+
+﻿Snadno však jest domysliti, desky hranolů méně drahých ukazují rozstupy patrné měřitelné. naskýtá otázka, jaký vliv tato nedokonalost výsledek určování indexu lomu kapalin takovými hranoly.
+
+
+Při svrchu zmíněných pracech byli jsme nuceni také takových hranolu užívati, při nichž rozstup obrazů vláknového kříže obnášel několik málo minut. byli jsme přirozené vedeni tomu, abychom pokusili právě naskytnuvší otázku rozluštiti. ukázalo, pokud desky aspoň rovinně obroušeny jsou roviny jich svírají úhel nepřevyšující jistou mezi, netřeba snad hranol zavrhnouti, ale lze tuto nedokonalost stroje nahraditi počtem, sice opravou úměrnou oněm úhlům, jež roviny desek svírají, však nutno provésti některá pomocná měření, kterých jindy třeba není.
+
+
+odhodlali jsme podati methody početní pozorovací, jimiž možno takovými hranoly správných výsledků dojíti, hlavně toho důvodu, že, pokud víme, nikde tomto případu nepojednává, pracujícímu fysiku chemiku zajisté nejednou vyskytnouti může. Postup práce počtu nazvali jsme zkrátka rcktifikací hranolu.
+
+
+ODVOZENÍ VZORCŮ. Hrano! redukovaný.
+
+
+Uvažujme nejprve ten jednoduchý případ, kde všechny roviny obou desek protínají přímkách vesměs rovnoběžných, kdy tedy možno známým způsobem dvě, tím všechny tyto roviny postaviti rovnoběžně osou spektrometru, tedy kolmo rovině děleného kruhu jeho. Hranol takto myšlený nazveme hranolem redukovaným.
+
+
+Paprsek dopadající hranol rovnoběžně rovinou děleného kruhu zůstává
+
+
+všech lomech stále rovnoběžný budou tedy úhly průmětu tuto rovinu spektrometrem měřeny nezměněné velikosti. Naznačme průměty rovin obou desek rovinu děleného kruhu přímkami Pl, Z,, Z^, /J2 (obr. 1), kdež vždy vnější, vnitřní vzhledem hranolu rovině vztahuje, přípony rozlišují desky. Jmenujme dále úhly dopadu lomu jednotlivých
+
+
+rozhraních řadě sll, C\, /^,, /^, />2, /""2 index lomu skla desek index lomu kapaliny úhly lámavé desek íí, -Q2, úhel lámavý celé kombinace <b, minimální úchylku//. budou platiti jednak známé podmínky
+
+
+°IJtické sin sin (1)
+
+
+
+
+
+Obr.
+
+
+sin
+
+
+sin
+
+
+sin /"", sin />, sin r,2 sin /?2
+
+
+﻿jednak vztahy geometrické
+
+
+
+
+
+l----
+
+
+___
+
+
+2----
+
+
+7Í.+3,
+
+
+(5) (6) (7) (8)
+
+
+Vyšetřme nyní, jak změnou veličin íí,, !í,2í '/>, jich diffe-renciály díl^ ť/íí2, */'/', '/// ť/A"" změní veličiny ostatní, jest differen-cujme rovnice (1) (8), čímž získáme
+
+
+cos dAv cos dC\ (!')
+
+
+cos ^;/2 dA.j cos dC» (2')
+
+
+cos ř/r, yVcos />', <//?, sin />', .//V, (3')
+
+
+cos r""2 í/r2 A^cos />2 ť//>2 -)- sin />y (4')
+
+
+""i ''•'-', (-V)
+
+
+(6')
+
+
+(8')
+
+
+Když úhly íí, íí., rovnají nulle, máme před sebou hranol dokonalý, něhož diferencováním přejdeme hranolu, jehož desky nejsou více pian parallelní, tedy jich lámavé úhly nejsou více nullou, ale <//í, díí^
+
+
+prvém případu jest, jak známo, chod paprsku hranolu při minimální úchylce souměrný rovině půlící úhel lámavý, takže můžeme pro úhly zavésti společné označení bez přípon
+
+
+takže indexy lomu budou
+
+
+___ ___ jr* ___ ___
+
+
+U2-----l
+
+
+sin
+
+
+sin sin
+
+
+(i)
+
+
+(H)
+
+
+Dosadíme-li tyto hodnoty rovnic (!') (4')i obdržíme tyto vztahy:
+
+
+cos^ sin CdAl sin-^ cos dC\ (l"")
+
+
+cos sin dAI sin cos dC^ (""2"")
+
+
+sin sin cos dTv sin cos sin <//?, -f- sina sin //^V (3"")
+
+
+sin sin cos ť/JT,, sin cos sin CdB\ -j- sin2 sin ť/Ar. (4"")
+
+
+﻿Ze soustavy těchto čtyř rovnic rovnic (5') (8') jest nyní vyloučiti veličiny dA^ dA^, dB\ dB^ dC^, tomu cíli sečtěme rovnice (l"") (2""), (3"") (4""), (5"") (6"") připojíme-li pak rovnicím takto nabytým rovnice (7') (8') beze změny, dostaneme soustavu pěti rovnic:
+
+
+cos sin (dAl -\- dA±] -\- C]2) sin cos
+
+
+n^cosC^.^//*! -f- dFJ -\-dB^).smA cos sin -f- sin'2 sin CdN
+
+
+(<tct <tcj (drt drj (i/si, dstj
+
+
+(dlí, dBj d<\> (díl, dUJ (dAl dA^} ^f/v
+
+
+nichž vyloučiti lze čtyry součty (dA^ -\-dA9), (dr^-\-dF^), takže získáme krátké úpravě:
+
+
+sin2 sin CdN-\- sin (í/> //) sin <1>
+
+
+-(- sin -]- sin 6Vř/> cos ('/> -f- z/) sin <1> sin Cí/z/
+
+
+Omezíme-li veličiny malé prvého řádu, můžeme místo differenciálň psáti rozdíly, tedy, značí-li jako posud tl> veličiny při hranolu dokonalém, dále ;/, obdobné veličiny našem případě, nahradíme-li označení ^.Q, díl„ lámavých úhlů desek kratším o>2 položíme-li jejich součet (ol ~\- co2 bude:
+
+
+~\-dB^, ílv
+
+
+</>
+
+
+základní rovnice nabude tvaru:
+
+
+sin2 '/> sin C-\- sin (tf> -|- z/) sin f/> 6') -\-
+
+
+-f- (<p f/>) sin -i- sin z/) sin -i- (/>. sin cos ('/> -(~ (A)
+
+
+tomto tvaru poskytuje nám vztah mezi úhly které jsou dané mezi opravami veličin IV, <1>. Ježto máme jen jedinou rovnici těchto třech proměnných, nejen můžeme, ale musíme stanoviti dvé další podmínky mezi opravami veličin A"", ř/>. Nejvýhodnější ovšem jest voliti podmínky tak, aby vzorci
+
+
+sin (<I* -f~
+
+
+--------;--------:-------
+
+
+sin '/>
+
+
+jen jeden argumentů, buď neb //, neb (/> aneb součet <l>-\-sl povstal opravením hodnoty pozorování přímo plynoucí. Jest tedy patrno, lze čtverým způsobem počínati.
+
+
+Necháme-li minimální úchylku úhel lámavý hranolu bez opravy, jest položíme-li ﻿počítáme dle známého vzorce (I), hodnotě indexu lomu tak nalezené připojíme opravu
+
+
+
+
+
+kterou najdeme základní rovnice (A) tvaru
+
+
+_w_ sin (qp -f~ <?) sin (-f sin2 sin
+
+
+Vzorec tento nabude užitím rovnice (II) tvaru
+
+
+sin (TT
+
+
+sin2|
+
+
+(a)
+
+
+kde úhel určí téže rovnice (II)
+
+
+sin sin -^-JT—
+
+
+
+
+
+Chceme-li nalézti přímo opravu logarithmu indexu, můžeme postupovati takto: Vzpomeňme, platí
+
+
+
+
+
+pominutím vyšších mocnin, ježto ;/' jest veličina malá prvého řádu. toho plyne
+
+
+tedy
+
+
+1)) Jinak můžeme dříve opraviti měřenou minimální úchylku takovou úchylku z/, jakou působil hranol dokonalý připojením opravy
+
+
+
+
+
+ostatních veličin neměníce; jest můžeme klásti
+
+
+'/>
+
+
+Hodnota opravy plyne opět základní rovnice (A) jakožto:
+
+
+
+
+
+sin-9-i^sin(^
+
+
+
+
+
+</• sin sin cos --j—
+
+
+kterýžto vzorec zjednodušíme zase užitím rovnice (II) tvar:
+
+
+kde určí téže rovnice (11). ﻿Určení opravy dle těchto rovnic předpokládá tedy známost opravené hodnoty jest však patrno, že, užijeme-li pravých stranách rovnic místo hodnoty opravené hodnoty pozorované dopustíme tím chyby druhého řádu opravě
+
+
+Můžeme opraviti úhel lámavý hranolu přičtením opravy '/>, což jest tak velký úhel lámavý, jaký měl dokonalý hranol, jenž při témž indexu lomu dal pozorovanou úchylku ti, jest
+
+
+
+
+
+N=n
+
+
+Při počítání opravy můžeme ovšem obdobně jako případě />) počínati, totiž klásti '/> úhel gi, čímž vyjde
+
+
+
+
+
+sin (g) -f- sin sin sin
+
+
+aneb užijeme-li opět rovnice (II) též
+
+
+sin (-i-
+
+
+o)------^2—---------'-
+
+
+sin
+
+
+(c)
+
+
+^/) Aneb konečně můžeme opraviti úhly ti, sice přičtením oprav g/' o'"", aby nabyly hodnot '/> z7, tak velkých, dokonalý hranol lámavým úhlem '/> dával při nezměněném indexu minimální úchylku //. zavedených takto opravách g"" ti"" žádáme, aby jich součet rovnal nulle, jest zavedeme-li jednotné označení, aby bylo
+
+
+d"" qp""
+
+
+při čemž zůstane
+
+
+
+
+
+Počítajíce opravu základní rovnice (A), můžeme zase klásti <1* úhel mimo platí přesně '/'-)- -f- tak plyne použitím rovnice (II)
+
+
+sin (J- ,..
+
+
+
+
+
+cos sin -*- (g) -(-
+
+
+Poznámka. původním spracování užívali jsme jiné cesty početní. opravu g>' zvolili jsme hodnotu —co, opravu ti' hodnotu -f-w, načež jsme indexu lomu vypočtenému dle obvyklého vzorce základě přijatých hodnot připojili opravu ;//', která plyne snadnou úpravou základní rovnice (A) tvaru
+
+
+Vtň COS
+
+
+sir7~g)~
+
+
+
+
+
+kde
+
+
+sin sin -)- ti) ﻿Tvar ten shoduje, poněkud jinak volené označení, vzorcem (6) uvedeném pojednání optických konstantách rhamnosy, připouští sice pohodlné počítání, avšak index nutno stanoviti zkusmo, oprava jím vypočtená jest zpravidla jednu neb dvě jednotky pátého místa menší, než vyjde vzorců zde vyvinutých, které poskytujíce větší přesnost podávají vesměs shodné výsledky, tak jim přísluší přednost. Příčina toho jest tom, při starším vzorci vystupují již malé členy druhého řádu, ale ovšem jen tak, vliv jejich jest stálý, což při srovnávání indexů lomu roztoků nikterak nevadilo.
+
+
+Určení součinu
+
+
+posud předpokládali jsme veličiny známé. Jest tedy třeba nalézti způsob, kterým lze určiti. ukazuje, lze jednak změřiti přímo součin rco, jednak určiti nepřímo index
+
+
+Gaussovým okulárem poznáváme rozstupu obou obrazů vláknového kříže, kdy úhel liší nully; jest tedy snadě, velikosti tohoto rozstupu možno souditi velikost úhlu co. Rozstup ten můžeme určiti úhlové míře, odečteme-li jednou při shodě vláknového kříže jeho obrazem přední rovině desky vzniklým, čili zkrátka jeho předním obrazem, druhé při shodě jeho obrazem zadním.*) Rozdíl obou odečtení jest jednoduchém vztahu rozstupem úhlem samým.
+
+
+Buďtež (obr. 2.) stopy přední zadní roviny desky rovině děleného kruhu, jež svírají úhel co. Aby vláknový kříž kryl svým předním obrazem, nutno, aby paprsky dalekohledu
+
+
+vycházející dopadaly přední rovinu P-------------—--------———
+
+
+kolmo. Má-li vláknový kříž krýti svým zadním obrazem, nutno obdobné, aby paprsky dopadaly zadní rovinu kolmo. Oběma požadavkům nelze současně vyhověti, není-li deska plánparallelní, neboť oba směry paprsků dopadajících svírají jakýsi úhel (w). Kdyby nebylo lomu přední rovině desky, měřil tímto úhlem přímo úhel obou rovin desky. Abychom zde vliv lomu vyšetřili, představme si, paprsek dopadá rovnoběžně rovinou děleného kruhu přední rovinu pod úhlem pod kterýmž odráží dávaje přední obraz směru //. Mimo láme pod úhlem ,9, dopadá zadní rovinu odráží pod úhlem dopadnuv opětně přední rovinu pod úhlem láme
+
+
+
+
+
+
+
+
+Který obou obrazů vláknového kříže povstal odrazem přední rovině desky, který zadní, poznáváme obyčejně již dle nestejné jasnosti jejich: zadní obraz bývá méně jasným. Připouští-li rozdíl jasnostech tom pochybnosti, rozhodneme věc jednoduše tím, naplníme hranol tekutinou, čímž ztrácí zadní obraz tolik jasnosti, skorém zmizí. vychází pod úhlem tvoře zadní obraz směru Jest patrno, roz-stup obou paprsků měří rozdílem
+
+
+platí zde tyto rovnice:
+
+
+sin sin sin sin
+
+
+
+
+
+-\-
+
+
+čili /5r-|-2fl>.
+
+
+Pro krytí předního obrazu (což vyznačíme příponou jest dle svrchu vytčeného:
+
+
+sin sin fp]
+
+
+tedy sin sin
+
+
+protož, jak snadno pozná při pominutí vyšších mocnin úhlu co,
+
+
+2ru Pro krytí zadního obrazu jest
+
+
+
+
+
+tedy
+
+
+
+
+
+sin sin
+
+
+sin sin
+
+
+
+
+
+protož opět pominutím vyšších mocnin úhlu
+
+
+tedy
+
+
+Rozstup těchto mezích nemění obnáší
+
+
+Veličina však, kterou měříme, není rozstup sám, nýbrž úhel mezi oběma směry, jimiž paprsek dopadá při krytí předního při krytí zadního obrazu, tedy
+
+
+
+
+
+
+
+
+Rozstup sám jest tedy dvojnásobný úhel toho, který naší mcthodou měříme. Tím jest změřen přímo součin rto
+
+
+﻿3. Soustavné měření všech tří úhlů.
+
+
+Obr.
+
+
+Poněvadž methoda určení úhlů <wl yw, ro)2 jest totožná me-thodou určování úhlu lámavého, jest výhodno obě jedno spojití. Tím obdržíme úplné pozorování čtyřech odečteních. Schématicky znázorněno jest obr. 3., kde /^, ~i, z'% /'2 jsou odečtení odpovídající krytí obrazu rovinách Pl, Z,, Poněvadž jednu desku zaměřujeme dalekohledem opačné strany než druhou, nahraďme vždy jednu dvojici odečtení vztahující jedné desce, př. druhé, totiž odečtení a/>'2 hodnotami rj,2 180° rozdílnými. Toho docílíme jednoduše, zaměníme-li odečtení stupňů obou noniích.
+
+
+Ovšem, nespokojíme jediným pozorováním, nýbrž provedeme jich řadu. Zdařila-li všechna pozorování úplně, jest výsledek pravdě nejpodobnější ovšem roven arithmetickému středu hodnot plynoucích pro touž veličinu všech pozorování. Může však státi, některé pozorování neprovede úplně, př. když druhém neb třetím odečtení hranol jakékoli příčiny pohne, aneb aspoň oprávněna domněnka, mohl pohnouti, což zvláště při otáčení jedné desky druhé může přihoditi, tedy mezi druhým třetím odčítáním; neb konečně, když stane při některém odčítání patrné nedopatření, které nemožno důvodně opraviti, takže nutně musí počtu vyloučiti. tomu všemu přihází zhusta, nejsme více pozorování opakovati. Nebude tedy zbytečno promluviti též methodě, kterou lze taková neúplná pozorování zároveň úplnými spracovati.
+
+
+Úplné pozorování obsahuje čtyři odečtení, neúplné může obsahovati nejméně dvě, jinak tři odečtení. Jediné osamělé odečtení nemá ovšem významu. Jest tedy úlohou naší pro řadu pozorování dvou, třech neb čtyřech odečteních určiti úhly wl, ?c'2 tak, aby součet čtverců chyb byl nejmenším při nejvýhodnějším rozdělení jich jednotlivá odečtení. Předpokládejme zatím, známe již jakýmkoli způsobem pravdě nejpodobnější hodnoty úhlů wl, <j>, jaké vyplynou celé řady pozorování. jedná nejprve to, jak při jednom pozorování chyby rozděliti jednotlivá odečtení tak, aby součet čtverců chyb byl nejmenší, určiti tento součet, jenž ovšem bude funkcí veličin u\, 7C'2 Součet čtverců chyb všech odečtení bude nejmenší, usta-novíme-li úhly «',, íc/2 qp, jež jsme posud známé pokládali, tak, aby součet nejmenších součtů čtverců chyb jednotlivých pozorování všem vztahující byl nejmenší. Majíce zde tři neznámé w,, íf, ag>, obdržíme derivací dle nich tři rovnice jich určení. Derivace součtu nejmenších součtů čtverců ﻿10
+
+
+chyb jest však rovna součtu derivací nejmenších součtů čtverců chyb; tedy derivace můžeme provésti pro jednotlivá pozorování výsledky sečísti. Budou tedy tři rovnice, jež obdržíme určení úhlů wtl obsahovati členy, jimiž nim přispívají jednotlivá pozorování
+
+
+Případ obecný (n-\-\) odečtení.
+
+
+Abychom zahrnuli pozorování úplná neúplná, uvažujme nejprve, bylo obecně (;/ -f-1) odečtení
+
+
+^•01 ^-12 ^-23 ^A- A"" 1-n
+
+
+téhož pozorování rozděliti chyby
+
+
+#0i #,2 #23 ^A--
+
+
+tak, aby opravených odečtení
+
+
+4)1 4-1
+
+
+plynuly rozdíly
+
+
+57! ,«,,... «fc... ?/„
+
+
+aby součet čtverců chyb byl nejmenší. Máme patrně soustavy rovnic
+
+
+/*_!,* **_!,* **-i ,*; *=l ,2,3.... *+1,
+
+
+-1, itk —;/ Nazvcme-li však rozdíly
+
+
+Í-A /«A-
+
+
+můžeme obě soustavy zahrnouti jedinou
+
+
+dbttt dk-i,k 3-----w
+
+
+Dále budiž součet čtverců chyb označen krátce
+
+
+kterážto veličina má		býti minimem.		
+
+
+Dle známého pravidla určování maxima neb minima utvořme determinant funkční :				
+
+
+	1	,-1, ....	<> ,	0
+
+
+	0	, !....	o	0
+
+
+.-	0	,0,1....	0	0
+
+
+	0	,0,0....	1	-l
+
+
+	0	,0,0....	0	1
+
+
+	<*OI	» ""lír ""íi.'» •	tin »	1
+
+
+což jest ﻿11
+
+
+Tím obdržíme soustavu («-(-!) rovnice pro minimum
+
+
+kterou jest nyní řešiti. tomu cíli násobíme prvých rovnic plynoucích soustavy (a) pro L=1,2,3...*' jak sobě jdou činiteli 1,2,3...*, zbývajících pak (;* *') rovnic plynoucích téže soustavy pro ... *-f- násobíme témž pořádku činiteli ... (;/ *"") přičteme rovnici (/?). Snadno lze odvoditi, získáme obecně
+
+
+
+
+
+m)— (w* i""*)
+
+
+
+
+
+Obecného toho výsledku můžeme užiti pro jednotlivá pozorování zvláštních případech. místě veličin nutno jen klásti dle potřeby veličiny skutečně pozorované />, ptl místě veličin vstoupí počet úhly 7e>2 případě jich rozdíly 7e>, 7t', místě veličin objeví úhly pozorování přímo počítané, jež označíme ivl ?.v2 atd. chyby odečtením příslušné nazveme TT, 2T2
+
+
+Pozorování úplná odečteních.
+
+
+Pro pozorování úplné jest poněvadž odečtení jsou sjt jsou pravdě nejpodobnější hodnoty hledaných úhlů íf, «», tt'2 hodnoty jednoho pozorování plynoucí ?L'2 7e/„ zřetelem nalezenému řešení obdržíme pro chyby pravdě nejpodobnější tyto rovnice
+
+
+TTI 7L/t «'« ^'i ""'a -|- K', <,, wtt <j( -{- ?^, -f- 7t'2 ?r„ -f- tt>a -["" ri',2 Součet čtverců těchto chyb
+
+
+derivovati postupně dle proměnných íť,
+
+
+
+
+
+abychom obdrželi
+
+
+příspěvky jednoho pozorování třem základním rovnicím. Provedeme-li derivování, obdržíme
+
+
+
+
+
+ít'a «', 7c'a ﻿12
+
+
+Jest-li úplných pozorování ;//, budou příspěvky jich všech prvé základní 'rovnici
+
+
+LIV (qp w2) -L;qp -i'7 -f- L*Wi
+
+
+znamená-li -L;qp součet všech hodnot pro qp, jak plynou pozorování úplných, které nazveme prvého druhu.
+
+
+Zcela obdobně získáme příspěvky druhé třetí základní rovnici tvaru
+
+
+-iVW| 7„,2
+
+
+Rovnice tyto můžeme snadno naznačiti připojeným schématem, jehož obdobně při dalších druzích pozorování neúplných užijeme
+
+
+Pozorováno s.t
+
+
+nfq «/Wj			n,wt	-^ (*1 /l)	^(*S-*,)	•^(A-*,)
+
+
+/r	+ 1	1 2	1 2	+ *	+ 1	+*
+
+
+'»,	~ Y	+ í	+ i	+ -1	____ a	_
+
+
+^	l 2	+ í	+ í	_ 4	----- X	+
+
+
+kdež koefficienty pravé poloviny schémata vztahují nadepsaným rozdílům přímo pozorování plynoucím, označení voleno to, které obdrží pravé straně rovnic.
+
+
+Součet čtverců zbylých chyb TT, L,, L2, n(l určíme vypočtení pravdě nejpodobnějších hodnot wl, tohoto schémata:
+
+
+W,—
+
+
+I	— _ň	<ř
+
+
+f.	+;	
+
+
+r.	4-1	
+
+
+
+
+
+tím způsobem, nadepsané rozdíly mezi hodnotami pozorování plynoucími ze>a mezi hodnotami vypočtenými ze/, násobíme příslušnými součiniteli násobky řádkách sečteme, určíme čtverce tak obdržených chyb sečteme ostatními.
+
+
+Pozorování neúplná třech odečteních.
+
+
+Zcela obdobně obdržíme pro pozorování neúplné, které jen odečtení jež označíme jakožto druh 77, výrazy pro pravdě nejpodobnější
+
+
+chyby
+
+
+-f- -[- (jf -f- -f- -|- ﻿13
+
+
+toho vyjdou derivováním výrazu
+
+
+použitím zavedené symboliky rovnice ?//
+
+
+?//
+
+
+7ť,
+
+
+Sestavíme-li vše zase schéma snadno srozumitelné, máme: Pozorováno /t, slt
+
+
+1*^9		;/;/w,	nnw\. Zll(zx /,) 2"" (s..— z		
+
+
+11,	+1	i 3""	_ 3	+ i	H-l
+
+
+//.,	+1	+ 1	+ S	""hi	____
+
+
+Hw,	_ 3	+ 1	_L .2. 3		_
+
+
+schéma pro určení součtu čtverců zbylých chyb jest:
+
+
+----(OD----IV,----IV. 1(J. ----li1.
+
+
+\f_ •/]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro druh ///, kde jsou- pozorovány hodnoty ^,, vyjde obdobnou cestou jako prve:
+
+
+Pozorováno .?, /(J
+
+
+III :	»///<P	nillW\	nluw^ ^^g ^,)		±'""
+
+
+///r	_I_ 3	2 3""	_ 3	+ i-	
+
+
+///,,,	___ Jt	+ 1	~r 1	2
+
+
+///«,	1 3	+ 1	4.4 s	1
+
+
+
+
+
+///	47-"";,""!^)	w
+
+
+r,	j.	2
+
+
+L•	i	___
+
+
+»2	s	3
+
+
+	i	_
+
+
+/•«	3	s
+
+
+﻿14
+
+
+Schází-li jedno prostředních odečtení, povstanou druhy /Fa kde jsou pozorovány hodnoty zn_ p.Á, /2. Příslušná schémata budou:
+
+
+Pozorováno
+
+
+IV	HIVty	niv w,	«/vwtt -i';v(L2 A)		*'v(Pt~
+
+
+IV,,	+ 1	0	~~ ""a""	4- :t	+
+
+
+/F„,2	i 1	0	+ i	_ 3	+
+
+
+
+
+
+
+
+
+
+
+
+Pozorováno p<L
+
+
+V	«v<?	*ir<?1		«Fw,2 '-i""v(-i —A) -VÍA -		
+
+
+r.	1 ii	~ .s		0	4- ;t	
+
+
+Vt0l	i :s	1 2		0	-
+
+
+	F		qp (qp w,)			W, -W,
+
+
+	f.		+i			_
+
+
+•s			_ 3			1
+
+
+Pozorování neúplná odečteních.
+
+
+Nejmenší postačující počet odečtení sobě patřících jsou dvě. Nazvemc-li případy postupně VI. XI. druhem, budou příslušná schémata:
+
+
+Pozorováno /,,
+
+
+
+
+
+VII
+
+
+
+
+
+
+
+
+Pozorováno /,, ^',
+
+
+VIIWi
+
+
+
+
+
+-A)
+
+
+
+
+
+Pozorováno
+
+
+VIII	n ty	«W//*'i	//w//ws
+
+
+VIIIWt	0	0	+i
+
+
+﻿15
+
+
+Pozorováno
+
+
+IX	nixv	njx ?L'i	*ixw*	2íX(~9_-Sí)
+
+
+IX,	i	_ l	---- -r-	i
+
+
+IXWl	i ii	+ *	_|_ J	___
+
+
+IX	_ i	i ,	1 i	___
+
+
+W2	l	1 -'	1 a	•A
+
+
+Pozorováno
+
+
+
+
+
+nxq	nxw^	nx^'o Zx(rJ„ A)	
+
+
+X	0	— J	_i
+
+
+____ 1	0	+ *	_
+
+
+Pozorováno pti
+
+
+AY	; MXI fí	nxiw,	nxiwtl	^^a
+
+
+AT;	~z	_ a	0	T
+
+
+AT*,,	__ JL	+ 1	0	i
+
+
+Při všech těchto druzích pozorování jest příslušný součinitel jediného rozdílu odvození součtu čtverců zbylých chyb pro prvé odečtení -f- -1, pro druhé --•§-.
+
+
+Tím jest naznačena cesta, jak určiti součin zároveň úhlem lámavým hranolu.
+
+
+Poznámka. Poněvadž všech rovnicích jsou vždy obsaženy jen rozdíly g-, atd., můžeme, abychom měli pravé straně rovnic menší čísla, všechna data týkající úhlu stejnou hodnotu změniti; rovněž můžeme učiniti při úhlech 7t/tt. Tak vidíme-li, jest přibližně zmenšíme rozdíly ptí />, —-/, ,cr, tuto veličinu jest-li přibližně zmenšíme tuto veličinu rozdíl —/,, zvětšíme rozdíly konečně, jest-li přibližně ít'a ív2 zmenšíme rozdíl -s, zvětšíme rozdíly x;2 Řešením rovnic obdržíme pak ovšem rozdíly wt, místě úhlů rc'„. Tyto hodnoty dlužno pak zvoleným přibližným hodnotám přičísti.
+
+
+Index lomu *>.
+
+
+Poněkud obtížnější jest určení indexu lomu skla, něhož desky hranolu jsou zhotoveny. Především jsme ovšem nuceni předpokládati, obě desky hranolu jsou téhož druhu skla, tedy index jest pro obě společný; ovšem jest podmínce této snad vždycky vyhověno; kdyby tomu bylo tak jen ﻿Ifi
+
+
+přibližně, stačí znáti jakousi hodnotu střední, není třeba velké přesnosti, což poznáme způsobu, jakým hodnota vzorce opravné vchází. Stačí tedy methoda, která alespoň přibližně nás lámavosti skla, něhož jsou desky zhotoveny, poučuje.
+
+
+vypíšeme zkrátka způsob, kterého jsme prospěchem při svých měřeních užívali. Podstata jeho záleží tom, naplňujeme hranol kapalinou, jejíž index lomu odjinud dostatečně přesně známe pro teploty, při kterých pracujeme, měříme úchylku hranolem způsobenou. Znajíce index lomu užité kapaliny, můžeme určiti opravu některé základních veličin, totiž buď;/', <V, rj' neb nich snadno vypočísti hodnotu indexu přesností, která naopak zase dostačuje stanovení oprav jiném případě.
+
+
+vzorců (a) (d) dříve uvedených plyne přímo
+
+
+sin (-\ 6')
+
+
+sin"" -vco
+
+
+-4-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-a-
+
+
+
+
+
+-4-
+
+
+cos sin
+
+
+Nazveme-li hodnotu tak určenou zkrátka lze rovnic
+
+
+sin
+
+
+sin sin -i- -J-
+
+
+určiti pro řadu postupující dle mocnin veličiny
+
+
+při čemž stačí vždycky omeziti druhé mocniny veličiny j1, zhusta mocniny první. Přejdeme-li logarithmům, získáme řadu pohodlnější pro počet
+
+
+
+
+
+cot (f). -\- cosec2 -J- -(-
+
+
+Methoda tato výhodu, jaksi mlčky zahrnuje při určování indexu lomu neznámé kapaliny členy druhého stupně těch případech, kde úhly lámavé desek jsou již tak velké, členy sice již platně vystupují, ale přece při úzkých mezích, nichž indexy lomu největší části kapalin pohybují, stálé považovati mohou. Jest tedy výhodno určení indexu lomu voliti kapalinu, pokud lze, stejné lomivosti kapalinou zkoumanou, tedy pracu-jeme-li roztoky, voliti rozpustidlo samo, jehož index lomu obyčejně známe, ježto bývá pravidla voda, alkohol neb jiné běžné kapaliny. ﻿17
+
+
+Hranol libovolný.
+
+
+Nastává ještě úloha vyšetřiti, jak pozmění výsledky právě nabyté, když není splněna zprvu přijatá zjednodušující podmínka pro hranol redukovaný, všecky lámavé roviny lze postaviti rovnoběžně osou spektrometru.
+
+
+Předem jest patrno, jsou lámavé roviny jakkoli vzájemně postaveny, lze vždy dvě nich postaviti kolmo rovině děleného kruhu; ostatní dvě zaujmou polohy rovině jen přibližně kolmé, ježí předpokládáme, desky hranolu jsou aspoň přibližně planparallelní. Následkem toho paprsek, který postupuje původně rovnoběžně rovinou děleného kruhu, vychýlí lomem první obou nakloněných rovin tak, svírá pak rovinou děleného kruhu jakýsi malý úhel, který však dozná další změny lorr.cm rovině druhé. Toto vychýlení jeví dalekohledu tím, paprsky, jež dopadly hranol rovnoběžně rovinou děleného kruhu, nesbíhají více lomu středu vláknového kříže, nýbrž nad ním neb pod ním. Toto zvýšení neb snížení obrazu vzhledem vláknovému kříži ovšem neměříme; počínáme jakkoli, moříme vždy jen úhly, které jsou sevřeny průměty paprsků rovinu děleného kruhu. Naskýtá otázka, možno-li zákon lomu paprsků prostě přenésti průměty samy.
+
+
+Věc, niž jde, jest tato: Máme rozhraní ústředí přibližně kolmé jisté rovině (totiž rovině děleného kruhu), níž přibližně rovnoběžně dopadá paprsek rozhraní láme se. Promítněme chod jeho onu rovinu. Jaký zákon ovládá změnu směru těchto průmětů
+
+
+rozřešení této otázky uvažme nejprve, jedná vždy jen směry, všechny přímky roviny lze rovnoběžně pošinouti. Můžeme tedy zvoliti osu (obr. 4.) rovnoběžně osou spektrometru, tedy kolmo rovině děleného kruhu, již zvolíme rovinu XZ, rovinu položíme tak, aby obsahovala kolmici dopadu která svírá osou malý úhel Paprsek dopadající bodě rozhraní svírá svým průmětem rovinu malý úhel úhel dopadu jest tedy A7'= jeho průmět =-j. Index lomu ústředí, němž paprsek dopadá, budiž ;/. Pro paprsek lomený druhé ústředí užijeme písmen čárkovaných. Obr
+
+
+Uhly uvažované ovládány jsou vztahy
+
+
+předně optickými, druhé geometrickými Jest jednak zákon úhlech lomu
+
+
+sin sin
+
+
+Rozpravy. Ročn. III. Tř. II. ﻿18
+
+
+zachování roviny dopadu
+
+
+tge siny cosy, siny' cosy',
+
+
+který můžeme též psáti tvaru pohodlném dalšímu zpracování:
+
+
+(siny cos sin siny' sin cos r/) cos sin sin (j—y') cos cos jednak rovnice pro kosinus úhlu dopadu lomu:
+
+
+cos cos cosy cos -\- sin sin cos cos cosy' cos -f- sin sin r/'
+
+
+Nyní jest vyšetřiti, jak působí změna úhlů jich differenciály </ř <///, totiž derivovati rovnice naše dle těch veličin, které tím doznají změny, jest mimo úhly dle úhlu z'', r/. Učiníme-li tak, považujeme-li případ, něhož jsme vyšli, hranol redukovaný, kde jest
+
+
+tedy také
+
+
+*'=<>,
+
+
+tím
+
+
+obdržíme tento výsledek:
+
+
+siny siny'
+
+
+/// di'
+
+
+,/y
+
+
+Ín(>-^/ř+ siny
+
+
+siny
+
+
+toho předně vysvítá, že, jest-li, jak jsme předpokládali, úchylka paprsku roviny děleného kruhu veličinou malou prvého stupně, zůstává lomu; poněvadž však paprsek dopadá původně rovnoběžně rovinou děleného kruhu, jest jeho úchylka rovna nulle, tedy podmínka splněna. Dále jde jevo, úhly dopadu lomu shodují při vychýleném paprsku skloněné rovině svými průměty, jest průměty můžeme přímo upotřebiti zákon lomu paprsků samých. Rozhraní jest určeno svým průsekem rovinou děleného kruhu. Tím jest tento případ obecný převeden jednodušší dříve uvažovaný případ hranolu redukovaného, platnost vyvinutých rovnic obecně rozšířena.
+
+
+﻿6. Měření úhlů mezi průměty.
+
+
+Svrchu bylo již poukázáno tomu, naklonění rovin hranolu rovině děleného kruhu jeví tím, střed obrazu nepadne více průseku vláknového kříže, ale celý obraz jeví bud vyvýšen neb snížen. Otáčením pozorovacího dalekohledu kolem osy spektrometru můžeme odstraniti jen posunutí obrazu právo nebo levo vzhledem průseku vláknového kříže, nikoli však ono zvýšení neb snížení. Otočíme-li tedy dalekohledem kolem osy spektrometru tak, střed obrazu jeví přímo nad středem vláknového kříže, nebo přímo pod ním, odečítáme-li děleném kruhu, jest patrno, měříme tím přímo úhly, jež sevřeny jsou průměty pozorovaných paprsků rovinu děleného kruhu. Dle toho, jest nám předmětem jakého tvaru jest vláknový kříž pozorovacího dalekohledu, musíme různě počínati, abychom zmíněné shody středu obrazu středu vláknového kříže přesně dosáhli. Bud' zařizujeme osvětlenou štěrbinu kollimátoru, neb vláknový kříž jiného dalekohledu, neb konečně obraz vláknového kříže pozorovacího dalekohledu samého (při Gaussově methodě). Mimo vlákna kříže jsou buď sobě kolmo (neb aspoň přibližně), lze jedno nich postaviti svismo, aneb svírají úhel ostrý, lze postaviti souměrně přímce svisné.
+
+
+případech, kde předmětem jest štěrbina, aneb kde jeden křížů, které porovnáváme, vlákno svisné bud' dalekohledu pozorovacím, neb tom, který zastupuje kollimátor, zařizujeme svisné vlákno neb štěrbinu. Zbývá tedy jen ten případ, kdy jsou oba kříže vlákny svírajícími ostrý úhel. jest směr svisný naznačen přímkou půlící úhel obou vláken. Odečtení, jaké bychom obdrželi při shodě středů obou křížů směru svisném, lze zde počítati tím, přivedeme otáčením dalekohledu střed jednoho kříže nejprve jedno vlákno kříže druhého, pak vlákno druhé. Střed obou odečtení, jest veličinou hledanou.
+
+
+všech případech však předpokládá, štěrbina, neb jedno vlákno aneb přímka půlící úhel obou vláken jest přesně svisná. Avšak splniti tento požadavek není tak snadno, poněvadž směr osou spektrometru rovnoběžný není ničím viditelným dán. Abychom určení svisného směru vyhnuli, můžeme ovšem zvedáním neb spouštěním dalekohledu (totiž otáčením kolem osy rovnoběžné rovinou děleného kruhu) přivésti obraz úplnému krytí vláknovým kří/em. Tím však stáváme závislými tom, jak dalece přesně jest ona otáčecí osa rovinou děleného kruhu rovnoběžná. Stačí ovšem, když jest tomu tak jen přibližně, poněvadž otáčíme jen malé úhly, přece však jest nutno nějakým způsobem přesvědčiti, jak dalece jest tomu požadavku rovnoběž-nosti vyhověno, poněvadž domnívati můžeme, jest osa tato méně přesné pracoxána, ježto jest při spektrometru významu jinak podřízeného.
+
+
+﻿20
+
+
+Dejme tomu, jsme patřičné poloze oné osy přesvědčili způsobem, který bude dále vypsán. tom případě můžeme polohu štěrbiny svislých vláken křížů opraviti tak, při zvedání neb spouštění dalekohledu, kterém nyní víme, děje rovině svisné, obraz jednou vlákno neb štěrbinu zařízený stále nich trvá. Máme-li kříž ostrým úhlem, zařizujeme obě vlákna tvoříme obou odečtení střed. Jest-li poloha kříže již souměrná, musí tento střed pro každé zvednutí neb spuštění dalekohledu býti stálý. Jinak poloha kříže patřičnými šrouby opraví.
+
+
+Určení sklonu osy dalekohledu.
+
+
+Neobstála-li osa (rozumíme zde vždy otáčecí osu dalekohledu vodorovnou) dalekohledu při zkoušce, můžeme ovšem zvláštním přístrojem určiti úhel. který svírá rovinou děleného kruhu, tedy určiti úchylku směru svisného pro každou polohu dalekohledu, což však jen tehdy význam, když můžeme zvednutí neb spuštění dalekohledu měřiti, což lze provésti vždy, když není jedno vlákno kříže vodorovné, jest asi rovnoběžné rovinou děleného kruhu, neboť můžeme-li přivésti obraz: obě vlákna kříže, jest rozdíl obou odečtení přímo úměrný zvednutí neb spuštění dalekohledu potřebnému úplné shodě obrazu středem kříže.
+
+
+Při pracech svých užili jsme výhodou zvláštního přístroje, kterým lze změřiti potřebné veličiny: úchylku vodorovné otáčecí osy dalekohledu roviny děleného kruhu úhel sevřený vlákny kříže. Podstatou přístroje jest bílá kruhová deska (obr. 5.), jejímž středu protínaií narýsované kolmice cd. prvé nich jest průseku obě strany naneseno několik stejných dílců (ku př. cm), druhé přímce jsou vyznačeny dva body stejně středu vzdálené (tak př. cm). Deska spočívá stojanu sice asi rovnoběžně přímkou spojující dva jeho stavěčích šroubů, jimiž nejprve postaví tak, přímka narýsovaná kryje nití olovnice před deskou zavěšené. Třetím šroubem přivede konečně přímka polohy skutečně svisné. Aby olovnice při práci nekývala, ponořeno jest její závaží nádobky vodou; aby bylo možné, jest tyč stojanu přiměřeně prohnuta. Počneme pracovati tak, postavivše patřičně pomocný přístroj přiměřené výši vzdálenosti několika
+
+
+metrů spektrometru, jehož hybný dalekohled proti přístroji asi kolmo jest zamířen, vynivellujeme spektrometr, aby jeho osa byla svisná. Tím zjednali jsme přímce viditelnou přímku rovnoběžnou osou spektrometru. Pak prodloužíme dalekohled, abychom dělení jasně viděli, uvedeme střed
+
+
+Obr
+
+
+﻿vláknového kříže krytí jedním (/.--tým) dělicích bodu p/ímce (obr. 6.), načež bez snížení neb zvýšení dalekohledem otočíme tak, jedna nit druhé prochází bodem všech třech polohách dalekohledu učiníme odečtení s^, při čemž volíme přípony tak, J2. Kdyby otáčecí osa dalekohledu byla rovnoběžná rovinou děleného kruhu, odečtení bylo totožné odečtením při zařízení dílce ježto však tomu tak není osa svírá rovinou děleného kruhu úhel jest <^s0 opravu kterou jest určiti závislosti rozdílu odečten Svírají-li vlákna kříže směrem svisným úhly /:?, jest patrně
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kdež jest hodnota jednoho dílce přímce úhlové míře; určení jejímu slouží body jichž úhlová vzdálenost měřená děleném kruhu přímo dává několikanásobnou hodnotu (ku př. lOtiná-sobnou). Ovšem toto měření provedeme zvlášť. při tom vrchol měřeného úhlu směru vodorovném jest ose spektrometru, směru svisném však vzdálenější desky, možno pominouti. Kdyby ukázala potřeba vzíti tomu zřetel, stačí veličinu poměru vzdáleností obou vrcholů desky zmenšiti.
+
+
+Naložíme-li, jak vypsáno bjlo, všemi body přímce ab, jichž každou stranu jest počet, určíme pak hledané úhly methodou nejmenších čtverců dle rovnic
+
+
+l/--
+
+
+
+
+
+
+
+
+čehož odvodíme hledaný poměr
+
+
+čili
+
+
+
+
+
+—s* ﻿22
+
+
+aneb dosadíme-li sem nalezené hodnoty
+
+
+Není-li tedy otáčecí osa dalekohledu rovnoběžná rovinou děleného kruhu, aneb není-li kříž souměrný, přivedeme nejprve obraz vlákno kříže, které hořejší části pole odpovídá číslům větším děleném kruhu, vlákno druhé. Rozdíl obou odečtení jest násobiti činitelem připojiti odečtení získanému při úplné shodě středem vláknového kříže. Ovšem musíme veličinu určiti předem pro kříže všech dalekohledů spektrometru. Poněvadž činitel jest zpravidla velmi malý, lze opravu odečtení stanoviti pro zvednutí dalekohledu rovnající poloměru pole, podle toho opravu každém jiném případě odhadnouti. Konámc-li však přece odečtení obou vláknech, jest užitečné, sesť.ojíme-li tabulku, která rozdílům JT, s,, podává přímo příslušné opravy takové tabulky jest též patrno, jaká přesnost postačí při odečítání poloh j*,
+
+
+týče dalekohledu, pokud uložen jest pevném rameni stroje, nutno užiti způsobu pozměněného, poněvadž pak nelze dalekohledem otáčeti kolem osy spektrometru. Obrátímc-li spektrometr dalekohledem pevným proti desce pomocného přístroje, jest-li třeba dodatečně vynivellujeme, odečítáme ony dílce .r, x<2 (obr. 7.), kterých vlákna kříže protínají svisnou přímku <?/>, při čemž platí pro vlákno, němž jsme prve odečítali .r, platí pro vlákno druhé. Při zvedání dalekohledu pohybuje střed vláknového kříže přímce, která svírá přímkou úhel protíná dílci Vzdálenost středu kříže přímky bud'?' dílec výši středu buď //. Pak jest
+
+
+pročež
+
+
+
+
+
+cot
+
+
+a;2 -[- cot
+
+
+Obr.
+
+
+Dosadíme-li hodnotu horní srovnáme-li dle bude
+
+
+cot cot
+
+
+-(- COt (í) ---- COt /•/
+
+
+čehož vyloučením veličiny plyne
+
+
+cot x>í(\ cot«) (cot -|~ cot /V) (*)
+
+
+Úhly známe předešlého měření, takže jde jen určení veličiny odečtení Rovnice poslední jest dle proměnných xtí lineární považujeme-li tyto pravoúhlé souřadnice bodů rovině, vyjadřuje přímku, takže lz<: porovnati tvarem
+
+
+sin (**)
+
+
+cos
+
+
+﻿Ježto obě proměnné jsou zde rovnoprávné, jest chyby obě rozděliti tak, aby součet čtverců jejich byl minimem, jest, máme určiti přímku, při níž součet vzdáleností bodů, jichž souřadnice jsou #2, byl nejmenším. Tento součet jest
+
+
+2(xl cos -\- sin —/>)2
+
+
+čehož odvodí podmínky minima derivováním dle veličin nichž počítáme nejprve:
+
+
+tg2? *-j
+
+
+pak jest-li třeba
+
+
+L*ťJ L*J Lxi
+
+
+Porovnáme-li součinitele rovnic (*) (**), určíme pak snadno
+
+
+sin -|- cos
+
+
+cos cot sin cot kde již známe.
+
+
+Poněvadž při pevném rameni děleným kruhem otáčí obraz, bude zde stejná úchylka osy roviny děleného kruhu míti vliv sice stejný, ale oprava tato sti bude opačně označena než pro dalekohled rameni hybném, takže nazveme-li zase
+
+
+•*o •**
+
+
+
+
+
+j""i .$""2
+
+
+bude
+
+
+Ježto těchto měřeních jest nutno dalekohled znova nekonečno zaříditi, jest žádoucno, aby vláknový kříž při tom podržel touž polohu, musíme uvolniti jen jeden obou fixačních šroubů týž zkrácení dalekohledu opět přitáhnouti, ovšem nepatrné pootočení kříže nemá opravné hodnoty značného vlivu.
+
+
+II. UŽITÍ VZORCŮ.
+
+
+příklad praktického užití vyvinutých vzorců uvedeme měření, která jsme provedli při svých uvedených acech spektrometrem firmy Bartels Diede-richs Gdttingách pracovaným dle návrhu Meyersteinova. stroji náleží mimo kollimátor dva dalekohledy, větší menší, nichž oba mají vláknové kříže tvaru A"", tedy ostrými úhly připouštějí užití okuláru Gaussova. Kterýkoli dalekohledů lze umístiti kterémkoli tří ramen stroje, nichž
+
+
+﻿jedno jest kolem osy spektrometru otáčivé. děleném kruhu lze přímo odečísti desítky mini.t, dva nonie udávají desítky sekund. každém zařízení odečítali jsme oba obou noniích odečtení upotřebili středů. příkladech uvedeme již středy obou noniů; stupně určeny dle jediného nonie.
+
+
+Určení stálé
+
+
+Velký dalekohled hybném rameni. Vzdálenost bodů pomocném přístroji 2Qcm velikost dílce svisné přímce \CIH. Nejprve určena hodnota dílce úhlové míře.
+
+
+Zařízeno bod
+
+
+Odečtení obou vláknech kříže při shodě jednotlivými dílci učiněna při 6ti dílcích, které označeny zdola —3, —2, —l, -)-2 -{-3
+
+
+dílec
+
+
+27' 22""
+
+
+
+
+
+levo (c]	. 33°	37' 22""
+
+
+právo (d) .	. 31	42
+
+
+Hodnota 20ti dílců Hodnota lho dílce	201 =	55' 22"" 46""!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32° 40'07""
+
+
+
+
+
+
+
+
+52' 12""
+
+
+Provedeme-li výpočet dle vzorců (/i}) části uvedených, shledáme
+
+
+0-0004 0-7508 0-7090 čehož odvodí dle (k})
+
+
+0-0003
+
+
+takže jest patrno, osu dalekohledu pokládati lze rovnoběžnou rovinou děleného kruhu.
+
+
+Týž dalekohled pevném rameni. Odečtení, která jsme nazvali x», byla dílcích čni) desce:
+
+
+0-75	— 3-00
+
+
+035	— 2-00
+
+
+1-30	— 1-00
+
+
+2-25	+ 0-00
+
+
+3-00	+ 0-75
+
+
+﻿Nalezne nejprve dle vzorce (//2)
+
+
+Igtg2(> 2'0053„ Čemuž zvolí úhel tak, aby vyhověl rovnici
+
+
+cos -[~ snl konst. jest pravidla tak, jest záporné. našem případě jest
+
+
+—44°43', toho dle rovnice (L,J
+
+
+0-0025
+
+
+tedy zase veličina tak malá, lze zanedbati.
+
+
+Abychom ukázali pro jiné případy, kdy součinitel nabývá značnějších hodnot, jak bylo lze zříditi tabulku, předpokládejme, bylo př. 0025. Pak snadno sestrojí:
+
+
+rozdíl .v2 l'40""
+
+
+
+
+
+Kdyby tedy rozdíl odečtení obnášel
+
+
+__j \i'
+
+
+připojíme odečtení .....
+
+
+opravu ............
+
+
+tak bude
+
+
+oprava s(}
+
+
++05"" 35""
+
+
+114° 52' 15""
+
+
+kterýmž úhlem udává pravá poloha průmětu.
+
+
+jtt 114° 52'40""
+
+
+Určení konstant hranolu.
+
+
+Měření, která zde podáváme příklad počtu, vztahují hranol levnějšího druhu, mající tvar láhve dvěma přitmelenýma deskama, nichž ukázalo, nejsou planparallelní, ale roviny jejich svírají úhly asi 10'.
+
+
+Pozorování jsou dvojího druhu, sice tři nich druhu VI. odečteních P°uzc předních rovinách desek učiněných, dvě druhu prvního všem rovinám desek vztahující.
+
+
+
+
+
+
+
+
+328
+
+
+213 303 Of>
+
+
+2ir>°13'05"" 303
+
+
+152°45' 34"" 242
+
+
+
+
+
+8°55'12"" 2G8
+
+
+152 -40 242
+
+
+﻿98
+
+
+těchto pozorování p?ímo odvozené rozdíly —/2, />, —s, -s*, y\5 -r.: pozmjněny dle způsobu návodu udaného přibližné hodnoty
+
+
+G0°41' 35"" rc'2 čímž došli jsme pro zmíněné rozdíly těchto malých čísel
+
+
+A-A 00""
+
+
+
+
+
+
+
+
+02""ó 31' 05-0
+
+
+Součty
+
+
+20"" 07""
+
+
+31'
+
+
+14""
+
+
+Násobením příslušnými součiniteli sestavenými schématech Vitém Ivem obdrží pro určení oprav r/+ u>^ w,/ tato soustava rovnic:
+
+
+|rp W,* 51'75
+
+
+++W,* K'2+ 13-9
+
+
+níž jde řešením
+
+
+14""5
+
+
+n\=- 2-1
+
+
+tak budou opravené hodnoty
+
+
+^=:r)004ť4í)""r),
+
+
+íť, 42'í)
+
+
+w.. 51-1 čehož jde, součet -(-w2 14'34""
+
+
+Použitím těchto výsledků nalezneme součet čtverců zbylých chyb 031. tedy chybu průměrnou jednoho pozorování 7"" výsledku jen 2"".
+
+
+určení indexu lomu skla užito vody, ježto další měření tímto hranolem vztahovala vodním roztokům. Naplněn vodou teploty 20°4 působil hranol úchylku
+
+
+—24° 00'41"".
+
+
+Pro tuto teplotu přijat index lomu vody měření van der Willi^enova
+
+
+332D7
+
+
+kdežto uvedené úchylky plynulo dle vzorce (I)
+
+
+1-3.3340
+
+
+﻿27
+
+
+tak jest oprava indexu lomu
+
+
+0-00043 Pro kontrolu určeny ještě opravy
+
+
+121""3
+
+
+=+219-5, 77-9
+
+
+základě všech čtyř oprav nalezena hodnota pro index lomu skla desek
+
+
+mezích j/»-
+
+
+-404 '46,)
+
+
+kterážto přesnost určení oprav při měření indexu lomu jiné kapaliny úplné dostačí, jakož vůbec lze tento počet vésti čtyrmístními logarithmy. dalším Přijmeme
+
+
+Tyto předběžné výpočty vztahují jednak určitému dalekohledu, jednak určitému hranolu, pročež provádějí pro jednou pro vždy.
+
+
+10. Index lomu kapaliny.
+
+
+Znajíce již potřebné stálé, můžeme přikročiti výpočtu indexu lomu kapaliny; tak př. jistý roztok dával našem hranolu minimální úchylku
+
+
+25° 52' 00"".
+
+
+základě této hodnoty určeného již úhlu indexu plyne dle vzorce (II) pro pomocný úhel
+
+
+27° 55' 50"",
+
+
+který stačí určiti desítky vteřin. Chceme-li míti kontrolu, počítáme nyní aspoň dle dvou vzorců (a); (b), (c) (ď), zde však pro příklad budiž užito všech.
+
+
+prvém případě vypočtěme základě nezměněných úhlů index kapaliny zevrubně, př. sedmimístně
+
+
+=0-1 325487 l-3fV)90.
+
+
+Vzorec (a) nebo (a') udá opravu buď indexu samého neb jeho logarithmu. Zde stačí zase čtyřmístní počet. našem případě vyjde
+
+
+0-00035 lg~ =-<H)001120,
+
+
+čehož jde pro index hledaný jednak
+
+
+0-132 43i>7
+
+
+1-35G55 což navzájem úplně souhlasí.
+
+
+jednak ﻿28
+
+
+ostatních třech případech opraví dříve jeden úhlu, sice případě (b) úchylka <5, případe (c) lámavý úhel hranolu g>, sice čitateli jmenovateli vzorce (I), případě (d) rovněž úhel lámavý qp, avšak jen jmenovateli téhož vzorce, ježto opravy úhlů jsouce opačně označeny součtu -f- ruší.
+
+
+příkladě našem jest
+
+
+(b) 1'42""2,
+
+
+(c) 44-7
+
+
+(d) 02-3
+
+
+načež všech třech případech vyjde dle vzorce (I) jednotku sedmého desetinného místa logarithmu souhlasně
+
+
+\gn= 0-132 4367 což případem (a) zcela shoduje.
+
+
+Jest-li nám častěji konati více měření týmž hranolem, jest výhodou sestrojiti pro něj tabulku, která každé pozorované úchylce podává přímo opravy: indexu lomu neb jeho logarithmu, aneb opravy úhlů r/', í). Úryvek takové tabulky platné pro hranol příklad volený zde podáváme.
+
+
+GO°41T>0"" roo
+
+
+Ig* 0-1606
+
+
+8	n	J10'	n	JW	,	JW	Y	JW	»	„10M
+
+
+o-ooo		-0-000		-OW		-f OW		-{-OW	
+
+
+23°	1540		4(38		2'11""		4'07""		1'26""	
+
+
+ii		21-8		6-8		1""8		- 5""2		__ 1""4
+
+
+24	1391	427			200		336	117		
+
+
+		24-2		6-8		1-8		— 4-7		— 1-4
+
+
+25	1246	886			150		308		109	
+
+
+		23-7		6-8		1-8		— 4-4		-- 1-3
+
+
+26	1104	345			139		242		101	
+
+
+		23-1		6-7		1-8		-4-0		— 1-3
+
+
+27	0965	806			128		217		054	
+
+
+		22-5		6-8		1-8		— 3-7		— 1-3
+
+
+28	0830	264			117		1 55		046	
+
+
+		22-0		6-7		1-8		— 3-5		— 1-2
+
+
+0698 221					106		131		039	
+
+
+		21-5		6-7		1-9		-3-2		— 1-2
+
+
+0569		184			0 55		115		032	
+
+
+		21-0		6-5		1-9		— 3-0		— 1-2
+
+
+31	0442		145		043		057		025	
+
+
+		20-5		6-7		1-9		— 2-8		— 1-1
+
+
+32	0319		105		031		040		018	
+
+
+		20'0 ;		6-5		1-9		— 2-6		— 1-1
+
+
+33	0196	S 066			020		025		011	
+
+
+34	0081	19-6	027	6-5 r-.o	008	2O	010	— 2-5 O.Q	005	— 1-1 Ijt
+
+
+35°	0034		011	O O	004	2-0	004	--- O	002	L
+
+
+	-f 0-0,0		-f 0-000		-f OW		— OW		— OW	
+
+
+6	.g; ^o-		*	'»	d'	^10	,-	! JlO'		<»
+
+
+﻿29
+
+
+
+
+
+Pro úchylku svrchu zvolenou 25° 52' plyne naší tabulky přímo
+
+
+0-000 350 =-- -l' 40"", g»' +2' 45"",
+
+
+což jest souhlas hodnotami počítanými zcela uspokojivý.
+
+
+Tím umožněno jest správné měření hranolem, jehož desky nejsou zcela plánparallclní, převedením obvyklý způsob počtu pouhým užitím jednoduché tabulky. Není tedy třeba velký náklad vésti to, aby desky hranolu byly přesně plánparallelní, dostačí pouze pečovati to, aby byly dokonale rovinné, aby úhel lámavý jejich nedosahoval mnoha minut, lze tuto nedokonalost vymítiti počtem. Vždyť vůbec rozumná snaha při měření fysikalním nenose nesplnitelnému požadavku odstraniti všecky chyby stroje úplní*, ale udržuje toliko pod jistou mezí, pod níž může zdokonalenými methodami pozorovacími početními chybným strojem nabyti výsledku bezvadného. ﻿Úvod.......... .....
+
+
+Odvození vzorců.
+
+
+Hranol redukovaný......
+
+
+Určení součinu ta.......
+
+
+li. Soustavné měření všech tří úhlů
+
+
+Index lomu v..... ...
+
+
+Hranol libovolný.......
+
+
+Měření úhlů mezi průměty
+
+
+Určení sklonu osy dalekohledu
+
+
+II. Užití vzorců.
+
+
+Určení stálé v.........
+
+
+(J. Určení konstant hranolu
+
+
+10. Index lomu kapaliny......
+
+
+Stránka
+
+
+
+
+
+
+
+
+27"

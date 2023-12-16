@@ -1,0 +1,494 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+Poznámka zborcených plochách druhého stupně.
+
+
+Napsal Eduard Weyr.
+
+
+(Předloženo dne 18. listopadu 1898.)
+
+
+zborcené ploše omezuje přímka přímkou nekonečně blízkou element plošný; jím jest stanovena tečná rovina každém bodě oné přímky. příčině tečných rovin jest tento plošný element aequivalentní souhrnu všech bodů dané přímky jich tečnými rovinami. Tento souhrn lze nazvati plošným elementem přímočarým.
+
+
+Element takový jest vytknut plošnou přímkou tečnými rovinami třech její bodech; jest totiž řada bodů dotyčných projektivná svazkem tečných rovin.
+
+
+Dány-li hyperboloidu dvě plošné přímky různých systémů, jest každou nich stanoven přímočarý element plošný; rovina procházející oběma přímkami jest tečnou rovinou obou elementů společném bodě daných přímek. Stačí znáti tečné roviny dvou dalších bodech přímky tečné roviny j>, dvou bodech přímky aby byly stanoveny oba přímočaré elementy plošné.
+
+
+Aby plocha druhého stupně procházela dvěma přímkami jež protínají bodě jest nutné stačí vésti plochu bodem dalšími dvěma body přímky dvěma body přímky což celkem činí pět bodů. Rovina vedená přímkou bude tečnou rovinou plochy, pro-chází-li plocha bodem roviny nekonečně blízkým obdobně bude rovina /3, vedená přímkou tečnou rovinou prochází-li plocha bodem roviny nekonečně blízkým bodu což ukládá ploše, aby procházela dalšími dvěma body; též platí požadavku, aby roviny vedené přímkou O,, byly tečnými rovinami bodech Všemi těmi požadavky ukládá ploše, aby procházela 5-}-2-\-2 body, čímž jest plocha druhého stupně obecně stanovena.
+
+
+Rozpravy: Ročn. VIII. Tř. II.
+
+
+VI. ﻿Jest však zajímavým faktem, jenž tuším ušel pozornosti geometrův, plocha tímto způsobem stanovená obecně zvrhne rovinu procházející přímkami při libovolně volených rovinách /3, jest nutno dáti rovině tečné bodě zcela určitou polohu, aby existovala nezvrhlá plocha druhého stupně hovící daným požadavkům.
+
+
+Stručněji lze říci, dva přímočaré plošné elementy společné tečné rovině obecně nejsou ploše druhého stupně; aby byly, musí mezi elementy býti jistý vztah, pak nalézají nekonečném množství ploch druhého stupně, tvořících svazek ploch.
+
+
+ukázati onen vztah vytknouti formě relace vížící centrálně body distribuční parametry obou elementů, jest účelem této krátké úvahy.
+
+
+Především snadno nahlédneme, existuje hyperboloid procházející přímkami dotýkající bodech resp. rovin /3, procházející přímkou vedenou bodem rovině libovolně.
+
+
+Označíme-li totiž c', c"" průsečíky přímky rovinami /J, jest hyperboloid vedený přímkami J3, značí-li si, spojnice ač', bc"", jen ten. Plošné přímky procházející body mimo musí totiž protínati přímku ležíce rovinách resp. jsou nutně spojnice ač', bc""\ přímky protínají všecky tři přímky řídící jsou tudíž hyperboloidu, jenž bodech patrně tečné roviny /?,
+
+
+Jest-li hyperboloid stanovený obdobně jinou přímkou vedenou bodem rovině lze týž pokládati plochu homologickou (centralně-kollineárnou) ploše ff, při čemž bod jest středem rovina rovinou homologie.
+
+
+Přiřadíme-li totiž přímce homologicky přímku (70, jest homologie vytčena, přímky rovině homologie položené, jakož roviny /3, středem homologie procházející, přísluší sobě čehož patrno, hyperboloidu přísluší hyperboloid procházející přímkami tečných rovinách ft, bodech hyperboloid //0.
+
+
+Libovolným bodem přímky prochází mimo ještě jedna plošná přímka hyperboloidu //, která ovšem protíná přímky jest tedy průsečnicí rovin (dač'} (dbc"").
+
+
+Naplní-li svazek vrcholu rovině j>, proběhne bod řadu svazkem perspektivnou přímce c"" řadu týmž svazkem perspektivnou přímce paprsek naplní ovšem rovině svazek vrcholu perspektivný první řadou, paprsek bc"" svazek vrcholu perspektivný druhou řadou. těmto svazkům jsou svazky rovin vytvořené rovinami (dač'} resp. (dbc"") osách resp. perspektivné, jsou tedy tyto dva svazky rovin projektivně. Blíží-li paprsku blíží sdružené roviny (dač) (dbc"") patrně rovině (dP) oběma svazkům společné, jsou tedy svazky rovin perspektivné, průsečnice jich sdružených rovin naplní jistou rovinu
+
+
+VI. ﻿Totéž ukazuje homologie; neboť jsou-li přímky odvozené přímek C0, přísluší vytčenou homologii, nalézá tudíž rovině (0Z?) čili rovině (QD\ Tím zároveň patrno, rovina prochází přímkou
+
+
+Předchozí úvaha nám podala konstrukci tečné roviny libovolném bodě přímky hyperboloidu, procházejícího přímkami dotýkajícího bodech resp. rovin /3, jinými slovy, seznali jsme vazbu mezi čtyřmi dotyčnými body jich tečnými rovinami
+
+
+Není nezajímavé vyjádřiti tento vztah způsobem počtářským. tím účelem zvolme přímky nichž nejprve předpokládáme, protínají konečnu, osy další přímku vedenou mimo rovinu .rj>, třetí osu soustavy rovnoběžných souřadnic. Každá plocha druhého stupně procházející přímkami rovnici tvaru
+
+
+(1)
+
+
+
+
+
+013 -f- «23 «34) 5"" *12
+
+
+diskriminant její jest «12a^342, pro nekuželovou nezvrhlou plochu platí tedy aía «34
+
+
+Značíce, jako obyčejně, derivace podle literami máme bodě (.r, ose
+
+
+
+
+
+bodě (0, j>, ose
+
+
+Značí-li úsečku jiného bodu ose příslušnou derivaci, souřadnici dalšího bodu ose příslušnou derivaci, máme tedy rovnice
+
+
+(2)
+
+
+
+
+
+
+
+
+^34
+
+
+homogenní vzhledem #12, «13, ír23, ^34. Poněvadž pro nezvrhlou plochu tyto čtyři hodnoty nejsou vesměs millami, musí determinant jich koeffi-cientů vymizeti, musí platiti
+
+
+(3)
+
+
+
+
+
+
+
+
+
+
+
+Toť relace, jež váže čtyři body, zvolené dvou plošných přímkách oy, tečné roviny nich sestrojené. Připomeňme, relace
+
+
+VI. ﻿ta platí při libovolně zvolené ose jejíž volby závisí patrně geometrický význam hodnot /», qx.
+
+
+Jsou-li jak podvojné body přímkách tak tečné jich roviny voleny libovolně, jsou plt <?, libovolné, tedy nehovící relaci (3); pak ale (2) vychází
+
+
+#12 al3 a23 #34
+
+
+rovnice (1) redukuje rovnici roviny
+
+
+Jsou-li však ony čtyři body tečnými rovinami tak voleny, hoví relaci (3), mají rovnice (2) nekonečné množství nenullových řešení Utvo-říme-li totiž soustavě koefficientů těchto rovnic minor příslušný prvnímu koefficientu al2, obdržíme hodnotu /A^i-^iO'—7i)> patrně různou nully, pročež stačí vyhověti posledním třem rovnicím (2). Jich řešení ukazuje, lze al2 voliti libovolně, a13, a23, <z34 pak jsou určité násobky oné hodnoty. Značíme-li aí2 a13, a23, a3í jedno řešení, jest tedy každé dáno hodnotami
+
+
+3233
+
+
+kde jest libovolné číslo. Jest tudíž při libovolných a33
+
+
+012 aia a23 así
+
+
+
+
+
+
+
+
+rovnice všech hyperboloidů procházejících osami dotýkajících daných čtyřech bodech daných rovin; plochy tvoří svazek, stanovený hyperboloidem
+
+
+""34
+
+
+dvojnásobnou rovinou
+
+
+Homologie, jejíž střed jest bod rovina homologie oxy, přiřaďuje bodu bod souřadnicích
+
+
+
+
+
+
+
+
+
+
+
+zde značí stálou, různou nully. Touto homologií jest plocha (1) při-řaděna ploše
+
+
+
+
+
+
+
+
+kde učiněno
+
+
+
+
+
+""33 ""33 T"" ""T"" ^34
+
+
+toť ale opět plocha vytknutého svazku druhého stupně.
+
+
+VI. ﻿4. Jsou-li druhé přímky />, rovnoběžný, volme jich rovinu rovinu xy, libovolný bod počátek, tuto přímku osu pravoúhlé soustavy souřadné.
+
+
+Jsou-li *#, rovnice přímky <2, jest
+
+
+(4)
+
+
+
+
+
+tf22 #22 ji>
+
+
+rovnice plochy druhého stupně, procházející přímkami diskriminan její jest *«2a132tf222, platí tedy při nezvrhlé ploše al3 <222
+
+
+Hodnota jest všech bodech přímek patrné nullou; pro máme bodě (x,
+
+
+bodě (,r,
+
+
+(a13 -(-- «34) #2i>
+
+
+(a13 -j- a2S -)- #34) -f- a22 takže, značí-li úsečky dvou bodů přímky x2, úsečky dvou
+
+
+
+
+
+
+
+
+bodů přímky konečně bodech, máme rovnice
+
+
+hodnoty derivace
+
+
+
+
+
+těchto
+
+
+(5)
+
+
+(""is ""s (a18 ^34)
+
+
+(«13 <*2
+
+
+homogenní vzhledem čtyřem hodnotám <7ia, 2«.,3, ď34, ^22. Determinant koefficientů těchto hodnot tudíž vymizí, což vzhledem okolnosti, hodnoty gít g.2, jsou všecky různý nully, lze psáti tvaru
+
+
+(6)
+
+
+		1
+
+
+0,	1,	
+
+
+		9
+
+
+		1
+
+
+o,	1,	fc
+
+
+		1
+
+
+*11 *l	1,	
+
+
+		1
+
+
+•»- •*Ji -1)	1,	
+
+
+		^3
+
+
+
+
+
+Je-li rovnice vyplněna, lze opět snadno nahlédnouti, existuje nekonečné mnoho řešení rovnic (5) podávajících celý svazek ploch (4), jež hoví vytknutým požadavkům.
+
+
+VI. ﻿Volíme-li přímce speciálně bod centrálný počátek souřadnic, zároveň první čtyř daných bodů, máme oo, je-li .r2 úsečka centrálného bodu přímky jest oo, čímž (6) přejde
+
+
+
+
+
+což lze psáti
+
+
+čili, vzhledem
+
+
+*t,
+
+
+x?> -r2J
+
+
+,i-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avšak jest zv. parametr distribuční přímky /', q.} (,r;! .r2) parametr přímky 6*, takže poslední rovnice praví, tyto dva parametry liší pouze znamením.
+
+
+Dva přímočaré plošné elementy dvou rovnoběžných přímkách společné tečné rovině, jsou tedy tenkráte jen tenkráte přímočaré ploše druhého stupně, mají-li jich distribuční parametry tutéž číselnou hodnotu, ale různá znamení, jsou-li tečné roviny bodech resp bodu centrálného stejné stejném směru vzdálených sice stejně nakloněny rovině Q), ale nikoli rovnoběžný; tečné roviny bodech resp. centrálného bodu stejně vzdálených, ale různých směrech, jsou ovšem rovnoběžný.
+
+
+Dva plošné elementy přímočarné přímkách protínajících bodě <?, společné tečné rovině <9) tomto bodě, jsou stanoveny, vytkneme-li jich centralné body parametry distribuční; známe pak tečné roviny bodech centralných tedy roviny asymptotické, tečné roviny třech bodech každého elementu.
+
+
+toho jde, musí mezi oběma parametry distribučními mezi vzdálenostmi centralných bodů bodu existovati relace, podstatě arci souhlasná relací (3), jsou-li oba plošné elementy přímočarné ploše druhého stupně; onu relaci ještě odvodíme.
+
+
+Zvolme, jako článku 3., přímky osy .v, osu však kolmici oběma těmto přímkám bodem vedenou. Každá plocha druhého
+
+
+VI. ﻿stupně procházející přímkami ovšem rovnici (1) této ploše supponujeme dané přímočarné elementy plošné.
+
+
+Je-li <jp úhel sevřený osami snadno nalezneme, rovina
+
+
+tvoří rovinou úhel, jehož tangenta jest —~—, rovina
+
+
+
+
+
+
+
+
+voří rovinou úhel tangentě
+
+
+sin
+
+
+Učinivše CXD relaci či. odvozené
+
+
+nalézáme pro asymptotickou rovinu elementu
+
+
+q~— tedy
+
+
+ď-»
+
+
+tuciíž pro centrálnou rovinu:
+
+
+sin
+
+
+sin
+
+
+sin~
+
+
+načež napsaná relace podává úsečku centralného bodu
+
+
+
+
+
+nyní plyne parametr distribuční elementu
+
+
+(s)
+
+
+Obdobně vede relace
+
+
+^34 sin
+
+
+
+
+
+článku pořadnici j'(, centralného bodu distribučnímu parametru elementu
+
+
+(9)
+
+
+
+
+
+
+
+
+VI. _i_ sin Učinírne-li příčinou přehlednosti
+
+
+znějí rovnice (7), (8), (9), (10):""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rovnice jsou vzhledem /^, homogenní lze nich tudíž tyto čtyři hodnoty eliminovati.
+
+
+prvních dvou snadno plyne
+
+
+druhých dvou
+
+
+L-=--,
+
+
+
+
+
+čímž máme mezi čtyři homogenní lineárně rovnice
+
+
+-\- -f-a dj>0 -J-
+
+
+
+
+
+nichž, vzhledem soudíme, determinant koefficientů mizí,
+
+
+y^k x^k' kk' k').
+
+
+Toť hledaná relace mezi vzdálenostmi centralných bodů bodu mezi distribučními parametry jež, vzhledem jich definici
+
+
+
+
+
+jakožto podíly -f-, -^-, nutno ovšem též pojímati algebraicky.
+
+
+relace nevchází sklon <p, čehož soudíme, dva přímočaré
+
+
+plošné elementy společném bodě společné tečné rovině, položené zborcené ploše druhého stupně, nepřestávají býti takové ploše, otočíme-li libovolný úhel kolem osy procházející jich společným bodem kolmé jich společné tečné rovině.
+
+
+VI."

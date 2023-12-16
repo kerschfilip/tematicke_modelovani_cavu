@@ -1,0 +1,2930 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 40.
+
+
+elektrolytickém usměrňování proudu střídavého.
+
+
+Dr. Šebor inž. Šimek.
+
+
+elektrotechnického ústavu české vysoké školy technické Praze.
+
+
+Předloženo dne 22. června 1906.
+
+
+Úvod.
+
+
+Již dávno jest známo zajímavé chování aluminia, jako anoda použito proud elektrický nepropouští, kdežto jako kathoda neklade zvláštního odporu. Prvým, jenž shledal, aluminium svým chováním různí ostatních kovů byl Wheatstone (Liebig. Ann. 1857, 102, 296), když snažil stanoviti místo aluminia řadě napjetí. Shledal, toto kolísá mezích velice značných, dle toho, jakého elektrolytu bylo použito. Buff, jenž pokusy opakoval, potvrdil celém rozsahu, vysvětloval zvláštní toto chování elektromotorické passivitou, již byl již dříve Heeren (Mittheil. děs Gewerbevereins fůr Hannover 1855, 342) při aluminiu pozoroval. Použil-li aluminia jako anody zředěné kyselině sírové, nemohl Buff ani články Bunsenovými (ca volt) docíliti elektrolysy značnější odchylky galvanoměru. Když pak provedl další pokusy Wóhlerem (Lieb. Ann. 103, 218) používaje jako elektrolyty roztoky chloridů, shledal, rozpouští aluminium velmi energicky, spozoroval dokonce vývoj siliko-vodíka aluminium obsahovalo silicium zřejmý doklad, probíhal současně rozklad vody.
+
+
+Beetz (Wied. Ann. 1877, 93) spozoroval aluminiu passivním vrstvu oxydickou uváděl jako příčinu uvedeného zjevu passivity. Později setkal tímto zjevem též Oberbeck (Wied. Ann. 19, 625), když základě pokusů Kohlrauschovýcho elektromotorickém působení tenkých vrstev plynnových (Wied. Ann. 148 143) prováděl měření po-larisační kapacity, různých kovů roztocích chloridu sodnatého shledal, aluminiu vylučuje nejsilnější vrstva isolační. Streintz (Wied. Ann. 17, 841) nalezl, aluminiová elektroda plyny nabitá nejrychleji ztrácí svou kapacitu polarisační. Týž shledal později (Wied. Ann.
+
+
+Rozpravy: Roč. XV. Tř. II. 40.
+
+
+XL. ﻿34, 751), zředěné kyselině sírové vzrůstá napjetí přes volt uvedl příčinu toho účinek kondensátorový.
+
+
+Scott1) pozoroval, polarisační kapacita aluminia, jakmile vytvoří vrstva isolační, klesá, článek elektrodě hliníkové chová jako kondensátor spojený paralellně velikým odporem sériově malým odporem Odpor závisí dle něho vodivosti vrstvy isolační, kdežto odpor paralellní jest závislý odporu elektrolytu vzrůstá míře, jaké přibývá tlouštce vrstvy.
+
+
+První praktické použití popsaného zjevu navrhl Ducretet,2) chtěje článku elektrodě hliníkové použiti jako děliče proudu »rheotomti*, jenž dovoloval průchod proudu jen jedním směrem. usměrňování proudu střídavého navrhl jej prvně Turner Bottome,3) jak Wilke4) uvádí, všeobecně stal známým teprve přednáškou Graetzovou.5) Týž použil usměrňování článku elektrodě hliníkové nějaké stálé elektrodě uhelné, jako elektrolyt sloužila zředěná kyselina sírová. Byl článkem tím usměrniti proud napjetí volt, kteréž zvýšenou hustotou proudovou ještě poněkud stoupá. Pozoroval dále, napjetí polarisační přerušení činí pouze volt jako příčinu zjevu ventilového uvedl polarisaci dielektrickuu. Podal též schéma spojení článků nichž jsou elektrody obráceně postaveny, takže proudí článkem jedním proud jednom, druhým pak směru opačném. (Obr. 1.) Mnohem dokonalejší než soustava Graetzova byl článek, jejž použil, dříve ještě než Graetz usměrňování proudu Pollak.6) Týž shledal, článkem elektrody olověné hliníkové použití elektrolytů alkalických lze zadržeti proud napjetí 140 volt navrhl též uvedené spojení způsob ventilů pumpy dvojčinné. Zařízení Pollakovo jest totéž, jež dal Grisson7) (ovšem bez udání elektrolytu) patentovati, jež při hustotě amp. dm* bylo usměrniti proud napjetí 110 volt účinností 60%.
+
+
+seznání pochodů, jež aluminiové elektrodě probíhají, mají význam největší práce Nordena8) Fischera.9) Prvý zjistil, tvořící anodě vrstva jest hydroxyd hlinitý, jemuž bývá při vyšší hustotě proudové něco kovového aluminia přimíseno, druhý pak stanovil nejpříznivější podmínky, jakýchž jeví effekt ventilový měrou největší. Používaje jako elektrolytu zředěné kyseliny sírové zjistil, drát hlini-
+
+
+Scott, Wiedem. Ann. 1899, 406
+
+
+Ducretet, Compt. rend. 1875, 80. 280.
+
+
+Turner Bottume, Electrical Engineer Vol. XI., 149, 1891.
+
+
+Wilke, Elektroch. 1899, 211.
+
+
+Graetz, IV., 1897, 67.
+
+
+Pollak, Compt. rend. 124, 1443; Askenasi, IX., 67.
+
+
+Grisson, Elektroch. 1903, 432; Jahrb. X., 560.
+
+
+Norden, 1899, 159.
+
+
+Fischer, X., 869; Zeitschr. anorg. Ch. 43, 341.
+
+
+XL. ﻿Obr.
+
+
+kovy jeví odpor volt, trubička hliníková bez chlazení stanovil, teplota anody hliníkové při přerušení effektu ventilového dosahuje 109°, kdežto bod varu kyseliny sírové byl 105°. Nepatrná difference vysvětluje zvýšením koncentrace lokální solí rozpouštěním hliníka vzniklé. Nechal-li však trubkou hliníkovou protékati chladící vodu, jevila effekt ventilový ještě při 200 voltech, aniž vrstva isolační byla porušena.
+
+
+Fischer zjistil dále, pohybuje hydroxyd hlinitý nějakém
+
+
+elektrolytu suspendovaný endosmoticky směrem anodě, takže proudem střídavým jednak lne anodě, jednak při směru opačném této odtrhuje. Vysvětluje tímto úkazem znenáhlé porušování anody. Podobně jako Fischer studoval k1) chování anodové hliníka shledal přestoupí napjetí jistou mez kritickou, povlak hydrátu stává kry-stallinickým smršťuje se, takže část kovového povrchu obnaží. Týž nalezl pro teplotu kritické napjetí volt, pro teplotu 48° jen volt. Konečně zjistil Guthe2) (Jahrb. IX., 438), elektroda hliníková evakuováním ztrácí odporu, domnívá se, odpor její způsoben jest alespoň části kyslíkem okludovaným.
+
+
+Další práce patenty obírají vlivem, jejž jeví povaha elektrolytu kritické napjetí anodové. Kdežto nalezeno bylo zředěné kyselině sírové bez chlazení elektrody napjetí pouze volt, lze, jak Lecher3) pozoroval, roztoku kamence hlinito-draselnatého dosáhnouti napjetí nad volt, roztoku fosforečnanu draselnatého pak lze dosáhnouti dle Burgessa Hambuechena4) napjetí ještě vyššího při využitkování 80°/9. Nodon5) dal patentovati přístroj, němž používá jako desky elektrodové slitiny hliníka 5°/0 zinku něco chrómu účelem zvýšení trvanlivosti. Jako elektrolyt slouží roztok fosforečnanu ammo-natého, Zařízení toto snese napjetí 140 volt při hustotě proudové Ddm""- amp. jeví při periodách účinnost 80%. Firma iemens-Halske dala patentovati roztoky dvojuhličitanu horečnatého, vápenatého ammonatého, nichž nemůže kysličník hlinitý rozpouštěti, když jest hliníková elektroda kathodou. Později rozšířila patent svůj též soli kyseliny mandlové, zvláště barnaté. Allgem. Electri-^, X., 369; Electrical Rév. 44, 372.
+
+
+Guthe, Jahrb. IX., 438.
+
+
+Lecher, Ber. Wien. Acad. 107, 2a, 739.
+
+
+Burgess Hambuechen, Jahrb. IX., 438.
+
+
+Nodon, Jahrb. X., 441; Electric. World. 40, 172.
+
+
+DRP. 125769, 127302, 127525.
+
+
+XL. ﻿zitáts-Gesellschaft vzala privilej sole organických kyselin: citrónové, vinné jablečné, zvláště sole hlinité alkalických zemin. Také Ch. lak8) zdokonalil svůj transformační přístroj dal patentovati roztok mýdelný (5°/0ní), němž napjetí kritické dosahuje výše 200 volt.
+
+
+Taylor Inglis8) zjistili, jony NO'3, CIO'z SCN' způsobují rozpouštění hliníka, jony SO± působí mírněji, kdežto C2//3 vůbec nejeví vlivu. Vysvětlují menší propustností vrstvy hydroxydové pro jony větší veličině molekulové dokázali tento názor svůj pokusy diffusními blánkou hydroxydu vrstvy želatiny vyloučenou, Podařilo jim též vyvolati effekt ventilový blánkou hydrátu hlinitého sraženou diafragmatu, aniž bylo třeba použiti elektrody hliníkové, kterýmžto pokusem jest jasně prokázáno, vlastní příčinou zjevu jest nepropustnost vrstvy isolační pro jonty soli. druhé řadě pak hraje roli isolující kyslík snad též vodík bublinkách elektrodě vrstvě okludovaný, jak plyne pokusů Guthe-ho4) (Jahrb. IX., 438), jenž pozoroval, ubývá elektrodě hliníkové odporu, nalézá-li vakuu; ovšem může tomto případě býti příčinou také odlupování vrstvy expandujícími plyny. Dle bylo dále použito vedle fosfátu ammonatého též boranu ammonatého aBurgess aHambuechen6) použili dobrým výsledkem též roztaveného dusičnanu sodnatého účinností 60—80°/0-W. Bancroft (J. XI., 591) shledal, chlazení lze trubkovou elektrodou hliníkovou udržeti 200 volt, je-li elektrolyt fosforečnan sodnatý, 0'67% citrónové kyselině dokonce 500 volt.
+
+
+Zjev ventilový byl však pozorován netoliko hliníka, nýbrž též řady kovů jiných, byť mírou daleko skrovnější. Tak pozorovali Elbs Thiimmel7), studujíce anodické chování dnu, antimonu vizmutu roztocích soli kuchyňské, sulfátu sodnatého, kyseliny solné sírové zjev ventilový antimonu všech roztocích, natriumsulfatu ještě při volt, vizmutu však pouze roztocích solí kyslíkatých, hra-ničná mez však stanovena nebyla. Při roztocích chovající jony halové jeví zjev ten jen při větším zředění měrou patrnější. Campetti8) pozoroval zjev ten magnesia roztocích alkalií, napjetí volt důkladně prostudoval anodické chování magnesia různých roztocích Baboro vský.9) ti10) pozoroval effekt ventilový jako Elbs
+
+
+DRP. 130725, 138856.
+
+
+Angl. Pat. 1896, 1069; J897, 23442; 1898, 933. Jahrb. X., 439. Guthe, Jahrb. IX., 438. Rosling, The Electrician 1906, XVI., 677. Burgess Hambrechen, Jahrb. X., 560. Elbs Thummel, 1903, 135, 1904, 364. Campetti, Jahrb. 1904, 421.
+
+
+Baborovský, Zprávy České Akademie 1905; XI., 465. 10) Ber ti, Jahrb. 1902, 438.
+
+
+XL. při antimonu, vizmutu kadmiu elektrolytech kyslíkatých fa. Siemens Halske (DRP 150833, 1903) vzala patent tantal, niob neb vanad, jež kyselině sírové neb jiné neatakující rovněž vytváří isolační vrstvu.
+
+
+Fischer1) studoval anodické chování mědi shledal, nižších hustotách proudových rozpouští měď přímo úměrně dle zákona Faradayova, při vyšších však povstávají odpory přechodné, vyvolané vrstvou incrustující anoda rozprašuje. Pokusy byly provedeny kyselině dusičné, roztoku síranu sodnatého, dále sloučeninami halovými kyselinou fosforečnou; při posledních však effekt ventilový pozorován nebyl. Kritické napjetí zředěné kyselině sírové při rozprašování nalezeno bylo při voltech, když nebyla elektroda chlazena, při chlazení však při 220 voltech. Guthe (1. c.) shledal zjev ventilový podobné jako Taylor Inglis při poloprostupné bláně ferrokyanidu mědnatého, jež propouští proud pouze směru, němž nastává rozklad soli, při opačném směru proudovém však teprve při napjetí nad volt. Werner Boltonu2) pozoroval effekt ventilový vysoké míře při tantalu též olova roztocích chovajících vedle jiných solí přebytek uhličitanu sodnatého, jak tomu jest při výrobě běloby olověné cestou elektrochemickou. Napjetí může dostoupiti volt. Zjev tento jejž jsme měli během svých pokusů též příležitost pozorovati, způsobuje usměrňovač Grissonův své účinnosti znenáhla klesá.
+
+
+Pokud týče upotřebení usměrňovače elektrolytického, navrhuje, Churcher4) používati jednoho článku dvou elektrodách hliníkových jedné indifferentní, jež připojuje středu sekundárního vinutí trans formatoru, kdežto oba konce jeho jsou připojeny elektrodám hliníkovým. (Obr. 2.) Strasser5) kombinuje Pollakův rotační usměrňovače článkem hliníkovým lig. Elec-trizitáts-GesellschaftG) dala Obr
+
+
+Fischer, 1904, 421.
+
+
+Boltonu, 1905, 45.
+
+
+Isenburg, IX., 275.
+
+
+Churcher, Electr. World. 44; XI., 441.
+
+
+Strasser, DRP. 1903, 151414.
+
+
+DRP. 150833, 1903.
+
+
+XL. ﻿patentovati používání článku usměrňovacího pro proud vícefásovy, užívajíc tomto případě tolik párů článků, kolik jest fásí proudových.
+
+
+Konečně třeba uvésti, Mott1) nalezl vážením tlouštku vrstvy, jež vytváří fosforečnanu sodnatém shledal, jest tato závislá napjetí, při kterémž vytváří. Týž nalezl,
+
+
+při voltech obnáší tlouštka 10~6 cm, 10~6 cm,
+
+
+10~6 cm.
+
+
+množství coulombů vytvoření vrstvy isolační spotřebovaných při formování vypočítal pak hodnoty velmi dobře shodující, totiž
+
+
+pro
+
+
+volt 120
+
+
+10~6 cm, 10-6 cm, 10~6 cm,
+
+
+podobná stupně čísla stanovil barvy interferenční. Pokud vnitřního odporu vrstvy isolační týče, určil jej při 25° jako ca. 107 ohm čtver. centimetr nalezl, jeví silně negativní koefficient tepelný, jak tomu jest roztavených solí. Týž odvodil, pokud týče schopnosti anionů, vytvářeti vrstvu isolační, přísluší tato míře nejvyšší anionům vícemocným, míře nejmenší anionům jednomocným. Též Peters Lange (E. 1905, 751) Mott (El. Ind. 1904, 447) studovali vliv různých elektrolytů.
+
+
+své práci snažili jsme seznati vliv cizích kovů ventilový effekt aluminia jevící současně prostudovati chování článku vůči proudu střídavému, jednak usměrňovače, jednak kondensátoru, jakož hustotu proudovou, jež elektrodou hliníkovou prochází.
+
+
+Anodické chování některých kovů slitin růz ných elektrolytech.
+
+
+Pokusy, určiti mezné napjetí, provedeny byly proudem stejnosměrným články, jichž anodou byla elektroda aluminia neb některého jiného kovu, případně slitiny. Použito bylo známého spojení:
+
+
+Článek byl zapjat obvodu proudového tak, bylo
+
+
+Obr.
+
+
+Jahrb. XI. 441.
+
+
+XL. ﻿lze batterie akkummulatorové pomocí paralellního odporu odbočiti proud různého napjetí, jehož intensita měřena milliampermetrem Westonovým voltmetrem (Obr. 3.) Při některých pokusech byla připojena normálná elektroda Ostwaldova proud vybíjen prostřednictvím kondensátoru galvanoměru Siemensova, jehož škála pomocí článku Westonova vycejchována.
+
+
+Roztok dvojchromanu draselnatého
+
+
+Aluminium.
+
+
+Jako elektrolytu bylo použito téměř nasyceného roztoku dvojchromanu draselnatého. Anodu tvořil drát ploše cm2, jehož zbývající část isolována páskem kaučukovým. Jako kathody použito plechu olověného. Pokusy provedeny při teplotě obecné 15—20°. Parciálně potenciály, pokud byly určeny, vztaženy jsou normalný potenciál vodíkový normalnou elektrodu Ostwaldovu 0*283 volt.
+
+
+Napjetí volt	Intensita ft-amp.	Potenciál Tt	Potenciál an. na	Poznámka
+
+
+4-3	0'2	0-14	4-14	Z počátku stanoveny oba roz-
+
+
+9.7	0-5	019	9-4	díly potenciálu, při vyšších
+
+
+14-8	2	0-76	14'0	jen kathodový.
+
+
+25-8	3	0-77	250	
+
+
+37-6	3	0-77	36-8	
+
+
+54'1	2	0-72	53-4	Objevují bublinky anodě,
+
+
+722	2-5	0-80	71-4	jež vzrůstají.
+
+
+81-2	2	0-90	80-3	Bublinky unikají.
+
+
+89-2	značná —		ca 88	Jiskření.
+
+
+Jak patrno, leží kritické napjetí, při kterémž vrstva isolační proráží, kolem volt. Elektromotorická síla článku mezi anodou elektrodou normální byla T10 volt, čehož plyne pro anodu potenciál partialní 1-38 volt.
+
+
+Antimon.
+
+
+Elektrolytem byl nasycený roztok dvojchromanu draselnatého. Plocha anodová byla cm2, kathodou byl opět plech olověný. Teplota obecná.
+
+
+XL. ﻿Nap jetí volt	Intensita ft-amp.	Potenciál kath. Tik	Potenciál anod. Tta	Poznámka
+
+
+2-12	o-i	0-33	1-80	Na anodě objevují ihned
+
+
+478	5-5	037	4'41	bublinky.
+
+
+7-30	12	0-47	6-84	
+
+
+12-75	12	0-97	1178	
+
+
+18-5	185	135	17-1	
+
+
+28-9	13	1-25	27-6	Bublinky počínají unikati.
+
+
+40-5	15	1-15	394	
+
+
+48	značná	—	—	Silný vývoj kyslíka.
+
+
+45	11	0-85	44-2	
+
+
+18-9	5	025	18-6	
+
+
+tomto případě leží tedy kritické napjetí pod volty. Druhé měření těchže podmínek provedeno při teplotě Výsledky jsou následující:
+
+
+Napjetí volt	Intensita fi-amp.	Potenciál kath. Tik	Potenciál anod. 7Ta	Poznámka
+
+
+2-15 475	0-5 4'5	0-07 0-30	208 4-45	Bublinky kyslíka počínají tvořiti.
+
+
+10-03	6-0	0-34	959	
+
+
+16-0	6-3	059	15-4	
+
+
+25-5	7	070	24-8	
+
+
+32-9	7-2	079	32-1	
+
+
+41-0	7-8	080	402	
+
+
+45-5	ca 10	ros	44-5	Intensita kolísá.
+
+
+49-0	stoupá	—	—	Jiskření vývoj plynu.
+
+
+Mezná hranice napjetí kritického leží poblíže volt, jako pokusu předešlém. přerušení proudu nalezeny potenciály
+
+
+-(-0-29 volt, 079
+
+
+kathody
+
+
+anody
+
+
+difference 1'08 volt.
+
+
+Přímým měřením nalezena elektromotorická síla článku 1*1 volt, tedy číslo shodné.
+
+
+Čin.
+
+
+Elektrolytem byl opět nasycený roztok dvojchromanu draselnatého. anodu sloužil drát cínový ploše cmz. Teplota obnášela 19'3°
+
+
+XL. ﻿Napjetí volt	Intensita Mamp.	Potenciál kath. Tik	Potenciál anod. Ka.	Poznámka
+
+
+2-11	0-6	o-io	2-00	
+
+
+4-70 6-55	17 87	1-04 1-29	3-66 5-26	Bublinky kyslíka. Elektrolysa.
+
+
+Jak patrno výsledků, nejeví cínu roztoku dvojchromanu fenomén ventilový míře značnější, jak patrno intensity stále stoupající. pokuse stanovena elektromotorická síla článku e=l'57 volt.
+
+
+Potenciál cínu nalezen potenciál olova difference potenciální
+
+
+—1'05 volt, Jt,
+
+
+1.56 volt.
+
+
+cínu pozorován černý povlak; potenciál jeho jest kyslíkový, kdežto potenciál kathody olověné jest vodíkem vyvolán. tomu tak jest plyne pokusu, při kterémž stanoven byl potenciál čistého olova vůči nasycenému roztoku dvojchromanu draselnatého při teplotě 180° Stanovení provedeno známou elektrodou vodíkovou. Elektromotorická síla článku K2Cr2On nasyc. norm. Elektroda Ostwaldova nalezena e~Q'4Q volt, při čemž proud probíhal olova rtuti. Plyne tedy pro potenciál olova lesklého »ir:-j-0-12 volt, při průchodu vodíka nalezen něco málo nižší, O'10 volt. Lze tedy míti, vysoký potenciál kathodový vyvolán byl vodíkem okludovaným, jednak přechodným odporem vrstvy bublinek, jak patrno stoupajících potenciálů při měřeních.
+
+
+Zinek.
+
+
+Zinek nejevil nasyceném roztoku dvojchromanu draselnatého žádný patrnější odpor kondensátorový; při napjetí l'75 volt probíhala elektolysa ft-amp. Plocha anody zinkové obnášela cmz.
+
+
+Aluminium-antimon.
+
+
+Slitina při pokusu tomto použitá chovala jen 0'29% antimonu, při opětovném tavení účelem docílení homogeností nastala disagregace směsi aluminium vyplavalo nad antimon. Plocha anodová odměřena zase cm2, zbytek drátu pokryt trubičkou kaučukovou. Kathodu tvořil veliký plech platinový, lesklý, jednostranné ploše cm3, elektrolytem byl nasycený roztok dvojchromanu draselnatého.
+
+
+Před pokusem nalezen byl partialný potenciál
+
+
+XL. ﻿10
+
+
+platinového plechu
+
+
+slitiny
+
+
+difference
+
+
+JT* 076 volt, íra 0'93 0'17 volt,
+
+
+přímým měřením nalezena elektromotorická síla článku Pt—dvojchroman slitina 0'15 volt. Výsledky pokusné byly následující:
+
+
+Napjetí volt	Intensita /u-amp.	Potenciál kath. 7TL	Potenciál anod. 7T0	Poznámka
+
+
+4-79	1-5	-0-28	507	
+
+
+9-56	1-5	-022	9-78	
+
+
+14-68	1-8	-0-19	14-87	
+
+
+25-7	1-8	-019	25-9	
+
+
+37-3	2-0	— 015	3745	
+
+
+50-1	18	0-02	501	
+
+
+57-2	1-8	0-18	57-0	
+
+
+64-3	19	0-24	64-2	Objevují bublinky anodě.
+
+
+71-5	2-0	0-32	71-3	
+
+
+80-4	1-8	0-32	80-1	
+
+
+89-2	2-0	039	888	Jiskření anodě kolísání
+
+
+				intensity.
+
+
+pokusu nalezeny potenciály anody kathody:
+
+
+anodový —099 volt,
+
+
+kathodový n^zz 085
+
+
+difference O'14 volt přímo stanoveno 0'15 volt.
+
+
+Potenciál kathody vůči roztoku pokuse jest potenciál platiny vůči dvojchromanu draselnatému, bublinky vodíkové, jež mezi měřením kathodě lpěly, přerušení proudu rychle unikly, když elektrostatická přitažlivost mezi elektrodou jimi přestala působiti, jest poněkud negativnější, vysvětluje zředěním roztoku. Hraničná mez pro napjetí anodové leží podobně jako čistého aluminia poblíže volt, nemají tedy malé podíly cizích kovů patrnějšího vlivu effekt ventilový, zvláště když jej jeví samy sobě také.
+
+
+Aluminium-zinek.
+
+
+Jako elektrolyt sloužil nasycený roztok dvojchromanu draselnatého, anodou byl drát ploše cm2, kathodou hladký plech platinový ploše cm2, teplota byla obecná.
+
+
+XL. ﻿11
+
+
+Před pokusem byl potenciál
+
+
+plechu platinového (kathody) JT* 0""705 volt, drátu (anody) l'09
+
+
+difference
+
+
+0-385 volt, přímým měřením stanovena elektromotorická síla soustavy 0-379 volt.
+
+
+Napjetí volt	Intensita t<-amp.	Potenciál kath. Tik	Potenciál anod.	Poznámka
+
+
+9-48	1-2	0-32	9-16	
+
+
+14-55 253	12 2-0	0-32 0-35	14-2 24-9	Bublinky anodě
+
+
+37-0	2-2	038	356	
+
+
+53-1	30	0'39	52-7	
+
+
+64-0	28	0-40	63-6	
+
+
+71-1	2-5	0-41	70-7	
+
+
+80-1	22	0-41	79-7	
+
+
+87-2	ca 300	058	86-6	Jiskření.
+
+
+Ihned přerušení proudu stanoveny parciálně potenciály:
+
+
+potenciál kathodový potenciál anodový difference
+
+
+*=: —0-84 volt, 0-99 0-15 volt,
+
+
+přímým měřením nalezena elektromotorická síla 0'15 volt.
+
+
+Kritické napjetí nalezeno něco níže než při čistém aluminiu.
+
+
+Roztok fosforečnanu ammonatého.
+
+
+Aluminium.
+
+
+Jako elektrolyt sloužil molarný roztok fosforečnanu ammonatého ^HPO^. Kathodou byl opět hladký plech platinový ploše cm*,
+
+
+anodou drát ploše cw2; teplota byla obecná. Potenciál elektrod byl
+
+
+nalezen následující:
+
+
+platiny n/{ —0-10 volt aluminia 0'90 difference 0'80 volt,
+
+
+přímým měřením byla určena elektromotorická síla článku volt.
+
+
+XL. ﻿12
+
+
+Napjetí volt	Intensita jtt, amp.	Potenciál kath. Tik	Potenciál anod. 7t„	Poznámka
+
+
+5-92	1-2	-o-io	6-02	
+
+
+774	0-6	0-35	7-39	
+
+
+10-20	ro	0-36	9-84	
+
+
+12-42	1-0	037	12-05	
+
+
+14-5	1-0	037	14-1	
+
+
+19-2	1-2	037	18-8	
+
+
+24-2	1-5	0-38	23-8	
+
+
+299	1-8	0-38	29-5	
+
+
+36-0	1-8	0-39	35-6	
+
+
+42-8	20	0-39	42-4	
+
+
+540	2-0	039	53-6	
+
+
+66-4	22	0-56	65-8	
+
+
+83-5	20	0-53	83-3	
+
+
+990	3'0	0-63	98-4	
+
+
+111-0	2-0	063	110-4	
+
+
+1225	2-0	0-69	121-8	
+
+
+132-5	25	084	131-7	Přerušeno.
+
+
+141 '0	25	0-41	140-6	
+
+
+159-0	2-7	041	158-6	
+
+
+1650	2-0	0-38	1646	Intensita kolísá.
+
+
+168-0	3-0	0-38	1676	
+
+
+171-0	stoupá	0-52	170-5	
+
+
+Kritické napjetí jest tedy asi 170 volt.
+
+
+Druhá řada pokusů provedena roztokem circa 10°/0ním, jenž choval 1029^- (NH^HPO^ 100 cm* byl tedy 0'78 molarním. Jako kathody použito plechu platinovaného ploše cm*. Elektrolytem bylo použití Wittova míchadla uvedeného pohyb elektromotorem, silně mícháno. Vzhledem tomu, potenciální difference kathodoyé oproti napjetí mezi elektrodami ukázaly bezvýznamnými, nebyly určovány; stanoven však potenciál vodíkové elektrody vůči uvedenému roztoku nalezen +0-43 při teplotě 18'0—18'1° Specifická vodivost elektrolytu nalezena při 18'0° 0-0565 ohm~v.
+
+
+Při pokusech ponořen byl článek thermostatu, udržována byla teplota možná konstantní. Mícháním vyměňována kapalina elektrodách velmi rychle, čímž byly chlazeny. Jako anoda sloužil plech ploše 3'8 cm* (jednostranně).
+
+
+XL. ﻿13
+
+
+Napjetí volt	Intensita ft-amp.	ftamp. cm*	Teplota	Poznámka
+
+
+5-5 120 180	2-0 3-5 4-0	0'5 0-9 1-0	16-5	Intensita vyskočila 150 u-amp., klesla však rychle, anoda sformovala úkaz ten jeví při každém skoku napjetí. Odečítáno min.
+
+
+42-0	85	2-2		Odečítáno min.
+
+
+54-0	100	2-6		
+
+
+65-0	15-0	4-0		
+
+
+78-0	15-5	4-1		
+
+
+96	17	4-5		
+
+
+109	17	4-5		
+
+
+121-5	18	4-7		
+
+
+134	18-5	4-8	16.8	i klesá delší době jti-amp.
+
+
+149	18-5	4-8		
+
+
+174	26	69	18-2	
+
+
+185	30	7-9		
+
+
+204	65	17	195	
+
+
+216	450	118		Jiskření, teplota rychle stoupá, zá-
+
+
+				pach fosforovodíku.
+
+
+Kritické napjetí činí tedy míchání zevního chlazení 216 volt nicméně počíná intensita již při 174 voltech rychleji vzrůstati.
+
+
+Magnalium.
+
+
+Magnalium chovalo 87'96% aluminia, tedy 12% horčíka. Slitina byla připravena, jakož všechny následující tyglu vyloženém magnesií; byla křehká, nedala válcovati, pročež použito bylo destičky lité tlusté, jejíž plocha jednostranná obnášela cm2. Jako elektrolytu použito roztoku fosforečnanu ammonatého 0'79 molarního, jak bylo uvedeno. Kathodou byl plech platinovaný. Výsledky pokusné byly následující: (viz hořejší tabulka str. 14):
+
+
+Maximální napjetí, jehož lze dosáhnouti míchání elektrolytem, leží při 240 voltech, ačkoliv silnější jiskření nastává již při 189 voltech. Příčinu obloučku třeba hledati náhlém protržení vrstvy ísolační (na hraně). Zajímavé jest, isolační vrstva magnaliu snese vyšší napjetí než čistého aluminia.
+
+
+Boraluminium.
+
+
+Aluminium chovalo jen nepatrné množství boru, bylo křehčí než čisté, dalo však ještě vyváleti plech.
+
+
+Jako elektrolyt sloužil 0'78 molarný roztok fosforečnanu ammonatého
+
+
+XL. ﻿14
+
+
+Nap jetí volt	Intensita jti-amp.	Hustota proud. fí-amp./čw*	Teplota	Poznámka
+
+
+5'5	2'5	06	162	/ vyskočí počátku 140
+
+
+12	4'5	1-1		/i-amp., klesá však rychle zpět,
+
+
+24	4-5	1-1		měření intensity provedeno
+
+
+36	5	12		vždy min., později
+
+
+48	7	17		2 min.
+
+
+59-2	10	2-5		
+
+
+71-5	12	30		
+
+
+90	155	39		
+
+
+102	16	4		
+
+
+115	19	4-7		
+
+
+127	21	52		
+
+
+143	22-5	5-6		
+
+
+163	27	6-7		
+
+
+189	28 7		182	Jiskřením utvořil malý oblou-
+
+
+220	35	8'7		ček,' přerušení proudu
+
+
+230	55	137		novém uzavření elektroda
+
+
+				sformuje.
+
+
+240	70	175	ca 20	Silné jiskření, intensita stoupá.
+
+
+středního. Plech anodový byl ploše cm2, kathodou plech platinovaný. Elektrolytem bylo mícháno.
+
+
+Napjetí volt	Intensita fi-amp.	Hustota íi-amp.V/w*	Teplota	Poznámka
+
+
+1-3		0-4	16-5	i vyskočí konec škály,
+
+
+18-0 30		0-7		ale rychle klesá.
+
+
+29-5 60		1-5		
+
+
+41-5 9		23		
+
+
+10		2-5		
+
+
+65	12-5	3-2 16-0		
+
+
+77	15	3-9		
+
+
+90	16	4-2		
+
+
+102	17	4-5		
+
+
+115	18	4-7		
+
+
+136	20	5-2		
+
+
+157	23	6-0		
+
+
+176	37	9.7		
+
+
+200	70	18-4		Slabé jiskření.
+
+
+220	220	58	196	Silné jiskření, intensita stoupá.
+
+
+XL. ﻿15
+
+
+Kritické napjetí obnáší podmínek uvedených 220 volt jako aluminia; obsahovala totiž slitina jen nepatrné množství boru.
+
+
+Manganaluminium,
+
+
+Slitina chovala dle analysy 9666% Si-\-Fe) 3'93% Mn, nedala válcovati, byla použita destička litá, jež opilována, načež povrch mezi válci uhlazen. Plocha její byla cm2; jako kathoda sloužila elektroda platinovaná, elektrolytem byl uvedený roztok fosforečnanu ammo-natého. Bylo mícháno.
+
+
+Napjetí volt	Intensita ft-amp.	Hustota (U-amp. cm*	Teplota	Poznámka
+
+
+4-5	7'5	19	15-4	Bublinky.
+
+
+14	13	38		
+
+
+23	35	88		Silný vývoj plynů.
+
+
+32	50	12-5	15-6	
+
+
+41	66	16'5	16-1	
+
+
+52	120	30	16-8	Elektrolysa.
+
+
+Jak čísel uvedených patrno, snižuje mangan značnou měrou isolující účinek vrstvy elektrodě. Příčinou tohoto zjevu zdá býti, jak připojený mikrofotografický snímek dosvědčuje, okolnost, mangan, vykrystallovav chladnoucí slitiny, tvoří volné, isolující vrstvou nepokrývající plochy. (Obr. 4.)
+
+
+Niklaluminium.
+
+
+Anoda niklaluminia minkinové hutě Reinickendorfu Berlína, jež bylo nám řiditelem Šetlikem dáno disposici) chovala 7-42°/0 niklu Použita byla elektroda ploše cm2, jako elektrolyt sloužil uvedený roztok fosforečnanu ammonatého bylo mícháno. Výsledky byly překvapující: při 4'5 volt procházelo již 200 pamp., takže účinek kondensátorový byl zde přítomností niklu úplně potlačen. Nikl rozpouštěl roztok zabarvil žlutozeleně. Také zde podáno vysvětlení snímkem mikrofoto-grafickým, jednak vyleštěné plochy, jednak plochy fosforečnanu anodicky naleptané. Rozdíl mezi oběma spočívá pouze tom, naleptaná ploška jeví velice četné prohlubinky, kteréž ovšem však míře daleko skrovnější nalézají již původním výbrusu. Jasné plochy fotogramu tvoří nikl, jenž chladnoucí slitiny vykrystallovai, jak patrno větší tvrdosti této součástky strukturní. Vzhled jest týž jako manganaluminia, leč mnohem význačnější hrubší, jak patrno snímku obou, při stejném zvětšení provedených. Jelikož chovají oba kovy elektrodě tak, jak chovaly šémy sobě, nikl pak skýtá rozpustný podvojný fosforečnan nikelnato ammonatý, jest výše uvedený zjev tím vysvětlen. (Obr. 4.)
+
+
+XL. ﻿16
+
+
+Obr.
+
+
+Metallografické snímky.
+
+
+Manganaluminium lešténé
+
+
+Niklaluminium leštěné.
+
+
+
+
+
+Niklaluminium anod. nalept.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XL. ﻿17
+
+
+Antimon.
+
+
+Jako elektrolyt sloužil při tomto pokusu molarný roztok fosforečnanu ammonatého, jako anoda tyčinka, jejíž volná plocha obnášela cm*. Teplota pokusná byla 18°. Jako kathody použito plechu platinového ploše cm9.
+
+
+Napjetí volt	Intensita fi-amp.	Poznámka
+
+
+3-82 6-28 879	28 3-5 3-5	Malé bublinky vyrůstají anodě zvětšují napjetím.
+
+
+11-3	34	
+
+
+14-5	35	
+
+
+19'9	4-0	
+
+
+26-0	4-5	
+
+
+33-0	5-0	
+
+
+409	5-8	
+
+
+49-4	7	
+
+
+54-0	8	
+
+
+58-2	10	
+
+
+65-1	16-8	Hraničná mez, intensita silně kolísá, vývoj vo-díka kyslíka počíná.
+
+
+Pro antimon nalezeno tedy hraničně napjetí roztoku fosforečnanu sodnatého volt. přerušení proudu jevily elektrody potenciály:
+
+
+platina JT^—-j-0'39 volt (týž, jejž jevila během celé řady měření
+
+
+konstantně),
+
+
+antimon xa= 0'00 difference 0'39 volt, přímým měřením nalezena elektromotorická
+
+
+síla Q'33, potenciály však rychle mění, plyny unikají elektrod.
+
+
+Zinek.
+
+
+účelem srovnávacím byly hned počátku provedeny pokusy, též zinkem. Jako elektrolyt sloužil molarný roztok fosforečnanu ammonatého středního; jinak bylo uspořádání pokusu, jako případu předešlém. Výsledky byly následující:
+
+
+Napjetí	Intensita	Ttk	— Tta	Poznámka
+
+
+volt	fi-amp.			
+
+
+1-28	11-5	— 0-45	083	Tvoří bublinky anodě.
+
+
+318	570	0-47	2-71	Intensita kolísá, ale klesá.
+
+
+3-60	75-0	0-51	3-09	Intensita kolísá, vývoj plynu.
+
+
+Rozpravy: Roč. Tř. II. 40.
+
+
+XL.
+
+
+﻿18
+
+
+přerušení jevily elektrody potenciály
+
+
+platina -\- 0'39 volt, zinek na=-\-0-SO
+
+
+difference 0'41 volt,
+
+
+přímým měřením nalezena elektromotorická síla článku toho e~0'42 volt. Ačkoliv jevil tomto případě jakýsi odpor přechodný, zbuzený tvořícím fosforečnanem zinečnatým, jest tomto případě jen nepatrný, skýtá zinek rozpustný podvojný fosforečnan zinečnato-ammonatý, podobně jak uvedeno bylo niklu.
+
+
+Roztok vodního skla.
+
+
+Aluminium.
+
+
+Použito bylo zředěného roztoku vodního skla, něhož během pokusů počala vylučovati kyselina křemičitá; jako kathody použito velkého plechu platinového ploše cm2. Pokusy byly zajímavý tím, při zvýšení intensita značně vzrostla, znenáhla však, míře, jaké anodě vytvořovala sesilovala vrstva kyseliny křemičité, odpor stoupal intensita klesala. Vzrůst vrstvy isolační byl zde pozorovatelný okem, čehož jiných elektrolytů není.
+
+
+Napjetí volt	Intensita ji-amp.	Napjetí volt	Intensita jii-amp.
+
+
+5-7	65	72	19
+
+
+80	9-5	88	15
+
+
+40-0	20	106	13
+
+
+48-8	20	120	10
+
+
+20		130	10
+
+
+zde počátku prochází větší intensita, asi příčinu rozpou-štěcím účinku alkali hydrolysou křemičitanu vzniklou; když však utvořila dosti silná vrstva kyseliny křemičité, jednak tím, alkali během elektrolysy transportuje anody, jednak vysušením vrstvy isolační přímo kovu nalézající byla pozorována přímo styku aluminiem dosti silná vrstva bílá obklopená průsvitnou vrstvou kyseliny křemičité zcela souhlase názory Fischera Bab vskýho, odpor vrstvy vzrůstá
+
+
+Zinek.
+
+
+Pokus anodou zinkovou provedený jeví zcela tytéž úkazy jako při hliníku: zde vzrůstá odpor ukládáním kyseliny křemičité, snad tvořením křemičitanu zinečnatého, jako případě předešlém. Výsledky měření byly následující:
+
+
+XL. ﻿19
+
+
+	Napjetí volt	Intensita fi-amp.
+
+
+	3	50—20
+
+
+	5-5	60-16
+
+
+	18	80—55
+
+
+Intensita stále klesá míře, jaké vylučuje kyselina křemičitá.
+
+
+Roztok boranu sodnatého.
+
+
+Aluminium.
+
+
+Jako elektrolytu bylo použito roztoku, jenž choval jak titrací zjištěno 1'4 NaOH 8'2 borové kyseliny 100 cm3. Spec. vodivost roztoku, stanovená universálním galvanometrem Siemens-Halskovým byla při 18° 0'0136 ohm~v kathodický potenciál elektrody olověné lesklé -\- 0'29 volt. Jako kathoda sloužil plech olověný, jako anoda plech hliníkový ploše cm*.
+
+
+Napjetí volt	Intensita fi-amp.	Hustota fi-amp./L#ř*	Teplota	Poznámka
+
+
+2-4	53	13	16-0	
+
+
+2-8	14	4-5		
+
+
+7-0	19	4-8		
+
+
+11-6	23	5'8		
+
+
+11-5	14	45		Po delší době.
+
+
+18-5	19	4-8		
+
+
+26	23	5-8		
+
+
+35	28	7	16-3	
+
+
+43	32	8		
+
+
+53	37	9-2	17-0	
+
+
+64	34	8-5	200	z kolísá tu-amp., ale
+
+
+76	42	10-5	203	elektroda formuje.
+
+
+95	55	13-8	21
+
+
+114	60	15	25-2	
+
+
+132	100	25	320	
+
+
+132	50	125	17-0	V čerstvé tekutině studené.
+
+
+XL. ﻿20
+
+
+Jak patrno hodnot pro hustotu proudovou neuzavírá článek tak dobře proudu průchod jako onen roztokem fosfátu ammonatého, maximum napjetí však nebylo při 132 voltech ještě dosaženo vyšší síla elektromotorická nebyla nám disposici.
+
+
+Druhý pokus proveden proudem střídavým. Uspořádání bylo totéž, jako případech dříve uvedených, totiž kondensátorové, kde anoda kathoda byly aluminia.
+
+
+	Napjetí volt	Intensita amp.	Teplota	Poznámka
+
+
+	43	0-06	15-5	
+
+
+	73	o-io	18	
+
+
+	105	0-15	21	
+
+
+	125	0-4	29-5	
+
+
+	126	008	19	Po uplynutí hodiny, během níž byla
+
+
+				elektroda roztoku.
+
+
+	125	015	16-5	Po hodinách.
+
+
+	125	0-08	16-5	Elektroda sformovala.
+
+
+Jak patrno, rozpouští roztok vrstvu isolační, hodinách procházela intensita vyšší, nicméně elektrody záhy sformovaly.
+
+
+Roztok boranu ammonatého.
+
+
+Jako elektrolytu bylo použito roztoku prodejného boranu ammonatého (10 100 cm*\ jenž choval dle analysy 0'932 ammoniaku 10'788 kyseliny borové, tato byla tedy přebytku. Vodivost specifická roztoku byla při 18° ;tr —0'0250 okm~í roztok jevil vůči elektrodě platinované při téže teplotě potenciál 0'56, vůči elektrodě vodíkové potenciál -{-Q'43 volt.
+
+
+Aluminium.
+
+
+Jako elektrolytu použito roztoku právě popsaného, anodou byl plech hliníkový ploše cnč^ kathodou plíšek platinovaný. Během řady měření bylo mícháno Wittovým míchadlem poháněným elektromotorem. Pomocí batterie pracovní, malého dynamka malé batterie 130 voltech, jež byly zapnuty sebou, bylo možno docíliti napjetí přes 300 volt. Výsledky nalezeny následující:
+
+
+XL. ﻿21
+
+
+Potenciál platinované elektrody vůči roztoku byl 0'56 volt, elektrody vodíkové jriz^-0-43 volt při 18° Výsledky měření byly následující:
+
+
+Napjetí volt	Intensita fi-amp.	Hustota proud. p-amp./ťw*1	Teplota	Poznámka
+
+
+56	3-3	0-8	16-5	i vyskočí pamp., ale
+
+
+12'0	48	1-3		rychle klesá. Odečtena vždy
+
+
+17-5	4'8	1-3		po minutě. anodě jeví
+
+
+29-0	4-8	1-3		se bublinky. Odečteno minutách.
+
+
+37-0	30	08		
+
+
+47-0	4-0	1-1		
+
+
+58-3	5-0	1-3		
+
+
+710	50	1-3		
+
+
+82'0	5-5	1-5		
+
+
+94-5	5-5	1-5		
+
+
+107	6-0	1-6		
+
+
+119	6-5 1-8			
+
+
+131	7'0	1-9		
+
+
+143	7-0	T9		
+
+
+144	4'0	1-1	16-6	Po delší době; formuje
+
+
+162	7-0	1-9		anoda.
+
+
+180	7-0	i-9		
+
+
+190	7-0	19		
+
+
+204	7-0	1-9		
+
+
+223	7-5	20		
+
+
+241	8-0	2-2		
+
+
+253	8-0	2-2		
+
+
+253	5-0	1-3		Po delší době anoda for-
+
+
+276	8-0	2-2		
+
+
+				muje.
+
+
+298 312	12-0 16.0	33 43	Teplota vzrůstá	Počíná jiskření. Silné jiskření.
+
+
+Jak čísel uvedených patrno, prochází tomto roztoku velmi malá hustota proudová hranice napjetí, při kterémž vrstva počíná porušovati, leží velmi vysoko kolem 298 volt.
+
+
+Aby bylo zjištěno, jaký vliv jeví zde míchání, byl učiněn pokus bez míchání. Plocha anodová byla 3*8 cm2. Výsledky měření jsou následující
+
+
+XL. ﻿22
+
+
+Napjetí volt	Intensita fi-amp.	Hustota fi-amp./fwz1	Teplota	Poznámka
+
+
+5-0 12-0	5-0 6-0	1-3 1-5	15-2	i vyskočí pamp., ale klesá rychle.
+
+
+23-8	8-0	2-1		
+
+
+465 58-0	75 7-5	2«0 20		Elektroda hliníková ještě formuje.
+
+
+76-0	75	2-0		
+
+
+94-5	7-5	20		
+
+
+106	8-0	21		
+
+
+118-5	8-0	2-1		
+
+
+130-5	8-0	2-1		
+
+
+150	8-5	2-2		
+
+
+173	9-5	2-5		
+
+
+201	10	26		
+
+
+228	10	2-6		
+
+
+252	10	2-6		
+
+
+270	10	2-6		
+
+
+276	—	—		Jiskření, proud proráží, ale elektroda formuje ještě.
+
+
+282	—	—	—	Silnější jiskření.
+
+
+285	25	6'6		Silné jiskření, ale intensita klesá
+
+
+291	50	132		»
+
+
+300	80	21	15-5	>
+
+
+Jak patrno uvedených měření proráží proud, když není elektrolytem mícháno dříve již při 276 voltech dosaženo jest kritické napjetí, ačkoliv elektroda potom ještě klade průchodu proudu odpor formuje.
+
+
+Bor aluminium.
+
+
+Elektrodu anodovou tvořil plech slitiny aluminia borem, jehož množství však bylo tak nepatrné (pod !%)» plech dal ještě vyváleti, slitina byla však křehčí tvrdší než aluminium chovala též něco silicia. Plocha anodová byla 3*8 cm9; elektrolytem roztok boranu výše uvedený.
+
+
+XL. ﻿23
+
+
+Napjetí volt	Intensita fí-amp.	Hustota (i-a.mp.fcm*	Teplota	Poznámka
+
+
+5-0	3-0	0-8	158	i vyletí počátku 150,« amp.,
+
+
+12-0	1-2	0-3		ale vrací rychle. Odečítáno
+
+
+17-5	1-5	04		po min. Anoda formuje.
+
+
+29-0	2-2	0'6		
+
+
+41-0	3-0	0-8		
+
+
+58-3	5'5 1-4			
+
+
+82-0	75 20			
+
+
+945	7'0 19		15-6	
+
+
+107	8 2-2			
+
+
+119	9 2-3			
+
+
+131	8 22			
+
+
+144	11 26			
+
+
+151	8 2-2			Odečítáno 1V2 min.
+
+
+162	8 2'2			
+
+
+180	9'5 2-5			
+
+
+199	9-5 25			
+
+
+220	95 25		16-5	
+
+
+240	10 2-5			
+
+
+258	10 25			Po přerušeném míchání inten-
+
+
+				sita stále ještě klesá.
+
+
+Kritického napjetí při této řadě měření nebylo dosaženo, nám nebylo dostatečné napjetí ruce; bude však vzhledem nepatrnému množství přimísených cizích kovů blízké onomu při aluminiu dosaženému.
+
+
+Magnetitům.
+
+
+Slitina aluminia magnesiem obsahovala 87'93% aluminia tedy 12°/0 magnesia; byla křehká, nedala váleti, pročež pokus proveden destičkou vypilovanou ploše cm2. Jako elektrolyt sloužil výše uvedený roztok bórami ammonatého. Bylo mícháno. Teplota vyjma poslední měření, kdež rychle vzrůstala byla 151!0
+
+
+XL. ﻿24
+
+
+Napjetí volt	Intensita fi-amp.	Hustota (í-zmp./cm*	Poznámka
+
+
+55	5-5	1-4	Intensita vyskočí 150 ft-amp.,
+
+
+17-5	5-5	14	rychle však klesá minimum.
+
+
+29-3	6-5	T6	Odečítáno dvou minutách.
+
+
+43	10	25	Elektroda počátku ještě formuje.
+
+
+53	10	25	
+
+
+71	8	20	
+
+
+82-5	7	1-8	
+
+
+95	7	T8	
+
+
+107	7	1-8	
+
+
+119 131	7-5 7-0	19 1-8	Intensita kolísá poněkud, ale ustaluje se.
+
+
+144-5 186	7-5 8-0	19 20	Intensita kolísá, ale ustaluje se.
+
+
+203	95	2-4	>
+
+
+222	9'5	2-4	>
+
+
+240	10	25	>
+
+
+252 276 298	8 30->10	2-0 7-5	Intensita vyskočí 150 jtí-amp., době min. klesne však ju-amp. silné jiskření, přerušení znovu
+
+
+			ustálí.
+
+
+309	50->10	125	Intensita stále klesá, elektroda formuje.
+
+
+312	60	15	Intensita kolísá, ale klesá stále.
+
+
+Jak patrno, trvá effekt ventilový magnalia vysokého napjet 276 volt, nicméně formuje elektroda ještě při vyšších napjetích. Následkem veliké reaktivnosti magnesia odlupuje vrstva, proto kolísá proud již při nižších napjetích, alespoň při slitině tak bohaté magnesiem jako byla použita.
+
+
+Manganaluminium.
+
+
+Použito bylo slitiny, jež chovala dle analyse 96'66% něco 6"" 3'910/0 Mn, jež nedala vyváleti vypilována byla destičku. Plocha anodová činila cm2. Roztok boranu ammonatého sloužil jako elektrolyt. Výsledky pokusné použit byl proud strojový byly následující:
+
+
+XL. ﻿25
+
+
+Napjetí volt	Intensita fi-amp.	Hustota (i-ampJcm*	Teplota	Poznámka
+
+
+4-5	14	3-5	176	Objevují bublinky anodě.
+
+
+9-0	17	42	17-2	
+
+
+18-0	14	3-5	17-0	
+
+
+27-5	14	3-5 168		
+
+
+36'5	14	35	16-6	
+
+
+47	25	6-2	—	
+
+
+58	31	7-8	16'8	
+
+
+70	34	8-5	17-0	
+
+
+82	38	95	17-3	
+
+
+98	46	11-5 17-7		
+
+
+110	49	122 181		Elektroda svítí oranžově.
+
+
+120 48		120 18-5		Intensita silně kolísá.
+
+
+141	58	14-5 190		
+
+
+162 64		160	200	Svítí silně jiskří.
+
+
+187	75	18-8		Intensita silně kolísá, ale klesá.
+
+
+200 100		25	21-4	» •>•>»•>
+
+
+Jak uvedených dat vyplývá, prochází směrem hliníku velmi značný proud, ačkoliv elektroda jeví velmi vysokého napjetí effekt ventilový. Příčinou posledního zjevu jest patrně okolnost, kyselinou borovou mangan neatakuje míry, jako fosforečnou, ačkoliv probíhá asi jak oranžového světla, jehož zbarvení pochází snad superoxydu manganu, světlo reflektujícího oxydace manganu.
+
+
+klá luminiu
+
+
+Niklaluminium použité chovalo 7'42% niklu plocha elektrody obnášela cm2. Jako elektrolytu použito bylo roztoku boranu ammona-tého koncentraci uvedené. Výsledky měření byly následující: (viz hořejší tabulka str. 26):
+
+
+Při pokuse tomto bylo mícháno. Jest pozoruhodná jednak značná intensita, jež článkem prochází, jakož značně vysoká hranice kritického napjetí, nad 213 volt, rozdíl chování téže elektrody fosforečnanu ammonatém. Jest jisto, plochy elektrody, jež, jak patrno mikrofotografického snímku, zaujímány jsou niklem, působí jako volné plochy kovové, nepokrývajíce vrstvou isolační; nikl však roztoku boranu ammonatého nerozpouští, alespoň nikoliv měrou patrnou.
+
+
+Štovan ammonatý.
+
+
+Použito bylo pokusu 20%ního roztoku štovanu ammonatého. Jako anoda sloužil plech hliníkový ploše 3'8 cmz, teplota při pokusu obná-
+
+
+XL. ﻿26
+
+
+Napjetí volt	Intensita ft-amp.	Hustota ju-amp.Vw*	Teplota	Poznámka
+
+
+4-5	8'3	21	16-5	Bublinky hranách.
+
+
+14-0	178	4.4	166	Bublinky vzrůstají.
+
+
+33-0	25-0	6-2	—	
+
+
+23-5	25-5	6-4	16-8	Při měření čekáno minuty,
+
+
+420	31-8	7-9	16-6	an minimum intensity po-
+
+
+515	360	90	17-0	zvolna ustavovalo.
+
+
+61	36-5	9-1	172	
+
+
+71	39-0	9-7	17-4	
+
+
+81	37-0	9'2	17-5	
+
+
+91	375	9-4	17'8	
+
+
+106	40	10	180	
+
+
+125	49	12		Intensita kolísá, ale klesá.
+
+
+131	46	12	18-8	
+
+
+150	49	12	18-8	
+
+
+172	60	15	19-2	Anoda jiskří.
+
+
+194	62	16 19-2		Anoda ještě formuje.
+
+
+213	100	25	20-4	»
+
+
+sela 16'0—165° stoupla konci 18°. následující:
+
+
+Výsledky měření jsou
+
+
+Napjetí volt	Intensita fí-amp.	Hustota [i-a.mp.fcm*	Poznámka
+
+
+5'3 12'0	22 20	55 5-0	i vyskočí 150 ^u-amp., ale klesá zvolna.
+
+
+17-2 29-0	14 16	3-5 4-0	i vyskočí 120 amp., ale klesá. 120
+
+
+400	30	7-5	i 120
+
+
+52-0 60-0	32 50	8-0 125	Ustálení vyžaduje delší doby. silně kolísá.
+
+
+65-0 70-0	165 450	41-2 112	Probíhá elektrolysa intensita stoupá.
+
+
+Jak výsledky ukazují, porušuje kyselina šťavelová poměrně velice silná kyselina vrstvu isolační elektrolysa probíhá dosti značné míře již při napjetích malých, jak dosvědčovaly bublinky anodě tvořící. Nicméně jeví effekt ventilový přes ještě při voltech míře značné.
+
+
+XL.
+
+
+﻿27
+
+
+Diskusse výsledků.
+
+
+Sestavíme-li výsledky pokusné tabulku, pak jeví nám vliv jednotlivých elektrolytů ventilový effekt aluminiové anody následovně:
+
+
+	Elektrolyt	Kritické napjetí volt	Spec. vodivost xllt i^.ohm—^
+
+
+	Dvojchroman draselnatý	ca 88	0-0822
+
+
+	Boran sodnatý	132	0-0136
+
+
+	Fosforečnan ammonatý	216	0-0565
+
+
+	Boran ammonatý	300	00250
+
+
+uvedených čísel jeví úplně souhlase názorem No-donovým (1. c.) ventilový effekt největší při anionech vícemocných, nicméně zdá se, přichází platnosti ještě síla kyseliny schopnrst její primárně elektrodě vytvořivší hydrát hlinitý rozpouštěti, nelze stránce učiniti uvedených několika příkladů rozhodující úsudek, tím méně, hraje zde povaha soli, jak patrno příkladu boranu sodnatého, jistou roli. Zdá totiž, alkali hydrolytickým štěpením této soli uvolňující snižuje isolační schopnost vrstvy anodu inkrustující. jest patrno, vodivost elektrolytu nemá velikého vlivu výši napjetí, leč stránce vyžaduje věc dalšího prozkoumání.
+
+
+Pokud týče vlivu cizích kovů aluminiem slitině nalézajících, jeví nám jich účinek následovně (hustota proudová uvedena pro 75°/0 max. napjetí):
+
+
+Materiál anodový	Fosforečnan ammonatý		Boran ammonatý	
+
+
+	Kritické	Hustota	Kritické Hustota	
+
+
+	napjetí volt	proud, fi-amp. cm2	napjetí proud, volt ji-amp.Vw""	
+
+
+Aluminium	nad 216	5	300	2
+
+
+Boraluminium	220	10	nad 250	2-5*)
+
+
+Magnalium	230	7	300 24	
+
+
+Manganaluminium	52	16	nad 200	15
+
+
+Niklaluminium	4	značná	nad 213	12
+
+
+"") Pro 200 volt.				
+
+
+tabulky této vysvítá, zkoušených materiálů pro anodu článků usměrňujících, nejlépe hodí aluminium. Cizí kovy, pokud množství jich
+
+
+XL. ﻿28
+
+
+jest nepatrné, jak tomu bylo aluminium antimonu boraluminiu nesnižují značnější měrou kritické napjetí, leč lze pozorovati, intensita, jež prochází cm2 plochy působení kondensátorového, jest značnější. těch případech pak, kde, jak tomu mangan zvláště niklaluminia, chladnoucí slitiny vykrystalluje přimísený kov, chovají obě strukturní součástí zcela osobitě, kondensátorový účinek jest menší, kritické napěti mnohem nižší též hustota proudová daleko značnější než technického aluminia. Také jest patrno, že, je-li vyloučený anion to, rozpouštěti jeden kov slitině nalézající, děje tak tím snáze, čím silnější jest kyselina, jak patrno rozdílného chování manganu niklu boranu fosforečnanu ammonatém.
+
+
+Tvoří-li kov slitině nalézající aluminiem homogenní roztok, jak tomu magnaliu jeví-li sám sobě rovněž efifekt ventilový, pak nemění napjetí kritické značnou měrou, jak patrno též práce. Nicméně jest patrno, uvedeném případě odtrhováním částeček hmoty inkrustující, jež skalila elektrolyt, vzrůstá intensita proudová nad výši, jež jeví čistého aluminia. Pokud týče účinku jiných kovů, jako chrómu, jejž byl již Nodon použil, dále wolframu, molybdenu vanadu, pokud mění jimi ventilový effekt aluminia jaké míře vzrůstá trvanlivost slitiny, hodláme ještě podrobiti studiu. Domníváme však, bude zde míti platnost pravidlo, přítomnost jejich bude tím menší závadou, čím vyšší jest mocenství, jakém vstupují roztok čím nerozpustnější neprostupnější jsou sloučeniny, jež mohou anodě vzniknouti. Trvanlivost slitiny pak bude tím větší, čím více přimísený kov sám vzdoruje agenciím chemickým. Tato otázka, jakož anodické chování železa, jakožto materiálu druhé elektrody, některých elektrolytech, býti předmětem dalších výzkumů.
+
+
+ostatních kovech, antimonu, cínu, zinku, pokud jim této práci byla věnována pozornost, shledáno, žádného použitých elektrolytech nelze ani napjetí ani hustoty proudové dosáhnouti podobných výsledků, jako aluminia. Parciálně potenciály, jež přerušení proudu polarisujícího byly určeny, nasvědčují, jsouce značně negativní, jedná též elektrodu kyslíkovou, jak bylo shledáno již Fischerem.
+
+
+II. Měření proudem střídavým.
+
+
+Jak předchozího lze seznati, jsou dosavadní zkoušky využitko-vání anodického chování hliníků jiných kovů neúplné, takže není lze skutečných pochodech učiniti přesný obraz, ani navrhnouti úpravu, níž chování anodické technicky využitkovati dalo. Jest pak přeměna proudů střídavých stejnoměrných jakož účinek kondensátorový tak cenný, pokusili jsme přesnějším sledováním výjevů těchto nalézti formy zařízení, jež pro praktické používání měly význam.
+
+
+XL. ﻿29
+
+
+Různé úpravy usměrňovačů.
+
+
+prvním pokusům použito bylo malých kádinek 100 cm*, nichž ponořeny plechy šířky, ponořená část byla dlouhá účinný kov vzato bylo aluminium technické, druhou elektrodu olovo. Čtyři takovéto články byly známém způsobu spojeny most, jehož jedné příčce přiváděn proud střídavý, druhé pak měřeno napětí, ev. odebírán proud stejnosměrný.
+
+
+Nejprve bylo nutno přesvědčiti, jaké míry vliv napětí, užité účinnost přeměny. Učiněn tedy následující pokus roztokem dvoj-chromanu draselnatého nasyceného: Měřeno: Napětí proudu střídavého effektivní; watty střídavé; intensita ustejnosměrněná; volty ustejno-směrněné; sice při různých napětích intensitách, dle následující tabulky
+
+
+volt stříd eff. 24-5
+
+
+35-5 35-75
+
+
+
+
+
+
+
+
+
+
+
+50-5
+
+
+51-5
+
+
+
+
+
+stříd. 0-5 2-5
+
+
+0-9
+
+
+5-0
+
+
+12-2
+
+
+17-5
+
+
+2-9
+
+
+20-5
+
+
+54-0
+
+
+92-0
+
+
+148-0
+
+
+136 2-44 300
+
+
+Amp. stejnom. 0-065
+
+
+
+
+
+0'082 0-22 0-35
+
+
+
+
+
+0-295
+
+
+0-82
+
+
+1-48
+
+
+2-45
+
+
+
+
+
+1-5 2-83 3-50
+
+
+volt. stejnom. 18-3
+
+
+32-5
+
+
+17-8 17-5 15-4
+
+
+
+
+
+325
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38-5
+
+
+
+
+
+577
+
+
+
+
+
+Nutno poznamenati, volty střídavé, měřeny praecisním elektro-dynamickým voltmetrem ff, watty praecisním wattmetrem též Stejnosměrné veličiny měřeny přístroji principu Deprez Arsonwalova, stejnosměrný proud zatěžován neinduktivním rheostatem (obr. 5).
+
+
+Proud čtyř článků není úplně trvalý, nýbrž pulsující, při výpočtu effektu nesmíme stejnosměrný výkon bráti pouze násobek intensity voltů měřených, poněvadž tyto hodnoty jsou střední arithmetické, nýbrž nutno přepočísti arithmetické effektivní. Předpokládáme-li tvar jednotlivých vln sinusový, musíme jak intensitu, tak napětí násobiti
+
+
+
+
+
+1-12, tak účinnost bude
+
+
+LX. ﻿30
+
+
+Obr.
+
+
+Obr.
+
+
+ioo. -•„-'
+
+
+Obr.
+
+
+jak též počítáno sloupci pro Již tyto informační pokusy vykazují některé zajímavé stránky Tak př. jest viděti, účinnost jest téměř nezávislá intensitě, jež odebírá, čili jest nezávislá hustotě proudové elektrodě. Dále lze seznati, účinnost jest tím větší, čím blíže jest napětí oné hodnotě, při níž již nepůsobí elektroda aluminiová ventil, při níž již druhým směrem značná čásť proudu procházeti začíná.
+
+
+Nejnápadnějším jest však velký úbytek spádu při prvním zatížení, kterýžto úbytek dále již málo mění. Nejprve domnívali jsme se, jest zde jakási polarisace, jež při odebírání většího proudu platnosti přichází, leč během dalšího naleznuto bylo jiné vysvětlení.
+
+
+Bylo tedy lze dle předešlého očekávati, nalezne-li tekutina, jež aluminiem ještě při větších voltech střídavých ventil působila, bude účinnost dosažitelná ještě větší. tou příčinou zkoušeny tom ohledu
+
+
+Dvojuhličitan sodnatý nasycený.
+
+
+Fosforečnan Dvojchroman Dvojchroman draselnatý
+
+
+XL. ﻿31
+
+
+Úprava článků byla učiněna poněkud jiná; desky položeny dno větších nádob horizontálně, sice dvě kulaté desky aluminové dvě kulaté desky železné, oboje průměru. Desky byly třech místech sebe drženy skleněnými kroužky, jež byly navléknuty procházející skleněné tyčinky. Poněvadž malých článků jiskření zahřívání jevilo nejvíce místě, kde aluminium tekutiny vystupuje, byl aluminiový přívod deskám chráněn skleněnou, nad tekutinu sahající trubkou. Nádoby byly opět kádinky přiměřené větší.
+
+
+Měření tato provedena spojení dvoučlánkovém, tak, jeden pár předešlého spojení nahrazen divisorem. Proto jsou napětí stejnosměrná vzhledem proud střídavý poloviční. (Obr. 6.)
+
+
+
+
+
+127 146
+
+
+
+
+
+127 149
+
+
+prázdno: Dvojuhličitan sodnatý
+
+
+Amp <-> 0-12 021 0-35 1-00
+
+
+Watt^,
+
+
+1-2
+
+
+
+
+
+slabé jiskření silné jiskření
+
+
+Fosforečnan sodnatý.
+
+
+o-io
+
+
+0-19 0-33 0-46
+
+
+0-6 3-75 14-0 30-0
+
+
+slabé jiskření
+
+
+Volt
+
+
+
+
+
+
+
+
+100
+
+
+
+
+
+107 115
+
+
+Dvojchrom sodnatý.
+
+
+Watt„ 0-8
+
+
+5-8 90'0
+
+
+0-07 0-16
+
+
+tam jiskření velmi silné jiskření.
+
+
+Dvojchroman draselnatý.
+
+
+0-07 0-16 0-5 1-1
+
+
+1-0
+
+
+5-5
+
+
+55-0
+
+
+115-0
+
+
+tam jiskření silnější jiskření velmi silné jiskření.
+
+
+Ačkoli nejsou tyto pokusy zcela bezzávadné, poněvadž nebyly vždy elektrody vyměněny, nýbrž pouze destilované vodě spláchnuty, dokazují
+
+
+XL. ﻿32
+
+
+patrně, největší napětí snese ventil fosforečnanem, téměř totéž dvoj-uhličitanem sodnatým, značně menší dvojchroman draselnatý nejmenší dvojchroman sodnatý.
+
+
+Při větších wattech tekutina silněji zahřívá, leč možno uhličitanu fosforečnanu při 120 napětí střídavého nechati trvale zapnuté články, aniž teplota přes 40° stoupla.
+
+
+II. Při zatížení jsou výsledky následující? Dvojuhličitan sodnatý.
+
+
+Volt 90	Amp ""> 1-7 2-5 2-5	Watt^ Volt= Amp 17-5 105 155 3'4 175 2-65			y 61-7 65-3
+
+
+90	4-2	287	30	5	64-3
+
+
+126	2-75	287	48	225	463
+
+
+126	4-2	425	45	4	46'5
+
+
+	2.	Fosforečnan sodnatý.			
+
+
+Volt	Amp ^	Watt^	Volt Amp =		y
+
+
+53	1-29	54	15'5	1-75	62
+
+
+53	1-05	82	13-5	3'4	69
+
+
+89	1-5	100	34	1-5	63
+
+
+89	3-3	225	29-5	4-5	73
+
+
+127	22	237	52	2-5	67-8
+
+
+127	3-4	825	48	4-2	76-5
+
+
+149	2	285	65	2-2	62
+
+
+149	4-4	500	60	5-0	74.
+
+
+	3.	Dvojchroman sodnatý.			
+
+
+53	135	55	16-5	1-5	55-7
+
+
+53	2-25	90	15	2-9	59-8
+
+
+72	1-7	92	25-5	1-85	63-2
+
+
+72	3-1	170	23-5	4-0	68-2.
+
+
+Dvojchroman			draselnatý.		
+
+
+53	1-31	50	16-6	2-1	86
+
+
+89	2-75	175	315	39	86'5.
+
+
+XL. ﻿33
+
+
+těchto výsledků bylo lze souditi, nejvyšší napětí snese při zatížení fosforečnan sodnatý, naopak, dobrou účinnost dává dvoj-chroman draselnatý.
+
+
+Učiněn tedy pokus, použíti směsi obou těchto roztoků, sice šesti článcích starších, jež mají desky olověné desky hliníkové vertikální velikosti 8X^2 sklem chráněnými přívody hliníkovými.
+
+
+Spojení ventilů, jakož umístění přístrojů měřících, jest patrno obr.
+
+
+Kontrolována též temperatura, kterak tato dobou vepnutí roste, vliv, jejž tato temperatura ventily.
+
+
+Bez odebírání proudu stejnosměrného
+
+
+Čas Volt Ampc,
+
+
+123 1-07
+
+
+123 1-08
+
+
+123 1'80 190
+
+
+123 330 250 370
+
+
+we	V =	A =	t°C	y
+
+
+100	178	0	24°	0
+
+
+105	172	0	30°	0
+
+
+280	168	0	41°	0
+
+
+620	163	0	58°	0
+
+
+Při zatížení straně stejnoměrné:
+
+
+8	124	1-05	10	70	80	180	0	15°	
+
+
+0	123	5-5	500	580	1080	144	5-5	15*	74-1
+
+
+15	123	56	500	580	1080	147	5-5	24°	741
+
+
+35	124	7-8	700	760	1460	148	5-4	37°	540
+
+
+45	124	93	960	840	1800	150	5-6	58°	47-3
+
+
+0	127	1-1	10	100	110	182	0	15°	
+
+
+0	124	10	980	1000	1980	142	10	19°	707
+
+
+15	122	10	1000	1100	1100	146	11	29°	76-2
+
+
+25	123	12	1200	1400	2600	149	11-5	53°	65-4
+
+
+30	122	14	1400	1500	2900	149	11-5	589	60-6
+
+
+34	132	13-2	1440	1360	2800	146	11-2	82°	57-1.
+
+
+pokusů těchto jest patrno, není možno této úpravě beze chlazení nechati klapky činnosti ani bez odebírání proudu stejnosměrného, účinnost jejich rychle klesá stoupáním teploty. pouhá delší doba zapnutí beze zvýšení teploty vliv účinnost, bylo konstatováno tím, ponechány ventily delší dobu pod napětím stálé teplotě udržovány ochlazením. Ani tomto případě nezůstala intensita watty střídavé konstantní, nýbrž asi začaly rychle vzrůstati.
+
+
+Dlužno zde připomenouti, při tomto spojení třífasovém každý článek připadá větší napětí, než při spojení dvoufasovém, sice poměru takže vlastně jednotlivé články stály pod napětím:
+
+
+Roipravy: Roč. XV. Tř. II. 40.
+
+
+XL. ﻿34
+
+
+123
+
+
+
+
+
+142
+
+
+Poněvadž proud stejnosměrný při třífasovém spojení jest téměř konstantní, byly při výpočtu účinnosti stejnoměrné watty brány násobky intensity voltů, skutečnosti jsou tyto watty něco málo větší.
+
+
+delším používání ventilů směsí dvojchromanti fosforečnanu sodnatého ukázalo se, není stále táž účinnost jako při prvních hodinách též volty stejnosměrné bez odebírání proudu stejnosměrného vykazují menší hodnotu než při pokusech prvních. Dále shledáno, jinak výtečná směs, vytvářením solí chromito-chromových, nerozpustných sloučenin, působnosti své ztrácí velké množství zelenobílého práško-vitého kalu usazuje.
+
+
+seznání úkazů při delším používání sestrojeny nové články, jež upraveny takto
+
+
+dno nádoby skleněné čtyřhranné šířky, délky výšky položen olověný plech; nad tímto, skleněnými rolničkami isolovaně, položena hadice trubky aluminiové, nad opět isolovaně druhý olověný plech. Bylo doufáno, přímým chlazením aluminiových elektrod procházením vody bude lze nejlépe zameziti jich oteplování změnu účinnosti. Jako elektrolytu použito směsi uhličitanu fosforečnanu sodnatého, sice 100L• uhličitanu 100 fosforečnanu každých litrů vody.
+
+
+Skutečně chovaly tyto články jinak, než články sestavené plechových desk.
+
+
+Předně již při prvém zavádění proudu střídavého, jenž přes odpory zaváděl, byla nápadnou velká doba, jíž bylo zapotřebí formování* jest vytvoření takové vrstvy aluminiu, aby plné napětí mohly býti připnuty. Formování trvalo při proudu Amp každé fasi m., kterouž dobu pomalu zmenšován odpor jednotlivých přívodech Při posledním pak stupni, kde byl odpor již úplně vyloučen, stoupla intensita Amp, ovšem jen dobu krátkou. Při formování tom pozorováno, elektrody aluminiové celé své ploše světélkují, fosfore-scenci podobně, kteréžto světélkování nutno úplně rozlišovati jiskření, jež při sformovaných deskách objevuje při překročení určitého napětí. Jiskření jest lokální, jako bodech soustředěné dosti intensivní vystupování jisker, nepodobné výjevu spinthariskopu, kdežto pozorované fosforeskování celé ploše elektrod matným světlem jeví, není lze jednotlivé jiskry pozorovati.
+
+
+sformování vykazovaly tyto články, sice všech spojení proud třffasový při síťovém napětí pražské elektrárny, konsum prázdno 6'5 Amp fasi celkem 210 watt vlastní spotřeby. Byl tedy proud nich značně pošinut, sice vykazoval faktor výkonnosti hodnotu
+
+
+XL. ﻿35
+
+
+210
+
+
+120 6'5
+
+
+0184.
+
+
+Při zatížení Amp stejnosměrného proudu byla začátku oekonomie 71%) jež klesla během doby 54%.
+
+
+Napětí stejnosměrné počátku vykazovalo prázdno 182 Volt, při odebírání Amp. hodnotu 148. Nad 140 Volt udrželo asi hodin odebírání stejnoměrných, jež přestávkách byly upotřebeny, načež začalo napětí rychleji klesati. dalších hodinách kleslo napětí při zatížení 120 Volt, hodinách celkem bylo nutno pro množství bílého kalu, pro silné zahřívání články užívání vzíti. Úbytek aluminiu činil pouze jednom článku, leč pro nestejné jízvovité užírání byly trubky některých místech značně ztenčené, takže novém sestavení již dlouho nevydržely několika místech proleptaly. Celkovou dobu, niž byly články Amp zatíženy, možno udati hodin.
+
+
+Poněvadž tedy nebylo docíleno žádoucí trvanlivosti stálosti pomocí ochlazovaných elektrod hliníkových, poněvadž náhrada trubek aluminiových značně jest dražší než pouhých desek, byly konstruovány další klapky pouze plechu (obr. 8). Nad olověný plech dřívějších článků isolatorech položena deska aluminiová, nad tuto opět isolovaně vložena hadice, pouze pro ochlazování určená. Náplň těchto článků volena táž jako článků trubkových. Podobné ustejnosměrňovače zavedl obchodu Grisson, jenž prvý upozornil výhodu horizontálních desek. totiž tvrdí (E. 1903, 23), jest třeba malé hustoty proudové, aby aktivní vrstvička deskách vytvořená udržela, myslí, bublina, jež utvoří tam, kde vrstva tato prorazila, zabrání stoupnutí intensity nad dovolenou mez, tím poskytne příležitost, porušeném místě opět elektroda zformovala. skutečně bubliny mají vliv trvanlivost desek, nejlépe jest patrno fotografií desk ventilů vertikálně upravených desk horizontálně upravených ventilů (obr. 10.). Poslednější mají prohlubně místa semo tamo rozprostřená, nichž jest viděti, delší dobu vždy jednoho místa vývoj bublinek dál; kdežto prvnější svým rozbrázděným povrchem poukazují tomu, stoupající vzhůru bublinka sebou zanechávala místo nekryté, takže korrose těchto stoupajících stopách bublinek pokračovala. Jest však též možno, silnější korrodo-vání desek svislé poloze jest zaviněno nestejností teploty tekutiny dole nahoře, kdežto horizontálních jest tekutina kol celé desky stejnoměrnější.
+
+
+Tyto ustejnosměrňovače deskové dávaly též proud asi dobu hod., leč klesání napětí nich bylo rychlejší než trubkových, též oekonomie, která byla počátku lepší než trubkových 75%, brzy klesla hodnotu nízkou -f- 49%. Vůbec pak jevila těchto článků větší
+
+
+XL. ﻿36
+
+
+Obr.
+
+
+Obr. XL. ﻿37
+
+
+
+
+
+Obr. 10.
+
+
+ztráta odporem než prvnějšího, menší ztráta bipolárním vedením, což vysvětlitelné menšího aktivního povrchu.
+
+
+Aby prvotní účinnost opět dostavila, byly desky hliníkové oškrabány; však ukázalo, ani nepomáhá oškrabání zůstává napětí stejnosměrné nízké. Byla tedy snadě myšlenka, sídlo odporu jest vrstvě olova superoxydem pokryté. Aby vyšetřilo, byl měřen spád článku při průchodu proudu stejnosměrného směrem, jímž proud procházeti, shledáno skutečně, napětí jest značné Bylo tím prokázáno, stálým průchodem jedním směrem olovo stane anodicky inaktivním, zde vrstva méně vodivých kysličníků, neb vrstva solí vytvořivších značný odpor. Zjev ten srovnává pozorováním Isenberga
+
+
+Zajímavo jest, odpor této vrstvy téměř okamžitě klesne malou
+
+
+XL.
+
+
+﻿38
+
+
+hodnotu, prošel-li silnější proud směrem opačným, takže tím lze opět opraviti působnost článků, ovšem dlouhou dobu.
+
+
+Jako doklad buďtže zde uvedeny experimentelní výsledky jedním článkem.
+
+
+Anoda AI, kathoda Pb, napětí 108 Volt, intensita 007 Amp.
+
+
+Anoda Pb, kathoda AI,
+
+
+Anoda čisté 10'0
+
+
+Anoda čisté Pb, 5'2 9'4
+
+
+Znovu měřeno jako
+
+
+Anoda Pb, kathoda čisté 112
+
+
+tohoto patrno, olovo účelu klapek směsi fosforečnanu dvojuhličitanu sodnatého dobře nehodí, lépe bude tom ohledu chovati železo.
+
+
+Ztráty usměrňovačích jich určení.
+
+
+Delším používáním účinnost neklesá klesajícími volty, nýbrž hodnotě 55% stále drží.
+
+
+Tento úkaz vedl následujícímu předkladu ztrátách článcích:
+
+
+Prvá ztráta jest povahy elektrochemické, obnáší část odpovídající polarisačnímu napětí. Toto pro směr, jenž klapkou prochází, obnáší olovu 1'2 Volt, kdež nastává okysličování, aluminiu napětí vodíku 1-43 Volt.
+
+
+Ztráta ohmickým odporem tekutiny. Tato jest počátku, kdy jest vrstva isolační vytvořivší slabá, téměř jen velikosti desek vodivosti tekutiny závislá, činí malou část celkového spádu. Během doby však, když silná vrstva isolační neodštípí při každé periodě úplné, nýbrž jen některých bodech elektrody, dostupuje stále větší větší hodnoty jest příčinou klesání stejnosměrného spádu při zatížení.
+
+
+směru aluminia olovu měl býti proud úplně vyloučen přece však nedostatečnou isolací sražené vrstvy kysličníku malá část proudu tímto směrem prochází, sice větší, dokud desky málo jsou formovány, menší, když již silná vrstva isolační nich byla utvořila Jest tedy tato ztráta stárnutím stále menší, což vysvětluje spojení ztrátou sub téměř konstantní držení oekonomie.
+
+
+konec převahu ztráta sub pro tuto třeba též desky očistiti delší době působení.
+
+
+Nehledíme-li tedy výjevům kondensátorovým, byla pro okamžité hodnoty následující rovnice
+
+
+«», *c, +i=(i=r+p) (?\ f'=J *V. ztráta sub ztráta sub
+
+
+XL. ﻿39
+
+
+kdež Zt, intensita obvodu střídavém, *«, napětí,
+
+
+•=. intensita obvodu stejnosměrném, napětí
+
+
+odpor mezi elektrodami pro směr, jímž proud prochází polarisační napětí.
+
+
+Ztráty sub uvedené můžeme měřených hodnot částečně osa-motiti. Rozdíl wattů stejnosměrných střídavých udává nám totiž watty ztracené, dále rozdíl arithmetické hodnoty napětí střídavého napětí proudu stejnosměrného udává nám ztrátu napětí: (i=r -\- kterážto násobena intensitou stejnoměrnou dává ztrátu sub sub 2.). Odečtením této ztráty celkové obdržíme ztrátu sub 3).
+
+
+př. tabulky str. sub máme měření:
+
+
+123
+
+
+
+
+
+1080
+
+
+144 5.5
+
+
+Poněvadž třífásovém spojení přichází periodu tři usměrněné vlny proudové, bude jich arithmeíická hodnota
+
+
+123 166 Volt
+
+
+ztráta sub sub
+
+
+(166-144) 121 celá ztráta jest 1080 144 '55= 288, tak ztráta —O** =288 121 167
+
+
+Tuto ztrátu můžeme mysleti nahrazenu souběžně klapkami zapnutým odporem kterém část neusměrněného proudu vyrovnává.
+
+
+
+
+
+Tento odpor: -*- SI. Odpor tekutiny přechodu:
+
+
+
+
+
+<Q, zz/>).
+
+
+Při těchto nových článcích převahovala ještě ztráta bipolárním vedením, jež dávala proud
+
+
+123
+
+
+1-26
+
+
+Poněvadž střední arithmetická hodnota intensity vzhledem proud stejnoměrný, jest zde
+
+
+5'5
+
+
+
+
+
+jest rozdíl: 7'35 l-85
+
+
+XL. ﻿40
+
+
+Rozdíl pak oproti hodnotě l'26 jest vysvětlen proudem kondensátorovým, jejž možno vypočísti:
+
+
+YlT852 1-268 1-35 Čímž úplná analyse vnitřních pochodů podána.
+
+
+Účinky kondensátorové.
+
+
+Již při prvních měřeních poukázali jsme nápadný skok napětí mezi zatíženými nezatíženými klapkami. Dále při měření velkých klapkách bylo poukázáno tomu, jest značné pošinutí fase mezi proudem napětím; toto pošinutí jest předbíhavé intensity; jest zde patrný úkaz kondensační. Utvořivší vrstva isolační působí dielektrikum, proud nejprve tuto vrstvu vytvoří pak nabije svým maximálním potenciálem. Jsou-li články spojeny obvyklým způsobem čtyři mostu, není-li stejnosměrná příčka uzavřena, nemůže tento náboj při zmenšování napětí dle křivky proudové uniknouti, neboť proud vybíjecí opět druhé elektrodě vytvoří sám sobě překážku formě vrstvy isolační. Proto vykazují články nezatížené (elektrometrem měřeno) spojení takovém střední zatížení, nýbrž maximální napětí střídavého proudu lze jich upotřebiti jediného způsobu pro určení maximální hodnoty křivky napětí proudu střídavého. tomu jest tak, dosvědčují čtyř-článkovým spojením Thomsonovým elektrometrem multicelulárním provedena následující měření.
+
+
+Proud Ganzova stroje elektrotechnickém ústavu:
+
+
+(Fotografie Braunovou trubkou obr.
+
+
+poměr effektivní hodnoty napěti normálnímu..... 0'44
+
+
+Při střídavých voltech 46: stejnosměrné 102; poměr 0'45
+
+
+56: 122; 0'46
+
+
+Proud pražské elektrické centrály
+
+
+(Fotografie obr.
+
+
+poměr effektivní hodnoty napětí maximální......O68
+
+
+Při střídavých voltech 52: stejnoměrné volty: 74; poměr: 0'70 102: 144; 0'71
+
+
+Proud Kolbenova stroje elektrotechnickém ústavu:
+
+
+(Fotografie obr. líc)
+
+
+poměr effektivní hodnoty napětí maximální..... 0'8
+
+
+Při střídavých voltech 60: stejnosměrné volty 71; poměr 0'84
+
+
+120: 144; 0'83
+
+
+XL. ﻿41
+
+
+Obr.
+
+
+Obr.
+
+
+
+
+
+Obr.
+
+
+Při určování maximálního napětí jest tomu hleděti, aby proud byl tak transformován, aby toto maximální napětí ještě jistotou bylo anodickým chováním aluminia zadrženo, tedy fosforečnanu sodnatého 140 boranu ammonatého 250
+
+
+Místo dvou proti sobě spojených klapek můžeme jak již řečeno při zkoumání těchto účinků kondensátorových použíti též jedné nádoby dvěma aluminiovými elektrodami. Byly pak sestrojeny dva kondensátory pěti deskách 15X30 velikých střídavě jednomu druhému vývodu spojených. zde nutno krýti pečlivě skleněnými trubkami místa, kde aluminium prochází povrchem tekutiny.
+
+
+Kondensátorů bylo použito nejprve konstatování chování jich při formování. tím účelem učiněno spojení takové, aby při stálé intensitě proudu mohlo použíti různých plynule stoupajících napětí, čehož docíleno takto:
+
+
+Jeden kondensátor připnut sekundární vedení otevřeného transformátoru velmi velkém rozptylu. Primární vedení transformátoru spojeno
+
+
+XL. ﻿42
+
+
+pražskou sítí. Když bylo vedení sekundární přerušeno, bylo něm napětí 120 Volt, při spojení přes byla intensita 3'8 při spojení krátko intensita Formování tím způsobem zaneseno následující tabulce:
+
+
+0	n YeíH 62	VV čili 13	0'44	Slll^, 0-90	1920	3	x IQ-* 0-33	
+
+
+5	8-3	16-7	0'50	0-86	1380	4-1	0-45	
+
+
+20	11-3	21	0-46	0-88	1040	6-1	o-	6
+
+
+15	15	28	047	088	780	8	o-	8
+
+
+20	17	35	0-51	0-86	675	8-3	0'	9
+
+
+25	183	38	052	0-85	618	8-7	1-	0
+
+
+35	20-7	432	052	085	547	9-9	r	2
+
+
+45	23-5	51-5	0.55	083	470	107	r	3
+
+
+55	26	56	054	084	430	12	r	5
+
+
+65	28-4	62-6	056	0-83	390	12-8	i-	6
+
+
+75	33	72-5	055	0-83	335	15	i-	9
+
+
+85	40	93	058	0-82	273	17-2	2-	3
+
+
+95	50	107-5	0-54	0-84	224	23-4	2-	8
+
+
+105	62	144	0-58	082	176	26-6	3-	6
+
+
+115	74	168	0-57	0-82	147	326	4-	3
+
+
+125	86	180	0-53	085	131	41	4-	8
+
+
+135	103	225	055	0'83	107	47	5'	9
+
+
+145	115	275	060	080	93	48	6-	7
+
+
+155	123	300	0-61	0-79	86	50	7'	3
+
+
+165	124	300	0-61	078	85	51	7-	4.
+
+
+úplném vychladnutí hod. bylo při 2'1 Arnp. 125 0229 0'974 261
+
+
+Týž kondensátor, když byl hodin používán, spotřeboval při 125 0-16 0-985 39'2C 520 16'0.
+
+
+Při tom známé vnímavosti rozměrů kondensátorových ploch byla vypočtena tlouštka vrstvy isolační. Předpokládejme dielektrickou konstantu pro vrstvo isolující přímo kondensátoru nalézající úplné suchou, obdržíme tlouštku dcm dle vzorce
+
+
+
+
+
+
+
+
+900 000
+
+
+vS"" značí plochou desek cm*, 900.000 jest převodný faktor mikro-farady.
+
+
+XL. ﻿Pro náš případ tedy
+
+
+
+
+
+'=(15X30X4)
+
+
+_____1_
+
+
+1590
+
+
+hodnoty jsou uvedeny posledním sloupci předchozí tabulky.
+
+
+Druhý kondensátor formován tím způsobem, připnut stroj dynamoelektrický, napětí stupních zvětšováno. Tímto způsobem pak probíhalo formování následovně:
+
+
+1	Volt Amp	W cos9 sin^
+
+
+0	10 35	
+
+
+15	18	
+
+
+300	5-5	28 0-51 0-86
+
+
+0	22 40	
+
+
+15	16	
+
+
+300	4-5	53
+
+
+0	35 28	
+
+
+15	18	
+
+
+300	4-6	96
+
+
+0	52 29	
+
+
+15	18	
+
+
+300	46	146 0-61 079
+
+
+0	70 45	
+
+
+15	15	
+
+
+300	4-2	179 0-61 079
+
+
+0	92 52	
+
+
+15	15	
+
+
+300	4-1	241
+
+
+0	108 48	
+
+
+14	13	
+
+
+300	4-4	285 0-60 0-80
+
+
+0	120 50	
+
+
+15	12	
+
+
+300	4'9	368 0-625 0-7
+
+
+
+
+
+R(> deri
+
+
+1570 0'4
+
+
+570
+
+
+348 12-8
+
+
+232 185
+
+
+157 27'4
+
+
+114 35'0 5'5
+
+
+108 410 5'8
+
+
+106 39'1
+
+
+těchto dvou pokusů jest patrno, při stálém napětí utvoří vrstva tak silná, aby právě toto napětí udržela, síla této vrstvy téměř
+
+
+XL. ﻿nevzrušte, nestoupá-li napětí. Ale zvětší-li při formování napětí, okamžité téměř vzrostla síla vrstvy hodnotu příslušnou. Než dostatečná vrstva utvoří, prochází vždy velký náraz proudu, jenž však tak rychle mizí, nelze jeho správnou hodnotu ampěremetrem konstatovati.
+
+
+těmito kondensátory vykonána byla řada pokusů, aby nich seznány byly jejich vlastnosti, aby bylo konstatováno, jaké míry lze takovými kondensátory nahraditi kondensátory obvyklé. Budiž hned předem podotknuto, pro trvalé připnutí možno počítati kondensátory těmito pouze asi pro onoho napětí, které jinak pro dobu kratší snesou, není lze jich upotřebiti tam, kde úplnou konstantnost kapacity delší dobu jedná.
+
+
+Chová tekutinových kondensátorů při různém napětí.
+
+
+Nejprve bylo třeba stanoviti, jak chová kapacita při různém spádu-a tím účelem připnuty kondensátory formované nějaký čas používané zdroj proudu střídavého, přímo, bez předraženého odporu, napětí zdroji postupně zvyšováno.
+
+
+Nalezeny následující tabulce udané hodnoty, kde opět dříve udaným způsobem vypočtena kapacita odpor
+
+
+Kondensátor (starší).
+
+
+V	J	W	COS (p	sinqp	R	C
+
+
+51-5	0.6	1-09	0035	0-999	2430	386
+
+
+705	0-75	2'48	0-047	0-999	2000	352
+
+
+87-5	0-92	6-19	0-077	0-997	1240	34-9
+
+
+107	1-19	15-4	0-121	0-992	745	36-6
+
+
+124	1-37	2655	0-157	0988	575	36-1
+
+
+143	1-70	52-7	0-217	0-976	388	37-2
+
+
+170	2-55	160	0-37	0-929	180	46-1.
+
+
+Kondensátor (novější).
+
+
+53	062	1-33	0-040	0-999	2110	38-7
+
+
+70-5	0-78	3-43	0-062	0-998	1450	36-6
+
+
+88-5	1-00	9-06	0-102	0-995	863	37-2
+
+
+105	1-27	18-25	0-136	0991	600	39-5
+
+
+124	1-52	36	0-191	0-981	426	39-9
+
+
+143	1-97	73	0-26	0-965	280	44-0
+
+
+170	2-90	198	0-4	0916	146	51-7.
+
+
+
+
+
+této tabulky vyplývá, kapacita změnou napětí nemění, při nejvyšších ještě zadržených napětích bylo lze konstatovati zvýšení kapa-
+
+
+XL. ﻿45
+
+
+city. Odpor kondensátoru stává stále menším, což lze vysvětliti ca. stějším prorážením isolační vrstvy při vyšším napětí.
+
+
+Další tabulka vykazuje měření dvou kondensátorech sebou spojených.
+
+
+Kondensátory sebou.
+
+
+V	J	W	cosqp	siníp	R	C
+
+
+125	0-69	5-29	0-061	0998	2950	18-3
+
+
+188	ros	2000	0101	0-995	1716	18-4
+
+
+219	1-27	353	0-127	0-992	1360	191
+
+
+243	1-47	58-4	0164	0-986	1010	19-7
+
+
+272	1-73	105-8	0-225	0-974	700	21-0
+
+
+310	2-22	237	0343	0940	405	22-2
+
+
+339	275	409	0-439	0-899	262	24-1.
+
+
+těchto měření seznáváme, bylo možno tak jako obyčejné kondensátory též kondensátory takutinové sebou spojovati, při čemž jich kapacita celková rovná převrácené hodnotě součtu převrácených hodnot jednotlivých kondensátorů. Odpor celkový rovná součtu odporů jednotlivých.
+
+
+Formu proudu, jejž přijímají kondensátory, podává obr. I2a obr. 12L. Prvý fotografován pomocí trubky Braunovy kondensátor byl připojen pražskou síť při chodu strojů Kolbenových, druhý jest proveden Siemen-sovým oscillografem sice při chodu stroje Křižíkova centrále pražské
+
+
+Obr.
+
+
+
+
+
+
+
+
+Obr. XL. ﻿46
+
+
+Chování kondensátorů obvodu proudovodu.
+
+
+při různých odporech
+
+
+Při experimentování kondensátory aluminiovými shledán zvláštní úkaz, totiž vzdorují vyššímu napětí svých svorkách, čili jest lze jich pro vyšší napětí použíti, je-li obvodu odpor neb indukce zařadéna, než bez těchto. tím účelem, aby vysvětlení podáno tomto úkaze, byl kondensátor při napětí stroji, pomocí zařaděného odporu uveden různé napětí při čemž shledány následující hodnoty:
+
+
+v.,	v,	W	A	COS <f	sin qp	R,	C
+
+
+210	81	5-8	0-88	0-08	0-997	1150	36
+
+
+210	104	13	1-2	0-104	0.994	835	38
+
+
+210	120	23-8	1-42	0-140	0-99	605	38-9
+
+
+210	143	55	1-84	0-21	0-997	370	41-6
+
+
+210	162-5	124	2-42	0-315	0-949	213	46-9
+
+
+210	178	352	3-7	0-537	0843	90	58
+
+
+170	79	6'5	0-84	0-098	0996	960	3-5
+
+
+170	122	43	1-53	023	0-973	346	37-3
+
+
+170	142-5	73	1-90	0'27	0963	279	42'6
+
+
+170	162	231	3-25	0439	0898	114	597
+
+
+144	85	11	0-92	0-14	0-99	658	355
+
+
+144	118	40-5	1-43	0'24	0-97	344	39
+
+
+144	135	79	196	0'28	0-96	246	46-4
+
+
+144	144	150	295	0-354	0-934	139	63-7
+
+
+120 7-5 0-83 O"" 114 0'993 836 346
+
+
+120 100 205 1-16 0'177 0984 488 379
+
+
+120 120 675 273 0'237 0971 214 637
+
+
+Měření toto sice potvrdilo existenci dříve shledaného úkazu, ale nepodalo bližšího vysvětlení. Nejlépe ještě vysvětlí úkaz tím, při přechodu jednoho směru proudového druhý (jak již Fischer pozoroval) částečně vrstva isolační ruší, může tom okamžiku projíti proud odporu obvodu závislý. Je-li obvodu značnější odpor, nemůže okamžitá hodnota intensity dosáhnouti vyšších hodnot, takže většina isolační vrstvy zůstává zachována stále dielektrikum působí. Tomu nasvědčuje též to, při malém nebo žádném odporu vedení kondensátorovém jest při stejných voltech jeho kapacita větší než při větším odporu. Jest tedy možno, větší plošky poruší, nové, tedy zcela tenké vrstvy isolační vytvářejí. Tento pochod illustruje též fotografie
+
+
+XL.
+
+
+﻿47
+
+
+střídavého proudu napětí dvou různých zdrojů střídavých obr. 13a 13ó.
+
+
+Obr.
+
+
+Obr.
+
+
+Jest nich patrno, polovině periody, kdy jest hliník kathodou proud prochází, avšak při druhém směru napětí prochází jistou dobu intensita (a—b\ vytvářejíc isolační vrstvu nabíjejíc tak vzniklý kondensátor; pak klesá intensita minimum c), jež závisí vodivosti vrstvy. Jakmile začne napětí klesati, ihned počne procházeti proud vybíjejícího kondensátoru d], teprve potom (d—d) nastává vzrůst intensity.
+
+
+Chování elektrolyt, kondensátorů periodách proudu střídavého.
+
+
+při různých
+
+
+Kondensátor byl, stále jsa přímo zdroj proudu střídavého připnut pro vyvarování komplikací dle předešlého článku), při stejných voltech svých svorkách elektrisován různými periodami.
+
+
+Volt 120.
+
+
+/sec	A	W	cos <p	sin <p	R	C
+
+
+26-5	1-82	43-7	0-2	0-979	330	89
+
+
+37-3	2-02	47-5	0-198	0-980	305	70
+
+
+48-0	2-30	505	0-183	0-983	284	62
+
+
+66-7	2-50	532	0-177	0-984	270	48-5
+
+
+98-8	2-84	58-7	0-172	0-985	245	37-5.
+
+
+XL. ﻿48
+
+
+ukázalo chování rozdílné chování obyčejných kondensátorů. Intensita málo měnila, rovněž pošinutf fase, takže nutno předpokládati, kapacita kondensátoru mění, stoupajíc ubývajícími periodami proudu střídavého Dalo tedy očekávati, proudem stejnosměrným bychom obdrželi největší hodnoty kapacity; měření však jest obtížné, neboť ztrácí kondensátor elektrolytický rychle (během min. ca) svůj náboj, mimo nutno jej při stejných voltech, tedy zde při 120 V~2~— 170 zkoušeti.
+
+
+Skutečná měření ballistickou methodou při 130 jež byly disposici, vykázala hodnoty kol 50—60 Mi, což předpokladu velmi veliké kapacity neodpovídá. Také měření malými volty methodou mostovou dávají kol Mi.
+
+
+Nalézti výklad tomuto úkazu nám dosud nepodařilo, bude nutno této věci činiti ještě další pozorování.
+
+
+Souhrn výsledků elektrotechnických.
+
+
+Předcházejícím šetřením pokládáme prokázáno, úprava článků jak Grisson uvedl, jest ustejnosměrňování proudu střídavého nejvýhodnější, dále jest třeba voliti tekutinu takovou, aby použité napětí bylo asi 3/4 onoho napětí, při kterém již vytvořená vrstva isolační začíná prorážeti, tekutiny příslušná napětí jsou udána části první. Používání klapek omezeno jest určitou dobou, které příliš sešili isola-torová vrstva aluminiu vytvářející, načež třeba klapky obnoviti. dobu působení jich ubývá stále začátku pomalu pak rychle napětí stejnosměrné. Kondensátory mají trvalejší působení. Kapacita takového kondensátoru jest nezávislá napětí, ale jest závislá poněkud periodě proudu střídavého. Isolační vrstvička není úplně bez vodivosti jest její odpor tím větší, čím dále jest napětí použité napětí kritického čím nižší jest teplota kondensátoru. Kritické napětí jest krom tekutiny aktivního kovu závislé též celkovém odporu kruhu proudového.
+
+
+Poněvadž přesná měření pro různé komplikace, jež tomto oboru vyskytují, jsou velmi [nesnadná poněvadž jest třeba následkem této nesnadnosti nejistoty měření opříti každý poznatek více měřeními, bude nutno ještě další šetření některých bodech učiniti, považujeme většinu našich prací informativní již zde několik nových poznatků bylo dosaženo hodláme dalším sledováním anodického chování kovů poznatky naše podepříti rozšířiti.
+
+
+Konečně konáme milou povinnost, vzdáti díky slovutnému prof. prof. Kruisovi laskavé zapůjčení přístrojů provedení metalografických jiných fotografií.
+
+
+XL."

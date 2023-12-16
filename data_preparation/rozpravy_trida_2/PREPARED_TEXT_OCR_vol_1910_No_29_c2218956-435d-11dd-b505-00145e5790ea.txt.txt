@@ -1,0 +1,1037 @@
+"","x"
+"1"," ﻿ROČNÍK XIX. TŘÍDA II. ČÍSLO 29.
+
+
+degeneraci Wirtingerovy formule.
+
+
+Napsal
+
+
+Ph. Dr. František Graf.
+
+
+(Předloženo 27. května 1910.)
+
+
+degeneraci Wirtingerovy formule.
+
+
+Integrál differenciální rovnice:
+
+
+—2*) (1.)
+
+
+definujeme výrazem
+
+
+při čemž určitý integrál ten jest vésti mezi dvěma kritickými body inte-grandu
+
+
+(v, a0, a,, «,) O'- (y- ^2ttl (í', (u, *)•
+
+
+Reálné čas exponentů «/' budtež vesměs větší než negativní jednotka.
+
+
+následujícím pojednání budeme zabývati otázkou, jakým hodnotám blíží (r), přejde-li uniformisační proměnná některý racionálny bod reálné osy. Vyšetříme nejprve limitní hodnoty pro cípy fundamentálního oboru (O, QO), čímž získáme možnost, stanoviti relace mezi
+
+
+Mezi řešením obvyklé Kulérový rovnice:
+
+
+*(1 —z)y""+[c z]y' aby stává relace:
+
+
+
+
+
+~-^~ t\,
+
+
+
+
+
+Rozprovy roí. XIX. tt. II. čís. 29.
+
+
+XXIX. ﻿základními integrály; neboť určité integrály lze limitním případě snadno vyčísliti. Přechodem libovolnému racionálnému bodu reálné osy pak zjednáme prostředek formulování velmi jednoduchého zákonu pro tvoření číselných koefficientů grupy hypergeometrické.
+
+
+Integrand, jejž pro případ původního pořadu exponentů označím krátce (y, T), ro/vinouti absolutně stejnoměrně konvergentní řadu Fourierovu, jejíž koefficienty jsou opět nekonečné řady. Jich členy jsou celistvými, racionálnými funkcemi veličin
+
+
+resp.
+
+
+l-f* -q**
+
+
+Vzrustá-li tedy imaginární část kvocientu nad každou mez, lze psáti: (v< rx) pai+aí sinmi cos""1 ct?« q*,
+
+
+kde exponent posledního faktoru značí absolutně konvergentní Fourierovu řadu vzhledem proměnné jejíž koefficienty blíží zároveň
+
+
+mílie, takže jest:
+
+
+řt,.]= [(/QO
+
+
+Vedeme-li tedy, jak obyčejně, první základní integrál přímočárně mezi body bude patrně:
+
+
+lim
+
+
+(v, rx.) lim (-^— -^-—}
+
+
+
+
+
+druhé základní řešení zvolme integrál nully bodu
+
+
+přímočárně vedený; taktéž jeho limitní hodnotu chceme určiti pro případ, udaným již způsobem vzrůstá nekonečna. Ježto však proměnná přijímá komplexní hodnoty, transformujme následovně:
+
+
+,v)dv t\f(tu,*)
+
+
+
+
+
+vyŠetřme hodnoty thetaíunkcí pro lim Jest pak:
+
+
+</H (T) q~"" qz"") "") ^~2 "")
+
+
+1""2
+
+
+XXIX. ﻿Nyní probíhá veličina jen reálné hodnoty nully tedy ohledem dřívější poznámku:
+
+
+bude
+
+
+při čemž exponent posledního faktoru jest dán součtem dvou absolutně konvergentních mocninových řad proměnnými ql^~"", nichž každá konverguje současně nulle pro celý interv«ll Rozložme nyní integrál následujícím způsobem:
+
+
+(l—
+
+
+Snadno přesvědčíme, připojení dotyčných laktoru řady c\'ix\ pro všechny hodnoty integračního intervallu absolutně konvergují. následkem čehož limitním případě rozhoduje jen člen prvý. Pomocí substituce:
+
+
+/.-» ,7!
+
+
+_tfcc Y00
+
+
+IT^~ iesp' 1717^1=^--
+
+
+
+
+
+vychází konečně pro limitu integrálu:
+
+
+//;;; (r,
+
+
+i-9'x
+
+
+ai) ctí
+
+
+c'2 \limp }t—
+
+
+l-/oč
+
+
+t<a Ofl
+
+
+s—(i -g)^—1
+
+
+kde zavtxleno zkrái-ené označení
+
+
+
+
+
+
+
+
+Ro\-nicc (.'5) patrně dcgcncrovan;'i relace mezi třemi integrály. Cf. -2.
+
+
+
+
+
+XXIX. toho plyne: Tato limita závisí podstatně součtu («/ a-í}- J°-'i kladným, stává první integrál pravé strany nekonečným jako výraz:
+
+
+lim
+
+
+«„+<*,
+
+
+prvý člen závorky zůstane tudíž konečným; druhý integrál možno však limitním případě vésti bodu určitý tento integrál obdrží
+
+
+o,, hodnotu
+
+
+Je-li však a\-\- «'2<0, zamění funkce součtů exponentů první
+
+
+-(- «3\ určitý integrál pravé strany rovna
+
+
+řři tom mlčky předpokládáme reálným, což však, jak snadno nahlédneme, všeobecnosti nijak není úkor.
+
+
+Pro a., dosáhne každý určitých integrálů limity
+
+
+lim
+
+
+bude pak:
+
+
+lim
+
+
+í/fc
+
+
+líni
+
+
+Označíme-li nyní pro kladné výrazem:
+
+
+konečnou lujdnotu, která pro nás nemá dalšího významu, lze rovnici (')), nehledě singulárním hodnotám exponentů, psáti kratčeji:
+
+
+í/;ř (?;,
+
+
+(4.
+
+
+
+
+
+
+
+
+
+
+
+Limity obou integrálů pro //;« limTL~ získáme základě právě odvozených výsledků pouhou transformací. Zde chceme ještě přímo stanoviti
+
+
+Bl+ťfl /twí (v, TJ) /ř^ř (?', r„, a:!, «j, cc.,, a0)
+
+
+XXTX. dříve uvedených rovnic pro 01/ plynou mimo limity
+
+
+lim -91,, (u, TG) lim (u, TO) /«;
+
+
+//w (M, r()) /iw (u, r0)
+
+
+též hodnoty thetafunkcí pro argumenty (t?„ r0). Integrál rozložme pak účelem kontroly tak, integrační dráha probíhá jednou bodem druhé bodem =L. Obdržíme tu:
+
+
+
+
+
+-nr^ (v, Ty, a;!, a,, «.,, «0)
+
+
+?'ac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ni e~JL
+
+
+o,-l OH-O,
+
+
+_)_
+
+
+
+
+
+aneb vzhledem relaci:
+
+
+rtB (r,t) cosniB (s, cos (s, r}],
+
+
+lim
+
+
+""l itt<x (í\ r((, «3, «2, «0)
+
+
+(5-)
+
+
+Vyšetření singulárních případu, kde bud součet dvou exponentu nullou aneb některý nich rovná negativní jednotce, neprivodí těchto úvahách nijakých obtíží.
+
+
+XXIX.
+
+
+relacích mezi základními integrály.
+
+
+Zvolme základní řešení rovnice (1)
+
+
+Rovnice (l) zůstane patrně nezměněna, opatříme-li všechny exponenty záporným znaménkem; možno tudíž také výraz:
+
+
+O1.,- (V, «0, —«,, —«2, -«.,)
+
+
+považovati její řešení. jest tento integrál podstatně rozdílným r/, (r), vyplývá okolnosti, součet středních exponentů opačné znaménko.
+
+
+Dále dovoleno, zaměniti této differenciální rovnici exponenty «0, současně «j, «... Bude pak uvedeného právě důvodu též integrál
+
+
+(T) j>3* (5'. a>. «3. «i». «i)
+
+
+podstatně lišiti integrálu ^(r).
+
+
+Konečně jest přípustno, obrátiti původní pořad exponentu, čímž
+
+
+získáme integrál
+
+
+
+
+
+
+
+
+*/"", (r) ^J3 (V> a:'.' tt"". ttl tt())
+
+
+kterého dřívější záměnou odvodíme další řešení:
+
+
+
+
+
+i?4 (T) -9-.J- fy, «!, «0, «.,, «2)
+
+
+Chci nyní integrál negativními exponenty převésti onen exponenty původními pak jen těmito zabývati. Položme:
+
+
+a,, «,, au, «,) (r) ^:í (r) Vzrustá-li nad každou mez, obdržíme relaci:
+
+
+,„„«
+
+
+
+
+
+XXIX.
+
+
+čehož ihned následuje:
+
+
+J+a, tt.2
+
+
+
+
+
+Bude tedv:
+
+
+
+
+
+___ -g— (*'• ""O""
+
+
+
+
+
+«2\
+
+
+~^2 (í'' ""-'
+
+
+Již tohoto jednoduchého příkladu seznáme, hodnoty integrálu limitním případě obsahují právě lineárných relacích vyskytující konstanty.
+
+
+Reálné části exponentu předpokládali jsme většími než negativní jednotka, aby určitý integrál, vedený mezi dvěma kritickými body inte-grandu, podržel svůj význam. Připustíme-li však též negativní exponenty, dlužno absolutní hodnoty reálných částí supponovati menšími jednotky, neboť jinak faktor levé strany poslední rovnice, jenž vznikl určitého integrálu, stal illusorním. Alusili bychom pak zavésti integrály vedené podél uzavřených křivek. Mysleme soustavu pravoúhlých souřadnic «,/, «/, a2': pak leží přípustné body uvnitř krychle
+
+
+mezi rovinami «.,' Povrchové body tohoto osmistěnu odpovídají případům singulárním. Operujeme-li však jen původními exponenty, leží regulární body uvnitř čtyřstěnu
+
+
+dt)
+
+
+Tím končím úvahu negativních exponentech.
+
+
+čtyř uvedených základních řešení jsou vždy dvě sobě rovna, totiž:
+
+
+Důkaz toho zcela podobným dřívějšímu. Samozřejmě lze základní integrály odvoditi též rovnice Kulérový, jest však vždy (mimo záměnu
+
+
+XXIX. ﻿ffj —«;.. «1( —a3) připojiti faktor, obsahující mocniny míliových
+
+
+""V
+
+
+hodnot thetafunkcí, neboť kvocient zůstává nezměněn.
+
+
+Udaným čtyřem hodnotám integrandu možno přikázati meze libovolné dva kritických jeho bodu. Stanovíme-li společnou dolní mez míliu, horní meze pak body
+
+
+r+1.
+
+
+obdržíme integrálu, které přesně odpovídají známým Kuinmerovým řadám. Uvádím zde bez společného faktoru:
+
+
+(r, a(), a:, «.,) (v, a.,, a:, c^, «0)
+
+
+
+
+
+
+
+
+(*'• «l- «0- «3, ""a) (^. «2» a3' «0: «l)
+
+
+
+
+
+
+
+
+
+
+
+•i-
+
+
+(v, a(„ «j, a.2, =ť- (v, «,, a;), a:í, «2)
+
+
+^a, ?!í
+
+
+(v, a.{ «.,, a,, «0) (v, «_,, «:{t «0. í'.
+
+
+
+
+
+7-+1
+
+
+
+
+
+W*>(\/ ?(*+•)
+
+
+(í', a„, aj, «.,, a:!) (v, K.,, «3, a(1. «,)
+
+
+
+
+
+
+
+
+(í1, r.a.,, o,, «!,«„)</v =f4va' (7-, a,. a„. «.,,«_,)
+
+
+
+
+
+(:'«j+rta) -r-(?ai+»J
+
+
+(;-, «0. at, «.?) =c* (?', a^, «... a„,
+
+
+t-i
+
+
+'(»•» +a,) -O-a.
+
+
+('', «:! «,'• «i- «,))
+
+
+XXIX
+
+
+Též první čtyry integrály lze psáti tak, liší pouze drahou integrační. Dále dají všechny integrály převésti jediný typ, při čemž vyskytuje jako faktor lineární funkce kvocientu Transformujeme-li však součin míliových hodnot onu hodnotu, jež nachází pod integrálem, vypadne opět tento faktor vzhledem tomu, součet exponentů nul-lových hodnot rovná
+
+
+Obraťme nyní svůj zřetel odvození lineárných relací mezi třemi integrály volme příklad:
+
+
+(v, 9)dv
+
+
+(z)
+
+
+(6.
+
+
+Limitním přechodem pro obdržíme ohledem rovnice (3), resp. (2):
+
+
+Jim
+
+
+
+
+
+>/í,„
+
+
+čehož porovnáním koefficientů vyplývá:
+
+
+cos «.2
+
+
+cos
+
+
+Tytéž hodnoty odvodili bychom ovšem přechodem dvěma ostatním mezním polohám kvocientu. jest tedy regulární forma rovnice, která nám dříve byla naskytla tvaru degenerovaném zcela podobným způsobem sestrojíme bez dalšího lineárně relace mezi libovolnými
+
+
+-l-
+
+
+integrály. Obdobné rovnice pro integrály vedené bodům lze obdržeti též pouhou transformací rovnice (0).
+
+
+Chci ještě zmíniti zde bilineárných relacích, jimiž vyjádřena jest zv. věta Ábelova, kde opět dlužno stanoviti neznámé konstanty. tím účelem jest nám tvořiti derivaci integrálu dle nezávisle proměnné. Diffe-
+
+
+rencujeme-li rovnici Eulerovu dle zřejmo, ^G-~- lineárně vyjádřiti integrály exponentech:
+
+
+«„, «.,, XXIX. ﻿10
+
+
+Položme tedy zřetelem tomu, původně jsme předpokládali reálných částech exponentů
+
+
+frv
+
+
+
+
+
+(í',r,«2, 2,a0,a1 —2) í/í' (?', o2. «., o,,,
+
+
+
+
+
+
+
+
+(i>, a2, a:! -f- -t, «()
+
+
+t),
+
+
+Dosadíme-li limity pro integrál první dvě jeho derivace rovnice Kulérový, dají nám hlavní členy relace určení neznámých veličin. Pro derivace základních integrálů ylt y.2, jež povstávají připojením začátku udaného faktoru veličinám ijí, »/2, vychází obou případech pro vzhledem nerovnosti -+-
+
+
+Blíží-li kvocient period nulle, vyplývá následkem relace
+
+
+Pro třetí limitní polohu konečně vyskytují differenciální rovnici jen mocniny p±(«i+«^ annullováním jich koefficientů obdržíme dvě lineární rovnice pro stanovení konstant alt bL. Pro první integrál vychází:
+
+
+
+
+
+
+
+
+
+
+
+fOS
+
+
+
+
+
+
+
+
+V(i ""~
+
+
+kdežto pro y.2 tyto veličiny mají hodnoty:
+
+
+XXIX. ﻿11
+
+
+Též tomto směru bylo zajímavo vyšetřiti případy singulární. Dle Ábelovy věty jest pak:
+
+
+pro //;«r=oo plyne ihned porovnáním koefficientů veličiny p~4:
+
+
+a., /1+0, «2\ ~T^~ V^~' ~^~^ V~T~ ~T~/'
+
+
+všeobecném určení číselných koefficientů grupy hyper-
+
+
+geometrické.
+
+
+připojení konstanty obsahující transformační koefficienty funkcí (v, počáteční faktor**) integrandu, pozůstává problém grupy dekomposici integrálu argumentu {(« -J- *r) t>} součet integrálů základních:
+
+
+PT) (*) {'« v.*} dv= fll (r) .-1,7?, (r)
+
+
+
+
+
+
+
+
+-\-
+
+
+Jde tedy účelem vyšetření limity levé strany nejprve stanovení hodnoty integrandu pro případ, kvocient period blíží některé limitních poloh fundamentálního oboru. Patrně bude, předpokládáme-h,
+
+
+Též tyto číselné faktory lze stanoviti pomocí degenerace dotyčných funkcí. Položí me-li:
+
+
+kde jiosledního členu určitým /pusobem. normován, obdržíme pro lim je-li ST=
+
+
+lim ?-JL_l _J_ //m __^-l ro/g
+
+
+„-»
+
+
+~ř/* ^.s/» JTV-- -<7*
+
+
+při čeirž xnačí celistvé číslo; dále jsou limity týchž výra/ú:
+
+
+takže imaginární časti /.ustanou vesměs konečnými. První řady ovšem nekonvergují o,bsolutně; ohledně jich summace cf: DeJekind, Krláuterungcn Riemann's Frag-mcnten. Obdobné řady vycházejí pro ostatní dvě limitní polohy.
+
+
+**) Čí. Rozprav/ IT. tř. 32. Ročník XVII. pg. 24.
+
+
+XXIX. ﻿12
+
+
+absolutní hodnota čistě imaginárního vzrůstá nad každou mez po-ložíme-li účelem kratšího označení pro
+
+
+q-'2?1' c-'lnietí',
+
+
+
+
+
+íocl/7
+
+
+
+
+
+Ohledně ostatních dvou limit stačí poukázati okolnosti,
+
+
+r,) r„}
+
+
+r,} rj= t»-
+
+
+takže mohu zde omeziti hodnotu což určení neznámých koef-ficientu úplné stačí. Dále uvádím, výrazy tyto možno psáti též formě součtů:
+
+
+
+
+
+
+
+
+podobně pro funkce ostatní. Bude tedy:
+
+
+{(a TX) i„}dv
+
+
+^^)at W)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrační dráha jest logarithmická spirála stává tím strmější, čím menší veličina
+
+
+Je-li číslem záporným, dlužno vzíti faktory, jichž exponenty obsahují veličinu znaménkem kladným. Následkem toho změní expo-
+
+
+XXIX. ﻿13
+
+
+nent '2aiav své znaménko, zavedeme-li u~l jako nezávisle proměnnou. možno zřetelem rovnici:
+
+
+(7.)
+
+
+sin (o+ c""1' psáti zcela všeobecné, označíme-li krátce sgn
+
+
+lim
+
+
+((*±*-i)
+
+
+q$? w1/?)""1 í/í"" '?/«'
+
+
+
+
+
+
+
+
+//(l
+
+
+
+
+
+M'ÍI ('- ťi?x
+
+
+Rozložme nyní určitý integrál tím způsobem, meze odpovídají hodnotám reálné proměnné:
+
+
+íj2/J|-3)
+
+
+
+
+
+kde
+
+
+
+
+
+Zaveďme dále /-tem integrálu ^o"" u1? novou integrační
+
+
+proměnnou. Integrand přibírá vždy dva činitele nekonečných součinu, kdežto činitelé předcházející redukují vzhledem libovolné velkým hodnotám pouhé mocniny nezávisle proměnné. Konverguj e-li nulle, nutno mít zřeteli, existuje vždy jen konečná limita určitých integrálů kategorie jedné, kdežto integrály kategorie druhé jsou illusorními. (Cf. 1-, [-5].) Poněvadž však každý integrálů dolní mez horní mez předcházejícího, dlužno sledovati hodnoty integrandu celém intervallu. Integrační dráha přejde limitním případě přímku, vybíhající středu souřadnic nekonečna (mimo první poslední integrál) možno deformovati bez překročení kritických bodu př. kladnou reálnou osu. Pro hodnotu každého těchto integrálů směrodatným průsečík spirály (resp. přímky) kruhem poloměru jehož poloha nezávisí Body tyto dány jsou hodnotami:
+
+
+nik
+
+
+(t\—
+
+
+XXIX. ﻿14
+
+
+dle toho, leží-li tento bod positivní negativní polorovině, opíše proměnná kolem bodu polokruh směru záporném resp. kladném.*) Patrně případ vyloučen, neboť toho plynula rovnice:
+
+
+pro |/3
+
+
+Hodnoty určitých těchto integrálu chceme označiti následovně:
+
+
+resp.
+
+
+*»'-
+
+
+takže značí číselný faktor y-tého integrálu, jejž dlužno odděliti, aby integrand měl pro reálné exponenty malé hodnoty proměnné hodnoty reálné. zřejmo, skládá dvou částí: totiž faktoru, jejž integrand (;'—• l)-tého integrálu přijímá pro značně velké hodnoty integrační proměnné, čemuž přistupuje činitel c±8ni(ai+ai\ vykonala-li proměnná oběhu kolem středu souřadnic, dospěla počátku reálné dráhy předchozího integrálu počátku reálné dráhy integrálu, jehož laktor jest nám určiti.
+
+
+První integrál rovná ohledem rovnici (7)
+
+
+
+
+
+-^Ul+CC!
+
+
+Tří
+
+
++«i)
+
+
+lze tudíž před závorkou pravé strany psáti faktor položiti
+
+
+Limita posledního integrálu jest pak:
+
+
+neboť proměnná opíše ještě kolem středu souřadnic polokruh směrem, jehož znaménko dáno symbolem l«p.
+
+
+Určití- integrály, vedené dle přímých drah středu souřadnic, 1/e x;i-říditi tak, dráha jejich stane u/.aviTnou křivkou sice pomocí transformace
+
+
+(--------l Svax.u přímek, vedených středem, odpovídá rovině proměnné ~Y%
+
+
+-j-
+
+
+svři7 kruhu procházejících body -J- tečna kruhu, jcnx zobrazuje určitým smércm vybíhající ])římku, této směr pravé opačný. Přechod proměnné pak křivku řádu podvojným bodem
+
+
+XXIX. ﻿15
+
+
+Zaveďme nyní následující zkrácená označení: [k] budiž celistvé, reálného čísla méně než /., vzdálené číslo, dále
+
+
+[„. [(« k)} kn, takže [k] k,, |0|
+
+
+konečně
+
+
+(;//f) ÍO/e] -nk\.
+
+
+Pak možno bez dalšího psáti extenso zřetelem poznámce existenci limit:
+
+
+^(1+a° '•< (*L±*. l-±±
+
+
+t-m
+
+
+(,7tí
+
+
+"""" ft;! ""' ^tt
+
+
+'«i+«i)*3 c»í «,. (»*)\ ""l ""^ JL^ (a„+a3) _j_ fwi (ik ""l
+
+
+
+
+
+a,) f»i (.->*)) ""' ""2 ""o
+
+
+|-2 +ť*''
+
+
+iífíS
+
+
+
+
+
+(VÍ^2 idl^f;
+
+
+faktoru posledního integrálu jest: *!fl -^- [(^1 1)*]. Aw+1=A|^,^*«((l«
+
+
+
+
+
+ježto |0| -^""10 'e^-í uprostřed dvou celistvých čísel Pro laktory I/A> snadno mimo rekurrentní \Tzorce:
+
+
+,-7T/ ((-/ A-)+7Ti (ftu ttj *•>,•
+
+
+/k^/
+
+
+(8-)
+
+
+XXIX. ﻿1«
+
+
+sestrojiti formuli pro independentu! jich určení:
+
+
+
+
+
+
+
+
+i** «.,)
+
+
+
+
+
+711
+
+
+
+
+
+')"" ((a A-)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(9.)
+
+
+
+
+
+Hledané koefficienty grupy jsou pak všeobecně dány pro transformovaný integrál výrazy:
+
+
+sin (a, «.,)
+
+
+4Vt
+
+
+('+«'
+
+
+'*'"" («i ftž
+
+
+COS -r-
+
+
+
+
+
+cos a.,
+
+
+(10.)
+
+
+»í«oe((2v—
+
+
+Pro /3, a>/5 jest počáteční faktor stanoviti tak, proměnná vykoná kolem středu souřadnic roviny polokruh směrem kladným, pro /i, |/3| pak směrem záporným. Pro případ přijímají oba koefficienty mimo záporné znaménko ještě faktor <r~""iai.
+
+
+Limitní polohy použijeme zejména, je-li oproti poměrně malým; případě opačném jest výhodnějším vyšetřiti lim Záměnou exponentů vyplývají ihned koefficienty pro transformaci druhého základního integrálu jest tedy problém grupy vzhledem znalosti lineárných relací všeobecné rozřešen.
+
+
+XXIX.
+
+
+

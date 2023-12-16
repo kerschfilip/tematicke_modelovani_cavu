@@ -1,0 +1,6209 @@
+[
+  {
+    "issue_uuid": "uuid:c2623bb1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b100ec35-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26289d2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b100ec35-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26289d3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b100ec35-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26289d4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b100ec35-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c262b0e5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b100ec35-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c262b0e6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b1018876-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c262b0e7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b1018876-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c262b0e8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b1018876-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c262b0e9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b1018876-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c262d7fa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b1018876-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c262d7fb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b1018877-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c263743c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b1018877-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2645e9d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b1018877-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2645e9e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b1018877-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26485af-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b1018877-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26485b0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b1018877-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26485b1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b027a345-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26485b2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b027a345-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c26485b3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b027a345-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c264acc4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b027a345-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c264acc5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b027a345-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2659727-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0283f86-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2659728-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0283f86-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2659729-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0283f86-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c265972a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0283f86-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c265972b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0283f87-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c265be3c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0283f87-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c265be3d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0283f87-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c265be3e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0283f87-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c256f152-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0283f88-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c257dbb3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0283f88-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c257dbb4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0283f88-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c257dbb5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0283f89-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c257dbb6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0283f89-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c257dbb7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0283f89-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25802c8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b028669a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25802c9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b028669a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25802ca-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b028669a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25802cb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b028669b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25802cc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b028669b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25829dd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b028669b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25829de-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b028669b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c25829df-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b028669c-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2587800-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b028669c-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2587801-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b028669c-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2589f12-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b028669d-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2589f13-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b028669d-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2589f14-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b028669d-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2589f15-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b028669e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c2589f16-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0288daf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258c627-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0288daf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258c628-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0288daf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258c629-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0288db0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910 - 1911",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258c62a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b0288db0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910 - 1911",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258c62b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b0288db0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910 - 1911",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258ed3c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b0288db0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910 - 1911",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258ed3d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "44",
+    "volume_uuid": "uuid:b0288db0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910 - 1911",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c258ed3e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "45",
+    "volume_uuid": "uuid:b0288db0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910 - 1911",
+    "class": "1"
+  },
+  {
+    "issue_uuid": "uuid:c255b8aa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255b8ab-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255b8ac-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255b8ad-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255dfbe-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255dfbf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255dfc0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255dfc1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c255dfc2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25606d3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25606d4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25606d5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25606d6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2562de7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2562de8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2562de9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2562dea-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2562deb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25654fc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25654fd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25654fe-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25654ff-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2565500-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2567c11-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2567c12-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2567c13-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2567c14-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2567c15-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2567c16-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256a327-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256a328-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256a329-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256a32a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256a32b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256ca3c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256ca3d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256ca3e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256ca3f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256ca40-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c256f151-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d7af8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24eb379-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24eb37a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24eb37b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "44",
+    "volume_uuid": "uuid:b02ef66e-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1891 - 1892",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24eda8c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24eda8d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24eda8e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c250883f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2514b90-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2514b91-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2514b92-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25172a3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25172a4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25172a5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25172a6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25172a7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25199b8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25199b9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25199ba-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25199bb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253205c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253205d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253205e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253205f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2532060-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2534771-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2534772-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2534773-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2534774-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2534775-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2534776-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2536e87-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2536e88-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2536e89-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2536e8a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2536e8b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253959c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253959d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253959e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253959f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253bcb0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253bcb1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253bcb2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253bcb3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253bcb4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253bcb5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b02f1d7f-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253e3c6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253e3c7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253e3c8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253e3c9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c253e3ca-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2540adb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2540adc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2540add-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2540ade-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2540adf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25431f0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25431f1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25431f2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25431f3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25431f4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247ae5b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c248bfcc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c248e6dd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c248e6de-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c248e6df-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c248e6e0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c248e6e1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2490df2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2490df3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2490df4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2490df5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2490df6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2493507-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2493508-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2493509-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c249350a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2495c1b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2495c1c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b03007e0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2495c1d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24a6d8e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24a949f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24a94a0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24a94a1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24a94a2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24a94a3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24ae2c4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24ae2c5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24ae2c6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b09d7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b09d8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b09d9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b09da-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b09db-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b30ec-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b30ed-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b30ee-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b30ef-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b30f0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24b5801-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24cdea2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24cdea3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24cdea4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24cdea5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24cdea6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d05b7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d05b8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d05b9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d05ba-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d05bb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d2ccc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d2ccd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d2cce-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d2ccf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d2cd0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d53e1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b030a421-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d53e2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d53e3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d53e4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d53e5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d7af6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24d7af7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c243de8e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c245da5f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c245da60-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2460171-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2460172-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2460173-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2460174-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2460175-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2460176-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2462887-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2462888-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2462889-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246288a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246288b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2464f9c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2464f9d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2464f9e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2464f9f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2464fa0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24676b1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24676b2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24676b3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24676b4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24676b5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2469dc6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2469dc7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2469dc8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2469dc9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2469dca-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246c4db-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246c4dc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246c4dd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246c4de-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246c4df-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246eaf0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246eaf1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246eaf2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246eaf3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c246eaf4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "44",
+    "volume_uuid": "uuid:b0314062-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2471205-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2471206-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2471207-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2471208-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2471209-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247120a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247391b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247391c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247391d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247391e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247391f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2476030-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2476031-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2476032-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2476033-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2476034-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2478745-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2478746-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2478747-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2478748-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2478749-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c247ae5a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23fbfa6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c24082f7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2416d58-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2416d59-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2416d5a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241946b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241946c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241946d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241946e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241946f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241bb80-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241bb81-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241bb82-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241bb83-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241bb84-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241bb85-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c241e296-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff6630-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b03278e3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff6631-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff8d42-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff8d43-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff8d44-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff8d45-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff8d46-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ff8d47-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffb458-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffb459-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffb45a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffb45b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffb45c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffdb6d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffdb6e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2ffdb6f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c3002990-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c300ece1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c300ece2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c300ece3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c30113f4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c30113f5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c30113f6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c30113f7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c30113f8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23d0049-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23dc39a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23dc39b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e11bc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e11bd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b11ecf-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1898",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e11be-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e11bf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e38d0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e38d1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e38d2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e38d3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e38d4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e5fe5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e5fe6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e5fe7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e5fe8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e5fe9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e86fa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e86fb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e86fc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e86fd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23e86fe-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23eae0f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23eae10-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23eae11-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23eae12-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23eae13-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ed524-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ed525-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ed526-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ed527-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ed528-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23efc39-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23efc3a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23efc3b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23efc3c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23efc3d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f234e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f234f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f2350-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f2351-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f2352-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f4a63-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f4a64-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f4a65-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f4a66-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f4a67-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f7178-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f7179-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f717a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "44",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f717b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "45",
+    "volume_uuid": "uuid:b0b11ed0-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f717c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f988d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f988e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f988f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f9890-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23f9891-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23fbfa2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23fbfa3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23fbfa4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23fbfa5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2386c2c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23a40ed-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23add2e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23add2f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23add30-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b0441-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b0442-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b0443-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b0444-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b0445-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b2b56-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b2b57-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b2b58-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b2b59-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b2b5a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b526b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b526c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b526d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b526e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b526f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b7980-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b7981-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b7982-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b7983-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23b7984-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ba095-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ba096-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ba097-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ba098-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23ba099-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23bc7aa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0b1bb11-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23bc7ab-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23bc7ac-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23bc7ad-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23beebe-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23beebf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23beec0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23beec1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23beec2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c15d3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c15d4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c15d5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c63f6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c8b07-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c8b08-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c8b09-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c8b0a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23c8b0b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cb21c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cb21d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cb21e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cb21f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cb220-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cd931-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cd932-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cd933-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cd934-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23cd935-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23d0046-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23d0047-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23d0048-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2333ccf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234c370-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234c371-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234c372-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234ea83-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234ea84-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234ea85-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234ea86-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c234ea87-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2351198-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c235fbf9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0b27e62-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1901",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c235fbfa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236bf4b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236bf4c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236e65d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236e65e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236e65f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236e660-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236e661-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c236e662-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2370c73-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2370c74-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2370c75-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2370c76-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2373387-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2375a98-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2375a99-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23781aa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23781ab-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23781ac-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23781ad-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23781ae-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237a8bf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237a8c0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237a8c1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237a8c2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237a8c3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237cfd4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237cfd5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237cfd6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237cfd7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237cfd8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237cfd9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237f6ea-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237f6eb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237f6ec-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237f6ed-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c237f6ee-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b341b3-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1902",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2381dff-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2381e00-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2381e01-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2381e02-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2381e03-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2384514-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2384515-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2384516-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2384517-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2384518-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2386c29-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2386c2a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2386c2b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22fba22-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2307d73-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23167d4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23167d5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23167d6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2318ee7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2318ee8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2318ee9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2318eea-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2318eeb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231b5fc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231b5fd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231b5fe-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231b5ff-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231b600-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231dd11-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231dd12-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231dd13-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231dd14-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c231dd15-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2320426-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2320427-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2320428-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2320429-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232042a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2322b3b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2322b3c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2322b3d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2322b3e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2322b3f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2325250-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b0b42c14-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2325251-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2325252-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2325253-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2325254-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2325255-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2327966-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2327967-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2327968-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2327969-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232a07a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232a07b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232a07c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232a07d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232a07e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232c78f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232c790-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232c791-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232c792-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232c793-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232eea4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232eea5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232eea6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232eea7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232eea8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c232eea9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23315ba-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23315bb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23315bc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23315bd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c23315be-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b9b35-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22cfac6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22cfac7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d21d8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d21d9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d21da-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d21db-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d21dc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d48ed-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d48ee-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d48ef-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0b45325-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1904",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22d48f0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e0c41-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e3352-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e3353-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e3354-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e3355-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e3356-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e3357-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e5a68-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e5a69-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e5a6a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e5a6b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e817c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e817d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e817e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e817f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22e8180-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ea891-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ea892-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ea893-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ea894-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ea895-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ecfa6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ecfa7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ecfa8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ecfa9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ecfaa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ecfab-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ef6bc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ef6bd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ef6be-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ef6bf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ef6c0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f1dd1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f1dd2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f1dd3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f6bf4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f6bf5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f6bf6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f6bf7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f9308-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0b4a146-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f9309-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f930a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f930b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22f930c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22fba1d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22fba1e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22fba1f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22fba20-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22fba21-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c228b4c8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2299f29-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2299f2a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c229c63b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c229c63c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c229c63d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c229c63e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c229c63f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a1460-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a1461-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a1462-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a3b73-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a3b74-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a3b75-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a3b76-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a3b77-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a6288-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a6289-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a628a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a628b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a628c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a899d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a899e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a899f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a89a0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22a89a1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ab0b2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ab0b3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ab0b4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ab0b5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ab0b6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ad7c7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ad7c8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ad7c9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ad7ca-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22ad7cb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22afedc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "44",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22afedd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "45",
+    "volume_uuid": "uuid:b0b4ef67-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1906",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22afede-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22afedf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22afee0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b25f1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b25f2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b25f3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b25f4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b25f5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b25f6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b4d07-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b4d08-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b4d09-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b4d0a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b4d0b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b741c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b741d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b741e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b741f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b7420-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b9b31-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b9b32-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b9b33-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22b9b34-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22691b5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226b8c6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226b8c7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226b8c8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226b8c9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226dfda-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226dfdb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226dfdc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c226dfdd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c319cbac-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c319cbad-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b0b56498-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1907",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c319cbae-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c319cbaf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c319cbb0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31a8f01-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31ab612-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31ab613-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31ab614-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31ab615-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31ab616-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31ab617-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31add28-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31add29-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31add2a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31add2b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31b043c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31b043d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c31b043e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22225a8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22225a9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22225aa-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22225ab-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2224cbc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2224cbd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2224cbe-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2224cbf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2224cc0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2224cc1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22273d2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22273d3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22273d4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22273d5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22273d6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2229ae7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2229ae8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2229ae9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2229aea-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2229aeb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223ac5c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223ac5d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223d36e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223d36f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b04cdee9-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223d370-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223d371-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223d372-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223fa83-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223fa84-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223fa85-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223fa86-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c223fa87-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2242198-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2242199-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c224219a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c224219b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22448ac-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22448ad-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22448ae-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22448af-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22448b0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2246fc1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2246fc2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2246fc3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2246fc4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2246fc5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2246fc6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22496d7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22496d8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22496d9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22496da-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22496db-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c224bdec-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c224bded-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2266b9e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2266b9f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2266ba0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2266ba1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22691b2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22691b3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22691b4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21fdb7b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21fdb7c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21fdb7d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c220028e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c220028f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2200290-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2200291-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2200292-435d-11dd-b505-00145e5790ea",
+    "issue_name": "44",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22029a3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "45",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22029a4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "46",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22029a5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "47",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22029a6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "48",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22029a7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "49",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22050b8-435d-11dd-b505-00145e5790ea",
+    "issue_name": "50",
+    "volume_uuid": "uuid:b04d05fa-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22050b9-435d-11dd-b505-00145e5790ea",
+    "issue_name": "obálka a obsah ročníku",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22050ba-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22050bb-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22050bc-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22077cd-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22077ce-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c220ecff-435d-11dd-b505-00145e5790ea",
+    "issue_name": "6",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c220ed00-435d-11dd-b505-00145e5790ea",
+    "issue_name": "7",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c220ed01-435d-11dd-b505-00145e5790ea",
+    "issue_name": "8",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c220ed02-435d-11dd-b505-00145e5790ea",
+    "issue_name": "9",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2211413-435d-11dd-b505-00145e5790ea",
+    "issue_name": "10",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2211414-435d-11dd-b505-00145e5790ea",
+    "issue_name": "11",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2211415-435d-11dd-b505-00145e5790ea",
+    "issue_name": "12",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2211416-435d-11dd-b505-00145e5790ea",
+    "issue_name": "13",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2211417-435d-11dd-b505-00145e5790ea",
+    "issue_name": "14",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2213b28-435d-11dd-b505-00145e5790ea",
+    "issue_name": "15",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2213b29-435d-11dd-b505-00145e5790ea",
+    "issue_name": "16",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2213b2a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "17",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2213b2b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "18",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2213b2c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "19",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2213b2d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221623e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221623f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2216240-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2216241-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2216242-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2218953-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2218954-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2218955-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2218956-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c2218957-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221b068-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221b069-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221b06a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221b06b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "34",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221b06c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "35",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221d77d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "36",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221d77e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "37",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221d77f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "38",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221d780-435d-11dd-b505-00145e5790ea",
+    "issue_name": "39",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221d781-435d-11dd-b505-00145e5790ea",
+    "issue_name": "40",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221fe92-435d-11dd-b505-00145e5790ea",
+    "issue_name": "41",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221fe93-435d-11dd-b505-00145e5790ea",
+    "issue_name": "42",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221fe94-435d-11dd-b505-00145e5790ea",
+    "issue_name": "43",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221fe95-435d-11dd-b505-00145e5790ea",
+    "issue_name": "44",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c221fe96-435d-11dd-b505-00145e5790ea",
+    "issue_name": "45",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c22225a7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "46",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21c31be-435d-11dd-b505-00145e5790ea",
+    "issue_name": "47",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21c7fdf-435d-11dd-b505-00145e5790ea",
+    "issue_name": "48",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21c7fe0-435d-11dd-b505-00145e5790ea",
+    "issue_name": "49",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21c7fe1-435d-11dd-b505-00145e5790ea",
+    "issue_name": "50",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21c7fe2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "51",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21ca6f3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "52",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21ca6f4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "53",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21ca6f5-435d-11dd-b505-00145e5790ea",
+    "issue_name": "54",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21ca6f6-435d-11dd-b505-00145e5790ea",
+    "issue_name": "55",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21ca6f7-435d-11dd-b505-00145e5790ea",
+    "issue_name": "56",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21cce08-435d-11dd-b505-00145e5790ea",
+    "issue_name": "57",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c21cce09-435d-11dd-b505-00145e5790ea",
+    "issue_name": "58",
+    "volume_uuid": "uuid:b04d541b-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "2"
+  },
+  {
+    "issue_uuid": "uuid:c25dce8b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b09fe09a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1892",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25eb8ec-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b09fe09a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1892",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25eb8ed-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b09fe09a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1892",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25edffe-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b09fe09a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1892",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25edfff-435d-11dd-b505-00145e5790ea",
+    "issue_name": "5",
+    "volume_uuid": "uuid:b09fe09a-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1892",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25ee000-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0a007ab-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1893",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25ee001-435d-11dd-b505-00145e5790ea",
+    "volume_uuid": "uuid:b0a007ac-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25ee002-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b0a007ac-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f0713-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b0a007ac-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f0714-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b0a007ac-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f0715-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b0a007ac-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1894",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f0716-435d-11dd-b505-00145e5790ea",
+    "volume_uuid": "uuid:b01aaac8-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f0717-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b01aaac8-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1895",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f2e28-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b01c3169-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1896",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f2e29-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b01d42da-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c25f2e2a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "2",
+    "volume_uuid": "uuid:b01d42da-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c2061181-435d-11dd-b505-00145e5790ea",
+    "issue_name": "3",
+    "volume_uuid": "uuid:b01d42da-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c2074a02-435d-11dd-b505-00145e5790ea",
+    "issue_name": "4",
+    "volume_uuid": "uuid:b01d42da-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1897",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c2085b73-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b01d42db-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1899",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c209bb04-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b01d42dc-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1900",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c209bb05-435d-11dd-b505-00145e5790ea",
+    "issue_name": "1",
+    "volume_uuid": "uuid:b01d69ed-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c209e216-435d-11dd-b505-00145e5790ea",
+    "issue_name": "20",
+    "volume_uuid": "uuid:b01d69ed-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1903",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c209e217-435d-11dd-b505-00145e5790ea",
+    "issue_name": "21",
+    "volume_uuid": "uuid:b01d69ee-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c209e218-435d-11dd-b505-00145e5790ea",
+    "issue_name": "22",
+    "volume_uuid": "uuid:b01d69ee-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1905",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c209e219-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b01d69ef-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c209e21a-435d-11dd-b505-00145e5790ea",
+    "issue_name": "23",
+    "volume_uuid": "uuid:b01d69ef-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20a092b-435d-11dd-b505-00145e5790ea",
+    "issue_name": "24",
+    "volume_uuid": "uuid:b01d69ef-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20a092c-435d-11dd-b505-00145e5790ea",
+    "issue_name": "25",
+    "volume_uuid": "uuid:b01d69ef-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20a092d-435d-11dd-b505-00145e5790ea",
+    "issue_name": "26",
+    "volume_uuid": "uuid:b01d69ef-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1908",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20a092e-435d-11dd-b505-00145e5790ea",
+    "issue_name": "27",
+    "volume_uuid": "uuid:b01e5450-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20a092f-435d-11dd-b505-00145e5790ea",
+    "issue_name": "28",
+    "volume_uuid": "uuid:b01e5450-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20a0930-435d-11dd-b505-00145e5790ea",
+    "issue_name": "29",
+    "volume_uuid": "uuid:b01e5450-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20a3041-435d-11dd-b505-00145e5790ea",
+    "issue_name": "30",
+    "volume_uuid": "uuid:b01e5450-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20b1aa2-435d-11dd-b505-00145e5790ea",
+    "issue_name": "31",
+    "volume_uuid": "uuid:b01e5450-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1909",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20b1aa3-435d-11dd-b505-00145e5790ea",
+    "issue_name": "32",
+    "volume_uuid": "uuid:b01e5451-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "3"
+  },
+  {
+    "issue_uuid": "uuid:c20b1aa4-435d-11dd-b505-00145e5790ea",
+    "issue_name": "33",
+    "volume_uuid": "uuid:b01e5451-435d-11dd-b505-00145e5790ea",
+    "volume_year": "1910",
+    "class": "3"
+  }
+]

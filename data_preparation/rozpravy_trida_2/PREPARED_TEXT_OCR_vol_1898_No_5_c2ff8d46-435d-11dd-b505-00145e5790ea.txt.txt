@@ -1,0 +1,3509 @@
+"","x"
+"1"," ﻿ROČNÍK VII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+Arithmetické odvozem Lejeune DirichletovÝch výsledků počtu tříd kvadratických forem.
+
+
+Sdílí Lerch.
+
+
+(Předloženo 17. ledna 1898.)
+
+
+Kvadratické formy ax^^bxy-^-cy* čili (a, c), nichž součinitelé jsou čísla celistvá, byly předmětem studií již předešlém století; prvními výsledky ceny trvalé proslavili již Euler Lagrange. Poslední ukázal, formy ty, nichž diskriminant
+
+
+dané číslo celistvé, rozpadají konečný počet třid průkopníkům této zajímavé partie mathematické počítati dlužno též Legendrea, třeba jemu nebylo vždy podařilo abstraktním tomto oboru proniknouti jádru každého jím studovaného detailu.
+
+
+Největších zásluh jak systematické spracování theorie tak její věcné obohacení dobyl sobě Gauss svými nesmrtelnými Disquisitiones. Gauss modifikoval nejprve pojem rovnomoci (ekvivalence) forem ten způsob, nazval dvě formy (#, (či rovnomocnými, je-li lze docíliti identity
+
+
+linearnou substitucí
+
+
+
+
+
+
+
+
+jejíž determinant /3y hodnotu kdežto Lagrange připouštěl také determinant Toto omezení pojmu ekvivalence, které Gauss rozlišil
+
+
+Rozpravy: Ročn. VII. Tř. II.
+
+
+﻿adjektivy >vlastní« »nevlastní«, ukázalo véci přiměřeným mimo jiné též aplikacemi analytickými.
+
+
+Dvě formy rovnomocné třetí jsou rovnomocny též vespolek základě toho shrnujeme veškery vespolek rovnomocné formy jednu třídu forem kvadratických. Formy tétéž třídy mají společný diskriminant, naopak ale nejsou vždy formy mající týž diskriminant rovnomocny. Avšak třídy forem odpovídající danému diskriminantu jsou vždy počtu konečném (Lagrange). Pro stanovení tohoto počtu třid forem kvadratických podal Gauss mnohé vzácné výzkumy, ale vyjádření jeho analytickými výrazy obecně platnými podal první Lejeune Dirichlet.*) Tento příkladu Gaus-sově uvažoval však formy ax~ -^1b xy-\-cy*, nichž prostřední součinitel číslo sudé 2b\ toto omezení jest jednoduchosti theorie obtíž, poznal Kronecker, jehož příkladu přidržíme, zabývajíce formami
+
+
+''-\-b ji/2
+
+
+nichž střední součinitel sudý neb lichý.
+
+
+Bude zde třeba vyložiti smysl některých symbolů, jichž této partii téměř všeobecně užívá.
+
+
+Je-li číslo kmenné, kladné liché, číslo celistvé číslem nedělitelné, bude platit shoda
+
+
+/-i (mód.
+
+
+kde buď aneb Toto číslo znamenáme podle Legendrea takto
+
+
+(-T)
+
+
+Je-li Í-— •=: pak shoda druhého stupně
+
+
+Jtr2 (mód.
+
+
+možná; případě, kdy í—Jss ale tato shoda nemá řešení. Je-li číslem kmenným dělitelno, píšeme
+
+
+Je-li nyní liché číslo kladné aneb záporné, +//'/"" jeho rozklad kmenné činitele, klademe Jacobiem
+
+
+Recherches sur diverses applications 1'analyse infinitésimale thčoric děs nombres (Crelleův žurnál, sv. 21; Lejeune Dirichleťs Werke sv. str. 411).
+
+
+﻿(T) Oř) (v)
+
+
+Je-li tedy největší společný dělitel čísel větší jedné, bude (-'•) nullou, ostatních případech buď -\-l neb —1.
+
+
+Kronccker připustil ještě čísla sudá, klade případe
+
+
+2an, (nř liché)
+
+
+\-.( 2"" \~i~/-""\T/ W/'
+
+
+při tom předpokládá, jest liché, jinak společný dělitel čísel byl ^2, vzalo
+
+
+Tak definováno znaménko Legendreovo všech případech. Vlastnosti jeho předpokládáme tuto známé, jako mnoho jiných věcí elementů; při tom nicméně nebude místa zmíniti se, pro lichá platí rovnice
+
+
+dále
+
+
+zákon reciprocity
+
+
+
+
+
+platí pro libovolná dvě čísla lichá ;// //, je-li aspoň jedno nich kladné tvaru diskriminantu
+
+
+plyne, vždy
+
+
+buď D=l (mód. aneb (mód. 4).
+
+
+Dle toho nemůže býti každé číslo diskriminantem. Je-li však jedna neb druhá těchto shod splněna, existují vždy formy diskriminantu Neboť případě (mód. máme př. formu diskriminantu
+
+
+﻿kdežto případe Z?~l (mód. nám podává příklad
+
+
+^-'
+
+
+takovou formu.
+
+
+Proto pravíme čísle které hoví jedné shod těchto
+
+
+«E^1 (mód. 4), (mód. 4),
+
+
+tvar diskriminantní.
+
+
+Buď nyní diskriminantem. Je-li liché, pak znamenejme
+
+
+největšího dělitele čísla který jest úplným čtvercem, podíl —gj-=fl(
+
+
+celistvé číslo tvaru diskriminantního, jež sestává samých lichých činitelů kmenných vespolek různých. Je-li však sudé, bude tvaru
+
+
+kde liché složeno různých činitelů kmenných, čtvercový dělitel čísla při tom v^±0. Je-li liché, položíme
+
+
+největší lichý
+
+
+načež
+
+
+Je-li však sudé, třeba rozeznávati případ
+
+
+(mód. :ípadu druhého
+
+
+(mód. 4).
+
+
+případě prvním tvar diskriminantní, lze tedy klásti
+
+
+načež
+
+
+druhém případě číslo nemá tvar diskriminantní, ale jej takže lze klásti
+
+
+načež opět
+
+
+všech případech podaří tedy rozklad
+
+
+﻿kde číslo tvaru diskriminantního, neobsahuje pak žádného lichého činitele čtvercového, obsahuje činitele jen tehdy, je-li toho zachování jeho tvaru diskriminantního nevyhnutelně potřebí.
+
+
+Toto číslo zove diskriminantem hlavním základním příslušným
+
+
+Diskriminant hlavní tedy buď číslo liché, prosté činitelů kvadratických, které hoví podmínce
+
+
+EEE (mód.
+
+
+aneb je-li číslo sudé -~- celistvé číslo prosté činitelů kvadratických, které hoví jedné shod
+
+
+-5&-35 (mód. 4), resp. (mód. 4).
+
+
+diskriminantech snadno dokáže, platí vztahy
+
+
+(m\ V^T/== V57'
+
+
+dále případě kladného diskriminantu (Z>>0)
+
+
+(D\
+
+
+případě záporného diskriminantu
+
+
+
+
+
+Obě rovnice lze sloučiti jedinou
+
+
+s§n- (^-
+
+
+umluvíme-li klásti
+
+
+sgn.
+
+
+pro
+
+
+Konečně budeme užívati čísel Móbiusových
+
+
+﻿kde obecné l)'*, je-li číslo složené samých různých činitelů počtu tomto případě nemá činitelů čtercových; má-li však činitele čtvercové, klademe —O.
+
+
+předeslavše, vzpomeňme okolnosti, počet tříd kvadratických forem téhož diskriminantu konečný. Podržíme-li každé třídy pouze jednu formu jako její zástupce, obdržíme řadu forem různomocných
+
+
+(a', c'), (a"", 6"", c""), («""', b""\ c'"")
+
+
+které tvoří úplnou soustavu forem diskriminantu čili soustavu representantů všech tříd tohoto diskriminantu.
+
+
+Znamenejme dále symbolem (D, počet řešení shody
+
+
+x'í~^.D (mód. elementech nauky číslech dokazuje, platí
+
+
+kde rovnice
+
+
+
+
+
+stanoví rozklad čísla (kladného) jeho kmenné činitele, takže p^, p>,, />3 jsou vespolek různá čísla kmenná nichž může býti rovno dvěma), exponenty jsou kladné. Při tom předpokládá, pro jest
+
+
+(L)""=(L)='
+
+
+tehdy, je-li (----j nullou, číslo nesoudělné Rovnici (1) bude
+
+
+lze též psáti takto:
+
+
+iHA 4;*)
+
+
+tkne forem kvadratických daného diskriminantu, stačí omeziti formy primitivní. Kvadratická forma
+
+
+-\- -}-cy*
+
+
+﻿sluje primitivní, nemají-li součinitelé společného činitele. Formy, které nejsou primitivní, jsou tvaru
+
+
+vzniknou forem primitivních diskriminantu
+
+
+násobením činitelem
+
+
+Je-li dále diskriminant číslo záporné, lze rozeznávati formy podle znamení prvního posledního koefficientu. Neboť rovnice J-\-b*-=. vyžaduje, aby znamení veličin bylo stejné substitucí x^ax^ -\-^yí -f- přejde forma (a, formu (af, b', c'), kde aQČ^buy -^cy2, kterýžto výraz totéž znamená neboť
+
+
+kladné. Formy rovnomocné (a, mají tedy totéž znamení prvního posledního činitele. Je-li toto znamení kladné, sluje forma kladnou, opačném případě zápornou. Záporné formy obdrží kladných obrácením znamení součinitelů, takže počet tříd záporných týž jako počet třid kladných. Hodnoty -f- jsou kladné formy vesměs kladné.
+
+
+Můžeme tedy omeziti záporného diskriminantu stanovení počtu třid primitivních kladných; počet ten znamenati budeme Cl(D) C/(-J).
+
+
+případě kladného diskriminantu roztřídění forem kladné záporné není možné; zde budeme znamenati Cl(D] počet třid primitivních.
+
+
+
+
+
+formách záporného diskriminantu.
+
+
+Buďte nyní
+
+
+(2) («', («"", *"", <""), .-. («(M\
+
+
+representanty různých třid kladných forem primitivních záporného diskri minantu ^/, takže jich počet jest
+
+
+
+
+
+Cl(—J).
+
+
+Bude-li třeba označení společného pro formy (2), užijeme symbolu («, c).
+
+
+Znamenejme nyní symbolem
+
+
+﻿počet řešení rovnice (3)
+
+
+(l; ax^-^-bxy -j- cy^
+
+
+kterých celistvá Čísla jsou nesoudělná. Pak platí známá veta
+
+
+(4)
+
+
+(a,
+
+
+kde součet levo vztahuje všem formám (a, úplné soustavy (2), dále pro pak pro konečně pro z/>4. Vztah tento elementech nauky formách kvadratických dokazuje čistě arithmeticky, jest základem analytických dedukcí Dirichle-tových, též pro následující úvahy jest jediným východiskem.
+
+
+Abychom dospěli základní rovnici Dirichletově, bude nám potřebí poněkud upraviti hořejší vzorec (la).
+
+
+Číslo
+
+
+rozložme činitele m^=.m' m'\ kde m"" značí součin />2 p.Á různých kmenných činitelů ;«, takže
+
+
+
+
+
+Pak bude dle (la)
+
+
+rozvineme-li součin tento, vyjde
+
+
+Při tom musí býti číslo nesoudělné číslem
+
+
+(-L-)=••
+
+
+Tato podmínka odpadne, píše-li vzorec ten tvaru
+
+
+všech
+
+
+kde součet vztahuje všem různým dělitelům d"" čísla m"" neboť jsou tvaru
+
+
+﻿jenž platí pro všecka
+
+
+Chci dokázati, pravá strana splývá součtem
+
+
+jenž vztahuje všem rozkladům //, čísla m=n rí. Zde potřebujeme uvažovati pouze členy, nichž L„2=zl, poněvadž ostatní jsou nullami. nastane, je-li číslo jedním dělitelů čísla m"". Klademe-li pak ;;/' d"", poskytne nám podmínka m^nrí čili m"" rovnici )iťdd""— nn' ~dn\ takže bude n'—m'd'f. Součet tedy bude zníti
+
+
+m'ďf
+
+
+případě máme pak
+
+
+výsledek lze psáti
+
+
+při čemž d"" probíhá veškery dělitele čísla m"".
+
+
+
+
+
+Tím dokázáno, součet splývá výrazem (5), je-li
+
+
+
+
+
+opačném případě dle podmínky vždy
+
+
+
+
+
+buď číslem aneb číslem společného činitele, tedy
+
+
+každý člen součtu tedy roven nulle, Platí tedy obecně
+
+
+
+
+
+Buď nyní libovolné kladné číslo celistvé znamenejme
+
+
+(7)
+
+
+kde součet vztahuje všem čtvercovým dělitelům čísla Patrné
+
+
+dle (6)
+
+
+﻿10
+
+
+kde součet vztahuje všem možným rozkladům
+
+
+Výraz nk* dělitelem čísla naopak lze každého dělitele tohoto čísla uvésti tvar nk2; připojí-li pak podmínka s„2 •=. bude
+
+
+(/"")2 ""^
+
+
+patrně
+
+
+/_GL\
+
+
+
+
+
+nk*
+
+
+
+
+
+tedy zcela obecné píšeme-li
+
+
+kde součet vztahuje všem kladným dělitelům čísla předeslavše, vyšetřme počet všech řešení rovnice
+
+
+(9)
+
+
+kde
+
+
+celistvými čísly Buď největší společný dělitel čísel znamenejme ,r= ——, —-, takže jsou nesoudělná; pak bude
+
+
+
+
+
+kterážto rovnice
+
+
+řešení.
+
+
+Počet řešení rovnice (9) bude tedy
+
+
+
+
+
+kde probíhá veškery čtvercové dělitele čísla Podle vzorce základního (4) bude pak
+
+
+aneb dle (7)
+
+
+(«, ﻿11
+
+
+(10)
+
+
+(a, b,c)
+
+
+čili dle výsledku (8) ježto zde
+
+
+při čemž právo sčítati dlužno vůči všem dělitelům čísla Znamenáme-li máme
+
+
+
+
+
+G2\ /-<n /-^
+
+
+~rJ \~r)-\
+
+
+poněvadž
+
+
+vyjde (10*)
+
+
+Tato rovnice právě základním vztahem Dirichletovým, neboť vyjadřuje pravé tolik rovnice
+
+
+(u)
+
+
+L'(
+
+
+(a, i>, »t,
+
+
+-\-bmn-\-cri'
+
+
+
+
+
+při čemž součet levé straně vztahuje jednak všem formám (a, úplné soustavy (2), jednak všem celistvým (kladným záporným) hodnotám čísel výjimkou jediné kombinace
+
+
+zde užito nekonečných řad, nemůže překážeti arithmetikovi, poněvadž existuje nekonečná rozmanitost funkcí (z) majících pouze konečný počet hodnot nully různých, takže obě strany rovnice (11) redukují konečný počet členů.
+
+
+Buď nyní dána kladná veličina položme /**(r)zzl, pokud z^X, ale /?($) pro s>X. Pak levá strana rovnice (11) redukuje součet
+
+
+(a,
+
+
+kterém Pa> značí počet soustav ///, celistvých čísel, pro něž výraz -\-bmn-\-cn* nesoudělný nepřevyšuje hodnotu Jinými slovy, Pa> (X) vyjadřuje počet bodů celistvými souřadnicemi ležícími uvnitř neb obvodě ellipsy
+
+
+﻿12
+
+
+pro něž levá strana rovnice nesoudělná pravé straně přejde řada součet
+
+
+Znamenáme-li
+
+
+<JP (~,
+
+
+pcčet čísel nepřevyšujících nesoudělných bude
+
+
+í=1
+
+
+(-, C?) -Í-
+
+
+(12)
+
+
+""•• ^^y
+
+
+j_^i
+
+
+takže pravá strana rovnice (11) bude zníti
+
+
+
+
+
+tedy obdržíme vztah
+
+
+(a,
+
+
+
+
+
+
+
+
+zvláštních případech, zejména kdy počet třid rovná jedné, rovnice tato podává zajímavé vztahy arithmetické. Je-li totiž diskriminant hlavní, bude <2— načež Pa,í,c(X) redukuje počet bodů celistvými souřadnicemi počátku soustavy souřadnic lišícími, které leží uvnitř neb obvodě ellipsy
+
+
+
+
+
+-\- cy2
+
+
+dále tomto případě •=.
+
+
+
+
+
+celky čísla —j—- Zde tedy zní rovnice (13) takto
+
+
+(14)
+
+
+﻿13
+
+
+zvláštním případě z/0 máme pouze jednu třídu, kterou representuje př. forma (l, x2-\-y*\ výraz (X) bude roven počtu celistvých* bodů ležících ploše kruhu
+
+
+-i-* [>*-«*];
+
+
+tedy roven veličině
+
+
+[}rx]
+
+
+
+
+
+ponévadž zároveň obdržíme krácení čtyřmi vztah
+
+
+(15)
+
+
+L""*=*'-IWC-BJ'
+
+
+tak př. pro máme levo součet
+
+
+právo ale
+
+
+11.
+
+
+Pro máme taktéž pouze jednu třídu, jejíž představitele lze voliti formu 2j2; zde bude
+
+
+P(X)
+
+
+A--2a'J
+
+
+
+
+
+tedy vyjde
+
+
+
+
+
+(16)
+
+
+[v^=2^i
+
+
+
+
+
+
+
+
+(/.
+
+
+Tak máme př. pro levo
+
+
+2(4 2)^28
+
+
+právo pak
+
+
+1—1 1=128
+
+
+Obraťme nyní rovnici (14); plyne
+
+
+lim
+
+
+(*)
+
+
+
+
+
+předpokláda-li se, limity levo právo existují.
+
+
+﻿14
+
+
+existenci limity
+
+
+
+
+
+přesvědčíme velmi snadno.
+
+
+Jeť čitatel Pai/,jC(X) jednotku menší než počet bodů celistvými součiniteli obsažených uvnitř obvodě ellipsy
+
+
+aneb což totéž jest,
+
+
+-\-bxy-\- cy21=
+
+
+Obklopíme-li každý těchto bodů čtvercem, jehož střed onom
+
+
+
+
+
+bodě jehož strany jsou osami souřadnic souběžný mají délku ri=
+
+
+
+
+
+bude plocha ellipsy (E) pokryta jednoduše těmito čtverečky, pouze jisté proužky podél malého obvodu zůstanou prázdny, jiných místech budou podél malého proužku plošného čtverečky plochy (E) částečně vystupovati. Znamenáme-li (F) obrazec zaplněný těmito čtverečky, (E) obsah stejnojmenné ellipsy, budou plochy (E) (/'') lišiti veličinu, kterou lze učiniti tak malou jak libo, zvolí-li dosti velikým. Tudíž bude
+
+
+avšak
+
+
+.v=
+
+
+tedy nacházíme výsledek
+
+
+lim *,bi_c
+
+
+JT—
+
+
+kde (E) značí plochu ellipsy, jejíž rovnice zní
+
+
+lze stanoviti buď elementární cestou analytické geometrie, aneb přímo dvojnásobným integrálem
+
+
+Podmínku integrační lze psáti
+
+
+^4<t, 4ac ﻿15
+
+
+zavedeme-li miste proměnnou
+
+
+vyjde
+
+
+kterýžto dvojnásobný integrál vyjadřuje plochu ellipsy
+
+
+jejíž polouosy mají hodnoty plocha tedy bude
+
+
+čehož
+
+
+
+
+
+tedy konečně (17)
+
+
+Pa,*,c(X) 2*_
+
+
+Hodnota levé strany rovnice (14a) bude tedy obnášeti tolikráte veličinu
+
+
+,-^l-, kolik existuje forem (a, 1), naší soustavě, bude rovna
+
+
+(14b)
+
+
+Abychom obdrželi pravou stranu rovnice (14a), vyšetřujme raději obecný tvar
+
+
+(18-)
+
+
+
+
+
+abychom výsledků tak nabytých mohli použiti též ostatních případech Znamenejme \D\, takže buď neb Z>, uvažme,
+
+
+(__L__) (JL\
+
+
+&-4-Jv
+
+
+Položme tedy
+
+
+t+Jv, (k-\, 3,. ..z/; 2,. ..7V-1), volme A"" Nd; pak bude
+
+
+﻿16
+
+
+Ar—
+
+
+(18"")
+
+
+(""TV
+
+
+vše redukuje vyšetření součtu
+
+
+N-l
+
+
+fc=Ě
+
+
+
+
+
+pro veliké hodnoty TV. Tento tvaru
+
+
+abychom tento výraz přetvořili, znamenejme libovolné kladné celistvé ^íslo rozložme jak následuje
+
+
+Součet
+
+
+
+
+
+---
+
+
+rovná počtu případů, kdy platí nerovnost
+
+
+znamenáme-li pak v', máme nerovnost
+
+
+n—u^^ (|M, ,/=:!,
+
+
+čehož soudíme, bude
+
+
+
+
+
+•=i,[-f—-i.
+
+
+kde řadě jde tak daleko, dokud neobjeví záporné hodnoty uzávor-
+
+
+N__l
+
+
+kovaného výrazu, tedy vlastně hodnotě ^----—----.
+
+
+iMáme tedy
+
+
+
+
+
+^o""— 2j-------u\—rn, ----j----
+
+
+f=\ n-\-u
+
+
+﻿17
+
+
+Odtud plyne identita
+
+
+které
+
+
+Volme nyní [""\' A"" pak bude při výraz
+
+
+n-\-u
+
+
+obsažen mezi
+
+
+TV-
+
+
+
+
+
+tudíž bude mezích tvaru
+
+
+kde (-—) značí veličinu, jejíž součin zůstává konečným. Bude tedy
+
+
+\\i JV/
+
+
+pro dosti veliká
+
+
+Užije-li dále okolnosti, veličina
+
+
+liší
+
+
+-f- -f-
+
+
+méně než jednu, vyjde pravé strany rovnice (19)
+
+
+kde značí neznámý pravý kladný zlomek; tedy
+
+
+V'^ (v'~^±l)
+
+
+LtfsI-»JE,rií+* jfi
+
+
+Roipravy: Ročn. VIL Tř. II. ﻿18
+
+
+čehož plyne
+
+
+
+
+
+f-_
+
+
+h~'
+
+
+(w)
+
+
+kde vždy značí (___) veličinu, jejíž součin zůstává konečných
+
+
+mezích.
+
+
+Pomocí tohoto výsledku obdržíme rovnic (18a) (18b) výraz
+
+
+
+
+
+
+
+
+
+
+
+Veličina závorce roste zároveň přes všecky meze; má-li tedy pravá strana býti konečná, musí
+
+
+(20)
+
+
+Pomocí této rovnice vychází
+
+
+odtud taktéž pomocí (20)
+
+
+
+
+
+
+
+
+Řada pravé straně vyskytující konverguje pro ^Vz= oo, držíme tedy
+
+
+
+
+
+
+
+
+Píše-li konečně pravá strana rovnice (21) tvaru
+
+
+﻿19
+
+
+nějž přejde substitucí
+
+
+plyne existence limity její výraz
+
+
+(22»)
+
+
+který jsme znamenali P(D).
+
+
+Pravá strana rovnice (14a) tedy hodnotu
+
+
+tím rovnice vzhledem výsledku (14b) nabývá konečného tvaru
+
+
+(23)
+
+
+který svojí podstatou náleží analysi, zde vyvinut prostředky vesměs arithmetickými.
+
+
+Abychom podobného výsledku nabyli obecnějším případě vzorce (13), potřebujeme přiměřený výraz součtu
+
+
+'<*<»=L(-L)
+
+
+Toho docílíme pomocí identity
+
+
+
+
+
+(24)
+
+
+které probíhá veškery dělitele čísla našem případě jest
+
+
+tedy bude
+
+
+Abychom také výrazům Pa, (^Y) uděliti mohli jednoduchý tvar, zařiďme volbu representantů (2) tak, aby vždy bylo nesoudělno ale aby obsahovalo veškery kmenné činitele Pak bude
+
+
+
+
+
+﻿20
+
+
+mn-\-cn2 takže pak rovnice Dirichletova zní
+
+
+(_Q2_ /"""" \am2' ~~\
+
+
+(11*)
+
+
+,c)
+
+
+cn2)
+
+
+výrazy />«, budou zníti
+
+
+Pa>bjC (X}-
+
+
+
+
+
+Podle rovnice (24) tedy bude
+
+
+Pa, (X)
+
+
+ia, (A'),
+
+
+značí-li nám
+
+
+počet řešení nerovnosti
+
+
+-\- -\-Cy2^X (vyjma 0). pak bude dle vzorce (17)
+
+
+lim (X)
+
+
+
+
+
+2it
+
+
+Ledy
+
+
+což splývá výrazem
+
+
+lim Pa) (X)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kde <jp(0 známý arithmetice význam počtu čísel menších než nesoudělných Tudíž
+
+
+(13*)
+
+
+lim />«.,,,
+
+
+^=00
+
+
+v(G)
+
+
+rovnice (13) plynoucí rovnice
+
+
+(13a) Pa> *'c («, ^=0°
+
+
+levé straně veličinu
+
+
+﻿21
+
+
+(13"")
+
+
+•""
+
+
+Podle rovnice (12a)
+
+
+(^, *<* -y|» (X^'
+
+
+Laj
+
+
+obdrží pravá strana rovnice (13a) tvar
+
+
+lim
+
+
+*x=»~Xaíi
+
+
+
+
+
+rZTJ
+
+
+kde probíhá dělitele čísla Výraz ten lze psáti
+
+
+tedy dle (22) hodnotu
+
+
+Toť hodnota pravé strany (13a). Srovnáním výrazů (13b) (13C) odpadne
+
+
+činitel —~t zbude rovnice Dirichletova
+
+
+(23*)
+
+
+kterou jsme dříve dokázali pro případ diskriminantu hlavního nyní obecné; možno též psáti
+
+
+(23**)
+
+
+II. formách kladného diskriminantu.
+
+
+Theorie forem kladného diskriminantu souvisí úzce rovnicí
+
+
+Pellovou, která tvar
+
+
+/?«>
+
+
+jde-li formy primitivní. Rovnice tato jeden pár 7"", řešení kladných (různý nezajímavého řešení t=2, 0), které jest nejmenších čísel složeno udílí výrazu t-\-u^~D hodnotu nejmenší; řešení sluje hlavním základním ostatní něho obdrží pomocí rovnice
+
+
+﻿22
+
+
+_±1)±2,±3i
+
+
+Rovnice
+
+
+které (0, forma kladného diskriminantu, buď nekonečný počet řešení, aneb nemá žádných.
+
+
+nekonečného počtu řešení této rovnice, sice nesoudělnými čísly lze vymeziti řešení konečném počtu, podrobí-li neznámé podmínkám (1)
+
+
+při tom značí veličinu racionalnou
+
+
+
+
+
+2aU
+
+
+předpokládá se, součinitel kladný.
+
+
+Řešení tato nazveme základními. Znamenejme (/; /;, počet takovýchto »hlavních* řešení.
+
+
+Buď nyní (2) (a, 6', c'), («"", c""), (««•», #->, ;«'»)
+
+
+úplná soustava forem primitivních kladného diskriminantu /), tak volená, aby čísla d', #"", .... byla kladná. Pak platí známá identita
+
+
+
+
+
+která elementech dokazuje ryze arithmeticky. Znamenejme nyní
+
+
+N(l\ počet řešení rovnice
+
+
+-f-
+
+
+celistvými čísly která mohou míti společného dělitele, ale hoví nerovnostem
+
+
+Pak bude
+
+
+N(l; a,b, c)-2jN(-jr;
+
+
+kde součet vztahuje všem čtvercovým dělitelům čísla Odtud obdrží jako výše rovnice
+
+
+﻿,3,
+
+
+jež nevyjadřuje nic jiného, než rovnice Dirichletova
+
+
+J?„L(«
+
+
+
+
+
+které součet levo vztahuje jednak všem representantům různých tříd primitivních diskriminantu jednak číslům jež mají hoviti nerovnostem
+
+
+n^O;
+
+
+Zvolíme-li representanty (a, tak, aby bylo nesoudělno <2, ale obsahovala veškery kmenné činitele bude
+
+
+-\-bmn-\-cn
+
+
+
+
+
+rovnici (4) bude lze psáti při týchž podmínkách (4a)
+
+
+(4*)
+
+
+(a,
+
+
+Buď nyní libovolná kladná veličina, volme
+
+
+pro z^.
+
+
+pak bude rovnice (4*) zníti
+
+
+(a,
+
+
+při čemž />a> (jf) značí počet čísel pro něž platí podmínky
+
+
+
+
+
+T—bU
+
+
+Bude pak lze opětně rovnici
+
+
+přetvořiti vzorec
+
+
+﻿24
+
+
+i*, (X\
+
+
+které součet vztahuje všem dělitelům čísla <2, při čemž P*ď>.,bd, (X) značí počet čísel hovících podmínkám
+
+
+Odtud plyne, bude limita
+
+
+Pádí, bd, (X)
+
+
+rovnati plošnému obsahu obrazce ome zenému hyperbolou
+
+
+
+
+
+
+
+
+Bude tedy
+
+
+dále přímkou
+
+
+osou úseček
+
+
+zavedeme-li vyjde
+
+
+Tento integrál substituci
+
+
+z=^r bude zníti
+
+
+Meze integrační pro jsou tedy
+
+
+...
+
+
+pro pak takže
+
+
+což substituci Drf 4ax2 obdrží tvar
+
+
+﻿25
+
+
+U^D
+
+
+-4-\
+
+
+d^D elementarný vzorec
+
+
+
+
+
+poskytne vzhledem okolnosti,
+
+
+
+
+
+
+
+
+výsledek velmi jednoduchý
+
+
+tedy bude
+
+
+Čili
+
+
+Pa, (X)
+
+
+r=oo
+
+
+lim Pa, (^)
+
+
+
+
+
+Užije-li vzorce (12a)
+
+
+obdrží rovnice (5) tvar
+
+
+
+
+
+(4)
+
+
+Dělíme-li zde obou stranách veličinou přejdeme limitě pro oo, vyjde dle (5a)
+
+
+čili
+
+
+(6)
+
+
+Je-li zvláštním případě DQ, tedy jedné, lze representant zvoliti případě Z>0
+
+
+počet třid roven [mód. 4]) formu
+
+
+
+
+
+﻿26
+
+
+Výraz P(X) značí pak počet řešení nerovností
+
+
+udává tedy počet bodů položených mezi osou přímkou -^jjy
+
+
+hyperbolou, prvním kvadrantu, při čemž body ose počítají, přímce nikoli. Počet ten bude
+
+
+A""
+
+
+.•- -""
+
+
+tedy máme vztah
+
+
+podmínky jeho jsou, aby byl sudý diskriminant základní počet třid rovnal jedné.
+
+
+Podmínky jsou splněny při Z?0 tedy bude
+
+
+
+
+
+=1,3,5...
+
+
+III.
+
+
+tomto odbočení vraťme rovnicím (23**) článku (6) článku II., totiž
+
+
+(1)
+
+
+
+
+
+(2)
+
+
+
+
+
+Transformace, jimž podrobíme, nejsou více rázu čisté arithmetického, jako byly methody vedoucí jich odvození.
+
+
+Znamenáme-li nyní kladný neb záporný diskriminant, bude nám studovati řadu
+
+
+(3)
+
+
+﻿27
+
+
+Použitím řady
+
+
+\h)~JŠ dokazuje tu, platí identita znamená-li
+
+
+(4)
+
+
+kde součin vztahuje všem různým kmenným činitelům čísla případě z/0 znamenejme číslo příslušné ^/0 poněvadž pak z/0 musí tedy obdržíme (1) (4)
+
+
+(5)
+
+
+dále (2) (5) podobně pro
+
+
+Cl(D)\og'T~
+
+
+(6)
+
+
+
+
+
+což lze též psáti
+
+
+(6*)
+
+
+
+
+
+log
+
+
+log
+
+
+Veličina
+
+
+log
+
+
+74-
+
+
+jejíž obrácená hodnota vyskytuje jako činitel pravé straně, kladné celistvé číslo. Neboť rovnici
+
+
+lze psáti
+
+
+
+
+
+čehož plyne, čísla hoví Pellové rovnici
+
+
+příslušné diskriminantu Z)0, tedy bude
+
+
+﻿28
+
+
+kde kladné celistvé číslo, čímž tvrzení dokázáno. Toto číslo, jehož stanovení velmi důležité, bude rovno jednotce jen tehdy, je-li číslo dělitelem čísla ř/0.
+
+
+Rovnicemi (5) (6) převedeno stanovení počtu třid problém jednodušší, kdy diskriminant —^0 neb hlavním základním. tomto případě lze totiž řadu (D) sečísti pomocí funkcí elementárných tvaru zakončeném. této otázce chceme nyní pojednati, způsobem ovšem různým method běžných.
+
+
+Již výše bylo uvedeno, platí vztah
+
+
+
+
+
+Podle známého vzorce theorie funkce gamma jest však
+
+
+pomocí tohoto vzorce lze poslední výraz takto psáti
+
+
+(7)
+
+
+
+
+
+J-l
+
+
+
+
+
+(k\
+
+
+\^/
+
+
+neboť konstanta (1) vypadne, ježto jest násobena výrazem
+
+
+
+
+
+?(L)=»•
+
+
+Pravou stranu rovnice (7) lze pak vyjádřiti tvaru zakončeném, užije-li vzorce Gaussova*)
+
+
+r'(4-
+
+
+
+
+
+A—\
+
+
+
+
+
+cos---------.log sin—-
+
+
+Jeho rychlé odvození viz Rozpravách II. třídy, čísle 14. pátého ročníku.
+
+
+﻿29
+
+
+Tím způsobem obdrží rovnice (7) tvar
+
+
+A—i
+
+
+Je-li záporné číslo, členové součtu
+
+
+Ěí=í
+
+
+
+
+
+cos
+
+
+akn
+
+
+dvou ruší, poněvadž
+
+
+tedy zbývá
+
+
+
+
+
+vzorec tento bychom však mnohem pohodlněji vyvinuli rovnice (7), kdy bychom užili vztahu
+
+
+Je-li dále diskriminant kladný, ruší dvou členové součtu
+
+
+
+
+
+
+
+
+D—\
+
+
+zbývá rovnice
+
+
+(10) P(D} log sin -^f (-J-)
+
+
+a^l »Sl
+
+
+COS
+
+
+1ka.it
+
+
+Zabývejme nyní zvláštním případem, kdy diskriminant základní. Tvrdíme, součet
+
+
+D„—
+
+
+
+
+
+
+
+
+cos
+
+
+
+
+
+vymizí, májí-li čísla společného dělitele většího než jedna.
+
+
+Předpokládejme, obé čísla obsahují liché číslo <tf, zvolme znamení tak, aby výraz byl diskriminantem; klademe-li pak ^zedD^ bude též diskriminantem, přitom
+
+
+﻿30
+
+
+
+
+
+Znamenejme ;«', ^', položme
+
+
+(p=l>2,...^/;v l,...</-
+
+
+tím výraz
+
+
+přemění následující
+
+
+
+
+
+
+
+
+/^A (*d
+
+
+
+
+
+cos
+
+
+cos
+
+
+Číslo z/' nemůže obsahovati žádného kmenných činitelů čísla poněvadž diskriminant základní tedy nemá lichých dělitelů čtvercových tudíž jsou čísla nesoudělná, takže výraz -f- z/' probíhá úplnou soustavu modulo čehož plyne,
+
+
+tedy též
+
+
+Zbývá ještě vyšetřiti případ, kdy jsou obě sudá čísla. třeba rozeznávati dva tvary diskriminantu /?0, /*.
+
+
+případě L>0 máme součet
+
+
+
+
+
+cos
+
+
+liché),
+
+
+takže substituce -j- 1), nám poskytne
+
+
+zřejmo, výraz hranaté závorce rovná nulle, tedy Je-li dále (mód. 4), bude náš součet zníti
+
+
+
+
+
+cos
+
+
+
+
+
+lze jej psáti
+
+
+jest opět
+
+
+cos
+
+
+
+
+
+﻿31
+
+
+Výraz
+
+
+
+
+
+
+
+
+cos
+
+
+
+
+
+liší tedy nully pouze případě, kdy jsou nesoudělná. Píšeme-li rovnici tuto tvaru
+
+
+cos
+
+
+kmit
+
+
+
+
+
+kde probíhá pouze čísla nesoudělná, stačí uvážiti, probíhá taktéž čísla nesoudělná modulo Z>0 různá, čehož plyne
+
+
+2Č3T
+
+
+
+
+
+tedy (a)
+
+
+cos
+
+
+kde číslo závisí pouze DQ.
+
+
+rovnice této plyne, rovnice (10) případě •=. zjednoduší jak následuje
+
+
+(b) Z>.m) -*, log sin
+
+
+*/g
+
+
+Užijme nyní vyjádření pravé strany rovnice elementů známé
+
+
+cos
+
+
+log sin
+
+
+vzpomeňme identity
+
+
+Tak obdržíme nejprve
+
+
+
+
+
+
+
+
+cos
+
+
+
+
+
+vnitřní součet dle rovnice (a) hodnotu tedy vyjde
+
+
+﻿32
+
+
+čehož
+
+
+Absolutní hodnota výrazu nám zde dostačila; však vůli úplnosti poukážeme theorii Gaussových součtů, která dokazuje, vždy kladné. Dle toho bude
+
+
+
+
+
+(u)
+
+
+
+
+
+cos
+
+
+kmit
+
+
+obdobná rovnice platí pro hlavní diskriminanty záporné
+
+
+
+
+
+při čemž celistvé číslo musí býti kladné. Rovnice (b) tedy zní
+
+
+toho dle (2) výsledek Dirichletův
+
+
+/?.
+
+
+(13)
+
+
+,)log
+
+
+Tato rovnice zvláštním případem rovnice (10), totiž vztahu
+
+
+tfx7T
+
+
+(14)
+
+
+Z?—l
+
+
+COS
+
+
+U7T
+
+
+který platí pro všecky diskriminanty.
+
+
+Podle rovnice (6) obdržíme výsledků (13) (14) vztah
+
+
+
+
+
+kir. //M 2///Í-5T
+
+
+COS --------=:-------
+
+
+(15)
+
+
+Zajímavý příklad bude :=/, kde />, jsou různá čísla kmenná; při tom ovšem musí býti p~l (mód. 4), poněvadž jinak .nebylo diskriminantem. Rovnice (16) podá tomto případe
+
+
+﻿/'/*-
+
+
+éfl
+
+
+
+
+
+cos
+
+
+levé straně rozlišme hodnoty dělitelné ostatních, které znamenejme k'. Pak bude levá strana zníti
+
+
+Sk'n 'V' //""T\ 2>fcL'jr
+
+
+logsmw• ^rA (M)cos-77-+5>
+
+
+kde
+
+
+P-\
+
+
+
+
+
+log
+
+
+
+
+
+cos
+
+
+*rri
+
+
+jest pak substituci Q-\- p-p, l,...
+
+
+ř/2
+
+
+
+
+
+
+
+
+
+
+
+Ježto </2 jsou nesoudělná, probíhá při výraz veškery zbytky modulo </-, tedy bude
+
+
+čehož plyne, náš součet
+
+
+(*)
+
+
+
+
+
+hodnotu
+
+
+""'(•-)• vři:
+
+
+dle vzorce (11) dle toho bude tedy
+
+
+cos
+
+
+
+
+
+vynecháme-li tento součet obou stranách rovnice (a), vznikne rovnice
+
+
+Rozpravy: Ročn. VII. Tř. II. ﻿34
+
+
+k'n (Pť\ log sin----^ ""7= —j—
+
+
+2hk'
+
+
+Čísla jsou pak dvojí; buď jsou nedělitelná aneb obsahují první znamenejme L"", druhá budou tvaru k'"" kde k""' </><?, při tom L'"" nedělitelno.
+
+
+Levá strana tedy bude
+
+
+Sk""it log sin-----5- -—— k~}
+
+
+^///3r
+
+
+log sin-------------=•
+
+
+T\p h\\
+
+
+2**""*
+
+
+cos
+
+
+2hk'""n
+
+
+tomto výraze druhá čásť může býti uvedena tvar
+
+
+log sin
+
+
+cos
+
+
+kde předpokládá znamení L•= tak voleno, aby bylo diskriminantem, (mód. 4); této supposice bude dále
+
+
+q~\
+
+
+tedy poslední výraz bude
+
+
+—q7\ log sin
+
+
+Zde položme
+
+
+
+
+
+cos
+
+
+/>— 1),
+
+
+vyjde
+
+
+,/-! /-l
+
+
+cos
+
+
+tedy
+
+
+﻿35
+
+
+
+
+
+
+
+
+
+
+
+,^0 V<7 ?1>/
+
+
+srn
+
+
+cos
+
+
+sin
+
+
+cos
+
+
+
+
+
+Buď nyní kladné řešení shody
+
+
+(mód. /), -(- (mód. /), následkem toho lze psáti
+
+
+položme takže
+
+
+-\-
+
+
+cos t2k'""vn\ //L) cos qv/ sin sin
+
+
+c°s
+
+
+
+
+
+Následkem toho výraz obdrží tvar
+
+
+k'"" Git
+
+
+cos ------•------
+
+
+poněvadž
+
+
+'//-i.
+
+
+
+
+
+q"" číslo celistvé, máme
+
+
+
+
+
+qk'
+
+
+definice
+
+
+plyne, q"" nesoudélno </, tedy ježto ani k'"" neobsahuje
+
+
+ktn q"" cos--------------
+
+
+odtud
+
+
+Ježto diskriminantní číslo, bude dále
+
+
+shody
+
+
+-q' ﻿."",6
+
+
+pak soudíme, bude
+
+
+tedy
+
+
+(mód.
+
+
+Výraz veličina (y) podle toho hodnotu
+
+
+kde summační přípona k'"" mezích L'"" </?a nesoudělná proto lze psáti
+
+
+
+
+
+Substituce -\- .../>; poskytne
+
+
+tvar
+
+
+čili
+
+
+P-\
+
+
+kde
+
+
+při čemž součinu probíhá index hodnoty intervallu pro něž (j-\-vg neobsahuje
+
+
+Pro neurčité bude
+
+
+/(«) sin(w^-v)-—, 4-v/ (mód. </).
+
+
+Je-li hodnota rt; ^), pro niž Q-\- EEÍ (mód. 0),
+
+
+bude
+
+
+O...y—l
+
+
+sin(«+v)
+
+
+sin -\-
+
+
+Čitatel jest však roven veličině
+
+
+﻿37
+
+
+sin 2?-1
+
+
+tedy
+
+
+-T^I
+
+
+
+
+
+
+
+
+sin
+
+
+odkudž pro vyjde
+
+
+sin
+
+
+sin
+
+
+Dosadíme-li tuto hodnotu vzorce (/'), obdrží
+
+
+kďj definováno shodou
+
+
+ř+«ř>5
+
+
+Znamenejme
+
+
+takže
+
+
+(mód. ^).
+
+
+tedy
+
+
+bljq
+
+
+tudíž vyjde jakožto hodnota součtu fy)
+
+
+Tento výsledek rovná však veličině pravé straně rovnice (/J) stojící, tedy rovnice (/i) redukuje svůj obsah nejjednodušší
+
+
+
+
+
+sin
+
+
+
+
+
+﻿38
+
+
+kde součet vztahuje hodnotám k"" nesoudělným obsaženým mezích k"" g2, což lze též vyjádřiti pohodlněji takto
+
+
+(-J-) loS sin
+
+
+Poněvadž
+
+
+COS
+
+
+L""
+
+
+(?)
+
+
+/fi-
+
+
+cos
+
+
+
+
+
+cos —•—f-,
+
+
+bude lze výsledek ten psáti
+
+
+
+
+
+COS
+
+
+
+
+
+odtud soudíme, jedna veličin
+
+
+/?V-i (16)
+
+
+
+
+
+
+
+
+musí vymizeti. Ukážeme dodatku, jest veličina první. Výsledky této úvahy lze takto vyjádřiti: Jsou-li dvě různá kmenná čísla, (mód. 4), platí rovnice
+
+
+(17)
+
+
+COS
+
+
+
+
+
+je-li číslo nesoudělno
+
+
+Jako doplněk vzorce (17) uvedhie ještě
+
+
+
+
+
+cos
+
+
+
+
+
+
+
+
+cos
+
+
+
+
+
+Předpokládejme, jak tomu skutečně jest, mizí první výrazů (16),
+
+
+pak bude též
+
+
+﻿39
+
+
+(tsL\
+
+
+t^i
+
+
+Pomocí řady
+
+
+
+
+
+cos -------5— je-h
+
+
+
+
+
+log sin log
+
+
+
+
+
+cos
+
+
+111
+
+
+vypočteme výraz
+
+
+tvaru
+
+
+
+
+
+COS
+
+
+Řadu rozdělme tři části, nichž jedna obsahuje členy, nichž nesoudelno </, druhá členy, kde ;// ;;/' třetí pak sestává členů m=.m""q""\ při tom jest m"" libovolné, ale jest nesoudelno; tak vznikne
+
+
+S,; kde
+
+
+kmit
+
+
+
+
+
+COS
+
+
+//;;/
+
+
+ir.iSW-e-
+
+
+
+
+
+Řady lze sečísti základě vzorců (17a) (17b), sice obdrží tak výrazy
+
+
+Podle vzorce (4) však bude
+
+
+(f"")
+
+
+tedy
+
+
+﻿40
+
+
+&+& i-Hr \U-P(I>)
+
+
+Druhý výrazů (16) tedy hodnotu
+
+
+bude též roven nulle, jakmile
+
+
+y^-// kmenné číslo tvaru 4«-(- kmcnní číslo jeho kvadra tickým zbytkem, bude
+
+
+S(ž|l)tegíin*^
+
+
+^^^
+
+
+nezbytkem dle bude součet
+
+
+sin
+
+
+
+
+
+nully různýy jest jeho hodnota
+
+
+při tom značí základní řešení Pellovy rovnice
+
+
+pu^
+
+
+kde jsou různá čísla kmenná tvaru -}~
+
+
+Obraťme nyní případu záporného diskriminantu, pro který jsme obdrželi rovnici (9)
+
+
+Poněvadž
+
+
+
+
+
+2.T«
+
+
+cot
+
+
+obdržíme
+
+
+J—i
+
+
+Součin ﻿41
+
+
+A-\
+
+
+hodnotu poněvadž výraz
+
+
+hodnotu
+
+
+
+
+
+Násobíme-li tedy hodnotou —/(l), máme
+
+
+
+
+
+bude potřebí pouze provésti dělení
+
+
+výraz ten lze však psáti j—i
+
+
+
+
+
+Odtud pro plyne
+
+
+1-1
+
+
+J-l
+
+
+(i+f*+*'*+.
+
+
+
+
+
+Dosadíme-li tuto hodnotu hořejšího vzorce, obdržíme
+
+
+-i—i j—i
+
+
+čili
+
+
+A—l
+
+
+Z/2
+
+
+
+
+
+Je-li Jtí opačný diskriminant základní, platí vztah
+
+
+﻿42
+
+
+jenž týž obsah jako vzorec 1—1
+
+
+
+
+
+tudíž předpokládáme-li z/zrz/0, obdržíme poslední výraz /'(
+
+
+j-i
+
+
+tvaru
+
+
+Zde pišme nyní -|- obdržíme
+
+
+J-2
+
+
+
+
+
+1—2
+
+
+Avšak
+
+
+takže lze náš výsledek psáti
+
+
+
+
+
+(nr) -^~ ~iif (-J
+
+
+Podle vzorce (1) však levá strana rovna Cl( známý výsledek
+
+
+tedy máme
+
+
+os)
+
+
+konci obraťme ještě rovnici (6*), totiž
+
+
+kde
+
+
+log
+
+
+
+
+
+log^^
+
+
+﻿43
+
+
+číslo celistvé kladné. ZavedVne znaménko
+
+
+(19)
+
+
+načež máme
+
+
+Nyní tvrdíme, každému celistvému kladnému číslu náleží exponent tak, aby platila shoda
+
+
+(20)
+
+
+
+
+
+(mód. ;//).
+
+
+Neboť stačí řešiti Pellovu rovnici
+
+
+L>0 hodnotou dělitelnou klademe-li obdržíme totiž rovnici
+
+
+která vždy řešení budiž 7"", řešení základní, pak všecka ostatní budou taková, platí rovnice
+
+
+•)•
+
+
+
+
+
+Avšak řešení T=t^, ;#L/=#, hoví též rovnici Pellově
+
+
+příslušné diskriminantu Z?0, takže bude
+
+
+
+
+
+
+
+
+odtud
+
+
+
+
+
+Tedy pro číslo existuje jistý nejmenší exponent všecky ostatní exponenty mající vlastnost (20) jsou jeho kladné násobky. Tento nejmenší exponent znamenati budeme (m) neb (m, DQ).
+
+
+Číslo (m) nejmenší řešení shody
+
+
+(20')
+
+
+Q-Q
+
+
+﻿Buď nyní diskriminant základní, diskriminant něho odvozený, hlavní řešení Pellovy rovnice
+
+
+
+
+
+Poněvadž rovnice plyne též
+
+
+nacházíme
+
+
+čili
+
+
+log
+
+
+log
+
+
+číslo vyskytující rovnici
+
+
+C1(D)=
+
+
+tedy totožno naším exponentem (6>, DQ\ takže máme
+
+
+(21)
+
+
+Naopak odpovídá danému exponentu vždy konečný počet čísel ;// pro něž platí shoda (20a) stačí pouze vypočísti mocnost
+
+
+načež všichni dělitelé čísla mohou býti vzati ;// pro všecky ovšem bude míti význam exponentu nejmenšího (m). Volme nyní 6V(/70); rovnicí
+
+
+y/;0'
+
+
+
+
+
+definováno určité číslo //'; je-li dělitelem čísla //, bude jistě (///) obsaženo čísle Cl(DQ\
+
+
+Naopak buď dělitel čísla Cl(D^) buď (ni).
+
+
+Znamenáme-li
+
+
+v_. /,+«,
+
+
+
+
+
+﻿45
+
+
+bude «j~0 (mód. ní)\ píšeme-li mu', bude lze poslední veličinu psáti též
+
+
+l^AT
+
+
+načež
+
+
+bude tvaru
+
+
+
+
+
+
+
+
+>=(/i *V*'/>oy
+
+
+
+
+
+ale «., ///.
+
+
+Tudíž je-li &(m) obsaženo Cl(DQ), bude obsaženo Pouze dělitelé čísla mají tedy vlastnost, jejich exponenty w(w) jsou obsaženy Cl(DQ}.
+
+
+Číslo definované rovnicí
+
+
+(22)
+
+
+\c/(ZJo)
+
+
+
+
+
+nazveme Pellovským číslem příslušným základnímu diskriminantu D$.
+
+
+rovnici (21) jmenovatel (g) bude nesoudělným číslem (D^\ je-li nesoudělno Pellovským číslem.
+
+
+»Je-li nesoudělno Pellovským číslem diskriminantu DQ, bude číslo (g, /J0) dělitelno číslem (fí).« Odtud plyne,
+
+
+(23)
+
+
+(G, A,)
+
+
+
+
+
+(mód.
+
+
+správná, značí-li číslo nesoudělné Pellovským Číslem diskriminantu DQ. Při tom jest
+
+
+kde součinu probíhá všecky různé kmenné činitele čísla
+
+
+zvláštním případě máme větu. »Je-li číslo kmenné nesoudělné Pellovským číslem diskriminantu Z>0, bude číslo definované rovnicí
+
+
+dělitelno číslem <?.«
+
+
+Pro př. poněvadž 67(5) máme též ?/=:!; Pellovské číslo tedy rovno jedné, proto bude pro libovolné kmenné číslo výraz ﻿46
+
+
+y-)-/+«N5
+
+
+míti irracionalného součinitele dělitelným př.
+
+
+v'5 v5\°""ri_ 47+ \'5
+
+
+123+
+
+
+!)'-=
+
+
+2207 +987
+
+
+V5V1-1,. 123.55 v'T
+
+
+~2~ atd>
+
+
+Hodnoty jsou pořadem
+
+
+21, 55, 987, 123. jsou dělitelný příslušnými čísly
+
+
+11.
+
+
+Zároveň máme prostředky přímo hledati kmenné činitele čísla (/>.).
+
+
+Proveďme mocnění
+
+
+kmennými exponenty 4a; pokaždé musí vyskytnouti kmenný činitel příslušné hodnoty který ještě nevyskytl při nižších hodnotách exponentu 4n. Je-li (/>„, DQ) nedělitelno číslem /*, bude obsaženo Cl(D()). Tím ovšem není řečeno, všecka kmenná čísla l(DQ) obsažená mohla tímto způsobem býti stanovena, rovněž nemůže postup ten považován býti zvláště praktický.
+
+
+Dodatek.
+
+
+Chceme ještě stanoviti součty tvaru
+
+
+nichž diskriminant složený Z?0 g2, číslo celistvé hovící jistým podmínkám.
+
+
+﻿47
+
+
+Vyjděme výrazu
+
+
+
+
+
+S(DQ 2rMJtt ~T7
+
+
+,.,
+
+
+položíme-li ,4, z/0 1), bude
+
+
+^T1
+
+
+'-*~
+
+
+Vnitřní součet jest nully různý pak roven jen tehdy, je-li dělitelno číslem g2, lze psáti jeho hodnotu \~sji) užívá-li
+
+
+symbolu (x) neb ^(.r) —O, aby naznačilo, jest celistvé resp. lomené. Pak bude
+
+
+(a) A=Q\
+
+
+Týž součet lze však ještě jiným způsobem vyjádřiti. Hodnoty něm přicházející rozdělme skupiny příslušné jednotlivým dělitelům čísla sice bude skupina (d) příslušná děliteli charakterisována podmínkou, největší společný dělitel čísel znamenáme-li tedy •=. v', budou čísla nesoudělná; příslušný součet skupiny (d) lze tedy psáti
+
+
+
+
+
+
+
+
+posledním výraze dosaďme nyní (ti. z/0 d""*, vyjde lo""""-' </—l
+
+
+
+
+
+(b)
+
+
+
+
+
+výraz pak bude roven součtu všech těchto veličin Předpokládejme nyní pak bude jrf pro tudíž výraz redukuje .?,, jenž také bude tedy roven nulle,
+
+
+
+
+
+(24)
+
+
+
+
+
+-=i
+
+
+2ot.T
+
+
+je-li Q*,
+
+
+﻿48
+
+
+Volme dále kde jest číslo kmenné obsažené Zde budou dvě míti činitele —r- různého nully, Zbývá tedy
+
+
+o'/-/2
+
+
+'X'''
+
+
+Je-li jest poslední výraz roven nulle, tedy
+
+
+/i—i
+
+
+
+
+
+(25)
+
+
+je-li kmenný činitel čísla </. Je-li však bude
+
+
+(25»)
+
+
+""o
+
+
+Klade-ii zvláště D{,—±p,p (j, /=! mód. 4), obdržíme
+
+
+
+
+
+odtud
+
+
+(26)
+
+
+
+
+
+kmenné, ±/~- [mód. 4|).
+
+
+objasnění stůjtež zde příklady
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+což redukuje rovnici tříčlennou
+
+
+sin 40° sin 20° cos 10°.
+
+
+
+
+
+což zjednoduší
+
+
+
+
+
+﻿49
+
+
+COS
+
+
+
+
+
+3tt
+
+
+""25""
+
+
+cos
+
+
+
+
+
+
+
+
+sín
+
+
+
+
+
+
+
+
+
+
+
+srn
+
+
+
+
+
+Volme dále q*, q*, kde kmenné. Pak existují tři výrazy sd, j,, s.y, jy», sice
+
+
+Zde lze .?, psáti
+
+
+čímž obdrží tvar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+něhož plyne bezprostředné =0, ježto Qlq>l. Vychází tedy
+
+
+pro 6>,
+
+
+Součet
+
+
+
+
+
+
+
+
+/Z>0 ^,*^8\ 2-^L ""--— Q^g
+
+
+
+
+
+substituci J0Q^ obdrží tvar
+
+
+Avšak
+
+
+2""-T?
+
+
+Q>*1/ ^+/i tí,
+
+
+^>QS_ť____ (D.
+
+
+
+
+
+tedy vychází jako hodnota součtu
+
+
+4|&«f
+
+
+**f
+
+
+Rozpravy: RoČn. VII. Tř. fl. ﻿50
+
+
+Zde položme v.J0 2,... Q^\ 1); tím obdrží nejprve
+
+
+
+
+
+\f2^_
+
+
+Poněvadž
+
+
+bude
+
+
+Nyní předpokládejme, z/0 C?t nesoudělno í/. Pak výraz »-(-v.^0(2i2 probíhá veškery zbytky modulo tedy čísla q—l hodnotu bude pro určité
+
+
+Pro prvních zbytků jest
+
+
+
+
+
+57+v. C?2/
+
+
+
+
+
+pro však
+
+
+tudíž
+
+
+
+
+
+T)^
+
+
+
+
+
+následkem toho
+
+
+čili
+
+
+l1' 1(1
+
+
+IOŠŤ^T""
+
+
+rovnice -\-vf plyre
+
+
+i?.-').,./^. g.'\
+
+
+
+
+
+tedy ﻿tento výraz roven nulle, jakmile jestliže $-^i však z/0 délitelno pak bude
+
+
+e>+
+
+
+
+
+
+tedy opét
+
+
+toho plyne, lze rovnici s^t psáti též
+
+
+Součet j^-j bude nully různý pouze pro C?t máme
+
+
+tedy zní náš výsledek
+
+
+(27)
+
+
+'.'
+
+
+Pro z/0 =:/— bude
+
+
+čili
+
+
+(28)
+
+
+
+
+
+pro
+
+
+r(-
+
+
+pro
+
+
+vychází odtud vztah (26), volímc-li však
+
+
+f/> kmenné, +/= [mód. 4])
+
+
+﻿*"

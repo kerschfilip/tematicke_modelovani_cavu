@@ -1,0 +1,1151 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+vyjádření podmínek pro realitu kořenů rovnice stupně šestého pomocí invariantů.
+
+
+Napsal PĚT
+
+
+(Předloženo dne 17. února 1906.)
+
+
+Úkolem, který jsem své práci předsevzal pro rovnici stupně šestého, zabýval Sylvester při rovnici stupně pátého řešil jej opíraje podmínku, které vyhovuje lichý invariant formy stupně pátého. Dospěl tak podmínkám pro realitu pozoruhodné jednoduchosti. Realitu kořenů rovnice stupně šestého pomocí invariantů vyšetřoval Brill (nehledíme-li některým výpočtům částečně nesprávným libovolným domněnkám uvedeným Salmonové uč., něm. př., str. 356), avšak práci své, jejížto hlavní účel nebylo stanovení podmínek pro realitu kořenů rovnice stupně šestého, Brill řešení úplnému zmíněného úkolu nedospěl. Kriteria Brillova totiž ponechávají pro některé kombinace znaménkové příslušný počet kořenů komplexních neurčen.
+
+
+Východiskem mého řešení byl stejně jako práci Sylvestrově vztah mezi lichým invariantem ostatními čtyřmi invarianty. Podmínka, lichý invariant jest rovný nulle, stanoví vztah mezi ostatními čtyřmi invarianty zavedeme-li invarianty absolutní, mezi třemi absolutními invarianty. Pojímal jsem pak tyto absolutní invarianty jakožto souřadnice bodu prostoru, čímž změnil zmíněný vztah rovnici jisté plochy. Nejdůležitější pak při řešení mého úkolu bylo vyšetření průběhu této plochy, jakož vyzkoumání souvislosti oborů, které prostor celý plochou touto, jakož rovinou diskriminantní dělí. Podstatnou pomůckou při tom vyšetřování
+
+
+Brill, Uber bináre Formen und die Gleichung dcs sechsten Grades. Math. Annalen, sv. XX, str. 330.
+
+
+Rozpravy: Roč. XV. Tř. II.
+
+
+IV. ﻿byla okolnost, plocha zmíněná jest racionálna; souřadnice jednotlivých bodů ploše jsou racionálné funkce dvou parametrů.
+
+
+Podmínky pro realitu pak vyplývající jeví tvaru tak jednoduchém, lze výhodou jich použiti prakticky, výrazy příslušné jsou značně jednodušší nežli známé věty Sturmovy plynoucí; což jest ostatně následek toho, všech invariantů formy stupně šestého nejvyšší stupeň diskriminant.
+
+
+Jeví pak výsledku dosaženém pozoruhodná okolnost, není možno vždy při daných invariantech rozhodnouti, kolik kořenů komplexních příslušné formě patří; přísluší totiž, jsou-ii splněny jisté dvě podmínky mezi invarianty, těmto invariantům současně dvojí formy různými počty kořenů komplexních. tato okolnost nastává při formách stupně osmého, ukázal jsem již dřívější své práci; týchž důvodů jako pro formy stupně osmého nastává všech forem, jichž stupeň jest dělitelný podle výsledků pak pro formu stupně šestého práci odvozených jest pravděpodobné, při formách stupně sudého vůbec neurčuje některých výminečných případech systém invariantů jednoznačně počet kořenů komplexních.
+
+
+
+
+
+Při vyšetřování reality kořenů rovnice stupně šestého, jejíž levou stranu předpokládati budeme tvaru formy šestého stupně
+
+
+(1) a^x6 -\-6ai ^y-\- .r4 ;'2 -|- rt3 *3j/3 -f- 15«.t^2/
+
+
+vezmeme základ invarianty, jež značí Salmon své »Algebře« písmeny pak diskriminant
+
+
+Mimo tyto čtyři invarianty sobě nezávislé forma šestého stupně ještě jeden invariant 15. stupně koefficientech, jejž značí Salmon jehož čtverec racionálně celistvě vyjádřiti pomocí invariantů lze tudíž psáti
+
+
+(2)
+
+
+kde P(A, značí polynom číslech Tato okolnost následujícím základní důležitost. Plyne toho totiž, pro hodnoty takové čísel pro něž polynom jest záporný, nemůže forma šestého stupně míti reálné koefficienty. Připustíme-li tudíž svých úvah pro součinitele a0, jenom reálné hodnoty, což při úkolu, jejž jsme předsevzali, samo sebou rozumí, jsou hodnoty čísel
+
+
+IV.
+
+
+﻿které P(A,L>,C,zí) záporným činí, nemožný. Nelze ovšem tvrditi, vždy příslušely takovým A,fi,C,J, pro něž P(A, jest kladné, formy stupně šestého reálnými koefficienty; dokonce lze vymeziti takové obory pro systém těch čísel, nichž žádnému systému nepřísluší reálná forma, /'(/!,L, jest kladné, ale jest již podřízené důležitosti.
+
+
+Abych pak mohl opírati názor mluvu geometrickou, zavedu místo invariantů absolutní invarianty zvolím tomu tyto invarianty
+
+
+A2— 100
+
+
+(3)
+
+
+\r__
+
+
+300 250
+
+
+bude potom
+
+
+Pl(X, Y,Z]
+
+
+kde (X, jest polynom .V, jest tudíž, máme-li zřeteli jenom formy reálnými koefficienty
+
+
+(4)
+
+
+(A',
+
+
+pro <0.
+
+
+zavedení absolutních invariantů rovnicemi (3) byl rozhodujícím tvar podmínky pro existenci dvou párů stejných kořenů. Podmínka pro jest, jak známo, aby mimo bylo
+
+
+(5) .... (A3
+
+
+250 100
+
+
+absolutních invariantech svrchu zavedených nabývá podmínka tato jednoduchý tento tvar
+
+
+(6)..........(F2— 5A'3M°
+
+
+Předním úkolem naším bude vyšetření průběhu plochy
+
+
+(A;
+
+
+kde A', 2"" jsou pravoúhlé souřadnice bodu prostoru. Plochu tuto budeme nazývati plochou hraniční.
+
+
+Vypočítati však výraz (A', jest již obtížno; ještě však obtížnější bylo základě vypočteného výrazu podati zmíněný rozbor průběhu plochy, pokud bude pro náš úkol potřebno. Věc sama však nás vede tomu, abychom vyjádřili souřadnice pomocí dvou para-
+
+
+IV. ﻿metrů, což lze zde učiniti racionálně. Aby totiž tři páry kořenů formy dané byly involuci, tomu nutná postačující podmínka jest Můžeme však tuto podmínku vyjádřiti též pomocí invariantů dostaneme jakožto levou stranu této podmínky výraz třicátého stupně koefficientech který tudíž může lišiti jenom numerický činitel.*) Vyjádření pak zmíněné podmínky lze pomocí provésti takto.**)
+
+
+Nehledíme-li případům zcela zvláštním, lze tom případě, když šest kořenů formy šestého stupně odpovídá šesti bodům involuci, převésti formu onu tvar
+
+
+(7) ..... ""o ""2
+
+
+Položíme-li pro stručnost dle Salmona
+
+
+(8). <74 at3 ^'X
+
+
+jsou invarianty L>, dány tomto případě výrazy
+
+
+A-f- B—Kp
+
+
+,u2 u""' -4- -{- ;/)
+
+
+(A2— 150 íí— 1875«2-f 500 i/)2
+
+
+Eliminací parametrů těchto rovnic dostali bychom podmínku mezi z/, jež jest ekvivalentní podmínkou /T=0 již zavedením absolutních invariantů A'"", bychom převedli rovnici hraniční plochy. Avšak vyjádříme-li nejprve pomocí dostaneme pro racionálně homogenní funkce těchto čísel nulltého rozměru počítajíce při tom stupeň stupeň můžeme
+
+
+tudíž psáti jako racionálně funkce dvou parametrů př. tvaru
+
+
+
+
+
+kteréžto tři rovnice samy rovnici hraniční ;>lochy můžeme pokládati bude tento její tvar jistě pro nás příhodnější než kterýkoliv jiný.
+
+
+Aby tvar racionálných funkcí byl nejjednodušší, zavedeme čísla A', ;«', vztahy
+
+
+|(5 /i') (10) ....... $(*' ?')
+
+
+A'2 A>' ít/2]
+
+
+Viz Salmon-Fiedler, Algebra der Transf. str. 346. **) Viz Salmon-Fiedler, Algebra der Transf. str. 346. násl.
+
+
+IV. ﻿Pak jest (U).......A=10ť, A-— 100/>'= 100 v',
+
+
+(U).
+
+
+300 250 1000 </a «'3 \i'\
+
+
+;.' ji') //'' v')2 pro rovnici plochy hraničně obdržíme, klademe-li
+
+
+(12).......
+
+
+
+
+
+A'2
+
+
+tyto zcela jednoduché vztahy X=*<
+
+
+(13)
+
+
+-i'
+
+
+II.
+
+
+Nejprve vyhledáme singulární křivku hraniční plochy. Toto vyhledání může býti provedeno způsobem týmž jako vyhledání dvojných bodů křivce racionálně. Snadno najdeme, singulární křivka rozpadá dvě. Pro první platí
+
+
+(14)
+
+
+z;2—
+
+
+Každému bodu této čáry odpovídá jenom jediný systém hodnot (#, v). Nazývati budeme tuto křivku křivkou bodů úvratu anebo stručně křivkou úvratnou. Pro body druhé singulární křivky platí
+
+
+U5). 4^4 4v3
+
+
+Každému bodu této čáry odpovídají dva různé (nehledě zcela zvláštním případům) systémy hodnot (u,v}\ jestliže jeden systém jest (u,v) druhý (X,^) jest
+
+
+//,
+
+
+u-\-v
+
+
+\-\-v
+
+
+Cáru tuto nazývati budu uzlovou čarou hraniční plochy. Rovnici čáry úvratné dostáváme bezprostředně tvaru
+
+
+IV.
+
+
+
+
+
+(16) ........ }'= 8^4-48 z;2
+
+
+z;2
+
+
+Průmět této křivky rovinu Z=0 jest, jak těchto rovnic patrno, křivka třetího stupně mající tvar semikubické paraboly. Dvojný bod průmětu jest bodě 57, 3ir y)- Jedna větev křivky dvojného bodu vycházející jest stále nad rovinou Z(Z;>0). Druhá větev probíhá počátku rovněž nad rovinou Z=0, dotýká bodě (O, roviny této, bodě opět nastává dotyk touto rovinou zároveň přechod křivky pod rovinu
+
+
+Vztah určující čáru uzlovou (15) jest rodu nulového; vyhovíme tomu vztahu, položíme-li př.
+
+
+5(ť2 _** t'A **j-_5
+
+
+3/*-|-5 (3/2>5)2~
+
+
+Dosadíme-li tyto výrazy rovnic (13) položíme-li ještě
+
+
+(""> .......... ^f-
+
+
+dostaneme jakožto rovnici uzlové čáry
+
+
+(18). .A'=r(2 r), F=:r2(3 r)2.
+
+
+Čára uzlová probíhá hraniční ploše (bereme při tom ohled jenom reálné části hraniční plochyj jenom potud, pokud rovnice (17) dává pro reálné hodnoty. Diskriminant rovnice pro jest
+
+
+r). Jest tedy omezeno interval
+
+
+
+
+
+Probíhá-li tento interval vzrůstajíc opisuje bod A', čásť čáry uzlové položenou reálné části hraniční plochy. Vychází pak tato čára bodu (O, 0), dospívá bodu (l, jehožto průmět jest bodem úvratu pro průmět čáry uzlové končí pak bodě -—?, -). Probíhá pak tato část' křivky stále nad rovinou dotýká této plochy dvou bodech •=. (A'= y). Průmět uzlové čáry opět tvar semikubické paraboly bodem úvratu bodě (A'= 1).
+
+
+IV. ﻿Další čáry ploše hraničně pro nás významné jsou čára jejího dotyku rovinou Z=^0 přímka, které protíná rovinu Dotyk plochy hraničně rovinou /^=0 nastává jak patrno rovnic (13) bodech, pro které platí
+
+
+(19)...........4
+
+
+Čára příslušná rovnici
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T""
+
+
+z=o
+
+
+Jest semikubická parabola mající bod úvratu bodě (O, symmetricky položená vzhledem ose A'. Budeme nazývati tuto čáru krátce čarou dotyku.
+
+
+Plocha hraniční protíná konečně rovinu Z=0 bodech, pro něž -L• Body leží přímce, jíž říkati budeme průsečná anebo přímka -|.
+
+
+obr. znázorněn průběh průmětu čáry úvratu, průběh čáry dotykové
+
+
+přímky -y. Všecky tyto tři čáry dotýkají bodě
+
+
+jest
+
+
+Obr.
+
+
+tomto obrázku značí průmět čáry úvratné, čáru dotykovou. přímku průsečnou roviny Z=Q plochy hraničně. Rozměr pořadnic jest] při
+
+
+IV. ﻿Obr.
+
+
+
+
+
+právě bod,, kterém přechází čára úvratu pod rovinu něhož počínaje jest dotyk plochy hraniční rovinou dolní straně roviny Z=0. Mimo počátek bod 6"" protínají průmět čáry úvratné a-čára dotyková ještě dvou bodech*); probíhají obě větve průmětu čáry úvratu pro dosti veliké kladné mezi oběma větvemi čáry dotykové (t. průseky přímky A'— dotykovou čarou jsou dva body, mezi nimiž pro dosti veliké jsou oba průseky přímky průmětem čáry úvratu). Této okolnosti později použijeme.
+
+
+Sledujme nyní průběh čar konst. jsou čáry obsažené rovině •=. konst. jsou čáry racionálně. Jich rovnice jest
+
+
+(20).
+
+
+—3v) 4v*-{-
+
+
+jest proměnlivý parametr, konstantní. Všecky reálné body křivky proběhneme (vyjma dvojné isolované), měníme-li parametr
+
+
+tom proti rozměru úseček desetkráte zmenšen. Obrázek udává průběh týchž čar ještě průmětu čáry uzlové měřítku značně zvětšeném, avšak jenom pro
+
+
+Čára uzlová jest označena písmenem t\- jest nakreslen tečkované celý průmět uzlové čáry, pokud probíhá reálné části hraniční plochy. "") A'i="" (12+2 40', =*- (1160 184 K40).
+
+
+IV. ﻿-j- oč. nejprve lze vytknouti, průběh křivky jakož polohu křivky přímce Z=0, (A'— konst.) dostatečně pro nás účel vyšetříme, vyhledáme-li nejprve, jak sobě následují ubývajícím průseky křivky křivkou úvratu, křivkou dotykovou přímkou pru sečnou, stanovíme-li dále vzájemnou polohu posledních tří bodů konečně určíme-li, kterých intervalech vznikají křivce konst. uzlové body (reálné).
+
+
+Neboť, jak snadným počtem zjistíme, ubývá-li nastati může změna vzrůstu daného rovnicí (20) jenom pro body čáře úvratné; změna pak vzrůstu nastává rovněž bodech čáry úvratné jsou tedy tyto body body úvratu čáry •=. konst.) mimo jenom ještě bodech čáry dotykové. bude tudíž tvar křivky konst. záviseti především pořadí, jakém sobě následují kořeny rovnic (14) (19). Pro tyto kořeny zavedeme označení
+
+
+lěmitéž písmeny budeme značiti příslušné body křivce. výrazech právě napsaných nechť značí když absolutní hodnotu druhé odmocniny čísla Různé případy, jež mohou nastati pořadí, jakém sobě následují hodnoty alt a2, číslo tudíž příslušné body křivce konst. jsou sestaveny této tabulce
+
+
+bl—al— t>2
+
+
+29° !>«!>*,>*»>*,;
+
+
+•§• a.,
+
+
+b^b^ komplexní čísla
+
+
+~^>u\ a\)az\b±,b.2 komplexní čísla.
+
+
+pak tkne vzájemné polohy bodů l\, č>2, přímce
+
+
+=.!/=: konst., Z^Q, jsou pořádku tomto (ve směru záporných kladným)
+
+
+
+
+
+U1->
+
+
+
+
+
+óít
+
+
+
+
+
+.,- ffl ;!.
+
+
+-ij
+
+
+IV. ﻿10
+
+
+Při tom značí, body křivky příslušné parametrům splývají prostorově (nikoliv však křivce konst.).
+
+
+čáře uzlové lze poznamenati, rovinu X-=. konst. protíná, pokud jde její část, jež obsahuje body uzlové neisolované dvou splývajících bodech, když intervalu dvou různých bodech, intervalu ;-"" jednom bodě. těchto bodech prů-sečných čára konst. body uzlové (nehledě krajním případům -^').
+
+
+Jsou tedy pouze intervaly stanovené čísly
+
+
+CXD, Ťj-
+
+
+l6. -OD
+
+
+intervaly pro z/, kterých křivka konst. nabývá odchylek tvaru, pokud tyto odchylky pro nás padají váhu. Okolnosti uvedené průběhu křivek konst. znázorněny jsou graficky obr. —12., nichž ještě použito, pro dosti veliké jest záporné ubývajícím ubývá počátku jakž rovnic snadno plyne.
+
+
+Jest nyní zcela snadno rozhodnouti, kolik oborů souvislých celý prostor hraniční plochou rovinou Z—O dělí, jakož tyto obory
+
+
+
+
+
+
+
+
+Z-o
+
+
+Z=o
+
+
+Obr.
+
+
+Obr.
+
+
+X=l
+
+
+Obr.
+
+
+Obr.
+
+
+IV.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+﻿12
+
+
+charakterisovati. Pouhý pohled obr. 3—12 znázorňující tvar průřezů hraniční plochy roviny Z=^0 rovinou X^ikonst. nás tom poučí. Při tom ovšem třeba představiti, tvar jednoho průřezu spojitě tvary sousedních průřezů přechází.
+
+
+Pro záporné jsou tři obory sebe hraniční plochou oddělené; obrazích označeny jsou značkami /', //'. Pro kladné jest jich pět /j, //, //i ///. Při tom jsou obory //t /// obory konečnu prostírající //j mezi rovinami A'=z2g"" A'=0 ///mezi rovinami A'= A'= -^. Obory II' prostírají pouze směru kladných nekonečna končí obor oběma výběžky, nichž jeden prostírá rovině A'=^ druhý rovině A'=0; hrot oboru končí
+
+
+
+
+
+rovině g-.
+
+
+Obory //' prostírají obou směrech osy nekonečna obor trojhraný výběžek, (který protínají roviny A'— konst. obloucích ^L,, úsečce sahající ro;ině A'={;.
+
+
+Obory /,, //' jsou jedné straně hraniční plochy, obory pak //, //,, /', jsou straně druhé.
+
+
+Podrobnější charakterisování jednotlivých oborů pomocí části plochy hraničně, jimiž jsou omezeny, pokládám vzhledem obr. 3—12 zbytečné.
+
+
+III.
+
+
+Přistoupím nyní tomu, abych vyšetřil, kolik kořenů komplexních formy šestého stupně odpovídá jednotlivým částím hraniční plochy. Při tom vyjdu opět formy
+
+
+(m) -j- ii.2 x*y~ -j- <?4 .r2j/4 -j- aGj'6
+
+
+kde a0, a2, a.t, jsou reálné, jejichžto šest kořenů odpovídá šesti bodům involuci, jak jsem již svrchu poznamenal. Rozhodneme nejprve, zda každému bodu hraniční plochy jsou přiřaděny formy tvaru (m) reálnými koefficienty. Jelikož každému systému reálných čísel A', tu', (jichž poměry určeny jsou parametry stanovící Jiraničné ploše jeden bod) jednoznačně přiřaděn jest systém reálných čísel tu, (viz str. 4), stačí rozhodnouti, zda každému systému čísel /i, odpovídají formy (m) reálnými koefficienty. Koefficient učiňme rovný vypočteme-li pak rovnic (8) př. dostaneme
+
+
+Ostatní koefficienty pomocí #4, ft, racionálně jsou stanoveny jest tedy patrno, tomu, aby koefficienty a0, a2, #4, při daných tu, mohly býti jako reálná čísla stanoveny, jest nutno stačí, aby
+
+
+(21)...........v2 4Aiu3^0
+
+
+IV.
+
+
+﻿13
+
+
+anebo číslech A', p't
+
+
+(2ť) 4v'2-|-i/(5A'2-f-6/l>' anebo konečně parametrech //,
+
+
+(21"")
+
+
+?'- -}- z;3 z;2
+
+
+Tato podmínka jest při křivce konst. vždy splněna pro dosti veliké Výraz však levé straně znaménka nerovnosti mění své znaménko překročí-li bod ubývajícím uzlový bod obrazcích c2, c3, ť:4).*) Následkem toho není podmínka pravé vyvozená splněna obloucích mezi uzlovými body pak mezi c4. Nemohou tudíž odpovídati bodům obloucích resp. formy tvaru (m) reálnými koefficienty. Máme tudíž tento první výsledek: Bodům položeným části plochy hraničné, jež ohraničuje prostor /// neodpovídají žádné formy tvaru (m) reálnými koefficienty (nehledě při tom bodům čáry uzlové). Všem ostatním bodům plochy hraničné jsou přiřaděny vždy formy tvaru (m) reálnými koefficienty.
+
+
+Formě (m) přísluší vždy anebo kořenů komplexních, jestliže diskriminant formy stupně třetího
+
+
+(n)
+
+
+-f- ~\- y""
+
+
+jest kladný. Neboť pak formě stupně třetího přísluší vždy dva kořeny komplexní tudíž formě (m) aspoň kořeny komplexní. Diskriminant ten však vyjádřený hned pomocí </, jest
+
+
+(22)
+
+
+150 1875 ,u2 500
+
+
+anebo pomocí //,
+
+
+(22').......2
+
+
+Jestliže tudíž
+
+
+(23)
+
+
+
+
+
+odpovídají vždy příslušné body čáry hraničné formám tvaru Cm) reálnými koefficienty nebo kořenech komplexních; přísluší-li vůbec oněm bodům formy reálnými koeficienty. Odtud další výsledek: Probí-há:r.e měníce čáru konst. jsou body mezi /»2
+
+
+Vyjmouti jest pouze při tomto výroku (jakož dalších jeho důsledcích) případ výraz (^l"") jest úplným čtvercem nemění následkem toho svéh -znaménka. Odpovídá okolnosti, vždy dva uzlové body křivce u=zl spolu splývají bylo tudíž přiměřenější, kdyby obr. označení uzlových bodů bylo •=. místo stručného označení ť,, které tam bylo voleno.
+
+
+IV. ﻿14
+
+
+takového druhu, jim odpovídati mohou jenom takové reálné formy (m), jež mají nebo kořenů komplexních nejsou-li zmíněné body zároveň mezi resp. mezi jistě každému bodu taková forma (vlastně dvě řady forem) jest přiřaděna. Tímto výsledkem znaménkem jest určen pro tyto body úplně počet kořenů komplexních přiřaděných forem tvaru (m).
+
+
+Abychom pro případ -f- mohli stanoviti, kolik jest kořenů komplexních formy (m) jest třeba znáti počet kořenů záporných formy (n) ten snadno určí pomocí pravidla Descartesova. snadno jest dokázati,*) jestliže -f-
+
+
+Jsou-li ft, vesměs kladná čísla forma (m) šest kořenů komplexních.
+
+
+Jsou-li záporné kladné, forma (m) šest kořenů reálných.
+
+
+Jsou-li znaménka čísel ji, řadě -)-, -+_ anebo forma (m) dva kořeny reálné.
+
+
+Jsou-li znaménka čísel ta, řadě -f- :±I anebo -|—|-----
+
+
+forma (m) čtyři kořeny reálné.
+
+
+Vyšetřujme tomto základě, kterých případech mění počet kořenů komplexních formy (m), když příslušný bod hraniční plochy přejde křivce konst. bodem, kterém -f- (t. bodem, kterém nastává dotyk mezi hraniční plochou rovinou 0.) Poněvadž může změniti jenom počet kořenů komplexních rovný počet rovný anebo počet rovný počet rovný poněvadž, jak právě bylo vytčeno, oblouku křivky konst. spojujícím body b}, jenom body odpovídající formám anebo kořenech komplexních mohou vyskytovati, stačí jenom vyhledati body sousedství čáry dotyku, anebo ještě jednodušeji čáře dotyku, jimž odpovídají počty kořenů komplexních rovné anebo
+
+
+Aby počet kořenů komplexních byl tomu jest dle předcházejícího nutno, aby měly záporné znaménko tedy kladné
+
+
+tabulce této sestavena znaménka pro ,u, jsou-li dána znaménka čísel az, «4, a6, tf0
+
+
+
+
+
+:neurč
+
+
+-f- neurč
+
+
+neurč
+
+
+neurč
+
+
+IV. ﻿15
+
+
+musí býti splněno, máme-li zřeteli vztahy mezi ,«,' pak to,
+
+
+(24). 3v>0, l-fí>>0, fl[5-f6z; 7'-]
+
+
+7,2 Avšak dosadíme-li vztahu (21"") (pro čáru doty-
+
+
+
+
+
+kovou platný vztah), vidíme, jest nutno, mají-li body čáře dotykové odpovídati formám tvaru (m) reálnými koefficienty, aby
+
+
+
+
+
+body čáry dotykové
+
+
+z'2
+
+
+____
+
+
+
+
+
+
+
+
+\j,
+
+
+pro něž ;?- nacházejí těch částech plochy hraničně, jež omezují prostor III můžeme tudíž (majíce nyní zřeteli pouze formy tvaru (m) reálnými koefficienty) příslušný oddíl čáry úvah vypustit. Učiníme-li to, lze psáti místo podmínek (24) tyto
+
+
+OO<f.
+
+
+Tyto nerovniny vymezují čáře onu část, kde při záporném ^/) stýká obor bodů, jemuž odpovídají formy tvaru (m) kořenech kompl., oborem bodů příslušných formám (m) žádných kořenech komplexních.
+
+
+Podobně dostaneme, obory hraničně ploše, kterým přísluší formy (m) mající dva kořeny komplexní, sousedí obory, kterým přísluší formy (m) šesti kořenech komplexních
+
+
+jestliže části čáry dotykové, pro niž v~^>^\
+
+
+jestliže části čáry dotykové, pro niž Postupujeme-li čáře konst, měníce může počet kořenů
+
+
+komplexních formy (m) příslušnému bodu plochy hraničně odpovídající jenom tenkráte změniti, projdeme-li bodem resp. anebo projdeme-li bodem*) konečně prošedše obloukem křivky, jemuž neodpovídají lormy (m) reálnými koefficienty (obloukem c.2 aneb L4), dospějeme bodům, nichž vzhledem počtu kořenů komplexních forem (m) nemůžeme určitého udání učiniti (leda, bychom přišli bodům, které jsou ještě oblouku <L2). Jak mění počet kořenů komplexních při průběhu bodu body právě jsme vyšetřili jelikož jest nám počet kořenů komplexních forem (m) příslušných bodům oblouku čáry konst. jest znám, jest nám počet kořenů komplexních
+
+
+diskriminant formy (m) mění své znaménko; formy pak (m) jeden kořen procházeje nullou mění rovněž své znaménko.
+
+
+IV. ﻿16
+
+
+forem (m) příslušných obloukům, jež sousedí obloukem LtLtt potud znám, pokud těchto obloucích nedospějeme bodům, jimž nepřísluší formy (m) reálnými koefficienty pokud nepřejdeme body, pro než
+
+
+Jest však snadno vyšetřiti počet komplexních kořenů pro sousedství přímky Položme
+
+
+kde jest číslo, jež později blíže určíme. Pak jsou /tt, dány výrazy
+
+
+---- ---- ---- \j^ Lj.
+
+
+Zvolme tak, aby splněny byly nerovniny
+
+
+M>o,
+
+
+(52
+
+
+
+
+
+""-T
+
+
+což jest vždy možno, když Pak j«, mají znaménka čísel
+
+
+A"" fj)
+
+
+Bodům kladným odpovídá záporné záporným kladné jest sousedství přímky není-li obsaženo mezi />, />2, kterémžto případě každé další šetření odpadá:
+
+
+při kořenů kompl. forem (w),
+
+
+«—1< (w),
+
+
+(w),
+
+
+Z>0 ^<0 ?/—;;> (///),
+
+
+Z>0 A<0 ft<0 (///),
+
+
+(;//).
+
+
+Zbývá nám pouze vyšetřiti ještě počet kořenů odpovídající bodům položeným takových obloucích křivek konst., jež oblouků /?, /'2 jsou odděleny obloukem, němuž příslušné formy (m) nemají reálné koefficienty. jest pro oblouk (t4, —oo), pro 9-*^""«<^0 oblouk (í2, oo). výrazech pro //, stačí položiti rovno zápornému číslu tak veliké absolutní hodnotě, aby koefficient nejvyšší mocniny čísla určoval znaménko příslušného výrazu, mají fi, znaménka čísel
+
+
+-A,
+
+
+odpovídají tudíž zmíněných obloucích jednotlivým bodům formy (m) reálnými koefficienty
+
+
+
+
+
+IV. ﻿17
+
+
+
+
+
+jestliže záporné, čtyřmi kořeny komplexními;
+
+
+jestliže kladné, dvěma kořeny komplexními.
+
+
+Všecky tyto výsledky dají velmi jednoduše uspořádat vyjádřiti takto
+
+
+(pak pro jest pro jest 0).
+
+
+Všecky části hraniční plochy, pokud omezují rovinou obory obsahují jenom takové body, jimž přísluší formy (m) koeff. dvou kom plexních kořenech.
+
+
+Všecky části hraniční plochy*,) pokud omezuji rovinou .Z=0 obory /,, /,', obsahují jenom takové body, jimž přísluší formy (m) koeff. šesti komplexních kořenech.
+
+
+II. Buď^<0; (pak při A>0 jest Z<0 při jest Z>0).
+
+
+Všecky části hraniční plochy*,) jež omezují rovinou Z'=0obor/Z1 obsahují jenom jednak body, jimž přísluší formy (m) koeff. všech kořenech reálných, jednak body, jimž nepřísluší vůbec žádné tormy (m) reálnými koefficienty.
+
+
+Všecky části hraniční plochy*,) jež omezují rovin obory //, //' obsahují jenom jednak body, jimž přísluší formy (m) koeff. čtyřech kořenech komplexních, jednak body, jimž nepřísluší vůbec žádné formy (m) reálnými koefficienty.
+
+
+Uspořádání výsledků jest takové, jednotlivé páry oborů resp. jednotlivý obor [(/, /'), (7n //), (//, //'), (7/J] jsou omezeny body hraniční plochy, jimž přísluší formy (m) určitém stále témž počtu kořenů komplexních (nehledě jistým čarám hraniční ploše, totiž čáře dotykové uzlové přímce -!j) hraničně ploše body, jimž příslušely formy (m) témž počtu kořenů komplexních, jinde nevyskytují.
+
+
+Mohli bychom ovšem také jinak výsledky uspořádati říci př., obor při kladném jest omezen body hraničně plochy, jimž přísluší části formy (m) dvou kořenech komplexních, části formy šesti kořenech komplexních části bychom mohli vymezit), avšak uspořádání toto bylo méně jednoduché jak poznáme odstavci následujícím, zcela neužitečné.
+
+
+IV.
+
+
+Úkol, který nyní nastává, vymeziti obory, prostoru jichž bodům přísluší formy šestého stupně reál. koeff. určitým počtem kořenů
+
+
+Při tom vyjmouti jest body čáře uzlové, dotykové přímce
+
+
+Rozpravy: Roč. XV. Tř. II.
+
+
+IV. ﻿18
+
+
+komplexních, jest, když získali jsme názor průběhu plochy hraniční jakož seznali rozdělení počtů kořenů komplexních pro formy (m) hraničně ploše, snadný. Opírati budu při tom tuto větu pomocnou: Dáno-li několik dvojic polynomů proměnných
+
+
+(A-,, *t,
+
+
+(jP2
+
+
+.v„),
+
+
+-I? A-2, ,v„); .v3, x„);
+
+
+takových, polynomy jedné dvojici nemají společné míry závisící A-J, A""2, .v,/ mění-li proměnné spojitě počátečních hodnot (xf\ x'^ x'ffl konečným hodnotám (.v^\ xrL\ A-J**), možno měnění toto tak zaříditi, nezmizí současně dva polynomy jedné dvojici. Důkaz této věty jest zcela snadný. Nejprve jest zcela jasno, věta jest platná pro «=1. Obecný případ pak vždy tento specielní převésti různým způsobem př. substitucí
+
+
+.v/
+
+
+(.v;1)
+
+
+t(t—l}
+
+
+...
+
+
+Dosadíme-li tyto výrazy daných polynomů, dostaneme funkce celistvé racionálně jedné proměnné dosud neurčených čísel ti,. Předně jest patrno, žádný daných mnohočlenů nemůže míti substituci dělitele závisícího nezávislého leč tvaru l)7. Neboť, kdyby měl jiného dělitele nezávislého ///, pak tento dělitel rovnal nulle pro hodnoty různé zvolíme iti jakkoliv. Ale vhodnou volbou lze tomto případě proměnné dáti libovolnou hodnotu musil tudíž příslušný polynom řady býti nullou pro každý systém čísel identicky, což ovšem jest proti supposici.
+
+
+Podobně vyplývá, nemohou míti mnohočleny jedné dvojice společného dělitele (vyjma činitele tk, l/); neboť pak měly již oba původní mnohočleny společného dělitele, což jest rovně proti předpokladu. Nejsou tudíž resultanty dvou sousedních mnohočlenů, odloučíme-li při tvoření resultant všecky faktory tvaru tk, l/, identicky (t. pro každé ui) rovny nulle lze tudíž nekonečně mnohým způsobem zvoliti systém hodnot tak, aby žádná těchto resultant nebyla rovna nulle. Učiníme-li to, máme dvojice polynomů jedné proměnné, takových, oba polynomy jedné dvojici nacházející nemají společné míry, leda tvaru nemohou tudíž oba polynomy jedné dvojici současně vymizeti pro hodnoty mezi Mění-li však mění
+
+
+proměnné A^, A""2, spojitě hodnot (A-^, A^0', hodnotám
+
+
+/„(i) Y(i)
+
+
+""*2
+
+
+základě této věty ukážeme nejprve, jak souvisí prostory kladným prostory záporném prostoru kladném přejdeme prostoru záporném spojitou změnou kořenů neměníce počet kořenů kom-
+
+
+IV. ﻿19
+
+
+plexních tudíž znaménko diskriminantu prochází-li při této změně hodnotou nullovou hodnotám protivného znaménka. Přechod ten děje tudíž, máme-li zřeteli význam čísel .V, »nekonečně vzdálenými body prostoru* body prostoru. Dle pomocné věty můžeme pak přechod ten vždy tak zaříditi, při tom invariantů
+
+
+—100ti, 300 L+250 (A'A~ 300 250 (A* 100L)3,
+
+
+jenom invariant rovná nulle. Při tom přechodu pak mění svá znaménka, bod (X, objeví tudíž druhé straně roviny roviny 0), avšak také druhé straně hraniční plochy; neboť platilo-li (X, platí přechodu (X\ }',Z)<^0 naopak. pak nejprve jest jasno, prostor souvisí tak prostorem prostor //. Nejprve jest jasno při přechodu zápornými neboť jest jen jediná možnost; avšak pro přechod kladnými plyne snadno okolnosti, bodům oborech přísluší při dosti velikém znaménko invariantu
+
+
+(A* 300 ti-}-250 C)~ (A'1 100 ti)3
+
+
+záporné, oborům pak pak znaménko kladné.*) Jelikož pak znaménko tohoto invariantu při přechodu dle supposice nemění, souviseti mohou obory /'; Ilf jenom tak, jak svrchu uvedeno.
+
+
+konečně obor souvisí oborem II' jest bezprostředně patrno, jelikož jest opět jenom jediná možnost.
+
+
+Pokládati můžeme tudíž obory jakožto jediný obor podobně obory konečně též //, //' rozděluje tudíž hraničná plocha rovinou prostor pět oborů
+
+
+(25)
+
+
+(/, /'), (/,,
+
+
+(//, //'), //„
+
+
+pomocné věty plyne dále: Omezen-li jest zúplna některý pěti oborů (25) rovinou plochou hraničnou, jejímž bodům při určitém znaménku diskriminantu přísluší nahledíme-li některým čárám této ploše (totiž čáře dotykové uzlové) formy (m) stále témž počtu kořenů komplexních, každá forma příslušící při témž znaménku čísla některému bodu uvnitř toho prostoru týž počet kořenů komplexních.
+
+
+Připusťme, abychom dokázali, některý obor při kladném omezen byl rovinou Z—G plochou hraniční, jejímž bodům odpovídají nehledíme-li svrchu zmíněným čarám formy (m), dvou kořenech komplexních připusťme, uvnitř tohoto oboru byl bod, jemuž přísluší těchto šest kořenů komplexních:
+
+
+Viz svrchu str. poznámku průběhu čáry dotykové průmětu čáry úvratné rovinu Zr=0.
+
+
+IV.
+
+
+﻿20
+
+
+iq\<
+
+
+*>»
+
+
+Pak můžeme spojitě měníce šest reálných čísel p^. </,, tohoto systému čísel přejíti kterémukoliv jinému systému šesti reálných čísel, jimž přísluší rovněž šest hodnot komplexních příslušné hodnoty absolutních invariantů mohou nabýti hodnot příslušných jakékoliv formě šestého stupně šesti kořenech komplexních př. formě tvaru (m) patřící při kladném bodu kterýžto bod nechť nachází ohraničení jiného oboru než toho, kterého vycházíme; jinak jest poloha jeho libovolná. Takové body dle odstavce (III.) jistě existují vyplňují celé části hraničné plochy.
+
+
+Při tom invarianty absolutní .V, mění spojitě vyjma, když prochází nullou, kterémžto případě dle věty pomocné můžeme chceme předpokládati, žádný ostatních invariantů (p) současně nullou nestává, takže při tom, když prochází nullou, bod .Y, nemění obor, kterém právě nachází. Aby však bod A"", mohl dospěti bodu hraniční plochy, musí bod onen během změny opustiti obor. kterém byl původně který jest omezen body, jímž přísluší formy (m) dvou kořenech komplexních musí vniknouti oboru jenž jest omezen hraniční plochou, které jsou body, jimž přísluší formy (m) šesti kořenech komplexních. Tuto spojitou změnu čísel /j, #i,... můžeme však dle věty pomocné tak prováděti, čára, kterou opisuje neprotne při tom určité čáry (jež stanoveny jsou tím, dva polynomy invariantech bez společné míry jsou jednotlivých čárách rovny nulle). Stanovíme, čára opsaná bodem nemá protínati čáru dotykovou čáru uzlovou.
+
+
+Avšak takový přechod jest nemožný, neboť obory, kterých možno při určitém znaménku původního oboru (vzhledem podmínkám vniknouti, jenom podle těchto čar souvisí.
+
+
+Totéž vyplývalo, kdyby jenom část plochy hraničné omezující daný obor obsahovala body, jimž při daném znaménku příslušely formy (m) určitém počtu kořenů komplexních, celá ostatní pak část hraničné plochy (nehledě při tom čáře uzlové dotykové), pokud jest omezením onoho oboru, obsahovala body, jimž nepřísluší žádné formy (m) reálnými koefficienty zbytek konečně hraničné plochy, který neohraničuje daný obor, nebsahoval již bodů, jimiž při daném znaménku příslušelo kořenů komplexních. potom obor daný může obsahovati jenom body, jitiiž přísluší formy, témž počtu kořenů komplexních.
+
+
+Stejně pak plynou věty: Je-li omezen některý oborů (25) rovinou plochou hraničnou, jež některých svých částech plošných obsahuje body, jimž při daném znaménku patří určitýi počet kořenů komplexních, jiných částech plošných nehledě tom čáře uzlové dotykové pak body, iimž při témž zná
+
+
+IV. ﻿21
+
+
+ménku přísluší jiný počet kořenů komplexních, nemohou uvnitř toho oboru býti body, jimž při daném znaménku diskriminantu příslušely reálné formy šestého stupně.
+
+
+Bodům oboru 111 nemohou při žádném znaménku čísla přináležeti formy šestého stupně reálnými koefficienty.
+
+
+základě těchto vět svrchu uvedených odst. III. lze rozhodnouti zcela jednoznačně, kolik kořenů komplexních může příslušeti jednotlivým bodům prostoru. Máme pak tyto výsledky pro formy šestého stupně reálnými koefficienty.
+
+
+Bodůrn oboru (/, /') příslušeti mohou jenom formy dvou kořenech komplexních.
+
+
+Bodům oboru (/x, //) příslušeti mohou toliko formy šesti kořenech komplexních.
+
+
+II. <^0 Bodům oboru (II, II') přináležeti mohou toliko formy čtyřech kořenech komplexních.
+
+
+Bodům oboru 7/j mohou patřiti jenom formy nemající žádného kořene komplexního.
+
+
+Poněvadž pak obory těmito oborem III. celý prostor jest vyčerpán, můžeme, jsou-li dány pro reálnou formu šestého stupně tři absolutní invarianty jednoznačně stanoviti základě předchozích výsledků, kolik ona forma kořenů komplexních, vyjma však ten případ, bod příslušný ležel čáře dotykové anebo čáře uzlové. Pro formy, jež odpovídají bodům čáře uzlové, náš úkol rozhodnouti vůbec nemožno; neboť témuž systému invariantů odpovídají dvě formy různým počtem kořenů komplexních.
+
+
+Pozoruhodno při tom jest, znajíce průběh hraniční plochy rozpoložení bodů hraniční ploše příslušných formám (m) různých počtech kořenů komplexních, mohli jsme rozhodnouti, uvnitř kterých částí prostorů nacházejí body, jež přísluší reálným formám šestého stupně nepotřebovali jsme vyšetřovati, zda jest pro body splněna podmínka (4).
+
+
+Lze ovšem též jinak rozhodnout, kterých částech prostoru při určitém znaménku mohou vzhledem podmínce (4) vyskytovati body, jimž přísluší reálné formy to, když pro nějakou specielní formu absolutní invarianty vypočteme. Vezmeme-li př. formu
+
+
+x^y -v2/4 -+- .vj'5,
+
+
+dostaneme pro invarianty výrazy tudíž pro absolutní invarianty
+
+
+(212
+
+
+IV. ﻿24
+
+
+
+
+
+
+
+
+375
+
+
+
+
+
+Body, které přísluší dané formě při měnícím leží přímce omezené známým nám singulárným bodem plochy hraničné
+
+
+/__ 7.2° 'S\
+
+
+3Ž"" ~P~~
+
+
+probíhá pak tato přímka obory obsahuje tudíž obor //, body jimž přísluší reálné formy při obor při kladném což jest shodě výsledky svrchu uvedenými.
+
+
+Zbývá ještě charakterisovati jednotlivé obory (/, /'), tak, abychom, dány-li jsou hodnoty invariantů dovedli vždy snadno rozhodnout, kolik kořenů komplexních reálná forma příslušná má.
+
+
+Snadné jest pro Obor (/,, //) vesměs kladné při jsou body patřící reálným formám oboru tom, pro něž Y^>0 mimo tyto ještě body, pro něž A""3 podobně při A<^0 jsou tam body, pro něž A'^> 5A'3<^0.
+
+
+Formy tudíž reálné, pro něž buď výrazy
+
+
+A2— 100 -300 AB+ 250
+
+
+anebo výrazy 100
+
+
+(A3 300 -f- 250 (A2 100
+
+
+mají vesměs znaménko kladné, při čemž při záporném ještě vyžaduje, aby 100 A2, mají šest kořenů komplexních. Formy pak reálné kladném z/, nichž buď
+
+
+při rí>0 při
+
+
+A2— 100
+
+
+
+
+
+(A2 100 znaménko záporné, anebo jest rovný nulle, anebo obě čísla 300 250 (yí3 300 250 C""1)2 -f- (>12 100
+
+
+jsou záporná, mají dva kořeny komplexní.
+
+
+Méně jednoduché jest vyznačiti podobně při obor (//, //') //,. Pro y^>A'^>^ lze provésti pomocí výrazů racionálných způsobem tímto.
+
+
+IV. ﻿23
+
+
+Přímka, která prochází oběma uzlovými body křivky konst. (po př. isolovanými dvojnými body), jak jednoduchým počtem seznáme rovnice
+
+
+.V— 8Z+3A'2 A'=const.
+
+
+Protíná pak tato přímka křivku konst. ještě bodě, jehož parametr jest nezávislý v=\. Tento bod jest tudíž vždy křivce n^= konst. mezi body at, a2. části prostoru ""> probíhá naše přímka oborem př. oborem /// teprve bodem konst., máme-li mysli svrchu vytčený interval pro vniká oboru II. Průsek totiž splývá bodem když
+
+
+u=.
+
+
+tedy rovině A'=— jest tudíž pro jsou tudíž pro obor fft intervalu rovniny
+
+
+4-5
+
+
+
+
+
+
+
+
+L/«
+
+
+
+
+
+
+
+
+splněny byly ne-(P) Y^A'^ii (9A —4) F—8Z+3A""2>0, —5A':í<0, Z>0.
+
+
+Pro obor (y/, //') aspoň jedna těchto nerovin není onom intervalu splněna.
+
+
+Jestliže A""< veďme bodem rovině A'= konst. přímku rovnoběžnou rovinou rovnoběžka protne křivku konst. pěti reálných bodech bodech L2, r3, jednom bodě oblouku «j, jednou b.2 oo, jednom přímky, níž nám jde, opět obory ///.
+
+
+jsou pro obor //x intervallu rovniny
+
+
+probíhá ona část -\í splněny tyto ne-
+
+
+kde jest kořen rovnice kvadratické
+
+
+2r-f- A'=0
+
+
+nacházející mezi
+
+
+Mají tudíž formy reálné při zJ<^0, pro jichž absolutní invarianty platný jsou nerovniny buď (p) anebo (q), všecky kořeny reálné. Nejsou-li splněny nerovniny (p) ani (q), ona forma při vždy čtyři kořeny komplexní, vyjma případě, kdy bod A', nachází čáře uzlové, hodnoty invariantů realitě kořenů rozhodovati nemohou. Případ tento nastane reálných forem při když jsou splněny buď nerovniny (p) anebo nerovniny (q) to, intervalu j*^-Xs:Z\%
+
+
+IV. ﻿24
+
+
+intervalu X*>
+
+
+—3*,)'.
+
+
+předcházejícím vyčerpány všecky možné případy při reálních formách, nichž Pro úplnost jest ještě udati počty kořenů komplexních, když pak snadnou úvahou vzájemné polohy jednotlivých oborů (/, /'), plyne ihned, že, jestliže
+
+
+jsou dva kořeny komplexní; jestliže pak
+
+
+jsou čtyři kořeny komplexní, vyjma případě, kdy současně
+
+
+pak jsou všechny kořeny reálné.
+
+
+Podobně lze udati téměř bezprostředně počet kořenů komplexních forem, při nichž O."

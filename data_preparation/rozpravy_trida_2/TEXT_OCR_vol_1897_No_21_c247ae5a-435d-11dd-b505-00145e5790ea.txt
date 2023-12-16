@@ -1,0 +1,95 @@
+"","x"
+"1"," ﻿ROČNÍK VI.
+TŘÍDA li.
+ČÍSLO 21.
+O jistém základním problému v projektivně geometrii,
+Napsal K. Kůpper. Předloženo dne 19. března 1897.
+O jisté rovinné transformaci (| stupně pátého.
+Uvažujme kollineaci, stanovenou čtyřmi páry sdružených bodů f^tp^ fzV-ii fsty-A, /4<p4t a označme ji symbolem ( / j . Budiž f- libovolný bod, 'V2 kuželosečka procházející pěti body/'; l1-'2 jí příslušná kuželosečka v kollineaci i /• ) , a ff5 bod mimo H2 položený. Pak kuželosečka F2 procházející pěti fp jest různá od JT-2, a /5, <p5 n e j s o u sdruženými v kollineaci í • ) .
+Značí-li / jedno z čísel l, 2, . . 5, máme pět kollineaci í   -• j i vesměs
+^ J    ' i       ,        .
+různých; neboť kdyby dvě byly totožný, příslušel by qp5  bodu f-v í ? j .
+'>Kuželosečky T/2, přiřaděné těmito koll i neacemi čáře ^'2, jsou různé od -T2 a taktéž mezi sebou«.
+Důkaz. Jest-li c libovolný bod na C'2, platí pro každý bod y čáry r.-.
+(f<)                           y(<Pi • • V.I)TVC(/Í • -A);
+avšak na ri2 se nalézá jediný bod j>7 tak položený, že platí
+fa')                        ri(<P\  • • <Pn  TO ) TV c C/i • -/i. f*\
+Vzhledem k (u) existuje paprsek y.K takový, že
+Označíme-li d""x průsečík přímky y^ s T-2, jest to pevný bod, kdežto y zůstává proměnným. Průsečík y7 přímky -'',^5 s T^- vyhovuje tedy (a') a nalézá se mimo F2. My jej nazveme hlavním bodem transformace (í.
+Rozpravy: Ročn   VI. Tř. II. Č. 21.
+XXI. ﻿Relace («') ukazuje, že bod y2 náleží pěti kuželosečkám T""}2. Žádná z nich tudíž se nemůže stotožniti s /'2, aniž která z nich s jinou; neboť kdyby F.,* ~ 1\*, tu by tyto dvě čáry obsahovaly pět bodů 9 a stotožnily by se s F-.
+Budiž <• libovolný bod; pak obecně se nalezne jediný bod y takový, aby
+a naopak.
+Bodem o a čtyřmi body /) základnými ví /• j , prochází kuželosečka &,; jí přiřaděná kuželosečka 27, musí obsahovati y. Kollineací í ) získáme 27., příslušnou >'.,, jež vedena bodem c; a 27., stanoví y.
+Tímto způsobem definována transformace (c, j>) = (L, v níž <•, y jsou párem sdružených bodů.
+Jest patrno, že S jest prostě kollineací v případě, že by qp5, fr> byly sdruženými v í .• ) ; neboť v tomto případě máme místo pěti kollineací jen jedinou o pěti párech sdružených bodů (/, qp,-) a o ooa párech (c,y}.
+Případ ten jsme předem vyloučili opatřením učiněným v příčině bodů /'-, qp-V
+Pokud jde o bod přidružený hlavnímu bodu yf, mějme na paměti, že jest úplně libovolný na C9.
+Vyjdeme-li z jiného hlediska, dojdeme na novo ku Ff-:
+V ložíce i- do některého základního bod u, např. do/-,, nalézáme jakožto geometrické místo bodu y čáru jT5:í.
+Dle definice čáry .T5- platí pro její body y
+Y(VI • • v^T^MA • -/4\
+a tedy
+Poznamenejme, že zde přímka cf. r=yi/-, spojující dva splývající body, jest přece určena, a to právě relací (//).
+Následující výroky jsou bez dalších výkladů jasný:
+1.  Máme pět kuželoseček  C,--, jimž každé přísluší T-kol-lineacemi l   rj.    Bodům   (• položeným   na   f'/2 přísluší   transformací (S týž bod 9,.
+2.   Dvě   C,'2  se   protínají   ve   třech   /;   a v jednom pevném bodě r.u, položeném mimo (',-.
+3.  Učiníme-li ^-=:^, zůstává y proměnným na F-.
+XXI. ﻿Stupeň  transformace
+a  dva projektivně  svazky (anharmonické, dle Chasles-a).
+Volme za geometrické místo bodu c přímku Cjl; pak obdržíme jisté reometrické místo r'f bodu y. Poněvadž ('^ protíná šest kuželoseček C2, d2 v šesti párech bodů c, musí r'f procházeti dvakráte každým z šesti bodů ^ y. Obdobně budiž Tj] transformovaná přímky ('nl.
+Body (pí a 7i jsou dvojnásobnými body obou /v, a tyto čáry se mimo to protnou ještě jen v jednom bodě yu příslušícím průsečíku c1 přímek C)1 a CHl. Z toho
+v* — 24 -f- l ;    v = 5.
+V případě, kdy f)1 prochází jedním základním bodem /n rozloží se r] do rt2 a faktora i1-3, jenž má (pl za dvojnásobný bod, ostatní qp, a j'/ za body jednoduché. Tím patrno, že se pak svazek (C1) o vrcholu /, transformuje do svazku (/Ta), jehož basis tvoří dvojnásobný bod <p, body <f .„ . . <Fs a y/. O těchto dvou svazcích lze tvrditi, že jsou ve vztahu projektivném:
+(^7v(n.
+Abychom se o tom přesvědčili, uvažme, že přímka C0l spojující dva body /', na př. /4, /5, se transformuje do /V =z (p4<)P5, jakož přímo patrné. Jestliže nyní C'1 otáčejíc se kolem /^ protne C0l v c, tu F3 procházejíc stále <^>4, 95 protne 7V v y, takže (y) -^ (c). Avšak víme, že (y) -^ (/T3), a (^-^(C1); tedy (r») = (<'1), jak bylo dokázati.
+Koincidence (samodružné body) c = y = Z v počtu s.
+Budiž q vrcholem svazku (C'1) ; y\ bude náležeti basi svazku proj ek-tivného (r5), a tuto basis doplňují dvojnásobné body <p; a yf čar F5.
+Sdružené elementy obou svazků vytvoří křivku Cffí o řečených dvojnásobných bodech a o bodech jednoduchých cl, yí.
+Obdobným   způsobem obdržíme  Cir pomocí r2, y.,.
+Obě C6 se protínají v 36 — 24=12 bodech, mezi nimiž se nalézají body 7. a mimo to pět bodů přímky C1 rr qr,, totiž ony, jež náležejí čáře, do níž se transformuje přímka cíc.>. Máme tedy z =: 7.
+II.
+Předchozí úvaha vede k problému :
+»Dáno-li šest bodů / a právě tolik jiných bodu jež činí
+, nalézti body ,«, <7,
+Řešení. <>, *>• byly sdruženými naší transformací G a transformací L, stanovenou základnými body /'j . . /t, y'6 ; 9t . . <jr,, g~(i.
+XXI. ﻿Budiž ď7 bod hlavní, a (/, ď pár sdružený transformací L.
+Libovolný bod d =z c má obecně dva různé sdružené body ů, y. Splyne -li ti s }', bude
+<7 = y = ó\  x zz c — 'l
+Jde o stanovení geometrického místa 27 bodu <?; ono bodu s z nčho pak plyne transformací 6.
+Především patrno, že body <p jsou na 27; neboť sestrojíme-li ^ tak, aby ^(/a • •/«) 7^ ^1(^2 • • Te)> bude touto relací paprsku s,/^ příslušeti jistý paprsek qp^. Máme tedy
+Ví (Ti • • Té) = «i(/i • -/e). kde Ti Ti = Ti*; z   čehož vychází, že se g) nalézá na 2?.
+Vraťme se nyní ku svazku (C1) o středu /t, jemuž přísluší (F3) transformací (S; L transformuje (C'1) do (-T3)/, takže
+Čáry sdružené touto relací vytvoří čáru /t(!, jež má ve (pl bod čtyřnásobný, body dvojnásobné (jp2, qp3, <p4 a jež prochází body qp5, qpfi a y7 Avšak stupeň 6 se sníží o tři jednotky; neboť když < !l zaujme polohu /^/á, tu jí přísluší fpíq).2 jak transformací G tak S). Pro /,/3, /L/4 platí totéž.
+Z toho jde, že ^""jest čára třetího stupně 27y 3, obsahující body <PÍ a yy, tf7. (Máme patrně čtyři transformace (L', jež mohou nahraditi 2), a jichž hlavní body L7 náležejí ^-y3.)
+Zvláště nutno vytknouti bod c7 příslušný y7 jak transformací (S tak 3) Musí platiti
+ci (Á • • A) TV y/ (TI - - TC) ;
+nalézá se tudíž cf na  ó'2, geometrickém to místě bodu r, jenž hoví výmince
+ř(/i --/5)7\ 7/(Ti • -To)-
+Paprsek 7/qp(! druhého svazku přísluší jistému paprsku cx prvního, jenž protíná (^ v bodě xí ; pak
+<-(/! - -/s, ^i)y\ y/(Ti --Ts. T«),
+při čemž c jest libovolný na C'á   Pro jednu polohu c7 bodu c přímka ^./^
+prochází bodem /6 ; c7 jest bod, o nějž šlo.
+Na základě tohoto výsledku rozřešíme tento problém Chasles-ův : Dáno-li sedm bodů fl . . f-;  a tolikéž jiných bodů fpí . . <p7, nalézti G, «,
+jež hoví požadavku
+W                          *(9»i..*)7^C/t--/T).
+Jest nutné a stačí, aby ^, .s- hověly požadavkům
+f^                          *(>! • -Ta) TY* (/i • -/fi).
+^                     ^ (Ti • • TO, T?) 7\ * (/i • • /š» /?)•
+Vzhledem   k   fř/j musí se n nalézati na určité čáře 2^3, procházející
+body qpj .. <i r<  a  hlavním bodem j>7 ; (ej pak vyžaduje, aby se o nalézal na
+XXI. ﻿jisté Z1,/, procházející taktéž těmito šesti body. 2/A a Z?7/3 se protnou ještě ve třech bodech aít a.2, <J3. Páry <tl s^ o2 «2, <?3 $3 by tedy mohly hověti (c); a ony tak skutečně činí, poněvadž hoví (d) a zároveň (e).
+V příčině hlavního bodu yf zbývá podotknouti toto :
+Sestrojili jsme ct dle
+Nechť paprsku yl(f1 přísluší <•,,!•; tento nemá obsahovati/^ (jenž jest libovolný). Avšak na C2 se nalézá bod <'n , pro nějž platí
+cu(fi • -fr,> /T) TV 7i <>i • • <Ps, 9;),
+z čehož vychází, že c, a cn nesplývají.    Odtud soudíme, že bod yh společný čarám 2^73 a ^/7;j, nepodává řešení problému.
+Hesse podal pěkné analytické řešení (Crelle, t. 62), p. Jonquiěres odvození geometrické*), jež však není přesné; měl jsem péči, abych se vyhnul takové výtce.
+Hesse mimo to učinil úvahu, jež se zde sama sebou namane.
+Přidáme-li k sedmi / osmý bod /8 , a vedeme-li .s-1%/á, obdržíme relací (či), mezi svazky (sj), (<?,) vytknutou, paprsek přiřaděný ^^\. Volivše pak g)8 kdekoli na ^r»'j, máme
+a obdobně pro .s-2  (72> --'s  ^3-
+Vložíme-li qp8 do průsečíku přímek .Vj-ťj, ^^'á, má  relace
+^(^1 • -<Ps) = XC/Í • -/s)
+dvě   řešení;   a   měla   by   tři,   kdyby   paprsky GÍXI,   6-2-*-'t,   <?3a'3 procházely jedním bodem, voleným za qpň.
+""'i De Jonquiěres, »Essay sur la genération děs courbes*.   Paris 1858.
+XXI. ﻿*"

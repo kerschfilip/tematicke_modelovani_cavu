@@ -1,0 +1,471 @@
+"","x"
+"1"," ﻿ROČNÍK IV.
+TŘÍDA II.
+ČÍSLO 14.
+Theorie elektrických oscillaci ve vodivé a polarisace schopné kouli.
+Napsal prof. F. Koláček. Předloženo   dne   20.   dubna   18í)r>.
+Úvod.
+V pojednání »Vcrsuch einer Dispersionserklárung ald.« , které jsem roku 1SS7 uveřejnil ve Wiedemannových annalech (sv. 32. p. 224.), vysvětlil jsem ponejprv dispersi světla se stanoviska elektromagnetické theorie světla, vycházeje od představy, před uveřejněním známých pokusů Hertzových arciť na snadě neležící, že hmotné molekuly optického ústředí, obsažené v intramo-lekulárném nevodivém, elektrické a magnetické polarisace schopném éteru representují individua schopná samostatných elektrických vibrací.
+Přijímajíce v míře principem resonance ustanovené elektromagnetickou energii od světelných vln, medium prostupujících, způsobují molekuly jednak absorpci světla záměnou energie v teplo Jouleovo, jednak modifikují rychlost vlny způsobem závislým na délce vlnité. Vzorec pro dispersi odtud plynoucí souhlasí se vzorcem Kettelerovým, který, jak práce v poslední době uveřejněné*) ukazují jeví v oboru nejširším (mezi ()'185<> a(J42í>l/< délky vlnité) naprostý souhlas se zkušeností.
+Ve dvou pozdějších pracích (Wied. Ann. sv. 34. 1888, sv. 39. 1890) jakož i v pojednání, které jsem před krátkou dobou královské učené společnosti předložil, rozšířil jsem studia na témže principu založená téměř na celý široký obor fysikální optiky, zejména na dvojlom v průhledných a neprůhledných krystallech, na dvojlom cirkulární, na problémy reflexe a odrazu a na zjevy magnetooptické.
+Nehledíc k správnosti optických konsekvencí, byla pravděpodobnost základní myšlénky mé theorie v poslední době dokázána přímými pokusy ryze elektrickými.
+Pánům Garbasso a Aschkinass**) povedlo se totiž zjistiti lom a dispersi krátkých vln elektrických, které vycházejíce z tak zvaného vibrátoru Righiho vedeny byly prismatickým prostorem, vyplněným pruhovitými resonatory ele-
+:;;) Ku př.: Paschen, Wied. Ann. 53, 1894 a Rubens, Wied. A. 54. 1895. **) Garbasso Aschkinass : Wied. Ann. 63, 1894.
+Rozpravy. Ročn. IV. Tř. II.                                                                                                  l
+XIV. ﻿ktrickými. Jest nade vši pochybnost jasno, že zde jde o experimentální model mé theorie, v níž resonatory zastupují molekuly elektrické resonance schopné. Již v prvé z mých uvedených prací poukázal jsem k tomu, že optické zjevy tak zv. žhavících plynů, fluorescenci a fosforenci rovněž nutno považovati za projevy oscillací elektrických v atomech a molekulách. Avšak otázka jest zde pro theoretický výzpyt mnohem nesnadnější, nežli při studiu dějů, které dotýkajíce se pouhého šíření, lomu a reflexe vln, nevyžadují speciálných vědomostí o uspořádání, tvaru a fysikálních vlastnostech molekul. Právě tak jako při vší znalosti zaručených zákonů pružnosti nedovedeme si bez bližších detailů učiniti apriorní obraz o všech možných kmitopočtech systému pružných hmot v nějaký mechanismus sestavených, nemůžeme očekávati, že by se na příklad a priori konstruovati dalo spektrum nějakého plynu rozžhaveného. Tím není však řečeno, že by se ode všech theoretických pokusů v tomto směru upustiti mělo, již se zřetelem k tomu, že mnohý jednoduchý arrangement, jenž činí substrát speciálně theorie, přec jen ve skutečnosti přibližně realisován bude, tak že aspoň některé stránky a typické vlastnosti zjevů bude lze theoretický reprodukovati. Práce, kterou v následujícím předkládám, jest toho druhu, dovolujíc theoretický pochopiti existenci dublet, skupin spektrálných dvojčar, jež u mnoha prvků, zejména u lehkých kovů pozorovány byly.
+I k této okolnosti nehledíc, má práce sama o sobě interes fysikálně-mathematický.
+Rovnice Maxwellovy.
+Všechny veličiny buďtež vyjádřeny v absolutní míře elektromagnetické. Sílu účinkující na jednotku elektřiny, rozloženou dle os souřadnicových, zoveme A', F, Z, složky síly magnetické L, M, N, složky totálního proudu v definici Maxwellově u,v,w. Značiž dále K dielektrickou konstantu, /• specifickou vodivost, \i magnetickou permeabilitu. Dle představ Maxwellových
+K  ""^ V jest totální proud u = ~.-----r-----\-&X atd. složen z kondukčního proudu k X
+4 57      ť/
+K O X
+a z proudu pocházejícího od dielektiického posunutí       --^—atd. Numerickým
+4 n   «• f
+výpočtem lze se přesvědčiti, že druhá část jest v tak zv. dobrých vodičích nepatrná proti prvé i tehdy, když se jedná o elektrické oscillace, jichž na milliony jde do sekundy, ale zároveň také, že jsou obě části veličinami téhož řádu, jde-li o periody téže doby, jaké má světlo (sta billionů). Právě v této poslední okolnosti spočívá podstata celé práce následující; se zřetelem na zjevy optické dlužno oba členy podržeti. Dále jest dle Maxwella pro látky isotropické:
+tM      1N                              *L        DZ       ?F
+4 TI u =  ^---------JT— ,                                    /<
+- ---
+< i .<""?
+D/
+- ^ ^     ? J'                        m   u---^- — ? X- - -                            (9\
+2x ~ ~5jT'   '   '   '   '   ^ '   '   ?/    ""Os      tx '
+? x
+O/
+XIV. ﻿A*""   ^ V Se zřetelem na rovnice w = - --- z— — \- k X atd. plyne z (1) a
+z—
+v t
+DJf
+(.K
+čy
+....    (3)
+'
+^y'1     D z* '                       í
+O u        ův        D w Výsledku z (1) plynoucímu:   ^     -f-""a-----r""5™""
+žadujc-li se, aby bylo:
+x
+
+,
+vy
+^^   vyhoví   se   vždy,   po-
+-~
+3 2
+Platí-li rovnice (3) pro hmotu vodivou, platí pro nevodivé dielektrikum (éter) podobná série rovnic (3'), ve kterýchž místo /t .. //0, místo K. . Ktí a místo k nulla položena jest, tedy:
+2 ~y
+(3')
+/'o
+//Z.
+Zároveň platí zde též rovnice (4).
+Na rozhraní musí tangenciálné složky jak síly elektrické, tak i magnetické býti spojitými, vzdor diskontinuitě medií. [Podmínka (5).]
+Přední úlohou bude najíti pro A', K, Z parciálná řešení, vyhovující podmínce (4), rovnicím (3) a (3') a konečně na rozhraní rovnicím, které plynou z podmínky (5). Uskutečňujíce tento počet, dovídáme se, kterak periody jednotlivých parciálných kmitů elektrických závisí na geometrických a fysikál-ních vlastnostech obou ústředí ve spolek se stýkajících.
+Druhá úloha se týče energie jednotlivých parciálních kmitů, lze-li totiž v jistém okamžiku prostorové rozdělení síly magnetické a elektrické považovati za dané. Pomocí všeobecných úvah, jichž zde opakovati nemíním, dá se v případě právě uvedeném jednoznačnost řešení zaručiti; rovněž se dá podíl jednotlivých parciálních kmitů na celistvé energie vyšetřiti, známo-li pro ně řešení co do vlastností geometrických. Úloha se totiž redukuje na určení jednotlivých amplitud pomocí jistého zvšeobecnění poučky Fouricrovy. (Stran bližšího viz mé pojednání ve Wied. Ann. sv. 34. 1S88.) Prozatím má druhá část úlohy v našem problému interes podřízený.
+l*
+XIV. ﻿Řešení úloh právě naznačených jest dosud jen v řídkých případech možné. Sem náleží problém vodivé a polarisace schopné koule, obsažené v dielektriku do nekonečna sáhajícím.
+Zcela speciální řešení udal jsem již roku 1887. (Wied. Ann. 32), předpokládaje, že éter kouli obklopující jest polarisace neschopným. Řešení se po vedlo tím, že za A', F, Z dosazeny byly výrazy, jichž dávno před tím užil Stokes v jistém problému hydrodynamickém (pohyb hmotné koule ve viskosní tekutině), a kterýchž později upotřebil v zcela jiném případu též Hertz.
+Značiž/"" úkon, jenž závisí jedině na čase / a vzdálenosti od středu koule r, všude konečný, tedy i pro r = O a r = oo. Pak splňují výrazy:
+F:
+O X
+bezpečně rovnici kontinuity (4). V kouli a mimo ni musí f vyhovovati dvěma parciálným rovnicím obsahujícím jedině r a /, které se snadněji integrovati dají. Jsou to rovnice, na něž se redukují série (3) a (3'). Rovnice, vyjadřující pomezné podmínky, redukují se opět na takové, v nichž jen r a t obsaženo jest.
+Zvšeobecnění Stokesova výrazu, pomocí kterého se nii další kroky povedly, jest na snadě. Supponujme za XYZ lineárně aggregaty w-tých diffe-
+D""/ renciálních poměrů -=—. _   ..   . , (/-r-/-f- k = n), a určeme stálé koefficienty
+O X1 V W v L*
+tak, aby rovnice (4) identicky splněna byla.
+Methoda, již jsem na tomto postupu založil, jest pracná, a dosud jsem také jen diskutoval případ n = 2 a n = 3, jelikož počet koefficientu rychle roste s rostoucím ;/. (Případ n — l jest vyloučen.) Podotýkám již z předu, že případy # = 2,3,4.... representují v optické interpretaci série čar spektrálných.
+Případ n = 2 .
+O2/                 D2/                ?u/
+Se zřetelem k tomu, že výrazy X — -^—^ ...,   Y = r-^-..., Z= -^-^-...
+k cíli vésti nemohou, klademe za účelem, aby rovnice (4) identicky splněna byla:
+_^_ _|_ ^4 : ^ D«/
+K = - A,         + O - A, ~    + O + Ab        + /•""        - ,
+I3y^x              *0j;2              & es*          čxcz
+D2/                   O2/           22/        v/   ?2/""
+•^ ——   O -----  ^J<>  ^----A-------r~ O ----- A.t    -       rt   ----- yíe   .       «        f"" /'       r       ^        .
+2D^rDa;                 4 0#2         aDj?^            oa;D/
+Koefficienty yJ, , A», yí;,, A±, yJ5 jsou na sobě nezávislé, mezi koefficienty F platí vztah /*'-)- /'""' -f- /*""' := O .   Nezávislých koefficientu jest tedy celkem 7.
+XIV. ﻿Lze se snadno přesvědčiti, že jednotlivá část skupiny o jedné konstantě,
+D2/                        0-
+na př. X = Al ^   „ ,   Y=—A}           , Z=(),   všem podmínkám  vyhověti
+nemusí.   Dlužno tedy  více  částí   kombinovati.   Jak již řečeno bylo   a jak se později dokáže, vyhovuje skupina (Al = A.,}, čili až na inultiplikační konstantu:
+(«)         A' = ^  a ~|- ~^.a~ '            Y = — ^—^— ,           Z =
+všem podmínkám. Totéž dokážeme o skupině At = — A^\
+Periody oběma náležející jsou naprosto různé.
+Řešení, které dvěma libovolným konstantám A}  a A» odpovídá, totiž:
+V'
+i     i
+jest   složeno   z   řešení («), (,f),   která jsou   různoperiodická,  a totéž  zůstane v platnosti o případu   A» = O.   Odtud není divu,   že supponujíce   při  řešení
+D2/                       D2/
+případu: X = A* -=-•«- >   Y=—A. «—i—. Z=0 jednu periodu, jsme k cíli ť^2                      ^ycx
+přijíti nemohli.
+Případ  s jednotlivými  konstantami A3, ^/4, yí5   se  redukuje  na  případ s AI  neb /lu,  jak se cyklickou přeměnou   snadno přesvědčíme.   Tak na př.
+vede   (/iu)   čili:   A'= !í   ,, ,   Y = O,   Z=—r—í- ku:   K= ^   „, ^=0,
+c Jř""                                           ?« DiC                         ? ÍP
+-<Y = — r—v— čili ku (^3).
+Novou skupinu dávají za to konstanty /*', F\ F"". Řešení lze zde složiti ze dvou jednodušších:
+D2/                                                   O2/
+r —.    J                \-—í\             7-            J
+r-
+A' = O ,
+ty '
+r-
+~3*J^'
+Přesvědčíme se o tom, násobíce řešení (;') písmenem A, (tV) písmenem /*"" a sečtouce. Faktor u Z, jest, jak má býti, l1"" = — /•' — /'"""". Zároveň vidíme, že (}') a (ít) nejsou podstatně rozdílné. Plyneť (/') z (d) cyklickou přeměnou.
+XIV. ﻿V úvaze, že úkon f závisí na koordinátách jen potud, pokud jsou obsaženy v r, máme, označujíce derivaci dle r čárkou:
+^    = X —,    -jr~ =    - -)------- - — ,  neb kladouce P = — -^--1-    l
+Oje       r       ox1       r       r oř r                           r$r\r/
+*v  r ,
+p>   -v-   - = *r p atd-i) * a *
+Jest tedy v případě (a), k jehož diskussi se nyní obracíme, A'=2 ——\-
+• = -5j'/>-.
+P, adie (2):  /< ^ = 0, /-Q , píšeme-li zkráceně Q =
+l   D/'
+-- -^~
+m
+Položíme-li kol centra kouli o poloměru r, shledáme, že radiálná složka agnctické síly l L----\-M~-j-A7—l se rovná nulle.
+Značí-li cos /.', cos /<', cos v směrové cosinusy tangenty k zmíněné kouli, a písmena Te , Tm tangenciální složky sil elektrických a magnetických v jistém místě koule zmíněné, bude
+7; = Í2^-
+r
+cos
+,i Tm = (s cos // —/cos /) (5 P -f r2 Q).
+Veličiny /', P jsou úkony veličin r a /; analyticky jsou to úkony jiné pro prostor v kouli a pro prostor mimo něj. Úle vzorců pro Tm a Te právě udaných bude pak po substituci poloměru kulového R za r vždy možno, pro kterýkoli bod rozhraní splniti podmínku kontinuity tangenciálně složky síly magnetické a elektrické.
+Dosadíce za A', K, Z jakékoli lineárně aggregaty diferenciálních poměru veličiny/jen na r a / závislé, shledáme, že rovnicím (,•>) a (;>') se vyhoví, jestli / splňuje rovnice (3a) a (3b):
+D« (/. r}
+4 '
+8 w
+prvou v kouli, druhou v obklopujícím éteru.
+Úkon   / zůstane   pro   r = O   a   r= oo   konečným,   klademe li   za   něj
+uvnitř koule :
+e-pr — eFr
+a mimo ni :
+A
+Zde značí A soujemnou amplitudu zevnějšího elektrického pohybu v jednotkách amplitudy vnitřní; »',/, /0 jsou konstanty rovněž soujemné.
+XIV. ﻿Dle rovnic (;)a) a (3b) jest
+
+V úvaze,   že jest /„ — *• \ii() K =    ., kdež V rychlost vln v mediu obklopujícím označuje, lze psáti:
+což dokazuje, že fe odpovídá vlnám od středu koule se vzdalujícím.
+Výraz   v   lze   nahraditi   výrazem   — r' -j- v"" ]— l ,   při čemž  dle povahy úlohy   v'  podstatné   kladným  býti   musí.   Následkem   toho   odpovídá  výraz:
+cpr
+(cos »'""/-(- y— l sin v""ť) ve své reálné i pomyslné části,
+které  o sobe differcnciální  rovnice splňují,   dějům  periodickým   o periodě r ,
+udané vzorcem "" - - = r"".
+f
+Současné ubývá amplitudy během času dle zákona c~v<t . Značí tedy záporné   vzatá  reálná část výrazu   J1 logaritmický dckrement, a faktor u } — l   stojící 2^násobný počet kmitů  za jedničku časovou.
+f
+• —
+Další úlohou bude, nalézti výrazy
+P , a  Q .
+Označujíce opět indexem i příslušnost k prostoru vnitřnímu (kouli), máme derivováním :
+'
+Výrazy pro —, Pe a Qe lze odtud snadno obdržeti, připojí-li se faktor A ,
+vynechá-li se exponenciella skladným exponentem a píše-li se za/.../0.
+Do těchto výrazů dosaďme za r poloměr hmotné koule R.
+Podmínka  kontinuity   tangenciální  složky  síly   elektrické   a   magnetické vede pak k rovnicím :
+XIV. ﻿Píšíce za p R . . . w ,   a im /»/?...%   a kladouce
+= A
+O>   _   fft)
+x> - •  O>   _   f
+ř
+~ ^ rnámc
+Z těchto dvou rovnic lze určiti amplitudu A a pak r,  obsažené v co a w() . Eliminací veličiny A jest:
+__««_(«+ s)       J_     _»o!_(i+.»o)_   J_
+/„     l           l         2 /y»\  *            ""~ /l    '[    ri       [         2\  •         *
+Ponechávajíce si diskussi na pozdější příležitost,   uvažujme  ještě případy
+(Č) a ()') .
+Řešení (J) . Zde jest, jak podobný počet učí:
+X—- P (y*__.s2) •     Y—:__yx.P'    Z=.xzP\
+DZ
+Tc = Pcos ;/ (x* 4-j2 — ,72);    (i Tm = — (3 /> + Q rQ) (5 cos /i' + j' cos »•') .
+Vidíme,   že   při tomto řešení   radiálná složka síly   elektrické  se   vesměs nulle rovná.
+Z rovnic platných na rozhraní jde:
+3* + 3« + a?o>a = A (3 + 3w„ + w02),
+aneb, eliminuje-li se
+_L (9 .
+/*, V     r3a
+—    * 4- -<)
+2                          ""               ~
+3 ~
+Řešení (y). Zde jest:
+,     K=0,    Z=r—
+G,
+I zde   pozorujeme,   že   radiálná   složka   elektrické   síly  ve   všech místech nulle se rovná, zrovna jako u (/?)    Dále jest :
+Te = /> ^ (,o- cos r — # cos f') ,    // Tm =-y cos // (3 P + r2 0 •
+Jest zde na prvý pohled patrno,   že ])omczné podmínky jsou tytéž jako u (#.
+XIV. ﻿9
+Předchozí úvahy dokazují, že případ n — 2 vede pouze k ďvčmet nezávislým typům oscillačním. Jeden z nich (/?) vyznamenává se vlastností, že mdiálná složka síly elektrické, tudíž i povrchový elektrický náboj vždy se rovná nulle. U druhého, («), má jen magnetická složka směr vždy tangenciální, proměnlivé povrchové náboje elektrické nejsou tudíž vyloučeny.
+Jest pozoruhodno poznamenati, že oba oscillační typy v jeden splynou, jestli permeabilitu obou ústředí za stejnou, a dielektrickou konstantu media kouli obklopujícího za nullu považovati můžeme. Prvá podmínka uznává se, vyjmeme-li t. zv. magnetické kovy, ve všech případech za přibližně splněnou. Za těchto podmínek jest skrz /0- = (//„ K0} v'1 i p0 = O , tudíž i w0 = O , a k určení veličiny /• zbývající rovnice w -)- x = O jest případům («) i (/?) společnou.
+/>— M ___ L ta
+Kladouce raději w =/f,  shledáváme x = —     -.------= — ztLf   a   ko-
+P~~ ^ *- \ — f? ^
+nečně podmínku t = tg *.
+Tato rovnice má mimo nullu jisté reálné kořeny, které jsou oblouky k úhlům :
+e, = 257° 27' 12-27"", fa = 442° 37' 28"", *3 = 624° 45' 38"", f (viz Ebert, Archives de Geněve, tome 25, p. 494,  1^91).
+71
+Vzdálené kořeny   mají hodnoty   *„ — (2n -\- 1) -^. Pomocí nich nalezneme z rovnice :
+(ui K) r* + 4 n k fti r = p* = --g- = — — 2*4
+= 805° f>0' l""...
+Odtud vidno, že kmitopočty N se určí rovnicí:
+i/    *2             4ír2L2 2?7 N = Vjgř-j:------^2—, • = •, ,^....
+Logaritmický dekrement —j^~ závisí jediné na vodivosti   a dielektrické
+konstantě, nikoli na délce vlny. Ubývání amplitudy dlužno zde výhradně přičítati proměně energie v teplo Jouleovo, nikoli však ztrátě způsobené vysíláním vln, jelikož jsme považovali medium za polarisace neschopné. Odtud konkludujeme dále:
+Splývají-li všechny korrespondující periody obou skupin a i fi v případě, když dielektrickou konstantu obklopujícího media K0 za nullu považujeme, musíme očekávati, že z obou skupin a ji vznikne jediná skupina dubletová, je-li K0 naproti K veličinou malou; tato domněnka jest velice pravděpodobnou.
+Jak známo, jest natriové světlo koherentním do 50.000, vodíkové až do 200.000 kmitů (Ebert), to jest ve slovech: svítící molekula natriová potažmo vodíková vysílá série složené aspoň z 50.000 potažmo 2(X).(XX) kmitů. Tyto mají jedině vznik a původ svůj v energii, která chemickou neb elektrickou
+XIV. ﻿10
+akcí v molekulách oněch původně nahromaděna byla Jedna část její, energie elektrostatická, jest úměrná dielektrické konstantě hmoty natriové, potažmo vodíkové, a má stačiti na sta tisíce kmitů; nutno tedy míti za to, že K jest proti KQ číslem velmi značným (jsoutě síly elektrické a magnetické na rozhraní veličinami téhož řádu, nelze tedy zásobu molekulárně energie klásti na vrub amplitudy nápadně veliké).
+Za těchto okolností lze v prvém sblížení vliv Ohmová odporu vynechati, najmě tehdy, jde-li o určení dob kmitových. Při této supposici jest:
+O___    \ t   t*       /      _       ""O       O      _   0,2
+malým číslem stálým.
+Vzorce pro kmitopočty v případech («) a (jí) lze pak při supposici stejných permeabilit (^i/ = ^0) psáti ve formě:
+('O
+X -- to
+8
+Po zavedení substituce w — ii máme:
+ft) l> -f- W* ()- J
+on
+é — tge
+_ ,
+'
+9
+Vzorce («"") , (/?"") chceme za speciálných podmínek blíže diskutovati. Budiž předně t? číslem malým a zároveň « , jaksi řádové číslo kmitu v seriit číslem konečným a sice té velikosti, že (f #) jest číslem proti jedničce nepatrným.
+Pak lze řešení rovnic («'') a (/'} následovně zjednodušiti : budiž «0 řešením rovnice fn = tg *0 ; kladouce « = ř0 -|- /í f do rovnice («"") máme přibližně :
+C1 - - cosV) "" (l"" -
+Se zřetelem na *tt (AT///) . AÍ<J = ;;2 A2 = w2 = — *2 neb
+jest logaritmický dekrement bu dán vzorcem :
+\KJ ' R Dále jest S/rnásobný   počet  kmitů : 2 a Na = -—
+XIV. ﻿11
+Podobně si počínajíce v případe (/í) shledáváme
+_ 9   '
+Porovnávajíce počty kmitové,   shledáváme,   že jest   pro   všechny dublety
+série poměr —f—jr-T—ř<- = ^•-r? veličinou stálou. /VM                 i>   A
+Logaritmické dekrcmenty b„ , bp  rostou  se čtvrtou mocností kmitopočtu (ku ř0 úměrného)  a jsou nestejné l bp = ~ l,   komponenty   dublety   nemají
+tudíž stejnou intensitu.
+Je-li v druhém extremním případě  ÉO  číslem   tak  značným,   že  jím jest i výraz (s O) , nabudou rovnice rc"" /?"" tvaru :
+(0              t_;gTj;^ = _L_ _4 V=T,
+(/»)                ^i^&
+^                 ^>   .
+-  «
+Nalezneme zde přibližným řešením f = e0 -|- //ř , jako dříve provedeným, v případech («'"") potažmo (/$'"")
+«=-'. (7^* -f V^).
+v ř()   '              řt»
+Oba  logaritmické   dekrementy  jsou   zde stejné,   na délce vlny nezávislé, l
+rovnaíce   se   výrazu:
+"" - ® •   íntcnsita obou součástí dublety jest tedy
+•\~ stejně veliká.
+Rozdíl kmitopočtu   součástí  dublety jest  úměrným   výra/u   /l fn kdež :
+Dle předpokladu jest (f„ 0-) číslem značným. Odtud plyne, že rozdíl du-bletový se zde umenšuje v přímém poměru s rostoucím počtem kmitů, neb
+s ubývající délkou vlny. l z/ f„ — z/ tp =----—-. — j.
+Obracíme se ještě na okamžik k všeobecné rovnici pro v, kterou přehledně interpretovati nedovedeme, leda v obou případech extremních, právě uvedených. Řešíce ji dle x, a pak dle g1* nalezneme v případě (/9)
+(l—+TM-(l-«)
+XIV. ﻿12
+Kořeny w této rovnice by se měly nalézti, jde-li o zákon, dle kterého si následují spektrální čáry této série. Věc jest nesnadná. Lze si však o souvislosti kmitočtu N s řádovým číslem n učiniti následující představu. V oboru malých // jest velmi přibližně:
+Volíme-li N za ordinatu a ;/ za abscissu, nalezneme přímku. Na druhém konci (* = oo) jest dle vzorce pro 4 t/j . . f = f 0
+neb
+Tato rovnice značí pro n — oo přímku, něco příkřeji vystupující než předchozí. Pro menší ;/ ztrácí tato křivka tvar přímý; obracejíc svou konvexitu ku přímce, náležející ku n = oo , sestupuje pod ni ustavičně více a více. Oba kusy křivky (Nn) , pro malé a veliké n , musí se nutně dáti spojiti inter-mediární křivkou, která má bezpečně obratovou tangentu na straně ku malým n. V sousedství jejím mění se kmitopočet pomaleji s rostoucím n ; svah křivky jest zde nejmenší.
+K podobným konklusím vede diskusse případu («) a jak zde anticipujeme, též diskusse obou případů n = 3 .*)
+Případ n — 3 .
+Zde se dají výrazy pro A', Y, Z sestaviti ve čtyry skupiny : (G) , (r/) , (L
+D3/
+, (O):
+W
+X=A-^3+c^^—h^-vH^r,
+t)j3          3x~3y          Oj?-'2 '
+i-*»JL
+— O + O + //""           —,
+D j;DD j;
+r""= O.
+\f '
+D3/
+*) Pomocí vzorce pro ^2í"" udaného lze snadno dokázati, že diel. konstanta atomové hmoty musí býti větší oné, která éteru náleží. Pro kmity nekonečně rychlé (a>~- .7x0) přejde e1u) ve výraz (Q- — 1) : (fr -j- .L) • Je-li V- > l , vyhovuje to — k n /'-]-«, kdež Á- celé číslo nekonečně veliké a « číslo positivně označuje. Toť nemožné, jelikož by tyto kmity béhem času samy sebou se sesilovati musily. Je-li & záporné (a malé), obdrží se dřívější výsledek
+XIV. ﻿13
+(f)
+K
+___ L
+vjr
+— A'        J        |   /s        J ^ tn-t            *
+Skupin (r/) a (7) lze docíliti cyklickou přeměnou ze skupiny <r. Jsou tedy jen (V) a (#) skupinami nezávislými.
+Skupina (v) obsahuje čtyry nezávislé konstanty a dá se redukovati na součásti ještě jednodušší. Dosadíce za / hodnotu jeho, závislou jedině na r, /, máme, přidržujíce se dřívějšího označení, pro skupinu (V), k níž se napřed obracíme :
+Tudíž:
+X= Q (Ať + Cx*y + Hy s*) + Py (3 A+C+ //),
+Z=Q. H"" xy s ;        //"" = - //— //'. Odtud plyne dle rovnic (2):
+*L       l  3(2 r^
+-z~r =----^—\rí xyz-
+c t        r   c r
+Qxs (H""— 3H'+A + 3 6;),
+r   3 r
+r A -1/3 L/s -7
+,,     ~=
+
++ Q [— l Ay* ~ l C x* — A x'2 — Cj>* + //' z* + H' x- — Hzn- — fíy*} + P (H' — //— 4-4—40.
+Jednodušších částí skupiny docílíme řešením otázky, která dle předchozích vývodů (případu ;/ = 2 se týkajících) na snadě leží, zdali by se totiž konstanty nedaly tak kombinovati, aby nullou byla jednou radiální složka síly elektrické, a podruhé ona síly magnetické. ﻿14
+oč                   v                   ^
+Má-li nullou býti prvá, totiž A"".----1- F.     ~\- Z. --,   musí býti
+O = (3 A + C-\- //) + (— A — 3 C+ //'),    neb  2 A — 2 C+ //+ //' = O , čili tf""=2A — 2 C.
+Mezi čtyřmi nezávislými konstantami v skupině (fi) panuje tudíž jedna relace, tak že z nich jen tři jsou nezávislé. Existují tedy tři samostatné součásti ve skupině (T) a sice: frí , <r,2 a <r3 .
+Dvě prvé obdržíme snadno, kladouce //— — 3 A — C, H'= A -|- 3 C, a konečně tf""=2A — 2C\ odpovídají nezávislosti konstant A a C. Při této supposici jsou výrazy A', F, ^úměrnými výrazu 6?, a totéž jest v platnosti o tangenční složce síly elektrické, tak že se podmínka kontinuity této složky redukuje na kontinuitu veličiny Q čili na rovnici
+Qf = Qe pro r = R .
+3N Zároveň pozorujeme, že ve výrazu pro // -         odpadne člen P.
+Výrazy /<
+D/
+l
+nabudou pak tvaru:
+G,
+kdež/,  a /2   jsou   celé algebraické úkony,   a  sice  tytéž   pro   prostor uvnitř koule i mimo něj.
+Jestliže tedy magnetické permeability obou ústředí  opět za stejné považujeme, musí se podmínka kontinuity tangenční složky magnetické redukovati
+l    3 O na kontinuitu výrazu o tvaru i/', — . —^-- — \- i/\2 Q,   kdež úkon   t/>,  a T/;2 ,  zá-
+vislý   na x ,y , z , cos //, cos /*', cos v   jest spojitým.   Skrz nahoře   udanou podmínku kontinuity  Qi = Qe musí tudíž platiti rovnice :
+Odtud jde rovnice, z níž ;• , to jest kmitočty, určiti možno
+Qi
+Derivováním se nalezne :
+Při stejném označení jako dříve nabude rovnice pro *• tvaru :
+15 x -\- 15 M -j- 6 co2 x -4~ oj3        lf) -)- 15 w0 -|- 6 w0u -j- wo3
+Případ rr, obdržíme patrně, kladouce A = O, C = O ; skupina, v níž ra-diálná složka elektrické síly nullou jest, má tři nezávislé konstanty, totiž A , C, jak jsme právě viděli, a ještě jednu. Lze tedy obdržeti třetí řešení, položí-li se
+XIV. ﻿15
+jak nahoře A = a zároveň //' =
+0. Podmínka ff""= 2 A — 2 C dává bezprostředně //""== O, //.    Tím bude :
+Y= —
+
+D/
+*N
+1 ?L- Hz* (x* +j>'2) - H. Q (r» + ,
+2 />//.
+Patrně vyžadovala by kontinuita tangenčních složek sil elektrických a magnetických, která ve všech místech koule splněna býti má, správnost tří rovnic :                                    pe — p. ,
+Q*=Qi^
+K eliminaci  jest však dána jen jedna amplituda,   obsažená ve výrazech
+s indexem e . Rovnice právě uvedené označují tudíž spor, řešení <73 neexistuje.
+Pokračujíce dále   v diskussi skupiny   o- ,   tážeme se,   zda-li může zmizeti
+O L             O M          ^ N
+radiálná   komponenta síly magnetické,   tudíž x -r — -(- y —= -- 1- s -^— - .
+Z výrazů  před   tím  udaných   shledáme,   že  se   tak stane,   je-li //= //', If'—ff=±(A+C)t H""—*>H'=\C,*»H—H""=±A\ tudíž jest :
+Zde jest, 11= \ položeno :
+X=y Q (r1- — 2 #2) + 3 Py, K= s G (V2 — 2/J) + 3 /^a;, Z= — VQxys.
+
+Tangenční složka  síly   elektrické   .YcosA'-|- Kcos u'-\- Z cos v' redukuje se skrz x cos //-{- y cos (i'-\- z cos y'= O na
+(Q r* 4~ 3 /^) (y cos /.'— # cos /<'), XIV. ﻿složka magnetická jest úměrná ku
+16
+o o
+-^~
+-\- l Q ; tedy nutno, aby Q r""-{- 3 P
+činy r ve formě :
+-\-1 Q,   byly úkony spojitými,   z   čehož   plyne rovnice  k určení veli-
+pro ;- = A*, neb
+K)
+6#-(-6eo-f 3w2#-t-o)'
+Skupina EFM čili (&).
+Dá se opět uvésti na tvary jednodušší:
+Zde jest   X = x [_P (E ~\- F) + Q (ILý1 +
+^= - [^ (- ^ - -«0 + O (- ^//'2 - ^')] •
+Radiálná složka síly elektrické jest nullou pro /i"" =--/''= J/. Tangenciálná složka jest pak úměrnou ku <2; tudíž musí býti (j spojitým.
+Jelikož ve výrazech X, Y,Z schází Pt musí míti
+ntd   tvar :
+r \~r'
+Vzorec pro kmity jest tudíž identický se vzorcem pro (frí  a ÍT./J .
+Konečně jest magnetická síla v radiálném směru nullou, platí-li me/i třemi konstantami E , F, M vztah : /r— J/-f-L- Při tom jsou J/ a /i na sobě nezávislé ; nalezne se na příklad pro M= O , F= E = l :
+Dále:
+Tangenciálná složka síly elektrické jest X cos A' (3 P -\- Qr~}. Podmínky oscillační jsou patrně naprosto identické s řešením T4 .
+Shrnouce vše v jedno, shledáváme, že i v případě ;/ = 3 existují jen dva typy oscillační.
+Prvý : (<r, , 0-2) odpovídá dějům, které nejsou doprovázeny změnami elektrického náboje povrchového, poněvadž normální složka síly elektrické vždy nullou jest.
+U druhého (<r4) jest za to normální složka síly magnetické všude nullou. I zde můžeme konstatovati to velezajímavé faktum, že obě série (ft, , <r2) a (/r4) splynou v jednu, je-li éter kouli obklopující polarisace neschopným («^=0).
+XIV. ﻿17
+Podobné jako v případě // — 2 , usuzujeme i zde nutnost dublet, jestliže, jak pravděpodobné, diel. konstanta hmoty kulové značně převyšuje onu v éteru vůkolním.
+Lze tedy podle našich vývodů theoreticky pochopit možnost aspoň dvou rozličnými sérií dubletových, čehož doklady poskytují zmíněná již měření Kayser- Rungeho.
+Kladouce M = i i , obdržíme rovnice :
+s* —3tg8 + 8*tírř
+W ' ""•> 15 f - 15 tg a + G 8« tg 6 - f«
+**8-f 3*4fr4 — «5fr»V—3 é6 O* '
+'   225+45L2*9:2 + GÉ
+_______________ l              v& c_________ _____   ,,«2
+G fc — G tg L + ij fc2 tg t -— t'                     36 — 3 f4 #
+Zanedbá-li se Ohrnuv odpor, jest ft- veličinou stálou.
+Lze-li polarisaci obklopujícího éteru zanedbati,   bude v obou případech :
+3*
+O        """"o           Q.    *
+ó — t~
+Kořeny této rovnice jsou vesměs reálné, jsouce abscissy průseků tangen-
+oč tové křivky y = tg x s křivkou y = ~o~-    ""3- •
+O   ""       Jts
+Je-li (ř //) číslem malým, a jsou-li opět f0 kořeny rovnice tg*0=——  —j,
+a      f o •'
+nalezneme   počtem  sbližným   pro   kořeny   rovnic  (T, , tf„)   hodnoty í-0 + z/f,
+kdež jest:                                           í\          -r>/>5V— / ř = f () ,9 a l ^      -^------L
+Přibližné řešení pro (Vr ř7,2) jest  tedy :
+226*
+V případě (V4) jest
+i ^
+LJ.
+tedy
+Rozdíl kmitopočtů jedné dublety lomen na kmitopočet jedné složky jest patrné opět veličinou stálou.
+Logaritmický dekrcment jest v obou případech opět nestejný a roste úměrně s ř(,tí, tedy s šestou potencí doby kmitové.
+V druhém případě abstraktním, kde jest (ři9) veličinou velmi značnou, bude:
+
+W.......    (iř-G,,
+Rozpravy. Ročník IV. Třída II.
+V—l
+XIV ﻿18
+V prvém případě jest reálná část veličiny  .-J t rovna —
+v   druhém
+((• O) jest číslo   velmi   značné,   rovněž s ;   odtud plyne opět,   že se rozdíl (tabletový umenšuje s rostoucím kmitočtem.
+Intensity obou složek dublety jsou opět stejně veliké, dekrement jest v obou
+1         1\
+případech nezávislý na délce vlnité a roven veličině :              — . -— L .
+Ustávajíce v našich diskussích na případech n = 2 a ;/ — 3 , můžeme si o spektru, kteréž by elektrickým kmitům koule odpovídalo, učiniti následující obraz :
+Série n = 2 .
+Pro malé (t #) , t. j. v oboru oscillací nejnižšího řádu čili nejdelších vln jest — —r j — — = -, #"" stálým. Absolutní difference dubletová Np — Na roste ve směru ke kratším vlnám úměrně s kmitopočtem.
+Jasnost součástí jednotlivých dublet jest nestejná a sice jest lomivější část jasnější, neboť logaritmický dekrement komponenty (fí) jest devětkrát menší nežli komponenty a . Oba dekrementy rostou se čtvrtou mocností kmitočtu.
+Pro extremně veliké (« #) , t. j. v oboru nejkratších vln, jsou obě komponenty stejně jasné, dekrement se neřídí délkou vlny, zároveň se Np — Nn umenšuje s rostoucím kmitočtem.
+Odtud snadno vyvodíme výsledek, že v středních partiích našeho theo-retického spektra bude Np — Na veličinou přibližně stálou a zároveň, že bude lomMjíi soueást dublety jasnější.
+Série n — ;3 .
+V oboru dlouhých vln jest opět relativný rozdíl kmitočtů
+^VK) — N(ai)      _3    2
+AW       ""10
+veličinou stálou.
+Logaritmický dekrement lomivější komponenty N(n,t) jest značně větší (v poměru 225 : 3(5) , tudíž loniivČjsí součást dublety inenČ jasná.
+Oba dekrementy rostou se šestou mocninou kmitočtů.
+V oboru extrémně krátkých vln jest vše jako v případě předchozím.
+Odtud opět usuzujeme existenci středního oboru ve spektru s přibližně stálou differencí dublctovou, při čemž inénč loinivá součást dublety jest jasnější.
+Tím není arciť řečeno, že by v těchto středních oborech spektrálních dubletové šířky pro obe série musily býti stejnými.
+XIV.
+L ﻿19
+Redukujíce vše na tutéž délku vlny,   obdržíme pro poměr  dlouhovlných šířek (tabletových ve skupinách ;/ = 2 a n = 3 hodnotu
+.*3                                                              .
+Hledě k partiím s extrémně krátkými vlnami, to jest se značně velikými ř0 , mátne pro týž poměr //„ : ,-/., = 2 : 3.*) Je-li tedy poměr — ^ na jednom
+^3
+20                             •>
+konci   spektra -— , na druhém  -~- , dlužno míti za to, ze thcorie neodporuje přcd-
+<J                                                         O
+sfav^ že šířky dublet v obou sériích jsou v středních partiích theoretickcho spektra stejné.
+Předchozí obraz theoretický odpovídá do jisté míry našim skutečným vědomostem o spektrech lehkých kovů. Četní badatelé, za dřívějších let Le-cocque de Boisbaudran, v poslední době zejména Rydberg, Kayser a Runge, sestavili čáry spektrální v určité série. K jedné a téže sérii náleží v jistém spektru čáry, které se co do počtu kmitů N dají vyjádřiti výrazem :
+N=A- - Bn-*—Cn-*,
+\ němž A B C označují konstanty a n celé číslo, udávající místo linie v sérii. Souhlas měřených a dle uvedeného vzorce vypočtených hodnot délky vlnité jest v pravdě překvapující. Od série k sérii mají A B C arciť hodnoty jiné. Registrujíce fotograficky elektrickým obloukem vytvořená vidma lithia, natria, kalia, rubidia, caesia, shledali Kayser a Runge,**) že se v každém spektru vyskytuje přední hlavni scric\ s čarami snadně vystupujícími a snadně se obracejícími; šířka dublet (jen lithium jich nemá), není stálou, nýbrž klesá
+dosti rychle, blížíme-li se oboru vln krátkých, přibližně dle zákona
+
+= J .
+Mimo tuto hlavní sérii shledali u lithia, rubidia a caesia ještě po jedné, u K a Na dvě série vedlejší.
+Cáry jejich se nesnadno obracejí, jsou méně ostrými (nnscharf), jedny na straně fijalové, druhé na straně červené. Co však jest nejdůležitějšího, absolutní difference kmitočtů dubletových jest u všech sérií téhož kovu přibližně veličinou stálou. Pokusy Kayser-Rungeovy jsou s dostatek přesné, aby se konstatovati mohlo, že odmocniny těchto diťferencí / mají se k sobě přibližně jako atomové váhy.
+:;:) Bližší  odůvodnění jest  následující :   pro   velmi   značné   í-,,   vyhoví kořeny rovnice
+,    .. ,                                      . .                                               '->« + 1
+ř„ — tgf„— O, odpovídající případu // ='2 , též rovnici ti; FO   » ooj odtud máme FO = — o — n>
+8 F Podobně platí o FO , které vyhovuje rovnici ku // = b* náležející : tg/0 = ., _""t^r~ přibližně
+2                   3
+f0~//7r. Dle dřívějších vývodů jsou ~/, a ./3 úměrný výrazům — , potažmo — . Hledě ke
+fa                          f«
+korespondujícím kmitům (totéž ;/),   bude   y = -**) K. a R. Wied. Ann. sv. 41, 18!)0.
+XIV.
+v limitě rovno -ÍŤT . ""
+2* ﻿20
+Tak na př. máme :
+	Na	K	Rb	Cs
+	Yl72 = 23 ,			
+•\/,í . lo- 9				
+		V568 = 40 G	V 2344 = 82-0	Y5450 =!:>(•>
+V      3				
+Atom. váhy	22'9<)5	39-09	85,2	152,7
+U lithia jest výjimka: není zde dublet, ač by, dle zmíněného zákona jsouce vypočteny, musily míti dostatečně velikou šířku, která by pozorování ujíti nemohla. (Zdá se, že se zde vyskytuje případ, theoreticky možný, kde jedna z komponent dubletových jest ve světle velmi slabou.)
+Tato okolnost, atomových vah se týkající, jakož i nesnadné, jen obloukem voltaickým vynucené vystupování sérií vedlejších zdá se nasvědčovati, že jsou produktem kmitů molekul na atomy rozštěpených. V tom smyslu dala by se naše theorie, supponující existenci individua jednoduchého, nejdříve přenésti na tyto série vedlejší. A skutečně jsme shledali, že konstance dubletové difference netoliko v jedné a téže sérii, nýbrž i ve dvou sériích jest theoreticky nutnou potažmo možnou a pravděpodobnou v jistém oboru theoretického spektra.
+Theoreticky dá se též pochopiti, proč jedna z vedlejších sérií jen nesnadno vystupuje, tak že se jen u K a Na se dvěma setkáváme. Neboť přibývá při dlouhých vlnách u série ;/ = 3 logaritmického dekrementu se šestou, u série n = 2 se čtvrtou mocností kmitočtů, a cos podobného bude existovati u prostředních délek vlnitých, pro něž zákon konstantní difference dubletové v platnosti zůstává. Konečně lze pochopiti, proč v dubletě jedna komponenta slabší býti může než druhá.
+(Hlavní série odpovídají bezpochyby oscillacím složitějších útvarů, prozatím analysi arciť nepřístupných.)
+Dlužno se ještě zmíniti o Kayser-Rungeově relaci:
+A/        A         Ji           C
+N--=A~- ,r- --„*-'
+která jest, jak autoři sami uvádějí, zvšeobecněním tak zvaného pravidla Bal-merova. V oboru několika 7—«S čar, z pravidla s ;/ = 3 počínajíc až do m =10, 11 , koná vzorec služby přímo výtečné netoliko u spekter lehkých kovů, nýbrž vůbec. Jen čáry některých kovů těžkých se mu nepodřizují. Číslo n roste od menších ku větším kmitočtům ; kdy by tedy byla extrapolace pro všechna // dovolena, označovalo by pravidlo Kayser-Rungeovo, že kmitočet A^ má absolutní limitu A, což jest věcí naprosto nemožnou. Jsou-li spektrální čáry projevem jakýchkoli periodických dějů vázaných na existenci jednoho individua (atomu), musí absolutní limita kmitočtů býti nekonečně velikou, délka vlny nullou.
+XIV. ﻿21
+Není problému, v němž se o samostatných kmitech nějakého systému jedná, který by této větě odporoval. Ze ostatně vzorec ten již pro n = 2 a přes ;/ = 11,12... extrapolovati nelze, dokázali pp. K. a R. sami. Vzorci jejich náleží tudíž jen omezená platnost, a význam jeho jest patrně ten, že v pozorování přístupné části vidma N spěje k jakési lokální limitě, která odpovídá přibližně horizontálně položené obratové tangentě theorctické křivky (A7;/). Naneseme-li skutečná čísla kmitopočtová nějaké série na osu ;/, můžeme se bezprostředně přesvědčiti, že svah křivky spěje k minimu s ubývající délkou vlnitou. Zpravidla leží tato lokální limita na ultrafialovém kraji spektra fotografického, tudíž unikají pozorování další členy série, ve kterých opět značnější rozstnp čar nastati musí. Nikdo nebude tvrditi, že by za tímto krajem čar téže série již nebylo, a konceduje li existenci jejich, připouští implicite, že křivka (Artt) má v řečeném místě obratovou tangentu.
+Ze křivka (Nn) tuto povahu již s theoretického stanoviska míti musí, bylo v předchozím vyloženo.
+Rozpravy.   Ročník IV. Třída II.
+XIV. ﻿*"

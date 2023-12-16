@@ -1,0 +1,227 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UiMKNÍ V PRAZE.
+ROČNÍK II.
+TŘÍDA  II
+ČÍSLO 17
+
+O NĚKTERÝCH
+7 A f /ATT
+INTEGRÁLECH EULEROVYC
+1.   l
+NAPSAL
+AUGUSTIN  PÁNEK.
+PŘEDLOŽENO   DNE 11  ÚNORA
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ.
+1893. ﻿FISKKM J. OTTV v PKAZH. ﻿
+
+V Kulérově díle o integrálním počtu, jehož německý překlad pořízen Salomonem s názvem \^. Eulers vollstandige Anleitung zuř intcgralrechnung , uvedeno ve 4. svazku vyčíslení některých integrálův, uveřejněných poprvé Kulérem ve sborníku akademie věd v Petrohradě.
+V úvahu vzaty (str. 22. a násl.) integrály tvaru
+Jí =
+,2\ 1/1           ,.4
+_f  (l
+(l— a?a)\l-   -x
+J
+dx
+X
+X
+\    d X,
+l l 4- X') } l +
+x-dx
+r \/4>
+Při vyčíslení integrálu Jl  položil Euler _J            = p a při vyčíslení inte-
+1 — x""
+x 12 grálu Jo  klade ——p -— = </.   Pak  vyšetřuje  integrál J3   a praví o d «73 toto
+•  i       ""t —
+i   * (str. 24.):   >I)ieser Ausdruck lásst sich durch keine der beiden vorhergehenden
+Substitutionen auf einc rationale Form zurůckťuhren.*
+Dokážeme však, že oběma substitucemi lze vyčísliti všecky čtyři uvedené integrály, a že jsou tedy subtituce dotčené těmto integrálům společný.
+I. Když klademe podle Eulera
+jost
+. J.- ""
+(
+sestrojíinc-li
+W
+\i
+i
+1          *) /i""           V
+í^~-/> — ~(T^itt)
+*''
+i*
+xvn. ﻿bude
+O + V) V
+Délíme-li (/?) rovnicí (*) , obdržíme
+. r»                           /
+(l
+(l — x*)dx
+(l + s«) V l +
+a tedy integrál J,2 nabude tvaru
+(l — x
+V*    _ i r
+VT+~^ ~~ Ví j
+(1+*2)
+Integrál, na pravé straně uvedený, je známý a vede k tvaru
+du
++ »
+pn čemž
+a integrál e/a  má pak tvar integrálu differenciálu racionálního
+(1)
+Jo   =
+_.J_C_
+V2J   l
+čtu          l               x
+• = -      are tg           ___
+-'2     syi_^4
+Chceme-li dostati výsledku Eulerova (str. 23.), považme, že
+are tg v = are sin
+Abychom vyčíslili integrál J3 , dělíme (y) rovnicí (tf) a, znásobíme-li podíl ten dp dle (,^), povstane
+integrujeme-li pak
+(80
+C Vl + a;4  ,   _  l   f Vl-f/1
+J T^HF         Va J l + 27*
+Integrál pravé strany  lze transformovati   na   integrál   (!')   také   na pravé straně uvedený, užijeme-li stejniny
+2
+l +
+takže potom
+i l-**4
+l
+XVII. ﻿
+
+První  člen dá  —— / (/ -f- \ l -f-/2) ,   kde   zavedeme   místo  p  původní
+A   W 2i
+hodnotu   dle   («) ;   druhý   člen   jest   patrně   dle   (!')   hodnoty   — <72 ,  takže
+konečně
+(2)
+ř/.i  =
+2 VÍ l
+*V*
+are tg
+*yi i -4
+Abychom ustanovili integrál -/4 , třeba znásobiti (a) umocněnou rovnicí («),
+, tudíž
+
+dx
+U — z4) \ l
+a integrujeme-li,
+(l-*4
+Ježto, jak svrchu uvedeno,
+—     1     f _
+x* ~~ 2V2 J (l
+d u
+: = —               a dle (b\
+2                               2
+, obdržíme přímo, znásobíce obě poslední rovnice,
+dp
+d n
+//
+proto
+r____x* dx      _ _ i_ r _ a*
+\ ri~—x*} \ l 4-^4 ~ ""v A ^ \ í ~ «* '
+J    \J          ^   /   \    ]          *              *-     >   -    t1
+tedy opčt tvar známého integrálu differenciálu racionálního, takže konečně
+(3)
+*Y2 + \1+*4          f       a?y-2
+'o                    at""C  tg
+l —
+
+II. Zavedeme-li  druhou  Eulerovu  substituci,  kterou  vyčíslil  integrál dokážeme, že touže substitucí lze vyčísliti též integrály J, , J.A a
+Položíme-li tedy
+sestroj ímc-li
+W W
+l
+(l-fa;2)2'
+XVII. ﻿pak bude
+W
+a poněvadž tu
+(l
+_ (l
+V l +
+(l       -
+U -*""
+(1+!ei)
+i»     -
+obdržíme dělíce (V) rovnicí (ti)
+l
+'/
+(l
+f*
+což vede k integrálu
+C')
+l
+dq
+(i—
+Ježto integrál na pravé straně lze vyjádřiti tvarem
+l—//
+kde
+<
+dostane integrál  •/,   tvaru integrálu differenciálu racionálního
+(1)
+du
+l — x
+Abychom vyčíslili integrál f/a . dělme (//) rovnicí (f) a podíl ten násobme
+dle
+dx ,
+tudíž
+C HZ <
+} 1-2
+Avšak
+í-?*_
+proto W (20
+l
+díl____,
+v~     -=
+2 ^ 2 l J  \ l — g
+' l
+čímž jsme dospěli tvaru integrálu (l'), na pravé straně uvedeného.
+XVII. ﻿
+Poněvadž v (2') první člen pravé strany jest
+l
+are sin q, kde místo q
+píšeme hodnotu původní, a druhý   člen   dle (!') dá --- J, , konečně
+(2)
+J3 =
+l
+are sin
+x \ '2
+X
+l      x
+Chccme-li  vyčísliti  integrál J4 ,  násobme ()ii)   hodnotou </2 = — dle (a), načež obdržíme
+(/2 di]                                    X* dx
+= 2
+2 x
+.     2 2
+a integrujenie-li,
+(3')
+dx
+</
+
+— x ) \ l
+a;'
+Ježto, jak svrchu shledáno,
+O-^YI-^   '
+//
+, při čemž
+'/=
+l -{- ?
+2~ , bude přímo, násobíme-li obě poslední rovnice ,
+du
+(l —
+,4     '
+jest tedy integrál J4 přetvořen na tvar integrálu diťřerenciálu racionálního
+l     C __du 9 ; 9 }  l — »
+4)2
+l   .  u — /
+2     * — l
+are
+a zavedeme-li
+X
+x
+místo //, po snadné redukci konečné
+9  l
+/
+l —
+are sin
+XVII. ﻿*"

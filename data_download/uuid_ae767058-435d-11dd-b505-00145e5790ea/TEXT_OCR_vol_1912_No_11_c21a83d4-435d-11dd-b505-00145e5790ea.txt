@@ -1,0 +1,170 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TŘÍDA II.
+ČÍSLO  11.
+Poznámka k theorii rovnic differenciálních lineárních.
+Napsal
+Dr.  František Rádi.
+Předloženo dne 8. března 1912.
+Vyšetřování uveřejněné v roč. XLI. ,,Časopisu pro pěstování math. a fysiky"" pod týmž heslem, které nadepsáno tomuto pojednání, lze, pokud provedeno bylo pro lineární rovnice obyčejné, rozšířiti i na systémy těchto rovnic, jak ukázáno v následujícím.
+Vyhneme se těžkopádnosti, budeme-li uvažovati místo případu všeobecného pouze systém dvou rovnic
+z'+Cy + Dz = Ntf...........(
+kde A, B, . . ., N jsou funkce x. Zevšeobecnění jest pak samozřejmé.
+1. Abychom stanovili nejprve tvar integrálů systému (1), dosadme do soustavy rovnic
+z*   = v
+pro yx  =  <JP y + 3 z,
+Zi  = $ V + * z,
+kde ft, v, (p, %, ty, r jsou funkce x.   Obdržíme systém lineárných rovnic, který možná uvésti na normální tvar (1), při čemž
+A =
+Z 4>'   fí __X'
+B =
+Rozprava: Roč. XXI. Tř. II. Čís. 11.
+-,    •  (3)
+l
+XI. ﻿— v<p
+(4)
+označíme-li
+= d; nutno patrně předpokládati d 4= 0.
+Dán-li obráceně systém (1), udávají rovnice (3) k daným koěffi-cientům A, B, C, D funkce <p, %, ý, r. Nalézti skutečně takto tyto funkce jest ovšem úloha ještě nesnadnější než řešiti danou soustavu (1), funkce ty však existují za jistých velice všeobecných podmínek pro funkce A,. . ., D dle existenčního therému o differenciálních rovnicích obyčejných; pak plyne z rovnice (4) /» = M<p — N%, v = My — NT.
+Dle (2) udávají tudíž všeobecné řešení dané soustavy (1) relace
+= í (M <P —
+=      Mi) — N
+čili
+y =
+z —
+j (M
+N T] dx,r
++4-
+> Z
+C2,
+>, J (Mý —
+První členy pravých stran jsou částečné integrály vzniklé z členů M, N daného systému, druhé členy udávají všeobecné řešení dané soustavy homogenní, je-li tedy M = N = 0.
+Jest ihned patrné, že známe-li všeobecné řešení dané soustavy homogenní, které má tvar y = q Yt -f- c2 Y2, z = cv Z^ -j- c2 Z2, stano-
+víme  nejprve d dle relace — = Yj_Z2 —
+rovnice   tato   plyne  ze
+vztahu ď = qp x — ^ % dělením ď2 a vzhledem k (5). Pak obdržíme qp, %, y, r řešením algebraických lineárních rovnic.
+Vyžaduje tudíž stanovení všeobecného integrálu dané soustavy nehomogenní, tedy s členy M, N, pouze vykonání dvou quadratur, jak se jinak vykládá Lagrangeovou variací konstant nebo methodou Cau-chyho.
+2. Také u systémů lineárních rovnic obyčejných lze k integraci užiti často transformace kaskádní. Poněvadž integraci systému (1) s členy M, N lze převésti na řešení soustavy homogenní, budiž předložen k integraci systém
+z' + Cy +D z =
+(6)
+Úloha, jak v předešlém odstavci ukázáno, byla by rozřešena stanovením funkcí (f, %, ty, r dle rovnic (3), což je však nesnadné.   Zvolme
+XI. ﻿tedy tolik z těchto funkcí libovolně, až by ostatní bylo možná stanoviti nejvýš užitím quadratury; pravě tolik z koěfficientů A, B, C, D musí pak hověti určitým podmínkám. Stačilo by zvoliti libovolně kterékoli tři z těchto funkcí, výsledky však nabudou jednoduché symmetričnosti, zvolíme-li předem libovolně všechny čtyry funkce tp, %, ty, z. Pak všechny čtyry koěfficienty systému (6) nemohou být libovolné, nýbrž musí hověti podmínkám (3).
+Není-li tomu tak, a dán-li systém  (6) předem nezávisle na volbě funkcí qp, #, ty, z, možno ho psáti ve formě
+y' + a y + b z — hy — i z = O z' -\- cy--\- d z — ky — / z = O,
+kde a, b, c, d jsou koěfficienty hovící relacím (3), tedy a = — b = ....; h — a — A, i = b — B, k = c — C, l = d — D.
+Dejme nyní stystému (7) tvar
+(7)
+Eliminujeme-li z této soustavy yl7 zv obdržíme nutně systém totožný se systémem (7); porovnáním obou lze stanoviti součinitele H, I, K, L.
+Vznikne totiž provedením eliminace a uvedením na tvar normální
+z I — y
+;' + (""-*—#-
+< + ('+***
+d + v'Ty    * = Q:
+porovnáním se (7) plyne tudíž
+zH—%K= dh , — tyH + <pK = $ k,
+První a třetí relace dává
+z I — yL = d i , l + < L = 91.
+druhá a čtvrtá
+/ = * <p + l %>    L = i ty -f / z. Označme v následujícím
+TT         T **>     J
+K,     L
+Eliminujme však ze soustavy (8) y, z.   První a třetí rovnice v (8)
+určuje v = ——-----------    z —-------------— , dosazením do druhé a čtvrté
+'              ^                            ^
+XI. ﻿obdržíme po převedení na tvar normální systém
+
+kde
+L — T K, v L — x K poněvadž však tento determinant rovná se d A,   zní též předešlý systém
+%'+
+, kde
+d
+(9)
+Poněvadž A krácením  vymizí, není potřebí předpokládat, že ,// 41 O
+čili,   poněvadž 4 = d
+, že
+h   t '
+R,   L
+=t= 0.     O   této   podmínce  bude
+K,   L
+zmínka učiněna v odst. 4.
+Tím daný systém (6) transformován na jiný téhož druhu o jiných koěfficientech, i možná patrně tuto transformaci dále opakovati a psáti systém (9) ve formě
+z\ + c y\ + & zi — ki y\ — li z\ =
+a stanoviti příslušné Hlt Ilt Klt L± a t. d.
+Vykonáním s transformací obdržíme konečně systém
+y,' + As ys + Bs zs - O
+s  + Cs ys + A zs = O,
+(10)
+(11)
+při čemž"" platí As =        * 1—------—,   podobně   B,,   Cs,   Ds;  nebo   též
+y$' + # ys + b z, — hsy — is zs — O 2:,' + C ys + (/ zs — ks ys — /, Zi = 0.
+(12)
+Je-li možná nějakým způsobem nalézti řešení yv  zl systému  (9), udávají relace
+ff
++ zl
+stanovené dle (8) přechod k integrálům soustavy dané (6). Podobně z řešení soustavy s-té (11) stanovíme integrály všech systémů předcházejících a i původního (6).
+XI. ﻿3. Řešení soustavy (11) možná však ihned dle (5) napsati, vyho-vují-li koěfficienty Aít Bs, C., Ds podmínkám (3), čili je-li současně
+hs = is = ks = ^ — 0.
+Jest podstatné zjistiti nejdříve možnost této podmínky, neboť v pojednání shora citovaném ukázáno, že při rovnicích nelineárních h = hs, tedy nemůže hs = O, je-li h =L 0.
+Vzhledem k systémům (9),  (10) platí patrně hl = a — Al = a —-—-r----- a podobné pro ilt kít lt; vyjádříme-li H, I,
+K, L pomocí h, i, k, l, vzniknou relace
+l
+h = b +  -g- (— <p % h -
++ %*k—%tyl} i —Í1 k + <pj|;/)
+.   .   .   . (13)
+j  =   C   +   -š-  (ty X h — ty* Í + T2 k — $ V l)
+= a
+'i = d -\-  —jr- (— jj ty h -\- (p ty i — % x k -f- <p x l). Poněvadž  však  též   vzhledem   k   (11),   (12)   jest   hs — a — As = —, platí všeobecné vztah
+l
+s— l
+a podobné relace pro is, ks, ls.
+Tím umožněn přechod od s — l transformovaného systému k s-tému. Jest patrné, že také independentně hs, is, ks, ls souvisí s h, i, k, l relacemi algebraicky lineárnými.
+Stanovme ještě relace k (13) inversní. Determinant soustavy rovnic určujících h, i, k, l jest rovin ď4, i obdržíme jednoduchý výsledek
+(14)
+k =   — ( — <p ^> AI — a — # J í'i —
+_
+1 — b -\- ty % k± — c-\- y T l — d).
+_
+l =  -r- ( — m ý h. — a o ﻿Platí patrně všeobecně
+a podobně pro ts_i, &s_i, ls—\. Kcěfficienty v těchto inversních relacích jsou tytéž jako v rovnicích přímých (13) a to i co do znamení, jsou pouze jinak rozestaveny.
+Má-li být /řt = it — k± = 1L — O, udávají rovnice (14) určité hodnoty pro h, i, k, 1; rovněž hodnoty pro hs—i, ís_i, ks—i, /s_lf má-li býti hs = is = ks = / = 0. Účelnost transformace k integraci tím zajištěna.
+Dle těchto relací možná na př. se přesvědčiti, že případ, aby se systém jedinou transformací reprodukoval, aby tedy soustava (9) byla identická s danou (6), vůbec nastati nemůže.
+Kdyby totiž platilo h^ = h, i± = i, k: = k, lv = l, tedy dle (13) by pro h, i, k, l platil systém rovnic
+k —
+— ad
+T ty h — ty'* i -\- (TS — d) k — ty T l — — c d — $ % n -\- <p ý i — %z k ~\- ((p T — d) / = — d d;
+poněvadž však rovnice 1. a 4., majíce levé strany až na znamení stejné a pravé různé, si odporují, nelze vyhovět soustavě konečnými hodnotami.
+Chceme-li obdržeti systémy, které lze jedinou transformací integrovati, zvolíme libovolně rp, %, ty, r, čímž dáno a, b, c, ď, pak relace (14) udávají za podmínky AA = ^ = k± — lt — O příslušné h, i, k, l, tedy i A, B, C, D. Opakovaným užitím vzorců (14) stanovíme systémy, které lze řešiti provedením s transformací. Tím naznačen první způsob, jímž obdržíme systémy řešitelné quadraturou.
+Aby dedukce tyto doloženy byly příkladem, budiž <p = x -{- l, JJT = x, ty = x + 2, T = x -j- l, tedy d=l, a = 6 = l, c = d = — 1. Má-li býti hl = íj = &! = lv = O, jest dle (14) h = — (2 x + 3) (2 x + 1), i = — (2 x + l)2, k = (2 x + 3)2, / = (2 x + 1) (2 x + 3). Systém daný zní tudíž
+y' + ( 4 x* + 8 x + 4) y + (4 x* -f 4 % + 2) s = O / — (4 #2 + 12 # + 10) y — (4 x2 + 8 x + 4) 2 = 0;
+poněvadž první transformace dává soustavu
+KI    ""i    Ví    r"" ""i  == ^                                                        ví  —• C|  (A/ H~   X) —~~"" Co ^/
+*^J.      '^A1       X                      _      J_j____f_\__1_            -'i           JL\       '       /           u
+-r Ví -r *i = r:
+-yi-^i = o
+o integrálech má systém předložený řešení
+y = G! (2 ^ -f- 4 * + 1) — 2 c2 * (* + 1) ar = — Cj (2 x2 + 6 * + 4) + c2 (2 *2 + 4 *
+XI.
+1). ﻿4. Systém (11) lze však také patrně rozřešiti pouhou quadraturou, je-li B i = O nebo je-li Cs = 0.
+Pro s = l vyžaduje podmínka B1 = O dle (9), aby % H — qp/ = O čili, dosadíme-li hodnoty za, H, I z odst. 2. a upravíme-li,
+(i)'
+\(p/
+M                                                                                                                                                                                                                                      m
+— 1} — — i = 0; řešení této rovnice vzhledem k — jest vše-
+obecně   vyjádřeno   v   nevýhodné   irracionální   formě.    Předpokládáme-li
+v         l          h
+však h l — k i = O, má rovnice tato racionální kořeny — — -=-,-----r.
+<p        k         k
+Podobně chceme-li, aby C1 = O čili aby ý L — r K = O, jest nutné vyhověti  téže  podmínce pro —
+čili
+r         l           h                                     .
+— = -=-.------=- za supposice h l — k i = 0.
+í/;          k            k                 '
+Tím tedy naznačen druhý způsob, jak utvořiti systémy řešitelné quadraturou. Zvolíme libovolně qp, ^, %, r a utvoříme hodnoty h, i, k, l, 1'by vyhovovaly dvěma ze čtyř podmínek právě odvozených. Tím obdržíme systém, jejž dle vzorců (14) možná transformovati, vzniklý systém opět transformovati a t. d. Vzniklé systémy vesměs mají integrály souvisící s řešením prvního systému dle relací
+z =
+zs <JP
+Souhrn článku jest tudíž ten, že daný systém (6) lze řešiti quadraturou, je-li pro některý s-ty systém transformovaný buď 1. hs = is = ks — /s = O nebo
+— O jedna ze čtyř  podmínek
+2	platí-li	mimo požadavek	i',	is ls	=
+		ls           hs		X     *	
+		~k~ '       ~k~ KS                Ks		9'  *	
+XI. ﻿r"

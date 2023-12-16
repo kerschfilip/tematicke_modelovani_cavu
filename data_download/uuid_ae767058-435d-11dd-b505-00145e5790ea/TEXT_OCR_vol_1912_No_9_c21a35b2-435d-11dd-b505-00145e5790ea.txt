@@ -1,0 +1,497 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TRlDA  II.
+ČÍSLO 9.
+Analytické úvahy o koulích dotýkajících se čtyř daných koulí
+Napsal
+J. SOBOTKA.
+'&&, ^?
+(Předloženo dne  8. března   1912.)            '""'r-iW rfi
+1. Je li AÍ (i = l, 2, 3, 4, 5) pět bodů na kouli, a značí-li du, vzdálenosti bodů AÍ, Ak, platí známá relace, která jest rozšířením věty Ptolemeovy na kouli:
+O,    ťř122,    d132,    du2,    d \       O,    d,    d.,    d
+(AJ     ''          íř   ' *'                O
+*14 »      ^24"" >      %T>
+O,    rV 0
+= 0.
+(1)
+Uvažujme pět koulí K< (i• = l, . . . 5), jež se dotýkají koule šesté K středu 5 a poloměru r v bodech AÍ. BucTtež St středy a r< poloměry jejich. Dále kladme
+•\~   C    C   C
+<9L >->» >-> č>k = <fik-Patrně jest
+do2 = 4 r2 sin2 —^-.
+Dosazením těchto hodnot do (1) dospíváme k relaci mezi úhly, které tvoří pět přímek z pevného bodu vycházejících, totiž
+	o,	•      t     ^-r19		sin2 sin2 sin2 sin2	9l4	sin2 sin2 sin2 sin2	2 925 2
+		o, •           .»            TT  1S	2 -i«2   ^^		2   '		
+	2   '		2   ' 0, -í«2 ^43		2   ' 934 2   ' 0, 951		
+	2   '	2   '					2 945
+cV0f2 _	2   '	2   ' tin*  VM	2   ' -í«2 ^^				2 0
+	2   '	Sfff      2   ,	°m     2   '		2   '		
+= 0.
+(2)
+Rozpravy: Roč. XXI. Tř. II. Cis. 9.
+IX. ﻿Dále plyne z trojúhelníku 5ť 5
+2 (y — r,) (r — rh] cos <jp<* =
+Při tom za vědmě si pojem koulí orientovaných, které můžeme nazvati sférami. Když totiž zavedeme určitý smysl rotační kolem přímky za kladný a opačný za záporný dle známé definice, a orientujeme každou normálu koule tak, aby od paty její na př. ve směru neobsahujícím střed koule byla kladnou, ve směru k středu směřujícím zápornou, pak smysl na kouli odpovídající kladnému smyslu otáčení orientuje kouli jakožto sféru kladnou, opačný smysl pak stanoví sféru zápornou. Poloměr kladné sféry bereme kladně, poloměr záporné bérem záporně, takže poslední rovnice platí obecně, jak pro vnější tak pro vnitřní dotyk dvou koulí.
+Klademe-li
+fc* =c»2 — (n — rky,                                    (3)
+značíce Uk délku společných tečen pro dané sféry Kť, K*, ať již jest fo2 kladné neb záporné, bude se zřetelem na hodnotu pro c,V2 pravé vypočítanou
+»»'-T =T
+W
+Dosadíme-li tyto hodnoty  do determinantu (2) dospějeme, násobíce
+#* řáaek 4 (r — n], k'* sloupec  (r — rk], k relaci
+O     192      t '2,    L2     t
+/ 3        o       / >J     / 2     /
+ř21  '           V,      ř23 i      ř24 <       *J
+j    2         ^    2            fl        /    2         í    2       —  A                                                   ^F»\
+%1 >      *32 '              '        34 '        35       —                                                         V   /
+/    2         /    2        /    2            A         /
+^41  »      ř42 »      ^43 »           u>       14
+t- 2        í   2       í-.2        /- 2          O
+Je-li 6>jé úhel, v němž se dvě sféry protínají, obdržíme snadno relaci
+a pro úhly,   pod  nimiž   se pět sfér dotýkajících se téže koule protíná, obdržíme z (5) relaci:
+sin-
+sin2
+0.
+2   '
+2   '
+SřWJ
+2   ' O,
+T""' &,
+-2       42
+sin
+2  '
+Z
+sin*
+sin*
+sin-
+stn*
+sm*
+2   '
+2   '
+Sř»s
+2 «W> ®ii
+- 0.
+IX. ﻿2. Je-li K5 koule nullová, redukující se v reálné části na bod P, pak jest P bodem na kouli K dotýkající se příslušných sfér ploch Klf . ., K4, a naopak lze každý bod P koule K považovati za takovou plochu K5 poloměru nullového.
+Jsou-li v obecných souřadnicích parallelních KÍ = O, K= O rovnice ploch Kf, K nabývá tu fa2 hodnoty Kit kterou obdržíme, když do levé strany rovnice KÍ = O místo souřadnic běžných bodů na K/ klademe souřadnice libovolného bodu na K.
+Tím přejde (5) v rovnici
+O,    t^, „2.       0.
+t,
+O, K„
+0
+= 0.
+(7)
+Rovnice (7) náleží tudíž plochám kulovým, které se dotýkají čtyř daných koulí KÍ.
+Pro určité sféry, z nichž každá náleží jedné z těchto čtyř koulí, obdržíme určité hodnoty fa,'2 ze vzorce (3), béřeme-li poloměry ri, r^ s určitým znamením, t. j. buďto oba stejně nebo různě označeny. Tudíž volíce takto hodnoty tik2 určitým způsobem a kladouce kratčeji T& = tik2, vyjádřen jest jeden pár ploch kulových dotyčných rovnicí
+O
+!3
+aneb rozvedeme-li:
+r!2 O
+7 23
+K„
+!3 T14    34
+13
+0
+34
+tr14
+o,
+(8)
+(        r!2 r34 ~i    r!3 T24 ""T T14 r23) ""l ^2
+- r!4 (r!
+24
+""4
+r23 (T12 r34 + r!3 T24
+T24 (r!2 r3
+T,-
+13
+23/
+T14 r23)
+""~~ r!3 (r!2 T34         T13 r24
+(9)
+Všechny páry dotykových koulí obdržíme tudíž tím, že zvolíme všechny možné kombinace veličin r«, kladouce buď r« = <fo2 — (r» — r/t)2, aneb ríft = d^—• (rt + r*)2; podle toho, volíme-li poloměry yť, r* buď tak, aby byly stejně neb nestejně označeny; obdržíme pro znaménka poloměrů rít r2, r3, r^ v celku 16 možných kombinací; každá taková kombinace vede k určitým hodnotám TU, a tedy k jednomu páru dotykových koulí. Je-li však s±, e.2< La> *4 jedna kombinace znamének pro poloměry rt, vedoucí k příslušným hodnotám r«, tu kombinace opačných
+IX. ﻿znamének, tedy (— e1, — «2> — *3» — $4) vedg k těm.že hodnotám tik> takže jest možno jenom 8 různých kombinací hodnot T& sestaviti, čímž přicházíme k osmi párům koulí dotyčných ku čtyřem koulím daným; při tom jest patrno, že dvě koule se dotýkají vnitř nebo vně podle toho, jsou-li poloměry jejich stejné neb opačně označeny.
+3. Považujme střed potenční O daných čtyř ploch kulových za počátek soustavy souřadné a budiž p společná potence jejich, pak jest
+KÍ = y (x, y, z) — x <p'ai —• y fp'bi — z <p'Ci + <p (cti, bi, c<) — r? = O,
+klademe-li
+g> (x, y, z) = x'2 + y2 + z2 + 2 x y cos x y -f- 2 y z cos y z + 2 z % cos z x,
+3 CD  (tti. bi. C;\
+9*,=
+a jsou-li a-i, bi, c> souřadnice středu. Zavecfme dále označení
+0
+'21'
+T13'      r!4
+32>
+0,
+0
+A
+M.,
+W.,
+«3 O
+kde v případě, když prvky m^ resp. wť neb části jejich jsou stejné, klademe za ně přímo příslušné hodnoty.
+Majíce  zřetel  k   tomuto   označení,   rozvedeme  determinant   v   (8) podle prvků posledního sloupce, čímž obdržíme, ježto
+p = q> (Oi, bi, d) — rr, a píšeme-li místo <p (x, y, z) krátce cp
+(cp + p) (Kt, 1) — x (Ki, <p'a.) — y (Ki, g>'bi) — z (Ki, ^) = 0.        (10) Poněvadž
+A
+—
++ p) (l, «<) — x (y'ai, «<)
+~z      w<
+IX. ﻿proto nabude rovnice (10) dalším rozvedením a úpravou tvaru
+(l, 1) (V + P)'2 — 2 [fa, 1) x + fa, 1) y + fa, 1) z] (<p + P) + [fa, <P'«) x1 + fa, <#ť) y2 + fa, <#ť) *2]
++ 2 [(<p«ť- yíi) * y + (<?v #<) y * + (#<, <JPÍÍ) * *] = °-
+4. Hledejme nyní průsek této dvojice koulí s /čj = 0; za tím účelem klaďme v rovnici (11)
+<P + P = x <p'ai + y <p'bt -f z <pílt
+výraz to plynoucí z rovnice K^ = 0.  Takto obdržíme z rovnice (11) novou rovnici
+(l, 1) (x <p'ai + y <p'bl + 2g^)2 — 2 [(9?;., 1) * + (<#,, 1) y + (^ť, 1) ^]-
+(^ g>i, + y ^ + z qpá)
++ 2 [(<JP;Í; g>iť) ^ y + fa, qp;ť) y.* + (<JP^, y^) 2 ^] Vynásobením a úpravou plyne z této rovnice dále [(l, l,) <?.* — 2 (#., 1) g>'ai + (qpiťt qp^)] ^
+= 0.
++ [(l, 1) <ftf — 2 fa, 1) qPá, +
+V2
+[(l,
+- 2
++ 2
+(l, 1) — (pí,, fa, 1) — <p'ai fa, 1) + fa, <p'bi)] x y
++ 2 [fa y'Cl (l, l) — <p'Cl fa, l) — <pbl fa, l) +
+y -
++ 2
+(l, ]) — <p'n fa, 1) — <p'a fa, l) +
+= 0.     (12)
+Výrazy v hranatých závorkách lze sloučiti.   Jest totiž na př.
+(1,1) rp'a* — 2 (qp;., 1)
+
++
+= fa —
+a dále
+= fa —
+(l, J) —
+[fa. vtf —
+IX. ﻿Takto se rovnice (12) zjednoduší přecházejíc v rovnici:
+9«» 9*t — 9>ít) *2 + (<P'bi — g>ii. 9'bi — <JP*i) ^ + (#< ~ 9*> #i + 2 (<3P«< — g>*. <#< — Vít) * y + 2 (qpá. — <#„ qpd, — <p'Cl) y z + 2 (<p'Ci — <p'Cl, <p'ai — <p'ai} z x = 0.
+(13)
+5. Hledáme-li obecně průsek páru dotykových koulí K, K' (11) k daným čtyřem koulím K* s libovolnou koulí Q, náležející komplexu kulovému, stanovenému danými čtyřmi koulemi, tu jelikož jest rovnice koule Q, značíme-li K, ft, y souřadnice jejího středu a Q její poloměr,
+9 + 'P — x <p'a — y cpp — z
+O
+při čemž
+p = rp (K, p, y) — Q2, jest pouze třeba klásti do rovnice (11)
+Cp -f- p = X <p'a -f y <jp^  +  z <p'y,
+čímž   dospějeme   k   rovnici   obdobné   rovnici   (13),   v   níž   však   nutno nahraditi
+<P'ai
+* veličinami <p'a, <p'p, <p'r
+Obdržíme tudíž
+9'y) ť' + 2 (9'at — 9'*, 9'i>i — <f>p)xy + 2 (q>'b. + 2 (<p'c. — <p'y, <p'a. —<p'a)zx = 0.
+(14)
+Rovnice tato vyjadřuje obecně kužel 2. řádu, mající střed svůj v bodě O a spojující kružnice, v nichž seče Q koule K, K'. Tyto kružnice, ležíce na Q si přísluší inversí vzhledem ku kouli O, která seče všecky koule vytčeného komplexu orthogonálně, majíc svůj střed v O a poloměr Yp. Z toho vychází, že i K, K' si přísluší touto inversí, což jest již patrno z toho, že rovnice páru kulového K, K' (8) resp. (9) jest homogenní a vyjadřuje tudíž plochu anallagmatickou rozkládající se v koule K, K'.
+6. Hledáme-li ale průsek s koulí KA, tu příslušná plocha kuželová (13) degeneruje v pár rovin imaginarných, protínajících se v přímce plt která seče kouli Kj = O v bodech jejích dotyčných s koulemi K, K'. Následkem toho diskriminant rovnice (13) rovná se nulle. Derivuj eme-li rovnici tu po sobě dle x, y a z, obdržíme rovnice tří rovin:
+^i = (9'ai — 9'» 9'*i — 9>«i) x + (9at — 9n,      — 9h) y
+IX. ﻿Rz = (<p'b. — <p'bl, g>;. — <p'ai) x
+'bi — <jpi„ qp^ — g>fct) y
++ (Ti* — Tfr>, <P'Ci — T*) 2 = 0,
+&? = (TCJ — TCI, Táť — Ta.) * + (TCÍ — Tet, T&ť *— T&I) y
++ (Tfj — T'i> Tq — Té,) 2 = 0-
+Roviny tyto se protínají v přímce pv
+Násobíme-li v každé z těchto rovnic v každém determinantu poslední sloupec příslušně veličinami x, y resp. z a sečteme-li pak ty tři determinanty v každé z těchto rovnic se vyskytující, obdržíme
+A
+A
+A
+Té. —
+—K, O
+O
+o o
+v       ir s —    i
+K,-K, O
+aneb kratčeji
+= o,
+= 0,
+= 0:
+7. Zavedme nyní specielní soustavu souřadnou.
+Středy 5l( 52, S3, 54 daných koulí KÍ = O stanoví čtyřstěn. Hle-dáme-li, jako zde tomu jest, body dotyku koulí K, K' s koulí Klf zavedme za osy souřadné x, y, z kolmice s bodu O na roviny Sx 52 53, S1 S.2 54, Sx S3S4, kteréžto osy jsou potenčními přímkami koulí Kj, K2, K3; Klf K2, K4; resp. K!, K3, K4, takže rovina y z jest rovinou potenční koulí Kj, K4; rovina z x koulí Kj, K3 a rovina x y koulí K,, K2. Poněvadž pro libovolný bod P (x, y, z) znamenají
+3 (p (x, y, z)           3 <jp (#, y, 2)           3 qp (x, y, z)
+2 y
+a z
+IX. ﻿dvojnásobné délky průmětů orthogonalných vektoru 0 P na osy x, y, zt proto jest v soustavě souřadné právě zvolené
+pročež obdržíme pro roviny RÍ tyto:
+0.
+když klademe
+= O, &, = O, R3 = O jednodušší rovnice r21,    r31,    O
+^>      T32>      *1 T""OQ.          v.      .LI
+°.      T21.      r41> •o,         O,       T
+""i1>      T23>      ^43'
+0
+0.   P,
+0
+*                    T           T           l
+' 1 •> i              ''OO ,          ť  1Ot          J      -O
+.L - '                O_'            46'                   U
+Oř    P
+'13'         VJ      T43'     x ]3
+T-       OP
+'i/l.         Coi.          "".      -í-ii
+= o.
+14
+= (SPÍ. — SPÍ,)*.
+(16)
+Vyčíslením determinantů zde se vyskytujících nabudeme rovnic
+*18
+(15J
+*M  == r!3 (        r!2 r34    l    r!3 T24         rll r2s) •íl    '    r-2 (r!2 r3'l         T]3 T24         T14 r23/ *
+r34         T13
+T r!2 (r12 T34         r!3 T24         T14 r23' -*14 == ^>
+r   -t
+14   34
+T13 r24 -f- ^14 ^23) *a
+Cyklickou záměnou  indexů  4, 3, 2, 4 přecházejí rovnice ty samy v sebe, totiž (15,) v (152), (152) v (153) a (153) v Z rovnic (152), (15a) plyne
+p   . p   . p   _
+* 12 ' •* 13 • ""* 14 ~
+12    34          !3
+12 T34 + T13
+r
+l4   3
+12 (r!2 r34 - r!3 r24 -
+34          ló    24
+IX. ﻿Klademe-li
+i4
+— 2
+— 2 r12 r34
+13
+—        (^12 4; H~ ^13 ^24 + ^14 ^23)  (        ^12 ^34 + ^3 ^24 + ^14 4s)
+(^12 ^34         ^13 ^24    l    ^14 ^23 )  ^12 ^34 ~Í"" ^13 ^24         ^14 ^2»)
+a  vyjádříme-li poměry minorů v uvedené matici,   bude pro Q jakožto libovolný proporcionální součinitel
+Q Pi2 = — *n N>    QPu = — *iz *n N>    9 Pu = ~ *is rw N-Obdržíme tudíž přímku pl též jakožto přímku společnou rovinám
+12
+12
+*18          ř!3~           ^14          řH             ^14          *u
+Rovnice ty lze se zřetelem na rovnice (16) psáti;
+(17)
+^3 =  (<P'e. — Ve,} tu~ Z — (<?'„< —^ t^ X = P„ ^'2 — PU ^ = O,      (18) P2 =   (^a — 9»6i) *142 V — (<?at ~ ^) ^132 ^ = ^13 ^142 ~ Pli ^2 = °-
+Pro přímku průsečnou ^ těchto rovin obdržíme na př. z rovnice druhé a prvé
+x : y : z —
+čili
+tu-
+-----<f'ai       <pí>, -----fpbi        9>c, -----
+(19)
+Tím jest přímka pl stanovena.
+8. Výšky čtyřstěnu S1 S2 S3 S4 značme příslušně VL, v.^, v3, w4 a berme za kladné neb záporné, jdou-li od vrcholů, z nichž vycházejí počínaje ve směru kladném neb záporném zvolených os souřadných, aneb naopak volme kladné směry os souhlasně se směry výšek v^, v3, vz, pak bude
+/ 2    / 2    / 2 1/j      13      *2
+(20)
+Na základě této úměry lze pl též, snadno sestrojiti. Jinou konstrukci obdržíme, když si ještě zbývající roviny potenční koulí Kt = O vyjádříme. Jest obecně
+Pik = KÍ — Kk = (qp;A — <p'a.) x + (<]p a ježto v našem případě
+IX. ﻿proto bude
+čili
+10
+=  (Ti. — 9«) * — (<#, — <)Pci)  Z = 0,
+= (T^ — g>i.) -v — (g?*, — qpfr.) v = °,
+_ p     _ p       _p    _ o        P     _ P
+r      — *M         *M —  U>            ^24 — *
+-P    — P      -P    — O
+•'     — *         *     — u-
+23
+12
+(21)
+Označme rovinu P^} = O krátce P(i) a stanovme dvoj poměry vyskytujících se zde rovin. Nejprv bude přihlížíme-li k prvním rovnicím v (18) a (21)
+/    2 CP     p     p   p    \   —      12
+\ •*- 12      13       l       23'   —
+a obdobně
+14
+Roviny, které do dvoj poměru (P12 P]3 P4 P^) vcházejí, protínají se v ose potenční ploch K1 = O, K2 = O, K3 = O, která jest kolmá k rovině 5t 52 53. Kolmice s bodu Sj k těmto rovinám leží tudíž v rovině •Si 52 5s- Jsou to přímky Sí 52 J_ P12, Sl S3 J_ P13, s4 J_ P4, s^ \\ S2 53.
+Následkem toho jest
+/ 2 1                         —    12
+Sestro jíme-li tudíž na S2 53 bod G4 tak, aby
+bude rovina P4 položená bodem O normálně ku přímce SlGl obsahovati přímku hledanou pv
+Sestrojíme-li dále na přímce 53 S4 bod G.2 tak, aby
+9   C   • 9   C   __ /   2 • /   ° °3 ^2 • °4 ""iS — ř!3    • *M  »
+následuje z toho vzhledem ku třetímu z dvoj poměrů právě vytčených, že rovina P2 bodem O, normálně ku přímce Sx G2 položená obsahuje taktéž pr Konečně z druhého dvoj poměru vychází*
+i 2
+(^14 ^12 ^3 ^24'   — ~r~7 . ř!2
+a tedy jest rovina P3 bodem O vedená a obsahující pl kolmá ku přímce 5A G3, při čemž G3 leží na 54 52 tak, že
+IX. ﻿11
+Poněvadž (52 S3 G4) (53 S4 G2) (54 S2 G3) = l, leží body Glt G2, G3 na přímce gt a přímka p1 jest normála s bodu O na rovinu 5X gj.
+9. Zavedeme-li nyní parallelní soustavu souřadnou mající svůj počátek v Sx a za osy x, y, z přímky S1 S.2, Sí S3, Sj 54 tak, že kladné směry os směřují od vrcholu Sí k vrcholům 52, S3, S4, mají vrcholy následující souřadnice:
+51   . . . (O, O, 0),
+52   . . . (dn, O, 0),
+53   . . .  (O, da, 0),
+54  . . . (O, O, rf14),
+a body G4, G2, G3 mají souřadnice
+G4 . . . (    Tl^12    ,       ~ ^_2 ^13 ,   G),
+^   r!3        T12            r!3        r!2           '
+*U         T13             *14
+r!4 ^12         Q           T12'
+14
+'13        '14
+Ti* /
+Následkem toho jest rovnice roviny S1
+aneb
+x,             y,
+r!3 ^12'            T12 *tt»
+14
+2
+O
+; 13
+- O
+y
+z = 0.
+^12
+rit
+Uzavírá-li normála s bodu  S1 na Sjgj   s osami souřadnými úhly |, ř, S, jest
+cos | : cos i? : cos g = -p-: -^-: -~ . Můžeme tudíž přímku p± sestrojiti též následovně.
+Sestrojíme úsečky
+/ 2      / 2
+fctO                Í-1Q
+""'
+z Sl vycházející na př. tak, aby
+každá směřovala příslušně ve smyslu S2 Sít S3 Slt 54 5X neb opačném podle toho, je-li í122, ^132, resp. íl4'2 kladné neb záporné; v koncových bodech úseček těch klademe roviny normálně ku 5X S2, Sl 53, Sj 54, které se protnou v jednom bodě L,; pak přímka pt jest rovnoběžná ku 5X Ev
+Analogické úvahy a konstrukce platí pro přímky />2, p3, />4, spojující body dotyku sfér K2, K3, K4 s dotykovými plochami kulovými K, K'.
+10. Zaveďme nyní soustavu souřadnou, mající Sí 52 53 54 za souřadný čtyřstěn, jeho těžiště za bod jednotkový a tudíž nekonečně vzdálenou
+IX. ﻿12
+rovinu za rovinu jednotkovou. V soustavě této jsou rovnice rovin 5j glt S2 gi> ss &> S4 ft> kolmých ku plt p2, p3, L4 příslušně:
+*
+T21 X\
+'41 Al
+12
+14
++     *
+^23 ^3
+= o, = o,
+(22)
+42
+H~ T
+43
+4-   *     =0.
+Součinitele TU,  v rovnicích  těchto  obsažené   jsou zároveň  souřadnicemi přímek g1; g2, g3, g4; determinant
+A =
+O
+O
+fM
+T.,.
+ze souřadnic  těch utvořený jest  symmetrický,  ježto T^ = rki,   z čehož plyne, že přímky gv g2, g3, g4 mají polohu hyperboloidickou.
+Každá rovina čtyřstěnu souřadného seče hyperboloid obsahující přímky gv g2, g3, g4 ještě v jedné přímce spojující průsečíky její s oněmi třemi z přímek glt g2, g3, g4, jež nejsou v rovině té obsaženy. Označme přímky ty příslušně qlt q2, qs, q^. Tak obdr>íme body, v nichž g2, g3, g4 sekou rovinu 52 53 54, kladouce do 2., 3. a 4. rovnice (22) xl = 0. Tím obdržíme body, jejichž souřadnice jsou dány schématem:
+*1	x2	X,	*'l
+0 0 0	0	-^24	^23
+	~~ T34	0	^32
+	T34	^42	0
+Pročež mají roviny S1 qv  S2 q.2, S3 q3, S4 q±, resp. přímky qv q2, q3, v příslušných rovinách souřadných rovnice
+13
+•ť *24 r23 x
++           \/
+T^
+r!4 T12 ^1       ~f"" T24 r21 ^
+T-y      -V""           J_    if      f       •V
+1O   •» 10   -^l            l        •* Ol    & OO   ""*
+lo        lů        l           '        ál        —•»
+l
+\    r43 r41 ^4 ==
+(23)
+Vyloučíme-li z prvních rovnic v (22) a (23) x2, a klademe-li v druhé z rovnic (22) xí = x2 = O, obdržíme paprsky z 52 vycházející a směřující k průsečíkům přímky qv s přímkami glt . ., g4:
+23
+!2
+r!3 r2l
+12
+IX. ﻿13
+z kterýchžto rovnic plyne
+(gi 82 83 L4) = (& L3 L2 L1) =
+34
+T12 r34
+(24)
+Hyperboloid (gx g2 g3 g4) má stěny souřadného čtyřstěnu za roviny tečné. V jeho tangenciální rovnici budou proto scházeti členy obsahující čtverce proměnných souřadnic. Souřadnice nk rovin tečných (22) vyhovují této rovnici, rovněž souřadnice r« r« rovin tečných (23), konečně i souřadnice rovin, jejichž rovnice obdržíme, když k rovnicím (22) přičteme příslušně xv x2, x3, x±. Tím dojdeme k rovnici řečeného hyperboloidu
+o
+!3
+13
+uz u3>
+F12 r!3>
+O,
+T23> O,
+0.
+M-2
+r!21
+'24.
+T23 r34>
+= 0.
+Vyčíslíme-li determinant ten podle prvků prvého řádku, při čemž sluší poznamenati, že cyklickou záměnou indexů rovnice příslušná přechází sama v sebe, tak že jest nutno pouze polovici minorů těmto prvkům příslušných počítati, dojdeme krátíce ještě součinem r12 r13 r^ (r13 r24 — — ri4r23)> k následující rovnici uvažovaného hyperboloidu.
+23
+= 0.
+11. Roviny S/g/ tvoří čtyřstěn (I II III IV), při čemž značíme L vrchol jeho protilehlý stěně 5; g/. Řešením rovnic (22) seskupených po třech dle xk obdržíme souřadnice x^ vrcholů L, pro něž tedy obdržíme následující schéma:
+*a(4)=*is(— r
+13
+3  == T12
+12
+34
+24    14 24   rl4
+*4    — 2 r12 r131^,
+r (2) — r *ť     —r:
+34
+T  T
+12 34    13 24
+T T
+14
+= — 2
+= T12 (-
+,_____2 r
+2 Ti4 ra
+r!2 T34
+= 2 r13 r14 r34,
+— r
+!4
+24 l
+34
+34
+23
+34
+!4
+!4
+14
+Z těchto souřadnic snadno můžeme souditi o významu rovin   (15j),
+Především jest
+(15')
++
++ V
+= 0.
+IX. ﻿14
+Budiž dále Vi výška čtyřstěnu S± S2 53 S4 příslušná vrcholu Sť a kladný smysl její nechť směřuje od Si k protilehlé stěně, dále označme kolmice z počátku O na roviny 5X 52 53, SL S2 54, Sí 53 54, jež jsme dříve značili x, y, z, nyní A""4> X3, AT2 a berme je kladné v kladném srny 1ti výšek Vi. Pak přecházejí rovnice (16) v
+p 9 —__Vít x.^   P13 =__v3 X3,   Pu —__i>4 A""4
+a rovnice (15')  v
+^> vz X2
+= O, = O, - 0.
+Jelikož jsme zvolili těžiště čtyřstěnu souřadného za bod jednotkový, jest obecně x^ vk čtyřnásobná vzdálenost bodu L od stěny jeho protilehlé vrcholu Si. Označíme-li tuto vzdálenost dkW nabudou rovnice rovin Rt = O, R2 = O, R3 =•• O jednoduchého tvaru následujícího:
+A'
+4 = O,
+4 = O, '4 = 0.
+(15"")
+Přímka L S/ uzavírá s rovnoběžkami ku osám X2, X3, A""4 bodem L vedenými úhly, jejichž kosiny jsou úměrný hodnotám 8^, ď3(/), ď4(/); ježto ale, jak z rovnic (15"") patrno, též normály ku rovinám (15"") z počátku O spuštěné uzavírají s osami X2, X3, X^ úhly, jejichž kosiny těmže hodnotám jsou úměrný, plyne z toho, že Rt = O, R2 = O, R3 = O jsou roviny normálně ku přímkám S1 IV, 5\ III, Sl II.
+Obdobné  výsledky  plynou  cyklickou  záměnou  pro  určení  přímek
+Pí>   P3>   Pf
+Souřadnice přímek 5X I, S2 II, 53 III, 54 IV, resp. jejich bodů prů-sečných s protilehlými stěnami čtyřstěnu souřadného jsou dány schématem
+0.    —
+o
+Poněvadž ale z hodnot dříve vypočítaných pro xkw plyne, že
+ri <•)-------h Jti<*)
+'VA'                  '      •*!       )
+tak, že poslední determinant jest symmetrický, proto jsou přímky řečené opět v poloze hyperboloidické, což ostatně plyne ze známé věty, že spojnice příslušných vrcholů dvou čtyřstěnů jsou v hyperboloidické poloze, když jsou v takové poloze průsečnice protilehlých stěn. Dvoj-pomér přímek těch bychom vypočítali, kdybychom si na př. vyjádřili
+IX. ﻿15
+rovnice rovin 5t 54 IV,  SjSglII,  5t 52 II a roviny spojující jejich prů-sečnici s přímkou S1 I.   Obdržíme opět
+(S1 I, 52 II, 53 III, S4 IV) =
+r12 734
+T12 r34    l
+'13
+jako pro přímky g<.
+12. Naše úvahy vedou nejprv k následující konstrukci: Označme dané koule v libovolném uspořádání Klf K2, K3, K4 a jejich středy tudíž Slt S2, S3, 54. Sestrojme na př. nejprv body C3, C4 na St Sa tak, aby (Sj S2 C3) =
+'i -^2 Q) — ~~^~ > dále bod D3 na 5j S4 tak, aby (Sj 54 D3) =
+'' 23
+'43
+bod ^ na S2 S3 tak, aby (52 53 A) = —— a konečně bod Bl na S3 S4 tak,
+r31
+**
+aby (S3 54 5X) = —^-. Jest pak gt = A1 B± a přímka pl jest kolmá k rovině Sl gx; dále jest g3 = C3D3 a přímka />3 jest kolmá k rovině S3 g3.
+Přímka A± B1 nechť seče S2 54 v bodě Clt přímka C3 D3 nechť seče 52 54 v bodě L""3. Tím jsou dány přímky g1; g3 řady jedné na hyperboloidu (gí g2 g3 g4); přímka e2 = B1 D3 náleží mu jakožto přímka řady druhé v rovině S1S3 54, která se hyperboloidu dotýká. Průsečík této přímky s Sí S3 označme L4. Tím obdržíme v C4 L""4 další přímku g4 a přímka />4 jest kolmá -ku rovině 54 g4. Průsečík přímky g4 s 52 53 označme F4. Tím dospíváme ku přímce eí^=E3F^ řady druhé, která seče 53 S4 v bodě, jejž označíme F2. Dále jest e^ — A^ C3 přímkou hyperboloidu z řady druhé a seče 5,53 v bodě D2. Pak jest konečně gz=F2D2 a přímka p2 jest kolmá ku rovině S2 g2. Seče-li g2 přímku 5X 54 v bodě E2 leží body Clf C4, E2 na přímce e3 řady druhé.
+Takto jsme všecky body dotyku s danými koulemi stanovili.
+13. Jde-li o to, stanoviti spolu středy ploch kulových dotykových, bude výhodnější pokračovati následovně. Sestrojíme nejdřív průsečnici g12 rovin S1 g1; 52 g2 na př. tak, že stanovíme na 5X 53 a S1 S4 body A2, B2
+na   základě   poměrů   dělících   (5X S3 A2) = — — , (S1 54 Bz) =
+""42
+dále na
+52 53 a
+54 body Aj_, B{ na základě dělících poměrů (52 53 A±) =
+přímky
+se  protínají   v bode  A12, přímky
+12, B1Z.
+5j Bv S2 B2 v bode B12; přímka g12 jest spojnicí těchto bodů A^
+Středem potenčním O klademe pak rovinu G12 kolmou ku přímce g12. Rovina ta obsahuje obé přímky plt p2, z nichž první jest kolmá k rovině 5t A1 Blt druhá k rovině 52 A2 B2. BucTtež kv kz kružnice, v nichž rovina ta seče koule Kj a Ka; přímka p± nechť protíná kružnici Lx v bodech Uly F1; kružnici k2 v bodech U2, F2. Hledané koule dotykové K, K' nechť jsou proťaty rovinou tou v kružnicích k, k'. Přiřadéní těch bcdů do-
+IX. ﻿16
+tyčných k sobě jest zřejmé z toho, že k a k' se dotýkají obou kružnic klt kz a sice obou stejným způsobem, t. j. obou vně neb vnitř, je-li r12 = d12* — (PJ — r2)2 a nestejným způsobem, je-li tr12 = íž122 — (^ + r2)2. Mimo to, má-li se & dotýkati kružnic klf k2 v bodech UltUz, k' v bodech Fj, F2, musí jak spojnice U^ U2, tak spojnice Fx F2 procházeti dle známé vlastnosti bodem podobnosti kružnic kv k2 a sice týmž bodem podobnosti, který pro prvou hodnotu r12 jest vnějším, pro druhou hodnotu vnitřním bodem podobnosti. Tím jest přiřadění zmíněné stanoveno.
+Poněvadž kružnice k, k' jsou k sobě inversní vzhledem ke kružnici stí edu O, v níž G12 protíná kouli orthotomickou k daným plochám Kf = O, proto jest bod O středem podobnosti kružnic k, k' a leží tudíž na přímce, která spojuje jejich středy K12> KÍ2. Vedeme-li středy těmi rovnoběžky k12, kí2' ku g12, budou tyto obsahovati středy 5, 5' hledaných koulí, kteréžto středy budou zároveň ležeti na poloměrech U1L 51; U2 52, resp. Vl SlŤ F2 S2 a zároveň bude spojnice jejich procházeti bodem O, což vychází také z toho, že ř/j FL jest stopou do G12 pro rovinu 5j S S' a U2 F2 stopou pro rovinu 52 5 5'. Obě roviny se protínají v přímce 5 S', která má svou stopu v průsečíku O stop Ut Vlt U2 F2. Takto jsou hledané koule dotykové zcela určité a víc než dostatečně stanoveny.
+IX."

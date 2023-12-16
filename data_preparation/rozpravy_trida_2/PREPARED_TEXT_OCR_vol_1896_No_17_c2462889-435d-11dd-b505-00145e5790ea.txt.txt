@@ -1,0 +1,533 @@
+"","x"
+"1"," ﻿ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO 17.
+
+
+jisté arithmetické větě Zolotareva.
+
+
+Sdílí Lerch. Předloženo dne 13. března 189ÍJ.
+
+
+Roku 1872 uveřejnil znamenitý ruský mathcmatik Zolotarev nový důkaz zákona reciprocity zbytků kvadratických,*) jenž spočívá úvahách kombinatorických jemuž slouží základ velmi zajímavý theorém. Abychom jej stručně vyslovili, uvažujme kmenné číslo rady
+
+
+,2, ,.../— utvořme rozmanité permutace. Jeli
+
+
+jedna těchto permutac, znamenejme počet inversí vyskytujících nazveme číslo 1)"" známkou (caractére) její.
+
+
+známo základů nauky determinantech, známka jest -f~ neb dle toho, jeli počet transposic, které základní permutaci provésti třeba, aby vyvolala permutace (/'), sudý neb lichý. Pak zní věta ona takto:
+
+
+Budiž celistvé číslo kmcnným číslem nedělitelné nahradímeli řadě
+
+
+(1) L,2/M^,...O 1)*
+
+
+každý člen jeho nejmenším kladným zbytkem vzatým dle modulu vznikne
+
+
+permutace Čísel jejíž známka rovná znaménku Legcn-
+
+
+drcaint
+
+
+
+
+
+Nežli vyložíme důkaz tohoto theorému, přihlédneme jeho důsledkům.
+
+
+Znamenejme pro libovolnou kladnou veličinu symbolem [Jř] její zv. celky, takže pak výraz
+
+
+»(D»t— [i]
+
+
+slouží označení nejmenšího kladného zbytku, jejž obdržíme odečtením nejblíže menšího čísla celistvého.
+
+
+Nouvelle démonstration loi réciprocité Legendre (Nouvelles Annales Mathématiques, 2me série, torné XI, 1872).
+
+
+Rozpravy. Ročník Třída II.
+
+
+XVII ﻿Uvažovaná právě řada sestává členů, které děleny poskytnou veličiny
+
+
+veškery inverse řady této pocházejí záporných rozdílů
+
+
+
+
+
+Avšak rozdíl (|) (L') zbytků dvou veličin případe jest kladný neb záporný, jeli výraz [L] [!'] L'] rovný neb tedy -značili nám sgn. znamení veličiny máme rovnici
+
+
+takže každá inverse řady (la) odpovídá záporné hodnotě výrazu
+
+
+rrfci rvrtc-i rv—v1 ,-|
+
+
+ev,v,^(_l)LTJ -^J fJ, (r>/=?l,2,,../—2).
+
+
+Veškery tyto výrazy dlužno vespolek násobiti, aby obdržela známka uvažované permutace (la). Věta Zolotareva redukuje tedy tvrzení
+
+
+Mocnitel zde hodnotu
+
+
+substituci máme však
+
+
+r7' ""l
+
+
+tedy vyjde
+
+
+Poněvadž pro členové součtu prvního jsou čísla sudá, zřcjrno, zbývá
+
+
+tedy obdržíme rovnici
+
+
+
+
+
+(2) (J-J (-!/
+
+
+jakožto první důsledek věty Zolotareva.
+
+
+XVII.
+
+
+﻿Užijeli vzorce*)
+
+
+(-l)[2*] sgn. ;?(*),
+
+
+němž R(x) značí absolutné nejmenší zbytek, jenž vznikne veličiny odečtením nejblíže ležícího čísla celistvého, takže
+
+
+obdržíme známou rovnici**)
+
+
+Porovnámeli výraz (2) výrazem odjinud známým***)
+
+
+obdržíme shodu
+
+
+
+
+
+
+
+
+
+
+
+^'l 'P""1 /«-i -^-s—P-
+
+
+
+
+
+Úvahu předešlou považovati lze verifikaci věty Zolotareva. Stejnou roli hraje úvaha následující, která vede nové vyjádření znaménka Znamenejme determinant
+
+
+'-""
+
+
+
+
+
+X/* buď determinant, jenž něho vznikne dosazením prvků a^\ prvky aj^, čemž index /í-y dlužno redukovati jeho zbytek modulo Pak bude podle Zolotareva
+
+
+*-(?)-•
+
+
+Patrno, obdržíme nové vyjádření znaménka (-'- volímeli vhodně Prvky determinantu zvolíme
+
+
+dle Vzorec ten Plyne okolnosti, rozdíl [2*] [*] rovná nulle neb jedné, toho, jeli je(jt) kladné neb zápornéi
+
+
+***! ^ronecker, Sitzungsberichte der kón. preuss. Akad. Wiss., 1884, 519. ^rov. Jornal Sciencias mathematicas, vol. IX, 137.
+
+
+
+
+
+XVII. ﻿lni
+
+
+kde značí komplexní jednotku kruhodílnou pak bude
+
+
+
+
+
+poněvadž vyjádříme jako racionalnou funkci (co) obdrží Skutečně jest
+
+
+čili při označení
+
+
+1)...
+
+
+
+
+
+
+
+
+Máme tedy
+
+
+poněvadž však
+
+
+vyjde
+
+
+Avšak
+
+
+ca""—
+
+
+kVTl
+
+
+sin
+
+
+VTt
+
+
+sin-—
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+
+
+tedy exponent posledním výrazu zní
+
+
+
+
+
+takže náš výsledek bude
+
+
+(4*)
+
+
+(fc
+
+
+P-Í
+
+
+
+
+
+VTt
+
+
+VJt
+
+
+sin
+
+
+XVII. ﻿Poněvadž běží pouze znamení, možno součinu pravé straně vynechati veškery činitele, nichž sudé, anyjsou vesměs kladné, zbývá tak
+
+
+(1=1, .../-2).
+
+
+Užijeli samozřejmé rovnice
+
+
+sgn sin ZTT sgn. (~\ obdržíme
+
+
+(5*)
+
+
+=1.3, .../-*),
+
+
+kterážto rovnice jest opět takmeř bezprostředním důsledkem theorému Zolo-tareva; užijeli vzorce
+
+
+sgn.
+
+
+vznikne
+
+
+(lí« l,3,5,.../—!>.
+
+
+Výsledek ten není nesnadno převésti rovnici (2), užijeli vztahu
+
+
+Předešlé úvahy platí pro libovolné celistvé číslo (složené), které jest liché nesoudělné číslem definujeli symbol jakožto známka permutace (la). Proto bude třeba studovati symbol
+
+
+(i)-'*-""""""
+
+
+němž značí celistvé kladné číslo liché, číslo nesoudělné, kladné neb záporné. Kronecker verifikoval vztah
+
+
+
+
+
+jak následuje.
+
+
+Činitele součinu
+
+
+(m-l)
+
+
+Nff\
+
+
+'^adme činiteli součinu (7) páry (//,//'), jichž přípony nacházejí sou-s|osti definované shodou
+
+
+(mód. >w).
+
+
+XVII. ﻿Odtud vychází
+
+
+
+
+
+tedy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sgn' -Z-)
+
+
+j..
+
+
+Znásobímeli tyto rovnice pro /j=l,2,3,...— vznikne
+
+
+čímž rovnice (8) verifikována.
+
+
+symbolu (7) dokázal dále Kronecker přímou verifikací zákon reciprocity
+
+
+němž značí taktéž číslo liché, kladné neb záporné, při čemž případě symbol
+
+
+
+
+
+značiti číslo
+
+
+\-n)
+
+
+Pro důkaz vzorce (9) ovšem nejprve předpokládá «>0, w^>0, načež rovnice (7) odvodí
+
+
+rovnice (8) pak plyne
+
+
+takže bude při
+
+
+m—l n—l
+
+
+čímž dokázán vzorec (9) obecné.
+
+
+Pomocí vlastností (8) (9) dokáže snadno vzorec další
+
+
+(10)
+
+
+
+
+
+\""T)=""
+
+
+pokud jest liché, jeli sudé 2"" tn° patrně
+
+
+takže zbývá jen ukázati správnost rovnice
+
+
+XVII. ﻿(2a\
+
+
+vyšetřiti,
+
+
+^2>\ fžO
+
+
+jeli
+
+
+liché, není nesnadno
+
+
+takže opět
+
+
+\a> V'2
+
+
+Jeli tedy a«=/,ffl«/a""a. rozklad čísla kmenné činitele, bude dle předeslaných vět
+
+
+
+
+
+symbol kryje znaménkem Legendrovým Jacobiově zobecnění.
+
+
+Tudíž platí věta:
+
+
+Rfduk*jiti čísla
+
+
+(lb) kSlk,$k,...(ín \)k
+
+
+nejmenU svoje kladné zbytky dle modulu vznikne permutace známce kde poslední symbol vzat smyslu Jacobiově. Při tom jest číslo
+
+
+liché kladné, libovolné.
+
+
+Stopujeli úvaha či. 1., shledáme, výraz
+
+
+udává známku naší permutace případě sudého jest však
+
+
+\\ím --2^-'H<r
+
+
+
+
+
+tedy máme větu:
+
+
+y^//' celistvé číslo nesoudělné 2m, vznikne řady
+
+
+redukcí všcck členů dle modulu permutace Čísel ,/V/VJ známka zni
+
+
+l)(ro-l)
+
+
+(-i)
+
+
+Budiž nám dovoleno reprodukovati tomto miste důkaz, jejž svém -il 'ladním theorému podal Zolotarev pro případ kmenného
+
+
+Buo"" základní kořen pro modul (racine primitive nombre ^), celistvé číslo, jehož mocnosti
+
+
+XVII.
+
+
+jsou modulo různý, takže každá nich representuje jednu třídu modulo Zvolme nyní exponenty r,,^... tak, aby řada
+
+
+
+
+
+(A) i,«*,«*,...ár>
+
+
+redukci přešla permutaci základní číslo shodou
+
+
+(mód. budou čísla
+
+
+Určili pak
+
+
+pořadem shodná čísly L,2L,3L, Patrně vznikne permutace (B) základní (A), podrobili tato sobě jdoucím cyklickým záměnám, což vyrovná f(j> transposicím, toto číslo číslem stejné parity. Známka permutace (B) tedy shody
+
+
+
+
+
+(mód.
+
+
+plyne pak poněvadž pro sudé /""jest kvadratickým zbytkem
+
+
+dle/, jest nezbytkem případě lichého/. Tím věta dokázána přímo zřejmo, může postavena býti čelo theorie kvadratických zbytku.
+
+
+XVII."

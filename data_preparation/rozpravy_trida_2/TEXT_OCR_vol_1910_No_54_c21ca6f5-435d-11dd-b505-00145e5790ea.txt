@@ -1,0 +1,92 @@
+"","x"
+"1"," ﻿ROČNÍK  XIX.
+TŘÍDA II.
+ČÍSLO 54.
+O poloměru křivosti drah vytvořených libovolným pohybem neproměnné rovinné soustavy.
+(Dodatek.)
+(S pěti obrazy v textu.)
+Napsal Miloslav Pelíšek,
+řádný professor c. k. české vysoké školy technické v Brně. (Předloženo dne 28. října 1910.)
+Budiž o okamžitý střed otáčení, s, S středy, r, R poloměry hybné a pevné kružnice, pak opíše každý bod p spojnice s, vS kotálnici, jejíž střed křivosti označíme n a tedy poloměr křivosti pit = SR; pak jest tento určen, označíme-li ještě po = Q, rovnicí:
+Rr
+Body p. . . . n . . . . tvoří dvě projektivně řady, jež mohou býti určeny následujícími prvky:
+Je-li 'Si — o, splynou-li tedy P a n v dvojný bod, musí míti QZ — o aneb QIZ = + o, z čehož soudíme, že oba reálné dvojné body uvažovaných projektivních řad se stotožní s okamžitým středem otáčení o.
+Stotožní-li se opisující bod p se středem s hybné kružnice, jest p = r a tudíž:
+«=-
+Rr
+= ±(R±r),
+R
+což značí, že střed křivosti n se stotožní s bodem S.
+Rozprava: RoC. XIX. Tř. II. Čís. 54.
+LIV. ﻿1.
+\
+Uvažované řady jsou tedy určeny okamžitým středem otáčení o, v němž se stotožňují oba reálné dvojné body řad, a středy s, S jakožto třetí dvojicí. K danému bodu p sestrojiti příslušný střed křivosti TT značí tedy konstruovati neb doplniti tyto řady.
+Promítneme-li dvě libovolné projektivné řady aíb1cl. . . . azbzc.2 . . . ., jež leží na přímce P, ze dvou libovolných bodů m, n, jež neleží na této přímce, obdržíme dva projektivné svazky m (a^ bv q) TC n (az b.2 c2); tyto vytvořují kuželosečku k procházející body m a n jakož i prusečníky sdružených paprsků x = mat • na.,, y = mb^ • nb», z = mc{ • nc2. K danému bodu p-L na P se pak určí sdružený p.2 následujícím způsobem:
+Veďme spojnici mp^ a vyhledejme známým způsobem její průsečník u s kuželosečkou k; pak protíná spojnice nu přímku P v hledaném bodě p.2. Jest patrno, že kuželosečka k prochází dvojnými body daných projek-tivných řad. Jsou-li dvojné body reálné a nekonečně blízké, bude se kuželosečka k dotýkati přímkv P.
+Stotožíiují-li se však oba reálné dvojné body v dvojbodě o, má kuželosečka k v tomto bodě též dvojný bod a rozpadá «e tedy ve dvě přímky, jež se protínají v bodě o. Z toho plyne, že v tomto případě nemůžeme1 voliti body m a n libovolně (Obr. 1), nýbrž na nějaké přímce /, jež prochází bodem o. Přímk}' •m s, nS se protínají v bodě u, jenž náleží též kuželosečce k; tato se tedy rozpadá ve zvolenou přímku mon = I a přímku ou = II. Vedeme-li nyní mp, jež protíná ou v bodě v, jest v bod kuželosečky A', a. spojnice nv protíná tedy přímku sS v hledaném středu křivosti x.
+Máme tedy následující velmi jednoduchou konstrukci středu křivosti ve vrcholu kotálnice, kterou lze provésti pomocí jediného pravítka'
+mžít ý m s t ř e d e ni otáčení véd cm e libo v o lnou ]) říčku /, na k t e r é zvolí m e d v a libovolné b o d y m. n. pak v e d e m e ms, nS, jež ? e protínají v bodě u. P a k v c d e m e ou — II, spojím e <: p i s u j í c í bod p s vrč h o l e m in a průsečík v této spojnice ;i přímky ou spojí m e s vrcholem n; pak p r o t í n á spojnice nv nor m á l u po ve středu křivosti TC.
+Jest patrno, že můžeme jednotlivé části obrazce sestrojiti v jiném pořadí, aniž by konstrukce pozbyla platnosti:
+Ok
+LIV. ﻿Zvolíme-li totiž (obr. 1.) obě přímky I, II rozpadající kuželosečky k libovolně a na první z nich libovolně bod m, protíná spojnice ms, druhou přímku // v bodě u, a spojnice uS protíná pak / v bodě n. Pak vedeme jako dříve mp, jež protíná uo v bodě 7;, a konečně, vedeme vn, jež protíná PO v hledaném středu křivosti n. Zvláštním případem této konstrukce jest známá velmi jednoduchá konstrukce H a r t m a n n o v a1), které též užíval R e u l e a u x.
+2,.
+Tato konstrukce jest při našem označení následující (obr. 2.):
+VecTrne společnou tečnu / v bodě o ku hybné a pevné křivce a mimo to libovolnou trans v ersálu//bodem o. Bodem s v e dm c rovnoběžku ku přímce/, jež protíná // v bodě u; spojnice uS p r o t í n e j ž / v bodě n. Pak vecfme bodem p rovnoběžku ku /, jež protíná // v bodě v; spojnice vn prochází pak hledaným středem křivosti TT.
+Jest patrno, že tato konstrukce jest zvláštním případem předcházející, při čemž rozpadající kuželosečka k jest zvolena tak, že přímka / jest kolmá ku sS, a na ní jest zvolen bod m v nekonečnu, kdežto druhá přímka // jest zvolena libovolně.
+Předcházející obecnější konstrukce jest z toho důvodu jednodušší než tento zvláštní případ, poněvadž při ní není třeba vésti ani kolmici ani rovnoběžky.
+Na základě této konstrukce lze též snadno sestrojiti centrálně body obou projektivných řad, jež jsou pólem obratu neb vratu Bressových kružnic.
+Vedeme-li (obr. 3.) bodem m rovnoběžku ku sS, jež protíná přímku // v bodě x, prochází spojnice xn pólem vratu ď.
+Rovněž tak (obr. 3.):
+Vedeme-li bodem n rovnoběžku ku sS, jež protíná // v bodě y, prochází spojnice my pólem obratu q.
+l) W. Hartmann:  Ein neues  Verfahren zuř Aufsuchung děs Knimmungs-ftreises. Zeitschrift děs Vereines deutscher Ingenieure, Band XXXVII., p. 95—101.
+LIV. ﻿Z podobností trojúhelníků v obrazci se vyskytujících jest patrno od = oq.
+Nejsou-li dány základní a hybná křivka kotálení direktně, je-li však rovinný pohyb určen dvěma podmínkami, lze vždy sestrojiti okamžitý střed otáčení a kružnici obratu neb vratu, jak jsme seznali z příkladů .1—12 předcházejícího pojednání.
+Projektivně řady na hlavní normále jsou pak určeny okamžitým středem otáčení o, se kterým se stotožní oba reálné dvojné body řad; dále buď pólem obratu q a bodem v nekonečnu aneb pólem vratu d a bodem v nekonečnu.
+Předcházející konstrukce jsou pak v platnosti s následující změno a:
+Zvolíme (obr. 4.) rozpadající kuželosečku 7, 77 a na 7 bod ni', spojnice mq protíná 77 v době M.   Bodem u vedeme ku qo rovnoběžku, jež protíná 7 v bodě n.   Spojnice mp protíná 77  v  bodě   v,   a   spojnice   vn protíná po ve středu křivosti x. Je-li  dán   pól  vratu á, jest konstrukce následující:
+Zvolíme (obr. 5.) rozpadající se kuželosečku 7, 77 a na 7 bod m, vedeme tímto bodem ku ďo rovnoběžku, jež protíná 77 v bodě u; spojnice úd protíná 7 v bodě n; spojnice mp protíná 77 v bodě v, a spojnice nv protíná po ve středu křivosti it.
+Protíná-li libovolná normála po kružnici obratu v bodě x neb kružnici vratu v bodě y, zůstávají patrně poslední dvě konstrukce beze změny v platnosti.
+Z konstrukce Hartmannovy (obr. 2.) lze též snadno odvodit základní vzorec pro poloměr křivosti pTt — 91.
+Budiž «3C sou = <p;   pak jest su = rtgq> a pv = Qig<p-Z trojúhelníků S0nf\>Ssu následuje, označímc-li on = x:
+Rr
+R : x = (R + r) : rtgy ,   tudíž :  x = -r------tgq>.
+S.
+Z trojúhelníků: non PVJ jtpv následuje: PH : pv = on : on   aneb:   9Í —
+Rr
+LIV. ﻿čehož plyne:
+_ R
+Jest tedy patrno, že lze též naopak z tohoto vzorce odvoditi konstrukci Hartmannovu.
+Z vlastností Bressových kružnic, jež jsme vyvinuli v předešlém pojednání, následuje pro sonmístné projektivně řady na přímce, jejichž reálné dvojbody sestotožňují, následující věta:
+V projektivných radách, jejichž reálné dvojné body se stotožňují, dělí centrálný bod první soustavy vzdálenost libovolného bodu první sou sta vy od s to to zněných dvoj bodů v témže poměru, ve kterém stotožněné dvojbody dělí vzdálenost libovolných sdružených bodů obou soustav; v témže poměru dělí též centrálný bod dru h é soustavy vzdálenost libovolného bodu druhé soustavy od stotož-n ě n ý c h d v o j b o d ů.
+Na počátku uvedeného pojednání poukazuje Hartmann k tomu, že výraz, který poskytuje differenciálný počet pro poloměr křivosti, totiž
+se stane v případech z praxe tak komplikovaným, že obyčejně nevede vhodně k cíli; mám za to, že výrazu, který jsem odvodil pro poloměr křivosti libovolné kotálnice, totiž:
+Rr
+-——- cosa
+muže býti v praxi v každém případě bez značných obtíží užito.
+Mannheim odvodil1) užitím jisté věty o transversálách na E u l e-rův obrazec, kterým se konstruuje střed křivosti libovolné kotálnice, následující vztah pro veličiny, jež určují kotálení:
+má
+Q — má
+R
+M
+RF / cosq>
+l) Viz: M a n nh e i m :   Cours   de   geometrie descripíive   2ířme édit. Paris 1886 p.   177.
+LIV. ﻿Tento vzorec, jenž není podstatně rozdílný od známého vzorce E u l e r-S a v a r y-ova1),   zní v našem označení:
+1+  4.      a
+V        $ — Q       \r
+coscc
+Považujeme-li v této rovnici, všechny veličiny mimo SR za známé, obdržíme pro neznámou 9í skutečně hodnotu:
+Rr
+V--Ř+VCOSK
+není mi však známo, že by byl tento explicitní výraz pro R již odvozen a upotřeben.
+Z konstrukce Kulérový lze ovšem také odvodit náš základní vzorec,. obdržíme totiž při našem označení :
+o 7t =
+r R o cos a
+-~. — -.--        =--(R + Ť) Q — Rrcosa
+,.  j<x    o»
+a  tudíž    9t = p -f o n =
+R.  M ii 11 e r užívá v druhé části svého pojednání2) na stránce 100. vzorce:
+Í>«, Q . siny
+Zavede-li se v tomto vzorci naše označení, lze po několika vhodných přemenácli též dospěti k základnímu vzorci pro 91 našeho pojednání.
+*) Viz: Dr. L. Burmester; Lehrbuch der Kinematik, Leipzig 1888. Erster Pand p. 125.
+*) Viz: R. Mu Her: V ber die Momentanbewegung eines starren ebene n Systems. Zeitschrift f. Math. u. Physik. Band 54. p. 96—102.
+LTV."

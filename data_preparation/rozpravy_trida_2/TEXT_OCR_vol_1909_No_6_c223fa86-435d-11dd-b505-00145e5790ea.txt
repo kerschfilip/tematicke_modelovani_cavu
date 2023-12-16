@@ -1,0 +1,411 @@
+"","x"
+"1"," ﻿ROČXÍK   XV I II.
+TŘÍDA II.
+ČÍSLO  (}.
+O vytvořování ploch druhého stupně,
+Napsal J. Sobotka.
+(Předloženo   dne   1.   ledna   190!).)
+I.
+Vytvoření  Mac Cullagh-ovo.
+1. V H. Schroterově knize „Theorie der Oberfláchen zweiter Ord-nung . . ."" (1880) nacházíme pěkně a jasně vyloženo vytvoření plochy druhého stupně dle Mac-Cullagh-a a dle Jacobi-ho, jakož i jednoduchou souvislost obou těchto zákonů výtvarných.
+Můžeme ale též jinou jednoduchou cestu zvoliti, abychom došli nejprv k vytvoření  Mac-Cullagh-ove.
+Za tím účelem vyjdeme od následujících dvou vět, z nichž první jest pouze zvláštním případem věty druhé.
+(1)   Budiž F libovolné ohnisko   plochy druhého stupně a p' příslušná inu -přímka řídící, pak kužel K, který má F za vrchol a obsahuje řez  m plochy s libovolnou rovinou přímkou  p' položenou, jest kuželem rotačním.
+Osou kužele toho jest tečna p v bodě 7'"" ku oné křivce fekální / plochy, která bodem F prochází, a p, p' jsou dvě k sobě normálně poláry plochy.
+(2)  Má-li kužel L za vrchol libovolné ohnisko F plochy druhého stupně ii prochází-li jakoukoli kuželosečkou n na ploše, pak přímka, která spojuje ohnisko F s bodem, v ncmž přímka řídící p' ohnisku F příslušná seče rovinu kuželosečky n, jest jednou osou jeho.
+1. Leží-li bod 5 v rovině A, jest místem bodů, pro něž poměr vzdáleností od bodu 5 a od roviny A má hodnotu stálou, kužel rotační. Při tom můžeme místo vzdáleností kolmých bodu od roviny A bráti vzdálenosti na přímkách libovolného ale stálého směru.
+Bod .S jest vrcholem kužele a osa jeho jest kolmá k rovině A.
+Tuto zřejmou větu plynoucí bezprostředně z vytvoření kužele rotačního můžeme považovati za onu větu, jejíž zevšeobecnění pro plochy
+Rozpravy:  Koř-. .XVI11. Tr. II. ( is. ti.
+_
+VI. ﻿druhého stupně jest vyjádřeno Mac-Cuilaghovým zákonem výtvarným ploch stupně druhého vůbec. Abychom to seznali, uvažujme kužel rotační K věty (1). Rovina Fp' jest kolmá k ose jeho />. Vytkněme si ještě libovolný svazek (I) rovin rovnoběžných. Ro\ina svazku toho procházející libovolným bodem M kuželosečky ni nechť seče p' v hodě G. Pak má podle \ ěty (1) a podle uvedeného vytvoření kužele rotačního poměr
+MF
+. hodnotu stálou pro veškeré hodv AI na kuželosečce ;//, a naopak jest AI (f
+kuželosečka ;;/. jedním místem takových bodu na ploše druhého stupně, pro něž má \ytčený poměr hodnotu stálou. Druhé místo takových bodu jest druhá kuželosečka, v níž K mimo m ještě plochu druhého stupně protíná.
+Reální řezy kruho\ é na ploše druhého stupně leží v rovinách kolmých k jedné hlavní rovině plochy. Budiž nyní / křhka lokální, která v této rovině hlavní neleží, pak poláry />' tečen p ku kři'ce / vzhledem ku ploše druhého stupně protínají roviny řečených řezu kruhových v končenu.
+Vytkněme si nyní bod uvažovaný F na této křivce /, takže /> jest tečnou v něm ku / a budiž opět p' polárou přímky />. Předpokládejme dále, že svazek (I) jest jedním svazkem uvedených ro\in, které sekou plochu
+MF
+druhého   stu}>ně  v   kružnicích  a  označme   nyní A hodnotu poměru
+AI'i
+Rovina svazku (I)protínající \- bodě G přímku />',seče plochu druhého stupně v kružnici n a kuželosečku m ještě v jednom bodě A/\ této kružnice, pro nějž
+íest opět v^       A.   Místem bodu Aí v prostoru, pro něž \zhledem k pev-MJr
+MF
+ným bodům F a G jest   poměr  ,,    = A stálý, jest plocha kulová, která
+AI G
+má svůj střed na přímce FG a dělí úsečku FG vně i uvnitř v poměru A. Koule ta obsahuje kružnici n. Neboť kužel L, který má F za vrchol a opírá se o kružnici n má podle věty (2) přímku FG za jednu osu. Následkem toho jest, značíme-li A' střed kružnice n, rovina 7rGA"" jednou jeho rovinou hlavní. Plocha kuželová L má totiž tři osy, z nichž jedna jest rovnoběžná se všemi rovinami reálných řezu kruhových, ostatní dvě leží v rovině hlavní, která obsahuje středy všech těchto řezu. V našem případě přímka p', jak jsme předpokládali, není rovnoběžná s rovinou N kružnice n a tudíž i osa FG není rovnoběžná ku N, leda že by rovina svazku (I) procházela sama bodem F, v kterémžto případě kužel L degeneruje v dvojnásobnou rovinu N samu a FG leží zcela v roxině N. K případu tomu se vrátíme později. Následkem toho leží osa FG kužele L v oné jeho rovině hlavní, která obsahuje střed kružnice n. V této rovině hlavní leží též kolmice //, již v bodě N vztýčíme ku rovině N. Přímka h seče tudíž FG \ bodě, jejž můžeme považovati za střed koule K kružnicí n položené.
+Koule K prochází body M, M\ a má s\ uj střed na /''G; má tedy tu vlastnost, že lak jako pro body její M, Aíl dříve vytknuté, platí pro každý
+VI ﻿jiný bod M její  též,  že       ; = A.   Jest tudíž n místem bodů v rovině N,
+pro než má K stálou hodnotu, a to tutéž, kterou jsme v poněkud jiném smyslu obdrželi pro veškeré body kuželosečky   m.
+Vědmě nyní přímkou />' rovinu, která plochu druhého stupně seče v kuželosečce m' a kružnici ;/ v bodech M', M\. Pak bude pro všecky body na m' vzdálenost od F a vzdálenost od p' měřena v rovině rovno-
+M'F
+běžné ku N též v poměru A, poněvadž jest
+M'G
+n.
+Každým bodem plochy uvažované druhého stupně lze vésti jednu kružnici ;/ a jednu křivku »i v rovině přímkou p', a od libovolného boč1 u plochy lze ku libovolnému jinému bodu vždy dospěti nepřetržitým pohybem po různých křivkách ;;/, . . a //, . ., při čemž přechod z libovolné křivky m na libovolnou křivku ;/ reálně ji protínající a naopak jest přípustný. Ovšem že jsme zatím z uvalí vyloučili ony kružnice ;/ na ploše, jejichž roviny procházejí bodem F a pro něž tedy kužel L degeneruje. Ježto ale ke každému bodu jejich dospějeme na základě uvedených přechodu pomocí křivek /;/. a ostatních kružnic n, tedy platí pro veškeré
+hody AI plochy  '2. stupně   bezvýjimečně   vztah
+MF_
+MG
+Tím jsme došli k vytvoření plochy druhého stupně dle Mac-Cullagha:
+('5) Místem bodu, pro ne:, poměr vzdáleností od pevného bodu a od pevné přímky, béřeme-li druhou vzdálenost ve směru rovnoběžném s danou rovinou N, má hodnotu stálou, jest plocha stupně druhého.
+o. Specielně plyne z toho, beřeme-li nyní v úvahu kolmé vzdálenosti od přímky, že místem bodu, pro něž poměr vzdáleností od pevného bodu i od pevné přímky má hodnotu stálou, jest plocha rotační druhého stupně, což není nic jiného než přímé rozšíření Apolloniova \ytvoreni kuželoseček do prostoru, které vede k obecnějšímu vytvoření jejich, totiž jakožto k místům bodu v dané rovině R, pro něž poměr vzdáleností od pevného bodu /•' a od pevné přímky p' má hodnotu stálou s tím zevšeobecněním, /e při Apollinově vytvoření bod F a přímka p' leží v rovině R, kdežto obecně, jak z naší konstrukce plyne, lze jak bod 1: tak i přímku p' libovolně tedy i mimo rovinu R zvoliti.
+Jsou-li tedy F a p' v libovolné poloze k rovině R dány, sestrojíme kuželosečku libovolné hodnotě /l zmíněného poměru příslušící, jakožto fez roviny R s rotační plochou druhého stupně, jejíž osa otáčení jest 1'ovnoběžna s />' a jejíž meridian v rovině Fp' održíme pomocí bodu /•', přímky />' a daného poměru A na základě uvedeného Apolloniova vytvoření kuželoseček.
+Pro A = l osa rotační stává se nekonečně vzdálenou a plocha rotační přechází ve válec kolmý k rovině /•'/>' a protínající rovinu tu N"" parabole, jejímž ohniskem jest bod /•"" a jejíž přímkou řídící jest přímka P', jak i přímo patrr.o, a křivka v libovolné rovině R popsaná jest taktéž parabolou.
+ví.
+. ﻿
+4. Uvažujme nyní rotační kužel Q a libovolný jeho rez rovinný q, jehož ro\ina Q(/ neprochází VIT hole m T kužele. Koule kužoli Q vepsaná, která se dotýká roviny O činí tak v ohnisku F,, kuželosečky q. Rovina křivky knihové v, podél níž koule ta se kužele Q dotýká, seče rovinu Q(/ v přímce řídící r, která jest polárou ohniska F,, v/hledem ke kuželosečce q. Pro veškeré body M na q má poměr MF,/ : M —j r stálou hodnotu p. Nazveme poměr ten poměrem řídícím.
+Seče-li MT kružnici 7' v bodě V, jest MV   = MF,/ a proto jest
+MV
+17—i—    =  .""•
+M —l f
+Kladme vrcholem l' rovinu S kolmou k ose kužele, tedy rovnoběžnou s rovinou křivky r a protínající rovinu 0(/ \- ])římce s. Platí tu úměra
+Ml'          M\'
+M -j s      M -\ r '
+jest proto též
+MU
+M-\s   = ?•
+5. Vraťme se k úvahám dřívějším o obecných plochách stupně druhého. Přímka />' nechť seče ro\ inu křivky / v bodě G,„ který jest pólem přímky b v/hledem ke kuželosečce h, v níž rovina křivky / plochu druh.ého stupně protíná. Póly libovolné přímky vzhledem ke kuželosečkám konfokálním leží na přímce k ní kolmé. Ježto (ř„ jest polem přímky /> vzhledem ku // a F jest polem jejím vzhledem ku /, proto jest přímka /•(/, normálou v ]• pro kuželosečku /.
+Budiž nyní M libovolný bod na plose druhého stupr.ě a M„ jeho orthogonálný průmět do roviny křivky /. Pro hod ten jest tedy, když značíme jako dříve G bod, v němž rovina N věty (3) seče />',
+MF ~MG~
+Rovina Mp' seče ])lochu druhého stupně v kuželosečce /, tak že dle věty (1) jest kužel Fl, mající vrchol v bodě F, rotační. Pro kuželosečku / máme vzhledem ku právě provedené úvaze v či. 4. poměr řídící
+MF
+u =    ., ~  , M0G,
+takže obdržíme mezi   A a (i son\ islost
+^      M,G, p ~    MG čili
+A = /u cos (p
+/načí-li tp úhel, jejž uzavírá přímka MG s ro\ inou křivky /. Platí tudíž také pro každý bod M na křivce h relace
+MF      _A MG„      cos (f
+
+^ ﻿1'robíhá-li /' křivku / popisuje G„ její křivku jxtlárně reciprokou /* vzhledem ku //. Budiž F' libovolný další bod na /, G'tl jemu příslušný na /*, Pí budiž tečna ku / v bodě Ff a p\ její polára vzhledem k uvažované ploše druhého stupně A. Se zřetelem ku F' a p\ obdržíme jako dříve se zřetelem ku F a />' obdobnou relaci
+MF' MG' '-pro libobolnv bod na A, při čemž A' /.nací opět konstantu.
+Je-li M bod plochy A položený v ro\ ir.ě p' p\ protínající A v křivce d, platí pro něj rovnost poměru
+MF        MF'
+~MoG^~ M0G(; ~ '""'
+ježto oba první poměry rovnají se řídícímu poměru kuželosečky d. Poněvadž zde přímka MG' splývá s přímkou MG a tedy uzavírá s rovinou křivky / úhel <p, proto jest K'=K= pcosqp. To platí podle našeho odvození potud, pokud rovina p'p\ seče plochu A reálně, na př. tedy vždy, když body G,„ G,' leží vnitř křivky h. Kdyby ale tomu tak nebylo, zvolili bychom si další body G"", G""',.., Gj2"" + *> na /* a odvodili příslušné přímky />./, p3'. . ., P' -2,1+1 tak, aby veškeré roviny p'f>2', p'ip'z, • • p'zn + i p\, protínaly reálně plochu A, což jest zřejmě vždy možno při volbě více bodu G(0k> a přímek />/, kdyby volba jediného G"" a přímky p'2 nevedla k cíli.
+Můžeme totiž spojiti G„ s bodem libovolným na h, druhý bod pru-sečný spojnice s /* zvoliti za G',', vésti tímto bodem přímku dostatečně blízkou ku G„G'' tak aby protla h ; přímka ta seče /* znovu v bodě, jejž zvolíme za G'„"", dále bodem G'0"" vedeme přímku protínající h reálně; ona protne /* ještě v bodě G^4), jímž vedeme přímku dostatečně blízkou ku G(^G'0"" tak aby protínala opět h, atd., při čemž můžeme každou takovou přímku voliti tak vzhledem ku předcházející, aby se body G',"", G^, ... v určitém smyslu blížily na /* bodu G',, tak že můžeme konečnou přímku G'(7'""G<r""+1) přiblížiti libovolně ku bodu Gó. Ježto přímka ta, jako každá předcházející, seče h ve dvou bodech reálných, bude také přímka G((;"" + 1'GÓ protínati h reálně.
+To platí ovšem pro libovolné dvě kuželosečky //, /*.
+Když jsme body G',', . . . jak uvedeno \ytkli a jimi vedli kolmice /C . . . ku rovině křivky /, jest patrno, že každá ro\ina />'/>ó, p»pí, • • • PínPu+i, p*„ + ip'i seče plochu A reálně.
+Pak jest
+MF       MF"" T/G7~ : ~MG'0'     '""
+Platí  proto  pro všecky body AI na ploše druhého stupně  relacv _MF'        MF M„G(' ^   M „G"" :
+G. Hodnota A jist tudíž pro všecky body plochy A tatáž vzhledem k veškerým bodům /•"" na / a pól aram p' tečen p; hodnotu tu můžeme si snadno pro různé plochy druhého stupně blíže stanoviti.
+VI. ﻿1.) Je-li A ellipsoid trojosý o středu O a poloosách a, b, c, při čemž klademe a > b > c, jest h ellipsa o poloosách a, b; f jest ellipsa o poloosách Y a?—c2, V b2—c2, a roviny reálných řezů kruhových jsou rovnoběžný s osou, jejíž délka jest 2b. Budiž B jeden vrchol vedlejší na h, F,, na / a G,,(/)) na /*, při čemž vrcholy ty bereme na téže straně bodu O. Béřeme-li vzdálenosti bodu M na A od bodu Fh a vzhledem ku příslušné přímce p'b bodem G,,(';) procházející, splyne pro M B příslušný bod (Ť na přímce />' s vrcholem G,,""'1 a tedy jest zde, přihlížíme-li jen k absolutním hodnotám                                                 BF/,
+fi        = ífíG^j'
+Ježto křivka /* má za vrcholy póly tečen vrcholových křivky / vzhledem ku //, proto mají poloosy její délky
+b-
+\
+a-—c-
+akže jest
+Proto jest
+čili
+—c
+- \ p=ď>,
+- b =
+\   ů2—<;*)•
+\ Ič
+OF„ OB
+Máme-li tudíž zřetel jenom ke konstrukcím s reálnými prvky, přichází při ellipsoidu pouze fokální ellipsa k platnosti.
+2.) Budiž A hyperboloid jednodílný, a, b bucltež jeho poloosy reálné, při čemž a > b a c budiž absolutní délka poloosy imaginárně. Roviny kružnic reálných na ploše jsou rovnoběžný s osou délky '2a. Zde přichází tudíž jak ellipsa fokální tak i hyperbola fokální k platnosti. Označme prvou /,, druhou /2; příslušné křivky hlavní plochy A pak IIY, resp. hz a polárně reciprokou křivku pro f± vzhledem ku /?, označme í\*, pro Á, \ zhlecUm ku h., pak /.?.
+Uvažujme nejprv \ztah k dlipse fokální /,. Budtež .-í, Fa(^, (itl příslušné vrcholy křivek Ii1, /,, )\* ležící na leže straně středu O. Tu jest
+OA    - a, O/V11 = Následkem toho obdržíme
+A
+tedy
+\ a-  •
+\   «2T
+OA
+VI. ﻿~
+V rovině hyperboly /2 budtež .4, *V2>, G,/ vrcholy křivek 7i2l /2, /2: ležící na téže straně středu O.  Zde bude
+Ježto jest a  tedy
+obdržíme tu ""ili opět
+i
+'   ~\AG!t'
+= a - - \  a* — b-.
+C&
+-4GY =
+A   —
+a
+OA
+.'!) Pro elliptický paraboloid A budiž .4 vrchol, P parametr hlavního řezu jednoho (P), p parametr hlavního řezu druhého (p) a označení volme tak, aby P > p. Fokální křivky jsou nyní dvě stejné paraboly, z nichž zde pouze jediná / v rovině křivky (P) přichází k platnosti. Budiž F bod dotyku jedné z tečen s bodu .4 ku / vedených. Je-li G! ohnisko společné parabol / a (P), jest FO^A trojúhelník rovnoramenný, v němž
+p
+(\F = 0^-1 =     - . Nanesme na osu .v paraboloidu ještě OtN == AO^, pak
+jest přímka FX normálou paraboly / v bodě F a bude tedy procházeti bodem G„, v němž poláni p{ přímky />, = .4 F vzhledem ku A seče rovinu křivky (P), a .4AT = P. Parabola / má parametr P — p a tudíž mají sub-normály její též délku P — p; proto
+FX2   =(P— p) AX = P (P — />). DáK: leží G,, na tečně vrcholové paraboly (P), j ročež
+AF         FX 'AG„  =    A X
+Značí-li O* vrchol paraboly /, čili ohnisko druhé paraboly fokální. je-st tudíž
+A -
+AO, •
+i\   téže  hodnotě  pro  A  bychom došli   mezním   přechodem  od  ellipsoidu. Neboť z
+
+lne
+c-
+\   -
+\        «2
+VI. ﻿Vvni/v  ,             a         udávají délkv poloměrů křivosti R,, R/, ollips
+-        A/      o         o          /i                    *                     *
+V a-—c-      íř / a // ve vrcholích hlavních.   Jest tedy pro ellipsoid též
+,,       Rt      \ «a     c-~~ /v/,                 fl
+kde značí \ a-     c- a a délky poloos hlavních pro / a h.
+Když se při ellipsoidu střed O vzdaluje do nekonečna konverguje poměr poloos V a* — c2 a a ku 1. V mezích přejde ellipsoid v ellipticky paraboloid, křivka / v parabolu fokální, křivka h v parabolu stopní jeho (P), a lim Rf — P — />, ///;/ /v/, P, čímž obdržíme pro A opět jako pr\ •_•
+*-W-
+7. Na hyperbolickém paraboloidu A nemáme vlastních křivek kruhových, ty zde degenerují, A"" každé rovině rovnoběžné s jednou nebo druhou rovinou řídící leží dvě přímky /, n plochy; jedna v konečnu, druhá nekonečně vzdálená, a ty nahrazují vždy jednu křhku kruhovou na ploše. Zde věta (1) nedozná zrněny, kdežto kužel ve větě (2) uvedený, opírající se o kružnici n = (l,u) se rozloží ve dvě roviny ; jedna z nich spojuji' bod F s přímkou povrchovou / plochy A, druhá H jest rovina bodem F rovnoběžně k příslušné rovině řídící položená. Průsek /' obou rovin \ ro-chází tedy bodem F a jest rovnoběžný ku /. Značí-li G průsečík nniny lu s přímkou p', tu přímka FG nahrazuje nyní osu kužele, takže roviny //' a H leží souměrně vzhledem ku rovině l'G, a mimo to FG J_ /', ježto /' nahrazuje též jednu osu uvedeného kužele L. Mysleme si přímkou FG rovinu normalnou ku /'; ona protne přímku / v bodě L, a FG jest základnou rovnoramenného trojúhelníka FGL. Má proto bod L a následkem toho každý bod přímky / stejné vzdálenosti od bodů F a G. Z toho plyne, že poměr A jest pro hyperbolicky paraboloid vždy roven l, ať již vztahujeme vzdálenosti příslušné k libovolnému bodu F na jedné neb na druhé parabole fokální plochy A a pak ovšem k bodu G na příslušné přímce p'.
+Mohli jsme souditi též následovně. Budiž F bod na jedné neb druhé parabole fokální, G0 stopa do její roviny pro příslušnou přímku p' a h příslušná parabola stopní. Bod G0 obdržíme z F třeba takto: Myslíme si tečnu t ku h rovnoběžnou s tečnou p ku / v bodě F; budiž T její bod dotyku, jímž vedeme rovnoběžku k ose paraboloidu; rovnoběžka ta prochází bodem G„ jakožto polem přímky p vzhledem ku h. Bod T půlí úsečku omezenou bodem Go a průsečíkem A' přímek /> a G„7\ Jest tudíž bod G„ souměrně položen ku F vzhledem k ť, tedy G„7"" - 7V\ == TF. Rovina přímkou t kolmo ku 7-""G„ kladená jest rovinou tečnou hyperbolického paraboloidu a seče jej ve dvou přímkách i, q. Patrně jest pro každý bod M přímek těchto MF — MG„.
+VI.
+ ﻿~
+Roviny kladené přímkami i, q a rovnoběžné s příslušnými rovinami řídícími paraboloidu protínají p' v G„. Pro každý bod M na těchto přímkách jest tedy A — l, pročež i pro všecky body na ] ruseku hyperbolického paraboloidu s rovinou, která spojuje M s p' jest A = l, následkem toho pro veškeré body M na ph>e jest A = 1.
+Neboť je-li w průsek roviny p'M s A, kde jsme volili M na př. na •přímce /, tu pro každý jiný bod M na íi1 jest poměr úsečky FM ke kolmé vzdálenosti M —j />' bodu M od />' roven poměru řídícímu kuželosečky U'. To platí tedy také pro bod M*, v němž přímka g protíná «'. Nahradíme-li kolmé vzdálenosti bodů M na K' od />' vzdálenostmi MG bodů M od />' na přímkách, v nichž roviny rovnoběžné s rovinou řídící příslušnou přímce q sekou rovinu p'M, bude míti pomřr vzdáleností FM a GM též pro všecky hody na w stálou hodnotu a sice rovnou l poněvadž poměr ten rovná se l pro bod M na přímce q položený.
+Mohli jsme ale též následovně usuzovati.
+Rovina přímkou p' rovnoběžně položená k rovině druhé paraboly fokální seče hyperbolicky paraboloid v parabol? v, pro ni> cíle či. •> tvořící poměr j.-st roven l a poněvadž roviny řídící sekou rovinu této paraboly v- rovnoběžkách k její ose, jest pro body na ní poměr A roven porn jru řídícímu tedy roven 1. Tím máme na každé přímce g plochy jeden bod M, na v o němž víme, že pro něj A = 1; druhý bod M2 téže vlastnosti jest pak průsečík přímky té s jednou z přímek i, q. Seče-li rovina řídící plochy A, již lze přímkou g proložiti p' v bodě G jest M^F = MVG, M.2F = MZG a tedy pro každý bod M na g jest FM = MG, čímž znovu jest hodnota A = l pro všecky body na ploše A dovozena.
+To co platí vzhledem k bodům paraboly fokální jedné, platí ovsem i pro body fokální paraboly druhé.
+8. Troj osy ellipsoid, dvojdílný hyperboloid a clliptický paraboloid mají reálné body kruhové. Body ty jsou reálné průsečíky křivek fokálnícl;
+-  plochou druhého stupně A.   Jest to vždy ona křivka fokální f2, která při  vytvořování plochy  A na  základě   reálných  bodu  F"" a  příslušných přímek p' nepřichází ku platnosti a která příslušnou  křivku   stopní h<_, již  jsme  při  paraboloidu   elliptickém  značili  též (/>)  seče  orthogonákiě. Označme K jeden takový bod kruhový.   Kužel K mající vrchol v bodě K
+• i opírající se o druhou reálnou křivku fokální    /T jest rotačním kuželem a osa jeho k jest tečna v A' ku /,.    Označme co úhel, který uzavírají jeho přímky povrchové s k. Ohniska křiv ek /.,,//., leží na /,. Budiž F jedno z nich; pak bodu tomu příslušná přímka />' leží v rovině křivky /2.   Tečna ku h.2 v bodě K nechť seče p' v bodě G%.   Ježto tato tečna leží v rovině dotyčné
+hodu   kruhového   K, proto jist     , ,        A.   Přímka  />' jest  přímkou  řídící
+/vGr*
+|'i~o //2 vzhledem k ohnisku F: pročež   je^t  FGy. J_ /Y7v, z čehož   plyne, že
+A      sin a.
+ ﻿1(1
+Značí-li /'""' druhé ohnisko křivky h,, jest při ellipsoidu FF' = 2\/a2—c2 Z trojúhelníka FF'K plyne
+FF""      FK~ -\-F'K •- 2/'7\  . F'K  cos 2 o čili
+FF'2 = (FK — F'Kf 4- 4 FK . 'F'K siičm            (l)
+Nyní jest                     FF' = 2 \ (i*~^~c*T
+| FK — F'K | = 2 \ «2 -""62,
+.1                         ,1
+FK' = -
+COS O
+COS OJ
+kde í/, a </2 jsou vzdálenosti ohnisek F,F' od tečny A'(7x, takže d^d* = c2. Dosadíme-li hodnoty právě uvedené do rovnice  (1) obdržíme
+/g- o, =
+>Jkud ]>lyne
+A =
+o?
+souhlasně s výsledkem v 1.) či.  6 obsaženým.
+Při elliptickém paraboloidu padne jedno z ohnisek křivky h., = (p) do nekonečna. Označme je F'. Seče-li k osu paraboloidu v bodě N a přímka KG* v bode Q, jest KF = FN, a KF rovná se vzdálenosti vrcholu parabol /o, (/>), ježto vzdálenost přímek řídících těchto parabol rovná se jednak - KF jednak dvojnásobné vzdálenosti jejich vrcholu; tedy
+| KF [ =   FN \ =   FQ   =-. ~ ;   mimo  to   jest  | NQ \ = P.
+Průmět úsečky KQ na osu paraboloidu jest subnormála paraboly /2, tedy rovná   se   P — p   a   průmět   ten   se   rovná   též  j KQ \ sin co.     Dále   jest
+i KQ   = | QN | sin co, takže                                   P — p — \ QN \ sin- ca,
+i iP^p odkud                                      sin ca ~ l/—    -
+jako dříve pod  3.) v či.  6.
+Konečně pro dvojdílný hyperboloid je-t /2 lokální ellij)sa, hn_ hy])er-bola a rovnici (l) odpovídá nyní rovnice
+FF""   = (FK + F7\)2 - - 4 7<7v' . FK  sitfa, kde ale nutno klásti
+FF'   = 2 Vá*
+FK + F' K   = 2 W
+takže   dosazením   těchto hodnot   do (2) obdržíme
+c1 — b-
+COS- 03
+VI. ﻿11
+z čehož plyne
+sin ca =
+při čemž jsme zde označili a délku reálních poloos, b absolutní délku poloos ležících v rovině ellipsy lokální a c abs lutní délku poloos ležících v rovině hyperboly lokální daného hyperboloidu.
+Tím jsme si zjednali  i pro hyperboloid   dvojdílný hodnotu karakte-ristického poměru, totiž
+A =
+i). Budtež opět dány bod F"", j Hrnka p' a rovina N. Xa přímce p' si /volme libovolně bod G. Místem bodu M, pro něž jest (FGM] = K hodnota stálá jest koule K, jejíž střed 5 leží na přímce FG a jest dán poměrem (FGS) = A-. Ro\ina NK rovnoběžná ku X a bodem G položena nechť seče K v kružnici n. Zustáx á-li bod F pevný a neméní-li se též A, pak přicházíme pro různé body G na />' k novým ])lochám kulovým a k novým kružnicím n. Dle uvažovaného \ytvoření Mac-Cullaghova popíše kružnice ;/ plochu druhého stupně A, pro niž jest F jedním ohniskem a />' příslušnou přímkou řídící.
+Všechny řečené plochy kulové K mají své středy na přímce s v rovině Fp' položené, s p' rovnoběžné, stanovené poměrem (Fp's) == A'-. Středy 5 koulí, které protínají plochu A ve dvou kružnicích, leží v téže rovině hlavní plochy té, v níž jsou obsaženy středy kružnic samých, následkem toho leží s v rovině hlavní H, která obsahuje středy všech kružnic reálných na ploše. Tím můžeme snadno plochu A danou zákonem výtvarným Mac-Cullaghovým sestrojiti. Sestrojíme přímku s a položíme ní rovinu kolmou ku N, která již jest rovinou H. Vedeme dále libovolnou přímku bodem F, která seče p' v bodě G, s v bodě 5, opíšeme nad FG jakožto průměrem kouli a sestrojíme pak kouli K, která má svůj střed v bodě S a seče první kouli orthogonalně. Rovina X. bodem G rovnoběžně ku X položená seče K v kružnici n náležející ploše A; střed A' této kružnice jest pata kolmice s bodu S na rovinu Ng. Stanovíme-li dvě takové kružnice ;/, bude spojnice jejich středu protínati rovinu bodem F kolmo ku p' položenou ve středu O plochy A.
+Tím ale docházíme k novému zcela jednoduchému odvození pro vytvoření Mac-Cullaghovo.
+Protněme totiž ro\ inu Fp' n>\inou hlavní H, v níž leží středy reálných kružnic v přímce s a označme A2 hodnotu poměru (F~f>'s). Budiž M libovolný bod na A. Hodem tím položme rovinu X„, tak aby protínala A v kružnici ;/ ; rovina ta nechť seče />' v bodě G. Kolmicí / s G na H prochází rovina reálná D. kruhového řezu na A s n spojeného ; rovinu D, bychom stanovili jakožto souměrně položenou ku X,, vzhledem ku rovině rovnoběžně s hlavní rovinou plochy A kolmou ku H a procházející
+VI. ﻿1-2
+přímkou /. Rovinu I)s seče A \"" kružnici q btuT reálné neb imaginárně : kružnicemi n, q jest stanovena jediná vždy reálná plochu kulo\ á K, ji/ lze j)omocí známých konstrukcí sestrojiti. Budiž S střed této koule. Koule K a plocha A stanoví na / společnou involuci bodů sdružených. Polární roviny každého bodu na / vzhledem ku K a k A splývají v jedinou. Popíše-li bod přímku /, popíše tato rovina svazek, jehož osou jest společná polára přímky l vzhledem ku K a A.
+Polární ro.ina (i bodu G vzhledem ku A prochází přímkou p, která se v F dotýká příslušné křivky fokální a jest kolmá ku GF. Rovina G jest ale též polárou bodu G vzhledem ke kouli K, tedy kolmice s G na G musí procházeti středem 5 koule té. Kolmice ta jest, jak jsme právě viděli, přímka GF. Leží tedy S na přímce GF', ježto ale musí S mimo to býti v rovině H, soudíme z toho, že jest bod 5 průsečíkem přímky GF > přímkou s. Body F, G ležící na průměru koule K jsou vzhledem k ní harmonicky sdruženy, z čehož plyne, že pro všecky body M na K má poměr (FGM) stálou hodnotu, a že střed 5 stanoví poměr (FGS) = (FGM)-. Ježto jsme kladli (FGS) = Á,-, jest pro všecky body na K a tedy pro všecky body na n i na q
+(FGM) = Á.
+Bod M jsme volili zcela libovolně na A, A2 byl předem daný stálý poměr; tedy pro libovolný bod M na A a tudíž pro všecky body plochy té platí (FGM) = A.
+Tím jest vytvoření Mac-Cullaghovo dáno.
+10. Pro hyperbolický paraboloid A jest A2 = l, rovina H uniká do nekonečna; na úvahách našich se však nic podstatného nemění. Vytkneme si totiž třeba na p' libovolný bod G, jimž \eceme roviny N,., 1),, rovnoběžné s rovinami řídícími plochy A a rovnoběžku / ku ose paraboloidu. Přímka / seče A v konečnu v jednom bodě B, jímž procházejí d\ ě přímky po\ rchové n', q' stamníce rovinu tečnou v B ku A. Kružnice dřívější 11, q skládají se nyní z přímek n', q' a z nekonečně vzdálených přímek rovin Nu, resp. I),,. Ro\ ina n'q' a nekonečně vzdálená rovina nahrazují nám nyní kouli K, takže polára bodu G vzhledem ku K přechází nyní v rovinu G rovnoběžnou ku ríq'', jejíž vzdálenost od G jest rovinou n'q' rozpůlena. Rovina G jest zároveň polárou bodu G vzhledem k A a prochází proto přímkou />, při čemž jest GF _[_ G. Z toho plyne, že ro\ ina n'q' jest syme-trálou bodů F, G. Obalují tuaíž všechny roviny n'q' pro měnící se G \alec V, který seče rovinu Fp' v parabole mající 7'"" za ohnisko a p' za přímku řídící.
+Tím dospíváme k promětnému vytvoření hyperbolického paraboloidu pomocí parabolického válce a svazku rovin rovnoběžných.
+Protncme-li každou rovinu tečnou parabolického válce rovinou stálého zaměření, která prochází bodem vzhledem ku této rovině tečné k libovolnému Pevnému bodu na fokálnímu paprsku váke souměrně položeném, tu príisečná popíše hvpcrbolický paraboloid.
+VI. ﻿13
+11. Vytvoření to můžeme dle předešlého rozšířiti na ostatní plochy druhého stupně.
+Kolmice z F na />' nechť seče tuto přímku v bodě G0 a přímku s v bodě Su. Ježto koule K seče FG v bodech od F a G harmonicky oddě-lenvch, proto jest SF. SG = R*, kde značí R poloměr koule. Dále jest
+FS2
+GS
+FS . r;š
+A'2
+Klademe-li SF -   m,   S0S = y,  R = x  obdržíme tím relaci
+•*>                  9
+111—             L_     A ř —
+x-
+čili
+A-,v2 — v2 = m"".
+Z toho plyne, že kružnice největší ploch K ležící v rovinách kolmých ku p' popíšou plochu rotační stupně druhého a sice pro reálné A jest to hyperboloid Y rotační jednodílný, mající S„ za střed a přímku s za osu. Jeho přímky povrchové uzavírají s osou s úhel oj, pro nějž ctg to = A a vzdálenost přímek těch od s jest intgco, kdežto vzdálenost d přímky p' od s rovná se nit""- w.
+Koule K obalují rovněž rotační plochu druhého stupně, která nechť -tře rovinu Fp' v křivce u.
+Křivka tato jest v jednoduché souvislosti s křivkou r, v níž plocha Y seče rovinu Fp'. Snadno seznáme totiž, že bod F jest ohniskem a přímka p' příslušnou přímkou řídící pro kuželosečku u.
+Mysleme si, že u jest libovolná kuželosečka, F jedno její ohnisko a p' příslušná mu přímka řídící. Je-li F bod reálný, leží na ose hlavní kuželosečky u, jejíž osu vedlejší považujeme za přímku s. Zvolme na s libovolný bod S a sestrojili*1 kružnici k mající S za střed a dotýkající se dvojnásob kuželosečky u. Kolmice bodem F ku SF vedená, nechť s^če s v bodě T. Ježto kolmice ta a SF"" j^ou vzhledem ku u normálně sdruženy, proto náleží bod T oběma společným tečnám křivek u a A- a poláni bodu T vzhledem k u jest tětiva styčná ;' obou křivek. Přímky bodem T jdoucí mají společné póly vzhledem ku křivkám u a k ležící na /. Pól přímky FF vzhledem k u a tedy i k jest průsečík G přímky SF s přímkou řídící p' a leží též na poláře / bodu T vzhledem k oběma křivkám. Jsou tedy body G, F též sdruženy vzhledem ke kružnici k. Proto kružnice k seče ortho-gonalně kružnici g mající FG za průměr. Tím obdržíme též konstrukci normál s libovolného bodu S na s ležícího ke kuželosečce u i v případě, kdy normály ty jsou imaginární. Protneme SF přímkou />' v (/', sestrojím'-kružnici nad průměrem.FG a k této kružnici orthogonální k, která se kuželosečky dotýká v bodech na kolmici s G na s spuštěnou, kteréžto body jsou paty řečených normál. Kolmice ku s v bodě S vztýčená seče A' ve dvou bodech. Pohybuje-li se S na přímce s, popíšou body ty křixku r, která jest s u v dříve uvedené souvislosti.
+•
+VI. ﻿14
+Tím docházíme k sestrojení ploch druhého slupne na základe vytvořeni Mac-Cullagh-ova, když jest dáno jedno ohnisko její F, příslušná přímka řídící p', zaměření jednoho srážku rovin N, které protínají plochu v kružnicích, a poměr A.
+Sestrojíme přímku s tak, aby (Fp's) = A'2 a vztahujeme rady bodové \S) na s a (G) na />' k sobě perspektivně pomocí svazku přímek majícího svůj střed v boťě F. Bodem libovolným G na />' vedeme N. || N a kolem příslušného bodu S na s jako/to středu, opíšeme kouli K, která protíná kružnici průměru FG ortho^onalně. Koule ta seče N^ v kružnici n, která popisuje plochu druhého stupně, když G se pohybuje na />'.
+Řada ploch kulových K, jejichž střech' leží na ose vedlejší dané kuželosečky u a které se dvojnásob kuželosečka ié dotýkají a svazek rovin N rovnoběžných, které sekou přímku řídící />' hužclosečkv u tak, že spojnice středu koule K a průsečíku příslušné jí roviny N s />' prochází ohniskem kuželosečky u ku p' příslušným, vytvořují plochu stupně druhého.
+Je-li -u parabolou, pak přechá/.í Každá koule K v nekonečně \zda-lenou rovinu a v rovinu tečnou paraboly u, kolmou k její ro\ ině, kdežto bod G, jímž příslušná rovina N prochází, jest ku F souměrně položen vzhledem ku /míněné rovině tečné. Tím docházíme k dřívějšímu vytvoření hyperbolického paraboloidu. Z toho soudíme dále, že všecky hyperbolické paraboloidy, které maií společné ohnisko F a příslušnou mu přímku řídící p', mají týž orthogonální pni met do rovin v Fp'.
+12. V uvedeném právě vytvoření ploch druhého stupně roze/ná-váme pak různé případy.
+a)    Je-li u hyperbola, leží F vně a tudíž G vnitř každé plochy kuli >\é K; následkem toho seče příslušná rovina N kouli K v kružnici reálné. Plocha A nemá tudíž reálných bodu kruhových a muže to býti tudíž jenom hyperboloid jednodílný.
+b)   Je-li n parabola, přejde A v paraboloid hyperbolický.
+c)    Budiž u ellipsa   středu S„ a B budiž jeden její \rchol vedlejší. Zde leží bod F vnitř a tedy bod G vně pro každou kouli K.   Lze tedy kouli té s bodu G jakožto vrcholu opsati reální kužel dotyčný I, který jest rotačním kuželem a jehož osou bude přímka GF.   Kružnice jeho dotyku   g s koulí K měj poloměr r\ ona leží v rovině bodem F normálně ku GF vedené.   Kružnice k na kouli K položená v rovině Fp' nechť seče g v bodech Ri,R2, osa Sol^ nechť seče p' v bode G„;   kon< čně  nechť  značí a velkou, b malou poloosu a c výstřednost  ellipsy u a v vzdálenost bodu A', od S0G„.
+Ježto S0G0 =
+proto FG„ --
+Dále platí tu úměra
+a poněvadž  FŘ^ == SF. FG,   proto obdržíme z uvedené úměry
+f 7 ^        7"""" / *          C* ř       ""   C.1* 7 ""*       7 ^/^*            **        *^
+aneb                                          S0F : Fř;„ = c2 : v2;
+VI. ﻿první členy poslední úměrv mají hodnoty ca — , následkem toho jest v= b.
+Leží tedy body A',, A'., na tečnách ellipsy u ve vrcholích vedlejších Dále platí   ňméra
+FG =-- v : FG~„   takže
+FG
+Přímky povrchové kužele I uzavírají proto s osou jeh< c
+cp, pro
+nějž tgcp — y Uhel ten rovná se tudíž úhlu, jejž uzavírá BF s osou vedlejší ellipsy u. Jsou tudíž \sechny kužele I shodný.
+Klaďme si otázku po bodech kruhových plochy A, v nichž roviny tečné N„ ku ploše jsou rovnoběžný k X. V bodu takovém K musí se rovina N., dotýkati příslušné koule K a tedy i příslušného kužele I. Osa tohoto kužele musí bvti přímka, která prochází bodem/7, uzavíráš N úhel 9 a protíná přímku p'. Všechny přímky bodem F, které uzavírají s X úhel <j. tvoří kůže! roíačníF o vrcholí /•"", jehož osa jest kolmá k X a jehož přímky
+uzavírají s osou tou úhel -        q . Průsečíky Glf G., přímky p' s F náležejí
+rovinám X,, X2 rovnoběžným k X, které se plochv A dotýkají v bodech knihových. Uzavírá-li rovina X s přímkou p' úhel cp, jest jedna přímka kužele F rovnoběžná s p' a tudíž jest jeden z bodu G,, G., v nekonečnu; plocha A jest clliptickým paraboloidem.
+Uzavírá-li N s přímkou p' úhel, který jest větší než cp, pak rovnoběžka bodem F ku p' leží vnitř kužele V a rovina Fp', tudíž i přímka p' seče kužel ve dvou reálných bodech Glt G2. Máme tu tedy dva reálné body kruhové K, K': K K' jest průměrem plochy A. Úsečka G,G., leží tu vně kužele F. Spojíme-li libovolný bod její G s bodem /•"", jest sklon její k X menší než cp. Ježto pro kužel I mající vrchol v G ro\ iny tečné uzavírají s GF úhel (p, proto rovina X_, bude protínali kužel I a tudíž i příslušnou kouli K reálně. To platí pro všecky body na úsečce GjG.,. Xaše plocha A bude tudíž ellipsoidem.
+Uzavírá-li X s přímkou />' úhel, který jest menší než cp, pak plocha A jest hyperboloidem a sice dvojdílným, když přímka p' seče kužel reálně, jednodílným, když jej neseče reálně, a plocha A přechází v kužel, když přímka />' se kužele F dotýká, t. i. když rovina Fp' uzavírá s rovinou X úhel cp. Uzavírá-li rovina Fp' s X úhel menší než cp, pak />' r.eprotíná F a plocha jest hyperboloidem jednodílným; je-li ale úhel. jejž roviny Fp', N uzavírají větší než cp jest A hyperboloidem dvojdílným.
+l;>.  Souvislost křivek u a v můžeme ještě blíž*' stanoxiti.
+1) Je-li •//. ellipsa, pak na př. koule K, která má svůj střed v jednom vrcholu vedlejším, řekněme R,, a dotýká se ellipsy dvojnásob, má, jak
+/• konstrukce naší pivně za poloměr délku   '      = SjG.,. Seče-!i rovnoběžka
+e
+ví. ﻿l (i
+bodem B., ku 5„(7„ hyperbolu v v bodě C a jednu asymptotu její v bodě CJ( jest, ježto v má rovněž a za poloosu  hlavní,
+a  ted
+C-
+Značí-li   //   absolutní   délku   imaginární   poloosy   hyperboly
+a           BZC1         a
+17 ~~      ~~~
+jest
+b             e
+pročež                                               V --= e.
+'2. Je-li u hyperbola, h jedna její asymptota a naneseme-li, volíce '•značení předešlému zcela obdobné, na kolmici v 5 na s délku SD rovnající se kolmé vzdálenosti bodu 5 od h, bude S0D jednou asymptotou pro z1, jak z naší konstrukce jednoduchým mezním přechodem plyne. Zvo-líme-li 5 na kolmici ? F na Ji, bude
+cn       a~             sr       <;<;« —   llc
+SU =            a     oi> == oo   -
+b                                              u   '
+při čemž jest C bod křivky v na SD ležící. Nyní plyne
+SD        a        a
+-pr-o- = :  ,, =       • takže opět  b   --= e.
+S0S        b         e
+V případě 1) jest c < a, \ případě 2) jest c > a. Přechod tvoří případ c = a, tu degeneruje kuželosečka u v pár bodový, koule K tvoří svazek, v jest pak hyperbola rovnoramenná a plocha druhého stupně degeneruje ve dvojnou rovinu NF rovnoběžnou s N a v pár bodový, skládající se ze společných průsečíků plodí K s rovinou NF.
+14. Odvození pro vytvoření Mac-Cullaghovo plochy druhého stůjme A, jak jsme je podali, vede nás také k té vlastnosti, že hodnota poměru A se nemění, když bod F a přímku •/>' nahradíme jiným ohniskem na téže křivce fokální / jako F a příslušnou mu přímkou řídící.
+Budtež v rovině xy dvě kuželosečky konfokální: (T), mající rovnici
+x2            v-
+y*
+a (G) o rovnici
+při  čemž   předpokládáme  K > /3.   Hledejme   křivku (T*)  polární   ku (T) vzhledem ku (o). Libovolný bod /Mia (r) měj souřadnice (x,y). Tečna ku
+(r) v bodě tom seče osu x v bodě í-     -,0J, osu y v bodě l o,—   -}', poláry těchto  bodů vzhledem ku  (<?) jsou
+fc g =
+/j+CT
+ví. ﻿Průsečný hod obou polár jest hod G0 na (r*) příslušný hodu F. Jeho souřadnice jsou tedy L, ?j. Průsečík přímky G„F s osou x obdržíme na pí"". z \'lastnosti, že přímka taje normálou kn (r) • on má íudíž soiiřad-
+/ *—fi       \                                            (     ft-a      \
+nice   l             x, o l a průsečík s osou   v má   souřadnice l o,             v l.
+V a {-r          /                                                              V      0 rT   ' /
+7 toho plyne:
+l)  jr-li S„ \' ro\ ině (A;Z)
+/iv-c-\         ř-c      /• c        ^           K — 0        ^      /a+<*           «— /i       \
+A2      (FG0S0)  ~ FS0 : G0S„       (  v                       .v ) :                   x -                  x ),
+a  - r              ^  a     z             u -f- T
+takže
+Křivka (r*) jest  místem  hodu  G0, pro než (S„FG„)   - u má hodnotu síálou,  totiž
+a  tudíž
+S0 + S.,G„
+.               ,                _-r
+/^-   <-•           —   A                 A      -
+U                 G„S0                             P + 6
+Tedy jest
+2.) Beřeme-li  za 5„ hod prňsc:čný  přímky J:G , s ro\'inou (V2) J_ ohdržíine nyní pro A/2 = (FG„S.,) hodnotu
+^=FS.:GA=:y^        v)
+V      # 4- *     /
+(l   *
+(i - *
+takže
+
+Křivku (r*) obdržíme zde opět jakožto místo hodů Čí,, pro něž (S.FG,)
+l            a — 0
+- ft' má taktéž hodnotu stálou, totiž opět u'   = - -- — =
+l   — ™   A^""            (J ""      "" 7
+Vedeme-li liho\'olnou normálu ku (r) ať již leží v rovině .vy anebo ne, tedy přímku, protínající křivku (r) v hodě ]<*, rovinu (xz) _\_ (.vy) v hodě S a položenou v rovině normální ku (r) v bodě F, lu leží hod G, pro nějž (SFG) = p, na válci pro nějž (r) jest normálním ře/em.
+Týž bod na řečeném válci obdržíme pro (S'FG) ~p', když značíme 5' průsečík normály zmíněné s rovinou (v-). Nazveme válec ten řídícím válcem plochy A příslušným křivce tokalní /.
+Máme   tedy   výsledek:
+Řídící válce plochy A jest místem bodu, které dělí délky normál ku křivce fokální v stáleni poměru ,u neb u', podle toho měřímc-li normály od rovinv (xv) aneb (xz}.
+VI. ﻿A
+to        —'
+>.
+A
+A
+»
+
+<   •-'
+
+""T .-   <*x
+'
+,, -    i
+:>
+
+1  +    1
+to
+-r •n.
+'č
+:l
+7-   ^
+Ji      3
+• i,    «        ca
+^            l
+l    N«
+„N       M ^
+V>
++ S ﻿a tedy
+Ve2 — b2
+2    —____________tg
+A   -                         -     ,    [l
+
+(HI4)
+M).  Pro   clliptický   paraboloid   můžeme  v  rovině   hlavní (xy), která seče jej  v parabole (P)  křivku (r) vyjádřiti  rovnicí
+v'      2 (P - p) (x - - A)            (1),
+křivku (0) = (P)  rovnicí
+r2 = 2Px                            (2).
+Poláni bodu  (.v, y) na parabole (T) v/hledem k (G) jest
+v,; =P(*+|)                (3),
+tečna  v bodě  (#, y)  k  (T) jest
+yV = (P-p] (x — p+X),
+takže   protíná  tečna  ta  osu  x v  bodě   pro   nějž jest X„ = /> —#,  jehož poláni  v/hledem ku   (<?) jest
+Ž      * -/>                         (4).
+Bod G„ jest /,de průsečíkem  přímek (3) a (4), tak/e souřadnice ji-h.o jsou se zřetelem na  rovnici  (1)
+a rovnice kři\-ky (T*) jest,  přihlíží mé-li k (1),
+(6)
+Ježto x —| = p a průmět normály FS„ křivky (r) na x rovná se P —p, proto jest
+takž(
+= (FG0S0) -
+tedy
+V
+P ~L             P
+P    '    *       p'
+/,' == l,   u'  = x \"" rovině křivky (/>) obdržíme pro (r) rovnici
+(       ^ \ V       2 / '
+pro (<?) ro\-nici
+v2 =2px; t obou  rovnic plyne obdobně jako prve pro bod G„
+(IV.)
+VI. ﻿a ro\ nice křivky  (T*) jes!
+a  tec'y
+(IVa)
+1 y T*""- /••
+A'==l,      Jl'         :    00.                      (IV4)
+Pro hyperbolický paraboloid obdržíme obdobně v ro\ ině, v níž (T) a (G) mají příslušné rovnice
+v2 = 2 (P f />) ( * -f  ? ),      y2 = 2 t>x, pro G„ souřadnice
+/*
+tedy                              A --= \
+V ro\ ině hlavní druhé jest ]>ak
+A
+A/=l,
+(V3) (V4)
+
+Obdrželi jsme takto ve všech možných případech hodnoty A pro libovolné ohnisko F a příslušnou přímku řídící a po/ná\ ámc, že pro všecky bocy F na téže křivce fokální a příslušné přímky pf má A hodnotu stálou. Pro naše vytvoření ploch druhého stupně pomocí kruhových řezů reálních a pro přechod od vytvořerí toho k vytvoření Mac-Cullaghově mají ovšem jen rovnice (1^; (II2), (II4); (III3); (IVO a (V2), (V4) význam.
+17. Vytkněme si svazek reálných rovin N ro\noběžných, které ]>rotínají j)lochu A \' kružnicích n. Procháxí-li kružnice tako\á n bodem F křivky fokální / a seče-li rovina její příslušnou přímku řídící />' \* bodě Gy, jest pro každý bod'M na této knižnici (FGyM) --A; následkem loho jest FGcp jedním průměrem kružnice n a protíná proto průměr d ])lochy A sdružený k rovinám X v jejím středu S. Tedy všechny průměry kružnic n, jež protínají křivku fokální, jsou jejími normálami a (FGyS) = A2.
+U\ažujme osovou polohu affinní v prostoru, pro niž libovolné dva příslušné sobě body leží na přímce rovnoběžné s X a protínající ď, poměr dělící bodů sdružených, tedy poměr, v němž d dělí v/dálen os t. jejich budiž i?. Z této polohy affinní vychá/í, že veškeré body Gq> odpovídající bodům F na. / tvoří kuželosečku g v rovině U procházející onou osou plochy, která jest kolmá k téže rovině hlavní plochy, k níž jsou kolmý i roviny reálných ře/ů kruhových. Průměty parallelní ve směru d do roviny libovolného ře/u kruhového v reální rovině ležícího pro křivku g a pro křivku / jsou kuželosečky homothetickč. Snadno se/náváme, že U jest rovina sdružená k průměru kolmému k X v/hledem ku ploše A.
+VI. ﻿Body //i, //g, v nichž FGy seče plochu A, popíšou rovněž dvě kuželo-
+ŠF sečky hlt h2. Neboť / A-             plyne, značíme-li r poloměr kružnice n, že
+O' rtp
+r2 = ŠF . SG(f\ proto
+/-            SF
+- = A2
+Sfrcp             S(j<f>
+Tedy  bude  pro  jeden  / obou   bodů průsečných,   nazveme  jej  Hlt
+SH,
+C TT
+platiti v/tah '     '   -A, j)ro druhý //, pak --7;--       -A. Popíšou tudíž //,,
+wj í_7""op                                                                                            O (-JOD
+a //2 dvě kuželosečky, které se promítají do N ve směru d v kuželosečky, které jsou s průmětem křivky / homothetické. Pro tyto kuželosečky platí patrně také relace
+C U        1         C U              l
+O/lj      l      OII o          l
+SF   ~K'    SF=     ~K' ﻿*"

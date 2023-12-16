@@ -1,0 +1,425 @@
+"","x"
+"1"," ﻿ROČNÍK XII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 32.
+
+
+flgflf
+
+
+Příspěvek kalibraci velmi úzkých kapillár
+
+
+měření povrchového napjetí vážením kapek.
+
+
+Napsal
+
+
+Dr. Bohumil Kučera,
+
+
+docent technice Darmštatě.
+
+
+(Se obr. textu.)
+
+
+(Předloženo dne června 1903.)
+
+
+Kalibrace skleněných kapillár nejrůznějším účelům fysikální praxi upotřebovaných, provádí obyčejně měřením délky rtuťového sloupce různých místech kapilláry vážením rtuti. kapillár velmi úzkých, průměru obnášejícím jen několik setin millimetru, nelze methody této užiti, ježto váha rtuti příliš malou, takže nezajišťuje vážení procentuálně dostatečnou přesnost při vypočítávání průřezu kapilláry. Pak lze vážení nahraditi měřením elektrického odporu. Často však žádoucno, znáti hodnoty průměru kapilláry podél její délky jednotlivých bodech, místo průměrného kalibru oddílu daného délkou rtuťového sloupce. těchto případech doporučuje užiti methody jiné, spočívající měření kapil-lárního vztlaku. Ježto nesnadno dosíci dokonalého omáčení kapilláry adherující kapalinou (vodou, alkoholem), ukázalo mnohých pokusech býti nejvhodnějším, užiti jakožto menisku stykové plochy rtuti dosti koncentrovaného roztoku kyseliny sírové. El. vodivost obou dovoluje vymýtiti krátkým spojením mezi rtutí kapilláře rtuťovou elektrodou pod roztokem nacházející každou proměnlivost el. dvojvrstvy stykové ploše; krátkého spojení potenciálná difference mezi rtutí roztokem tedy také povrchové napjetí veličinou stálou.
+
+
+Je-li výška rtuťového sloupce (resp. tlak vyjádřený rtuti) neseného povrchovým napjetím menisku poloměru platí, jak známo, relace
+
+
+<7,
+
+
+zprávy: Roč. XII. Tř. II. 32.
+
+
+XXXII. ﻿kde spec. váha rtuti. Jest tudíž
+
+
+
+
+
+-.--—K.
+
+
+
+
+
+(L)
+
+
+poloměr kapilláry místě menisku obráceně úměrným výšce tlakové. Nazveme-li vzdálenost menisku jednoho konce kapilláry el. odpor rtuťového sloupečku, kapilláru naplňujícího ústícího obou koncích nádržek prakticky nekonečně širokých dán výrazem
+
+
+
+
+
+
+
+
+0,8242.
+
+
+kde spec. odpor rtuti poloměry kapilláry místech x2. Druhý člen pravé strany korrekčním členem, vyjadřujícím zv. odpor přechodný obou koncích, odpor válců poloměru resp. přecházejících nekonečný poloprostor téže vodivosti. Velikost jeho určil Maxwell,*) uzavřev mezi dvě hraničně hodnoty; svrchu užitý koěf-ficient 0,8242 udal později Rayleigh**).
+
+
+Poloměr všeobecně nějakou funkcí vzdálenosti nejjednodušší závislost lineární, kterou vždy lze supponovati pro vzdálenosti dostatečně malé. Dosazením
+
+
+Ax]
+
+
+obdržíme
+
+
+
+
+
+(\-\-Axy-
+
+
+Corr.
+
+
+snadným provedením integrace
+
+
+Íl_ 0,8242 ;-2
+
+
+kterémžto známém vzorci značí /12 délku ,r2—xl konické kapilláry. Dosadíme-li rovnice (1.)
+
+
+plyne
+
+
+1,7
+
+
+.-.. Ár. 0,8242
+
+
+
+
+
+
+
+
+Maxwell, Treatise 309.
+
+
+**) Lord Rayleigh. Trans. Roy., Soč. 1871 pg. Proč. Lond. Math. Soč. 74, 1875.
+
+
+XXXII ﻿Kalibrací podél kapilláry získáme řadu hodnot příslušných jednotlivým vzdálenostem odpor délky XH—xl pak roven
+
+
+0,8242
+
+
+Násobíme-li celou rovnici /v2 dělíme W\„, plyne
+
+
+-f-
+
+
+,2.)
+
+
+
+
+
+W\n
+
+
+dělením /i„~ konečně
+
+
+0,8242 -fjjr-
+
+
+(4.)
+
+
+Kvadratická rovnice (2.) ovšem snadno přesně rozřešit dle čehož dělením plyne přesná hodnota pro r^, ale pro numerické počítání daleko vhodnějším vypočísti přibližnou hodnotu pro rovnice (3.) zanedbáním druhého korrekčního členu pravé strany, který praktických případech zůstává daleko pod celku. Dosadíme-li toto přibližné vzorce (4.), zápětí odchylku výsledku ležící nejvýše setinách procenta.
+
+
+Známe-li absolutní numerickou hodnotu jednoho poloměru, známe tím základě rovnice 1.) hodnoty všech. Zmínky zasluhuje, jak vzorec 2.) následkem toho 4.) relativně jednoduchý pohodlný pro numerický výpočet proti nepřehledným vzorcům, které obdržíme pro el. odpor ka-pillár kalibrovaných měřením délky rtuťového sloupečku různých místech.*) tehdy, je-li poloměr komplikovanější, ale hladkou funkcí vzdálenosti kterou základě pozorovacích dat můžeme methodou nejmenších čtverců stanoviti, doporučuje určiti základě této funkce řadu příslušných hodnot dostatečně malých intervallech počítat dle vzorce Jen funkcí velmi jednoduchých lze rovnice
+
+
+ií/_
+
+
+-4- Corr. [f(x)\
+
+
+-JTj
+
+
+vyčísliti dostatečně jednoduchém tvaru. Již funkce
+
+
+Viz Weinstein, Elektrotechn. ZS. 25. 1888.
+
+
+XXXII. ﻿obdržíme tvar velmi nepřehledný numerickému počítání nevhodný. Výjimku činí funkce
+
+
+kde
+
+
+
+
+
+r*""i ___^i
+
+
+""~
+
+
+
+
+
+log
+
+
+(5)
+
+
+při čemž počítá nejprve přibližné r,,2 dosazením pozorovaného odporu W„,n pak vyčíslí K~=.rlji!, dosadí definitivně při výpočtu r,t kor-rigované
+
+
+8242 -4-
+
+
+ftíl \J) rLj »*•// ;i/
+
+
+Tento výpočet r/( jde ovšem daleko rychleji než 4.), ježto odpadá tvoření jednotlivých součinů Uih.
+
+
+Methoda naše dává stejně jako kalibrace vážením elliptického průřezu poloosách geometrický střed \JA kterýž však, když velmi málo sebe liší, velmi blízce roven arithmetickému
+
+
+B).
+
+
+Jakožto applikace dosavadních diskussí vzorce 4.) budiž uvedeno měření provedené úmysla kapilláře poloměru velmi značně proměnlivém. Pokusné uspořádání znázorněno obrazcem
+
+
+teploměrové trubice vytažená kapillára byla pomocí kaučukové rourky nasazena tlakovou trubici (vnitřní průměr 0,8 cm), níž dalo niveau rtuti zvedáním nádržky ./V libovolné měniti. Spodní konec kapilláry byl ponořen roztoku kyseliny sírové (specifická váha 1,2490 při 18° C.) nádobce, jejímž dně nacházela čistá rtuť, vodivě spojená rtutí kapilláře drátem, kyselinou isolovaně procházejícím. Kathetometrem udávajícím 1/-0 byly pointovány při každém měření postupně body konec kapilláry, konec rtuťového sloupce, vrchol menisku, okraj menisku, niveau roztoku znovu Mezi touto následující řadou pozorování byla vytlačena smáčknutím kaučukové rourky dolního konce kapilláry kapička rtuti, aby obnovil povrch menisku roztok kapilláře. Odečtený tlak zkorrigován byl protitlak sloupce roztoku tlak menisku,*) čímž stanovena definitivní tlaková výška příslušící x1I.ab.
+
+
+Tabulka Mendělčjev-Gutkowského Kohlrauschovč: Lchrb. der prakt. Phys. 1901. pg. 579.
+
+
+
+
+
+XXXII. ﻿Tím způsobem zjednána byla následující tabulka
+
+
+Teplota 14-1*
+
+
+mm	h mm	4- 103 h		x mm	h mm	-^.103
+
+
+1	0,0	228,86	4,3695	11	8,61	190,44	5,251
+
+
+2	0,305	228,11	4,384	12	9,73	184,38	5,424
+
+
+3	0,61	226,63	4,412	13	10,85	178,39	5,606
+
+
+A	1,09 1,84	224,07 221,58	4,463 4,513	14 15	12,42 13,40	168,63 162,73	5,930 6,145
+
+
+6	2,34	219,19	4,562 í		14,44	155,55	6,429
+
+
+8	3,42 4,45	214,25 209,96	4,667 4,763	17 18	15,49 16,61	147,85 138,59	6,764 7,216
+
+
+6,59		200,38	4,991	19	17,24 132,78		7,531
+
+
+10	7,70	194,86	5,132	20	19,90	104,97	9,526
+
+
+Hodnota pro sub udaná tlak, při němž velmi opatrného pozvolného zvyšování počíná výtok rtuti kapilláry sice střed
+
+
+měření, nichž nejextrémnější lišily 0,08%- Hodnoty 10*
+
+
+ukazují průběh velikosti poloměru podél kapilláry libovolném měřítku.
+
+
+Zasluhuje zmínky, není priori nutno stavěti kathetometr přesně vertikálně, ježto vchází vzorce 4.) (vyjímaje korrekční člen) všech sčítancích stejné mocnině čitatele jako jmenovatele; ovšem ale musí býti pro měření škála kathetometru rovnoběžná kapillárou.
+
+
+účelem měření el. odporu byla kapillára nejprve prossáváním vody vymyta kyseliny, potom absolutním alkoholem zbavena vody konec proháněním suchého prachu zbaveného vzduchu dokonale vysušena. byl spodní konec její odříznut jeho délka několikráte horizontálním kathetometrem, udávajícím V50 změřena; tento kousek kapilláry byl pak pečetním voskem vtmelen spodního zúženého konce širší skleněné trubice (1,1 průměru), ponořen nádobky naplněné nejčistší dvakráte vakuu destillovanou rtutí ssáním vodní vývěvou rtutí naplněn.
+
+
+Odpor }\\tl byl několikráte změřen methodou Wheatstoneova můstku kommutací, přičemž bylo užito velmi citlivého Boi Rub enso
+
+
+XXXII. ﻿galvanometrti velice slabého proudu, aby Jouleovým teplem neměnila teplota rtuti kapilláře. Postupným zkracováním širšího konce kapilláry získány tak následující hodnoty:
+
+
+Teplota U-0°
+
+
+n	x l\„ mm	Wi„ Ohm	h„
+
+
+I.	14,22	8,6050	157,07
+
+
+II.	10,87	2,211	178,27
+
+
+III.	8,945	6,2002	188,63
+
+
+IV.	6,49	4,7354	200,84
+
+
+Hodnoty posledního sloupce vypočteny jsou lineární interpolací mezi dvěma nejbližšími údaji tabulky prvé. Dle vzorce 3.) 4.) počítány pak hodnoty poloměru kapilláry užším konci, příslušící nutno našem výpočtu, kde všechny délky jsou udány mm, dosaditi odpor rtuťového sloupce délky průřezu mm2 při 14'0° vyjádřený Ohmech, tedy 9,545 10~4. Přibližné hodnoty zkráceného vzorce 3.) vypočtené liší se, jak ukázalo, jen 0,1%, což potvrzením dřívějších vývodů přípustnosti naší methody počítací. Pro vypočítány pak všech čtyř pokusů hodnoty
+
+
+0,019235 II. 0,019221
+
+
+III 019228 Střed °'019230 0,000003 mm. IV. 0,019235
+
+
+Souhlas vzhledem poměrně malé přesnosti určení délky kapilláry překvapující; pravděpodobná chyba jednotlivého, neodvislého měření nedosahuje ani 5.10 mm, jest 0,03%.*) když náhodě přičteme,
+
+
+Veden tvarem křivky pro -.- připomínajícím průběh exponencielly, vyčíslil
+
+
+jsem také dle jednoduchého vzorce 5.). Výsledek případě I.: /-, —0,01871, případě 0,019193; krátkého kusu jeví tedy souhlas 0,2°/0, delšího pouze 2,7%. Přes ukazuje, hlavně nanesením pozorovaných hodnot
+
+
+semilogarithmickém papíře (J. Mel oř, Higher Mathematics, London 1902, pag. 262, Perry, Practical Mathematics, 1899, pg. 37.), kapillára vytažením dmychadle přibližné dle exponencielly zužuje. (Viz obr. 2.)
+
+
+XXXII ﻿lze přece základě těchto čísel jistě tvrditi, udaná methoda kalibrační dává poloměr kapilláry touž procentuální přesností, jakou určen tlak druhá odmocnina délky; při tom schopna daleko vyšší přes-
+
+
+nosti, než vyměření mikroskopické, ježto dle Abbe-Helmholtzova principu nejmenší distance, kterou opticky lze ještě rozlišiti,*) rovna 0,00016 (pro zelené světlo immersních systémů numerické apertury 1,6). Hodí
+
+
+Srv. Drude, Lehrb. Optik. 1900. pg. 98.
+
+
+XXXII. ﻿se ovšem uspořádání popsaném jen pro kalibraci nepříliš dlouhých ka-pillár (průměr 0,1 mm, délka cm, průměr 0,4 mm, délka cm]', kapilláry delší mohou sice býti vertikále nakloněny, ale tím ztrácí jinak velmi přesné pointování spodního konce rtuťového sloupečku dalekohledu kathetometru.
+
+
+Dosaváde uvedená měření sledovala původně jiný cíl, totiž zjistiti nebylo-li možno, kombinací měření tlakové výšky (resp. vzestupu) odpovídající ústí kapilláry vážení kapek zjednati methodu, která dovolovala určovati absolutní hodnoty povrchového napjetí bez obtížného měření radia kapillárního otvoru. Jest totiž dle rovnice l.)
+
+
+pro váhu odpadající kapičky platí
+
+
+
+
+
+kdež všeobecně jistá konstanta, kterýchžto rovnic bylo lze eliminovati.
+
+
+Kontinentální autoři kladou theoretické limitě 2nji, vycházejíce úvahy, váha kapky nesena povrchovým napjetím působícím obvodě 2nr, kde poloměr válcovitého místa, němž kapka utrhne, jenž jest něco menší, ale úměrný tedy fir, při čemž pravý zlomek velmi blízký jedničce. Traube**) usoudil svých pozorování, tím více jedničce blíží, čím abs. hodnota menší; proto zvolil jsem daleko menší než všichni předchůdci, což umožněno užitím sklu neadherující rtutí. Autoři angličtí***) berou příkladě rthingto úvahu mimo sílu povrchového napjetí 27tra také změnu hydrostatického tlaku uvnitř kapky zakřivením válcovitého povrchu způsobenou rovnou píší theoretickou limitu G—icra.
+
+
+
+
+
+Váhy kapek experimentálně určené leží mezi oběma hodnotami 'inra. nra. Lord Rayleigh odvodil (1. c.) pokusů, při velmi různých poloměrech (spodní mez asi mni) nejlépe vyhovuje empirický vzorec (9=3,8
+
+
+naších měření plyne dle rovnice 1.)
+
+
+
+
+
+učebnic nejnověji Chwolson, Lehrbuch der Physik. Bd. 1902. pag. 601.
+
+
+**) Traube, Journ. prakt. Chem. 34. 292 515. 1886.
+
+
+***) Lord Rayleigh, Phil. Mág. 4<V. 321. 1899. učebnic Gray, Treatise Physics Vol. London 1901. pg. 662. nejnověji Poynting Thomson, Textbook Physics: Properties matter, London 1903. pg. 161.
+
+
+XXXII. ﻿při čemž nutno dosaditi spec. váhu rtuti při 14'1°C., tedy 13,562,
+
+
+pro povrch, napjetí hodnota 29,843'""5— velmi dobrém souhlase
+
+
+
+
+
+interpolovanou Paschenových*) pozorování 29,79. téže kapilláry nechal jsem pomalu odkapovati rtuť určil váhu jedné kapky (vážením kapek vzduchu) při odkapové době vteřin**) 3,475 m%r; jest tedy kyselině hustoty 1,2500 při 14° G=3,154mgr.
+
+
+toho plyne
+
+
+měr
+
+
+26,11
+
+
+mgr tnm
+
+
+3,8
+
+
+43,15
+
+
+
+
+
+Není tudíž Traubeův předpoklad limitní hodnotě 2nra, aspoň kapalin neomáčejících při poloměru 0,02 ani daleka splněn. Hodnota povrchového napjetí tak počítaná asi 10% menší než skutečná. Ještě méně souhlasí skutečností předpoklad Rayleighův
+
+
+3,8
+
+
+hořeního měření plyne pro jeho koéfficient hodnota daleko větší, totiž 5,624, bližší než
+
+
+Další měření musí teprve rozhodnouti, pokud tento koéfficient nezávislý poloměru kapilláry případě velikosti povrchového napjetí.
+
+
+Darmstadt. 12. května 1903.
+
+
+Paschen, Wied. Ann. 40. 36. 1890.
+
+
+**) Podobně jako své práci: Die Oberfláchenspannung voň polarisiertem Quecksilber, Lipsko 1903, Drud. Ann. Phys. 11. 529. 698. 1903. prvé viz přehled literatury methodě vážení kapek.
+
+
+XXXIII. ﻿*"

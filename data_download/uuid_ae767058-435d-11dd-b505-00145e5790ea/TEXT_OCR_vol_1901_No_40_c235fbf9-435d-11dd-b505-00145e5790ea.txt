@@ -1,0 +1,425 @@
+"","x"
+"1"," ﻿ROČNÍK X
+TŘÍDA II
+ČÍSLO 40.
+O počtu tříd forem  kvadratických záporného
+diskriminantu.
+Napsal Dr. K.  Petr,
+professor na II. českém  gymnasium v Brně.
+Předloženo   dne   15.   listopadu   1901.
+V pojednání tomto odvozeny jsou některé další důsledky řad podle příkladu Hermiteova ode mne odvozených v práci »O užití nauky o funkcích elliptických na theorii forem kvadratických záporného diskriminantu.* (Rozpravy Č. Akad. r. IX. č. 38.)*) Důsledky t> to jsou zcela jednoduché, avšak přece dosti zajímavé, jak hned hodlám vyložit.
+Levé strany relací pro počet tříd odvozené Kroneckerem jsou, jak známo, tvaru
+kde k postupuje řadou arithmetickou, jejížto difference jest l, 2, 22, . . . Později seznal Gierster v pojednání »Uber Relationen zwischen Classenzahlen binarer quadratischer Formen voň negativer Discriminante«, Gottinger Nachr. 1879 (otištěno v Math. Ann., sv. 17, str. 71), že lze odvoditi vztahy pro počet tříd, jichž levé strany jsou opět tvaru («), kde však k postupuje řadou arithmetickou, jejížto difference jest 3 a 5, v pojednáních pak pozdějších (Math. Ann., sv. 21 a 22) poukázal na cestu, jakou lze odvoditi vztahy pro ten případ, že difference ona jest libovolné prvočíslo p a na obtíže, které při tom se vyskytují, kteréžto obtíže pak podařilo se Hur-witzovi překonati. Pravé strany těchto relací jsou výrazy ovšem složitější
+*) Kdykoliv v násl   citovány jsou stránky, vztahuje se to. není-li nic jiného udáno, k tomuto pojednání.
+Rozpravy:  Koč. X.  Tř. II.  Č.  40.
+XL. ﻿než v relacích Kroneckerových a závisí na vztahu jednak čísla ;/, jednak k ku p. Vyskytují se zároveň na pravých stranách dělitelé komplexní čísla/, ku př. pro [> — 7, dělitelé tvaru a -\-b \ - - 7. Patří tento předmět mezi nejzajímavější užití theorie modulových funkcí a jest obšírně vyložen ve knize Klein-Fricke, Vorlesungen uber dic Theorie der elliptischen Modulfunktionen, II. sv. 1892.
+Seznal jsem však jakožto velmi pravděpodobné, že jako relace odvozené Kroneckerem jsou prvním členem v nekonečné řadě vztahů, jakž ukázali Gierster a Hurwitz, že tato řada vztahů jest zase prvním členem řady obecnější. Odvodil jsem totiž vztahy, kde argumenty postupují řadami
+(p)                   n — 2 L8,      « — 3 L-,       // — 5 /•-,      n — 6 /'a
+a kde /' roste řadou arithmetickou, jejížto difference jest l, 2, 4.
+Jako pak na pravé straně vztahů Kroneckrových vyskytovali se dělitelé čísla ;/, pj případě i komplexní dělitelé tohoto čísla, vyskytují se v případech mnou uvedených celistvá řešení rovnic :
+(y)      x~ — 2}'2 — ;/,    ,r2 -— 3j/2 = n,    ,r2 •— 5j>"" ~ n,    x"" -— 6j/a — n
+vymezená takovými podmínkami, že jestliže n jest prvočíslo, nejvýše jedno řešení za oněch podmínek jest možno.
+Jest patrno, že ona řešení lze pokládati za jednoduché funkce dělitelů čísla n, přiřadíme-li k přirozenému oboru čísel V 2 resp. \ 3. v 5, V 6. Ku př. x hovící při celistvém .r a y rovnici prvé z rovnic (7) jest poloviční součet dělitelů
+x
+—y Y2,        x + y V 2.
+Tím   objasňuje   se   i význam   pravých   stran   ve formulích  Kroneckrových. Tak ku př. vyskytuje se na pravé straně jedné formule lunkce
+kde c/j jsou dělitelé lichého čísla n menší nežli V/;/; jestliže pak n jest úplný čtverec, jest třeba přibrati dělitele, který se rovná V «, tohoto však s váhou poloviční. Jest okamžitě patrno, že místo (d) lze psáti :
+kde celá čísla x a y jsou stanovena těmito podmínkami:
+.,--'   —y-l   .-   ;/j      y ^Q,       X -^-V,
+při čemž řešení na hranicích třeba bráti s váhou poloviční.
+X L. ﻿Pro ten případ, že argumenty numerických funkcí postupují řadami // 2 /L2, ;/ — 3 L2 docílil jsem systém relací zvlášť úplný a aby zachován byl přehled v těchto dvou případech, uvádím relace ty zde pohromadě.*)
+I.  Argumenty  postupují řadou n — 2 L2. (1)    /•» — 2 /'(W - 2 . l2) 4 2 F(n - 2 . 22) — .   .   =      (— lf+J'~\v
+(2)
+(3)
+2 /•> — 2 . l *) -f 2 ^(// - 2 . 22)
+,
+2 (7M> - 2 . l2) - 3 H(n — 2 . l2)] -4-2 . 22) — 3 II (n — 2 . 22)] -f . . .
+[//(„) __ 3 /-
+-
+[/M'2 wi — 3 //(2 «)] — 2 [^(2 u — 2 . l2) — 3 //(2 ;/ — 2 . l2)] -j--f 2 [^(2 « — 2. 22) — 3 //(2 n — 2 . 22)]      . . .
+Pro (1), (2), (3) a (4):
+-t-""    '    y   ~~~"" ^i         ^ ^-. L y^        y Í^TI v/.
+Řešení na hranicích prostoru vymezeného těmito nerovninami třeba čítati s koefficientem —, kterážto poznámka má platnost pro všecky podobné případy v následujícím.
+(5)
+[/•'(2 n f 1) — 3 H(2 n T 1)] — 2 [7^2 n -f- l -* 2 . l2) -- 3 //(2 M -j- l —2.12) -t 2 [/v(2 « + l — 2 . 22) — -l - 2.2M-.   .-(—n."" + 1
+*) Označení jest totožné jako v cit. [jojedn. Tak značí zejména d dělitele (u vztahu (1), (2\ (3), C4) čísla w, u vztahu (5) čísla 2 ;/ + l, u (6) čísla 8^ — 1 atd.). Index u </ značí vlastnosť číselnou tohoto dělitele, jeli psán latinkou ; jeli psán řeckým písmem, vlastnosť dělitele konjugovaného.
+XL. ﻿/•'(8 « — l) — 2 /-'(8 // — l — 8 . l -) -f 2 F(Zn — l — 8 . 22) —
+(6)
+I A(16i/+ 14-2. l-')-/'""(16«-|- 14-2.32) C)                                       -(-!)""-
+l                                        ^
+.r2 — 2j/2:= 16 « 4- 14,         ^r^
+O,
+2.5*) +...
+y > O.
+U této formule jakož i u následující jest členy, jichž argument jest m — 2 (8 L it l)2, čítati skladným, členy pak, jichž argument jest /// — 2 (8 k :+: 3)-, se záporným znaménkem.
+(8)
+2/^(16 ;/4-2 — 2. l2) — 3//(16;/   r 2—2. l2)]-2/Xl6«4-2 — 2.32) — 3//(16«-f- 2- 2.3*;] —. .
+8 . l 2) + 2 7^4 // -f 2 — 8 . 22)
+(4 « f 2) — 2 A (4
+.r2 -f 2;,'2 = 4 « + 2,        ^ ^ O,        / > O « 4- 3) — 2 /'(S « 4- 3 — 8 . l 2) 4- 2 A(8 « 4- 3 — 8 . 22)
+'
+0.
+II. Argumenty postupují  řadou // — 3 k~,   n = 2 3
+(11)
+- 4 -    2"" ''3""  7—- -(--
+02)
+12 m i l         ""12 »í ± 5)
+3 //(«)] 4- 2 [/^(« — 3 . l2) — 3 H(n — 3. la)J
+XL. ﻿Pro (11) a (12):
+x2 — 3y* =2 w,        y >; O,
+(11')
+(12')
+) - 2F(4n — 3 . l3) + 2 /<'(4« — 3-2"">             ~ 2      •*
+x*—3y'=2nt       y ^ O,        .r ^ 3/,
+-í- l —3.22)
+0.
+2 -f 3 j<2 — 4 « + l ,        x > O,
+|>(4« + 3) - 77(4 n-\- S)] - 2
+-\- 3 - 3 . l 2) - 77(4 ;/ + 3 . l 2)]
+y
+> 0.
+K tomuto systému vztahů jest třeba přičiniti tyto poznámky: Ze vztahů (2) a (3) resp (11) a (12) plyne jednoduchou kombinací, uváží-me-li, že počet rozkladů čísla n ve tři čtverce jot dán výrazem:
+12 [F(n}— //(>/)], počet vyjádření čísla n pomocí forem
+Jestliže tudíž tato čísla za známá pokládáme, můžeme po jednom vztahu z každého systému vypustiti. Mimo to jsou vztahy (11') a (12'j závislý na (11) a (12). Uvedl jsem je však přece, jednak totiž jsou vztahy (11) a (12) platný všeobecně pro každé //, následkem čehož jsou pravé strany jich poněkud složité, naproti tomu vztahy (11') a (12') vynikají na pravých stranách zvláštní jednoduchostí, jednak jsem to učinil vzhledem ke vztahům (13) a (14) z důvodů na snadě ležících. Avšak nepojal jsem do přehledu tohoto vztahy, které podobně jako právě uvedené dají se odvoditi a jichž argumenty postupují řadou
+l        (3/&4-1)"" ;/ -\ --- - — 3             3
+Zmínil jsem se o těchto vztazích v odst, (V.), kde také jeden z nich uvádím.
+XI.. ﻿I.
+Při odvozování vztahů v úvodu vytčených použijeme jednak formulí pro transformaci funkcí theta druhého a třetího stupně a pak těchto ro/-vojů v řady trigonometrické :
+=8 y (_ i,""
+c               ""~~
+;„(2 *- i).,
+(16)
+(17)
+-2
+~
+(18)
+cos 2 k n v
+n = 0, l, 2, 3, . . . ;        *= 1,2,3,.... Rozvoj  (15) násobíme po obou stranách:
+a dostaneme tak na levé straně
+. _                             a
+@^' f°' 2 ? j ' ^
+Avšak činitel druhý v součinu právě napsaném jest nám znám ;  jest totiž dle citovaného pojednání str. 5.  a 8.
+n- 1,2,3, . . .,        k— 1,2, . . . n
+a kde
+XL. ﻿l
+Jest tudíž součinitel <^ cos it v na levé straně výraz 16 5] *(*)/«, fa 2*)
+//      l, 2, 3, ...
+Vypočteme součinitel <y4 cos it v   na   pravé   straně   a   obdržíme   osminásobný součet výrazů
+1                      /         l \ *      l
+n4-k — \                     «z----•f-2L(2«+l)+ÍA----)----
+)          (n + 2k)q       4                n     2;     4
+//      O,l, 2. .. . ; L      1,2,...
+(     1)           (n-\-2k-1)/""""4 +                       ^     2
+Mocnitele ^ lze psáti v těchto dvou   případech
+„=-0,1,2,..;/•     1,2,.
+a tak dostáváme srovnáním obou výsledků vztah : (•\ \    y/Y«i__9 Fin__'->   12i 4- ? 7<""Y// — ?  ?-""> -
+\  ...  l         J.      \ rif 1            L-I   J.      \ fť            *J  .    L     /      l       & Jt     \ft            *_r,«—</            •   •
+\     /         \                  \                 /l          \                 y
+kde A* a  r jsou celistvá řešení rovnice .r'2 — 2j'~ ~ n vázaná  podmínkami .r '•"" 2j, j' ^ 0.  Platili v těchto podmínkách znaménko  rovnosti, jest řešení
+příslušné násobiti —.
+Lt
+Rovnice x~ — 2_!'2 ^=: ;/ jest jenom tenkráte řešitelná, když číslo ;/ obsahuje za činitele prvočísla tvaru 8 v + l a jenom sudé mocniny prvočísel tvaru 8 i'+ 5 a sice jest známo,*) že v prostoru omezeném podmínkami 2,r^3_y, j'^0 jest tolik řešení, o kolik převyšuje počet dělitelů čísla u tvaru 8 i> + l počet dělitelů tvaru 8 v + 5. Náš prostor vymezený podmínkami x ^ 2 y, y ^T O jest menší a hkdíme-ii na počet řešení oné rovnice právě poloviční. Neboť transformací
+.1-' = 3 x — 4j<
+rovnice .r2-—2j'2~ «   se   nemění   a   hoví-li   .r   a  y podmínkám   .r--"" 2j',
+r-^ O hoví .r' a/', která jak   bezprostředně   patrno jsou rovněž positivna,
+podmínkám   2 .v' ^ 3j'', .r' ^ 2 r',  jak   z   (f)   snadno   plyne.    Tim   tvr/ení naše dokázáno.
+*) Lejeune Dirichiet, Recherchcs sur diverses applications de l' analyse inf. ;i la théorie děs nombres. Crellúv Journal t. XXI. pg. 6. ﻿Jestliže tedy ku př. n jest prvočíslo tvaru 8 v + l, jest jedno a jenom jedno řešení v hranicích udaných a řeší nám, známe-li F(n] vztah (1) rovnici .ť2 — 2y2 :rr // pro ten případ, že n jest prvočíslo, (na kterýžto případ ostatní snadno dají se převést).
+Zcela podobně jako vztah (1) lze odvoditi i vztahy (2), (3), (7), ne-hledíme-li ku jedné okolnosti, kterou na jednom příkladě ukážeme. Zná-sobíme-li (16) na obou stranách
+
+dostaneme na levé straně
+- «, (o, l). a, >«. -?'$""'-(r) -+•. (a -f)«,s «, •«,
+Abychom vypočetli pravou stranu vztahu (2) jest tedy třeba znáti @8 l O, ) ®!2 ®3 a podobně jest v jiných případech nutno vypočítati ®3 (O, 2 r) ®S2®3, fe>j iO, 2 r) 022 6>3. Výrazy tyto jakožto mocninové řady argumentu q snadno lze ustanoviti a dostaneme
+(19)
+V 26>82®g fe>, (O 2 r)   jest rovno derivaci funkce
+77—^: pro v
+Dostaneme tak snadno
+2 * es ^ (O, 2 r) ^ 2
+;/      0,1,2,...
+d dělitelé čísla 2 n -\- \
+;/     O, l , 2, ...
+dělitelé  čísla ;/
+;/       O, l. 2. ' . .
+d dělitelé číslu //,  jichž konjugovaní   mají   vlastnosť   vyznačenou   indexem.
+X L. ﻿Podotýkám současně, že ve výsledcích \ rávě uvedených jsou obsaženy také některé vztahy pro počet tříd ovšem specielní; tak ku př. v posledním, jelikož
+fjak snadno plyne / vvrazu pro  6>33) plyne relace:
+F(4 m 4 2) + 2 /-'(4 ;// -f 2 — 8 . l2) J- 2 I<(4 ;// f 2 - 8 . 22) . . . = V (,/          — d         )
+^ v    8 /( ± l             !i ./< i 3'
+c/ v tomto vztahu jsou dělitelé čísla 2 ni -4- 1. Tato relace jest kombinace (1) a (2), když n má tvar 4 ;// f 2, a nenf z té přfčiny uvedena v úvodu, což platí i o ostatních vztazích z (19') a z podobných řad plynoucích.
+II.
+Vztahy (4) a (5) jsou důsledek vztahů  (2) a (3)   a identity:
+022(z/)
+//      i Na   levé straně jest koeťficient výrazu q   .q*sin2itv\
+| 8 '/•'(//) — 3 //(«) — (F(n — 2 . l2) — 3 //(« — 2. l*))-f . ..] -f
+('')                           2 .r,2  - ;',s  - w,         jct ^j'x,        j^ -- 0.
+2 ni          1
+Na pravé straně jest koefficient q     . q'- sin 2 TI v:
+(x i 8 . (— l
+' (/;/) -f 3 //(;«) + 2
+- 2 . l 2) -f 3 // (';// - 2 . l 2)) -f . . .]
+2 >K -f l         1
+koefficient pak q           . </- .?/;/ 2 ^ •:•:
+,ft       l   16.(— ir""1f/'""(4w-í-2 -f- 2. l2) — 3 7/[4;//+2 — 2. 12) + I       -f/-'(4w i-2 - 2.32J — 3 77 (4///-;- 2 — 2.3-)-f ...J
+Avšak (x) jest známo následkem (2) a (3; a tudíž (/) ustanoveno pro ten případ, že n sudé. Známe li však (/) pro n sudé, známe též (A) a tak (/) stanoveno i pro ten případ, že n liché. Tím odvozeny obě relace (4) a (5). Třeba při tom snad ještě poznamenati, že řešení rovnice (ť) ﻿10
+s    udanými    podmínkami   lze   převésti   na   řešení   rovnice ,r -"" 2j, y <^ O pomocí rovnic .Vj = ,r —j', j, rr .v — 'l y,
+Vztahy (6) a (8) plynou přímo z identit
+2 y""1 ~ n,
+W », W
+III.
+Další  vztahy skupiny prvé odvodíme zcela snadno ze základní relace pro thetafunkce
+-a. 0, 6>á W, = &' (0) =z 2 «       (— lV (2 ;/ + 1)
+(f)
+používajíce při tom těchto výsledků (pg.  11   rovnice  14,  16)
+(20)
+12 ^] [F(n}-8V
+o, 1.2.
+ze kterýchž pomocí zcela snadných úvah arithmetických obdržíme:
+('20')
+- 4
+/'-(4 « + 1). (— l
+[F (4 «) - H (4 «) ""         - 4
+""
+
+f l)/""
+_ 4 V F (4 « 4 2J q:'
+(4 » -f- 3)
+XL. ﻿11
+Z těchto vzorců pomocí transformace 2.  stupně odvodíme   podobné. Tak ku  př. ®s' = ®i8(°> 2r)-f ®S8(0, 2 r) a tedy
+a podobně
+6> *
+""
+•).{ (O, 2 r ) - 12 2j [/•' i«) ~ // (»)] ?    + 4 2] 17'' (4 « T- 2)
+„                           •"" "" + 2
+&1 &3 &3 (O, 2 r) = 2\ F f 8 « f 2) .7    a
+(21)    {
+^ ®3 (H)-2 (O, 2r) =: 12 y [/•'(«) — //(//V] (--!)"" .
+Z identity pak ku př.
+®i @,' ®;! • ^.-i (°. 2 r) — (M)-2 • &i ®:i ®3 (O, 2 r ) plyne ihned vztah:
+X — l
+8« + 2— 8.22)... =(— D   2
+l Řešení, ve kterých j/ =: O, třeba čítati  s koefficientem — .
+u
+Zcela   analogickým   způsobem   vztahy   ony,   ve   kterých   se   vyskytují řešení rovnice
+.r2-f 2 j'2 = «.*)
+*) Zceia stejně mohli bychom odvoditi vztahy pro počet tříd připínajíce ku (u) a (20 '). Dostali bychom vztahy, které odvodil Hurwitz Journal fůr reine und ang. Mathematik sv. 99. 1885.) Ku př. z identity
+dostaneme
+2) — 2 ^(4 ;/ + 2
+4 . l2) -f- 2 ^(
+.v2+ v"" =
+w + 2 — 4 . 22) -f . . . = 2-""(— 1)~ ﻿IV.
+Jako jsme použili formulí pro transformaci druhého stupně ku vypočtení vztahů pro počet tříd, jichž diskriminanty postupují řadou u — 2 &2, použijeme pro výpočet relací, které odpovídají řadám n — 3 L2 formule pro transformaci třetího stupně. Formulím těmto lze snadno dáti tvar pro nás potřebný.*)
+(22)
+3 &' (O, 3 r) ~®r 6>o2
+Podobný   tvar  mají   ostatní   tri   skupiny   formulí   pro   6>,    (3 v, 3 r), (9, (3z/,3r),  <93 (3 c', 3r).
+Z těchto vzorců lze odvoditi  některé vztahy mezi thetafunkcemi. Tak
+ku  př.   z první rovnice (22) plyne, položíme-li 2; = —:
+(23)                      6>3 03 (O, 3r)—®1 ®, (O, 3 r) -f- 6>, ®2 (O, 3 T),
+kterýžto   vztah   jest   Jacobi-ova   formule   pro   transformaci   třetího   stupně funkcí elliptických, kterážto se psává obyčejně ve tvaru
+Podobně plyne:
+v x ;7-f W A' = i
+6>33 ®2 (0,3 z) — (*J.23&S (O, 3 r) — 3 ^ ^ (0,3r) &3 (0,3r) &, (0,3 r) (24) {  6>!3 ©g (0,3 r) — &3 3 ís), (O, 3 r) — 3 (9, (^ ,O, 3 r) W, (0,3 r) 6>., i O, 3 r; y,3 fe>3 (O, 3 r) — a,;i 0, (O, 3 r) = 3 &.3 ®i (0,3 r) 6>2 (O, 3 r) &3 (O, 3 r]
+*) Vzorce tyto lze snadno přímo odvoditi. Můžeme totiž ku př. položiti:
+<9 (3 vt 3 T) — A W (?) (9,f (v) + A' fe> (?) #„»(p) a koefficienty yl a fínz v nezávislé ustanoviti pomocí zvláštních hodnot v ku př. v~ , - T,
+» ~    -4-— T, čímž dostaneme ihned formuli první. 2       2
+XL. ﻿13
+Již ve (23) a (24), kteréžto vzorce na sobě nezávislý nejsou, jsou obsaženy některé vztahy pro počet tříd, které mají povahu jako vztahy odvozené v odst. (III). Tak ku př. násobením CH)l &:í dostaneme ze (23)
+(O, 3 r) — 0, 2 03 <0, (O, 3 r) =
+>á (O, 3 r)
+z čehož ihned:
+/<\4« l-l)-2/'(4«+l-3.12) + 2/''(4tt -h l - 3 . 2á) . . . =      (- Ij
+.r
+Násobením  W, W;i 'O, 2 r)  obdržíme  podobně
+W, fe>3 fe>, (O, 2 r) fc>, (O, 3 r) — &, $,, 6>3 (O, 2 r; fe>3 (O, 3 r) -
+W, 2 <y, (O, 2 T) 0, (O, 3 T) = O a tudíž
+(25) /'X16 n -f 10) — 2 *'(16 « -f- 10 — 6 . 1-j ^ 2 F(\6n -f 10 — 6 . 22) . . . = O
+Stejné odvozen jest vztah (14.)
+Z formulí (22j plynou dále výrazy pro  hodnoty   thetafunkcí,  jestliže v —   — .   Máme bezprostředně
+O
+Í26)
+I0.3r) i
+Abychom určili a můžeme použiti ostatních skupin pro transformaci třetího stupně, anebo jednodušeji ještě jiných formulí pro thetafunkce ku př. formule pro ® (2ír), fe>, (2 z/), . . . Srovnáme-li pak výrazy pro « různým způsobem vy[)očtěné, dostaneme t\'to vztahy mezi thetafunkcemi :
+(27)
+V
+y \ \
+>.2 (O, 3 r) 0 ,         3 <y., 2 1 0, 3 T ) — @2 2 , (O, 3 r) W0                     2 6>, W,
+O     >•      '               /          -                                                        w          o
+>;J (O, 3 r j fe>., 3 (O, 3 r) W, '
+(O, 3 r) — 20""©""""
+fe> 3 (O, 3 r) #,   _ 3 <«>,2 (O, 3 r) -f 0,s fe>, (O, 3 T) 6)3                     2 fe^ 6;3
+6>,JO, 3 r) fe>;J  _ 3 W, - (l), 3 r) -f W, -
+XL. ﻿14
+(27)
+\ V
+&i (O, 3 r ) M,    _ 0, *      3 W, - (O, 3 r)
+9 (O, 3 r) «~   '              2 0, W,
+/' 6), (O, 3 r ,"" ®,     _ 3 «8 3 (O, 3 t) + «„ 2
+, (O, 3 r) &2  '              2 ^ &2
+Tyto vztahy jsou potřebný, chceme-li vypočítati hodnoty pro z1 —   Jf
+derivací  funkcí   &l &^
+S (i
+&2 (v)
+, .  .  .  racionálně a celistvě pomocí thetafunkcí
+Tak dostaneme z (25) a (27):
+=   V   f3 W:,a (O, 3 r) - fe>3*] ^ W, (O, 3 r)
+i ^            '2'  [<V'   - 3 ^2 (O, 3 r)] é>3 6>, (O, 3 r)
+Podobným výpočtem a nebo ještě lépe lineárnou transformací í T, —         )
+provedenou na výrazech   28) obdržíme hodnoty týchž funkcí pro í1 zz:
+3
+(29)
+W«
+vy;
+
+(i)
+XL. ﻿(29)     W, W, W..:
+(i)
+Píšeme-li ještě v (28) 3 r místo r, dostaneme uvedeným právě způsobem 3 <V (O, 3 t) — <VJ ^i ®i (°. 3 T) —
+l,4,  t-l-~r/3„H-l,4/(+3~'/3Wf2,4/í + r^'/3« + 2,4M-3)
+[<V (O, 3 T) -f <VJ &l &, (O, 3 r) =
+K2„ , 1-^/( + 5-^/( + 7+^, + n) ^ 2 — 3 ©, - (O, 3 r)] fe>3 &a (O, 3 r,) =
+(30)]
+- (O, 3 T) l 6>3 6í3 (O, 3 r ) =
++ 1-^2,4-5-^,+7 + [03 - 4- 3 ^,- (O, 3 T)] &. &, (O, 3 r) =
+—d         —d          \r
+- <y;i 2 í'0, 3 T)] &., 6>2 (O, 3 T) = — c/.                   _ — d
+J
+Místo dvojitého znaménka součtového psáno v těchto formulích znaménko jednoduché. Za // třeba psáti čísla l, 2, 3, . . ., za //: l, 3, 5, ..;<•/ jsou dělitelé čísla n resp. n' a značí index psaný latinským písmem vlast-nosť číselnou tohoto dělitele, index psaný řeckým písmem vlastnost' dělitele komutovaného. Tak ku př. jest d                    dělitel čísla n tvaru 3 ;«--•-l»
+3 ,„ -f l, 4 i, -f l
+jehož konjugovaný jest tvaru 4 » -j- l-
+Výrazy   na   pravých   stranách  (30)   lze psáti jednodušeji,   položíme-li
+n — 1  .3  .A', kdež N není dělitelno již ani 2, ani 3.  Tak ku př. lze psáti:
+2j   {   3/«+ l, 4/1 -f I        3m + l,4u + 3         ( 3/w + 2. 4// + 1    '    ' 3 m + 2,4fi + 3' '
+
+kdež í/ na pravé straně jsou ovšem dělitelé čísla   .V.
+X L. ﻿16
+Z výsledků (30) a vztahu  (23) p'yne snadno řešení úkolu, určiti počet kolikrát lze formami  bikvadratickými:
+(31)
+-3
+vyjádřiti libovolné číslo u.  Pro první formu bikvadratickou jest tento počet, klademe-li opětně ;/ — 2   3   N:
+V tom případě, že // není dělitelno 2 a 3, určil tento počet Eisenstein (Math Abh. str. 194.), který k tomuto výsledku dospěl pravděpodobně úvahami arithmetickými.
+V.
+Z identity
+(8)
+0,3r)
+plyne,  dosadíme-li  na levé straně  rozvoj (18) a na pravé použijeme rovnice (4c) str.  5 a výsledků právě odvozených, okamžitě vztah:
+-! - 2 ^(« — 3 . l2)
+3 . 22J
+~
+(U)
+kde C(>)
+Řešení  na  hranicích  třeba čítati s váhou poloviční.  Pro  y jest těmito
+V  n
+podmínkami vymezen,  jak   patrno  obor O """"[y **^ y —.      Rovnice   ((>)   má
+jenom tenkráte řešení, když ;/  má jeden z těchto tvarů : 2"" '•'. 32'""' (12 ;// 4- 11),     22''+' . 'S'""' (\2m -j- l),      2'""' *'. 33'""     ' (12 /// + l),
+22,' + l   _^.""' + l   (12w_}_   HJ)
+XL. ﻿17
+mimo to čísla 12, u/ - l, 12 M 11 nesmí míti za činitele prvočíslo tvaru 12 m ;+; 5 na lichou mocninu povýšené. Pro počet řešení rovnice ((>) lze učiniti tytéž poznámky, jako při rovnici .v1' — 2y~ — n. V mezích y -"" O
+r """"""       A* jest právě tolik řešení, o  kolik převyšuje počet^dělitelň čísla  X
+L
+tvaru 12 ;;/+!, počet dělitelů tvaru 12/// + 5. Avšak i v tomto případě lze tento interval Lejeune-Dirichletův rozpůliti a vymezení naše představuje právě polovici onoho intervalu, takže rovnice naše ip) za uvedených podmínek má půlkrát tolik řešení, o kolik počet dělitelů čísla A""tvaru 12 m -T l, převyšuje počet dělitelů tvaru \2m__5. Okolnost' tato plyne transformací rovnice (y) substitucí
+.v' ~ 1x — 3 v,
+>                     o
+y  — x — ly.
+Obdobně jako identity (j>)  lze použiti identity
+&í2 to*- to^-          .,      to.^- (:-) &í (v]
+(yl (o z', 3r)                   —^s""®3     ""^r~2 /_
+), 3 r) —
+- 6>, (r) W, 6>, - to., (0,3 r) ku oď ožení relace (12).
+Užili  jsme   ku   odvození   vztahů   pro počet tříd transformace třetího stupně   (r, 3 r).   Kdybychom, místo   této   transformace   byli   použili   druhé
+hlavní transformace (r,        ),   byli   bychom   obdrželi   mimo   formule,   které
+\       O     /
+jsme již dostali, relace jiné, jichž příkladem budiž
+l1'
+l-       -'}      F(H+   1 -    *-)
+^"" i      J  \ ""                        ^  t      • • •
+(32)
+3 n f l = 2' A,        3 .1-- - ;-' — 2 . (3 // - - l),       y -^ O,        x ^ .r, kterážto relace plyne z identity
+a z (30).                                       ""-   (- •
+Kombinací   relace (11) z (32) dostaneme   snadno hodnotu pro vyraz
+F(9 « -f 3; + 2 /-'(9 « + 3 —27 . 1*J -|- 2 /• (9 //  - 3
+KOI pra vy:  Koč. X. Tř.  II.  Č.  40.                    XI. ﻿18
+VI.
+Abychom konečně odvodili vztahy, kde argumenty postupují řadami n — 6 &2, n — 5 /L2, jest zcela podobně si počínati jako v předcházejícím. Avšak abychom i v těchto případech dodělali se výsledků úplných, bylo by třeba, jak se zdá, podrobně zabývati se transformací thetafunkcí šestého a pátého stupně a relacemi příslušnými, podobně jako jsem to provedl pro transformaci třetího stupně.
+Jelikož mi tudíž v oněch dvou případech neběží o úplnost' systému relací, postačí, když uvedu pomůcky a v obou případech po jednom příkladě vypočtu. Začnu nejprve s případem prvým z obou nahoře uvedených, kterýžto jednak jeví se mi zajímavější, poněvadž vztahuje se k číslu složenému, jednak postačíme s formulemi buď již vyvozenými anebo takovými, že se dají snadno odvoditi pomocí transformace 2. stupně.
+Tak jest ve výra/ech :
+(ý &   W"" (v} ®« (<') &-' ÍT/)
+l   ^                             8 n — l
+koefficient cos TT v : 4 </s V F (8 ;/ — l) q     v,    ;
+(33)
+koefficient sin n v : 8 </- V ( — l V ; 1 \F(u) -1- 3 H (ií]\ q"" "" •
+'
+«•••
+es (v)
+„
+člen nezávislý na v : 8 V F (4 // -j- 3) q
+1   ^-^                                       •> }l
+koefficient cos 2 it -c : 32 g- V F (n) q~ \ 2   ?,_'(*) »al(«0
+»;»(»)
+člen nezávislý na v : 4 V [/r'(4 u +_ 1)] </ koefficient   cos 2 w v :   S ^2 V |7<""(2 ;/) — 3 77 1'2 ;/')  //"" .
+První   dva   z   těchto   výsledků  jsou   známy   (str.   13.),   další   plynou z  rovnic  na str. 5 a  8., jak už jsem vytkl, transformací 2. stupně.
+Násobíme-li rozvoje (15) (16) (17) různými výrazy pro (*) (3 f, 3 r), . .  . a výsledky obou stran srovnáme, dostaneme vztahy  hledané.
+XL. ﻿19
+Tak ku př. z rovnice identické
+. (0,3„
++ 0, 2 (?) fe^ 6>, W, (O, 3 r) dostaneme, srovnáme-li členy na obou stranách  na v nezávislé :
+(34)
+— 2/<X8//-j-5 — 6. l2) -j- 2/<*(8 « -f 5 — 6. 22) . . . -: \ .
+'- = 8 n
+(34') 7<\8 n -f 7) — 2 /M 8 «+ 7 — 6. l2) -f- 2 /'""(8 n -|- 7 — 6. 22)... = -    V .r 2 A-2 — 3j'- = 8 «-f7,   j>0,    2*j^3j'
+Jest zajímavo rozhodnouti, kolik rovnice 2 .r2— 3j/L' — A' má řešení za uvedených podmínek, jestliže A^jest prvočíslo. Aby vůbec byla řešitelná, musí to prvočíslo býti tvaru 24///-*-l, 24 ///-{- 5. Poznáme pak snadno jako v případech předešlých, že ona rovnice má jedno a jenom jedno řešení a že proto y •—O 2.r-""""3j' jest polovici prostoru Lejeune-Dirichletova vymezeného nerovní námi
+jakž plyne  ihned  pomocí transformace
+A*' .= 5 x — 6 y, / —4.r — fij-.
+Pro výpočet relací týkajících se čísla 5 jest třeba znáti formule pro transformaci thetafunkcí pátého stupně. Tyto formule ve tvaru pro nás potřebném snadno dají se odvodit. Můžeme totiž, jak ihned patrno psáti
+(35) (s) (5 v,
+
+koefficienty pak . /n . •/.,, .-!., určíme položíme-li za r hodnoty r ,     r,      -[-      r.
+Tak obdržíme
+A      ©, !0,5r:
+, (0. 5
+V
+Zvétšíme-li •:• o polovinu period, dostaneme formule pro transformaci ostatních thetafunkcí. Z formulí těchto plynou různé vztahy mezi theta-funkcemi, tak ku př. píscme-li v (35) r1 _ O, dostaneme:
+(36)
+5 <y, (0. 5 r) M, .0, 5 r) W, (O, 5 r) = 6>, ip, 5 r) ©, ;- 6>, (O, 5 t) 6>, a, — W, (O, 5 r) W, 6>,,
+XL. ﻿z kteréhožto vztahu, podobně jako při transformaci stupně třetího z rovnice (23), můžeme obdržeti různé relace pro počet tříd. Tak ku př. ná-sobíme-li po obou stranách fe>, dostáváme v/tah :
+/''(8 n   J   6) — 2 /''(8 ;/ -f 6 — 20 . l8) -f 2 7-'(8 // + 6 — 20. 2*) — ..
+-               -v~ l                   r~l
+x*-\-5y*= 8 w   r 6-
+Ku   odvození   vztahů   však.   jež   hlavně máme   na   zřeteli, lze použiti rovnic identických, jako ku př.
+ATOTT^T • ® ^5 ». 5 ») = V *i (o, 5 r) 0 (*) -f
+První činitel levé strany jest výraz odvozený transformací druhého stupně z funkce, jejížto rozvoj trigonometrický jest dán rovnicí (18). Bere-me-li zřetel na koefficient sin x i< a srovnáme-li součinitele stejných mocnin q na obou stranách, dostaneme relaci:
+(38)
+7''(8 « — 5 . l3) + /''(8 « —5.32) +... —
+— [/'""(2 w)-f 27''(2 ;/ — 5 . l2) -f- . . . ] — 2^
+m
+x* — 5y* = 2n\         v ^ O, 5 j -^ .v.
+Tento   vztah   by měl  tvar značně jednodušší, kdybychom  za   známé pokládali &l 3 6>j (O, 5 r) to jest jinými slovy počet řešení rovnice
+čísly lichými, kterýžto počet beze vší pochyby podobnou cestou lze určiti, jaké svrchu užito bylo při podobných formách bikvadratických. Potom, jak patrno, by bylo ustanoveno
+F(2 «) -f 2 /«'(2 // — 5 . 1 2j -f 2 /<Y2 « - 5 . 22) -}- . . .
+Vztah lze též psáti (38)   /-'(8 M) — 2 7-'(8 » — 5 . l -') -(- 2 A (8 « — 5 . 22) .  . . ——4\\x,
+při čemž x má stejný význam jako svrchu.
+XL. ﻿21
+Pozoruhodné  jest   vymezení   pro   x a y při rovnici x- — 5^a = 2 n V tomto případě jsou totiž poměry zdánlivě jiné nežli   v předcházejících. Interval Dirichletův jest tu
+polovice pak tohoto intervalu jest*)
+J'
+Nicméně i tu konečný výsledek jest týž. Aby rovnice v (38) uvedená byla řešitelná, musí obsahovati n číslo 2 na lichou mocninu jako činitele. Pišme tudíž onu rovnici
+x~ — 5j'2 z= 4 «'        j/ ^"" O, Řešení této rovnice plynou z řešení rovnice
+9
+buď pomocí substituce
+(O
+aneb
+
+— 3 .r, + 5 j,,
+*) Jest zcela snadno udati v případě všeobecném polovici intervalu Dirichletova. Omezíme-li se pro jednoduchosť na hlavní formu diskriminantu D
+(a)                                                                           .v"" — /?_>•*,
+kterýžto případ jedině se zde vyskytuje, jest interval Dirichletův:
+kde  T a. U jsou nejmenší kladná řešení rovnice   Pellovy   /' — 1) ;t* — 1.   Polovice   pak tohoto intervalu jest dána nerovninami
+'-  l""
+jakož plyne pomocí lineárně substituce determinantu       l :
+A-' — y.v - /> L'y,
+v' — L'.\- — y.v
+Touto substitucí totiž výraz (m se nemění, vyhovují-li .\  a v podmínkám <ffl vyhovují jim i .v' a y   a naopak, a konečně platí
+L/'.v* — ( y+ 1) v' =  •- K r* — ( /'+ 1) v] X L ﻿Má-li pro x a y býti splněno y —^ O, 5y ""^ .r, musí totéž býti splněno pro x± a j'n jestliže užíváme (r) a naopak.; užíváme-li pak (i>) (při čemž jenom dolní znaménko v úvahu bráti třeba), jest nutno, aby
+o r,
+, -^ .v,
+jak po snadné úvaze dostaneme. A tak vidíme, že každému řešení rovnice (ó) v polovičním intervalu Dirichletově obsaženém odpovídá jedno a jenom jedno řešení rovnice ((*).
+
+L
+XL."

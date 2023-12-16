@@ -1,0 +1,1985 @@
+"","x"
+"1"," ﻿ROZPRAVY
+
+
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNI PRAZE.
+
+
+ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO 24,
+
+
+POZNÁMKY
+
+
+THEORII
+
+
+FUNKCÍ ELLIPTICKYCH
+
+
+NAPSAL
+
+
+LERCH.
+
+
+PŘEDLOŽENO DNE 13. LISTOPADU 1891
+
+
+PRAZE.
+
+
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ.
+
+
+1892. ﻿TISKŮM OTTV PKA/B. ﻿1. Nekonečná řada
+
+
+
+
+
+A'íf/,íť
+
+
+
+
+
+c'í
+
+
+
+
+
+níž c>T-~Tt značí komplexní veličinu absolutně menší jednotky, konverguje patrně pro všecka //, ít' stejnoměrně jen pro ona ÍL' postrádá smyslu, pro něž mizí jmenovatelé jednotlivých členů jsou řešení rovnice
+
+
+___ ,j'2n w.iť ---- t»H\7 --.•i ---- lil ---- 4-2
+
+
+ieuy í.c' /// (///, _r_
+
+
+(///, těchto místech uvažovaná řada, považovaná funkci ít», póly
+
+
+stupně prvního. Součin R(n,w T)\)I(W [kde //, značí známou základní transcendentu elliptickou známky (charakteristiky) 11] jest patrně celistvou funkcí transcendentní vůči oběma proměnným ?/, íť.
+
+
+výrazu (1) patrný jsou rovnice
+
+
+další vlastnost funkce plyne okolnosti, řadě (1) lze psáti místo ;/, čímž vznikne
+
+
+
+
+
+
+
+
+(//, «•)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+odtud hledaný vztah
+
+
+Studium vlastností funkce usnadní, považujemeli 7i' odvisle tak aby TI' -|- kde jest nová neodvisle proměnná; zaveďme tedy funkci
+
+
+
+
+
+považujíce výhradně proměnnou, parametr. Jest pak/(w) funkce jednoznačná existující celé rovině (//) nemající jiných míst zvláštních kromě pólů stupně prvního -f- -\-ftr (;//, 5?, takže součin /(;/) frt -f- jest celistvou funkcí transcendentní. Funkce hoví dále rovnicím
+
+
+
+
+
+465 nichž soudíme, podíl
+
+
+jest funkce dvojperiodická základních periodách Funkce póly stupně prvého místech rovnomocných
+
+
+
+
+
+Sestrojme Weierstrassovu funkci mající základní periody uvažujme residua dvojperiodické funkce proměnné
+
+
+póly funkce jsou rovnomocny místy kdežto místech rovnomocných bodem nich povahu funkcí celistvých.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+funkce
+
+
+mizí tedy
+
+
+Residua studované funkce
+
+
+jsou pak následující:
+
+
+při při
+
+
+v""
+
+
+
+
+
+
+
+
+
+
+
+/''(O)
+
+
+Dle známé základní vlastnosti funkcí elliptických musí býti součet těchto residuí roven nulle, čehož máme vztah
+
+
+/•'(«) F(-
+
+
+
+
+
+
+
+
+2/'(O).
+
+
+další relaci dospějeme stanovením residuí funkce dvojperiodické
+
+
+
+
+
+jejíž póly jsou
+
+
+při
+
+
+
+
+
+.!—— _+.//, jejíž residua jsou následující:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+při
+
+
+
+
+
+
+
+
+při
+
+
+
+
+
+F(±
+
+
+p'u
+
+
+Annullujíce součet jich obdržíme rovnici
+
+
+F(u)—F(—u)
+
+
+
+
+
+
+
+
+
+
+
+466
+
+
+jejížto spojením rovnicí (a) plyne pro nás důležitý vztah
+
+
+./LY-)
+
+
+„/[//(„)__//(O)J
+
+
+ffu— p'v
+
+
+(v)
+
+
+
+
+
+
+
+
+277
+
+
+kterým jest náš problém, vyjádřiti funkci F(u) výrazy elliptickými, podstatě řešen. Zbývat jen konečnému upravení výsledku nahraditi //'3 (——-)
+
+
+hodnotou /</~T|9'i kde #', značí veličinu r), stanoviti hodnotu výrazu
+
+
+jest pak dle definice
+
+
+
+
+
+(-1)""
+
+
+
+
+
+jednoznačnou funkcí proměnné 7', jež hoví rovnicím
+
+
+(c} (v) -\-r)= c*' <*""
+
+
+Abychom dokázali, odvoďme hned vztah obecnější totiž
+
+
+or>
+
+
+num
+
+
+
+
+
+
+
+
+aneb, píšemcli místo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+odtud pal
+
+
+
+
+
+cx:
+
+
+
+
+
+
+
+
+
+
+
+—oc
+
+
+
+
+
+čímž vzorec (o) verifikován, následkem toho též vztah (c).
+
+
+(c) plyne, součin fl.j (v) (7') připouští periody jelikož jest patrně funkcí stále konečnou, musí býti veličinou stálou, tedy
+
+
+
+
+
+—~l~~
+
+
+konstanta obdrží porovnáním residui při jež poskytne
+
+
+467 ﻿takže
+
+
+7""
+
+
+následkem toho máme jako vedlejší výsledek
+
+
+
+
+
+Clil
+
+
+(4)
+
+
+••M
+
+
+•!>
+
+
+
+
+
+Náš hlavní výsledek hořejší obdrží tak tvar definitivní
+
+
+(5) 77/#3 (7') [/<>/)
+
+
+který lze ovšem ještě pozměniti. Poznamenejme, zde
+
+
+)•/
+
+
+
+
+
+
+
+
+,,„
+
+
+(/v, -f-
+
+
+M«r
+
+
+tedy
+
+
+Upravme ještě pravou stranu našeho výsledku (5) tvar součinu, jímž povaha funkce nejpřesněji jest charakterisována.
+
+
+Uvažme tím účelem, dvojperiodická funkce (//) /''(()) mizí póly stupně prvního místech míliových funkcí fl, (u~\- 7'),
+
+
+#.i(tf)> místech —7% —í^-| tedy musí zmizeti ještě místě -\- —Íl, čehož následuje
+
+
+(O)
+
+
+
+
+
+takže zbývá toliko ustanoviti konstantu 6', již obdržíme porovnáním residuí při plyne tak rovnice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MÍ')
+
+
+odtud
+
+
+,9'
+
+
+468 ﻿tudíž
+
+
+Vyjádřen původní symbolice zní tento výsledek:
+
+
+((5*)
+
+
+(>/
+
+
+(u) //)
+
+
+(w)
+
+
+této rovnice lze obdržeti hodnotu funkce (0, 7>) tvaru omezeného integrálu; píšemeli totiž tvaru
+
+
+(?/,
+
+
+(«) *(<),
+
+
+obdržíme odtud integrací
+
+
+
+
+
+
+
+
+
+
+
+Při integraci jest reálné předpokládáních pomyslnou čásť veličiny mezích pomyslných částí veličin ar, («-}-l)r, kde číslo celistvé, obdržíme definice
+
+
+
+
+
+
+
+
+(n, -f- ?')
+
+
+
+
+
+
+
+
+rozvinutím člcníi rozloženého součtu
+
+
+M.TI
+
+
+.TI'--
+
+
+
+
+
+-*.T/(tt-f
+
+
+dvojnásobné řady
+
+
+
+
+
+
+
+
+
+
+
+n-f
+
+
+lil
+
+
+71' 771'
+
+
+-|-1, -J-
+
+
+
+
+
+rt-4-2
+
+
+tomto rozvoji přicházejí členy nezávislé //, jež pnslušejí řešením ;//-|- resp. ///-[-// (). sice existují řešení rovnice pouze první, jeli naopak pouze druhá rovnice řešení, jeli
+
+
+Jsou pak tato řešení
+
+
+
+
+
+2,...
+
+
+resp.
+
+
+469 ﻿Součet členů stálých bude tedy
+
+
+
+
+
+pro
+
+
+
+
+
+Dle toho přejde hořejší rovnice následující:
+
+
+(7)
+
+
+»««
+
+
+
+
+
+kde
+
+
+
+
+
+-m* -ti
+
+
+pro
+
+
+ale
+
+
+
+
+
+
+
+
+pro
+
+
+při čemž značí celistvé číslo, dané nerovnostmi*):
+
+
+Im. (/« Im. Im. -|-
+
+
+Jeli tedy zvláště pomyslná čásť obsažena mezích im. bude
+
+
+Poznamenejme, vzorcem (G*) redukována funkce tří proměnných A'(//,7ť funkci dvou proměnných 7^(0,71' funkci clliptickou, vzorec (7) vyjadřuje stanoviska formalného toliko rozvoj integrálu pravé straně.
+
+
+Uvažujme součin
+
+
+(8) (w) 7f)
+
+
+jenž jest funkcí celistvou, poněvadž dle (3)
+
+
+hoví funkce (8) relacím:
+
+
+ÍTÍ/+ !,«)=
+
+
+(7L'+r,7/)
+
+
+(u)
+
+
+
+
+
+uvedených vlastností funkce ty(iu,u) plyne, lze vyjádřiti řadou stále-
+
+
+konvergentní
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:;:) Symbolem Im.7- znamenáme pomyslnou čásf veličiny tedy Im. (*/
+
+
+470
+
+
+kde součinitelé určí pomocí druhé relace (Sa) nice této
+
+
+sice obdržíme rov
+
+
+
+
+
+v=.
+
+
+
+
+
+
+
+
+
+
+
+Odtud plyne srovnáním součinitelů
+
+
+y**»
+
+
+tedy dosazení řady
+
+
+(lL>,«
+
+
+(«)•
+
+
+0.1 i(2
+
+
+l)''
+
+
+
+
+
+
+
+
+poněvadž lze pravou stranu psáti
+
+
+<j. *'(••""••
+
+
+ť>3 (*) nacházíme vztah velmi zajímavý:
+
+
+(9)
+
+
+Odtud máme vůči (3)
+
+
+
+
+
+
+
+
+R(u
+
+
+
+
+
+čili
+
+
+(10)
+
+
+
+
+
+vztah, jejž lze též přímo verifikovati.
+
+
+Poznamenejme, relacemi (8*) jest celistvá funkce V'(íL0 úplně definována, podobně jako relací (10) funkce (u)
+
+
+Funkce (u, patří kategorii výrazů, které theorie funkcí elliptických zavedl Appell, aby obdržel rozklad dvojperiodických funkcí druhu třetího prvky jednoduché tím také jejich trigonometrické rozvoje. Chceme ukázati, naše relace (G) (G*) obsahuje jako bezprostřední kon-sekvence lépe jakožto zvláštní případy celou řadu interessantních rozvojů, jakéž své thesi studoval Biehler,*) nichž mnohé hrají podstatnou roli krásných arithmetických studiích slavného mathematika Hermitea.**)
+
+
+Théses présentées Faculté děs Sciences Paris. Gauthier Villars, 1879.
+
+
+**) Sur quelques conséquences arithmétiques děs formules theorie děs fonctions
+
+
+elliptiques. (Mélanges mathém. astronomiques tirées Bulletin 1'Académie St.
+
+
+Rozpravy Ročn. Tř. II. 44.
+
+
+471 ﻿10
+
+
+Klademeli vzorci
+
+
+(B*) t93
+
+
+
+
+
+(«;)
+
+
+t+r
+
+
+obdržíme
+
+
+(A"")
+
+
+{)'
+
+
+flri1 -\- gwni
+
+
+
+
+
+
+
+
+kteréhožto vzorce plynou rozvoje pro ~r—/-y («== 0,2,3) pouhou substitucí
+
+
+hodnot '»-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Differencujemeli ((i) vůči klademeli výsledku, nalezneme
+
+
+
+
+
+=:—
+
+
+I^O
+
+
+nqn~ --nc2<
+
+
+,án~T2^T/ 4?r' 7ŽTJ2
+
+
+---/7 __/7
+
+
+^I^B li.
+
+
+—co
+
+
+Klademeli
+
+
+«-[--="", -|- -[- iil obdržíme vzorce
+
+
+
+
+
+nu.
+
+
+
+
+
+(""
+
+
+(*)
+
+
+2//>a(//)--2/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-f-ť/-""-^1
+
+
+Při tom jsme užili vzorců
+
+
+
+
+
+T4-T5 r*""i
+
+
+
+
+
+
+
+
+i_,t.+i
+
+
+Pétersbourg, tome VI), otištěno též Acta matli. sv. dále Kemarques arithmétiques sur quelques formules théorie děs fonctions elliptiques (Journal fůr die reine und angexvandte Mathematik sv. 100). Tamtéž nalezne čtenář údaje literární starších pracích slavného mathematika, nichž připomínáme publikaci Liouvilleově žurnálu 1802. mnohé výsledky Appella již dříve známy byly Hermiteovi, dosvědčuje onen své práci trigonometrických rozvojích funkcí druhu třetího, uveřejněné druhém svazku třetí série časopisu Annales TEcole Normále Supérieure (r. 1885). Pan Hermite uveřejnil svých studiích toliko krátkou poznámku slavnostním spise Memoriam Dominici Chelini Collectanea Mathematica (Milán, 1881), vyskytuje konci vztah, jenž naším vzorcem (9) takměř kreje.
+
+
+472 ﻿11
+
+
+
+
+
+které lze následujícím způsobem dokázati; znamenámeli součty řad těchto s<2 obdržíme výrazů těchto píšíce resp. rovnice:
+
+
+-{-
+
+
+„trn-
+
+
+tedy součtem obou druhů řad:
+
+
+
+
+
+
+
+
+
+
+
+-S!
+
+
+ď««
+
+
+-f-
+
+
+takže patrně
+
+
+jak výše tvrzeno.
+
+
+každé rovnic (/í2) obdržíme tři další, nahradíme-li hodnotami
+
+
+«+ý, »+Lí1.
+
+
+*tf
+
+
+Další zvláštní případy rovnice ((>*), jež cliceme uvésti, odpovídají
+
+
+hodnotám
+
+
+
+
+
+
+
+
+jsou vzorce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kterýchžto vzorců lze substitucí -[- -i- 7t' -|- íe; -f-dalších šest rovnic.
+
+
+Zaveďme nyní funkce
+
+
+odvoditi
+
+
+
+
+
+(11)
+
+
+/,(«,?'
+
+
+
+
+
+
+
+
+
+
+
+473 ﻿12
+
+
+(11)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nichž (ii, 7') splývá funkcí f(u výše studovanou. výrazů těchto patrno, existují především relace
+
+
+/•(*+!) =/•(«).
+
+
+/.(«+ -/« («) píserncli řadách -|- místo 11, obdržíme relace další;
+
+
+7ti(2u
+
+
+
+
+
+
+
+
+M""
+
+
+tedy každá našich funkcí hoví rovnicím tvaru:
+
+
+kde čísla t^// pak tvoří známku (charakteristiku) funkce ftt. Dlužno pamatovati, známka funkce táž jako známka funkce •&„ (u] týmž indexem opatřená.
+
+
+vztahů těchto jest patrno, podíly
+
+
+(12)
+
+
+(u,v
+
+
+
+
+
+
+
+
+jsou dvojperiodické funkce stupně základních periodách l,r.
+
+
+Póly funkce (u) jsou jednak nullovými místy funkce i>n (?/) jednak shodný
+
+
+Funkce
+
+
+(u) (w)
+
+
+kde konstanta, tytéž vlastnosti mizí při jakožto funkce stupně druhého mizí ještě najednom místě, kteréž hodnotu ?/0 7t» 7'-j-r,x, kde značí míliové místo funkce #„, takže ^>, (// //0) (;/-[- H~7t'
+
+
+liší -\- -\- iv) pouze činitelem exponencialným. Bude tudíž
+
+
+Fn(u)
+
+
+t9~, Vafa
+
+
+
+
+
+kde nezávisí Abychom určili, porovnáme residua při obdržíme tak
+
+
+
+
+
+(w)
+
+
+474
+
+
+.i.
+
+
+﻿13
+
+
+kde
+
+
+
+
+
+(13)
+
+
+Nacházíme tedy obecný vzorec
+
+
+
+
+
+
+
+
+který pro 3,a/ dle mezích Gal,
+
+
+
+
+
+
+
+
+přejde výsledek (6), něhož máme integrací
+
+
+pokud Im.
+
+
+Užijemeli vzorci (13) při vztahů
+
+
+
+
+
+»',(« -7)
+
+
+
+
+
+
+
+
+obdržíme
+
+
+(14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J!_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+•)i.
+
+
+Odtud následuje, T/J/
+
+
+./> (r- /•;(% -Ť)
+
+
+(i.-.)
+
+
+nezávisí odtud máme
+
+
+•""
+
+
+t>*
+
+
+Integrujme dle mezích předpokládajíce obdržíme
+
+
+
+
+
+
+
+
+
+
+
+r"" 5/,iŤ-v
+
+
+U7-TI
+
+
+475
+
+
+﻿14
+
+
+
+
+
+Avšak
+
+
+.-r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""2
+
+
+-----(u «H-----
+
+
+
+
+
+následovně
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/tVT'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-=*
+
+
+JÍW.Tf
+
+
+Náš výsledek lze tedy psáti
+
+
+
+
+
+Til ---------X
+
+
+(7,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pišme okamžik rť, předpokládajíce reálné kladné, rovněž reálné; hořejší podmínka Im. Imr vyžaduje /->(), rr< Náš integrál lze pak psáti substituci
+
+
+
+
+
+<T-cri)»
+
+
+
+
+
+
+
+
+
+
+
+kde integrace děje podél přímky -|- integrál však
+
+
+podmínky nezmění, volímeli cestu integrační přímku čímž obdržíme výraz (15*) tvaru
+
+
+(dle
+
+
+
+
+
+
+
+
+------(x
+
+
+
+
+
+
+
+
+čili vrátímcli původnímu označení
+
+
+
+
+
+_)_
+
+
+
+
+
+Připomeňme, (14a) máme pro rozvoj
+
+
+
+
+
+
+
+
+T7TÍ
+
+
+JTI
+
+
+
+
+
+
+
+
+-f-
+
+
+﻿15
+
+
+Klademcli mimo vzorci (154), obdržíme
+
+
+(15*)
+
+
+
+
+
+•(».*)»•(») -(T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(»J
+
+
+
+
+
+při čemž čárka znamení vyjadřuje vynechání členů
+
+
+vzorce (15C) vysvitá, </'(?',r) vůči funkcí celistvou, což též snadno dokáže vzorce (15^), vypočtouli residua místech inr -\- která ukážou býti nullami.
+
+
+Porovnáním (15*) (I5e) máme týž výsledek, neboť dle (15rf) může míti '/> pouze póly r-|- (/;/,# —O, ...-), kterýchžto místech však dle (15e) </> jest konečno.
+
+
+
+
+
+Úvahy podobné předešlým lze provésti při obecnější funkci
+
+
+(I)
+
+
+
+
+
+
+
+
+gžvnu.iť
+
+
+(u-}-v,
+
+
+
+
+
+kterou theorie funkcí elliptických zavedl pan +[ppcl svých studiích funkcích dvojperiodických druhu třetího uveřejněných Annales Ecole Normále Supérieure*) (III. řada, sv. '3).
+
+
+Tato jest jednoznačnou pouze póly stupně prvního m-\-
+
+
+tedy Im. Tato
+
+
+při čemž (/= funkce hoví rovnicím
+
+
+*••""
+
+
+(II)
+
+
+A(u-\-A
+
+
+(u)
+
+
+(u)
+
+
+jimž hoví též funkce theta řádu //, známky 00.
+
+
+těchto funkcí theta řádu známky vždy existuje lineárně neod vislých znamenejme
+
+
+(u),
+
+
+takovouto soustavu lineárně neodvislých funkcí theta řádu //, známky 00, uvažujme determinant
+
+
+A(ii) A(wt) (III)
+
+
+
+
+
+:;:) Viz též poslední odstavce knihy Halphenovy (Traité děs fonctions elliptiques leurs applications; Paris, 1886) dílu prvém. Jak Appell uvádí, byly tyto výrazy již dříve známy -/7tw////ť-ovi, čemž viz poznámku výše učiněnou.
+
+
+477 ﻿16
+
+
+kde 7L>2 značí libovolné stálé. Tento determinant jest funkcí která hoví rovnicím (II), podíl J(u): #3M (u) tedy elliptickou funkcí sice (//-(- 1)/I0 stupně. Jelikož ^(w) zmizí ?L», 7L'2 pól
+
+
+jednoduchý násobný *-&•, musí tato funkce elliptická též mizeti místě
+
+
+
+
+
+
+
+
+
+
+
+Jeli tedy liché, nalezneme
+
+
+
+
+
+
+
+
+
+
+
+kde nezávisí tuto stálou obdržíme porovnáním residuí při sice bude
+
+
+
+
+
+kde (w//) vyjadřuje determinant
+
+
+Tím tedy dokázána relace
+
+
+(""t)
+
+
+
+
+
+t9-j
+
+
+která podstatně zobecňuje výsledky předešlé.
+
+
+Determinant /?.(7L'i 7L;2 w«) Jest vu^^ každé liter funkcí theta řádu známce zmizí místech daných vůči př. místech bude (ano jest liché)
+
+
+?e' íe' 7L' ze;
+
+
+(«,/?=!, 3,. ..«),
+
+
+při čemž konstanta závisí toliko volbě základní soustavy funkcí Následkem toho můžeme výsledek (IV) uvésti tvar
+
+
+W«)
+
+
+
+
+
+aneb změnímeli poněkud označení, tvar přehlednější:
+
+
+..A
+
+
+(IV*)
+
+
+
+
+
+(ÍÉ/O)
+
+
+(7t»2) (u'„)
+
+
+(7;
+
+
+47H ﻿17
+
+
+Další vlastnost tunkce A(n,v] podá nám známý vzorec*)
+
+
+
+
+
+(V) (u,
+
+
+
+
+
+
+
+
+který vzhledem důležitosti předmětu zájmu úplnosti této práce chceme krátce odůvodniti. Píšemeli **»*'*» *>'•*', máme dle definice
+
+
+(11,
+
+
+
+
+
+=.—
+
+
+
+
+
+píšemeli vzorci prvním r-4- obdržíme
+
+
+
+
+
+
+
+
+následkem toho rozdíl posledních dvou výrazů
+
+
+(utv-\-r) (u,v) qnrjn
+
+
+
+
+
+
+
+
+čímž vzorec (V) dokázán.
+
+
+Píšemeli výrazu A(u,v) místo u-\-v, přejde tento řadu
+
+
+
+
+
+
+
+
+=1—
+
+
+vzorec (V) obdrží tvar
+
+
+(V)
+
+
+
+
+
+
+
+
+
+
+
+Součin
+
+
+t9-j
+
+
+
+
+
+celistvá funkce transcendentní hoví relaci**) plynoucí (V): (V"")
+
+
+
+
+
+(«w
+
+
+Jelikož V(v-\-
+
+
+(z/), existuje rozvoj stále konvergentní:
+
+
+
+
+
+
+
+
+Viz citovanou knihu Halphenovu. :;::;:) Stále předpokládáme, liché.
+
+
+Rozpravy. Ročn. Tr. II. Í4.
+
+
+
+
+
+479 ﻿18
+
+
+Vložímeli jej relace (V""), obdržíme vztah
+
+
+^A„ (*-*»**<-|-0»« i),(»
+
+
+
+
+
+
+
+
+kde jsme užili definice
+
+
+
+
+
+
+
+
+Porovnávajíce podobné členy obou stran klaďme
+
+
+tedy
+
+
+bude
+
+
+
+
+
+
+
+
+inu
+
+
+
+
+
+Částečný součet
+
+
+
+
+
+
+
+
+
+
+
+tedy hodnotu:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+->-
+
+
+
+
+
+nekonečná řada shoduje dle zavedenélio označení výrazem
+
+
+(nw ,nu-\- n1-^-
+
+
+tedy obdržíme shrnutím všech výsledků
+
+
+
+
+
+ljf
+
+
+
+
+
+8»tt»l
+
+
+
+
+
+
+
+
+aneb konečně
+
+
+(VI)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+480"

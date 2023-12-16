@@ -1,0 +1,1028 @@
+"","x"
+"1"," ﻿ROČNÍK V.
+TŘÍDA II.
+ČÍSLO 9.
+O křivkách asymptotických jistých ploch 3. stupně s obecným bodem dvojným.
+Napsal Dr.   Antonín   Sucharda,
+professor c. k. české realky Pražské. (S 5 tabulkami.)
+Předloženo  dne   18.   října   181)5.
+Podnět k této práci vyšel od prof. Dra. W. Dycka na technice Mnichovské, jenž mne vybídl, abych při čtyřech typech jisté plochy 3. stupně, jejichž modely jsem o prázdninách r. 1890 jeho návodem vyráběl v mathe-matickém ústavu řečené vysoké školy, vyšetřil též průběh křivek asymptotických.
+Typy tyto, jím navržené, týkají se plochy 3. stupně
+při níž (>/3) = O v roviny se rozpadá a jejímž obecným bodem dvojným prochází resp. 6, 4, 2, O reálných přímek. Rovnice jejich, v nichž^a^jest reálné, jsou tyto:
+typus I. (x* > II. (x* * III. (x* » IV. s*
+— t>*3*) — ly (3 x* - /*) = O
+- b**1} — * (*2 — /2) s  = O
+— b*^) — tes*             = O
+1 — Ps) — ^3                 =0.
+Poněvadž příslušné rovnice differencialní přímé integrace nedopouštějí, pokoušel jsem se vyšetřiti schematicky průběh těchto křivek Vyzkoumav jej (hlavně užitím obsažné poznámky Kleinovy,*) jíž v Praze jsem se dobral)
+*) Voň den  Haupttangentencurven  der Fláche  mít  27   reellen   Geraden.   (Mathem. Annalen Bd. VI.)
+Rozpravy. Ročník V. Třída II.
+IX. ﻿hleděl jsem výsledky pověřiti methodami, jež uvádí Darboux v zajímavé práci své,*) na niž prof. Dyckem byl jsem upozorněn. Načež vymyslil jsem si přibližný sic, ale v daných mezích dostatečně přesný způsob, jakým by křivky se daly sestrojiti. Prof. Dyck zaslané mu v březnu 1891 kopie nákresů tak pořízených uznal správnými a svolil, abych výsledky své práce kdekoli uveřejnil na vlastní vrub, spolu zaslal mi pojednání své,**) tou dobou právě vyšlé, na jehož základě bylo mi lze počtářská svá šetření podstatně doplniti.
+Jakkoli se práce moje týče jen případů specialných, přece myslím, že hledíc ku problému, jehož přímé obecné řešení sotva kdy se podaří, ani skrovné výsledky moje nejsou bez významu.
+1. Rovnice jest
+Typus I.
+•« __ b^z^ — ly (3 x* —y*) = O
+(1)
+Roviny x = 0,y^3— x = 0, yÝ$-\-x = O, zveme je P, Q, R, a rovina L = 0 jsou rovinami normálně souměrnosti této plochy F3í jejíž dvojný bod o jest v počátku; první tři jsou kolmý ku čtvrté, obsahují osu Z a svírají spolu úhly 120°. Roviny s osou Z rovnoběžné a k nim kolmé protínají plochu v křivkách 2. stupně. Roviny, z nichž plocha (u3)=0 se skládá, protínají kuželovou plochu íc2-|-j/2 — L2#2 = O v přímkách
+A .  .   .y=0
+2-{-L* = O
+L          y  __ X^Q  =  f
+E.   .   .
+Tyto přímky platí každá za dvě.
+Další přímky má F3 v rovinách s = ±_
+B.   .   .y = 0
+X---02 = 0
+D .   .   .y — x3 =
+••   -(2)
+V3
+, totiž:
+G .   .   .3^—1=0
+ff.
+' = 0       K.
+— 2=0
+(3)
+*) Sur les  solutions singuliěres  děs  équations aux dérivées ordinaires du premiér ordre. (Bulletin děs sciences mathématiques et astronomiques 1878 T. IV. p. 158—176.)
+*#) Ober die gestaltlichen Verháltnisse der durch eine Differentialgleichung erster Ordnung zwischen zwei Variabeln definirten Curvensysteme. (Sitzber. d. k. b. Akademie der Wissenschaften, Bd. XXL, 1891.)
+>
+IX, ﻿JLj   •     .     •   O
+a v rovinách jsou to:
+M.
+— 2 = 0
+—Y3~s)—2=0
+— * Y3) — 2 = 0
+3) — 2 = 0
+(3)
+5
+Kromě toho má plocha tři přímky úběžné: T^ , í/oo > ^oo , určené rovnicí A/ (;3 a;2 — ^2) = O ; jsou reálné různé a protínají se v úběžném bodě osy Z. Plocha náleží k druhu 1. dle Schláfliho klassifikace. Rozlohu přímek znázorňuje obr. 1.
+2. Parabolická  křivka   plochy F3 jest průsekem jejím  s Hessianou F^ tudíž křivkou A""12 stupně 12.
+Poněvadž dvojný bod algebraické plochy jest i dvojným bodem její Hessiany a jeho kužel inflekční jest oběma plochám společný, má každý rovinný řez ploch F3 F^ společným dvojným bodem procházející, v bodě tom dva splývající dvojné body se splývajícími tečnami inflekčními, tudíž šestinásobný bod průsečný. Má tedy A""J2 v bodě o bod šestinásobný. Křivky 2. stupně, v nichž se s plochou /^ protínají roviny svazku, jehož osou jest libovolná její přímka, určují v této přímce kvadratickou involuci, jejímiž dvojnými body jsou ony dva, v nichž se přímka dotýká křivky /5T,2. Prochází-li řečená přímka, ku př. A , dvojným bodem o plochy, involuce jest parabolická, bod o sjednoceným bodem dvojným. Přímka A jest tedy dvojnou tečnou křivky JLÍ9 se splývajícími body dotyčnými, tudíž její tečnou obratnou. Takových tečen má křivka Iťl9 v šestinásobném bodě o šest, totiž At B, C, D, E, F.
+Průmět  K ltl parabolické křivky v rovinu X Y jest
+(3 x* — j/2) -f 9 1 [(x*
+ly (3 x* + 2 x*
+= O .   (4)
+Křivka K I2 má v počátku  bod trojnásobný, utvořený třemi shodnými kličkami o 120° od sebe odchýlenými (obr. 3.). Tečny bodu toho splývají s prů-
+IX. ﻿mety šesti přímek plochy F3t bodem o procházejících.*) Křivka A""la v konečnu tvoří šest kliček z bodu šestinásobného vybíhajících.**) První tři dotýkají se přímek
+BCL,       AFM,       DEK,
+druhé tři přímek
+ADH,        REJ,       CFG,
+a to vždy prvních dvou v bodě o, třetích uprostřed úseku mezi prvními dvěma ležícího, v bodech «ť?y, «'/?'/. Kličkami těmi oddělují se elliptické části plochy, tři nad, tři pod bodem o od hyperbolických.
+V rovinách svazku G obsažené dvojice přímek: HJ, FC, KJ^ atd. protínají přímku tu v bodech //*, fe, L00*00 .... (sr. obr. 1.) souměrných dle bodu «. Dvojné body příslušné involuce jsou « a úběžný bod přímky G; v těchto bodech přímka tato křivky A"",a se dotýká. Obdobně mají se k této křivce přímky //, J, K, L, M.
+Z rovnic (3) jde na jevo, že přímka G ji K, HJJ L, J // M. V rovině každé z těchto dvojic jest jedna ze tří úběžných přímek plochy. Společný průsečík přímek každé této trojiny jest úběžným osamělým bodem křivky K^, Zastupuje totiž jeden z desíti oválů, z nichž se skládá, jak známo,***) parabolická křivka obecné plochy stupně třetího o 27 reálných přímkách. Čtvrtý osamělý bod úběžný má křivka K^ ve společném průsečíku tří úběžných přímek plochy.
+Zbývá ještě povšimnouti si přímek NO, PQ, RS v konečnu.
+S přímkou O v jedné rovině leží přímky L, P, v jiné rovině jsou s ní přímky N', 7'oo •
+Označíce průsek O a N bodem r a povšimnouce si rozlohy přímek na ploše F3 (obr. 1.) seznáme, že průseky x' p"" přímky O s L a P jsou po různých stranách bodu v, průsek »'oo přímky O s T^ v nekonečnu, z čehož následuje, že příslušná involuce jest elliptická. Křivka A""12 dotýká se tedy přímky O v bodech imaginárných. Obdobně má se KI(Í ku přímkám N, /*, Q, R, S plochy F3.
+Z obr. 3. jest patrno, kterak se přímky plochy Fa v rovinu X Y promítají.
+*) Průměty v textu označeny jsou při věšenými římskými ciframi I II III nahoře, příslušné obrazy souhlasnými literami s arabskými ciframi 123 dole.
+**) Na existenci těchto kliček byl jsem upozorněn náčrtkem průpravného Šetření po-čtářského, nezbytného ku zdělání modelů, jejž mi prof. Dr. W. Dyck záhy spontánně zaslal.
+Představíme-li si, že plocha h\ takovým způsobem se deformuje, že poloviny, jež v dvojném bodě spolu souvisely, od sebe se odloučí a plocha tak dvojného bodu pozbude, šest kliček v okolí toho bodu promění se v šest oválů parabolické křivky. Tyto se čtyřmi body osamělými počet oválů na 10 doplňují.
+***) Salmon Fiedler, Analytische Geometrie děs Raumes, II. díl, 3. vyd. p. 41G.
+IX. ﻿»
+B. DiřTerencialní   rovnice   průmětu   křivek   asymptotických   do   roviny XV jest:
+(5)
+což pro plochu F3 zní:
+(4 #2 + 121 x*y + 4 iy* — 9 A2 x* — 18 [x(— 2y — 3lx* — 3 A?
++ 3 A2/4) 3 A V)
+dx
+(6)
+Poněvadž  jest  F3   souměrno  dle X Y, jest  každá  křivka  rovnicí  (6)   vyjádřená průmětem dvou křivek dle X Y souměrných.
+Diskriminant rovnice (0) srovnán s nullou dává rovnici křivky diskrimi-nantní //, již po náležitém rozkladu rovnicového mnohočlenu lze psáti takto:
+(3 ářa — j2) + 9 l [Oa +/2)2 — ly (3 x4 -f- 2 x*y* — jj/4)j]
+(7)
+nebo, označíme-li kratčeji činitele levé strany,
+První činitel srovnán s nullou shoduje se s rovnicí (4) a znamená tudíž průmět AT12 parabolické křivky v rovinu XY^ druhý, <I> = 0 značí pronik plochy F3 s rovinou X Y, i představuje spolu obrysovou její křivku vzhledem k teto průmětně. Ve všech bodech křivky diskriminantní, z křivek
+l = Q,   * = 0 složené, má
+dy d x
+arci  jedinou   hodnotu;   příslušné  k ta-
+kovému bodu průměty dvou k sobě náležitých křivek asymptotických buď tvoří v něm bod vratný, nebo ale dotýkají se zde křivky ^. Abychom poznali, co kde nastane, obraťme se k differencialní rovnici (6). Z té vychází pro bod (#, y) křivky d směrnice
+dy dx
+2 x (—2y —jUz2 — 3 ly* + 9
+4 #ft -f 12 A a? V + 4 A.y3 — 9 i2 a;4 — 18 Naproti tomu jest směrnice křivky A = O tato: dy
+-f- 3
+(— 2j/ — 3^a;2 — 3XjF2 -f 9 ^ ag V -f- 3 1 V) ""          — 18 ;.'za?2
+74-0°)
+""4#2 — 4/2 + 12^a;V4- 12 Aj/3 — 9
+Kdyby mely průměty křivek asymptotických dotýkati se průmětu křivky parabolické, musily by hodnoty -—- v (9) a (10) uvedené pro  K1 = O   se
+IX. ﻿stotožňovati. Toho obecně není, tudíž:  Křivka K ~ O jest  místem  vratných bodů, náležejících průmětům asymptotických křivek v rovinu X Y.
+dy Tažme se, jsou-li v konečnu body, pro něž —f— z rovnice (9) plynoucí
+(l X
+rovná se nulle.
+Rovnice (9) předpokládá, že diskriminant  rovnice (f>), již  krátce  pišme
+rovná se nulle, t. j.
+Má-li tedy z rovnice (9), jež pak zní
+f
+(G') (7')
+vycházeti pro  konečné x a y  za y' nulla,  musí býti  /? = 0, pak  ale jest dle (7') též 7 = 0.
+Žádaný  svrchu  případ nastane  tedy jen  pro ony  body  křivky z/, jež těmto dvěma rovnicím hoví. Rovnice 7 = O zní
+tedy
+JL
+""3*
+kterýmžto všem třem hodnotám svědčí v rovnici křivky diskriminantní x = 0; a vskutku hodnota tato činí čitatel rovnice (9) při konečném jmenovateli rovným nulle. Zároveň však vymizí též čitatel rovnice (10) pro tuto hodnotu, tudíž stane se z ní plynoucí y' rovným nulle. V některých bodech křivky K1 = O se tedy obě směrnice (9) (10) shodují. Poněvadž z rovnice A = 0 vychází pro
+l
+3 i
+3 i
+jsou to body tyto:
+' = 0       y.
+3
+V těchto bodech průměty příslušných dřou křivek asymptotických dotýkají se průmětu parabolické křivky. Body ty jsou: Předem bod o, vněm třikráte dva k sobě příslušné průměty křivek asymptotických dotýkají se křivky A'1a, pak body « , /9 , y (průměty to známých z odstavce 2. bodů « f 7, «' P' A ležící resp. v přímkách C1** D\ El ^ F\ G1 K1 (srv.
+IX.
+ ﻿..
+obr. 3.). Každá tato dvojice přímek   splývajících  představuje  pro bod, jímž prochází, jednu z obou křivek soustavy (6) jemu příslušných.
+Podobně jest  s bodem o1, s tím rozdílem, že ten leží zároveň na třfch přímkách: Gl — K\Hl = Ll, Jl==M\ k soustavě (6) náležejících.*)
+4. Pro křivku tf> máme
+Zly—l
+dy ~- = 2 x
+dx
+srovnáme-li pravou stranu  této rovnice s pravou stranou rovnice (9) a vlo-žíme-li  do  výsledku  za  #2  hodnotu,  plynoucí z rovnice <ř* = 0, obdržíme stejninu. Z toho jde, že se průměty  asymptotických křivek dotýkají křivky ř/' = O. Jest tudíž křivka ta singulárním řešením rovnice (6). Z rovnice (G), již kratčeji lze psáti
+a z rovnice
+qp (x y y'} = O —~— •—• u .
+(6') (6"")
+vylučme y, i obdrží se rovnice (8) diskriminantní křivky
+sestrojme pak rovnici
+(no
+načež z ní a z rovnice (6') vylučme y'. Je-li V=- O rovnicí resultující křivky, nutno vyšetřiti, mají-li levé strany rovnic A = O a V=- O společný činitel, jejž nazvěme </>. Lze-li rovnice (6'), (6""), (11') splniti pro všechny body křivky <l> = O touže jedinou hodnotou y, křivka ta jest singulárním řešením rovnice (6').
+Zbývající činitel rovnice V= O s nullou srovnán značí pak geom. místo obratných bodů soustavy křivek, jež dány rovnicí (6').**)
+V případě předloženém rovnice (11') jest
+ry3 — a/) = o .
+— 3
+Z této a z rovnice (6) y' vylučujíce, obdržíme pro y' = O
+(12)
+(13)
+*) Body jako a /? y, a1 /J1 y1  nazývá prof. F. Klein   z příčin, jež později na jevo vyjdou, body samotyčnými (Selbstberuhrungspunkte).   Srv. jeho pojednání v úvodu citované W. Dyck ve svém pojednání (viz úvod) zove je asymptotickými. **) Srv. Darbouxovo pojednání citované v úvodu k této práci.
+IX. ﻿8
+t. j. osu X jako přímku dvojnou a obě s ní rovnoběžné přímky G == K , Nl = Cf>          pro y' = Y3
+t. j. přímky E = Fl, /f1 = Z,1, K mi S\ z nichž první jest přímkou dvojnou, pro y' = — VB obdržíme
+(y — x VŠ)2 [3 * (y — V3 x) + 2~\ [l O — V-3 x) — 2] = O ,   (15)
+t. j. přímky C1 ==. Dl, J mssJT, Pl =^ Ql, z nichž první jest dvojná. Rovnici (12) pro
+a;a-}-^« —3ia;a^ + ^3 = 0.......(14')
+vyhovuje Se všemi konečnými hodnotami y', tudíž i těmi, jež rovnici ((>) hoví, pročež sluší rovnici (14'j též počítati k výsledku eliminace, ježto pak tento činitel také v rovnici // = 0 jest obsažen, kdež značen byl 0 = 0, sluší je míti za singulárně řešení rovnice (6), což ostatně již i jinak bylo dokázáno.
+Nás při tom zvláště zajímá, že ostatní výsledky eliminace, tedy rovnice (13), (14), (15) značí geom. místo obratných bodů soustavy (6).
+Toto geom. místo skládá se z průmětů všech reálných v konečnu ležících přímek plochy Fs v rovinu X Y.
+Uvažujme nyní o bodech,*) ve kterých přímky G , H , J dotýkají se křivky AT12. Jedním z nich jest bod n , určený souřadnicemi
+Bod řečený pokládejme za počátek soustavy, osu X za tečnu křivky   A'II<2, jím procházející. Jesti tedy
+x = O       y = O       / = O soustava hodnot, vyhovujících rovnicím
+d<3P                              <><P    ,    ,  3<ř'
+<í = O         -^—T- = O         -r-------h y -=—- •=• O
+cy                   c x           c y
+které, jak z předešlého víme, takový bod  charakterisují.   DifTcrencialní  rovnice (G) nabude tu substitucí
+r = x           _.     [     l
+*) Jsou to průměty prve řečených bodů asymptotických.   Šetření provedeme způsobem, jejž podal prof. W. Dyck ve svém pojednání v úvodu citovaném   pag. !>í>.).
+IX. ﻿tvaru následujícího :
+[4 *» + 12 ).x"" (y + -^-) + 4 1 (j/ + ^ )3-
+- 18 l
++
+
+Rozvineme-li tuto funkci qp (x y y'} dle poučky Taylorovy v mocninovou řadu pro bod x — O, y = 0, y =0, obdržíme, pomníce, že první dva členy v rozvinutí rovnati se budou nulle, toto:
+xy + ^3 yy'
+Podržíme-li v rozvinutí tom jen členy rozměru nejvýš druhého, nabudeme differencialní rovnice mnohem jednodušší, která průběh křivek asymptotických v okolí singularného bodu « s dostatečnou určitostí illustruje.
+Provcdouce příslušné differenciace funkce qr, jež setu rovná levé straně rovnice (16) a dosadíce veskrze x=j>=y' = Q, obdržíme:
+16
+32
+9i '                            9;. '
+i jest tudíž nová differencialní rovníce tato:
+10 27 1<
+y'*--
+96
+48
+1^ = 0.
+(18)
+5  '              ft
+Rovnice diskriminantní křivky, jež obdrží se vyloučením y' z rovnice g> = O a -^- = 0, tedy z rovnice (18) a z rovnice
+bude:
+Jest to parabola P (srv. obr. 2.).
+Rovnice geom. místa obratných bodů soustavy obdrží se, vyloučíme-li y1 z rovnice (18) a z rovnice
+3(T     ,      3<P      .         r.
+*) Čárky nad znakem funkce značí, že do poměrů differencialních vstupuje jr=f=y=Q.
+IX. ﻿10
+Rovnice poslednější jest po náležitém zkrácení
+což vloženo do (18) dává
+tedy osu X jako geom. místo obratných bodů křivek, rovnicí (18) vyjádřených. Podle toho zdálo by se, že všechny křivky (18) v prňsečných bodech s osou X mají body obratné. Pro jistotu vyšetřme okolnost tu přímo. Z rovnice (18) určeme hodnotu y"" pro ony body, v nichž křivky rovnicí tou vyjádřené protínají se s přímkou y = Q. Píšeme-li v rovnici té pro krátkost
+AQ
+i = w, nabude tvaru tohoto:
+a
+' -J- my = O .
+(18')
+Této rovnici hoví y = O, y' = O, i poznáváme, že přímka y = O, tedy osa X, sama náleží ku křivkám rovnicí (18') vyjádřeným. Z rovnice (18') vychází
+y' = — m x ±_ a vložíme-li sem y = O , obdržíme
+— m y
+(18"")
+y = 0,   / = — 2mx.
+První z nalezených hodnot svědčí ose X jako jedné křivce soustavy, druhá tedy udává směrnici tečen asymptotických křivek osu tu protínajících, a to v bodě průsečném.
+Majíce -v tom bodě určiti pro tyto křivky /', volíme v rovnici (18"") znaménko dolní, načež
+2 m'2x — my'
+y   •=• — m --   _ j
+z čehož, dosadíme-li sem y' — — 2mx, y = Q, ihned vychází
+/' = — 3 m ,
+tedy hodnota od nully různá, na důkaz, že křivky soustavy v průsetných bodech s osou X nemají bodů obratných. I jest výsledku o místě bodů obratných prv odvozenému rozuměti tak, že body ty absorbují se jednou křivkou soustavy, totiž přímkou j> = 0, čímž ze soustavy (18) na pohled vymizí.
+5. Abychom zevrubně seznali průběh křivek, určených rovnicí (18), pro-vedhie úplnou integraci rovnice (18').
+DirTcrencujíce ji po příkladě prof. Dycka dle #, obdržíme
+2>my'dx + 2(mx-\-/)dy' = O,......(18""'j
+IX. ﻿11
+načež integrací*) vychází, píšeme-li v rovnici předešlé pro snazší přehled x' místo #, rovnice
+z níž dospěti  lze k vlastnímu  integrálu, píšeme-li  za  x' opět rr,  za y' pak hodnotu z rovnice (18""). Vychází tak
+(— mx ± y/**^ — my)* ( čili po odstranění irracionalnosti konečně :
+125 msx«y* + 300 *«7z4/< + 240 m*x V — 4 cw5 z5 + 64 w5
+(19)
+Pro c < O křivky rozkládají se po jedné, pro c > O po druhé straně osy K. Každá z nich má dva body vratné, jeden v konečnu na parabole P, druhý v úběžném bodě přímky X s ní jako tečnou vratnou, jeden bod dvojný ale žádných bodů obratných (obr. 2.). Osu X seče každá v konečnu v jediném reálném bodě
+— — ~T
+m ] 4
+souřadnice vratného bodu v konečnu jsou
+~~
+5
+l -i
+l
+Pro c = O rovnice křivky jest
+což značí osu X jako přímku dvojnou a parabolu Q jako trojnásobnou. Parabola ta dotýká se osy X v počátku soustavy, osu majíc v kladné části osy F. Obrazem 2.,**) z něhož seznáváme průběh křivek (19), znázorňuje se též, pokud jde o okolí bodu a , průběh křivek (G), jež jsou vlastním před-mčtem tohoto pojednání. Týž průběh mají i průměty asymptotických křivek v okolí bodů /? , y .
+Vzhledem k úvaze, o obratných bodech křivek (19) vykonané, lze míti za prokázané, že také křivky rovnicí (C) vyjádřené nemají žádných bodů obrat-
+*) Srv. Serret-Harnack, Lehrbuch der Differential- u. Integralrechnung, díl II., pag. G8.
+**) Z obrazu toho jest patrno, proč prof. Klein body jako a, splynutím dvou vratných
+bodů vzniklé, zove body samotyčnými. Křivce   Ql-\-XI  přísluší c = 0, křivce  g1 pl rl s1 m
+c = — l'3, křivce f^iPjpj c= — 4(l-3)s.   Křivky s nimi dle  F1 souměrné mají c toliko
+znaménkem se lišící. Jednotkou míry jsou 2 mm.
+IX. ﻿12
+nýc/i, ale že všechny tyto body absorbují se přímkami, z nichž (srv. odst. 4.) geom. místo obratných bodů se skládá.
+Zkoumejme, zdaž tomu tak i v ostatních  přímkách, k soustavě (6) náležejících.
+Tyto   přímky  jsou  druhu  dvojího.   Jedny  procházejí  bodem  <?,   totiž Al^Bl, Cl^D\ El = F\ druhé nikoli:  Pl : = $ , K1 = S1 , Nl = - O1 (obr. 3.). Poněvadž /^  jest normálně souměrná dle os P ,  Q ,  R , postačí, provedeme-li šetření to pro přímku A1 == B1 = X1 ,   totožnou   s   osou   X,
+a přímku Nl = O1.   Rovnice  prvé jest y = O, druhé y= -- r- .
+/W
+Obrátíce se nejprve ku přímce j> = 0, vyhledejme y"" pro body, v nichž přímka ta protíná se s křivkami soustavy. Z rovnice (6) vychází
+_
+8
+(20)
+vynecháme-li druhé znaménko, jež vede ku /'r=0, tudíž ku hodnotě, která hledí ku přímce y = O samé jako křivce soustavy. Při tom jest
+(21)
+(22)
+(23)
+s>( = 4 32 -f 12 1 a V + 4 1 r3 — 9 *2*4 — 18 *asVa + 3 33 = 2 * (2 y + 3 A/2 + 3 A#2 - 9 l*x*y — 3 i V3) <L = 4^ (l — 2 A j — 3 *2 j2)
+Veličiny (21) pro y = O jsou
+,    6 = 0,    .
+což dosazeno do (20) dává
+y' =
+DifTerenciací dle x obdržíme   z (20), majíce  na   paměti, že výsledné (E — O, toto:
+y —
+— -|^    — 29Í'»
+(24)
+Při tom «,»,(L znamená hodnoty (22), ?(', $', G' pak obdrží se diferenciací dle x rovnic (21) a dosazením y = 0 a y' z rovnice (23). I jest
+4 — 9
+20 — 63 >l2 a;2 4 — 9ifa?a
+(25)
+IX. ﻿1S3
+Vložení hodnot (22) a (25) do rovnice (24) dává
+„_   * [81 A4s4— 12(U2s2+16] (4 —
+(26)
+Není tedy y"" obecně rovno nulle, nýbrž jen pro ona #, jež čitatel činí rovným nulle, nebo jmenovatel nekonečné velkým. Řešením rovnice
+8U4 x* — 120 *2a;2 + 16 = O obdržíme
+řešením 4 — 9 A2 x* = oo pak x = oo .
+Nalezená x přísluší bodům bl a cJi f% v nichž přímka y = O protíná se přímkami J H R P v soustavě (6) obsaženými (srv. obr. 3. a 1.). Po-vážíme-li, že tyto přímky náležejí ku křivkám soustavy, výsledek jest snadně srozumitelný.
+Podobně vyšetříme vzhledem  ku  přímce y =-----T~ .
+Pro y=----jest
+dále pak potom
+y' = -
+13 + 544 A2 a;2 +927 A4 a4 + 81 A6 a6 '""
+8 l
+(L' = — 256 a;
+189 ^6 a;6
+l-f 3
+(27)
+(28)
+.   . (29)
+l-MPir-f-v;
+729 l*x* + 270016 x6 — 1638 ;.4#4 -f 300 i""a1 — 9
+a konečně
+/' = 16,
+Ani zde tedy není y obecně rovno nulle, nýbrž jen pro ona ar, jež činí čitatel zlomku (30) rovným nulle, nebo jmenovatel nekonečně velkým.
+IX. ﻿14
+Čitatel vymizí pro
+3*V3 '
+vt          -------     ,-
+^K    C ~~""  «*f    O
+5,6        7,8
+—   4-
+-   ±
+nekonečně velkému jmenovateli svědčí x = oo .
+Nalezená je jsou odsečkami bodů v, « 5 # > «, / , /' , p"" , v nichž přímka
+y = —  .- protíná se ostatními přímkami v soustavě (6) obsaženými (obr. 3.
+a 1.). Při tom průseky přímek Zr, El, bodem o   procházejících  a   za   dvojnásobné platících, také vyskytují se každý dvakrát.
+Úvahami právě vykonanými poznáváme, že žádná z přímek soustavy (6) není'geom. místem bodů obratných v obyčejném smyslu, nýbrž že každá příslušné body obratné absorbuje, z nich sama se skládajíc.
+Podán takto důkaz, ze křivky soustavy (6) nemají ani jediného bodu obratné/W.
+Jak obdobou s výsledky v obr. 2. vyznačenými vychází, seče i každá křivka, soustavě (6) náležející, vratným bodem opatřená, k. př. t v w (obr. 3.) v sousedství bodu « přímku G jednou, proto nemůže ji v ko-nečnu seci podruhé, sice by, anať ta přímka jest sama křivkou soustavy, tři křivky v jednom bodě se protínaly, čehož obecně není. Druhá větev této křivky se přímce G asymptoticky blíží. Podobně zas tato větev seče přímku H v konečnu, pročež opět onano větev přímce H blíží se asymptoticky.
+6. Vyšetřujme nyní další průběh křivek (6), zvláště směrem k bodu o . Jisto jest, že křivky ty podél celého oblouku a1 v1 o1 křivky K1^ m Ví po bodu vratném.*) V bodě « lze si pro lepší názor představiti, jakoby body vratné dvou křivek dle osy Y souměrných byly splynuly v bod samotyčný a při tom v každé z obou křivek jeden z obou oblouků bod vratný skládajících byl přešel ve přímku. V bodě o, máme-li na zřeteli jen větev a v o jím procházející, dotýká se křivky K 12 přímka 7Y , zajisté to jedna větev asymptotické křivky druhu právě vyloženého; druhá větev, jež s ní zde bod vratu tvoří, dotýká se přímky F a blíží se asymptoticky přímce G • Přímky G, F v bodech «, o úkoly si vyměňují. Křivky, jež podél a. v o mají body vratné, jsou sevřeny oblouky křivek J.S , 12 .
+Hledejme nyní hodnoty y't jež z rovnice (6) resultují pro všechny body přímky y = A x.
+*) Křivka parabolická obecně jest místem vratných bodů křivek asymptotických. Srv. Klein u. Lie, Ober die Haupttangenten-Curven der Kummerschen Fláche 4. Grades mit 16 Knoteapunkten. Mathematische Annalen. Bd. 23, pag. 579—586.
+IX. ﻿15
+
+Obdržíme tak, krátíce celý výraz x'\ toto:
+, = . 2 (2 A -f- 3 A9 Ix -f 3 As — 9 WAx* — 3
+""
++. 2
+— 9 i9*9 — 18
+(značí-li J diskriminantu), na důkaz, že má y' v obecném bodě přímky y = Ax dvč různé hodnoty.
+Pro x = 0 jest // = 0, z čehož následuje, že má differencialní podíl / v bodě 0, ať ho dospějeme jakýmkoli směrem y = Ax, jedinou hodnotu. Tato plyne z rovnice (20) pro # = 0, i vychází tu y' = A, t. j. přímka y = Ax jest tedy tečnou vratnou. Z toho jde, že se v bodě o stýká nekonečné množství křivek asymptotických, z nichž každé jest on bodem vratným. Polopaprsky bodem u procházející a úhel (A1 F1) vyplňující jsou tečnami vratnými. Meznými přímkami jsou F1 a A1. Mezi obloukem n v1 o a jeho tečnou F v bodě o nemůže míti místa žádná jiná přímka dotyčným bodem procházející, pročež také žádná křivka o vratném bodě o. Z obou větví křivky, jejíž bod vratný jest na oblouku u v1 o, jedna se asymptoticky blíží přímce rt druhá přímce Grt aniž mají bodů obratných, pročež musí býti veškeré body vratné, zde se vyskytující, druhu prvního. Každá křivka, jejíž tečna vratná leží v úhlu (A1 F1), ku př. křivka f oj1, v celém svém rozsahu musí zůstati v mezích úhlu (A1, F1). Nemůžeť větev o j přímku F v konečnu protínati, poněvadž ji již oblouky v wl protínají, rovněž nemůže větev o1 i1 přímku A1 seci, neboť tuto přímku sekou jedny větve křivek, jejichž body vratné na oblouku o (f leží. Obracejí tedy větve jako o i . .. ku přímce G1 stranu vypuklou, asymptoticky se jí přibližujíce; průměrné jejich křivosti stále ubývá, až poslední z nich splyne s přímkou A1.
+Že má ve dvojném bodě o nekonečně mnoho křivek asymptotických bod vratný, a které jsou příslušné tečny vratné, usouditi lze též takto: Jest známo, že každá tečná rovina inflekční kuželové plochy dvojného bodu o jakékoli plochy protíná jf?v křivce, která v tom bodě má bod vratný.*) Tato rovina dotýká se oné kuuelové plochy podél určité površky a ta jest příslušnou tečnou vratnou. Avšak každý takový bod vratný jest spolu vratným bodem jediné křivky asymptotické, tečna jeho i její tečnou : kolik tedy má inflekční kuželová plocha tečných rovin v bode o, tolik z něho vycházeti musí křivek asymptotických, každá zde majíc bod vratný s příslušnou po-vrškou jako tečnou.
+Ovšem jsou z oněch křivek jen ty reálné, které připadají do hyperbolicky zakřivených polí plochy, v našem případě tedy jen ony, jež leží v šesti polích sevřených resp. přímkami AD, BE, CF pod rovinou X K, AF, BC, D E nad touto rovinou.
+*) Salmon Fiedler, Analytische Geometrie děs Raumes. II. díl, 8. vyd., pag. 17.
+IX. ﻿16
+Každý jiný obecný bod křivky parabolické jest bodem vratným jen jediné asymptotické křivky, pokud v něm ploeha F3 má jen jedinou rovinu tečnou.
+7.  Povšimněme  si ještě  průběhu křivek poblíž bodu v .   Jím  prochází křivka tf> = O  [srv. rovn. (8)] a přímka Nl = O1 ,  v něm křivky  té  se dotýkající.
+Z odst. 4. víme, že se i ostatní křivky soustavy (6) této křivky dotýkají. Poněvadž tyto křivky nemají bodů obratných, musí každá ku křivce '/> obraceti buď vydutou nebo vypuklou stranu. Povážíme-li, že k nim náležejí i známé přímky IV1 == O/1, //* = //, J/I^J1, vesměs tečny singulárně křivky </>, první v bodě r , druhé dvě v bodech úběžných, a povšimneme-li si průběhu křivek v okolí bodů /?*, / a bodu 0It seznáme, že křivky, které přímku A^ = O1 protínají v mezích úsečky n a?1, obracejí ku křivce ř/> část vydutou, ostatní vypuklou.
+Tím sjednáno asi vše, co bylo lze předem říci o rozloze křivek (6> uváží- li pak se, že celá soustava má známé tři osy souměrnosti, nebude trvám o schematickém rozložení průmětů křivek asymptotických v rovině X V vážných pochybností.
+8.  Abychom asymptotické křivky zevrubněji poznali, promítněme celou jejich soustavu ještě do roviny   V Z.
+Differencialní rovnice průmětu zní:
+108
+(4 b*z* — 16 Ijr* — 27
+- 4 (l — 3 ly) V1 z (2y — 6 l/2 + 3 U* s* — 12 + 4^(1 — 3 ilr)8/1 (l +*.?)= O
+(23>
+Rovnice diskriminantní křivky d jest
+s* + iBr1; Q-y
+Činitele levé strany po řadě označme A'111, '/>', V. l značí rovnice K =0 průmět parabolické křivky Kv, v rovinu YZ, rovnice '/>'. llf> = 0 obrysovou křivku plochy F3 vzhledem k této rovině. Při tom tf>' —O znamená pronik plochy ^3 s rovinou YZ, V = O pak má význam následující: Promítací rovina> touto rovnicí určená, seče plochu F3 v přímkách G, K. Každým bodem každé z těchto přímek prochází větev jedné křivky asymptotické, i jsou v soustavě (23) oba body G111, Jř , určené průsekem přímky 1K = O s křivkou </>' = 0, body singularnými, neboť každým prochází nekonečné množství -větví soustavy. (Srv. obr. 4.).
+IX. ﻿17
+Abychom   obdrželi singulární řešení a   místo   obratných bodů soustavy (32), sestrojme rovnici tvaru (!!')• Ta jest
+ya [4yz _ 27 Wb^y^z1} -f-/2 [— 8 b*ys -f 30 Wb*y*z -f- 6
+-f61^jr^+/(l — 8^)^»(5^ijft4-/t4-iy) = 0   .   .   .(33)
+Vylučujíce y' z rovnice (32) a (33), obdržíme pro X = O
+^2(1 — 3*j>) tudíž průměty přímek čr/f, yi/?, A"" (2. Další výsledek eliminace jest
+(l — 3 lyj* (4 — 27 l* b*z*) (3 //- ^ — 4 /2)2 (4 ly — Us ^ — 2) .
+~              3+/- — J'*V = 0 ..... (34)
+Činitele levé strany, vyjma první a poslední, srovnány s nullou, značí průměty přímek //«/, J/A, L""/'"", /?/:, P^, S<2» činitelé první a poslední (tento v první mocnině) obrysovou křivku plochy.
+Poněvadž oba také  v rovnici   křivky  diskriminantní  se  vyskytují,   znamená rovnice z nich složená
+(1 — 3 X/)2 (íy*
+singularný  integrál  rovnice  (32).   Geometrické   místo   obratných bodů soustavy (32) skládá se nejen z přímek svrchu řečených, ale též z křivky
+poněvadž   rovnicový  ten trojčlen  vedle  singulárního   řešení  z  rovnice   (34) zbývá.
+Z toho soudíme: Křivky soustavy (32) se nejen obrysové křivky <//:=0 dotýkají i anobrž jsou dotyčné body zároveň obratnými body těchto křivek. Poněvadž také činitel (l — 3 Aj/)2 podruhé se vyskytuje (viz 34), soudíme, že i každý s prve dotčenýclt bodfi G ll, K t jimiž nesčíslné množství křivek soustavy prochází, pro každou s nich jest bodem obratným. Viz obr. 4. Platí tudíž, co pro křivku </> = O bylo vysloveno, v plném rozsahu pro celou křivku obrysovou (/>' V = O .
+Úvahami v odst. 4. a 5. vykonanými se zakládajíce, soudíme, že jiných bodů obratných v soustavě není, neboť ty, jejichž geom. místem jsou průměty přímek plochy, těmi přímkami se absorbují.
+Na základě dosavadních úvah o orthog. průmětech křivek asymptotických lze nyní toto připomenouti o křivkách samých : Jsou trojí větve těchto křivek, v konečnu spolu nesouvislé:
+Rozpravy. Ročník V. Třída II.
+IX. ﻿18
+1.  takové, jež mají společný bod vratný v dvojném  bodě o plochy /'g, jedny nad rovinou X K, druhé pod ní k nim souměrně se rozkládajíce, ku př. ioj\ i'oj' (obr. 3. a 4.),*)
+2.  takové, z nichž každá má svůj vratný bod v jednom  z po sobě následujících bodů křivky parabolické, ku př. /V2/,
+3.  takové, jež vratného bodu nemají, ku př. yz.
+První dva druhy větví na ploše šestkráte spolu sousedí a pokaždé jsou od sebe odděleny singulární křivkou; **) takových křivek jest šest: 1S *S 3S 4S 55 65. Kdežto všechny větve lze si představiti tak, že dvě a dvě dle roviny X Y souměrně se rozkládají, průběh oněch křivek singulárních jest podstatně jiný: každá z nich dotýká se v bodě o jedné ze šesti jírn jdoucích přímek plochy F3f i přechází tudy rovinou X Y s jedné na druhou její stranu.
+Podobného druhu jsou křivky, ležící na rozhraní větví 2. a 3. druhu. Každá z nich dotýká se jedné ze šesti přímek G H J, K L M resp. v bodech «/?7, «'/?'/ a přechází tudy s jedné strany jedné ze tří rovin souměrnosti P Q R na stranu druhou. Také těchto křivek jest šest, tři z nich rozkládají se pod, tři k nim dle X Y souměrné nad touto rovinou. Jsou to 12' 22 3-l' *± 5 v • *: (obr. 3. a 4.).
+Typus  II.
+9. Rovnice plochy 7'3 jest
+-_-l   L» _»)•;=: O
+Každými dvěma rovinami osnovy X Y, od X Y stejně vzdálenými, protíná se plocha ve shodných kuželosečkách proti sobě o pravý úhel otočených. Skládá se tudíž ze dvou normálně souměrných částí, jež spolu v dvojném bodě souvisejí, jedna proti druhé jsouce o pravý úhel otočeny.***) Plocha má dvě roviny normalné souměrnosti, totiž X Z a YZ a v počátku o bod dvojný.
+Kuželová plocha
+**-|~S*—L•**:=L O
+protíná se kuželovou plochou
+*) V obr. B. zobrazeny jsou sic obě poloviny plochy F^, dle X Y spolu souměrné, pro větší však zřetelnost obrazy křivek asymptotických vytaženy jsou plně, jakoby horní polovina plochy byla sňata. Obrazy 3. a 4. zobrazují část plochy F3 obsaženou mezi ro-
+1                                                                16                                                 2 vinami *=+.-----j=- a plochou válcovou x'l-\-y'l= q,? •   ""rl   tom voleno b =----•==-»
+**) Srv. s„tím Klein a Lie, pojednání citované v odst. 6. ***) Na tuto okolnost prof. Dyck mne upozornil.
+IX. ﻿19
+ze   tří   rovin   složenou,  v (5 přímkách,   které  dvojným   bodem o  procházejí. Z těch přímek pouze čtyři jsou reálné, totiž
+B
+D
+= —y
+dvě imaginarné:
+E
+x — ty = O
+H *t=r0 !•
+l        s = 0         )
+Další přímky plochy jsou:
+[     ls—\=() G \
+
+
+\   i,-l=0    l
+UW/+^=o (' l  i,+ i=o
+l A V^ ^ + b = O
+G JI H/l X, J//A7/F,
+pak rovnicí (.r2 — j'4) ^? = O určené úběžné přímky reálné U^Q , Dále má plocha /r3 po imaginarné přímce v rovinách
+(AE)  (J*E) (CE) (DE),    nazveme je    L, M, N, P, a v rovinách
+(AF)  (BF) (CF) (DF),         >         »     g, ^, 5,  7\
+Průmět do Ar Y přímky ku př. L jest :
+Rozložení všech 15 reálných přímek plochy znázorněno jest po. výtce přímek úběžných v obr. ó. Plocha náleží k druhu 2. dle Scháfliho.
+Průmět K 12 parabolické křivky K^ do roviny A'^ má rovnici
+(4)
+Křivka (4) má v počátku bod trojnásobný o tečnách
+Poslednější dvě splývají s průměty přímek A, Ca. /?, Z>.   Asymptoty  má čtyři imaginarné, pátou reálnou:  s = ~. Z křivky té jen část y"" <?"" «! W1
+IX. ﻿20
+
+
+l
+
+•
+(obr. 6.) jest podstatná, ostatek jest průmětem oné části parabolické křivky
+* *
+jež
+rozkládá
+se
+po
+imaginárně části plochy /<3. Tak zejména větev
+n
+jejíž asymptotou
+
+jest
+přímka
+Křivka
+12
+počátkem
+šest
+krátě
+prochází
+dvě
+větve
+však jsou  imaginarné
+tak
+V
+ze
+jest
+reálný
+bod
+jen
+čtyřnásobný.
+yři reálné přímky
+
+»
+D
+•
+Křivka AT,
+dotýl
+se
+reálných př
+jsou ímek
+n
+m
+tečnami inflekčními.
+H
+K
+konečnu v reálných
+bodech n
+přímkám
+proniká je ve dvou bodech úběžných, z nichž jeden náleží
+GH
+»
+druhý
+přímkám
+KJ.
+Jsou
+to
+osamělé
+body
+křivky
+K
+V
+nich
+seče
+ečenou   dvojici jedna
+ze
+tV n
+úběžných  přímek.   Křivka
+skládá
+se
+ze
+čtyř
+reálných kliček, každá z nich jest v mezích jednoho
+troj
+úhelníků
+i
+jehož
+vrcholem o procházejíc, protější
+strany
+uprostřed se dotýká.
+10. Differencialní rovnice průmětu křivek asymptotických do roviny
+má
+tvar
+tento:
+x
+U* x
+X
+x
+d z
+dx
+l Z)
+b*x
+z
+x3 c
+xz
+dz
+—-------------------
+dx
+U
+n
+
+x
+r*
+(5)
+Rovnice její diskriminantní
+křivky
+jest
+X
+-
+Z
+^^v
+Z
+X
+Činitele
+levé
+strany označme
+po
+řadě
+K
+Rovnice
+značí průmět
+K
+u
+X
+ct
+)
+Křivka
+ta jest
+geom
+místem  vratných
+j para bodů
+bolick< křivek
+(6)
+křivky do roviny
+soustavy
+(5).
+Rovnice
+
+znamená obrysovou křivku plochy vzhledem k rovině X Z. O jejím
+významu
+pro
+soustavu křivek
+poučí
+nás
+Rovnice
+odst. 4.
+zni
+tu
+úvaha následující.
+Dqp   dz
+x
+z
+což
+po
+náležitém dosazení
+dav
+á.
+dx
+d Z
+x
+24 W x* 2*
+IGAa:
+16
+O
+xm-\-
+z
+z
+IX.
+-
+•
+•
+ ﻿
+
+
+Vy
+m
+ro
+(5)
+X
+X
+
+•
+
+
+
+•
+•
+•
+•
+•
+n
+
+v /
+n
+f
+•
+'
+*
+
+
+•
+O
+
+•
+
+
+•
+•
+
+v /
+
+u
+
+X
+o
+no
+
+n
+m
+/
+•
+o
+•
+O
+•
+m
+n
+n
+m
+V
+
+
+o
+•
+/
+a
+
+•
+
+•
+•
+
+
+X
+
+
+
+rn
+n
+ffe
+
+
+•
+n
+
+
+/
+n
+O
+
+m
+
+•
+o
+*
+
+•
+•
+•
+•
+•
+
+
+
+
+
+'
+•
+s o
+ta vy
+'
+touto
+
+v k
+*
+
+f
+do
+dy
+
+dy
+v •
+
+us ta v
+
+O
+m
+v /
+m
+/
+m
+
+
+
+n
+•
+m
+
+
+
+
+oustavč vnm
+od)
+i
+rivky
+nen
+žádných
+ných
+ra tnýc
+•
+/
+
+O
+
+V
+o
+
+
+
+m
+
+-
+
+r,
+i
+
+(5)
+
+/
+
+
+
+
+
+n
+
+u
+U
+
+
+
+
+
+•
+
+
+
+•
+l
+
+l
+
+
+X
+
+
+ ﻿dosadíme-li tyto hodnoty do rozvinuté funkce, vyjde po krátké úpravě:
+,   32 A     dz       16 1
+jako diíTerencialní rovnice, která průběh křivek v okolí bodu «"" charakterisuje. Rovnice ta, kratčeji psána ve tvaru
+shoduje se s rovnicí (18') odst. 4., pročež také vede k obdobným výsledkům. Jsou tedy křivky rovnicí (7) vyjádřené v okolí bodu «""  rozloženy způsobem, jenž v odst. 5. byl vylíčen a znázorněn obrazem 2. Rovnice
+?<              ds
+s   dx
+—o
+jest tu
+Vyloučením
+-dx
+= O .
+z ní
+a  z rovnice  (11)  vychází   s — O  jako   geom.   místo
+dx obratných bodů sítě.
+Vycházejíce od rozlohy křivek (5) kol bodu «n a pokračujíce jako v odst. (>., bez nesnází vyšetříme průběh těch křivek, dbáme-li zvláště i toho, co bylo o bodech obratných soustavy prve pověděno. I shledáme, že průběh křivek těch valně podobá se onomu při typu I.
+Vydatnou podporou při tomto šetření jest též differencialní rovnice průmětu křivek v rovinu X Y. Ta zní, máme-li pro zjednodušení na zřeteli jen nad rovinou X Y se rozkládající část plochy T^, takto:
+(x* — y*)* + 4 6* (x* -f>'2) |* — A* (a?a — /2)3 — 2 )
+1 2 i^sv1 4- G ;.2^ v + s L4 x9 }/* —
+10 La*.y [Aaa-a + AV2 + ^2] / + ^ («a — J2)3 + 14 A^s1 + — 2 A2^2j/4 — 8 ;.2^2:r2 -f 8 L*/* —
+í = 0 .......... (12)
+Setření v okolí bodu a1 vede tu k výsledku obdobnému jako prve v okolí bodu «n. Tolikéž úvahy o bodech obratných a průběhu křivek v sousedství bodu o1 dávají výsledky obdobné. Na místě tří máme tu jen dvě bodem o1 procházející k sobě kolmé přímky, jinak vše jest obdobno tomu, co jsme seznali z rovnice (6) při typu I. (Viz obr. 7.)*)
+*) Obrazem  tímto jen  horní  polovice   plochy jest  zobrazena   a pro větší zřctelnost obrazy asymptotických křivek plně jsou vytaženy.
+IX. ﻿Ve příčině asymptotických křivek samých sluší poznamenati, že i zde vyskytují se v konečnu spolu nesouvislé větve trojího druhu:
+1.  takové, jež mají společný bod vratný v dvojném bodě o plochy F3, ku př. aob (obr. G.*) a 7.).
+2.  takové, z nichž každá má bod vratný v jiném z po sobě následujících bodů křivky parabolické, ku př. cvd.
+3.  takové, jež bodu vratého nemají, ku př. ef.
+První dva druhy větví na ploše čtyřikrát spolu sousedí a jsou od sebe odděleny singulárními křivkami *L *S 3S 45. Kdežto všechny větve nutno si představiti tak, že jedna pod rovinou X K, druhá s ní normálně souměrná, avšak o 90° k ní otočená, nad rovinou tou se rozkládá, tyto singulární křivky mají průběh jiný: každá dvojným bodem o z jedné strany roviny X V na druhou přechází, v něm jedné ze 4 reálných přímek A 11 CD se dotýkajíc. Na rozhraní větví 2. a 3. druhu jsou tolikéž 4 křivky singulární: '-l""2^3^4^"". Každá z nich dotýká se jedné ze 4 přímek GHJK, resp. v bodech « $ y 8 a zůstávajíc s ní po téže straně roviny X F, bodem tím s jedné strany rovin souměrnosti X Z resp. YZ přechází na druhou.
+Typus III.
+12. Rovnice plochy jest
+i x z* __
+0)
+Plocha jest normálně souměrná dle roviny X V a XZ.   Dvojným bodem o procházejí dvě reálné přímky:
+B
+a čtyři imaginárně:
+C=D
+,<;*=()
+x -\- iy — O
+,*=o       l
+x — t y = O l
+Imaginárně tyto přímky procházejí kruhovými body v nekonečnu. Plocha má tři reálné uběžné přímky í/oo ^oo Woo . Jejich roviny směru dány jsou rovnicí xz"" = 0. Dvě z nich spolu splývají, stotožňujíce se s úběžnou přímkou roviny X Y.
+*) Obraz 6.  představuje část  plochy   F3,  obsaženou mezi  rovinami z — +. -J-T-J=- ,
+l                                            21
+x = +          — .   Při tom voleno b =
+9      **
+8V3
+IX. ﻿Dále má plocha imaginarné přímky
+l (« + ty) + 2 ó* = O = 0
+= 0
+. (# — /» -f- 2 č2 = O |
+z  nichž   každou   nutno   počítati  dvakrát,  a   konečně ještě v reálné   rovině
+>L:r-j-^2 = 0 přímky
+tolikéž imaginarné.
+Náleží tedy k druhu 3. dle Schláfliho. Roviny osnovy Y Z protínají ji v kuželosečkách, roviny osnovy A' Y v křivkách kruhových. Geom. místem
+2 středů těchto křivek jest parabola z"" = — -x  v rovině XZ^ její vrchol s dvoj-
+ným bodem o plochy, osa s osou X se sjednocuje.
+Lze tedy plochu vytvořiti též pohybem proměnlivé křivky kruhové, jejíž rovina jest rovnoběžná s X Y, střed po dotčené parabole se šine, křivka přímku A nebo B protíná.
+Průmět parabolické křivky Kl<2  do roviny X Y má rovnici
+(ft)
+Reálná část tohoto průmětu jest křivka kruhová, jdoucí počátkem, se středem v negativní části osy X (obr. ÍJ.). Reálná část křivky KI(I promítá se do roviny X Z v křivce
+^x^ + ^.^^ + 4^x = 0 ......... (G)
+stupně 3., jež se v počátku dotýká osy Z, majíc reálnou asymptotu lx -\- &* = O (obr. 8.). Jest tedy reálnou částí křivky /ť,2 prostorová křivka stupně šestého, ležící na válcové ploše kruhové přímé a na přímé ploše válcové 3. stupnč ; v počátku o soustavy má bod dvojný: tečnami jeho, a to inflekčními, jsou přímky A, B. Část imaginarná skládá se ze dvou imaginarných křivek 3. stupnč, v rovinách x + iy=-v, o jediném reálném bodě o.
+13. Differencialní rovnice průmětu křivek asymptotických do roviny XZ
+jest
+)tt -
+(7) ﻿Rovnice diskriminantní křivky d jest
+— x^t^O, .   .   .(8)
+nebo kratčeji Kn. <U.V=0 .
+Při tom značí  K   =0   průmět reálné  části křivky KÍZ  v rovinu <l> = O obrysovou křivku tf> vzhledem k rovině X Z, zároveň průsek plochy F3 s touto   rovinou, ^""^O  průmět  imaginarných   přímek   C=D,   E=F do roviny XZ.
+Z rovnice (7) vychází pro všechny body křivky A
+ds        z)*X2*-
+dx ~              *
+tak zejména pro všechny body křivky f/> = 0.
+Dosadíce za x* z rovnice její do rovnice (9), obdržíme
+ds       ~~2*«     **
+) '
+jako směrnici tečny každého v křivce '/> = O ležícího bodu křivek (7). Z rovnice </> = O vychází však pro směrnici libovolného bodu křivky výraz
+dz         2 a — lz*
+.......... (
+Srovnáním výrazů (11) a (12) nabýváme podmínky jejich totožnosti ve tvaru
+Ix-iJ^bis* — %* = (),
+tudíž právě rovnice  (1* = 0 ,  na  důkaz,  že průměty  křivek  asymptotických křivky <I> = O se dotýkají.
+Naproti  tomu jest   pro  všechny   body  křivek   (7),  ležící   na   průmětu K  = O parabolické křivky, příslušná směrnice tečny dána výrazem
+** .
+dx '      ~
+kdežto směrnice tečny v libovolném bodě této křivky jest
+dx_            l«g« + 4*«
+dx ~      ~ 2                   «  '
+Srovnáním rovnic (12) a (13) vychází
+— 2 b*ly* + 4 /'2x = O ,
+IX. ﻿26
+kterýžto výraz v prostředním členu od rovnice průmětu parabolické křivky se liší, tudíž totožně nulle se nerovná. Z toho následuje : Průmět parabolické křivky jest geom. místem vratných bodů průmětů křivek asymptotických. Rovnice
+Dg>       Dg,
+""•Ň                      A          """"     -
+'
+nabývá zde tvaru následujícího:
+z""* [l xz* -f //',cr2 — z2] = O .
+Vyloučíme-li z ní a z rovnice (7) z', obdržíme
+x9)*
++ l* s*)* = O
+(14)
+(15)
+Výraz (>L#,cr2-{-^2~a — x<2] totožný jest s činitelem <l> diskriminanty, ve shodě s faktem prve dokázaným, že značí obrysová křivka *l> = O singulární řešení rovnice (7). Zbývající část levé strany rovnice (lf>) onen výraz obsahuje ještě jedenkráte, pročež je tato křivka obrysová zároveň gctnn. místem obratných bodu křivek soustavy (7). Rovnice z* (4^2 -f- A2.?2)'2 = 0 značí průměty imaginarných přímek plochy, s nimiž netřeba se dále zabývati.
+Body, v jejichž okolí jsme při předešlých dvou typech po způsobu Dyckově rozložení křivek asymptotických zkoumali, v tomto případě v ko-nečnu neexistují. Přes to však rozlohu křivek asymptotických obdobou s tím, co jsme seznali při typu I. a II., snadno jest stanoviti, zvláště užijeme-li ještě průmětu asymptotických křivek v rovinu X Y.
+Jeho differencialní rovnice jest
+4 x*
+rovnice křivky // pak
+2 Pxy)    x -+ 4^V2 = 0, (16)
+= 0.   .   .(17)
+v ro-
+Při tom první dva činitele srovnány s nullou značí průmět křivky A""12 vinu X K, druhé dva známé přímky (srv. odst.  12.).
+Plocha má po každé straně roviny X V jen po jednom poli ellipticky a po jednom hyperbolicky zakřiveném.
+Křivky asymptotické jsou dvojí: jedny, z nichž každá v jiném bodě parabolické křivky má bod vratný, ku př. cvd, druhé, jež společný bod vratný mají v dvojném bodě o plochy, ku př. a o]) [viz obr. S. a 9.*)|.
+*) V obr. 9. zobrazeny jsou sic obě poloviny plochy l<\ , dle X Y spolu souměrné, pro větší však zřqíelnost obrazy křivek asymptotických vytaženy jsou plně, jakoby horní polo-
+IX. ﻿27
+Rozhraní těchto dvou druhů křivek, z nichž každá výhradné bud' po jedné nebo po druhé straně roviny X Y se rozkládá, tvoří singulární křivky 1S, *S, jež v bodě o přímek A a B se dotýkajíce, tudy přecházejí s jedné strany roviny X Y na druhou.
+Typus IV.
+14. Rovnice plochy jest
+(1)
+Plocha má tři splývající reálné přímky v nekonečnu. Sjednocují se s úběžnou přímkou roviny X Y. Ostatní přímky jsou imaginárně. Dvojným bodem o, v počátku soustavy ležícím, procházející přímky
+>=oj
+směřují  do   imaginarných   bodů kruhových   a  reálný průsečík mají v bodě dvojném.
+Roviny osnovy X Y protínají plochu v křivkách kruhových, jejichž středy vyplňují osu Z, pročež jest F3 plocJiou rotační. Hlavním meridianem jest racionálna křivka 3. stupně
+jež v počátku má bod dvojný a úběžnou přímku tečnou obratnou.   Uběžná rovina jest obratnou rovinou plochy.
+Průmět parabolické křivky v rovinu X Z jest
+(2)
+i skládá se křivka sama ze dvou částí. První stotožňuje se s imaginarnými přímkami plochy v rovině X Y obsaženými a s reálnou její přímkou úběžnou, má jediný reálný bod, totiž o. Druhá část jest též rovinná, rozkládá se však po imaginarné části plochy. Plocha skládá se, pokud se křivosti týče, v ko-nečnu ze dvou částí, dvojným bodem spolu souvisejících. Část, obsahující kličku meridianu, jest ellipticky zakřivená, část druhá hyperbolicky.
+Otočíme-li plochu kol osy   K ve smyslu záporném o pravý úhel, rovnice její bude:
+i x3 = O .
+vina plochy byla sňata.   Obrazem   tím a obr. 8. zobrazena část plochy F3, obsažená mezi
+l                                                21
+rovinami s= + -      — .    Při tom  voleno   b=       _ ,     i = —. l h V-l                                          3 V'í                f>
+IX. ﻿28
+15. Differencialní  rovnice   průmětu  křivek   asymptotických   do   roviny X Y jest pak
+i.«\ dy
+— (3>l2a;4 + 4U2s3 — m^/2 — 4&V2) = 0.    .   .   . (3) Rovnice křivky diskriminantní z/ jest tu
+*3(;U# + 4/>2)(;U3 + />aíe2 — )>*)=().......(4)
+První dva činitele s nullou srovnány  značí průmět parabolické křivky A"",, třetí obrysovou křivku </> plochy vzhledem k rovině X Y.
+Směrnice tečny křivek soustavy (3) v bodech křivky // jest
+dy       y(
+dx
+směrnice tečny v libovolném bodě křivky tf» = O pak
+dy __
+dx
+Výrazy (6), (1) stotožní se pro
+(6)
+což značí rovnici křivky <]> = (), Tedy: Průměty křivek asymptotických  dotýkají se křivky obrysové.   Křivka ta jest singulárním řešením soustavy (4). Rovnice
+i _
+~ ~
+po náležité redukci jest
+(7)
+any součinitele 1. a 2. mocniny y' vymizí.
+Z rovnic (7) a (3) má se vyloučiti y\ Poněvadž resultanta rovnic
+když AI = O , Bl = O jest (A C^ )2 = O , bude výsledkem vyloučení v našem případě
+xt + Wx11— }>*)* = () ....... (8)
+Levá strana rovnice A#3 -)- Wx* — y* = O obsažena jest též v rovnici křivky //, i jest to novým dokladem, že křivka rovnicí tou vyznačená jest singulárním řešením. Činitel ten však vyskytuje se zde ještě jednou na důkaz, že křivka ta zároveň -náleží ku gcom. místu obratných bodů křivek soustavy (3).
+IX. ﻿29
+Rovnice (kx -f- A2)2 = O postrádá významu praktického, odpovídajíc imaginárně části plochy.
+16. Hledajíce rovnice průmětu asymptotických křivek této plochy, užijme zajímavého způsobu, jímž Weyr*) strojí rovnici průmětu asymptotických křivek do roviny k rotační ose kolmé, je-li rovnicí plochy
+rovnice průmětu křivek asymptotických do roviny  X Y jest pak
+při čemž
+f>_   ds    f»_   d*
+Poněvadž rovnici (1) plochy F3 lze psáti
+jest
+/' =
+l
+df ~    Zlz'í-{-2b*2
+Qls + Zb*
+pak
+L
+f ==±.
+(S)
+(10)
+tak že rovnice ((J) nabývá podoby následné:
+
+po příslušné pak integraci teta:
+/Vs .vr
+to = ± l - r / T, V 2
+are cotg
+i/i*"""" r^
+V      - + 3 l V   ^^
+const , (12)
+z níž dosazením za 2 z rovnice (10) by nabylo se rovnice průmětu křivek asymptotických v rovinu X Y v soustavě polárné. Přestaňme však na rovnici (12).
+*) Eduard Weyr: Zuř Integration der Differentialgleichungen erster Ordnung. (Véstník král. češ. Spol. Nauk 1875, pag. 10.)
+IX. ﻿30
+Křivky jí vyjádřené jsou shodné a liší se jen polohou. Pokud jest ft od nully různo, každá má v počátku u1 bod vratný. Rovnice tečen vratných obdrží se z rovnice (12) pro s —O, totiž
+= const.
+Vyplňují tedy tečny vratné svazek přímek o středu t>1.
+V obr.  10. jedna z řečených křivek z rovnice (12) byla sestrojena, jest
+i  i /i
+to křivka a o b, již přísluší const = n. Při tom voleno
+2 81
+--= 3V3
+Přímka   X   jest její tečnou vratnou.*) Pro větší zřetelnost obraz této i obrazy ostatních křivek plně jsou vytaženy. Z plochy F3 v obr. 10. a 11. zobrazena
+část, zakončená  rovinou  s=-t- — .
+^   t*
+Křivky asymptotické samy tolikéž jsou shodný, liší se jen polohou a každá v dvojném bodě o plochy F% má bod vratný. Tečny vratné vyplňují inflekční plochu kuželovou plochy F3.
+17. Jak z předešlých úvah na jevo vychází, nebylo lze provésti integraci differencialní rovnice průmětu křivek asymptotických při typu L, II. a III, pročež bylo se omeziti úvahami jinými, jimiž by se průběh křivek soustavy schematicky zjistil.
+Poněvadž však šlo o pořízení co možná přesných modelů všech typů, nemohl jsem přestati na pouhém schematě, ale snažil jsem se nějakou methodou přibližnou jednotlivé křivky soustavy narýsovati.
+Při této práci vycházel jsem
+u typu I. od differencialní rovnice (fi.) odst. 3.
+II.   »             »                »        (5.)     »    10.
+>    III.   >             »                »      (16.)     »    13.,
+*) Pro L = 0 ellipticky zakřivená část plochy Fz zmizí a meridian její stane se parabolou semikubickou. V případě tom z rovnice (12) vychází výraz neurčitý, vrátíme-li se však k rovnicím (11), ihned tu obdržíme
+čili se zřetelem k rovnici (10)
+což do (9) vloženo po integraci dává
+o>= +        -/9 + const
+jako rovnici  křivek  příslušných.   Jsou  to   logarithmické  spirály  s  asymptotickým   bodem v počátku soustavy.
+IX. ﻿31
+do nichž vložil jsem za constanty /> a i hodnoty, jichž  při sdělání  modelů bylo užito, totiž
+3V3
+dle návrhu prof. Dycka, dle návrhu vlastního pak
+l
+Z takto upravených rovnic snažil jsem se sestrojiti jednotlivé křivky tím způsobem, že jsem v nákresně (na papíru v millimetry rozděleném), na níž křivka parabolická, přímky plochy, po případě křivka obrysová přesně byly zobrazeny, vyšel z místa, jež se mi příhodným býti vidělo : z obrazu některé přímky, z obrazu některého bodu křivky parabolické nebo křivky obrysové. Pro místo toto, jehož souřadnice hleděl jsem odhadnouti přesně až na 0*5 MM, určil jsem pak řešením differencialní rovnice směrnice tečen obou příslušných křivek soustavy. Sestrojiv je, obral jsem si především jednu z nich a na ní ve vzdálenosti l — 1*5 mm volil jsem místo, pro něž postup celý jsem opakoval. Takovým způsobem, vždy jedné tečny si hledě, sestrojil jsem mnohoúhelník, jenž křivku měl nahraditi. Čára narýsovaná při mé práci tvořila tah na pohled tou měrou spojitý, že nebylo třeba jej korrigovati. K tomu valné přispělo to, že křivky samy ponejvíce jen mírnou křivostí se vyznamenávají.
+Že jsem ovšem pilně dbal zjištěné dřív symmetrie a tudíž v každém z předložených tří případů jen tolik přímo sestrojil, kolik bylo nezbytné třeba, jen pro úplnost připomínám.
+Řečeným způsobem sestrojil jsern při typu I. obraz první (viz obr. 3.), při typu II. horní polovinu obrazu druhého (viz obr. 6.), při typu III. obraz první (viz obr. í).).
+Při typu I. hleděl jsem správnost výkresu i tím kontrolovati, že jsem sestrojil křivku
+4 x* -f 12
+4 ly* — 9 )°jc4 - 18
++ 3 * V =
+jejíž rovnici dává součinitel prvního členu rovnice G. (odst. 3.) srovnán s nullou. Křivka ta jest geom. místem bodů soustavy (6), jejichž tečny jsou k -Y kolmý.
+Aby průběh křivek asymptotických v prostoru jasněji na jevo vyšel, sestrojil jsem, jak již bylo napověděno, k obrazům obdrženým methodou přibližnou, pokaždé ještě přidružené obrazy cestou deskriptivní geometrie.
+Tak při typu I. k obrazu prvnímu obraz třetí (viz obr. 4.), při typu II. obrazu druhého dolní polovinu a obraz první (viz obr. 7.), při typu III. ku obrazu prvnímu obraz druhý (viz obr. 8.), konečně pak i při typu IV. ku obrazu prvnímu, přímou cestou obdrženému, obraz druhý (viz obr. 11.).
+IX. ﻿32
+Zavíraje práci tuto, srdečné díky činím prof Dru. W. Dyckovi za vše, čím ku vzniku i provedení jejímu přispěl: zvláště však předem za podnět, podruhé za poukaz k důležitým pramenům, z nichž jeden (vlastní pojednání) laskavě mi daroval, do třetice za některé pokyny; těch na svém místě zvlášť připomínám.
+Také jemu při této příležitosti vřele děkuji za zevrubný návod ku sdč-lávání sádrových modelů, jehož mi nezištně poskytl r. 1890 v modelovnč mathematického ústavu vyš školy technické.
+Opravy.
+V rovnici (17) pag. 9 ......... místo   <jr13 xy   stůj
+V rovnici (1H') pag. 10 .........     »      2 ml/    »
+Při rovnici (20) pag. 15 .........     »       (20)         »
+V pag.  15. 7. řádek shora .......     »       (20)         »
+Při rovnici (23) v pag.  16 ........     »       (23)         »
+V pag. 16. 3. řádek zdola .......     »       (23)         »
+2 mixy' .
+(31).
+(31).
+(32).
+(32).
+••'
+r
+IX. ﻿ANT.SUCHARDA: O KŘIVKÁCH ASYMPTOTICKÝCH JISTÝCH PLOCH STUPNĚ TŘETÍHO ATD.
+TAB. I.
+
+Sestr Ant.Sucharda
+Lith FaiskyvPrare
+Rozpravy České Akademie. Ročník V. Třída U ﻿l ANT.SUCHARDA: O KŘIVKÁCH ASYMPTOTICKÝCH JISTÝCH PLOCH STUPNĚ TŘETÍHO ATD.
+3.
+TAB.
+3.
+Sestr Ant..Sucharda.
+'
+•
+LiihTauVyvkize ﻿* ﻿ANT.SUCHARDA: O KŘIVKÁCH ASYMPTOTICKÝCH JISTÝCH PLOCH STUPNĚ TŘETÍHO ATD.
+TA B.
+Rozpravy České Akademie- Ročník V. Třída II. ﻿ANT.SUCHAROA: O KŘIVKÁCH ASYMPTOTICKÝCH JISTÝCH PLOCH STUPNĚ TŘETÍHO ATO.
+TAB.IV.
+8.
+Sestr AntSucharda.
+Rozpravy České Akademie. Ročník V. Tnda JI. ﻿* ﻿ANT.SUCHARDA: O KŘIVKÁCH ASYMPTOTICKÝCH JISTÝCH PLOCH STUPNĚ TŘETÍHO ATD.
+TAB.V.
+Sestr Ant.Sucharda
+Luh Ture kyv Příze.
+Rozpravy České Akademie: Ročník V.Třídafl ﻿*"

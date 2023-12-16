@@ -1,0 +1,146 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK I.
+TŘÍDA II.
+ČÍS l,O 25
+PŘÍSPĚVKY
+K THEORII FUNKCÍ ELLIPTICKÝCH
+-
+NEKONEČNÝCH ŘAD
+A INTEGRÁLŮ OMEZENÝCH.
+(POKRAČOVANÍ.)
+NAPSAL
+M.   LERCH.
+PŘEDLOŽENO   DNE   13.   LISTOPADU   1891.
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ.
+1892. ﻿I7VMJ  A  AJXQ *f ﻿II.
+Při   problému  rovnováhy  elektrické   na  dvou   vodivých koulích vyskytují se řady tvaru *)
+,n
+w — l
+kde q je ryzý kladný zlomek ; tyto řady jsou jen zvláštní případ výrazů tvaru
+0)
+n   -.1
+které chceme redukovati na integraci transcendent elliptických.
+Rozviňme za tím  účelem jednotlivé členy řady (1) dle vzorce
+(a + b x -{- c
+m = O
+i obdržíme tak dvojnásobnou řadu nekonečnou
+m, n
+která konverguje absolutně, jeli q dosti malé. Provedemeli v ní sčítání vůči ;/, obdržíme
+oo
+S =
+Tento výraz přetvoří se snadno  v omezený integrál  na základě následujícího principu,   s nímž se v pozdějších článcích opětné shledáme:
+Konvergujíli řady
+X.
+,. f « »•»-•""•, qp(íf)
+V
+av
+= — OO
+stejnomérne v celém intervallu (O ... 1), bude
+\
+O
+OO
+S
+l*  - = O
+:;:) Viz na př. Mathieu, Théorie du  potentiel   et  ses applications   a   1'électrostatique et au magnetisme ;    Paris, 1886.    Díl II., str. 61.
+l*
+483 ﻿Pro stanovení součtu .S' bude třeba tento přepsati na tvar
+r **
+m
+— m s* 2 m -f-1
+m   : O
+l — <?*
+a klásti
+— m
+2 m
+co
+00
+77Í    -O
+a  7  voliti  tak,   aby obě řady  konvergovaly   stejnoměrně.    Avšak   z poslední rovnice plyne patrně
+takže bude
+F(x)
+dx
+o
+i   nezbývá leč vyjádřiti hodnotu řady (a) transcendentami elliptickými K tomu cíli vyšetřme  řadu
+oo
+Si
+— oo A
+znamenámeli q = er:rl, bude konvergenční podmínka vyžadovati 0<CIm.//<Im.r Rozložme tuto řadu ve dvě sestávající  ze členů ;//>0 a z členu ;//<0,
+rxj
+'"" («)
+2 m u .-T /
+i
+2;w — l ^ — %mu?ri
+i
+—l         '
+a rozviňme členy obou částí  v řady  geometrické;   i   vzniknou  tak  absolutně konvergentní výrazy
+v
+V              /^                  *                        ;*
+W.     ť/ )M li   T J                     T
+X»     X f fl   U   * l   í            -           /      .
+*                          —J
+;« ,n' ;;/   ;/ = ()   1   23
+'  '  *         >       '  *                      \^/    •       l       «     —      k     •   '     i        •      •    •
+- 1  n     -
+m , w
+, l ,2,3, ... \
+,2,:i,4, ... J '
+provedemeli v obou dvojnásobných řadách sčítání vůči ///, obdržíme
+*
+Si
+n
+__^a«
+t. j.
+(w)
+S-t
+« =— 00
+484 ﻿r.
+Uvážírneli,   že   tato   funkce  jest  jednoznačná   v celé rovině (//),  že   hoví rovnicím                              '
+a že součin #, (u \ T) '/> («) je celistvá funkce transcendentní hovící podmínkám
+(7/4- 1) = — i/
+obdržíme přihlédnuvše zároveň k hodnotě residua při u = O
+(u)
+1 (« +    )
+t (I.)
+čili
+(u)
+Porovnáním vzorců (a\ (ar) však máme
+kde
+a tedy dle
+^
+- x)
+takže hledaný vztah zní
+(2)
+00
+n = l
+2         2 ""3
+a i\o — *)* d X
+čili
+l —a
+*i W
+— n
+Při tom   značí « veličinu podrobenou jediné (b)   konvergovaly  pro   y = />*«*'*   při   reálném jakmile
+O < Im.rc < Im. r
+té podmínce,   aby řady (#)> .    Prvá   z   nich   konverguje^
+konvergence druhé řady  pak vyžaduje, aby 7 = ráoírl' bylo   absolutně menší než kořeny rovnice kvadratické
+=0,
+t. j.
++ \b* —
+485 ﻿Vzorec (2) je tedy správným, jsouli splněny podmínky
+(3)
+— b +
+O < Im. a < Im. r ,
+takže se ho dá užiti jen tehdy, jeli
+<
+Podmínkám těm lze vyhověti při všech q, jsouli #, ^, <: reálné a ^2 — 4 /7 c < O .
+^
+Příbuznou   povahu  mají výrazy,   k nimž   při řešení   zmíněného   problému elektrostatického dospěl p. Mfkler*) a které jinou cestou verifikoval Hciriť.**]
+Zcela podobnou methodou dal by se řešiti úkol převedení  řady obecnější
+n = l
+na tvar integrálu, kterýžto problém ponechán bud' jednomu z článků následujících této práce.
+*) Zuř Theorie der Vertheilung der Elektricitát  in leitenden Korpem.    Jahresbericht děs Elbinger Gymnasiums,  187'J. Otištěno v Mathematisch e Annalen, sv. 18. **) Handbuch der Kugelfunctionen, 2. vyd., II. díl, str. 57 a násl.
+486"

@@ -1,0 +1,434 @@
+"","x"
+"1"," ﻿ROZPRAVY
+
+
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ PRAZE.
+
+
+ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍS l,O
+
+
+PŘÍSPĚVKY
+
+
+THEORII FUNKCÍ ELLIPTICKÝCH
+
+
+
+
+
+NEKONEČNÝCH ŘAD
+
+
+INTEGRÁLŮ OMEZENÝCH.
+
+
+(POKRAČOVANÍ.)
+
+
+NAPSAL
+
+
+LERCH.
+
+
+PŘEDLOŽENO DNE 13. LISTOPADU 1891.
+
+
+PRAZE.
+
+
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ.
+
+
+1892. ﻿I7VMJ AJXQ ﻿II.
+
+
+Při problému rovnováhy elektrické dvou vodivých koulích vyskytují řady tvaru
+
+
+
+
+
+
+
+
+kde ryzý kladný zlomek tyto řady jsou jen zvláštní případ výrazů tvaru
+
+
+
+
+
+-.1
+
+
+které chceme redukovati integraci transcendent elliptických.
+
+
+Rozviňme tím účelem jednotlivé členy řady (1) dle vzorce
+
+
+-{-
+
+
+
+
+
+obdržíme tak dvojnásobnou řadu nekonečnou
+
+
+
+
+
+která konverguje absolutně, jeli dosti malé. Provedemeli sčítání vůči ;/, obdržíme
+
+
+
+
+
+
+
+
+Tento výraz přetvoří snadno omezený integrál základě následujícího principu, nímž pozdějších článcích opětné shledáme:
+
+
+Konvergujíli řady
+
+
+
+
+
+»•»-•""•, qp(íf)
+
+
+
+
+
+
+
+
+
+
+
+stejnomérne celém intervallu ... 1), bude
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:;:) Viz př. Mathieu, Théorie potentiel ses applications 1'électrostatique magnetisme Paris, 1886. Díl II., str. 61.
+
+
+
+
+
+483 ﻿Pro stanovení součtu .S' bude třeba tento přepsati tvar
+
+
+
+
+
+
+
+
+-f-1
+
+
+
+
+
+<?*
+
+
+klásti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77Í
+
+
+voliti tak, aby obě řady konvergovaly stejnoměrně. Avšak poslední rovnice plyne patrně
+
+
+takže bude
+
+
+F(x)
+
+
+
+
+
+
+
+
+nezbývá leč vyjádřiti hodnotu řady (a) transcendentami elliptickými tomu cíli vyšetřme řadu
+
+
+
+
+
+
+
+
+
+
+
+znamenámeli er:rl, bude konvergenční podmínka vyžadovati 0<CIm.//<Im.r Rozložme tuto řadu dvě sestávající členů ;//>0 členu ;//<0,
+
+
+rxj
+
+
+'"" («)
+
+
+.-T
+
+
+
+
+
+2;w %mu?ri
+
+
+
+
+
+
+
+
+rozviňme členy obou částí řady geometrické; vzniknou tak absolutně konvergentní výrazy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,n' ;;/
+
+
+\^/
+
+
+
+
+
+
+
+
+,2,3, ...
+
+
+,2,:i,4, ...
+
+
+provedemeli obou dvojnásobných řadách sčítání vůči ///, obdržíme
+
+
+
+
+
+
+
+
+
+
+
+__^a«
+
+
+
+
+
+(w)
+
+
+S-t
+
+
+
+
+
+484 ﻿r.
+
+
+Uvážírneli, tato funkce jest jednoznačná celé rovině (//), hoví rovnicím
+
+
+součin '/> («) celistvá funkce transcendentní hovící podmínkám
+
+
+(7/4-
+
+
+obdržíme přihlédnuvše zároveň hodnotě residua při
+
+
+(u)
+
+
+
+
+
+(I.)
+
+
+čili
+
+
+(u)
+
+
+Porovnáním vzorců (a\ (ar) však máme
+
+
+kde
+
+
+tedy dle
+
+
+
+
+
+
+
+
+takže hledaný vztah zní
+
+
+(2)
+
+
+
+
+
+
+
+
+""3
+
+
+i\o *)*
+
+
+čili
+
+
+
+
+
+
+
+
+
+
+
+Při tom značí veličinu podrobenou jediné (b) konvergovaly pro />*«*'* při reálném jakmile
+
+
+Im.rc Im.
+
+
+podmínce, aby řady (#)> Prvá nich konverguje^
+
+
+konvergence druhé řady pak vyžaduje, aby ráoírl' bylo absolutně menší než kořeny rovnice kvadratické
+
+
+=0,
+
+
+
+
+
+\b*
+
+
+485 ﻿Vzorec (2) tedy správným, jsouli splněny podmínky
+
+
+(3)
+
+
+
+
+
+Im. Im.
+
+
+takže užiti jen tehdy, jeli
+
+
+
+
+
+Podmínkám těm lze vyhověti při všech jsouli reálné
+
+
+
+
+
+Příbuznou povahu mají výrazy, nimž při řešení zmíněného problému elektrostatického dospěl Mfkler*) které jinou cestou verifikoval Hciriť.**]
+
+
+Zcela podobnou methodou dal řešiti úkol převedení řady obecnější
+
+
+
+
+
+tvar integrálu, kterýžto problém ponechán bud' jednomu článků následujících této práce.
+
+
+Zuř Theorie der Vertheilung der Elektricitát leitenden Korpem. Jahresbericht děs Elbinger Gymnasiums, 187'J. Otištěno Mathematisch Annalen, sv. 18. **) Handbuch der Kugelfunctionen, vyd., II. díl, str. násl.
+
+
+486"

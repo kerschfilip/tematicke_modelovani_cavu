@@ -1,0 +1,629 @@
+"","x"
+"1"," ﻿ROČNÍK XII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 27.
+
+
+Řešení rovnic stupně drahého třetího integrováním differenciálných rovnic Raabe-ho.
+
+
+Podává
+
+
+Řehořovský
+
+
+Brně. (Předloženo dne května 1903.)
+
+
+Crelle-ově »Journal fůr reine und angewandte Mathematik«, 1854, svazek 48., str. 170. odvodil Raabe soustavu rovnic částečných derivacích, kterým vyhovuje kterýkoli kořen algebraické rovnice, považovaný funkci koefficientů rovnice. Dána-li totiž algebraická rovnice
+
+
+x"" tfj x""-1 -{-... -j- a„-i -\- značí-li kterýkoli její kořen, platí soustava rovnic*)
+
+
+(Z,
+
+
+<*«,/
+
+
+(1)
+
+
+(2)
+
+
+kdež značí
+
+
+•>>•+1) maJí význam součtů stejných mocnin kořenů rovnice (1). Učiníme-li >L~ nabude rovnice (2) tvaru
+
+
+
+
+
+.i)-5—= —4< .(3)
+
+
+Viz Řehořovský V.: Theorie souměrných funkcí kořenů, 1883, str. 88.
+
+
+Rozpravy: Roč. XII. Tř. II.
+
+
+XXVII. kterémž tvaru podává Raabe rovnice navýše zmíněném místě, užívaje při tom >b"" místo místo klada
+
+
+Integrací rovnice (3) odvodil Raabe témž článku známý vzorec pro řešení rovnice druhého stupně
+
+
+
+
+
+pro rovnici stupně třetího však integrace (3) více nepodařila.
+
+
+Jest účelem těchto řádků, odvoditi rovnice (3) též známý vzorec Tartaglia-Cardan-ův pro řešení rovnic stupně třetího. Poněvadž postupovati budeme při tom cestou poněkud jinou než Raabe, podáme též řešení pro rovnici stupně druhého.
+
+
+Podotýkáme hned zde jako zajímavé faktum, při integracích rovnic (3) potřebné substituce podávají postupně samy sebou vedou bezprostředně invariantům, specielně diskriminantům binárné formy, jež tvoří levou stranu rovnice (1); dále poznamenáváme, vycházejíce obecně platných rovnic (3) nedostáváme žádných nových řešení, nýbrž přicházíme postupným integrováním opět jen známým řešením pro rovnice stupně druhého třetího.
+
+
+Předpokládati budeme rovnici (1) tvaru binomiálnými koeffi-cienty, totiž
+
+
+i**~ '-l- -h**=0; (4)
+
+
+rovnice (3) tím poněkud změní, jak jednotlivých případů uvedeme.
+
+
+Rovnice stupně druhého.
+
+
+Tato budiž
+
+
+-\- -j- Příslušná rovnice (3) jest pak:
+
+
+(5)
+
+
+
+
+
+soustavy těchto rovnic podržíme pouze dvě pro
+
+
+totiž
+
+
+-4-
+
+
+
+
+
+XXVII. ﻿Jest patrné, kladením dalších hodnot neobdržíme nových, podstatně různých rovnic, které napsaných již dvou rovnice (5) nedaly napsati; neboť, kdyby př. pro vznikla taková podstatné
+
+
+různá třetí rovnice, mohli bychom --— oněch tří rovnic vyloučiti
+
+
+obdrželi bychom relaci mezi koefficienty a0l a2, která musela různiti původní (5); vyloučení těchto dvou rovnic vedlo však tomu, koefficienty a0, vázány jsou jakousi rovnicí, tedy nejsou sobě nezávislé, jak předpokládáme. Dosadíce posledních dvou rovnic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------
+
+
+obdržíme tyto tvaru
+
+
+
+
+
+(6)
+
+
+ca.
+
+
+dává
+
+
+První těchto rovnic integrována dle Lagrange-ovy methody
+
+
+a,^
+
+
+
+
+
+kteréž soustavy vychází obecný integrál
+
+
+
+
+
+(7)
+
+
+známý výsledek, kteréhož užívá odstranění druhého členu la^x levé strany rovnice (5). Nová neznámá jest funkcí pouze kvadratického invariantu a0a2, který jest zároveň diskriminantem rovnice (5).
+
+
+Položme hodnotu danou rovnicí (7), zavedouce zároveň novou proměnnou rovnicí
+
+
+
+
+
+jest pak
+
+
+
+
+
+Dosazením těchto výrazů rovnic (6) jest první nich identicky vyhověno, druhá pak pomoci (8) přejde
+
+
+o„, .,.
+
+
+XXVII. ﻿integrál této rovnice jest
+
+
+kdež značí integrační konstantu. Jest tedy dále základě (7)
+
+
+zi:
+
+
+Abychom stanovili konstantu položíme tuto hodnotu původní rovnice (5), což dává (vylučuje-li případ, kde discriminant a^__0
+
+
+C2—l, C=±l, takže konečné řešení jest známý vzorec:
+
+
+II. Rovnice stupně třetího. Tato budiž
+
+
+-}- a-! -\- -\- Rovnice (3) pro tento případ jest
+
+
+
+
+
+(9)
+
+
+
+
+
+_j_ (3,2 j-._i_3^
+
+
+**3
+
+
+soustavy těchto rovnic podržíme pouze tři, pro/mO, 1,2, totiž
+
+
+_J_
+
+
+
+
+
+
+
+
+(3^2
+
+
+
+
+
+
+
+
+(3«
+
+
+3^í3+^ XXVII.
+
+
+
+
+
+﻿Důvody pro podržení pouze tří rovnic jsou tytéž jako ony, pro které rovnice stupně druhého byly podrženy pouze rovnice dvě. Dosadíce posledních tří rovnic
+
+
+ft-l
+
+
+ao2
+
+
+»(.»«, 4»0to,H-4i «s).
+
+
+
+
+
+/O^~ O^C
+
+
+---- \^' ---- ""l ""l ~Í~ Od?o <3U
+
+
+obdržíme tyto tvaru
+
+
+(S^2 —2«0
+
+
+<?«,
+
+
+
+
+
+I/0
+
+
+-f- tfjrt;2 «0íz3
+
+
+
+
+
+(10)
+
+
+integrujíce první těchto rovnic dle Lagrange-ovy methody obdržíme soustavu
+
+
+kteréž vysleduje obecný integrál
+
+
+
+
+
+
+
+
+známý výsledek, kteréhož užíváme odstranění druhého členu 3a1^v2 levé strany rovnice (9). Nová neznámá jest funkcí kvadratického variantu tfj2 kubického variantu a02 -j-
+
+
+základě tohoto výsledku položme hodnotu danou rovnicí (11), zavedouce zároveň nové neodvisle proměnné rovnicemi:
+
+
+
+
+
+z/3 (12)
+
+
+jest pak
+
+
+
+
+
+
+
+
+XXVII. ﻿Dosadíme-li hodnoty tyto rovnic (10), jest první nich identicky vyhověno, druhé dvě přejdou pomoci (12) nejprve rovnice
+
+
+(4«i*i -»t)-aí- 6(*'i
+
+
+3^,
+
+
+odečte-li 2at násobná první rovnice druhé, rovnice:
+
+
+
+
+
+
+
+
+3v3 -^---
+
+
+
+
+
+(13)
+
+
+kteréž obsahují již jen dvě neodvisle proměnné v3, jak třeba býti. Původní rovnice (9) nabývá substitucemi (11) (12) tvaru
+
+
+j/3 vty z/3
+
+
+(14)
+
+
+První rovnic (13) integrována opět dle Langrange-ovy me-thody dává soustavu
+
+
+dv2 dv3
+
+
+
+
+
+které obdržíme obecný integrál
+
+
+(15)
+
+
+tvaru toho soudíme, jest homogenní funkce stupně prvého vzhledem ~\v% \jv3 při tom arciť, jak zpředu víme, irracionalná.
+
+
+Výsledek ten vede nás ihned dalším substitucím zaveďme nové neodvisle proměnné rovnicemi
+
+
+
+
+
+jest pak
+
+
+
+
+
+
+
+
+
+
+
+hodnoty tyto dosazeny byvše rovnic (13), vyhovují první nich identicky druhou mění rovnici
+
+
+XXVII. ﻿dz
+
+
+
+
+
+
+
+
+kdež objevuje již jen jako funkce jediné proměnné
+
+
+Rovnice zjednoduší dále substitucí, která opět sama sebou nabízí, totiž
+
+
+wa=2t (17)
+
+
+tvar
+
+
+(/2
+
+
+
+
+
+(18)
+
+
+úloha naše bude podstatě řešena, podaří-li nám tuto rovnici|jinte-grovati.
+
+
+Připomeňme ještě, rovnice (14) substitucemi (16) (17) nabývá tvaru
+
+
+.c3 2^= (19)
+
+
+10. Zbývá integrovati rovnici (18). dosud při jednotlivých integracích podávaly vhodné další substituce samy sebou, rovnice (18) tomu více tak není. chtějíce provésti pohodlně separaci proměnných
+
+
+odvoďme rovnice (18), která vzhledem derivaci jest line-
+
+
+
+
+
+arnou, novou kvadratickou rovnici vzhledem této derivaci. Jest
+
+
+s*—ts
+
+
+
+
+
+t*)
+
+
+zmocníme-li druhou nahradíme-li pravé straně vyskytnuvší pomocí (19), obdržíme
+
+
+(—v=
+
+
+dt)
+
+
+čímž separace jest uskutečněna. Označíme-li pro krátkost
+
+
+
+
+
+můžeme (20) psáti tvaru
+
+
+
+
+
+1-1
+
+
+V'4-|
+
+
+čehož dále
+
+
+-\-t ads
+
+
+(odmocniny vzaty absolutně)
+
+
+Integrací obdrží především
+
+
+XXVII. některých přeměnách
+
+
+
+
+
+(21)
+
+
+kdež jakousi konstantu značí.
+
+
+Rovnici tuto jest řešiti dle Zmocníme-li druhou nahradíme-li pak zbývající V/4 -f- rovnice (21), obdržíme
+
+
+kteréž rovnici zavedení nové konstanty lze dáti tvar
+
+
+
+
+
+
+
+
+(22)
+
+
+11. Zbývá určiti hodnotu konstanty Poněvadž rovnice (19) (22) platí současně, dosaďme rovnice poslední (19), což podává
+
+
+A:6-[-a toho řešením
+
+
+
+
+
+
+
+
+
+
+
+(_/+Ví+ /»)«,
+
+
+(24)
+
+
+kdež znamení prvérn činiteli pravé strany vzniklo řešení rovnice (23) kvadratické vzhledem Ks.
+
+
+Jest nyní rozhodnouti, které těchto znamení jest podržeti; tomu cíli třeba zavésti opět jeho původní hodnotu uvážiti, konstanta musí býti číselná hodnota nezávislá.
+
+
+Budiž -[-
+
+
+třeba podržeti prvém činiteli pravé strany (24) dolní znamení načež
+
+
+(25)
+
+
+jest třetí odmocnina jest-li jeden imaginarných kořenů rovnice (25), jsou kořeny této rovnice aneb
+
+
+dosadí-li tyto hodnoty též rovnice (22), obdržíme malých přeměnách řešení:
+
+
+3V-
+
+
+v/-
+
+
+
+
+
+XXVII. V—3 při čemž DUCl' horním neb dolním znamením.
+
+
+Budiž
+
+
+třeba podržeti prvém činiteli pravé strany (24) horní znamení -|-
+
+
+načež
+
+
+(26)
+
+
+jest kořen -(- jest-li jeden imaginárných kořenů rovnice (26), jsou kořeny rovnice této (>2, aneb těmito hodnotami pro obdržíme rovnice (22) řešení:
+
+
+
+
+
+
+
+
+buď horním neb dolním znamením.
+
+
+při čemž
+
+
+Obě soustavy řešení jsou totožné, uváží-li se, vzhledem numerickým hodnotám nechť kombinují jakkoliv, platí relace
+
+
+buď s2,
+
+
+aneb e2,
+
+
+Zpětným dosazováním základě rovnic (17) (16) dospěje známým řešením rovnice třetího stupně (14).
+
+
+XXVII. ﻿*"

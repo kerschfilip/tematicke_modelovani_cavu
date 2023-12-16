@@ -1,0 +1,141 @@
+"","x"
+"1"," ﻿ROČNÍK V.
+TŘÍDA II.
+ČÍSLO 18.
+O jistém druhu semikonvergentních rozvojů.
+Sdílí M. Lerch. Předloženo   dne   13.   března   1896.
+1. Chceme vyvinouti prostředky k sblíženému vystižení řad tvaru
+n = 0
+ve kterých funkce f(z) pro dostatečně veliká z připouští rozvoj  tvaru
+<9)                                     f(s\ = —2 4- ^3 -4- — -±-
+J   \   /          ,-2     i      ,-3     l     ^4      l     '
+Za tím účelem ustanovme konstanty At , A„----Am tím způsobem, aby funkce
+ve svém rozvoji v klesající mocnosti veličiny z reprodukovala prvých M členu řady (2). Poněvadž
+CK""i l                                       l
+fi = l
+bude
+rozvoj funkce g (5) zníti
+a konverguje za podmínky   z \ > l. Součinitel při ^ rovná se součtu
+-P-(->"")•   C
+1 lz« jej též psáti
+r = l , 2 ,... m ;     /3 = l,2,3...oo^
+/?+»' = «,   .
+R°*Pravy. Roen. V. Tr. II.
+XVIII. ﻿Výrazy tyto pro « = 2 , 3 , 4 ,...;// -j- l  mají splývati s koefficienty aa t a tedy máme rovnice
+v počtu ;;/. Výraz na levé straně rovná se součiniteli při xa ve výrazu
+°°- (-iy      yi  A.*
+'ŠT~X ' 2j. (, — U! '
+f\
+a obdržíme tedy veličiny Av , ./J2 ,... pomocí identity
+OO        .                             00                                           00
+Dosadíme!i sem  hodnotu
+00
+obdržíme rovnici
+OO                                                                          CO
+(R\                                        \                 V          ffV     -----                     .         \        ""+    l         y.V
+^    /""""__ 1^|         ~  1 __   ^— x   Lj      r\
+Odtud   vychází,   že  součinitelé AlíA91ABí...   nezávisejí na m,   a že  je  lze definovati rozvojem (3).
+Z rovnice  (3)  lze součinitele Av vyjádřiti  velmi jednoduše  pomocí čísel Bernouilliových, užijeli se řady
+tak se totiž obdrží
+[U]
+čili
+_ [Úl
+(4)
+Pro takto stanovenou funkci cf (z) platí nyní věta, že rozvoj  funkce
+/(*)-*(*)    má tvar    -^^ + ^^T + ^+T+ • ' ' ' Znamenámeli tuto řadu Q (s) , obdržíme
+jeli 0   ve  své   reálné   části   kladné   a  dosti  veliké,  aneb jeli   pomyslná   čásť veličiny   a dostatečně   velkou,   budou   veličiny  «,«-f-l>«'4""$f<   VC^
+XVJII. ﻿nalézati se v oboru konvergence řady   Q(z)> a tedy bude
+po r(a -f n) — 2j <T (<* + «) +
+Avšak z definice
+plyne, že tu bude
+oo                                           m
+S op (a -4- n) = lim   /. Av\---------;—:——
+„=0                  r = ooLi     L<ť      (* + ')""J
+Av
+čili
+v = l
+a následkem toho má náš výsledek tvar
+oo                           m                 oo
+(6)
+Jeli tu buď pomyslná čásť veličiny a dosti velikou,   aneb jeli reálná čásť její kladnou a dosti velikou, bude každá z řad
+V
+b""
+míti malou hodnotu, a také jejich součet.
+Budiž ^r0  hodnota,  pro kterou řada Q (z)  konverguje;   i  bude pak na kružnici \g   = \ z0    funkce  Q (g)   míti určitou největší absolutní hodnotu G načež bude
+a tedy pro | 2 \
+Q W   <L•
+l —
+-o
+t -|-Ž
+Jsouli tedy všecky veličiny a-\~n absolutně větší než L0, jest
+l
+IC(«+*)
+odtud plyne, že
+konverguje a jest menší než
+G.
+l —
+a -)- n
+a-j-» XVIII.
+a -\-n
+l* ﻿•
+Jsouli  všecky poměry - —j-— dosti příkré, čehož lze docíliti dostatečným
+zvětšením  části   pomyslné   při 0,   aneb   zvolením  velké kladné  části reálné této veličiny, bude výraz poslední a následovně také součet řady
+n-O
+libovolně malým. Takže pak bude lze veličinu
+nahraditi [dle  (5)] součtem
+chybu, které se tím dopustíme, lze posouditi na základě výrazu ((>). Číslo ;;/ lze zvětšovati ovšem jen při současném » zvětšení* veličiny a, čímž se pak chyba zmenšuje.
+Volímeli tu jako příklad f(z] = — ^- , obdržíme podle (4)
+a tedy pro řadu
+máme sblíženou hodnotu ve tvaru
+~7T ~~r <
+což se shoduje s výsledky odjinud známými.
+2. Zobecněním předešlé úvahy lze dospčti k semikonvcrgentnímu rozvoji funkce
+00
+(i)                        *«=* 2jLn ""/(*+«),
+kde f(z) značí funkci rozvinutelnou v řadu tvaru
+a ve které ?*  je buď ryze   pomyslné   aneb   má  reálnou   čásť zápornou,  a > řada cř» («) konvergovala.
+XVJII. ﻿Za tím účelem ustanovme konstanty Ct, čT2 , . .. Cm tak, aby funkce
+měla ve svém rozvoji s řadou (8) prvých m členů společných. Poněvadž patrně
+( »=1,S,...»^
+v-o,!,*,...«;•
+obdržíme tak rovnice
+6~*"" f V) = ""«""
+\     (J     J
+v nichž « má hodnoty l , 2 , 3 ,...///.   Možno je psáti
+a odtud soudíme, že lze naše veličiny  Cn charakterisovati identitou
+00
+ECg _   (a — 1)! X
+z níž plyne
+_
+.(«-D'   '
+x01 .
+Užijemeli zde řady Taylorovy
+^•Ví
+l
+obdržíme
+Mocninový rozvoj funkce *ní pak
+v = l
+Pro  veličiny  a s   dostatečně  velikou  částí pomyslnou   aneb   s   velikou -ladnou částí reálnou  bude
+zároveň máme
+R° z pra vy. RoCn. v. Tř. II.
+
+
+XVIII. ﻿takže obdržíme rovnici
+oo
+(10)
+C9
+ve které druhá řada v právo má při dosti velikých a hodnotu velmi malou takže lze pak řadu
+n-Q
+nahraditi její sblíženou hodnotou
+—
+Lcv ,,   >
+ve které Cv jsou dána vzorcem (9).
+Volme jako příklad f(s)= — \  tu bude dle (9)
+a sblížená hodnota řady
+oo
+V    c
+nLQ a+n bude zníti
+11                 l            l           „        l           l
+l —eu   ' ~á ~ ~       l — eu    ' ~a* ~~       l — c*    ' ~á3
+(kde počet členů závisí na velikosti veličiny a).
+XVIII."

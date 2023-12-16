@@ -1,0 +1,542 @@
+"","x"
+"1"," ﻿ROČNÍK XVI.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+limitních funkcích.
+
+
+Napsal Dr. Frant. Rádi Táboře.
+
+
+Předloženo dne 18. ledna IQO/.
+
+
+Položme otázku, není-li možno rozvésti funkci jedné proměnné, jejíž argument znásobíme jistým činitelem řadu analogickou rozvoji Taylorovu pro h).
+
+
+
+
+
+Uvazujme tím účelem limitu limh
+
+
+f(xh) (x)
+
+
+„-l ""o- )1Z
+
+
+označme znakem (x); differencujeme-li čitatele jmenovatele, obdržíme (x) (x), čímž naznačen vztah mezi touto limitou derivací. Vymezenou funkci xf(x) možná opět týmž způsobem limitovat tolikrát, kolikrát libo, pokud ovšem funkce daná odvozenými limitami mezích uvažovaného limitování takové připouštějí. Další limity značme (x), f111 (x)
+
+
+Dán-li součet dvou funkcí kde (x), (x), jest v', tedy (uf v') v1, což platí patrně libovolném počtu sčítanců. Limita konstanty dává nullu.
+
+
+Patrné jest též, pro (x) jest (x), neboť axf (x). Je-li pak jest jako při derivování.
+
+
+vůli následujícímu uveďme hned větu střední hodnotě. Položíme-li funkci za. -{----, tudíž 1),
+
+
+kde pro lim jest lim obdržíme větu střední hodnotě (x) (xí), možná psát tvaru
+
+
+(xh)-/ (x) x(h-\)f (x,),
+
+
+tedy též l(xh) dělením cbou rovnic
+
+
+(xh) (x) (Ih) (xj, ...... (1)
+
+
+Místo lze též položiti kde ""^ >—.
+
+
+Rozpravy: Ročn. XVI. Tř. II. říš.
+
+
+II. ﻿Podobně plyne všeobecnější relace
+
+
+f(xh)~f(x) Xíf (xj (xj
+
+
+(xh) (x) <p' (xj <pl (xj
+
+
+
+
+
+(2)
+
+
+kde (x) libovolná funkce intervallu ... svou derivací spojitá konečná.
+
+
+Je-li nyní x)n, jest x)""—1, y11 x)""~2,
+
+
+
+
+
+Budiž (x) funkce postupující dle mocnin stupně lho
+
+
+n—i
+
+
+f(x) a-^lx x)2 an_l pak obdržíme limitováním:
+
+
+n—2
+
+
+(x) a21 íz3 x)2 an_i fll(x) <z31 (n—\) «,_//
+
+
+(x) (n~\)\an^. Pro platí pak
+
+
+=a0,
+
+
+=2. 3fl8 ..... /—(l)
+
+
+tudíž
+
+
+(i) (i)
+
+
+(3)
+
+
+Pro (Xý) (x0 h), kde libovolná hodnota uvažovaném intervallu, platí
+
+
+tedy
+
+
+(x„ (x„) (x0) lh+F"" (x0)
+
+
+n—i
+
+
+«~.
+
+
+(n-\)\
+
+
+(4)
+
+
+Týmž postupem jako při řadě Taylorově rozšíříme tento rozvoj libovolnou funkci. Nutno totiž při funkci libovolné přidati všeobecně řadě (3) jistý zbytek
+
+
+
+
+
+ii. ﻿tudíž
+
+
+(X0h) (XQ) -/' (Xjlh-. (X0)
+
+
+Zavedme substituci čímž obdržíme
+
+
+=/(«)—/(*„)
+
+
+
+
+
+O-)""""
+
+
+X0/
+
+
+zvolíme-li pak funkci (x) tak, aby
+
+
+F(*)=/(a) —/(*) /'(*)
+
+
+
+
+
+.-!)!
+
+
+platí (*0) Rn, (a) (x)
+
+
+—1)!
+
+
+Dle věty střední hodnotě (1) platí pak (a) (x0) (xj, tedy dosazením hodnot
+
+
+r^H)""""
+
+
+(XQ), (a) obdržíme —~----—•— (x^)
+
+
+1).
+
+
+\»—l
+
+
+lh(l
+
+
+=---------------f""(xah&), 1<^<J_......(C
+
+
+1)!
+
+
+což výraz analogický tvaru Cauchyho pro zbytek. Užijeme-li vzorce (2) tvaru
+
+
+(a) (XQ] (xj
+
+
+dosadíme-li hodnoty jako dříve, dostaneme
+
+
+(a) (x„)
+
+
+kde (x) jest libovolná funkce limitou (x) intervallu .., spojitá.
+
+
+Výraz analogický tvaru Lagrangeovu obdržíme analogickou substitucí pro
+
+
+ii. ﻿takže
+
+
+(a) (*„) g>> (x)=-p --,
+
+
+čímž obdržíme zbytek
+
+
+K,=
+
+
+Of)'
+
+
+^vn
+
+
+t)""
+
+
+
+
+
+1)!
+
+
+
+
+
+Pro plyne konečně žádaný tvar
+
+
+(<f)""
+
+
+éV-A
+
+
+(n— 1)!
+
+
+čili
+
+
+Rozvoj (5) jest všeobecně libovolného stupně platný, je-li pravá strana rada konvergentní je-li lim Obojí platí týchž důvodů jako při rozvoji Taylorově. Rovněž jest libovolný člen řady (5), je-li •^-Q, pro jednotce dostatečně blízké číselně větší než následující zbytek. Předpokládá ovšem všude, limity funkce (x) intervallu x0. jsou určité konečné.
+
+
+Píšeme-li řadě (5) místo dosadíme-li pro obdržíme
+
+
+Y\& Y\n—
+
+
+/(*) (l) (1) 1JL (i) ... (i) IIL /?.,
+
+
+(8)
+
+
+což jest analogon řady Maclaurinovy zbytkem tvaru Lagrangeova. Suppomije ovšem, (x) svými limitami sebou jdoucími jsou spojité intervallu mimo Tak př. je-li
+
+
+(x} are 1), jest (x)
+
+
+
+
+
+ílil (•V| --- ^^^
+
+
+tedy tak
+
+
+(*—
+
+
+/""(*)
+
+
+-!, /""(l)
+
+
+*)2 +1^-
+
+
+II. ﻿are
+
+
+/(*
+
+
+P(x P(x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Užijeme-li tedy známé relace are tg— are ob-
+
+
+Lióu
+
+
+držíme
+
+
+
+
+
+
+
+
+B\2 6\3 l"""" 240
+
+
+""5 ""5' S""5iT ža^> »aa>
+
+
+Lit ""J""
+
+
+Podobně bychom mohli rozvésti řadu (xh). Stačilo totiž /(**) /(*)
+
+
+uvažovat limitu lim^=i
+
+
+
+
+
+(x) (x). Poněvadž pak
+
+
+při (x) lx)n jest (x) x)n~l, (x) —1) (/1 x}n~2 f>L(x) n\, f—(x) poznáváme, postupujíce úplně dle předešlého způsobu dostaneme rozvoj pro (xh) dle mocnin líh, pro (x) pak
+
+
+v\n
+
+
+řadu /(*) =f(e) +L1»(
+
+
+
+
+
+Rozvoj tento předešlý podobně četné jiné jsou jen zvláštním případem řady Lagrangeovy, vzniká otázka, možná-li tímto způsobem odvoditi všeobecnou tuto řadu.
+
+
+Uvažujme tou příčinou všeobecnou limitu
+
+
+/[% +F(A; (x)}—f (x)
+
+
+(x) (x) (x), kde (*)
+
+
+(x) jsou libovolné funkce uvažovaném iritervallu uvažovanými derivacemi spojité konečné. Hledáme-li pak funkci (x), pro kterou tato limita stálá rovna obdržíme podmínku
+
+
+F'(*) *'(*) čili
+
+
+
+
+
+Pro součet dvou funkcí platí platně též v1. při (x) jest (x), limita konstanty dává nullu. Je-li tedy
+
+
+[q> (x}]n, jest [<p (x)]n~l, y11 [g> (x)]""-2, y!L n\, yn+l
+
+
+Je-li tedy určitá funkce (x) definována řadou
+
+
+(x) (*) W]2 «H-I (^)]tt~I- platí:
+
+
+(x) 2a2<p(x] fl3 [g> (*)? «„_r (*)]""-2, /"" (^) (x} «„_, [<p (*)]*-3,
+
+
+1)! «„_„ /2_ (X)
+
+
+II. ﻿Řešme rovnici (x) obdržíme kořeny xlt x2, dosadíme-li libovolný kořen hořejších rovnic, obdržíme
+
+
+tudíž
+
+
+(*») «0, (**) «i, /"" (**) «,, /ni (**) -2.3 /í=i(*») (n— !)!«_„
+
+
+/±zí (xk)
+
+
+(w— 1)!
+
+
+Je-li (x) libovolná funkce, nutno všeobecně přičísti jistý zbytek Rn. Jinak dlužno vyšetřiti, je-li řada (8) libovolného stupně konvergentní, pak totiž limn=ao platí všeobecný rozvoj Lagrangeův
+
+
+jehož koéfficienty takto jinak vyvozeny.
+
+
+Limita derivací obdobná jest zvláště lim/ř=0 ~n~^ =/1 (x)'*
+
+
+(x)
+
+
+vymezíme-li dle známého předpisu, obdržíme (x) et(*>, jakožto
+
+
+vztah poměrem differenciálním.
+
+
+základě této relace odvodíme snadno větu střední hodnotě. Jest totiž
+
+
+(*)
+
+
+
+
+
+poněvadž pak jest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Podobně platí všeobecně
+
+
+
+
+
+
+
+
+/•-(*) fy-
+
+
+""*""
+
+
+
+
+
+V/1
+
+
+Cadcnat, Dérivées généralcs, Assoc. frč. 1'av. děs se., Congrés Cher-bourg 1905-
+
+
+II. ﻿Supponuje ovšem, (x) (x) pro hodnoty inter-vallu končenou derivaci.
+
+
+Analogický derivací jest též geometrický význam této limity. Pro funkci ax, která značí pravoúhlých souřadnicích logarith-mickou čáru, jest limita stálá nezávislá jako derivace funkce Značí-li pak (x) libovolnou čáru, zvolme dva body (x, y), y); jest pak rovnice logarithmické
+
+
+sečné jdoucí těmito body
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""X—x
+
+
+blíží-li bod druhý prvnímu, obdržíme logar. čáru jakožto tečnou rovnici
+
+
+Táboře, dne ledna 1907.
+
+
+TT.
+
+
+

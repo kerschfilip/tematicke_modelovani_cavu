@@ -1,0 +1,1190 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TŘÍDA II.
+ČÍSLO  18.
+Rhombické dělení ploch geodetickými kruhy, při němž k témuž úhlu souřadnému náleží c^1 Hn, elementů.
+Napsal. Dr   FR. VELÍSEK.
+(Předloženo dne 4. května 1912.)
+
+I.
+Řešení předloženého problému vede na funkcionální rovnici, jejíž řešení provedeno jest v pojednání tomto. Určení příslušných tvarů lineárních elementů ploch daným podmínkám vyhovujících podáno bude v části další.
+Budiž lineární element plochy
+l.                                d s2 = e d u2 -f 2 / d u d v + g d v2.
+Dle daného předpokladu možno klásti
+e = g = s2,        f = e2 cos ca ,
+kde oj značí úhel čar souřadných u = konst, v = konst.   Geodetické křivosti čar souřadných U, V dány jsou pak vvrazy
+a                                                                                a
+— U s2 sin 03 —------(e cos ca) — su ,    —V f2 sin 03 = —— (e cos ca) — «„,
+kde U a V značí funkce proměnné u, resp. v. Položíme-li
+l
+e =
+Rozpravy: Roč. XXI. Tř. II. Číslo 18.
+XVIII. ﻿změní se poslední rovnice na
+U       .                1]„
+-- s- sin oa = — -=
+cos ca
+sin co cot. ,
+2.
+V      .              rlv          rltt                     l      . — •—z- sin o? = —V---------;r cos ca---------sin ca w,, .
+»r              *f       v              f
+Řešením dle ij„ a yv jde dále
+/     03V                          \         U + V COS 03
+— 17« = — V ( —--------\- Ctg03d)u} ^---------l—.---------
+V sin ca                     '               sin co
+/     03U                           \          V +  U COS 03
+----' 1?» = ----fl l —^-------   + Ct S 03 03V l  H--------------
+\ Sí« CO                  /S
+Podmínka integrability dává, píšeme-li krátce
+cov                                 .             U + V cos to
+—.---------\- Ctg 03 C0,( = A ,-------—:---         - = B t
+sin o?                                             sin a)
+Cůlt
+sin 03
+„ tg G) Olv -• C ,
+l    +   U COS
+rlu C + rt Ctt — Du = ,lv A + n Av — B,. neb po dosazení ij:t, vjv
+il (Cu — A,} = B C — A D — Bv + D.,.
+Jsou-li splněny rovnice
+Av — Ctt = O,    B C —AD — Bv + D„ == O ,
+bude 1? obsahovati obecně podstatnou konstantu pro lineární element. V případě tomto existuje oo1 ploch o rhombickém dělení křivkami konstantní geodetické křivosti, uzavírajícími týž úhel to. Mohou ovšem plochy tyto býti isometrickými samy k sobě.
+Vypočteme-li rovnice poslední, obdržíme
+3.
+3    /   a>u   \ __     ^    /   cjť   \ 3 n \ sin to /       3 v   \ sin 03 / '
+4. fLl^ l tf' sinu—V sin 03 -\- cov (U + V cos GJ) — oj,( (V + U cos w)l = 0. siw2o) L                                                                                                   ;J
+xvnr. ﻿
+V případě ca = — dávají rovnice 2
+r        _y
+'/u —            f   t
+tedy
+
+Čemuž odpovídá lin. element
+du2 + dvz
+kde                       Ui = J U d u,        VL= \Vdv.
+Necháme-li stranou tento spec. případ, jest rovnice 4. splněna pro
+sin o (Uf — V1} -f (ov (U + V cos ca) — co„ (F + U cos o) = O . Rovnice 3. dá se psáti
+z čehož plyne integrací
+a tedy
+5.                     cos co =
+Poněvadž
+f\
+OJ u === Á
+F' + F <Z>'
+co =
+to„ = 2
+l + F2 0>2
+dává rovnice 4. po náležité úpravě rovnici funkcionální 6.   2 0>' (U + V] — 2 F F' d>3 (U — V) + & (l + F2 <ř2) (V — U') = O Rovnici tuto možno postupně psáti
+2 v
+F F/
+XVIII. ﻿3 u Stačí tudíž klásti
+U
+<Z>2/       dv
+V
+02
+z čehož jde
+i F2 + —-
+u
+v r
+0>2        U        V
+Integrací poslední rovnice obdržíme
+při čemž předpokládáme, že křivosti čar souřadných U, V jsou různé od nully, t. j. že čáry nejsou geodetické. Za tohoto předpokladu možno klásti
+místo U, V funkce -y^- , resp. -==-.   Pak jest
+7.
+l
+8.
+Derivací této rovnice dle u, pak dle v plyne 20)'
+2FF'
+= U"" V f + f/'2 V /""
+2 F F' + --^- = U' V"" f 4- U' F'2 /"" .
+Součet a rozdíl posledních rovnic dává
+4 F F' = (C7"" F' + C7' F"") /' 4- (^'2 F' 4- U' F'2) /"" -t?l = (U1 V"" — U"" F') /' 4- (L/' F'2 — U* V) f"" .
+rf)3                                                                                                      '
+Derivací rovnice první dle M a z> a srovnáním výsledků  obdržíme "" (U'"" f _|_ 3 u' U"" f"" 4- ř/'3/'"") = ř7' (V"" f 4- 3 F' F""/"" 4- F'3/""')
+XVIII. ﻿Klade-li se U' = Ult V = Vlt kde Ult Vl jsou funkce Í7, resp. V, pak jest U"" = C/! CY; ET"" = C7/' U* + t//2 ^ . v» = FI 7^ 7'"" = JMI F/' + Fx F/2.
+Dosadíme-li tyto výrazy do rovnice předchozí, obdržíme
+/'"" t/!2 + 3 /"" U, U,' + /' (Uf + Í7X ÍY') - /'"" Fi2 + 3 /"" F! F/ +
+nebo
+2 /'"" C7j2 + 3 /"" (U*)' + /' (ř/!2)"" = 2 /'"" Fj2 + 3 /"" (Fi2)' + /' (Fj2)"" .
+Derivrjeme-li tuto rovnici dle U a F a výsledky odečteme, obdržíme podobnou rovnici
+2 /'"" (ř/j2)' + 3 /"" (t/!2)"" + /' (ř/!2)""' = — 2 /'""(Fj2)' — 3 /"" (Fj2)"" -
+— /'(Fj2)""'.
+Klademe-li ještě k vůli stručnosti U^ = .4, Ft2 = 5, možno poslední dvě rovnice psáti
+2f'""(A—B) + 3f""(A' — B') +f'(A"" — B"") =0, 2 /'"" (A' + B') + 3 /"" (4"" + 5"") + /' (A'"" + 5""') = 0.
+Pro /' = O se obdrží jen F a 0 jako konstanty, tedy úhel souřadný jest stálý.   Případ tento projednán bude později.
+f        ť""
+Rovnice 9. dávají hodnoty výrazů —p-,  -^77-, vyjímaje případ, kdy
+koéfficienty uvedených výrazů jsou úměrný.   Pak totiž platí 10.                       (A — B) (A"" + B""} —A'* + B'Z = O,
+a systém rovnic 9. se redukuje na jednu rovnici.
+Derivujeme-li rovnici 10. dle U, pak dle F, obdržíme:
+11.
+9*.
+A A'"" + A' B"" — A'""B'~A'A"" = 0, A' B'"" — A'"" B' = 0.
+Pro A' = O, tedy A = k dávají rovnice 9.
+2 /'"" (k — B) — 3 /"" B' — /' B"" - O, 2'"" B'      3""5"" + /'L'"" = 0.
+Derivujeme-li první rovnici dle U, obdržíme
+12.                       o ( f"" \ (k — B) — 3
+V /' /
+XVIII.
+. ﻿Budiž
+- °' tudíž r ""
+z čehož
+První rovnice 9*) dává pak
+B"" + 3 ^ B' + 2 ^2 5 — 2 ^2 L =-- O, 5 = Q <?-*i"" + C2 C-2*'"" + fc.
+K vůli stručnosti budiž uvedeno, že písmena k«, Ca značí vždy konstanty vystupující při řešení funkcionálních rovnic a konstanty integrační. Z rovnice poslední jde dále
+dV
+= dv,
+a tudíž integrací l        2k +
+C2 e~
+V k z čehož
+Poněvadž
+plyne z rovnice 7.
+tudíž
+A = U'2 = k,     tedy U = V k u,
+4 k C2)
+<L2
+_ 3 .A-V/M""
+re
+Při tom pro reelní plochy musí býti k > 0. Při integraci nepřipojeny k w, v žádné konstanty, ježto přistupují k těmto parametrům jenadditivně. Obdobný výsledek obdržíme pro B' = 0.
+Pro
+//"" v ( -77- )
+O dává rovnice 12.
+(fy—*(f
+XVIII. ﻿Rovnice tyto dávají
+B = k + MM/;     2/""f + 3 w + k,
+Dosadíme li výrazy tyto do rovnice 9., obdržíme
+™i — «l i 2/'"" + 3 V + k^f' = O,
+= o.
+tedy integrací pak
+Z rovnice pro B jde
+a integrací
+V k
+— dv,
+Plyne pak z rovnice 7., ježto U =
+k^V k
+Jf   P          2
+»»t»
+ft.-v/fe
+Vk
+—*)
+z čehož
+li
+^=-^— c,
+C
+[C,
+Zvláštní případ nastává, když i B' = O, tedy 5 = klt
+V = V/i"", w,         C7 = YL""«.
+Rovnice 9. dávají Pro
+XVIII. ﻿jest
+tudíž III
+Jsou-li křivosti stejné, na př. stejného znamení
+zůstává / (Y k u + V k v) libovolnou, a pak jest
+J!^
+(L2
+tedy III*
+Při rovnosti poloměrů s opačným znamením bude patrně F* = konst,
+^9
+(Jfi
+Není-li A' = O, splníme 2. rovnici 11. tím, že klademe A'"" = kA',      B'"" = kB',
+z toho
+Dosadíme-li do první z rovnic 11., obdrž'me
+tudíž
+A"" = k A + kv,     B"" = k B + k}.
+Integrací jde dále
+A'* = kA* + 2 \A + kz,     L'2 = fcfi2 + 2fc1fl + a dosazením do rovnice 10)
+Rovnice funkcionální 10. jest tedy splněna výrazy 13.          A'* = k A*+ 2 k! A +L2;     B'2 = k B* + 2 ^ B +
+XVIII. ﻿9
+Budiž nejprve k > 0.  Rovnice předchozí dají se psáti ve tvaru d A                                          dB
+= dU;
+V k B2 + 2 kj_ B + k,
+z čehož jde integrací
+= U,
+neb 14.
+k kj
+2 (k B + kj = ev k v + (k Pro tyto hodnoty dávají rovnice 9.
+2/'"" + */' .      vr^(í/+F) +
+(U + V)
+O                         \   l                2/
+Rovnice tato dá se psáti ve tvaru
+(C7+F)
+TT í17-1-
+(u + v)
+z čehož plyne integrací
+"" + v k r
+• (U + F)
+A/T
+(U j- F)
+~"" *^     2/
+(C7 + F)
+\   l              2/
+(í^-rF)
+a dále
+15
+'           2 ~^""
+',[.
+L<*+n]
+— (kf — kkz)e
+(Í/+F)
+XVIII. ﻿10
+První z rovnic 14. možno psáti Vžkd U
+___= d u
+Substitucí
+VT v      ,          2
+6           = 8 % -\------
+přejde poslední výraz do tvaru
+du
+48
+27H4
+z čehož kde značí
+k* + 3 48
+Jest tudíž
+VTu      Oj...        %
+Z toho
+Y~k
+a dle rovnice 15.
+Rovnice 7. dává
+772 .
+A« _1_ ---- — ------
+^4>2       A;
+9 A; ^
+,       V' = -TŠ=T -
+u     v
+XVIII. ﻿11
+nebo
+l        64 C
+>' u p' v
+64 Q
+y u p' v
+[(„. + ».)(,
+Ježto platí
+) J
+K-i    ~\~   ó   *    /v rvg
+tudíž
+&!               ^ + 3
+12'
+,    ^3 =
+rvj            <J      »    /v /Vfl
+24                                24
+ř, 2___ t  ř>
+_^   -.     ^1          KK*
+možno psáti
+0                   i    \      /           \
+,-----5— G. (u + v) <?, (w — »).
+!« GZV
+XVIII. ﻿12
+Použito na miste tomto jakož i v následujícím H. A. Schwarz: For-meln und Lehrsátze zum Gebrauche der ell. Functionen.
+Z relací — p' u ff4 u = 2 <s u G! u <st u <?3 u ,
+' v <?4 v = 2 (S v <?! v ffz v ff3 v
+jde
+v =
+l
+použijeme li vztahů
+<?j (U 4   V] G (U ----v)  = G U tft U 02 V <?3 V ----G V 6± V 6% U #3 U
+G (u -f- V) GÍ (U ----v)  = G U ť?j U G2 V G3 V +' G U 6^ V GZ U ff3 U,
+jichž součet a rozdíl dává resp.
+2 0 u G! u <?2 v (?3 v ~ <?x (u + v) G (u — v) + <? (M + u) ^ (M — u) 2 G v <?x y <?2 u ffa u = o (u -f v) (Ji (u — u) — 0^ (w + v) o (u — v).
+Součin těchto dvou rovnic dává výsledek hořejší.
+c-    *•  -A. i      v   64 Či    , Součinitele při —7—- lze psáti
+u     v
+83
+4
+-^
+83
+Dle Schwarze tab.  (D) platí
+u o v
+) (e^ — e3) o2 u <& v — ďj (u -f D) ^ (w — i1) ,
+XVIII. ﻿13
+a dále
+<>2 (u + v) 0l (u — y) = G! u G2 u 0± v 02 v — (ez — ei) 0 u 0 v 03u 09v
+— v) 0± (u -f- y) =
+=0   U
+y 02 v + (62 — e^) 0 u 0 v 03 u ff3 v
+U 0% V — (e3 — • C1) 0 U G V 02 U 62 V
+03 (U - V) 0t (u + V)  = ffl U G1 V 03 U 03 V +  (e>3 — 6L) 0 U 0 V 02 U 02 V
+Znásobíme-li rovnici první a třetí, pak druhou a čtvrtou, a výsledky sečteme, obdržíme
+(u + y) Gz (u — ' v) Gz (u — v)
+= 2 <7   U <7   V <?   U 0   V   tf2 U
+G\   w — v  ffz  u +
+V +         - C       g   —
+G3 (u
+ď2
+Pomocí těchto relací lze psáti p.2  ,  J_          C2     a2 (u + v) 0^ (u — v) — <?!2 (u
+""-:
+
+__                        _
+y) <?2 (u — v) <73 (M — v) + 0J2 (w — v) 0Z (u + v) G3 (n + v)
+04 k
+G1 (u + y)         <?2 (u — y) 1 5i2 (w H~ y)        G\  (u — v) J
+f, (M — y) (?, (u — y)
+j3   \                 /        o   \                 i
+, :
+f (u — v)
+z čehož
+IV.
+F2 =
+C2     a2 ^w + u)        Q   <y2 (u -f y) (?3 (w + v)
+'                                     ~~
+G4&  (Tj2 (u + y) C2     <?' (w — y)
+' '
+i ~~
+G* (u + y)~~ (u — y) <?3 (w — y)
+Pro záporné & dlužno funkce zde přicházející transformovati na tvar reelní. Lépe však vycházeti přímo od rovnic původních. Rovnice 13) dávají v tomto případe
+10.       a^CQS-r/^—~,V   =—YkU,    are cos -^                    -VkV,
+V
+rovnice 9. pak
+i/rrr      \^T/
+cos V k U — cos V k V
+v-
+U + V
+XVIII. ﻿14
+Rovnice tato dá se psáti ve tvaru d         f.        .  vr- U 4-V
+[
+d(U + V) z Čehož integrací
+cos
+= O
+sn
+cos
+a opětnou integrací
+17.
+/' =
+r    ,  r C2 + Cj cos
+Rovnice 16) dává pro U, klademe-li   k3 = V k-? + k kz YkdU                        VkdU
+V&! + k3 COS V k U
+Z výrazu patrno, že výhodnou jest substituce
+d u
+A                                         V^
+Y ^ + &3 — 2 k3 sinz—;r— U
+2
+•         rr
+sin — - U =
+3                      rr
+1 -- -- ,    cos —— U =
+- •
+,
+V p U - •
+,
+\ p U - Č3
+kde
+R>-\                              ó rtjj           /v*
+'1=:""6""'    «•-- ~l2~
+12
+Podobně jde pro V
+F = —
+,      cos -- F =
+Dosazením do rovnice 17. plyne
+,i                     '                ^O
+— ^3     (Vpu — 8l+Vpv —
+XVIII. ﻿15
+Poněvadž
+U' =
+dává rovnice 7.
+v -
+'
+_    = r        ~
+k   (Vpu —
+- e(p v -) - (e,
+Transformaci   tohoto  výrazu  provedeme  pohodlně   pomocí  funkcí Jacobiho.   Označíme
+, \/- ---sn ( Věj. — e3 u; A) =
+./- -
+V ^ — ^3 «; A) =
+v é w — e. L
+j    ,
+dn ( v     —
+při čemž značí
+a analogicky výrazy pro v. Pak jest
+F* + ±-9 = &.'   '
+VTT=Í ' l ""   ;            v^r^v
+r_— w. ^ = Yp u — ez      y——   ^ _ ^ Yjiu — e»
+""i ~r «a
+C.
+3
+- ».     sn
+sw
+n
+k             (sn Wj rw Vj + c
+Pomocí vzorců pro součtový theorém funkcí elliptických obdržíme (sn % cn í,1! + cn w, cn v^z =
+^1 [l - <ř» K + ^i)] [l + dn (u, - v,}] .
+dn M! dn vt = — (l — A2 sn2 u^ sn2 v^ [dn (u^ a
+l — A2 sn2 u* sn2 v, sn «! sn v^ dn u^ dn vl = -          —-—         - [cw
+a součtem vzorců
+v^ + dn (wj — v^'\
+L----vl) ---- cn (wl ~\~
+XVIII. ﻿16
+cn UL cn Ui dn wx dn v± — (l — A2) sn u± sn i>x = = (l — A2 sn2 uv sn2 v^ cn (wx + v^) dn (w1 — vt)
+cn % cn V-L dn wx dn v± + (l — A2) sn MX sn v} = — (l — A2 sn2 ul sn2 vv) cn (u^ — v^ dn (ul + vj
+cn Wj cn v-i dn ut dn i\ = l — A2 sn2 tíl sn2 ví
+cn
+— v        cn
+dn
+Dosazením těchto výrazů jde
+l       J^ k\.
+ť d>2   '   2 ~
+l 2   [l — dn K + u^J [l + dn K — vj
+,
+„   cw (% + ťx) [l + dw (íťj — y,)J — cn 1-
+t) [l — ÍÍM (wt -f- ^i) 1 l
+[l — dn (wt -f- fl-j)] [l -{- dn (u± — Vj)]
+--*Lk[-   _4_              i      i
+»              lil   ____ČÍ.M   \1A        \    7/1              l      l     /7  4^  r 4/    ___7!   i     l
+[___cn (^t + i>t)               cn (M! — ^)     1)
+1 L l----ÍÍW (íťj + Wj)          l + ^M (Wx----Vj) Jí'
+Obdržíme tudíž
+k      l — dn (MJ
+J_ <D>2
+C
+nebo
+772 __ _s_    2  3
+k            <?3
+k       l + dn (% — Cx ^ (w -}~y)
+Integrace rovnic 13. vede na nižší transcendent}/ v případech k = O, &2 = o, V — kk2 = 0.
+Pro & = O obdržíme z uvedených rovnic
+2 AI A + L2 = ^2 U2,        2kB + k2 = k2 V2 , pro kteréžto výrazy jde z rovnic 9.
+.
+'
+z čehož
+C,
+(?7 + F)3 '
+_          i' = C   -
+l           Cx
+2     (t/ + F)2
+XVIII. ﻿17
+Integrací hořejších rovnic pro A a B jde
+tudíž
+2 k, U =
+\ i vj
+= U2 2
+r/^=^vC
+,
+—k e
+e
+Dosazením do rovnice 7. obdržíme
++
+8&J
+VI
+C„
+..
+V případě ^g = O dávají rovnice 13. 2 (k A + ýfej) = ev*u + V c- v/Tc/,         2 (k
+z toho pak
+?=— = íf «.
+V2 yfe á F
+Integrací obdržíme
+v*«
+l-s- u
+VE.'
+l —e    2
+V5-
++ 1
+Rozpravy:  Roč. XXI. Tř. II. Čislo 18.
+XVIII. ﻿18
+Z rovnice 9. jde
+•v/T
+(U + V)
+V k
+(U + V)
+
+integrací pak
++
+/   Vk 'l  \e   2
+(U + V)
+(U + V)
+--— (U + V)
+1(5 ^2
+Z rovnic 8. obdržíme pomocí těchto hodnot po náležité redukci
+C
+.     .
+z čehož
+VII
+Podobně jde
+L3~= — {
+4 ^'
+0L
+
+
+integrací pak
+l     TJ^/ /
+U
+xvi i r. ﻿li)
+tudíž
+Pro k < O obdržíme z rovnic 13.
+k A •— k1 — /c i cos VkU,        k B — k i = kl cosYk V, V k       dU
+cos
+integrací pak
+V k TT sin ——- U —
+2
+— l           .    Yk          e^k> ------sm ——- V = —7=-
+_i_ l                2           eVz *,
+Dosazením těchto hodnot do rovnic 9. jde
+z čehož integrací
+/' =
+V)
+Rovnice 7. dává pak
+- C
+VT«(,V^
+l[4,y5<-+--G«^.-i)Gv^._,)]
+»
+fc
+ki
+,
+-*'(l'-'>
+M/*'
+""
+Rozloučením funkcí obdržíme pro CL + C.2 = Ct',    C2 — Q = C2'.
+Oř,                            /^   '
+IT2 __    * Rí                               Ul
+VII
+*,_     _               IV^L
+•••' ""f>)+raf*
+XVIII,
+2
+2* ﻿20
+K vůli úplnosti uvedeny budtež ještě spec. formy hořejších výrazu pro ki = k% — O a k — &2 = O.   V prvním případe obdržíme
+A' = YkA,         B' = V k B,
+z toho
+-g- «,          *?
+Yk
+Z rovnic 9. pak jde
+2 /'""
+z toho
+a z rovnice 7.
+10
+Rozloučením funkcí obdržíme
+F2 = ^ lo
+l        f,L
+V druhém případe platí
+A' =     2^~ VZ ,
+tudíž
+,      z čehož jde /'
+3 /""            ř/ + F
+Rovnice 7. dává pro tyto veličiny
+S.Y
+-  )
+f V- -
+\e   -
+XVIII. ﻿tudíž
+c-2
+1
+V případe třetím k}2 — k kz = O obdržíme z rovnic 13. k A -f ^ = VLVTt/;         A L + L, = V^<A/TK, integr;icí pak
+C- O o
+V k
+a z rovnic 9.
+2f"" + kf
+(C/+F)
+M cos
+2 ^— cos         w cos — '   R            2               2
+Dosazením těchto výrazů do rovnice 7. jde
+l         Q        •     A/iT         •      \'T~
+=  , :[   síw v ^ w sř« V kt v
+-~r stw — — — u sin —~ v
+Deri\rací dle u a v a součtem výsledků obdržíme
+<       T^     T^í                *^1            •       \  ^""í -     /        ,       V     ,      «*    *     ""h                */ř-|                     ,
+4 F F ' = — r~=^ sin \ kt (u + v) H -- 2   J  s«« --:—- (w -f v],
+O   v   ^                     Z
+tudíž integrací
+=     -         cos V k, (u + v)
+=- cos           M
+a podobné pro
+VIII
+J_       c*        v T    —
+(P2       8 ^,                 x
+c»   „v*l
+(u ~v]'
+XVIII. ﻿22
+II.
+V obecném případe možno z rovnic 9. vypočísti poměry -^77— ,   -^7-
+ve formě
+18.
+3/""           (A — L) úl'"" + g'"") — (^ + L') (A"" — B""}
+/'                  ""(^^^(^'""^""B77) — M'2 — 5T""
+2;
+/'               (A — B] (A"" + B"")-— (A'2 — B'2)
+Podmínka, že pravé strany rovnic 18. jsou funkce argumentu U -{-V,
+f""       t""
+jest totožnou s eliminací -—-,   ~- z rovnic 9. a rovnice utvořené analogicky, tedy ze systému rovnic
+2/'"" (A— B] +3/"" (A1 —B'} +f (A"" — B"") = O 2/""' (A' + B'} + 3/"" (A"" + B""} +/' (.4'"" + B'""} - O 2 /'"" (A"" — B""} + 3 /"" (A""' — B'""} + /' (AIV — L/F) = 0.
+Výsledek eliminace dán jest determinantem
+A— B    ,      A' —B'    ,      A""—B""
+A' + B' ,      A""+B""   ,     A""'+ B'""     =0.
+A""—B"",      A'""—B'"",     AIV — BIV
+Po náležité redukci dává poslední rovnice
+2 A' A"" A'"" —A""* —A A'""2 + A A"" Alv — A'2 A1V +
++ 2 B' B"" B'"" — B""3 — B B'""2 + B B"" BIV — B'2 B11' +
+19,     -|_5"" {A""2—2A'A'""-\-AAIV) + A"" (B""2 — 2B'B'"" -
++ B (A'""2 — A"" AIV] + A (B'""2 — B"" BIV] +
++ BIV (A'2 — A A""} + AIV (B'2 — B B""} = 0.
+Derivací dle U jde
+20.
+(2 A' A"" A'"" — A""* — A A'""2 + A A"" A1V — A'2 AIV}' + -f B""(A""2 — 2 A' A'"" + A AIV}' + A'"" (B""2 —2 B' B'"" -f 4. 55/K) + B (A'""2 — A""AIVY + A' (B'""2 — B""BIV] -f -f BIV (A'2 — A A""Y + Av (B'2 —B B"") = O,
+derivací dle V pak
+B'"" (A""2 — 2 A' A'"" -i- A AIVY + A'"" (B""2 —2 B' B'"" + B B""')' + 21.    + B' (A'""2 — A""A»y + A' (B'""2 — B""BIVY + BV(A'2 — A A""}1
++ AV(B'* — B B"")' = 0.
+XVIII. ﻿23
+Za předpokladu A ' =L O dělíme rovnici A' a derivujeme dle U; obdržíme
+5""'[
+22.
+
+
++
+, r^""'2—A""AIV)']'
+^A7^
+Dělením 5' a derivací dle V jde
+'"" V '/
+~\' J
+23-
+""2 — 2B' B'"" + BBIvy~]' .  f BV\\(A'Í—AA""}'~\'
+V\\
+L
+Existují však vztahy
+(^""2 — 2 A' A'"" + A AIV}' = A Av —A' AIV, \_ ( AAV — A' Alv
+J == \    ~~Ar~
+_
+'-  *
+(A'""z — A"" AIV}' = A'"" Alv — A"" Av,
+a analogické výrazy pro fi.   Výrazy těmito nabývá rovnice 23. tvaru
+nebo za hořejší podmínky
+Av V    B'"" V     / A'"" V
+v V ( B'"" V     / A'"" V / SK V_ ""/ V^B7""/ '   \~^~) \ W~) ~~
+/ A '"" \'     / /?""' \' Není-li í ____) j    í         j   rovno nulle, musí platiti
+XVIII. ﻿24
+--
+A'     '      \        /'       ~Br    ~      \ B'     '
+z čehož integrací
+Av= k A1"" + ktA',      Lr/ =kB'"" + k2B',       AIV = k A"" + Dosadíme-li hodnoty tyto do rovnice 22., obdržíme
+kz B B' — 5' L""' + &t .4 5' + k3 B' — k2AB'+kB' B""
+tudíž
+*i = ^i>
+5/[/ = kB"" + kiB + k9,      AIV = k A"" +klÁ+ k3 Dosadíme-li tyto výrazy do rovnice 20., obdržíme (2 .4'. 4"" A'""-A""3 — AA'""*+AA""An'—A
+= O,
++ A'"" (B""2 — 2 B' B'"" + kj_ B2 + k B'z + 2 + A' (B'""2 — 2k3 B"" — k B""2 — 2 ^ 5 B"" + ^ B'2) = O,
+a z derivace rovnice 19. dle V
+(2 B' B"" B'"" — B""s — B B'""2 + B B"" B1V — B'2 Blv}' +
++ B'"" (A""2 — 2 A' A'"" + kiA2 + 2k3A + kA'2) + + B' (A'""2- 2 k3A""-kA""2-2 k^AA"" + k^A'2} + k3 B' B"" — ksB B'"" = O
+Uvážíme-li, že z relací pro AIV, BIV plyne
+A' Alv = 4 (2 A' A'"" — A""2}' -2
+tudíž
+A'"" A1V
+, A A'""
+' + kj_A A' + kzA',
+2 k3   A + &6> .""' = kA""A'"" +
+ki
+z Čehož integrací
+A'""2 = kA ""2
+XVIII. ﻿25
+a obdobně
+2 B' B'"" — B""2 = k B'* + fex fí2 + 2 &3 5 + L4
+5""'2 = & B""2 + 2^5 5"" — ^ B'2 + 2 &3 fí"" + L5, dávají poslední dvě rovnice 2A'A""A'"" — A""*~ AA'""2 + A A"" AIV — A'2 Alv + k3 (A""2 — A A""}
+2 B' B"" B'"" — 5""3 — B B'""2 + B B"" BIV — B'z BIV + k3 (B""2 — B 5"")
+- ks B"" + k, B + k* = O
+Rovnice 19) nabývá pak tvaru
+&8 + 5"" (L4 + A""* — 2 ,4' A'"" + ^ J2 + 2 L3 4 + L A'*) + + B (^'""2 — 2k3A""—k A""2 — ^kíAÁft + k{ A""2 — kj = O,
+nebo
+ks + B"" (k, — k6)+B (k, — k,) = O,
+/ /?'"" \ tedy vzhledem na ř       ,  J =t= O
+Splňují tudíž rovnici 19) relace yfe ^"" + fc, ,4 + ^3
+A'""2 =
+B""'2 = k B""2 + 2 ^ B fí"" - ^ B'
+Systém rovnic těchto dlužno řešiti tak, by splněny byly rovnice 18). Označíme-li
+dávají první rovnice systému 24) pro Aj =t= A2
+XVIII.
+. ﻿26
+Dosadíme-li do zbývajících rovnic 24), obdržíme pro konstanty podmínky
+4f*    /""*     14            4   f~*    /~*     1   4     l      1   f~*    /~*     5   2   3   2     l      \   í~*    (~*     *•>}*>            L
+^1 ^2    l                  3     4    2    ""T""      Cj C2 Aj   A2    —(— i U3 U4 Aj   A2    === /?4
+k.
+- 4 Cx C2 V — 4 C3 C4 A26 + 4 C\ C2 V ^ + 4 C3 C4 V A24 =
+nebo
+4 Q C2 V (V - V
+C
+4  2
+4 Q C2 ;^2 (A22
+4 C. C4 A22 (A22
+k* —
+Podobné výrazy plynou pro konstanty ve funkci B, tudíž musí býti 91*                    r r -- r r        r r -- r c
+'                                                 l     2 —      8     t>»               3     4 —      7 ^8*
+Pomocí těchto relací rozloží se výrazy ~p-,   —77- v  součiny funkcí
+argumentu   U + V, resp.   ř7 — V.   Po náležitém zjednodušení obdržíme při C7 * O
+i, -i- A.                                                A. + L
+3/""                             C C e^""^ (r/+í/) + C C ť~~^""(C/+I7) —
+-  <,-L2-i(C7+F)
+l-p- (Í7 + F)
+(U+V)
+c, c7
+77         — Aj A2
+., + i,
+— C C
+U2 U4
+A. + A.,
+r 5 C7
+2   4
+2     -~
+XVIII. ﻿27
+Srovnáním vychází nemožnost supposice C7 =t= 0. Pro C7 = O musí i C3 C4 = O dle rovnice 24*). Pro obě supposice C3 — O, C7 — O, a C4 = O, C7 —- O dospějeme k výsledku, že
+/""                        /""'
+~- = konst.,      —p- = konst.,
+vyloucíme-li případy, kdy jmenovatel výrazů 18. vymizí. Budiž At = A2,   t. j. k± = —• — ,   tedy
+= 2 A2         k  =__A4
+ů
+První rovnice systému 24. dávají
+A            //""*        l     /""*      T T\        9          i      /S~*        i      /""""*     7""T\          ~9~                3
+•^ = (<-i + ^2 t/) e      + (C* + Cd (7) č    2-----T^ ,
+\    *    *         m       /                    'xo1*/                                1L*
+^                          AT
+^ = (C5 + C6 F) ^r + (C7 + C8 F) e"" 2 V-^ .
+/?]
+Zbývající rovnice 24) skytají relace mezi konstantami
+K3'
+8 A3 Q C4 — 8 A3 C2 C3 + 16 A2 C2 C4 = «4 —
+«i   '
+8A3C5C8 —8A3C6C7 + 16A2C6C8 = /^4 —-J- ,
+32 A4 C2 C4 + 8 A5 Q C4 — 8 A5 C2 C3 = «5 , 32 A4 C6 C8 -f 8 A5 C5 C8 — 8 A5 C« C7 = «5.
+Rozdíly rovnic dávají
+A(QC4 —C2C3 + C6C7 —C5C8) +2(C2C4 —C6C8) -O
+A ^(^i t/4        U2 U3 ~p L/g (~""j        Uj U8j  ~p í ^^2 ^4        t^g v-xgj  :^ "" >
+tudíž
+2o.                 C2 C4 = C6 C8,      Cx C4 — C2 C3 = C5 C8      C6 C7.
+Z rovnic 18.  obdržíme po náležité redukci,  za předpokladu C2 4= O
+C 2 /»-i (u + V) _i_ o r1 r1
+- o 8  e               -p Zi Oj ^ 8
+7— = — 2 A
+XVIII. ﻿28
+Rovnice tyto nelze  splniti za uvedené supposice, musí tedy býti C2 = O, a poněvadž na C4, C6 nezáleží, jest dle 25.
+C8 = 0.
+Po jednoduchém výpočtu   vychází nemožnost supposice Aj = A2 = = A 3p O, jakož i A2 == A, A: = O, kdež obdržíme jen
+-~ = konst.;    -~- = konst.
+Pro Ax = A2 = O, t. j. k = O, Aj = O redukují se rovnice 24. na AIV = ka>    2 A' A'"" — A""2 = 2 &3 J + k„    A'""2 = 2 &3 .4"" + k, BIV = ks,    2 B' B'"" — B""2 = 2 k3 B + &4>    L'""2 = 2 ^3 B"" + k-0,
+tudíž
+při Čemž konstanty jsou vázány relacemi
+2C C __C2__2 k C  =k        C-2__^ k C  = k-
+Utvoříme-li rozdíly předchozích rovnic, obdržíme
+9 (C   C         C   C \    — (C 2        C 2\         9 A   (C         C \__ft
+—  V<-^j ^3      ~ *-; 5     ~)           V^Z               6 /                  3 v    i-----^8;   —  ^'>
+26.
+Vypočteme-li výrazy v rovnicích 18 a rozložíme v součiny funkcí argumentů (U-{-V), resp.  (U — V), obdržíme po zkrácení
+!T =         O k* (U + F)2 + 12 ^ (C, + C5) (U + V) + G (Q + C5)2
+//                      L 2 /7""7  l_ T/""\3_I_ ^ fe   /^    [   /^* \  l T J   \_ T/""\2_L '-í //^*     i    /^ \2 / 7T   i    T/\
+27.
+r -i- '> k r__c c__c c     c r      r r \
+U3  -f  ^J «3 O7       Uj 02       La Ug       L,5 Og       U2 U5j
+A;3 (Í7 + F) + C, + C6
+/'
+3 A, (Q+ C5)
+3 (C\+ C5)2
+— o (z «3 C3 -j- J A3 C7      Cj C2      Cj C6      C5 C6      C2 C5) při předpokladu kz * 0.
+XVJIJ. ﻿29
+Po náležité redukci plyne pro existenci rovnic 27. relace mezi konstantami
+28.
+— C  C        C  C        C  C         C  C   -
+' 7          \^ j O 2          ^1^6          *-"" 5 ^ 6          """"' 2 ^ "">  —
++ Q3
+Uvedené rovnice nabývají pak tvaru
+'                        9 i                         /'""
+o V
+F) + Q + C5
+F) + Q
+z čehož jde integrací
+Z rovnic pro A A B plyne
+29.
+V* =       V* +       F^ +       F2 + C7 F + C8
+Označímje-li quadratické invarianty první formy gz, g3, druhé g'z, g'3, obdržíme
+(12 &3 C2 C4 + 6 Ct C2 C3 — 2 C23 — 9 L3 C32 — (> Q2 C4)
+3456
+Dle druhé rovnice 26. jest
+r* 2___o /^   /^*      i    o ýt,   /^    __ /^ 2___9 /""*   /^      i    o
+tudíž
+Z podmínečných rovnic 26. a 28. vypočteme C6, C7, C8 a dosadíme do
+7 — 2C63 — 9 %3 C72 — 6C52C8).
+Po náležité redukci plyne
+tedy
+XVIII. ﻿Klademe-li dále
+obdržíme z rovnic 29.
+= V A P'u — P'a * k        u — > a   '
+F ,      g_ =
+P' K
+tedy
+U' = 2 Y-T- [p« — p (u + «)],      F' = 2 V -ý- [/> v — /> (y — «)]. Rovnice 7. dává pro tyto hodnoty výraz
+30            F* 4- -
+r
+/p'u — p'a        p'v + p'a\* \     u —    a           v —    u .'/
+^) M ---- p K             p
+Dle známých vztahů mezi funkcemi elliptickými lze psáti p'u — p'a       p'v + p'a _                  , ,     ,
+t                  (             l,                 ,                            **    19    **          W
+p u — p a.         p v — p K
+-2[^-e(,-«)-ui = -2(^_^^
+(u + a)
++
+a   G, cc
+G K     G^V    6l (V - O)          <?2 a    (?3 K \ _
+G^a   G u    a (v — -a)         G a   G±K /
+{ U G V G! (U + CC) G {V - Čí) — •
+G a
+GLa G U GV G (U -\- CC) G (V ---- «)
+----G U G{ V G (U -f a) G^ (V ----«)].
+Dle vzorce [C] l  (Schwarz) platí
+<?! (U -f- Čí) G: U G (V + K) G V ----G (li + C/) G U OL (V + K) GI V —
+= — Gl a G (u -f v + tx) G (u — v), a při záměně znamení v
+ffj (u + a) GI u o (v — cc) G v — a (u + a) G u Gl (v — a) G± v = = — G^aG (u — v + a) ff (n -f v).
+xvnr. ﻿31
+Lze pak psáti
+p' u — p' a        p' v
+p u —p a         p v — p a Dále platí
+_
+GaG(u-{-v)ff (u — v + «) G u G v a (u + a) o (v — «)
+[^l2 U  _ _  G2 (U + a] 1   f G2 V   _ _ jTj2^----K)    l = G2 U           G2 (U + a)  J   L   G2 V            G2 (v ----a)  J
+(u [(?j2 u G2 (u -f- «) — <r2 w (?x2 (w + «)] [(?t2 u G2 (y — a) — G2 v G^ (v — «)]
+G2 U G2 V G2 (U -\- K) i?2 (V ----«)
+Rozložíme čitatele posledního výrazu ve faktory
+[ff1UO(U + «) + tf Wtfj (M -f- «)] [ffjťtf (U -- fí) — GVG^ (V - «)] [^ « <? ^« + «) -
+— a u <J1 (u + «)] [tfj v G (v — a) + a v a^ (v — «)] a použijeme vzorců (Schwarz)  tabule [C]  10, 19
+G U (J V <?! (li + K) ffí (V - K) -- G^ U ff1Vff (U + Čí) G(V - K)  =
+— 6 a G (u — v + a) 6± (u + v)
+ffl u G o G (u -\- a) GI (v — a) — G ""i G^ v Gt (u + a) G (v — a) = = G a 01 (u — v -\  a) G (u -)- v) .
+Součiny v předchozím výrazu dávají jednou součet, po druhé rozdíl těchto vzorců, pročež výraz ten nabývá tvaru
+a2 a [s2 (u — v -f- a) 0L2 (u -f u) — G^ (u — v + «) o2 (u + v)]. Vložíme-li příslušné výrazy do rovnice 30., obdržíme
+J       k^_  G2 (u—V+ O) G2 (U + V) — G2 (U—V + a) G2 (li -f v)
+^®2~~kf~                      G2 (U + V, G2 (U — V +«)
+z čehož jde
+TV                      V     ^(M+y)
+!                ;      ""  ýfe32   <72(w+y)  '    0
+Specielní příklad nastává pro
+C_/^          c     — C
+l — uó,         ^2 — U6>
+— ^  + «)
+— C 4 — V*
+XVIII. ﻿kdy rovnice 20. jsou identicky splněny, rovnice 28. pak dává
+Dále platí
+r 2__ o z,  r
+\^""t             A   /vq \^n
+tudíž označíme-li
+Poněvadž
+24 &3
+^             _   f\
+dlužno výpočty předchozí příslušně modifikovati.   Rovnice 20. dávají
+r    ,    Q
+2, čehož plyne
+U' = 2        - [p
+oh}],
+(v + wO].
+Rovnice 7. dává pro tyto hodnoty
+^ M — P (u +
+i
+a ježto platí
+p u                 p v      y
+>w — g!    '    />y — gj/
+— p(u+ MÍ)] [pv — p(v + roj)] =
+U
+— e3) (a2 ua^v— <s* u a2 v)] [a^ u ff^ v -
+ei — ^a) K2 w o2 v — <72« tfi2 v)]
+xvirr. ﻿33
+""l       X            L. f                                          L t                  -v
+2 \ 4 ff — e,        j> v — e-t /             0 u 6*u         0 v 0*v
+f            *        r            m                          i-                      l
+l
+(02 U 03 U 0 V 0i V + 0 U ffl U 02 V 03 V) =
+0 U G   U G V G   V
+G (U -f V) 0V (u - V) G U G   U G V G V
+redukuje se hořejší výraz na
+z čehož
+(u + v) s* (u — v) — (gt — g2) (gt — g3) G2 (u -}- v) a2 (u—v] o-2 (u -f- v) (řj2 (M — v)              '~
+V
+_                       u
+~      """""" ^ 1—   2)  ( '
+Výsledek tento plyne i přímo z rovnic IX., ježto
+fff (U - V + OJj)           <*22 «i <?32 *»!         G2 (W - V
+<J2 w — y
+<r4 ojj         '   ^ (u — v)
+— v)
+\r —i       ^2/ \r —i       ""3/  f, z i*,      ,.\         \""i       ""» ví        ""3/   ., 2 /„.       „\   •
+l    \          /                                           1     '      ---*^'
+Při odvozování výrazů IX. bylo předpokládáno,   že k3 3= 0.   Budiž L3=0.   Rovnice 29. dávají v tomto případe
+31. U'2 = —— U3-\- —— U2-\- C2 U-\-CA,   F'2 = —jT- F3 H—^- V2-{-C*F+ C8,
+6              2                                            6              2
+rovnice 26. pak
+/~2        /^2 __ n        9 (C   C        C   C \ __ r~2        /~2
+Uj""----U5' — U,         ů ((^ ^3----O5 U7j  — C2----U6
+Použitím těchto relací redukují se výrazy 27. pro C6 = —C1 na
+""*O»T""T      i       T7AO      i      r*   /^^       /^*             /*""*  \    / TT     í     T^\       l       //^             A^  \9
+-i2 (C/ + EQ  + 2 Ct (C2 — C6) (U + F) + (C2 — C6)8 ~CT ([/ + 7)3 4 3 Q (C2 — C,) (U + F)2 +
+/'          ^ Q2 ^C7 + F)3 + 3 Cx (C, — CJ (17 + F)a +
+-f
+Rozpravy: Roč. XXI. Tř. II. číslo 18.
+XVIII. ﻿34
+Aby rovnice tyto byly splněny, musí platiti
+»
+[C\ (U + V) + C2 - C6] [(C, - C6)3 + + 6C1(2C1C4 —2QC8 —C2C3+C3C6+C2C7 —C6C7)]=0.
+Nehledíme-li tudíž k případu, kdy elliptické funkce se redukují na nižší transcendenty, obdržíme
+
+z čehož jde integrací
+2 Q
+— C   '
+[C1(t/+F)+C2 — C6]2
+/' =
+Označíme-li quadratické invarianty forem 31.  g2, g3, resp. g2'» L3'-obdržíme
+A = 4^8 (C22 - 2 Q C3),     g3 = -L ^ 6t C2 C3 - 3 Ct» C4 - C,»)f
+a pomocí relací pro konstanty Ck
+(C22-2 CX
+tudíž
+u +
+24
+24
+Rovnice 7. dává pro tyto hodnoty
+« ,    l           ^3'       p'up'v           _ k3'        G* u G* v p' u p' v
+'     f^2~   "" ""C?  (pu — p v)2 ~    ""
+C? K2 uo^v — a^v (?2 «)2 '
+Ježto dle známých vztahů platí
+' w />' 7; a4 u o* v = G2 (u + v) <*\  (w — v) — ff^ (u + v) ez (u — v], o2 uafv — ť?!2 u a2 v = <s (u + v) G (u — v) ,
+XVIII. ﻿35
+možno psáti hořejší rovnice
+-           k3'     C2 (U -f V) Oj* (U - v) - <?!* (U 4   v) O2 (U - V)
+""
+(u + v) a2 (u — v)
+z čehož plyne X.             F2 =
+Supposice vede na
+C*   a2 (u -{-v)  '
+_
+2   G2(u~ v) '
+z čehož nutně plyne
+c .- o     r _o     r2_r 2     v —
+u1 — u,      u5 — u,      u2 — u6 ,      /   — Řešení rovnic 24) v obecném případě vedlo též k hodnotám
+-^7- = konst,     ^77- =  = konst,
+kteréžto případy dlužno vyšetřiti zvláště.   Patrné musí býti, označíme-li
+3/"" _         2/'""       2&2
+T~'           ~T      ~9~'
+Jedná se pak o současné řešení funkcionálních rovnic 18. (A — B) (A'"" + B'""} — (A' + B') (A"" — B"")
+32.
+(A—B) (A"" + B"") — (A'2 —B'2)
+i""z — B""2—(A' — B') (A'"" + B'""}          2 k2
+(A — B) (A"" + B"") — (A1* — B'2)             9    '
+Upravíme-li rovnice tyto a postupně derivujeme dle argumentů l}""t V, obdržíme z první
+A""        B'""
+"" \     { A'"" \ ( B"" \_
+J~~\~A7-) \w~r
+z druhé
+AIV/B""
+3*
+xvi 11; ﻿36
+A""                      B""
+Nepředpokládáme-li -JT- = konst neb -~j- = konst, musí býti A                          z?
+A'""               A""           B""'   '           B"" V
+Dosazuj eme-li postupné do rovnic vzniklých derivacemi rovnic 32., obdržíme, že rovnice ty jsou splněny výrazy
+A""+kA' + 2*A + %L = 0,     B"" + kB' +^-B+^- = 0.
+2 yfe2 Klademe-li krátce —— = m, obdržíme integrací předchozích rovnic
+v
+±v
+1      ;             km '
+a dále
+dU                          .
+- — d u;
+Integrací  jde pro -~— > O
+K TíYl
+m
+—— = d v.
+km          3 ' k m
+u
+-F
+*      8       —
+k m
+k m' a poněvadž
+rovnice T. pro M .
+-=^ = M \ cos —
+k 1Ť
+XVIII. ﻿37
+z Čehož jde
+XI.
+3   * km v Pro -i- < O obdržíme
+— *»
+2C3—
+z rovnice 7. pak
+*   /-*,
+&WC r v e3
+km
+'4.
+XI.*
++
+V případě
+=°.    tudíž ^"" = ^^',    ^' = ^^__,    ^=C^
+dávají rovnice 32. podmínečnou rovnici
+(m +kf + k kj (m B"" — m kL B + &2) = 0.
+W
+m-}-
+jde
+Pro
+/""       O
+O  skytá jen -~ = --, tudíž případ již  projednaný.
+&           2* •{- ^j  -}~ « /?j — O   nebo    KI —      ~^~,          ^
+XVIII. ﻿38 z čehož integrací plyne
+TD  f___   /""*     fc \f   \     (~*       __k V   \     C*         k            l               2
+'   ' * ""        [   '""*'                                 m k^z '
+Rovnice 32. pak splněny jsou při podmínce
+C C, = O,        Cl C2 = 0.
+Budiž Cx = O, kdy výraz pro B jest nejobecnější.  Rovnice pro A a. B dávají v tomto případě
+tudíž jen specielní případ XI.*
+Pro spec. hodnotu k = O redukují se rovnice 32. na
+(A — B) (A""r + B'""} —(A' + B') (A"" — B"") = O (A""2 — B""2) — (A' — B') (A'"" + B'""} = 0.
+Postupnou derivací dle U, V dává rovnice první
+A' AIV — AIV B' — A""' B"" + A"" B'"" = O, druhá
+AIVB"" — A"" BIV= O,
+z čehož jde jako jediný případ možný
+A"" = k,        B"" = k. Integrací obdržíme
+,     B =      F2 + k, V
+a dále pro k > O
+U =
+2 "" + (V — 2kk2) e
+Yf.]_
+j_ r.ví •
++ (k<?—
+Rovnice 7. dává pak pro
+XVIII. ﻿39
+
+2      .  tfc     >/T(«-'>         2      ,             2                 -VZ<
+(/tg           4i /í *^4/   ^                       ~T~   \   l                    *^2'    v   3   -----              d) ^
+tudíž
+XII.
+Pro ^ < O ]est
+C7=
+T/_____
+s^n v-----^- t'
+ro\nice 7) dá\á pro tyto hodnoty, označíme-li
+—       V k*
+-2 M,
++     i = ? M COS
+M COS
+V— ~V ,
+z čehož jde XII.*
+= Mcos
+y —
+M -f »),           =
+-- « — w
+Při vyšetřování obecného případu učiněn byl předpoklad, že A' 3p O Pro A ~ k obdržíme jen případy I.
+Pozoruhodné tvary pro funkce F a $ vznikají, klademe-li v rovnicích 33. k = O, tedy
+z čehož
+A' = klt        B' = k2,
+A = &j U -}- ks,     B = k2 V + &4,
+ř/' = *! M
+2    '
+r —-Y-
+XVIII. ﻿40
+Rovnice 9. dávají pro tyto hodnoty 34.    .               2 /'"" faU — ktV + kz — k4) + 3 /"" ^ — &2) = O,
+Pro &3 — — &x dává první z předchozích rovnic
+
+z čehož jde integrací
+/' =
+C
+Poněvadž pak
+>
+dává rovnice 7.
+tudíž
+XIII.             F2 =
+U' =    *         V = —   í<
+l            4C       u v
+'    <Z>2                   V    (W2 — 7>2)2'
+C        l              l           C        l
+(u + v)2 '       <Z>2          &t2 (w — i;)2 '
+Rovnice 34. jsou splněny též pro
+/'"" = 0,        ^ = kz. Rovnice 7. dává pak pro A = k, U + L3,        5 = ^ 7 + L4,     /' = C (U + V) +
+i     ^c
+^           - --
+tudíž
+XIV.
+
+XVIII. ﻿41
+Je-li jeden systém čar geodetický, tedy na př. U =* O, dávají rovnice 2. i)u — rjv cos co = rj sin to to„ ŤJU cos to — v)v = F sin to — ij sin to cj„.
+a rovnice 6.
+nebo
+z čehož jde
+Derivací dle w, resp. dle v obdržíme z poslední rovnice
+2 0'        ť                        2 O'            F' /
+/-                                                     '
+Součet rovnic posledních dává
+V
+4FF' =    —
+V        V* rozdíl pak
+03            ""pT         p<
+Ježto má býti
+a
+3 M obdržíme funkcionální rovnici
+/""       F'/' H^         72 tudíž
+35.
+(PF1),
+/             F          F2
+Integrací téchto rovnic obdržíme pro k > O
+,    V =
+XVIII. ﻿42
+tudíž
+1         í        rzp—Vkv__fV~kv
+772    l    _ — _Z_ —       3   e
+1           ""      •
+z čehož jde
+XV.
+F2 = —~ [C32 C2 e- v * <M+t<> — Ct
+L —_   '  _ rr r * fV~k (u+v)__r /,
+2~""           [ l   3                     3
+Pro k < O dávají rovnice 35.
+j = Cj szw VI w + C2 cos v ^ w,      F =
+cos
+Vkv'
+tudíž
+1           /-                                    _            /""•               _                 _
++ —s = -^- sin Yk u cos Yk v + -^~ cosYk u cos Yk v
+<P           Ca                                                      CQ
+z čehož jde
+= — ^- [Q sinYk (u + v) + C2
+cos V& (« + v)],
+XV.*
+i = -^- [Cx sin Yk (u — v}-}- C2 cos Yk (u — w)].
+O^        2  Cg
+Pro & = O jest
+/=c> + C2>    V = ~ l
+tudíž
+= -  -      [Q (w + vY + 2 C2 (/í + »)],
+a specielně pro
+= ^3
+-*)•
+XVIII.
+ ﻿43
+Jsou-li obě Čáry souřadné geodetickými, tedy je li U = O,       7 = 0,
+dávají rovnice 2. 36.
+3                                             3
+su -- - — (Ě cos co) = 0,     fv — — — (f cos co) = 0.
+3 v
+o u
+Řešením těchto rovnic obdržíme 3                      l
+SÍ-W OJ
+_]__
+sin co
+cos
+(G)U -j- cos co cov).
+Podmínka integrability pro ca redukuje se na výraz
+nezávisí tudíž na co. Je-li podmínka uvedená splněna, obdržíme z rovnic 36.
+= \ (—— d u + ^— d v } + konst, j \ o -o              c u       /
+s cos co
+tedy při témže s závisí ta ještě od libovolné konstanty.   Výsledek tento plyne též z tvaru lin. elementu ploch této vlastnosti.   Jde totiž řešením
+u               V V
+L = F (U -f V)  + 0 (U — v),
+a pak z rovnic 36., značí-li c integrační konstantu,
+e cos co = F — 0 + 2 c . Lineární element plochy má pak tvar d s2 = VF + 0) [(F -+ 0) (d u2 + ťř v2) + 2 (F — O + 2 c) <Z u d v}.
+Tento tvar lin. elementu přísluší plochám Liouville-ovým. Též opačné k tvaru tomuto dospějeme, vycházíme-li od lin. elementu ploch Liouville-ových
+XVIII. ﻿44
+d s2 = [0> («!) + F (wj)] (á M/ + a zavedeme-li parametry čar geodetických
+d V)
+-,              ,          ,
+_1____= du — d v
+nebo
+Obdržíme
+dsz = (F + 0) [(F + 0) (d w2 4 rf v2) + 2 (F — 0> + 2 c) rf M rf v].
+Resultát tento obsažen ve známé větě, že ke každému rhomb. dělení plochy Liouville-ovy čarami geod. náleží oo1 ploch, jichž rhomby tvořené geod. čarami mají tutéž délku stran, však úhel jimi sevřený jiný.
+Konečně k vůli úplnosti budiž úhel co konstantní, sin co = klt cos co = k . Z rovnic základních obdržíme
+musí tudíž býti tedy
+U
+2*,
+Je-li jedna z geodetických křivostí konstantní, musí býti konstantní i křivost druhá. Dle Vossa jsou plochy této vlastnosti konstantní negativní křivosti. Obdržíme totiž snadno pro
+U = clt             V = c
+z rovnic definujících poloměry geod. Čar souřadných
+sin co
+= — fa + c cos co) u — (c + Cj cos to) v ,
+XVIII. ﻿45
+tudíž pro lin. element výraz
+sin2 co
+[(Cj + C COS  CO) U +  (C -H Cj COS CO) V]2
+a pro totální křivost K
+(duz + 2 cos co du dv
+Cj2 + 2 ccj cos co + c2
+ra.
+Výraz pro totální křivost vymizí jen tehdy, když čáry souřadné jsou geodetickými; plochy pak jsou rozvinutelné.
+XVIII. ﻿*"

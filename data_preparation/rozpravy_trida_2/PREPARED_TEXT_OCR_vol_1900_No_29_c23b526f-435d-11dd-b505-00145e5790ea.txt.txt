@@ -1,0 +1,4397 @@
+"","x"
+"1"," OČNÍ IX.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 29.
+
+
+vlnách elektrických.
+
+
+(Část I.)
+
+
+Napsal Ph. Dr. Váelav
+
+
+'odporem České Akademie. fysikalního ústavu dv. rady prof. Zengera české vysoké škole technické Praze.
+
+
+(Předloženo dne 25. května 1900)
+
+
+Úvod.
+
+
+Stav elektrického pole dokonale určen, známe-li velikost síly každém bodě; tím jsou totiž dány vodičích intensita proudu povrchová hustota, isolatorech dielektrická polarisace. Mění-li tyto charakteristické veličiny periodicky časem, mluvíme kmitech elektrických.
+
+
+Jak známo, elektrické změny nemohou zůstati omezeny jedinou část pole, nýbrž postupují místa vzniku konečnou rychlostí skrze celé okolí. Vznikají-li tedy elektrické kmity kterémkoli tělese, rozšíří záhy celém sousedním prostoru síla bude periodickou funkcí času vzdálenosti. Tomuto prostorovému rozložení elektrického stavu říkáme vlny elektrické, zachovávajíce názvy přenesené obdobou akustiky optiky.
+
+
+Současně elektrickou změnou postupuje magnetická, neboť oba druhy změn navzájem nutně podmiňují, jak dokázal již Faraday. Měli bychom tedy správněji užívati názvů »kmity (vlny) elektromagnetické* kvůli stručnosti podržuji název: »kmity (vlny) elektrické*, poněvadž jejich elektrická stránka jako nápadnější byla dříve známa pozoruje snáze dlužno však míti vždy zřeteli, vlnou elektrickou zároveň šíří magnetická.
+
+
+Elektrické kmity mohou vznikati různým způsobem, př. periodickým pohybem těles nabitých elektricky, vzájemným periodickým hybem vodičů magnetických silokřivek, výbojem kondensátorů.
+
+
+Prvního způsobu prakticky nepoužívá; druhý základem nejrůznějších konstrukcí elektrotechnice.
+
+
+Rozpravy: Roč. IX. Tř. II. 29.
+
+
+XXIX. ﻿Pro fysiku stal neobyčejně důležitým výboj kondensátorů, poněvad/ jeho pomocí pronikly zcela nové názory elektřině magnetismu.
+
+
+vůli souvislosti následujícím pojednáním budiž dovoleno stručnc promluviti nejdůležitějších stadiích vývoji nauky elektrických kmitech
+
+
+První, kdo vyslovil náhled, výbojem kondensátorů vzniká kmitavý pohyb elektřiny, byl Helmholtz 1847 *). důvodů energetických usoudil, vyrovnání obou nábojů nastane teprve řadě kmitů, nikoli jednoduchým proudem stejnosměrným.
+
+
+Náhled svůj shledával potvrzeným pokusy Riefio vými3), podle nich/, teplo vyvinuté při výboji leydských láhví nezávisí odporu vloženého vodiče, nýbrž toliko množství náboje kapacitě kondensátoru, dán pokusy Wollastonovými rozkladu vody výbojem, při kterých byh nalezeny každé elektrodě oba iony, konečně pokusy vary ho3), jenž ukázal, ocelové jehly zmagnetované výbojem mají polaritu různou případu případu.
+
+
+Pravdivost Helmholtzova tvrzení zkoušel hned roku následujícího as4), určuje označení zbytku náboje výboji leydské láhve; nalezl, výboji zbyla polepu původně kladném elektřina někdy kladná, jindy záporná, zcela tak, jak žádal názor Helmholtzův. Proti pokusům Maasovým byly činěny námitky °), které vyvrátil teprve Oettingen';> přesným uspořádáním pokusů; dovedl totiž měniti označení zbytku úplně pravidelně pomocí odporu vloženého vedení výboje.
+
+
+Přímo ukázal oscillační ráz výboje Paalzow7): prochází-li GeiCle-rovou trubicí proud stejnosměrný, jsou zřetelně odlišeny světelné zjevy anodě katodě; pak-li vedeme skrze trubici výboj kondensátoru, jeví oba její konce jako katody. Paalzow pozoroval fotografoval obraz trubice zrcadle rychle otáčejícím shledal, každý obou konců stři dave anodou katodou. širokých trubicích lze mimo dokázati přítomnost dvojího proudu, necháme-li působiti magnet střed trubice; tím odchýlí výbojové proudy, vycházející obou elektrod, protivné strany.
+
+
+Úvaha, kterou dnes obyčejně dovozuje nutnost elektrických kmitu při výboji kondensátoru některých podmínek, jest asi tato:
+
+
+Nabitý kondensátor obsahuje jakési množství elektrostatické energie, přeměňuje při výboji částečně Jouleovo teplo jiné effekty (praskot světlo jiskry atd.), částečně energii magnetického pole vytvořeného kolem vodiče, kterým prochází výbojový proud. okamžiku, kdy náboje obou polepů vyrovnaly tedy veškerá elektrostatická energie
+
+
+Helmholtz, Ueber Erhaltung der Kraft, 1847, str. 37—44.
+
+
+str. 43.
+
+
+Annales chimie physique 34. 1826.
+
+
+Bulletin 1'Académie Bruxelles 15. (I.) 1848, str. 277.
+
+
+Wiedemann, Die Lehre voň der Elektricitát IV. (2. vyd.) str. 288. (ij Pogg. Annalen 115. 1862, str. 513.
+
+
+Pogg. Annalen 118. 1863, str. 178.
+
+
+XXIX. ﻿., /.trávila, nemůže zároveň přestati proud neboť tím náhle zmizela
+
+
+magnetická energie bez náhrady. Výbojový proud trvá dále tak dlouho, zase promění energie magnetická elektrostatickou: kondensátor
+
+
+,,abije znova, ale polepy rnají náboje vyměněny část původní energie
+
+
+/ijiizela přeměnou teplo jiné zmíněné formy). Je-li odpor vodiče spoju-ího oba póly malý, zůstane kondensátoru tolik energie, prvním istečném výboji může následovati druhý, třetí další, dokud stačí poten-ilový rozdíl polepů doskoku jiskry. Celý výboj skládá tedy jednot-•ých jisker, přeskakujících střídavě obou směrech, jichž bude počet více, čím menší obnos elektrostatické energie mění teplo, čím
+
+
+•íonší poměr mezi odporem koefficientem samoindukce spojovacího >diče. Doba trvání každého částečného výboje poloviční kmitová doba ondensatoru tím delší, čím více nahromaděno elektřiny při stejném )zdílu potenciálů polepech čím silnější magnetické pole vytvoří
+
+
+tejným výbojovým proudem, jinak řečeno: doba kmitu roste, zvětšuje-li
+
+
+kapacita kondensátoru samoindukce vodiče.
+
+
+Mathematickou theorii výboje kondensátoru zpracovali Thomson8)
+
+
+KirchhofP).
+
+
+Zoveme-li rozdíl potenciálů, náboje obou polepů, kapacitu
+
+
+condensatoru, odpor spojujícího vodiče jiskrou), jeho koefficient
+
+
+amoindukce, okamžitou proudovou intensitu čase platí patrně rovnice
+
+
+zároveň
+
+
+C.P
+
+
+P-L^L
+
+
+
+
+
+
+
+
+poněvadž změnou proudu spolu mění intensita magnetického pole tím vzniká nová elektromotorická síla.
+
+
+Vyjádříme-li (c) pomocí rovnic (a) (b\ máme difterencialní rovnici pro potenciál:
+
+
+
+
+
+
+
+
+
+
+
+_.p-1
+
+
+
+
+
+
+
+
+integrálem jejím jest kdež
+
+
+
+
+
+4/J
+
+
+
+
+
+"") Phil. Mág. '4) 1855, str. 393. •') Pogg. Annalen 121. 1864, str. 551.
+
+
+XXIX ﻿Pokud výraz pod odmocninou kladný, hodnota potenciálu kles.\ prostě podle exponenciálního zákona výboj děje jednoduchým přechodem elektřiny polepu polep úplnému zničení náboje; tomu cíli bére odpor vodiče možná veliký, př. tak, necháme výboj pro cházeti sloupcem kapaliny. Pakli odpor vloženého vodiče tak malý, výraz pod odmocninou stane záporným, výboj jest oscillační.
+
+
+Rovnici (f) lze pak psáti tvaru
+
+
+«i, integrál (e) přejde výraz
+
+
+cos -f- sin anebo vzhledem podmínkám
+
+
+(f)
+
+
+
+
+
+platným čase ^sm(v^—-
+
+
+sin
+
+
+kde
+
+
+tomto případě hodnota potenciálu klesne míliu teprve řadě kmitů; výbojový proud periodický při tom stále slábne kmity jsou tlumeny.
+
+
+Je-li odpor vloženého vodiče malý samoindukce značná, můžeme zanedbati pod odmocninou (/) člen
+
+
+TZ*"" VUC1
+
+
+takže
+
+
+
+
+
+doba kmitu která souvisí pomocí relace
+
+
+hodnotu:
+
+
+XXIX. ﻿Výsledky Thomsonovy potvrdil Feddersen 10), pozoruje výboj kondensátoru zrcadle rychle rotujícím. Zejména plyne jeho pokusů, jak ukázal Kirchhoff11):
+
+
+Pro každý kondensátor existuje jistý mezní odpor, při kterém ještě nuže být výboj oscillační; velikost jeho poměrná druhé odmocnině
+
+
+koefficientu samoindukce převratné hodnoty kapacity, nezávisí Ice jiskrového doskoku, výši potenciálu, ani jakosti spojo-.icího drátu.
+
+
+Doba kmitová poměrná druhé odmocnině kapacity, ale ne-:\visla výši potenciálu.
+
+
+Počet kmitů roste, ubývá-li odporu.
+
+
+Perioda kmitů Feddersenových obnášela asi milliontinu vteřiny.
+
+
+Thomsonova theorie jest stanoviska Maxwellovy elektrodyna-niky jen prvým přiblížením pravdě, ale platí velikou zevrubností pří->adě, kdy délka vlny kondensátoru jest nad míru veliká proti délce výbojového drátu. případě nejobecnějším totiž vzbuzují (podle Maxwella) /měny sil elektrických zevnějším prostoru účinky indukční jako kon-1 akční proudy vodičích. Prochází-li při výboji průřezem proud nerovná obecně proudu jdoucímu jiným průřezem protože pře-í ytek /—i' může vycházeti jakožto polarisační proud povrchem drátu mezi zevnějšího prostoru.
+
+
+Při krátké vlně dostatečné dlouhém drátu lze tedy očekávati, podél drátu periodicky mění, čemuž není důvodu, je-li délka vlny značná proti délce drátu jako při výboji leydské láhve. Kondukční proud jest pak všude drátě týž veličiny vyšších řádů nepatrnosti následkem toho polarisační proud vystupující drátu venek rovná nulle. Indukční síly redukují pak účinek proudu kondukčního uzavřeného polarisačním proudem skrze dielektrikum láhve.
+
+
+toho, řečeno, lze seznati, theorie elektrických kmitů valně znesnadní, jde-li oscillatory, jichž rozměry nejsou nepatrný vůči délce vlny. Určiti periodu kmitů kondensátoru jeho tvaru rozměrů značí řešiti Maxwellovy základní rovnice zřetelem povrchové podmínky, úloha to, kterou provésti podařilo jen případech řídkých prakticky málo důležitých.
+
+
+Šťastnou náhodou nebyly theoretické nesnáze závadu experimentálnímu badání. Podařiloť Hertzovi roku 1887 sestrojiti přístroje oscillatory tak, kmity nich vznikající byly stokráte rychlejší než Feddersenovy měly značné indukční účinky okolí. Druhým, ještě důležitějším objevem bylo nalezení způsobu, jak tyto indukční účinky pozorovati měřiti vzdálenějších bodech pole zv. principu elektrické resonance.
+
+
+10) Dissertace. Kiel 1857; Pogg. Annalen 112. 113. 116. "") Pogg. Annalen 121. 1864, str. 557.
+
+
+XXIX. ﻿Oba tyto výsledky byly vítány theorii, která sice předvídala, přímo požadovala, ale nemohla udati ani způsobu, jak vzbuditi podobn. rychlé kmity síle dostatečné pro pozorování, ani přístroje, kterým bylo lze zkoumati vlny při postupu skrze sousední prostor. Měřicí přístroji tenkráte známé vyžadovaly, aby proud účinkoval nepoměrně déK než trvá doba Hertzových oscillací. Bylo něco neobyčejně překvapují čího, když Hertz ukázal, kmity oscillatoru vzbudí jiném podobnén přístroji, přiměřeně upraveném, tak silné oscillace, projevují jiskrami Podmínkou, aby kmity indukované mocně vyvinuly, bylo: sestrojiti přístro stejné doby kmitové oscillatorem; podržuje analogii akustiky Hert; nazval resonatorem 12).
+
+
+Tímto poměrně jednoduchým pozorovacím prostředkem Hertz dovodil. vlny elektromagnetické šíří rychlostí světla, jsou transversalní formálně chovají zrovna tak jako vlny světelné, ukazujíce pravidelný odraz, lom, interferenci atd.
+
+
+Výsledky Hertzovy značí fysice novou epochu: starý názor bezprostředním, okamžitém působení sil elektrických magnetických jakou koli vzdálenost poražen jimi nadobro pro učení y-M »isolator sídlem elektřiny, vodič« získána bezpečná opora. Cena elektromagnetické theorie světla stoupla: jak známo, bylo tvůrci její Maxwellovi základem faktum, číslo odvozené pokusů nepřímo pro rychlost elektrických magnetických rozruchů vzduchoprázdnu shodovalo rychlostí světla; nyní mohl Hertz potvrditi tuto shodu přímými pokusy dokázati nad to, existují elektrické vlny, které reprodukují velkém vše, známe malém vlnách světelných.
+
+
+pochopitelno, věnovala celá řada fysiků badání poli nově otevřeném zkoumali všemožné vlastnosti elektrických vln šíření jich vodičích isolatorech 13).
+
+
+Důležitý pokrok, pokud týče kvantitativního pozorování elektrických vln isolatorech, zásluhou Righiho, který vlny zkrátil délku několika centimetrů. Oscillatory Hertzovy vysílaly vlny zdéli několika metrů; jediném případě sestrojil Hertz oscillator pro vlny tím, jeho kapacitu možná zmenšil14). Righi postupoval opačně: místě kapacity zmenšoval samoindukci oscillatoru povedlo obdržeti vlny, které při stejné síle měly délku měřenou centimetry (nejmenší 2'6 cm). Mimo zdokonalil resonatory tak, měření jimi konaná vyznačují proti namáhavým Hertzovým velikou snadností. různých tvarů oscillatoru lo) Righiho budiž uveden nejobyčejnější nejpohodlnější:
+
+
+I2) Podrobný popis Hertzova uspořádání pokusů nalézá jeho sebraných pojednáních: >Untersuchungen uber die Ausbreitung der elektrischen Kraft.« 1892.
+
+
+lí) Srovn. Wiedemann, Elektricitat IV. str. 389. 1898.
+
+
+14J Untersuchungen str. 184.
+
+
+'*) Righi, Die Optik der elektrischen Schwingungen. 1898. (něm. překlad Dessaua) str. 10.
+
+
+XXIX. ﻿Elektrická jiskra přeskakuje mezi čtyřmi stejnými kuličkami (obr. 1.), nichž krajní jsou spojeny póly influenční elektriky prostřední ponořeny paraffinového oleje. Elektrice dává Righi přednost, protože výboj pravidelnější než při induktoriu; olej zvýšení účinku doporučovali již Sarasin Rive 1G). Při tomto uspořádání samoindukce elmi nepatrná, poněvadž jsou vynechány přívodní dráty místo nich zavedeny krajní jiskry
+
+
+Střední jiskra budí elektrické vlny.
+
+
+Resonatory volil Righi jiskrové, jakožto nejvýhodnější rychlému ičření17), ale zvýšil citlivost jejich tím, jiskra přeskakuje povrchu •-klá; při stejném potenciálovém rozdílu dosáhneme totiž jiskry několikráte delší, dáme-li možnost, aby přecházela podél povrchu vody, skla jiného isolatoru místě přímého doskoku vzduchem. základě této zkušenosti /hotoveny jsou resonatory Righiho obdélníkových proužků skla jedné straně postříbřeného, př. obyčejného zrcadla; vrstva stříbra prořízne jemnou rýhou, jejímuž přeskočení jiskrou stačí malý potenciálový rozdíl. Okolnost, průřez vodiče malý, nezvyšuje odpor resonatoru: oscillace
+
+
+Obr.
+
+
+tak rychlé nevnikají ani takové hloubky pod povrch vodiče, kolik obnáší tlouštka stříbrné vrstvy zrcadle 1S).
+
+
+Pokusy, které provedl svými přístroji Righi, jsou velmi četný překvapují důmyslností; skoro všem čelným pokusům optickým dovedl nalézti analogii při vlnách elektrických.
+
+
+Vedle známých již pokusů pravidelném odraze, lomu, polarisaci interferenci napodobil ohyb štěrbinou, úplný odraz, kruhovou elliptickou polarisaci pomocí úplného odrazu, dvojlom, elliptický odraz kovech: směl plným právem nadepsati soubor svých prací »Optikou elektrických kmitů* L'Ottica delle oscillazioni eletriche.
+
+
+Při čtení knihy Righiho zmocňuje čtenáře mimoděk pochybnost, zdali analogie mezi kmity elektrickými světelnými, první pohled tak úplná, sahá dále hranice povrchního pozorování, zvláště, zdali zůstane platnosti při bedlivém zkoumání kvantitativním. Pozorovací methoda
+
+
+16) Comptes rend. 115. 1892, str. 439. Archive Geneve [3] 28, str. 306.
+
+
+17) str. 16.
+
+
+18) Hertz ukázal, stačí zadržení elektrických kmitů stříbrná vrstva, má-li aspoň takovou tlouštku, aby nepropouštěla světla. Untersuchungen str. 176.
+
+
+XXIX. ﻿sama vykazuje podstatný rozdíl; kmity elektrické pozorují měří vždy přístrojem, který vlastní dobu kmitovou, tak vznikají zjevy zv. násobné resonance optice nebylo dosud pozorováno nic podobného; oko reaguje všechny spektrální barvy, kdežto bychom viděli všechna tělesa jediné barvě, kdyby bylo oko resonatorem. Vedle toho útlum kmitů elektrických značný jednotlivé výboje oscillatoru následují sobě relativně velmi pomalu, tak vlastně dopadají resonator ojedinělé impulsy, skládající malého počtu kmitů kmitů světelných přichází oka vždy mnoho millionů bez ustání bez útlumu. Konečně délkové poměry mohou míti vliv výsledky pozorování.
+
+
+Tyto rozdíly hlavně musí vyniknouti při zjevech ohybových inter-ferenčních. Theoreticky nelze dosud mnoho podniknouti, kdežto experimentování valně usnadnilo zkrácením délky vlny pohodlnějším uspořádáním resonatoru.
+
+
+Tato úvaha vedla mne provedení soustavných měření, jichž první oddíl uveřejňuji tomto pojednání. Bezprostřední pobídkou nim byl pro mne Righiho jmenovaný spis jeho údaje tvořily ovšem první podklad, který jsem musil opírati při své práci. Teprve delší řadě provedených pozorování, když zdálo, některé moje výsledky odporují stanovisku Righiho, když jsem lépe vnikl podrobností problému, počal jsem přihlížeti takovým měřením, jichž výsledek jsem dříve byl považoval samozřejmý. Měření tedy byla skutečnosti provedena jiném postupu, nežli jsou seřaděna methodicky, tom důvod, proč zůstala některých místech kusá: příslušné resonatory staly totiž nepotřebnými, nežli jsem mohl vrátiti pokusu, který methodicky měl být podniknut dříve. Nicméně již dosavadních měření plynou některé zajímavé výsledky.
+
+
+tomto místě sluší, abych vyslovil upřímný dík poskytnutou podporu při práci pánům professorům české vysoké škole technické: dvornímu radovi Zenger přednostovi ústavu fysikalního, Dru. Domalípovi, přednostovi ústavu elektrotechnického, kteří laskavě zapůjčili všechny potřebné pomůcky ústavních sbírek.
+
+
+II. Popis přístrojů pozorovací methody.
+
+
+Oscillator.
+
+
+stojánku opatřeném třemi šrouby jsou zasazeny rovnoběžně dvě skleněné tyčinky zvýši CM, podél nich posunují ebonitových objímkách dvě skleněné nálevky, obroušené vespod vnitřní průměr cm. nálevkách vězí zatmeleny mosazné koule, průměru cm, mezi nimiž nachází jako isolator paraffinový olej skoro okraj spodní nálevky. Obě koule tvoří kondensátor, jehožto výbojem vznikají
+
+
+XXIX. ﻿,elektrické kmity; potřebný náboj přivádí Wimshurstovy elektriky spojené jinými dvěma úplně shodnými koulemi, které jsou přidány obou stranách vlastního oscillatoru ním jsou posuvny témže stojánku. )ráty vedoucí elektrice jsou dobře isolovány silnými kaučukovými trubicemi.
+
+
+Obr. znázorňuje sestavení oscillatoru elektriky, kterou jsem poháněl malým elektromotorem obrazci nekresleným), napájeným akku-mulatorové batterie elektrotechnického ústavu.
+
+
+Righi sestrojil mimo popsaný tvar oscillatoru ještě celou řadu jiných, nři nichž mohl také měniti sklon vysílaných kmitů vůči rovině vodorovné.
+
+
+Obr. '1.
+
+
+tomto pojednání byl jsem nucen omeziti měření svá jediný typus: naskytloť tolik látky, jsem prozatím nedostal vyšetřování jiných tvarů.
+
+
+Výboj oscillatoru Righiho složitý děj dosud není podrobně prozkoumán. Přímé cestě, pozorovati kmity otáčivém zrcadle, vadí zde veliká rychlost, jakou dějí. tedy nutno nastoupiti nepřímou cestu.
+
+
+vnějších kuličkách spojených elektrikou náboj stoupá pomalu stále, dosáhne potřebné výše, aby přeskočila jiskra. Tato složena tří částí, nevíme, která nich přeskočí nejdříve, ani, jakou úlohu mají krajní jiskry. Righi tvrdí, kmity vznikají výbojem vnitřních kuliček;
+
+
+XXIX. ﻿10
+
+
+vnější jiskry slouží tomu, aby náboj dostal vlastní oscillator náhle tím kmity staly mocnějšími. Svůj náhled dokazuje pokusy:
+
+
+Olej zvyšuje nápadně účinnost oscillatoru; resonator, který jiskř ještě vzdálenosti několika metrů oscillatoru naplněného olejem, musíme odstranění oleje přiblížiti několik málo centimetrů, chceme-1' zase viděti jiskření.
+
+
+/;) Střední jiskra rozhoduje skoro samotná účinnosti oscillatoru; malé změny postavení vnitřních kuliček mají následek, účinnost klesne nepatrný zlomek původní hodnoty. Dotýkají-li kuličky, zmizí účinek nejcitlivější resonatory skoro úplně. Naproti tomu nezávisí působení oscillatoru širokých mezích délce jisker krajních ani uspořádání přívodních drátů.
+
+
+Neočekávaný vliv mají vnitřní kuličky tím, není lhostejno, jsou-li duty plny. stejných okolností oscillator opatřený dutými kuličkami jen poloviční účinky jako oscillator kuličkami plnými. Vnější kuličky jsou tom ohledu bez významu.
+
+
+Orientační pokusy potvrdily stanovisko Righiho jedině tím rozdílem, olej zvyšoval účinek oscillatoru nanejvýš 3—Skráte, tedy mnohem méně, než udává Righi. Ostatně plynulo pokusů, vlny vysílané krajními jiskrami, existují-li vůbec, vzbuzují účinky, které leží mezích pozorovacích chyb.
+
+
+Časový průběh kmitu bude zajisté týž, jaký plyne Thomsonovy theorie; kmity budou periodické tlumené. Kmitovou dobu koefficient útlumu lze vyšetřiti pomocí resonančních pokusů, podrobně popsaných dalším pojednání.
+
+
+Průměr vnitřních koulí obnášel vzdálenost jejich, při které byly účinky nejmocnější, cm. těchto podmínek nalezeno pro délku vlny
+
+
+29-2 cm,
+
+
+což odpovídá periodě
+
+
+9-733 10-10jrá.
+
+
+Útlum kmitu musíme očekávati velmi značný. Bjerknes1<J) měřil útlum pro Hertzův oscillator bez oleje nalezl, klesne amplituda půl doby kmitové původní hodnoty. Je-li oscillatoru olej, přistupují ztrátám následkem vyzařování energie další ztráty pocházející odtud, odpor jiskry oleji převyšuje mnohokráte odpor vzduchu, dále, jiskra působí olej elektrolyticky vylučujíc uhlík, konečně, koná výbojem mechanická práce jako proudění oleji, vystřikování kapek pod.
+
+
+I9) Wied. Annalen 44. 1891, str. 86.
+
+
+XXIX.
+
+
+zmíněných resonančních pokusů ukazuje skutečně, koefficient útlumu 0-1726 1010; půl dohy kmitové zbývá již jen 0'43 počáteční amplitudy, takže následkem uvedených ztrát kmity oscillatoru Righiho jsou více než dvakrát silněji tlumeny nežli Hertzovy (O682 =O46).
+
+
+Resonator.
+
+
+Resonatory upravoval jsem větších kusů zrcadel rozřezaných proužky určité délky šířky, nichž jsem horkým lihem smyl uprostřed lak prořízl odkrytou vrstvu stříbra jemným diamantem větších reso-natorů prostě jehlou). Zrcadlo třeba prohlédnouti dobře proti světlu, aby stříbrná vrstva nebyla děravá. Často stává při obyčejných zrcadlech, vrstva proryta jemnými trhlinami; sice nevadí, rozřežeme- zrcadlo proužky podél trhlin, ale činí resonatory málo citlivými, ano zcela nepotřebnými, jdou-li trhliny přič.
+
+
+téhož důvodu radno omývati lak nejopatrněji; nejlépe doporučuje stírati nejjemnější rukavičkovou kozí. Odstraňovati povlak prostým namáčením vroucího líhu méně výhodno.
+
+
+Takovýchto resonatorů pořídil jsem celou zásobu, poněvadž při pokusech brzy opotřebují. Délka jejich kolísala mezi cm, šířka obnášela pravidelně nejkratších 0'2 cm, nejdelších 0'5 cm.
+
+
+Nejmenší resonatory přizpůsoboval jsem dosti pracně větších tak, jsem nožem oškrábal stříbrnou vrstvu, měla žádané rozměry.
+
+
+pokusů později uvedených vysvítá, délka vlny resonatorů téměř shoduje dvojnásobnou jeho délkou; odchylka roste, čím reso-nator kratší širší. Závislost vlnité délky rozměrech jsem blíže nevyšetřoval, spokojiv určením jejím pro každou skupinu resonatorů.
+
+
+Pro koefficient útlumu plyne interferenčních pokusů jako mezní hodnota
+
+
+0-028 1010,
+
+
+takže kmity resonatorů jsou tlumeny nejméně šestkrát slaběji než kmity oscillatoru. Podle toho zmenšila amplituda půl periody při vlnitých délkách resonatorů cm, cm, poměru 0'87, 0'91, 0'95 teprve resp. úplných kmitů klesla 0'1 počáteční velikosti.
+
+
+skutečnosti není útlurn ani tak velký, poněvadž byl počet proveden pouze prvním přiblížení.
+
+
+Působení oscillatoru resonator.
+
+
+Poněvadž nemáme dosud přesné theorie pro oscillatory typu Righiho, můžeme tím méně vyjádřiti mathematicky souvislost kmitů oscillatoru resonatorů.
+
+
+XXIX. ﻿12
+
+
+Jakousi přibližnou theorii zjevů resonatoru lze přece podati, pova-žujeme-li vzorce odvozené pro pomalé změny elektrického stavu vodiče uzavřené platný pro rychlé kmity neuzavřené vodiče.
+
+
+Uvažujme tedy dva vodiče neúplně uzavřené, koncích opatřené kovovými deskami.
+
+
+Odpor vedení prvního budiž koefficient vnitřní indukce kapacita desk proud měj čase okamžitou sílu potenciálový rozdíl konců hodnotu obdobné veličiny značte pro druhé vedení: konečně budiž koefficient vzájemné indukce obou vedení.
+
+
+Při tomto označení platí rovnice
+
+
+(1)
+
+
+
+
+
+
+
+
+(2)
+
+
+pro první vodič pro druhý podobně
+
+
+
+
+
+—------M —r-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) (4)
+
+
+Předpokládejme, druhý vodič dosti daleko jeho přítomností neporušuje znatelně rozdělení proudu potenciálu prvním vodiči. našem případě tento předpoklad vyplněn vede zjednodušení rov-
+
+
+
+
+
+nice (1); smíme totiž vynechati člen -nabudou rovnice (1) (3) tvaru
+
+
+
+
+
+načež snadné úpravě
+
+
+(5)
+
+
+(6).
+
+
+
+
+
+Mají-li vůbec nastati kmity, musí existovati reálné hodnoty ;/, které vyhovují rovnicím:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~!7
+
+
+XXIX.
+
+
+(7) ﻿13
+
+
+Zavedeme-li toto výhodné označení (5) (6), obdržíme určení differencialní rovnice:
+
+
+ivr
+
+
+,.„
+
+
+-----s—[- —L—- -f-
+
+
+tíf
+
+
+Podmínky čase jsou
+
+
+pro první vodič pro druhý 2""
+
+
+zřetelem jest integrálem rovnice (8)
+
+
+
+
+
+
+
+
+
+
+
+rovnice (9) zní pak:
+
+
+(8, (9)
+
+
+(101
+
+
+(11)
+
+
+Integrál rovnice (11) skládá dvou členů, nichž první udává kmity vynucené druhý vlastní kmity sekundárního vodiče:
+
+
+kde
+
+
+sin ř-\-&i ~^rř=iř
+
+
+sin
+
+
+(12)
+
+
+-f-
+
+
+
+
+
+
+
+
+4,=
+
+
+V[«2H-(^
+
+
+
+
+
+v*]*+4v*
+
+
+
+
+
+
+
+
+(/—
+
+
+Rozšíříme-li nyní platnost rovnic (10) (12) kmity Hertzovy, nedopustíme tím chyby, když zároveň přikládáme jiný význam písmenám nich obsaženým. Hodnoty /i, nesmíme odvozovat rovnic (7), nýbrž pokládat určeny cestou experimentální, rasová konstanta závisí vzdálenosti resonatoru oscillatoru.
+
+
+XXIX. ﻿14
+
+
+Poněvadž útlum resonatoru skoro mizí proti útlumu oscillatoru, zaniknou brzy vynucené kmity zůstanou jen vlastní.
+
+
+Jakýsi praktický důsledek plyne theorie, uvažujeme-li hodnotu amplitudy kmitů vlastních
+
+
+[n2 -\-(ft— v2]2 -j- -Dosadíme-li rovnice (11), dále
+
+
+-!• •-»
+
+
+
+
+
+obdržíme
+
+
+Odtud pravidlo sestrojovati oscillatory kapacitě největší samo-indukci nejmenší, mají-li při stejné periodě dávati mocné účinky; Righi nalezl tento výsledek zkusmo.
+
+
+Pozorovací methoda.
+
+
+Kmity oscillatoru jsou polarisovány tak, síla elektrická rovnoběžná rotační osou přístroje magnetická rozdělena kruzích této cse kolmých.
+
+
+Důkaz polarisace vln provedl již Hertz20), snadno tom přesvědčíme, stáčíme-li resonator rovině kolmé jeho spojovací přímce oscillatorem: je-li resonator postaven rovnoběžně osou oscillatoru mých pokusech vertikálně), něm nejsilnější jiskrový proud, pakli kolmo tomuto směru, jiskry zmizejí dobro.
+
+
+Vymizení jisker nastane něco dříve, než resonator stočí polohy vodorovné, tím dříve, čím citlivost resonatoru menší čím dále nachází oscillatoru.
+
+
+toho plyne způsob určiti poměrné číslo pro velikost elektrické síly: Je-li síla panující jakémsi bodě stočíme-li resonator úhel padá směru resonatoru pouze složka
+
+
+cos
+
+
+Kdybychom otočili resonatorem takový úhel, něm jiskry právě zmizely, měla složka, padající jeho směru, právě potřebnou
+
+
+*°; tím, vlny neprojdou hustou mřížkou, rovnoběžnou směrem kmitů; viz Untersuchungen str. 178.
+
+
+XXIX. ﻿15
+
+
+velikost, aby jiskra resonatoru ještě přeskočila. Volme tuto sílu, stálou j,ro každý resonator, jednotku
+
+
+5""
+
+
+máme jako poměrnou hodnotu síly, která působí resonator
+
+
+.S"" sec cc.
+
+
+Velikost síly každém bodě tedy udává sekanta toho úhlu, při němž právě zmizejí jiskry resonatoru, umístěném dotyčném bodě. Chci zváti dalším pojednání tento úhel: extinkční azimut.
+
+
+Jak patrno, předpokládá toto odvození, témž resonatoru doskoku potřebí stálé elektromotorické síly. Všeobecně nelze ovšem tvrditi, poněvadž citlivost resonatoru časem umenšuje, ale pokusy podniknuté tomu účelu ukázaly, resonatory poněkud již opotřebované zachovávají tutéž citlivost dlouhý čas. Jiné vlivy, které mohly měniti citlivost mezích téhož pozorování (trvajícího hodiny), jako proměnlivou vlhkost vzduchu, snažil jsem odstraniti tím, jsem pracoval vždy ustálené teplotě čas času citlivost přezkoušel. tomto ohledu tedy jsou výsledky pokusů zcela spolehlivý.
+
+
+10. nalezení extinkčního azimutu lze postupovati dvojím směrem: buď stáčí resonator polohy nejsilnějšího jiskření tak dlouho, přestane jiskřiti, nebo vyjde polohy kolmé hledá úhel, při kterém jiskření začne. Druhý způsob nespolehlivý: prvnímu vzbuzení jisker totiž skoro vždy třeba větší síly než udržování jich, zdá se, silné předcházející jiskry umožní přechod pro další jiskry mnohem slabší; bez pochyby trvá zahřátí vzduchu skla prvním silným výbojem dosti dlouho činí rýhu resonatoru vodivější. Mnohem pravidelnější výsledky dává první způsob, nevýhodou jeho však jest rychlé opotřebování resonatoru; vadí zvláště tam, kde jedná řadu souvislých pozorování, která musí vy-konati týmž resonatorem citlivostí, pokud možno, nezměněnou. či. 11. uvádím příklad, jak rychle ubývá citlivosti resonatoru, je-li vydán plnému působení silných vln. Abych zamezil toto zmenšení citlivosti, spojil jsem obě methody vytáčel resonator vždy polohy nullové tak daleko, zajiskřil poněkud silněji, načež jsem ihned vracel směrem poloze nullové, jiskry právě zanikly. Tím způsobem jsem obdržel zcela pravidelné výsledky resonatory vystačily dlouhou řadu pozorování.
+
+
+Přístroj, kterým jsem prováděl měření, zobrazen obr. Skládá dvou mosazných kruhů, které sobě otáčejí skoro bez tření. Vnější připevněn pomocí dřevěného rámce těžkému, stabilnímu podstavci nese pevný index, vnitřní dělení stupních vůli jemnému otáčení jest opatřen třemi raménky; nejmenší hodnota, kterou lze kruhem pohnouti, obnáší Ol°, týž zlomek lze dělení bezpečné odečísti.
+
+
+XXIX. ﻿16
+
+
+Resonator přitmelen ebonitovému válečku posunuje ním těsně podél ebonitové tyčinky tak, aby jeho střed splynul středem kruhu. Průměr kruhu (30 ční) volen mnohem větší, než nejdelší pozorovaný resonator (13'1 cm], aby pole kolem resonatoru bylo úplně rovnoměrné. téhož důvodu jsem nepozoroval jiskry lupou, jak obyčejně stává jak činí Righi, nýbrž díval jsem resonator strany pouhým okem vzdálenosti 30—40 cm.
+
+
+Jiskry resonatoru jsou viditelný poměrně dosti daleko, poněvadž sklo silně fluoreskuje: děje-li pozorování úplně temné síni, vidět
+
+
+Obr.
+
+
+ostře nejmenší jiskérku; odstranění lupy výhodu, oko méně namáhá, nežli upřeným zíráním skrze čočku.
+
+
+Aby ovšem bylo lze tvrditi bezpečně, resonator zcela volně postaven podléhá toliko vlivu radiace přicházející přímo oscillatoru, nesmí žádná část vln dopadati tělo pozorovatelovo; účinek vln odra zených těla byl nanejvýš nestálý. toho důvodu přidal jsem stroji ochrannou desku plechovou, velikosti ctn2, kruhovým výřezem průměru cm, dostačující zakrytí hlavy svrchní části těla, postavil resonator roviny otvoru. Změnou polohy při pozorování, přibližováním vzdalováním hlavy, zvednutím ruky jinými pohyby přesvědčil
+
+
+XXIX. ﻿17
+
+
+jsem se, toto opatření chránilo resonator jakéhokoli cizího vlivu. (Na obr. obrysy ochranné desky jsou vyznačeny tečkovanými čarami.)
+
+
+11. Nežli odečteme nějaký úhel jako extinkční, třeba vyčkati delší dobu: amplituda kmitů oscillatorových není totiž stálá. Vlivem různých neznámých příčin (snad proudů oleji, nepravidelného ukládání vyloučeného uhlíka p.) vyvinou některé kmity zvláště mocně stává se, resonator najednou intensivně zasvítí, před tím nejiskřil delší dobu. Tyto nepravidelnosti působení oscillatoru nelze vyloučiti jinak než prodloužením doby jednotlivých odečtení. Můžeme totiž očekávati, amplitudy výbojů sobě jdoucích budou opakovati více méně pravidelně, tak jistou dobu vyskytne aspoň jednou největší nich. Volíme-li tedy pozorovací dobu dosti dlouhou, resonator udává správně maximální amplitudu dopadajících vln. Jak dlouhá býti tato doba, rozhoduje zkušenost případu případu; stejných okolností tím kratší, čím rychleji sobě následují výboje oscillatoru. Obyčejně jsem pozoroval chování reso-natoru při pokusech orientačních minutu, při definitivních měřeních 2—4 minuty, ano déle. (Righi udává21) jako dostatečný čas minutu.)
+
+
+Citlivost resonatorů, převratná hodnota nejmenší elektrické síly, ktef.ou ještě udávají, zmenšuje délkou jejich závisí při týchž rozměrech šířce povaze rýhy. Praví-li ,povaze', dlužno rozuměti vodivý stav, kterého rýha dostala účinkem předešlých výbojů. drobnohledu ukazuje rýha nově proříznutého resonatorů hladké kraje, nějakém čase rozšíří lOnásobnou šířku, kraje častými výboji rozryjí mezi nimi viděti četné ostrůvky zbytky stříbrného povlaku. Následkem toho effektivní šířka rýhy mnohem menší nežli měřená citlivosti ubývá pomaleji, než bychom soudili pozorování drobnohledného.
+
+
+Nově zhotovené resonatory bývají velice citlivý, zvláště jsou citlivý nich, při kterých stříbrná vrstva nebyla úplně proříznuta. Takovéto resonatory počátku vůbec nejiskří musí přiblížiti okamžik těsně oscillatoru, pak začnou jiskřiti velmi intensivně. krátkém čase klesne citlivost resonatorů, jímž měří, rychle jakýsi stupeň, kterém pak udržuje delší dobu.
+
+
+Jako příklad budiž uveden pokus vykonaný resonatorem čís. vzdálenosti 130 oscillatoru; citlivost poměrná sekantám jednotlivých extinkčních úhlů, poněvadž působící elektrická síla stálou hodnotu.
+
+
+Původní citlivost resonatorů činila sec60°54' 2'056; pak byl resonator postaven vertikálně ponechán sek. působení celé dopadající síly, načež byla nalezena citlivost sec57^6' 1'841, následujících sek. sec 56°5' l'792 konečně dalších 300 sek. sec 55°49' 1780,
+
+
+Citlivost klesá sek. 10'4 proč., sek. 12'9 proč., 390 sek. 13'5 proč. krátkou dobu sek. tedy citlivost ustálila další klesání bylo zcela nepatrné.
+
+
+"") Optik el. Schwing. str. 35.
+
+
+Rozpravy: Ročn. IX. Tř. II. 29. XXIX. ﻿18
+
+
+Používaje této zkušenosti, prováděl jsem měření výhradně těmi reso-natory, kterých citlivost byla předběžně ustálena. Mimo jsem snažil vystaviti resonator možná nejkratší dobu silné dopadající radiaci provedl každou řadu pozorování vždy dvakráte; př. šlo-li to, vyšetřiti příčné rozdělení síly před reflektorem, začal jsem pozorovati uprostřed posunoval měřicí přístroj stranou tak dlouho, účinek zmizel, této nejzazší polohy vracel jsem směrem středu, překročil střední polohu týmž způsobem provedl pozorování druhé straně. Tím dána záruka, účinnost oscillatoru ani citlivost resonatoru průběhem celého měření valně nemění.
+
+
+Takové řady pozorování, které byly patrně porušeny, kde př. extinkční azimut téže vzdálenosti resonatoru jevil nápadné rozdíly, jsem ovšem vypustil.
+
+
+III. Experimentální vyšetřování oscillatoru. Délka vlny. Útlum.
+
+
+12. určení délky vlny byly nejvýhodnější pokusy interferenci vln, dopadajících kolmo zrcadlo vlnami odraženými. Tomuto přímému měření závadu silný útlum kmitů, neboť následkem toho vytvoří interferenční zjevy závislé toliko periodě resonatoru; indikátor elektrických vln, jenž neměl vlastní kmitové doby, zdá se, není dosud nalezen. Někteří domnívají, jím koherer Branlyho 22), ale nepodařilo dosud určiti kohererem délku vlny oscillatoru. Důvod leží asi tom, odpor kohereru mění již prvním nárazem dopadající radiace pozdější kmity již naň nemají účinku.
+
+
+Indikátor, kterého bylo lze užiti úspěchem, musil udávati součet veškerého účinku jistý čas, nikoli maximální hodnotu kmitů; zdá se, byl nejprospěšnější indikátor chemický (asi jako fotografická deska).
+
+
+Zbývá tedy jako jediný prostředek princip resonance. Měníce délku resonatoru, můžeme nalézti, kdy kmity něm vzniklé jsou nejsilnější, vypočítati několika daných pozorování periodu velikost útlumu.
+
+
+Zanedbáme-li prvním přiblížení útlum resonatoru, máme pro amplitudu vynucených kmitů
+
+
+An*
+
+
+2>) Branly, Journal Physique [3.] 1892, str. 459.; 1895, str. 273.
+
+
+XXIX. ﻿19
+
+
+pro vlastní kmity resonatoru
+
+
+
+
+
+Obě amplitudy dosahují tedy maxima při téže hodnotě kterou nalezneme rovnice
+
+
+Označme tuto hodnotu máme pro rovnici
+
+
+čili
+
+
+
+
+
+(14).
+
+
+Mějme dána dvě pozorování provedená týmž resonatorem; jedno vztahuje délce vlny, při které nastává maximum účinku, druhé jakékoli jiné délce vlnité; poměr příslušných period budiž
+
+
+
+
+
+
+
+
+poměr relativních hodnot naměřené amplitudy bude:
+
+
+(15)
+
+
+anebo, když nahradíme snadné úpravě:
+
+
+(16).
+
+
+poslední rovnice plyne poměr pomocí rovnice (14) hodnota délka vlny oscillatoru.
+
+
+13. tabulkách Ia.—Id. jsou sestaveny výsledky pokusů, při kterých jsem zkracoval postupně délku resonatoru pozoroval vždy poměrnou hodnotu amplitudy kmitů. Maximum nastalo prvních tří resonatoru při délce 11'8 cm, které odpovídá asi jako délka vlny; čtvrtého při délce 1T6 čili asi při vlně cm. Resonance vyznačena dosti význačně zvláště tabulkách Ia. Ib.
+
+
+XXIX.
+
+
+﻿20
+
+
+
+
+
+Tab. Ia.
+
+
+Resonator: (šířka: O'35 cm).
+
+
+l	a	sec K	x 9		fi/v
+
+
+12-9 59°26'		1-966	0-923	1-064	0-228
+
+
+11-9 26		2-091		—	—
+
+
+11-0 3		1-944 1-08		1-076	0-173
+
+
+10-0 57		1-997 !-i9		1-058	0-365
+
+
+8'6 54		1-739 1-38		1-202	0-318
+
+
+7-7	45 59	1-439 1-55		1-453	0-259
+
+
+6'5 14		1-372 1-83		1-525	0-280
+
+
+5-1 18		1-257 2-33		1-663	0-261
+
+
+				Střed .	. 0-269
+
+
+Tab. Ib.
+
+
+Resonator: (šířka 0'4 cm).
+
+
+Tab. Ic.
+
+
+Resonator: (šířka 0'4 cm).
+
+
+l	a	sec a	Jí Q		P/v
+
+
+13-0	64°12'	2-298	0-908	1-061	0-280
+
+
+11-8	65 48	2-439	—		
+
+
+10-5	61 2-128		1-124	1-146 0-162	
+
+
+9-7 1-751			1-217	1-393 0-167	
+
+
+7-9 11		1-371	1-494	1-779 0250	
+
+
+1-103			1-967	2-211 0-182	
+
+
+				Střed 0-208	
+
+
+l	«	sec a	Y.	Q	P/v
+
+
+13-0	56°12'	1-798	0-923	1-125	0-170
+
+
+12-0	60 22	2-022	—	—	—
+
+
+11-5	58 52	1-934	1-043	1-046	0-131
+
+
+11-3	60 8	2008	1-062	1-007	0-400
+
+
+11-1	60 4	2-004	1-081	1-009	0-414
+
+
+10-8	57 36	1-866	1-111	1-083	0-217
+
+
+10-6	52 11	1-631	1-132	1-240	0-148
+
+
+			Střed 0-247		
+
+
+XXIX. ﻿21
+
+
+Tab.
+
+
+Resonator: (šířka 1-2 ční).
+
+
+l	«	sec u	X	Q	Piv
+
+
+12-0	49° 0'	1-524	0-967	1-025	0-151
+
+
+11-6	50 1-562		—	—	—
+
+
+10-9	48 50	1 519	1-064	1-028	0-254
+
+
+10-0	49 51	1551	1-160	1-007	0640
+
+
+9-5	47 40	1-485	1-221	1-052	0-422
+
+
+8-9	43 12	1-372	1-303	1-139	0-335
+
+
+8-0	32 1-182		1-450	1-321	0-280
+
+
+				Střed 0-347	
+
+
+Provedený výpočet dává jako délku vlny koefficient útlumu při užití resonatoru
+
+
+čís.
+
+
+
+
+
+
+
+
+
+
+
+26'7 25-7 26-2 38-3
+
+
+0-18937 O10 0-15255 0-17770 0-17078.
+
+
+tedy střední hodnota pro délku vlny
+
+
+pro útlum
+
+
+29'2
+
+
+0-1726 1010,
+
+
+takže klesla amplituda kmitů oscillatoru půl periody 0'432, celou periodu 0'187 původní hodnoty.
+
+
+Pole vytvořené oscillatorem.
+
+
+14. Rozložení elektrické síly kolem oscillatoru vyšetřoval jsem jen rovině aequatorialní. Měření bylo provedeno dvojím způsobem: směru paprsku vycházejícího oscillatoru (obr. 4.) kolmo tomuto směrn přímce většině případů byl oscillator naplněn olejem, vyšetřoval jsem však příčinou kontrolly rozdělení síly tenkráte, když oscillator pracoval bez oleje.
+
+
+Výsledky měření zahrnuty jsou tabulkách IR, IIb., IIC., III. pro podélné IV3., IV\ IVC., pro příčné rozložení elektrické síly. Při tom znamená vzdálenost resonatoru oscillatoru, vzdálenost jeho paty kolmice ay, podél které měřicí přístroj pohyboval, extinkční azimut; posledním sloupci každé tabulky jest udán součin amplitudy kmitů vzdálenosti.
+
+
+Obr.
+
+
+XXIX. ﻿22
+
+
+Tab. IIa.
+
+
+Resonator: 26'4 cm).
+
+
+	r	a	sec K	r sec rc	
+
+
+	cm 10	(83°18')	(8-571)	(85-71)	
+
+
+	20	77 51	4-751	95-02	
+
+
+	30	72 12	3-271	98-13	
+
+
+	40	65 17	2-391	95-64	
+
+
+	50	58 35	1-918	95-90	
+
+
+	60	52 24	1-639	98-34	
+
+
+	70	45 3	1-415	99-05	
+
+
+	80	36 17	1-240	9920	
+
+
+	90	22 50	1-085	97-65	
+
+
+	100	8 5	1-010	101-00	
+
+
+			Střed 97-77		
+
+
+Tab. Hb.
+
+
+Resonator: (í. 20'0 cm).
+
+
+	r	a	sec K	r sec
+
+
+	cm 10	75°36'	4-021	40-21	
+
+
+	20	60 42	2-043	40-86	
+
+
+	30	39 41	1-299	38-97	
+
+
+	40	__ 44	1-000	4000	
+
+
+			Střed 40-01		
+
+
+Tab. IIC.
+
+
+Resonator: 9'0 cm).
+
+
+	r	K	sec oř	r sec
+
+
+	cm 20	80°24'	5996	119-92	
+
+
+	30	74 0	3-628	108-84	
+
+
+	40	69 27	2849	113-96	
+
+
+	50	63 36	2-240	112-00	
+
+
+	60	58 33	1-917	115-02	
+
+
+	80	48 3	1-496	119-68	
+
+
+	100	35 14	1-223	122-30	
+
+
+	120	4 50	1-004	120-48	
+
+
+			Střed .	. 116-70	
+
+
+XXIX. ﻿23
+
+
+Tab. III.
+
+
+Resonator: 24'8 cm). (Oscillator nebyl naplněn olejem.)
+
+
+	r	a	sec a	r sec
+
+
+	cm 15	56°20'	1-804	2706	
+
+
+	20	30 0	1-155	23 10	
+
+
+	25	8 24	1-011	25-28	
+
+
+	30	'. —	—	—	
+
+
+			Střed .	. 2515	
+
+
+Tab. IVa.
+
+
+Resonator: (). 26'4 cm). Vzdálenost oscillatoru: cm.
+
+
+	s	K	sec a	r	r sec
+
+
+	cm 0	77°18'	4-549	cm 20-00	90-98	
+
+
+20	74 42	3-790	28-28	107-18	
+
+
+40	48 48	1-518	44-72	67-89	
+
+
+50	27 6	1-123	53-85	60-48	
+
+
+60	—	—	—	—	
+
+
+				Střed ... 6.Í		
+
+
+Tab. IVb.
+
+
+Resonator: 13'2 cm). Vzdálenost oscillatoru: cm.
+
+
+	s	K	sec a	r	r sec
+
+
+	cm 0	50° 6'	1-559	cm 40-00	62-36	
+
+
+20	38 39	1-280	44-72	57-24	
+
+
+40	33 51	1-204	56-57	68-11	
+
+
+50	24 0	1-095	64-03	70-11	
+
+
+60	—	—	—	—	
+
+
+				Střed 64-46		
+
+
+XXIX. ﻿24
+
+
+Tab. IVC.
+
+
+Resonator: 9-0 cm). Vzdálenost oscillatoru: cm.
+
+
+	s	a	sec u	r	r sec
+
+
+	cm 0	67°53'	2-656	cm 40-00	10624	
+
+
+10	62 10	2-142	41-23	88-31	
+
+
+30	50 47	1-582	50-00	99-10	
+
+
+50	41 34	T337	6403	85-61	
+
+
+70	1 32	i-ooo	80-62	80-62	
+
+
+				Střed ... 91-98		
+
+
+						
+
+
+Tab.
+
+
+Resonator: (i= 12'8 cm). Vzdálenost oscillatoru: cm. (Oscillator nebyl naplněn olejem.)
+
+
+	J-	a	sec K	r	r sec
+
+
+	cm 0	51°15'	1-598	cm 40-00	63-92	
+
+
+20	43 6	1-370 44-72		61-27	
+
+
+40	41 38	1-338 56-57		75-69	
+
+
+60	5 30	1-005 72-11		72-47	
+
+
+			Střed .		. 68-34	
+
+
+15. Hertzova theorie oscillací23) požaduje rozdělení amplitudy podle zákona:
+
+
+Položíme-li
+
+
+73-
+
+
+
+
+
+
+
+
+iz: 25'1 cm, obdržíme následující tabulku pro amplitudy jednotlivých vzdálenostech:
+
+
+Hertz, Untersuchungen str. 153
+
+
+XXIX. ﻿25
+
+
+	r	A	r.
+
+
+	cm 10	0-00582	0-0582	
+
+
+	20	306	612	
+
+
+	40	156 624		
+
+
+	80	078 624		
+
+
+	100	063 630		
+
+
+Stoupne tedy hodnota součinu jen procent původní hodnoty.
+
+
+Souhlas tohoto výpočtu výsledky zanesenými tabulkách II. III. velmi dobrý chodu velikosti odchylek jednotlivých pozorování. Jakési nepravidelnosti jeví tab. IV. V., ale nelze klásti váhy, poněvadž měření byla provedena méně spolehlivě měla jen dokázati, vůkolní předměty, jako stěny experimentační místnosti, stoly pod., neruší pravidelné rozdělení síly; ostatně zde odchylka střední hodnoty sec bývá průměrně 10, nanejvýš procent.
+
+
+těchto měření plyne, aequatorialní rovině oscillatoru vyjadřuje elektrickou sílu dostatečnou přesností výraz:
+
+
+sin\v(t
+
+
+
+
+
+pokud vzdálenost resonatoru větší než cm. Oscillator chová jako elektrický dvojbod Hertzovy theorie.
+
+
+Ubývání síly mimo rovinu aequatorialní zkoumal jsem řídkých případech; výsledek byl ten, součinu sec výšky ubývá.
+
+
+Vliv zevnější úpravy oscillatoru sílu kmitů.
+
+
+16. Jak řečeno či. 2., účinnost oscillatoru závisí největší měrou vzdálenosti středních kuliček; tedy prospěšno přesvědčiti vždy před počátkem pozorování, zdali vznikající vlny mají maximální působnost. Hlavně třeba dbáti této opatrnosti, obsahnje-li oscillator olej: nejvýhodnější vzdálenost mezi kuličkami vnitřními cm; bez oleje jest něco větší, 0'15—0'20 cm, maximum vyznačeno méně určitě.
+
+
+Vzdálenost mezi kuličkami vnějšími vnitřními měřila obyčejně 1'5 řídila zejména vlhkostí vzduchu.
+
+
+Vliv oleje amplitudu kmitů ustanovil jsem různých podmínek pomocí několika resonatoru, přirovnávaje největší účinnost oscillatoru bez oleje olejem. Jako průměrnou hodnotu nalezl jsem zvýšení účinku poměru 3'8 (nejméně 29, nejvýše 1:48).
+
+
+XXIX. ﻿26
+
+
+Konečně podružný vliv působnost oscillatoru rychlost, kterou sobě následují výboje, otáčivá rychlost elektriky. Účinek dosažený při nejprudčí rotaci činil asi 0'2 více nežli při zcela volném otáčení elektromotoru.
+
+
+Zdá však, toto stoupnutí spíše lze vyložiti chování reso-natoru, kterém jiskrový doskok při častějším dopadáni vln asi méně vychladne mezi jednotlivými impulsy zůstane tedy vodivější.
+
+
+Aby zamezily možné nepravidelnosti běhu motoru elektriky, byly všechny osy přístrojů denně pečlivě mazány; těchto podmínek byla otáčecí rychlost stálá. Hrubé nepravidelnosti lze snadno poznati zvuku jisker.
+
+
+IV. Experimentální vyšetřování resonatoru. Délka vlny.
+
+
+17. Konstanty resonatoru, totiž periodu útlum, můžeme velmi snadno nalézti, vytvoříme-li stojaté elektrické vlny interferencí při kolmém odraze. určení délky vlny sloužil jednoduchý přístroj, který schematicky nakreslen obr.
+
+
+Obr.
+
+
+Jako odrazová stěna napjat kus bílého pocínovaného plechu, zdéli cm, zvýši cmi dřevěném rámci, jehož podstavcem prochází měřítko kolmo stěně tak, zůstává při pohybu stále téže přímce. jednom konci měřítka stojí ebonitový sloupek tak tenký, neruší rozložení síly před zrcadlem, němu připevněn čepem resonator otáčivý kolem přímky uv\ poblíž druhého konce stojí malý hollandský dalekohled, kterým pozorujeme jiskry resonatoru: příslušném bodě stěny malý otvor průměru cm.
+
+
+Poněvadž vzdálenost resonatoru dalekohledu při pohybu nemění, vidíme jiskry vždy ostře. pozorování délky vlny upevníme resonator vzdálíme jej stěny asi polovici jeho délky zřídíme jeho sklon vodorovné rovině tak, aby něm procházel mírný proud jisker. Pak zasuneme
+
+
+XXIX. ﻿niéřítko zpět, aby resonator dotýkal stěny, hledáme, které vzdálenosti stěny jiskry objeví. Při jakémsi stočení azimutu jiskřil resonator jen ojedinělých bodech přímky skutečnosti budou resona-iory jiskřiti vždy délce několika centimetrů, pak zůstanou jakési dráze temny, začnou zase jiskřiti atd.
+
+
+Odečtením bodů, nichž jiskření začne přestane, nalezneme body naximalního minimálního účinku, vzdálenost takových dvou sousedních bodů udává čtvrtinu vlnité délky.
+
+
+Při tomto uspořádání pokusů opotřebují resonatory velmi nepatrně, poněvadž stočením resonatoru lze omeziti jiskření jen nejbližší sousedství maxim seslabiti jiskry značně maximech.
+
+
+Délky vln tímto způsobem nabyté jsou seřaděny tab. VI.
+
+
+Každá 'délka měřena byla několikráte samostatným určením řady maxim minim. Maxim, která při interferenci vyvinula, bylo mých pozorováních nejvýše tré.
+
+
+Jak patrno, vlnité délky resonatoru souhlasí dobře dvojnásobnou jich délkou; odchylky stejně dlouhých resonatoru společného středu činí:
+
+
+při resonatorech
+
+
+proč.
+
+
+
+
+
+
+
+
+cm.
+
+
+Tab. VI.
+
+
+	Číslo resonatoru	Délka	Šířka	A	
+
+
+		cm	cm	cm	
+
+
+	12	6-0	0-4	13-2	
+
+
+	15	13-0	0-4	26-4	
+
+
+	20	13-0	0-4	26-2	
+
+
+	21	8-9	0-4	20-0	
+
+
+	22	13-0	0-4	27-4	
+
+
+	25	5-0	0-35	131	
+
+
+	28	5-9	0-4	12-6	
+
+
+	29	10-6	0-4	24-0	
+
+
+	30	13'0	0-4	24-8	
+
+
+	35	3-0	0-3	7-1	
+
+
+	46	4-2	0-4	11-3	
+
+
+	48	10-2	0-4	22-8	
+
+
+	51	8-0	1-2	22-8	
+
+
+	60	4-0	0-3 10-6		
+
+
+	61 76	6-0 8-9	0-3 0-5	12-8 19-5	
+
+
+XXIX. ﻿28
+
+
+Široké resonatory mají stejných okolností mnohem větší délku vlny než úzké (na př. resonator 76).
+
+
+Utlum.
+
+
+18. Výpočet útlumu poněkud složitější předpokládá podrobnou znalost rozdělení amplitudy stojaté vlně před zrcadlem. Abych získal tuto znalost, provedl jsem pečlivá měření pomocí resonatorů 23. Odrazová stěna byla nyní mnohem delší, 120 cm, aby zamezen byl ohybový vliv krajů, resonator byl, jako obyčejně, upevněn měřicím přístroji (obr. 3.), který pohyboval zvláštních sáňkách kolmo stěně; vzdálenost resonatorů stěny jsem určiti správně ria O'l cm.
+
+
+každé vzdálenosti stěny pozoroval jsem nejprve amplitudu vlny dopadající položil rovnu 100 pak jsem postavil resonator stěnu pozoroval zvětšení zmenšení amplitudy následkem vlny vracející odraze příslušné hodnoty jsou sestaveny druhém sloupci tabulek VII3., VIIb. obr.
+
+
+Pro snazší pozorování, aby nebylo třeba přenášeti ustavičně těžkou stěnu, rozdělil jsem celou vyšetřovanou vzdálenost dílce cm> určil nejprve několika měření střední amplitudu do-padající vlny, pak umístil odrazovou stěnu kolmo dopadajícímu paprsku příslušné vzdálenosti, změřil změněné amplitudy jednotlivých bodech provedl konci kontrolní měření dopadající amplitudy bez stěny.
+
+
+Měření stojaté vlny provedeno bylo obvyklým způsobem tak, každým bodem každého dílce prošel resonator dvakráte, jednou stěny vzdaluje, podruhé přibližuje, aby byly odstraněny možné nepravidelnosti chodu oscillatoru citlivosti resonatorů. Při tom byl oscillator nepřetržitě činnosti, tak pracovní poměry měnily nejméně; doba pozorování jednoho dílce trvala asi 2—3 hodiny.
+
+
+XXIX. ﻿29
+
+
+Tab. VIIa. Tab. VIIb.
+
+
+Resonator:15. Resonator:23.
+
+
+Střední vzdálenost oscillatoru 150 cm. Střední vzdálenost oscillatoru: cm.
+
+
+X	A proč.
+
+
+cm	
+
+
+4-0	135-2
+
+
+50	142-3
+
+
+5-5	148-1
+
+
+6-0	159-5
+
+
+6-5	151-7
+
+
+7-0	150-9
+
+
+8-0	135-3
+
+
+9-0	118-6
+
+
+10-0	91-8
+
+
+IVO	85-8
+
+
+11-5	80-5
+
+
+12-0	81-2
+
+
+130	84-1
+
+
+14-0	97-0
+
+
+15-0	101-3
+
+
+16-0	106-8
+
+
+16-5	1100
+
+
+17-0	117-3
+
+
+17-5	1103
+
+
+180	106-8
+
+
+19-0	103-8
+
+
+20-0	103-2
+
+
+21-0	103-0
+
+
+22-0	97-0
+
+
+22-5	979
+
+
+23-0	99-7
+
+
+24-0	104-1
+
+
+25-0	105-9
+
+
+X	A proč.
+
+
+cm	
+
+
+2-0	139-4
+
+
+3-0	154-0
+
+
+4-0	168-1
+
+
+4-5	172-4
+
+
+5-0	164-0
+
+
+6-0	152-7
+
+
+7-0	132-2
+
+
+8-0	110-7
+
+
+9-0	97-5
+
+
+10-0	84-2
+
+
+11-0	840
+
+
+12-0	90-4
+
+
+13-0	98'5
+
+
+14-0	99-8
+
+
+15-0	109-6
+
+
+16-0	110-4
+
+
+17-0	107-0
+
+
+18-0	102-3
+
+
+190	101-3
+
+
+20-0	97-5
+
+
+21-0	97-1
+
+
+22-0	97-0
+
+
+23-0	100-5
+
+
+24-0	105-1
+
+
+25-0	103-3
+
+
+26-0	102-1
+
+
+XXIX. ﻿30
+
+
+19. Chceme-li těchto pozorování odvoditi útlum kmitů resonatoru, musíme především podniknouti theoretickou úvahu resonator postavený vzdálenosti stěny dopadej periodický, tlumený elektromagnetický rozruch amplitudy kmity vznikající resonatoru jsou dány výrazem
+
+
+sin t-\- ©j) e-P* -{- sin («/+
+
+
+~bt
+
+
+odraze vrací rozruch seslaben poměru vytvoří nové kmity
+
+
+sin f-\-®i-\- f-t* srn ar) bt'
+
+
+Additivní konstanta pochází odtud, vlny při odraze mění fási půl doby kmitové.
+
+
+Čas potřebný návratu odražených vln činí zoveme-li
+
+
+rychlost jejich tento čas budou již kmity první (qp) částečně utlumeny výslední hodnota elektrické síly bude pak, zavedeme-li
+
+
+t—ť
+
+
+
+
+
+sin [v(ť
+
+
+2;tr
+
+
+-)- yJ2
+
+
+/t«« -j-
+
+
+sin ť-\-®3]
+
+
+(17)
+
+
+Čas počítá toho okamžiku, kdy dopadne resonator radiace odražená zrcadla.
+
+
+Interferenční zjevy závisí, jak víme zkušenosti jak ukazuje tabulkách VIL, pouze periodě resonatoru; smíme tedy vypustiti členy první třetí, které odpovídají vynuceným kmitům obsahují periodu oscil-latoru, psáti:
+
+
+
+
+
+čili
+
+
+®=A9sm[n{t-\-
+
+
+sin f-\- &2] e-1""
+
+
+6*. sin -\- e~bl;
+
+
+(18)
+
+
+»>bx
+
+
+•>- Jrk* 2ke cos ?^'
+
+
+
+
+
+sin
+
+
+cos
+
+
+
+
+
+(19)
+
+
+XXIX. ﻿31
+
+
+rovnicích (18) (19) psáno místě Poloha maxim minim před zrcadlem plyne rovnice
+
+
+
+
+
+
+
+
+
+
+
+2;/
+
+
+sin----------f- cos--------------—
+
+
+
+
+
+(20)
+
+
+Poněvadž jsme vynechali prvním přiblížení členy řádu e'?' vůči •/""', pokládali velmi malé proti fi, musíme tím spíše vynechati proti načež rovnice (20) redukuje
+
+
+2nx
+
+
+sin--------=:
+
+
+řešením
+
+
+
+
+
+
+
+
+JT, atd.,
+
+
+koe značí délku vlny resonatoru.
+
+
+Nastává tedy největší seslabení kmitů resonatoru vzdálenosti
+
+
+*=o, A,...
+
+
+zrcadla, největší sesílení vzdálenosti:
+
+
+
+
+
+x-- -A, ...
+
+
+Amplitudy jednotlivých maximech minimech mají relativní hodnoty:
+
+
+
+
+
+
+
+
+-3*4-
+
+
+atd.
+
+
+20. Koefficient seslabení kmitů skládá tří částí: jakési procento energie, dopadající resonator spotřebuje se, aby něm vznikly kmity, čímž zmenší amplituda prošlých kmitů poměru při odraze samém nastane další zmenšení konečně kmity seslabí následkem rozptýlení radiace při postupu poměru tedy celkové seslabení
+
+
+Hodnotu určoval jsem experimentálně tím, jsem nalezl, kolik procent zmenší amplituda kmitů resonatoru, když postavíme cestu dopadajícím vlnám jiný pomocný resonator.
+
+
+XXIX. ﻿32
+
+
+řady souhlasných pozorování plyne, resonator pohltí O115 dopadající elektrické síly, je-li postaven rovnoběžně směrem kmitů; je-H však směru kmitů stočen úhel 09, pohlcuje pouze procent složky padající jeho směru, takže platí všeobecně
+
+
+COS CO.
+
+
+vzdálenosti obou resonatorů výsledky nezávisely.
+
+
+Koefficient měřil jsem vlnami odraženými zrcadla úhlu 45°. Oscillator opatřen byl pro zvýšení účinnosti reflektorem, kterém řeč níže.
+
+
+Resonator nacházel jednou vzdálenosti 200 oscillatoru (obr. 7.) bodě podruhé bodě vzdálenosti průseku spojnice zrcadlem místě, kam dopadaly odražené paprsky; součet vzdáleností OA-^AR' rovnal původní vzdálenosti OŘ. Pozorování provedl jsem tak, jsem nalezl přímce místo, kde odražené vlny měly největší amplitudu (/v""), změřil poměr amplitud
+
+
+Výsledek několika měření činí 0'96, což dobře shoduje odrazem světla kovech.
+
+
+Konečně lze vyjmouti hodnoty tabulky XIII.; oscillator byl, jak již řečeno, postaven uvnitř parabolického reflektoru, jednak pro zvýšení působnosti, jednak proto, aby amplitudy kmitů ubývalo dálku pomaleji tudíž pole bylo stejnoměrnější.
+
+
+těchto okolností jsou hodnoty koefficientů pro resonator 15:
+
+
+Obr.
+
+
+0-95,	62 0-90,	<?3 0-93,	*4 0-91
+
+
+0-96,	Q2 0-96,	í>3 0-96,	p4
+
+
+n-9^ -^°'	Z2 0-89,	Za 0-84,	*4 079
+
+
+0-85, pro resonator 23:
+
+
+086,
+
+
+0-75, 0-69
+
+
+0-96,	e 0-90,	L3 0-92,	f4 0-92,	ř5 0-93
+
+
+0-96,	<»2 0-96,	(i, 0-96,	04 96,	(>5 0-96
+
+
+0-93,	^2 0-86,	Zs 0-80,	v 0-75 --- /v-''	^5 0-70
+
+
+0'86,	>ř 0-74 /Co j	&, =:0'71,	L4 0-66,	k.a 0-65
+
+
+21. výpočtu útlumu nehodí všechny pozorované hodnoty tab. VIL; počítáme-li koefficient pomocí minim, obdržíme nemožné výsledky. lze vyložiti jen tím, již první náraz dopadajících vln spolupůsobí vytvoření jiskry; tedy možno, minimech vlastně pozorují kmity, které resonatorů vyvinou, nežli vrátí odražená radiace. Mimo
+
+
+XXIX. ﻿33
+
+
+členy řádu emfii zanedbané (17) zavinují větší chyby minimech než maximech.
+
+
+Nejspolehlivější data pro počet jsou pozorování prvních maximech pro kontrolu přibírám obou případech maximum druhé.
+
+
+Pro resonator (/l 26'4 ční) platí:
+
+
+1-60;
+
+
+3/>r
+
+
+0-75 rl7
+
+
+
+
+
+0-75 0'0284 1010
+
+
+l>r
+
+
+o-42 0'0304 1010
+
+
+střed: 0'0294 O10. Obdobně pro resonator crn):
+
+
+
+
+
+0'86 t>~~ =1-72; 0""86; 0'0178 1010
+
+
+
+
+
+0-71 -}-e —1-10; =0'39; O0372 1010
+
+
+střed: 0-0275 1010-
+
+
+Utlum těchto resonatorů tedy asi okřát menší než útlum oscillatoru. Avšak nalezenou hodnotu sluší pokládati jen svrchní mez, platnou při oo, neboť značně zmenšila, kdybychom přihlíželi druhém přiblížení vynechaným členům rovnice (17).
+
+
+Pokusy vlivu stínítka.
+
+
+22. Velice zajímavé úkazy nastanou, když mezi oscillator resonator vsuneme stínítko kruhovým otvorem. Optickou analogií tohoto případu jsou Fresnelovy zjevy ohybu světla skrze kruhový otvor, při nichž lze pozorovati změny světlosti, jak známo, trojím způsobem:
+
+
+intensita světelná rozložena periodicky podél normály procházející středem otvoru;
+
+
+kolmo této normále střídají kruhy světlé temnými;
+
+
+určitém, pevném bodě normály mění osvětlení periodicky, zvětšuje-li poloměr otvoru.
+
+
+případě elektrických vln jest obdoba jen neúplná. Zřetelně vyvine toliko třetí druh ohybových úkazů; první chybí vůbec, druhý pozoruje pouze při některých vlnitých délkách resonatorů.
+
+
+pokusům sloužilo velké stínítko průsvitného papíru, polepeného cínovou folií, která byla uprostřed kruhovitě vyříznuta. Střed otvoru byl přesně označen, následkem průsvitnosti papíru bylo lze sestaviti přístroje tak, střední jiskra oscillatoru rýha resonatorů nalézaly přesné ose souměrnosti stínítka. Zmenšování poloměru kruhu provedl jsem tím způsobem, jsem nejširší otvor upevňoval pomocné listy stanniolové
+
+
+Rozpravy: Ročn. IX. Tř. II. 29.
+
+
+XXIX. ﻿34
+
+
+
+
+
+otvory stále menšími; aby střed stínítka zůstal při tom stále přímce spojující oscillator resonator, byly papíře nakresleny soustředné kružnice náležité velikosti, které zaručovaly správné centrování.
+
+
+23. První řada pokusů, jejíž výsledky jsou shrnuty tab. VIII*~e. pro oscillator naplněný olejem, tab. IXa~e. pro oscillator bez oleje, ukazuje, jaký vliv velikost otvoru stínítka kmity resonatoru; sloupec první udává délku poloměru A*, druhý extinkční azimut poslední poměrnou hodnotou amplitudy kmitů, když amp'ituda beze stínítka položena rovna 100.
+
+
+Tab. VIII*.
+
+
+Resonator 30. cm.) Vzdálenost stínítka oscillatoru cm. Vzdálenost resonatoru oscillatoru
+
+
+R	a	sec a	A proč.
+
+
+cm			
+
+
+CO	74044'	3798	100-0
+
+
+150	80 11	5-865 154-4	
+
+
+129	81 24	6-687	176-1
+
+
+12-1	81 48	7-011	184-6
+
+
+102	82 21	7-512	197-8
+
+
+8-2	81 59	7-170	188-8
+
+
+5-0	76 6	4-163	1096
+
+
+3-0	4459	1-414	34-6
+
+
+Tab.
+
+
+Rescnator 75. (/. 19'4 cm.} Vzdálenost stínítka: cm. Vzdálenost resonatoru: cm.
+
+
+R	CÍ	sec a	A proč.
+
+
+cm			
+
+
+00	54°24/	1-718	1000
+
+
+15-0	69 12	2-816	163-9
+
+
+12-5	70 1	2926	170-3
+
+
+9-0	68 7	2-683	156-2
+
+
+7-5	66 3	2-463	143-4
+
+
+XXIX. ﻿35
+
+
+Tab.
+
+
+Resonator 12. 13'2.) Vzdálenost stínítka cm. Vzdálenost resonatoru cm.
+
+
+R	a	sec a	A proč.
+
+
+cm			
+
+
+00	44°30'	1-402	1000
+
+
+15-0	50 28	1-571	112-1
+
+
+12-5	51 12	1-596	1138
+
+
+9-0	60 2-046		1459
+
+
+7-5	5922	T963	140-0
+
+
+Tab.
+
+
+Resonator 60. 10'6 cm.) Vzdálenost stínítka cm. Vzdálenost resonatoru cm.
+
+
+R	n	sec K	A proč.
+
+
+cm			
+
+
+OČ	51°32'	1 608	100-0
+
+
+15-0	52 8	1-629	101-3
+
+
+12-5	5040	1-578	98-1
+
+
+12-1 44		1-691	105-2
+
+
+9-0	68 50	2-769	172-2
+
+
+8-2	67 22	2-599	161-6
+
+
+7-5	66 15	2483	154-4
+
+
+Tab.
+
+
+Resonator 90. 9'0 cm.) Vzdálenost stínítka cm. Vzdálenost resonatoru
+
+
+R	a	sec a	A proč.
+
+
+cm			
+
+
+00	78°28'	5-002	100-0
+
+
+15-0	78 0	4-810	96-2
+
+
+12-5	7639	4-331	86-6
+
+
+10-2	7543	4053	81-0
+
+
+9-0	80 6	5-816	116-3
+
+
+7-5	82 3	7-230	144-5
+
+
+5-0	7852	5-179	103-5
+
+
+3-0	71 15	3-111	62-2
+
+
+XXIX. ﻿36
+
+
+Tab. IXa.
+
+
+Resonator 30. cm.)
+
+
+Vzdálenost stínítka oscillatoru cm. Vzdálenost resonatoru oscillatoru cm.
+
+
+(Oscillator nebyl naplněn olejem.)
+
+
+R	(V	sec u	A proč.
+
+
+cm			
+
+
+00	39°36'	1-298	100-0
+
+
+150	52 15	1-633	125-8
+
+
+12-9	58 3	1-890	145-6
+
+
+12-1	60 9	2-009	154-8
+
+
+10-2 2-009			154-8
+
+
+8-2 5521 1-759			135-5
+
+
+50	—	-	—
+
+
+Tab. IXb.
+
+
+Resonator 21. 20'0 cm.)
+
+
+Vzdálenost stínítka cm. Vzdálenost resonatoru cm. (Oscillator nebyl naplněn olejem.)
+
+
+R	K	sec a	A proč.
+
+
+cm			
+
+
+00	14°33'	1-033	1000
+
+
+15-0	36 16	1-240	120-0
+
+
+12-5	32 15	1-182	114-4
+
+
+10-2	21 22	1-074	104-0
+
+
+9-0	9 26	1-014	98-2
+
+
+7-5	2 36	1-001	96-9
+
+
+5-0		—	—
+
+
+Tab. IXC.
+
+
+Resonator :',75. 19'4 cm.}
+
+
+Vzdálenost stínítka: cm. Vzdálenost resonatoru: cm. (Oscillator nebyl naplněn olejem.)
+
+
+R	a	sec K	A proč.
+
+
+cm			
+
+
+00	20°25	1-067	100-0
+
+
+15-0	5545	1-777	166-5
+
+
+12-5	55 39	1-7/2	166-1
+
+
+10-2	51 55	1-621	151-9
+
+
+9-0	42 16	1-351.	126-6
+
+
+7-5	45 4	1-416	132-7
+
+
+5-0	^637	1-119	104-9
+
+
+3-0	—	—	—
+
+
+XXIX. ﻿37
+
+
+Tab. IXd.
+
+
+Resonator: 61. 12'8 cm.)
+
+
+Vzdálenost stínítka: cm. Vzdálenost resonatoru: cm. (Oscillator nebyl naplněn olejem.)
+
+
+R	u	sec a	A proč.
+
+
+cm			
+
+
+00	45°12'	1-419	100-0
+
+
+150	53 7	1-666	117-4
+
+
+12-5	4939	1-545	1089
+
+
+ÍO-2	58 12	1-898	133-7
+
+
+9-0	61 18	2-082	146-7
+
+
+7-5	57 12	1-846	1301
+
+
+5-0	42 54	1-469	103-5
+
+
+3-0	—	—	-
+
+
+Tab. IXe.
+
+
+Resonator: 60. (/. 10'6 cm.)
+
+
+Vzdálenost stínítka: cm. Vzdálenost resonatoru: cm. (Oscillator nebyl naplněn olejem.)
+
+
+K	a	sec K	A proč.
+
+
+cm			
+
+
+00	25° 6'	l 104	100-0
+
+
+15-0	11 6	1 019	92-3
+
+
+12-5	21 5	1-072	97-1
+
+
+10-2	3540	1-231	111-5
+
+
+9-0	37 37	1-262	114-3
+
+
+7-5	35 39	1-231	111-5
+
+
+5-0	—	—	—
+
+
+Ohybový ráz těchto pokusů vyniká velmi zřetelně. Hodnoty posledního sloupce mají při resonatorech 30. 60. průběh skoro stejný, oscillatoru olej čili nic, maxima minima vyskytují asi při téže délce poloměru (tab. VIIIa—IXa.; VIIIb—IXC.; VIIId—IXe.). Resonatory různé délky chovají podstatně rozdílně; př.: resonatory 60. 75. (tab. VIIIb.—VIIId.; IXC.—IXe.) -aneb 90. 75. (tab. VIIIb.—VIII6.), jichž vlnité délky jsou poměru ukazují postup zrovna opačný.
+
+
+24. Další pokusy týkaly rozdělení elektrické síly podél osy stínítka; příslušná měření jsou obsažena tab. Xa~f. XIa~h.
+
+
+XXIX. ﻿38
+
+
+Tab. Xa.
+
+
+Resonator: 15. 26'4 cm.} Vzdálenost stínítka oscillatoru: cm. Otvor stínítka: cm.
+
+
+r	a	sec n	r sec
+
+
+cm			
+
+
+30	76°39'	4-331	12993
+
+
+40	71 28	3-146	126-84
+
+
+50	67 25	2604	13020
+
+
+60	62 24	2-158	12948
+
+
+70	56 33	1 814	126-98
+
+
+80	52 5	1-633	13064
+
+
+90	47 25	1-478	133-02
+
+
+100	38 28	1-277	127-70
+
+
+110	31 27	1-172	128-92
+
+
+120	2 49	1-001	120-12
+
+
+		Střed 12838	
+
+
+Tab. Xb.
+
+
+Resonator: 30. cm.} Vzdálenost stínítka oscillatoru: cm. Otvor stínítka: cm.
+
+
+r	« sec sec «		
+
+
+cm			
+
+
+20	81°30'	6-766	135-22
+
+
+30	77 57	4790	14370
+
+
+0		3-628	14512
+
+
+9		3095	15475
+
+
+60	6657	2-554	153-24
+
+
+15		1900 152-00	
+
+
+100 57		1.554 155-40	
+
+
+120	4321	1-375	16500
+
+
+		Střed 150-57	
+
+
+XXIX. ﻿39
+
+
+Tab. Xc. Resonator: 30. Vzdálenost stínítka: cm. Otvor stínítka: cm.
+
+
+r	«	sec a	/• sec
+
+
+cm			
+
+
+20	81°42' 6-927		138'54
+
+
+30	7557 4-119		12357
+
+
+40	70 3-064		122-56
+
+
+50	66 2-538		126-90
+
+
+60	613 066		123-96
+
+
+80	52 1-643		131-44
+
+
+100	40 21	1-312	131-20
+
+
+120	20 0	1064	12768
+
+
+		Střed 12823	
+
+
+Tab. Xd.
+
+
+Resonator: 12. 13'2 cm.) Vzdálenost stínítka: cm. Otvor stínítka: ''cm.
+
+
+r	a	sec a	r sec
+
+
+cm			
+
+
+20	70049'	3385	67-70
+
+
+30	6230	2-166	64-98
+
+
+40	48 22	1-505	60-20
+
+
+50	23 40	1-092	54-60
+
+
+60	0 0	1-000	60-00
+
+
+		Střed 61-49	
+
+
+Tab. Xe.
+
+
+Resonator: 61. 12-8 cm.} Vzdálenost stínítka: cm. Otvor stínítka:
+
+
+f	a	sec a	/• sec
+
+
+cm			
+
+
+20	80°24'	5-996	119-92
+
+
+30	73 6	3-440	103-20
+
+
+40	65 28	2-409	96-36
+
+
+50	56 52	1-830	91-50
+
+
+60	50 4	1-558	93-48
+
+
+70	41 49	1-344	94-08
+
+
+80	33 57	1-206	96-48
+
+
+90	25 22	1-106	99-54
+
+
+100	1457	1-035	10350
+
+
+110	646	1-007	110-77
+
+
+		Střed 100-88	
+
+
+XXIX. ﻿40
+
+
+Tab. Xf. Resonator: 60. 10*6 cm.) Vzdálenost stínítka: cm. Otvor stínítka:
+
+
+r	a	sec «	r sec
+
+
+cm			
+
+
+20	71°15'	3-111	62-22
+
+
+30	61 9	2-072	62-16
+
+
+40	48 21	1-505	60-20
+
+
+50	32 9	1-181	59-05
+
+
+60	930	1014	60-84
+
+
+		Střed 60-87	
+
+
+Tab. XIa.
+
+
+Resonator: 15. 2*64 cm.)
+
+
+Vzdálenost stínítka oscillatoru: cm. Otvor stínítka: cm. (Oscillator nebyl naplněn olejem.)
+
+
+r	«	sec a	r sec
+
+
+cm			
+
+
+20	73044'	3570	71-40
+
+
+30	67 56	2-662	79-86
+
+
+40	5925	1-965	78-60
+
+
+50	53 6	1-665	83-25
+
+
+60	4452	1-411	84-66
+
+
+70	3558	1-235	86-45
+
+
+80	17 34	1-049	83-92
+
+
+		Střed 81-16	
+
+
+Tab. XIb.
+
+
+Resonator: 36. (A, 27'0 cm.) Vzdálenost stínítka: cm. Otvor stínítka: (Oscillator nebyl naplněn olejem.)
+
+
+r	a	sec «	r sec
+
+
+cm			
+
+
+20	76°12'	4-192	83-84
+
+
+30	7039	3018	90-54
+
+
+40	6451	2-353	88-12
+
+
+50	6027	2-028	101-40
+
+
+60	55 27	1-763	105-78
+
+
+70	50 6	1-559	108-13
+
+
+80	43 24	1-376	110-08
+
+
+90	36 12	1-239	111-51
+
+
+100	26 33	1-118	111-80
+
+
+		Střed 101-24	
+
+
+XXIX. ﻿41
+
+
+Tab. XIC.
+
+
+Resonator: 30. cm.)
+
+
+Vzdálenost stínítka oscillatoru: cm. Otvor stínítka: —15 cm. (Oscillator nebyl naplněn olejem.)
+
+
+Tab. XId.
+
+
+Resonator: 30. Vzdálenost stínítka cm. Otvor stínítka: (Oscillator nebyl naplněn olejem.)
+
+
+r	«	.rč<; «	-*«,.
+
+
+20	44° 6'	1-393	27-86
+
+
+25	35 21	1-226	30-65
+
+
+30	32 3	1-180	35-40
+
+
+35	12 3	1-023	35-80
+
+
+40	7 4	1-008	40-32
+
+
+		Střed 34-01	
+
+
+r	a	sec «	r sec
+
+
+cm			
+
+
+20	50°18'	1-566	31-32
+
+
+25	31 27	1-172	29-30
+
+
+30	11 15	1-020	30-60
+
+
+35	2 16	rooi	35-35
+
+
+		Střed 31-64	
+
+
+Tab. XIe.
+
+
+Resonator: 75. 19""4 cm.)
+
+
+Vzdálenost stínítka: cm. Otvor stínítka: cm. (Oscillator nebyl naplněn olejem.)
+
+
+r	rt	sec n	r sec
+
+
+cm			
+
+
+20	66°57'	2-554	51-08
+
+
+30	57 22	1-854	55-62
+
+
+40	48 33	1-511	60-44
+
+
+50	2742	1-129	56-45
+
+
+60	14 16	1-032	61-92
+
+
+		Střed 57-10	
+
+
+XXIX. ﻿42
+
+
+Tab. XIf.
+
+
+Resonator: 61. 12'8 cm.}
+
+
+Vzdálenost stínítka: cm. Otvor stínítka: j^—15 cm. (Oscillator nebyl naplněn olejem.)
+
+
+/•	«	sec a.	/- sec
+
+
+20	69°5ť	2-903	58-06
+
+
+30	6027	2-028	6084
+
+
+40	44 27	1-401 -	56-04
+
+
+50	21 33	1-075	5375
+
+
+		Střed 17	
+
+
+Tab.
+
+
+Resonator: 61. 12-8 cm.}
+
+
+Vzdálenost stínítka: cm. Otvor stínítka: cm. (Oscillator nebyl naplněn olejem.)
+
+
+r	«	sec fí	r sec
+
+
+cm			
+
+
+20	51°54' 1-621		32-42
+
+
+25	3450 1-218		30-45
+
+
+30	9 1-015		30-45
+
+
+35	0 rOOO		3500
+
+
+		Střed 32-08	
+
+
+Tab. XIh.
+
+
+Resonator: 90. cm.}
+
+
+Vzdálenost stínítka: cm. Otvor stínítka: cm. (Oscillator nebyl naplněn olejem.)
+
+
+r	a	sec n	r sec
+
+
+cm			
+
+
+20	42° 3'	1-347	26-94
+
+
+25	30 6	1-156	28-90
+
+
+30	12 15	1-023	3069
+
+
+35	1 44	1-000	3500
+
+
+		Střed 30-38	
+
+
+XXIX. ﻿43
+
+
+Výsledek překvapující; součin vzdálenosti relativní amplitudy ;-. sec takřka nemění. Ohyb zmizel skoro úplně aneb aspoň stlačen hranice chyb pozorování.
+
+
+-*tO -2O -ÍO -2O +30
+
+
+25. Konečně věnována část měření příčnému rozdělení síly aequa-tcrialní rovině. tomto případě jeví ohyb některých resonatorů ve-iice nápadně tím, vystupují dvě sekundární maxima souměrné obou stranách osy; jindy nastává jen prudké klesání amplitudy, vzdálíme-li málo osy.
+
+
+3=50
+
+
+Obr.
+
+
+Výsledky pokusů jsou sestaveny tab. XII*~f. přehledné vykresleny obrazcích.
+
+
+XXIX. ﻿44
+
+
+Tab. Xlla.
+
+
+Resonator 75. 19'4 c»i.)
+
+
+Vzdálenost stínítka oscillatoru: cm. Otvor stínítka: Vzdálenost resonatoru oscillatoru: cm.
+
+
+s	«	sec
+
+
+0	69° 5'	2-801
+
+
+10	6635	2-516
+
+
+20	67 23	2-600
+
+
+30	6344	2-260
+
+
+40	4241	1360
+
+
+45	17 24	1-048
+
+
+50	—	—
+
+
+Tab. XIIb.
+
+
+Resonator: 12. 13'2 o«.)
+
+
+Vzdálenost stínítka: cm. Otvor stínítka: cm. Vzdálenost resonatoru: cm.
+
+
+s	<i	~T sec
+
+
+0	53° 6'	1-666
+
+
+10	45 1-429	
+
+
+20	48 1-509	
+
+
+25	45 1-434	
+
+
+30	45 1-420	
+
+
+35	34 6	1-208
+
+
+40	10 1-015	
+
+
+45	1 1-001	
+
+
+—		
+
+
+Tab. XIIC.
+
+
+Resonator: 12. Vzdálenost stínítka: cm. Otvor stínítka Vzdálenost resonatoru: cm.
+
+
+7'5 cm.
+
+
+s	«	sec
+
+
+cm		
+
+
+0	60° 7'	2.007
+
+
+10	3923	1-294
+
+
+20	7 34	1-009
+
+
+25	—	—
+
+
+XXIX. ﻿45
+
+
+Tab. XIId.
+
+
+Resonator: 61. (ÁzzlO'6 cm.}
+
+
+Vzdálenost stínítka: cm. Otvor stínítka: rr: cm. Vzdálenost resonatoru: cm.
+
+
+s	«	sec
+
+
+0	57°19'	1-852
+
+
+10	49 50	1-550
+
+
+20	44 21	1-398
+
+
+30	25 59	1-112
+
+
+40	4 1	1-002
+
+
+±45	—	
+
+
+Tab. XIIe.
+
+
+Resonator: 90. (í. 9'0 cm.) Vzdálenost stínítka: on. Otvor stínítka: Vzdálenost resonatoru cm.
+
+
+=:15 cm.
+
+
+s	r<	sec
+
+
+cm		
+
+
+0	66°28' 2504	
+
+
+10	57 .	1-868
+
+
+20	56 1'799	
+
+
+±30	46 6	1-442
+
+
+40	38 50	1-284
+
+
+50	1 TOOO	
+
+
+60	—	—
+
+
+Tab. XII1.
+
+
+Resonator: 90.
+
+
+Vzdálenost stínítka: cm. Otvor stínítka: R—T5 cm. Vzdálenost resonatoru: cm.
+
+
+s	r<	sec
+
+
+cm		
+
+
+0	72°54'	3-401
+
+
+10	66 2	2-462
+
+
+20	31 3	1-167
+
+
+25	1636	1-038
+
+
+30	349	1'002
+
+
+XXIX. ﻿46
+
+
+VI. Elektrické pole vytvořené parabolickým reflektorem.
+
+
+26. vůli sesílení účinku staví oscillator návodu Hertzovu ohniska parabolického zrcadla, při čemž obyčejně mlčky předpokládá, poměry jsou tytéž jako optice. Podotkl sice již Hertz24), lze snadno vyvolati zjevy, které nasvědčují ohybu, ale nepodařilo dokázati maxima minima, věc jinak nedošla valné pozornosti.
+
+
+Obr. 10.
+
+
+Pomocí přístrojů Righiho není nesnadno vyšetřiti, jak mění elektrické pole následkem přítomnosti reflektoru, doplniti tomto směru pokusy Hertzovy.
+
+
+Reflektor (obr. 10.) byl zhotoven pocínovaného železného plechu, 0'5 silného, který byl přibit dřevěné, přesně parabolické kostře.
+
+
+Untersuchungen, str. 189.
+
+
+XXIX. ﻿47
+
+
+parabola mela ohniskovou dálku cm, hloubku cm, šířku otvoru cm, výška reflektoru obnášela cm. Pomocí tří stavěčích šroubů bylo lze (Ostaviti reflektor svisle.
+
+
+27. První měření provedl jsem dvěma shodnými resonaty: 26*2 většina výsledků byla získána resonatorem 20., který však náhodou rozbil dříve, než bylo měření skončeno, takže bylo třeba
+
+
+
+
+
+Obr. 11.
+
+
+nahraditi resonatorem 27. štěstí úplně shodným. Tab. XIII. ukazuje, jak amplituda klesá podél osy reflektoru; znázorníme-li hodnoty, posledního sloupce křivkou, obdržíme obrazec skoro týž jako níže obr. 14. Tab. XIVa~g. udávají příčné rozdělení jednotlivých vzdálenostech otvoru reflektoru. Pro větší přehlednost jsou obr. 11. výsledky graficky zobrazeny zároveň označeny malými kroužky amplitudy skutečně pozorované, aby bylo patrno jak málo odchylují pravidelného rozdělení.
+
+
+XXIX. ﻿48
+
+
+Tab. XIII.
+
+
+Resonator: 27.
+
+
+r	«	sec í(	A proč.
+
+
+40	80° 5'	5-807	100-0
+
+
+80	75 3	3-876	66-8
+
+
+120	69 19	2831	48-8
+
+
+160	64 4	2-287	39-4
+
+
+200 23		1-855	31-9
+
+
+240	49 14	1-531	26-4
+
+
+280 55		1-285	22'1
+
+
+320 2		1-180	20-3
+
+
+360 20		1-048	18-1
+
+
+400 30		1-009	17-4
+
+
+Tab. XIVa.
+
+
+Resonator 27. 26""2 cm.} Vzdálenost otvoru reflektoru: cm.
+
+
+s	a	sec
+
+
+cm		
+
+
+0	83° 8-245	
+
+
+10	81 40	6-900
+
+
+±20	78 29	4952
+
+
+30	68 48	2-765
+
+
+±37	4243	1-361
+
+
+Tab. XIVb. Resonator: 20. 26-2 cm.) Vzdálenost: cm.
+
+
+X	a	sec
+
+
+cm		
+
+
+0	82°44' 7-906	
+
+
+5	82 7-695	
+
+
+10	82 3	7-230
+
+
+±20	79 1	5-249
+
+
+±30	69 2-842	
+
+
+40	4432 1-403	
+
+
+±46	1343	1-029
+
+
+XXIX. ﻿49
+
+
+Tab. XIVC.
+
+
+Resonator: 20. Vzdálenost: cm.
+
+
+s	«	sec
+
+
+0	80°30'	6-059
+
+
+±10	79 15	5-361
+
+
+±20	7540	4-039
+
+
+±30	67 6	2-570
+
+
+±40	5540	1-773
+
+
+±50	37 12	1-255
+
+
+±60	6 56	1-007
+
+
+Tab. XIVd. Resonator: 20. Vzdálenost: cm.
+
+
+s	K	sec
+
+
+0	76° 1'	4-138
+
+
+10	74 3-734	
+
+
+±20	72 19	3-292
+
+
+49		2540
+
+
+±40	57 25	1-857
+
+
+±50	4447 1-409	
+
+
+±60	33 1-195	
+
+
+±70 1-053		
+
+
+Tab. XIVe.
+
+
+Resonator: 27. Vzdálenost: 120 cm.
+
+
+s	a	sec
+
+
+0	70° 2'	2-928
+
+
+±10	69 16	2-825
+
+
+±20	67 2-589	
+
+
+±30	6423	2-313
+
+
+±40	59 1-950	
+
+
+±50	4651	T462
+
+
+±60	3635	1-245
+
+
+±70	23 31	1-091
+
+
+±80	1 24	rooo
+
+
+Rozpravy: Ročn. IX. Tř. II. 29.
+
+
+XXIX. ﻿50
+
+
+Tab. XIVf.
+
+
+Resonator: 20. Vzdálenost: 160 cín.
+
+
+s	K	sec
+
+
+0	67° 4'	2-566
+
+
+±10	6640	2525
+
+
+54		2-449
+
+
+53		2-194
+
+
+±40	57 53	1-881
+
+
+±50	48 46	1-517
+
+
+±60	35 2	1-221
+
+
+±70	11 14	1-020
+
+
+Tab. XVK
+
+
+Resonator 20. Vzdálenost: 320 cm.
+
+
+s	a	sec
+
+
+0	32° 1'	1-179
+
+
+1-157		
+
+
+±20	2631 1-118	
+
+
+±30	23 1-087	
+
+
+±40	14 7	1031
+
+
+blízkosti oscillatoru mají křivky uprostřed význačné maximum, 2o) které splošťuje větších vzdálenostech, konečně křivka amplitudová přechází přímku; zároveň ukazují obou stranách body obratu, jichž odlehlost osy pravidelně roste, vzdaluje-li resonator reflektoru; posléze zvětšuje šířka pole jisté maximum. Všechno poukazuje tomu, jde zjevy ohybové: bylo lze čekati další maxima mimo osu při užití resonatorů kratší délce vlny.
+
+
+4S) předběžné studii uveřejněné Rozpravách České Akademie, tř. II. roč. VIII. 1899. číslo 42. jest křivka str. uprostřed mnohem strmější nežli tomto pojednání. Příčinou toho jest, jsem tehdy vyšetřoval pole pomocí resonatorů opatřeného rovněž parabolickým reflektorem, čímž vznikaly nové úkazy ohyhu; aby obdržel ohyb jen zrcadla oscillatoru, musí měřit resonatorem bez reflektoru.
+
+
+XXIX. ﻿51
+
+
+28. Tato naděje nesklamala; jak vysvítá tab. XV. XVI ab. XVII abc. obr. 12. 13., mají resonatory: (K— 12'6 cm\ (A=ll'3«w)
+
+
+OC~6O
+
+
+9'0 í;;/J sekundární maxima, která rostoucí vzdáleností poši-nují stále osy, konečné zmizí.
+
+
+XXIX. ﻿Tab. XV.
+
+
+Resonator: 28. 12'6 cm.} Vzdálenost otvoru reflektoru: cm.
+
+
+Resonator: 46.
+
+
+s	n	sec
+
+
+0	60°21'	2021
+
+
+5	58 40	1 923
+
+
+10	4023	T313
+
+
+15	1642	1044
+
+
+20	19 52	1-063
+
+
+25	38 2	1-270
+
+
+30	41 48	1-341
+
+
+35	3540 1-231	
+
+
+40	16 045	
+
+
+42	1 1-000	
+
+
+45	—	—
+
+
+Tab. XVIa.
+
+
+11-3 cm. Vzdálenost otvoru reflektoru: cm.
+
+
+s	n	sec
+
+
+0	55°35'	1-769
+
+
+5	45 1-426	
+
+
+10	31 1-176	
+
+
+15	857	1-012
+
+
+20	1 33	i-ooo
+
+
+25	26 9	1-114
+
+
+00		1-000
+
+
+35	—	—
+
+
+Tab. XVIb.
+
+
+Resonator: 46. Vzdálenost: cm.
+
+
+s	n	sec
+
+
+0	45°31'	1-427
+
+
+5	3657	1-251
+
+
+10	447	1-004
+
+
+15	0 18	1-000
+
+
+20	—	—
+
+
+25	—	—
+
+
+30	054	i-ooo
+
+
+35	—
+
+
+XXIX ﻿53
+
+
+Tab XVIIa.
+
+
+Resonator: 90. 9'0 cm.) Vzdálenost otvoru reflektoru: cm.
+
+
+s	«	sec
+
+
+76C51'		4-396
+
+
+7644		4358
+
+
+10	75 59	4-129
+
+
+15	71 12	3'103
+
+
+4-20	65 14	2-387
+
+
+25	67 2	2-563
+
+
+.0	64 19	2-307
+
+
+35	54 0	1-701
+
+
+40	3455	1-220
+
+
+45	—	—
+
+
+Tab. XVIIb.		
+
+
+Resonator 90. Vzdálenost cm.		
+
+
+s	«	sec
+
+
+s	«	sec
+
+
+0	71°19'	3-122
+
+
+10	6635	2516
+
+
+20	48 46	1-517
+
+
+25	36 0	1-236
+
+
+30	44 0	1390
+
+
+±35	49 6	1527
+
+
+40	43 0	1-367
+
+
+±50	9 57	1-015
+
+
+60	—	—
+
+
+Tab. XVIIC.
+
+
+Resonator: 90. Vzdálenost: cm.
+
+
+s	«	SCC
+
+
+65°52' 2-446		
+
+
+1-883		
+
+
+2738 1129		
+
+
+30	—	—
+
+
+XXIX. ﻿54
+
+
+Tab. XVIII.
+
+
+Resonator: 48. 22'8 cm.) Vzdálenost otvoru reflektoru cm.
+
+
+s	f<	sec
+
+
+0	79°38'	5-557
+
+
+5	79 26	5-453
+
+
+10	78 37	5-067
+
+
+20	7422 3-711	
+
+
+30	7050	3-046
+
+
+35	66 2-501	
+
+
+40	56 34	1-815
+
+
+45	37 T263	
+
+
+±50	—
+
+
+Zvláště pěkný případ resonatorů 46. (tab. XVIb.), kde jiskry resonatorů zmizí vzdálenosti osy, znova objeví cín dále.
+
+
+Přesný vztah mezi délkou vzdáleností sekundárních maxim tabulek neplyne, jen ukazuje, při kratších vlnách resonatorů leží maximum blíže osy. vůli kontrolle provedeno měření resonatorem 22'8 cm), něhož druhé maximum nevyvine ani blízkosti reflektoru.
+
+
+29. tab. XIII. není dosti jasno, jaký vliv perioda resonatorů ubývání amplitudy kmitů směru osy reflektoru; domnívaje se, tato závislost vynikla lépe při kratších resonatorech, podnikl jsem řadu měření, jichž výsledek byl neočekávaný. Resonatory jakékoli vlnité délky chovají zcela stejně: rozdělení amplitudy ose nezávisí vůbec periodě užitého resonatorů.
+
+
+Pokusy byly provedeny nanejvýš pečlivě; pro každou délku vlny zvoleno několik, pokud možno shodných, resonatorů, takže střední hodnoty těchto pozorování jsou určeny velikou zevrubnosií.
+
+
+Jednotlivé délky vlny obnášely.
+
+
+26-9 (tab. XIXa-d.), 20-4 XXa-d.), 13-0 XXIa-c.), A.t 10-8 XXIIa-d.), 7-2 XXIIIa-d.).
+
+
+XXIX. ﻿55
+
+
+Průměrné hodnoty, plynoucí třetího sloupce těchto tabulek, jsou zaneseny obr. 14.
+
+
+1OO
+
+
+Obr. 14.
+
+
+Tab. XIXa.
+
+
+Resonator: 15. (/. 26-4 cm.}
+
+
+r	«	SCC n	A proč.
+
+
+cm			
+
+
+5	84°54'	11-249 100-0	
+
+
+10	84 8	9783 87-0	
+
+
+20	82 53	8072 718	
+
+
+30	81 20	6636 59-0	
+
+
+40	79 35	5-531	49-1
+
+
+50	78 2	4-823	42-0
+
+
+60	77 11	4508 40-1	
+
+
+80	73 38	3-549	31-6
+
+
+100	7044	3-031	270
+
+
+XXIX ﻿56
+
+
+Tab. XIXb. Resonator: 22. (l=.2T4 cm.*)
+
+
+r	«	sec a	A proč.
+
+
+Cm			
+
+
+5	84°50' 11-104		1000
+
+
+10	84 5	9-701	883
+
+
+20	82 37	7-782	70-1
+
+
+30	81 7	6476	08-3
+
+
+40	79 50	5-665	510
+
+
+50	78 10	4-877	43-9
+
+
+60	76 4-305 38'8		
+
+
+80	73 507		31-6
+
+
+100	69 919 26'3		
+
+
+Tab. XIXC.
+
+
+Resonator: 32. 26'8.)
+
+
+Tab.
+
+
+Resonator: 36. 27'0
+
+
+r	a	sec «	A proč.
+
+
+5	84°19'	i 10-098 100-0	
+
+
+10	83 37	8-994	89-1
+
+
+20	8249	7997	79-2
+
+
+30	81 45	6-969	69-0
+
+
+40	7947	5-638	55'8
+
+
+50	78 53	5-187	51
+
+
+60	77 8	4-491	44-5
+
+
+80	75 26	3-976	39-4
+
+
+100	72 12	3271	32-4
+
+
+/•	n	sec n	A proč.
+
+
+cm			
+
+
+5	83°38'	9-018	1000
+
+
+10	8240	7-834 86-9	
+
+
+20	81 22	6-662 73'9	
+
+
+30	80 3	5787 64-2	
+
+
+40	78 51	5-171 573	
+
+
+50	7644	4-358 48-3	
+
+
+60	75 20	3950	43-8
+
+
+80	72 23	3-304	36-6
+
+
+100	70 11	2950 32-7	
+
+
+XXIX. ﻿57
+
+
+Tab. XX».
+
+
+Resonator: 23. —22-Q cm.}
+
+
+/•	ne	SCC M	A proč.
+
+
+cm			
+
+
+5	77040'	4682 1000	
+
+
+10	77 21	4-566 975	
+
+
+20	75 19	3-945 85-1	
+
+
+30	72 49	3385 72-3	
+
+
+40	7039	3-018 64-5	
+
+
+50	68 29	2-726 58-2	
+
+
+60	6631	2 509 53'6	
+
+
+24		2-158 46-1	
+
+
+100 59		1-835 392	
+
+
+Tab.		XXb.	
+
+
+Resonator 44		. 20-7 cm.)	
+
+
+r	fi	sec: ri	A proč.
+
+
+cm		j
+
+
+78°32'		5030 100-0	
+
+
+39		5081 101-0	
+
+
+50		4086 81-2	
+
+
+34		3535 70-3	
+
+
+28		3-146 62-5	
+
+
+'		2853 56-7	
+
+
+44		2-639 525	
+
+
+58		2-200	43-7
+
+
+100 19		2019	40-1
+
+
+Tab.		XXC.	
+
+
+Resonator 75		. 19'4 cm.}	
+
+
+r	n	sec ft	A proč.
+
+
+cm			
+
+
+5	82°25'	7-578	100-0
+
+
+3		7230	95-4
+
+
+7		5-826	76-9
+
+
+30	79 3	5265	69-5
+
+
+40	77 52	4-758	62-8
+
+
+50	7632	4-294	56-7
+
+
+60	74 19	3-699	48-8
+
+
+80	71 8	3-093 40-8	
+
+
+100	68 1	2-671 35-2	
+
+
+XXIX. ﻿58
+
+
+Tab. XXd.
+
+
+Resonator: 76. l<?-5 cm.)
+
+
+r	<i	SCC n	A proč.
+
+
+cm			
+
+
+5	81°52'	7-068	1000
+
+
+10	82 2	7-215	102-2
+
+
+20	80 9	5-846	82-7
+
+
+30	78 36	5-059	71-6
+
+
+40	76 50	4-390	62-1
+
+
+50	75 12	3-915	55-4
+
+
+60	7346	3-577	50-6
+
+
+80	71 3-100 439		
+
+
+100 2-639 37'4			
+
+
+Tab. XXIa.
+
+
+Resonator: 10. 12'8 cm.)
+
+
+r	fl	.\'í'C fí	A proč.
+
+
+cm			
+
+
+5	/5°ir	3-910	100-0
+
+
+10	73 42	3-563	91-1
+
+
+20	7032	3'001	76-7
+
+
+3		2-207	56-7
+
+
+40	6033	2-034	520
+
+
+50	5344	1 691	433
+
+
+60	51 1	1-590	40-7
+
+
+80	41 59	1-345	34-4
+
+
+100	26 1	1-113	28-5
+
+
+Tab. XXIb.
+
+
+Resonator 12. (/. 13-2 cín.)
+
+
+r	n	sec «•	A proč.
+
+
+cm			
+
+
+5	75° 4'	3-881	1000
+
+
+10	73 3-610		93-0
+
+
+20	68 2-782		71-7
+
+
+30	66 25	2-500	644
+
+
+40	62 59	2-201	56'7
+
+
+50	6038	2-039	52-5
+
+
+60	5650	1-828	47-1
+
+
+80	49 1-528		394
+
+
+100	3543 1232		31-7
+
+
+XXIX. ﻿59
+
+
+Tab. XXIC.
+
+
+Resonator: 73. (Á—13'0 cm.)
+
+
+;	rt	sec n	A proč.
+
+
+cm			
+
+
+5	73°14'	3-467	100-0
+
+
+10	72 27	3-316	95-7
+
+
+20	6921	2-836	81-8
+
+
+30	63 42	2-257	65-1
+
+
+40	61 23	2-088	60-2
+
+
+50	57 31	1-862	53-7
+
+
+60	53 13	1-670	48-2
+
+
+80	47 14	1473	425
+
+
+100	33 58	1-206	34-8
+
+
+Tab. XXII"".
+
+
+Resonator: 13. (/. :z; iro cín).
+
+
+r	n	sď n	A proč.
+
+
+cm			
+
+
+5	64°50' 2-352 100'0		
+
+
+10	60 2-046 87'0		
+
+
+20	57 1-878 79'8		
+
+
+30	54 11	1-709 72-7	
+
+
+40	44 1-392 59-2		
+
+
+50	35 12	1224 52-1	
+
+
+60	30 22	1-159	49-3
+
+
+80	7 0	1-008 42-9	
+
+
+Tab. XXII1'.
+
+
+Resonator: 14. —10'6 cm.)
+
+
+r	rť	sec rt	A proč.
+
+
+cm			
+
+
+5	66°44'	2532 100-0	
+
+
+58		2-278 900	
+
+
+20	6028	2029	80-1
+
+
+30	51 51	1-619	64-0
+
+
+40	47 5	1-469	58-0
+
+
+50	41 20	1-332	526
+
+
+60	30 31	1-161	45-9
+
+
+80	425	1-003	39-6
+
+
+XXIX. ﻿60
+
+
+Tab. XXIF.
+
+
+Resonator: 71. (/i-rzlO'9 c»i)
+
+
+r	«	SCC n	A proč.
+
+
+cm			
+
+
+5	67°36'	2-624	100-0
+
+
+10	6645	2-533	96-5
+
+
+20	62 3	2-134	81-3
+
+
+30	59 8	1-949	72-0
+
+
+40	51 30	1-606 61-2	
+
+
+50	41 36	1-337 509	
+
+
+60	32 10	1-181	450
+
+
+80	7 1-009 5		
+
+
+Tab. XXIId.
+
+
+Resonator: cm.)
+
+
+r	u	SCC n	A proč.
+
+
+cm			
+
+
+70°2ť 2-974			100-0
+
+
+2-829			95-1
+
+
+2-451			82-4
+
+
+2-121			71-3
+
+
+862			626
+
+
+1-684			56-6
+
+
+57		1 523	51-2
+
+
+80	41 11	1329	44-7
+
+
+Tab. XXIII"".			
+
+
+Resonator 77. 7'0 on).			
+
+
+r	«	sec n	A proč.
+
+
+cm			
+
+
+5	60°32'	2-033 100-0	
+
+
+52		1-880 92-5	
+
+
+20	5041	1-578	77-7
+
+
+			
+
+
+30	4035	1-317	648
+
+
+40	20 22	1-067	52-5
+
+
+0		1-000 49-2	
+
+
+XXIX. ﻿61
+
+
+Tab. XXIII1'.
+
+
+Rcso:iator: 78. (/. 7'2 cm.)
+
+
+r	n	sec n	A proč.
+
+
+cm			
+
+
+62°35'		2-172	1000
+
+
+51		2120	97-6
+
+
+34		1-725	795
+
+
+1-451			669
+
+
+40	3558 1-236		569
+
+
+50	2848 1-130		52-0
+
+
+Tab. XX1IIC.			
+
+
+Resonator: 79. 7-4 cm.}			
+
+
+r	n	SCC f(	A proč.
+
+
+cm			
+
+
+66°20' 2491			100-0
+
+
+2-402			96-5
+
+
+20	60 056		82-5
+
+
+30	54 1-724		69-3
+
+
+40	48 1-501		60-3
+
+
+50	4441	1-407	54'8
+
+
+Tab. XXIIK			
+
+
+Resonator 80. 7'2 cm.)			
+
+
+r	rt	sec n	A proč
+
+
+cm			
+
+
+67°54'		2658	100-0
+
+
+2-520			948
+
+
+52		2054 773	
+
+
+30	56 5	1-792	67-4
+
+
+40	4449	1-410 53-0	
+
+
+50	40 1-312		490
+
+
+Vyložiti tyto záhadné zjevy nepodaří, dokud nebude vypracována theorie rcsonatoru základě Maxwellových rovnic; hlavním důvodem, proč nevznikají ose maxima minima, jest asi silný útlum oscillatoru.
+
+
+Praze, květnu 1900.
+
+
+XXIX. ﻿*"

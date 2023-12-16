@@ -1,0 +1,1325 @@
+"","x"
+"1"," ﻿ROČNÍK V.
+TŘÍDA II.
+ČÍSLO 41.
+Theoretické úvahy
+o komplikovaných kmitech elektrických, zejména o pokusech Geitlerových.
+Píše Prof. Dr. Fr. Koláček.
+(S 9 vyobrazeními.)
+Předloženo  dne  16.   října  1896.
+Podnět k následující studii theoretické daly mi zajímavé výsledky pozorování pana Dr. Josefa rytíře Geitlera z Armingen uveřejněné v pojednáních:
+a)   »Uber Reflexion elektrischer Dratwellen* (Wiedemann's Annalen der Physik und Chemie, sv. 49, p 184, 1893, výňatek z Bonnské dissertace inaug.),
+b)   »Schwingungsvorgang  in  complicirten  Erregern   Hertzscher Wellen.« (II. Mittheilung.) Sitzber. der kaiserl. Akademie der Wissenschaften in Wien, math.-naturw. Classe, sv. 104, p. 994, 1895, též Wiedemann's Annalen sv. 57, p. 412, 1896.
+V práci b), provedené ve fysikalním institute zdejší německé university, studuje pan Geitler průběh elektrických oscillací v systému vodičů podobné uspořádaných jako při známých pokusech Lecherových. Rozdíl jest ten, že na místo dvou rovných drátů, které v primárním vedení Lecherově desky kondensátorové pomocí jiskrové mezery spojují, nastupují dráty tvořící tři strany podlouhlého otevřeného obdélníka s jiskrovou mezerou uprostřed strany kratší. Oscillace se analysují resonatorem (jenž se skládá ze dvou velmi dlouhých drátů s jedné strany rovnoběžně napjatých nad dráty vodiče primárního) tím způsobem, že se most drátový tak dlouho po něm posouvá, až vhodně konstruovaný elektrometr na koncích drátů resonatorových udává maximum výchylky.
+Proti obecně rozšířenému náhledu, že v primárním vodiči vzniká jen jedna oscillace, která se s nezměněnou frekvencí šíří po vedení sekundárním, shledává pan Geitler při dané poloze mostu vétXi počet oscillací, zdánlivě závislý jak na okolnosti právě uvedené tak i na distanci desk kondensátorových a sice tak, že se větším stává netoliko sblížením desk, nýbrž i prodloužením
+Ro«pr«vy. Ročník V. Třída II.                                                                                         l
+XLI. ﻿sekundárního vedení. Stopuje-li se určitá oscillace nepřetržitě a prodlužuje-li se zároveň sekundární vedení, tedy roste nepřetržitě její délka vlny, avšak intensita jen až po jisté maximum, po jehož překročení silně klesne. I jiné ještě pravidelnosti, k jichž poznání mne theorie vedla, lze tu konstatovati: při dané poloze mostu má na př. určitá oscillace maximum, které se při prodlužování sekundárního vedení posunuje k oscillaci řádu vyššího (vlny kratší).
+Pan Geitler hleděl nejdůležitější výsledek svých pozorování, t. j. vystupování většího počtu oscillaci, theoreticky vysvětliti pomocí úvah, v podstatě pocházejících od prof. Jaumanna, které vzdor zajímavosti problému přece jen žádného vztahu k věci nemají. Počet oscillaci není, jak toho theorie Geitler-Jaumannova požaduje, konečným, nýbrž nekonečně velikým a odpovídá všem parcialným kmitům, jichž systém schopen jest. Příslušné délky vln závisejí tu na délce vedení sekundárního rovněž jako intensity jejich, které majíce hodnotu poněkud větší jen pro některé kmity vzbuzují domněnku, jako by byl počet oscillaci konečným.
+Theorie, kterou zde podávám, vychází z přísných rovnic Maxwellových, k vůli pozdější potřebě ve vší stručnosti i odvozených, a vztahuje se k vodičům v abstrakci nekonečně dobrým, což vždy dovoleno jest, jedná-li se o frekvenci a nikoliv o logarithmické dekrementy oscillaci. V první řadě probrán jest výklad pohybu elektrického podél drátů Lecherových na obou stranách nekonečných, pak vliv konečnosti způsobený přítomností mostů a kondensátorů.
+Jak praecisně platí rovnice Maxwellovy, dokazuje applikace na jeden z pokusů Lecherových, při kterém podmínky theorie zevrubně splněny jsou J délka vlny měřené se liší od délky theoretické jen o V2°/o> zároveň to důkaz, že longitudinaíní vlny, k nimž vede Helmholtzovo rozšíření rovnic Maxwellových, ve skutečnosti neexistují.
+I v Geitierových pokusech s podmínkami theorii méně příznivými souhlasí vypočtené délky s theoretickými až na málo procent. Druhá nesnadnější část problému vztahuje se k rozdělení intensity na jednotlivé kmity parciální, které jest jednoznačně předepsáno stavem systému v okamžiku, kdy jiskra skočí. Pomocí jistého všeobecného theoremu povede se úlohu tuto zcela všeobecné řešiti podobně, jak se pomocí vět Fourierových určují konstanty v řadách jméno jeho nesoucích.
+Theorie zde provedená souhlasí v nejjemnějších detailech se zkušenostmi pana Geitlera.
+V prvé (a) z uvedených prací, provedené v institutu prof. Hertze v Bonnu, líčí pan Geitler zajímavé zjevy reflexe vln elektrických, které nastanou, jestli se Lecherovy dráty zúží neb rozšíří, jestli se tlouštky drátů v jedné polovici systému změní, jestli se vloží kondensátor a podobné.
+I zde podává theorie jednoduchý detailovaný výklad zjevů prozatím jen po kvalitativní stránce pozorovaných, a dá se zajisté rozšířiti i na jiné případy, které se dosud rovněž jen experimentálně studují, jako na př. na pozorování, která v tom oboru koná pan Mazotto (Beibl. p. 561, sv. 20, 1896).
+XLI. ﻿Rovnice Maxwellovy.
+Pravá podstata mechanismu ovládajícího síly elektromagnetické, jehož výrazem jsou rovnice Maxwellovy, jest neznáma a zajisté má Hertz pravdu s výrokem, že jednáme nejjednodušeji a logicky nejsprávněji, považujíce rovnice ty za poznatek prvotní, který třeba postaviti v čelo nauky o elektřině a magnetismu.
+Po stránce historické vznikly rovnice Maxwellovy na půdě starší theorie, jež vychází z praemissy o okamžitém účinku do dálky, a doposud se od-poručuje vzdor paradoxnosti praemissy heuristické vyvozování rovnic Max-wellových již proto, že názorností svou dovoluje mnohdy rychlejší orientaci v případech komplikovanějších.
+Se zřetelem na pozdější potřebu budiž toto odvození v hlavních rysech zde vytknuto.
+V starší theorii má elektrický proud význam toku jistého fluidu elektrického, nezničitelného a neproměnlivého, zdánlivě mizícího, kompensují-li se účinky jeho účinkem fluida protivného. Tatáž theorie zná jen proudy kon-dukční, jedině možné v látkách vodivých. Jich souvislost se silou elektrickou udává zákon Ohmův ve formě
+(«,, v i, w\  komponenty kondukčního proudu skrz jedničku plošnou, X> Y, Z složky   síly  elektrické na kladnou jedničku  elektrickou,   k specif.  vodivost).
+Kondukční proudy Ohmový mají v zápětí síly magnetické, jejichž rozdělení a intensitu za známé považovati můžeme u proudů uzavřených. Proudy prostorově rozdělené rozložíme na proudová vlákna o intensitě ve všech místech vlákna stejné, a chceme o nich předpokládati, že buď jdou z nekonečna do nekonečna aneb že jsou v sobě uzavřena. Práce magnetických sil na dráze uzavřené, která vlákno jednou obepíná, rovná se 4?r-násobné intensitě proudové, vyměřené způsobem elektromagnetickým. Směr oběhu kol periferie průřezu vláknového jest protivným k směru rafiky hodinové, čítáme-li směr proudu positivně. Řečený výrok platí nezávisle na magnetické suscepti-bilitě media a jest zároveň elektromagnetickou definicí proudu, která nám dovoluje se zbaviti představy, že proud jest tokem jakéhos fluida, jakési prius, a magnetická síla jeho následkem.
+Applikujíce tuto větu na malý obdélník se stranami k osám / a s rovnoběžnými, obdržíme prvou a podobně dvě druhé rovnice
+=--
+4nw = ?_L_
+(1)
+M, N složky síly magnetické).
+XLI. ﻿Důmyslnou a pozdějšími pokusy Hertzovými potvrzenou hypothesou povedlo se Maxwellovi i proudy zdánlivě otevřené redukovati na proudy uzavřené. K vůli snazšímu porozumění budiž uvedeno následující.
+Představme si dvě rovnoběžné, na všech stranách do nekonečna sáhající desky o distanci d a ploše F. Levá z nich jest na elektrostatickém potenciálu P1 , pravá na potenciálu P9 , takže v míře elektrostatické náboj na prvé z desk udán jest vzorcem
+F K
+při čemž K označuje dielektrickou konstantu media obsaženého mezi oběma deskama kondensátoru. Do levé ústí drát, v němž jest (rovněž v míře elektrostatické udaný) proud taž pravé vychází druhý drát, v němž běží proud téže intensity.
+Vycházejíce z principu o zachování množství elektrického, který dle zkušenosti svou platnost podržuje, byť se i změnily naše představy jak o podstatě proudu tak i o podstatě fluida elektrického, máme
+,    neb klademe-li F K    IX
+Levá  strana  této  rovnice jest  proudem  kondukčním,   který jeví   vlastnosti magnetické; pravá strana jest co do dimensí mathematických rovněž proudem,
+K     3X který skrz jedničku plošnou obnáší —— . -=y-.
+Maxwell učinil nyní hypothesu, že výraz právě napsaný, tak zv. indukce elektrostatická, to jest součin z 4?ř-tého dílu konstanty dielektrické (čísla) a z rychlosti, kterou se elektrická síla v dielektriku mění, jest, i co do účinku magnetického, proudem úplně ekvivalentním proudu Ohmovu. Složky tohoto proudu posunutí, proudu »of displacement«, obnáší pak v libovolném místě prostoru
+_K_    *X_          K^    *Y_          K      *Z
+4T*      O/ '        4n '   Ot '        4.n      O/
+Součet z obou proudů, kondukčního »,, vl, wl a z proudu posunutí, jež oba v mediu, jak vodivém tak dielektrické polansace schopném vedle sebe existovati mohou, nazývá se proudem úplným (total current), jeho složky jsou
+K   IX  ,                        K   OK   .                        K   OZ
+---------____l_ 2/   j            <y —•____________L <y              ifi —------------------U ID. .
+O /                                  4^r    O t
+u =
+4*
+±n
+a vyhovují, jak snadně dokážeme ze zdánlivě jasnějšího principu  zachování množství elektrického, rovnici kontinuity
+3 U        3 V     ,    3 W                                                         /tii
+XLI. ﻿Dle vety Poissonovy, Maxwellem*) rozšířené, jest množství náboje v určitém prostoru (jehož differencial jest dr) určeno množstvím elektrostatické indukce, z něho vystupující, tedy výrazem
+D     KX\       D      KY\       O   / KZ
+Vzrost jeho v čase dt
+J   T D   (K
+J     L^ U^
+J                     J
+jest současně roven onomu množství, jež kondukčním proudem stěnami prostoru vniká, tedy roven výrazu
+— dt \ dm (»t cos n x -f- ^i cos «jj/ -J- Wj cos n z) , neb dle Greenovy věty výrazu
+Odtud jde bezprostředně
+(3)
+Jest tedy věta o kontinuitě totálního proudu jen parafrasou věty o zachování kvantu elektrického.
+Představíce si malou plochu, jejíž okrajem vedeme kratinké čáry rovnoběžné k úplnému proudu, obdržíme novou malou plochu, a podobně pokračujíce vlákno úplného proudu, dle věty (2) bud končící v nekonečnu aneb v sobě uzavřené. Lze tedy applikovati rovnice (1).
+Ve všech pozdějších počtech budeme užívati míry elektromagnetické, a písmeny X, F, Z, za kteréž na okamžik ještě psáti chceme Jfm, FOT, Zm, budou nám vyznačovati sílu na jednotku elektromagnetickou. Tato má V=3. Wl0cm/sec jedniček elektrostatických, jest tedy síla na jedničku elektro-
+X       Y      Z
+statickou  —r?-, —T?-. -^?-, tudíž měrné číslo proudu posunutí v míře elektro-
+V
+statické
+•>   y
+1
+V       V
+etc. Měrné číslo téhož proudu v míře elektromagnetické,
+K
+kteráž v rovnicích (1) zavedena jest, bude pak — — ^
+wf         *\  y
+vynechání indexu (m) kratčeji -^--
+- etc., aneb po
+Příslušný kondukční proud (v míře elektrom.) bude k X, jestliže k spec. vodivost v téže míře označuje.
+*) Věta tato vyjadřuje vlastně definici kvanta elektrického.
+XLI. ﻿Se zřetelem na rovnice (1) máme pak prvou trojici rovnic Maxwellových
+*L OL — -M -
+~ TxT ~
+Fa   D/
+K_ DF V9-   D/
+K DZ
+(I)
+Derivujíce po sobě dle x, j, s a sečtouce obdržíme z rovnic (I) vztah
+DF   ,    DZ
+— *J — O-         7— —
+F* ~Ď7""~    '            ~~Di    '    DJ    '    Ds  '
+V mediu isolujícím (L = 0) bude vždy J = 0, jestliže v jistém okamžiku nullou bylo, neb jinými slovy: nebylo-li v dielektriku v jistém okamžiku náboje prostorově rozděleného, tedy se týž nikdy nedostaví.
+Změna proudových intensit jak ve vodičích tak i dle Maxwella v látkách isolujících má v zápětí vznik sil elektrických, jak pravíme indukcí vzbuzených. Zákony tyto zjevy ovládající jsou exaktně známy, jde-li o elektromotorickou sílu, která se vzbudí v linearném uzavřeném kruhu. Síla tato čili práce elektrických sil při jednom oběhu v uzavřeném kruhu vykonaná rovná se dle zákona Faraday-Maxwellova záporně vzaté časové rychlosti, s kterou se mění množství magnetických indukčních čar, které plochu řečené uzavřené čáry v daném okamžiku prostupují.
+Positivny směr této z plochy vystupující indukce souvisí se směrem oběhu v okrajích plochy pomocí pravidla Ampěrova: plujeme-li totiž okrajem směrem, jejž za kladný směr elektromotorické síly považujeme, hledíce dovnitř plochy oběhnuté, leží kladný směr »prostupu skrz plochu* po ruce levé.
+Budiž však zřejmě podotknuto, že tato věta platí pro míru elektromagnetickou. Applikací na malý obdélník obdržíme jako dříve
+DZ,
+DZ       DF
+DJ/   _ IX
+D/   : ~~  D,7
+3>K D*
+DZ
+D*
+IX
+D/
+kdež [t značí permeabilitu magnetickou. Z rovnic (I) a (II) plyne *X  ,   A>
+(II)
+=-*-;.+
+D/
+D2F D/2
+D2F      D2F Dz2 + Dy2
++ T^
+V fJ
+D»F
+D/2
+~   ^ ~'i     l     31 „2           ^ /»«
+DJ
+^J
+DJ
+DJ
+(UĎ
+XLI. ﻿V ústředích isolujících jest k = 0, a zároveň   .       = w rychlostí,  s kterou
+se v nekonečném mediu šíří transversalní vlny rovinné.
+Ve vodičích   poměrně   dobrých,  jako   na   příklad  v  kovech,   lze členy
+— ~        <*o   T/*
+vedle
+A   T7""
+vynechati, jde-li o střídavé  proudy, jejichž  fre-
+g
+kvence jest nepatrná proti frekvenci vln optických.
+Dlužno ještě vyšetřiti podmínky, které platí na rozhraní dvou různých ústředí I a II. VeoTme za tím účelem těsně nad hraničnou plochou v mediu I křivou čáru k ploše té rovnoběžnou a těsně pod ní rovnoběžnou čáru stejné délky v mediu II. Konce spojme kratičkými, k ploše kolmými spojkami. Na tuto uzavřenou čáru applikujme hlavní dvě věty o práci sil elektrických a magnetických.
+Předpokládajíce konečnost proudových hustot v rozhraní jakož i konečnost indukce magnetické v týchže místech, shledáváme, že práce ty pro infinitesimální nepatrnost plochy hořejší křivky uzavřené se jen nekonečně málo od nully lišiti mohou. Jsou tedy tangenční složky jak sil magnetických tak elektrických veličinami spojitými při prostupu plochou, která dělí dvě media rázná.*)
+Integrace rovnic Maxwellových.
+Pomocí Poyntingovy věty lze vyšetřiti podmínky, kdy problém jest jednoznačně řešitelným. Specielně nalezneme pro případ, který nás při studiu Hertzových kmitů jedině interesuje, když totiž neexistují trvalé prameny energie elektromagnetické, že rozdělení sil elektromagnetických jest v každém pozdějším okamžiku jednoznačně ustanoveno, lze-li je za známé považovati v okamžiku daném. I tehdy se dá problém jen v řídkých případech řešiti.
+Zde se chceme zabývati případy ještě jednoduššími. System se skládej z vodičů nekonečně dobrých, obsažených v isolatorech dokonalých. Jde-li jako zde pouze o určení frekvenčních čísel oscillací systému tomu příslušných a nikoliv o rychlost, s kterou se elektromagnetická energie ve vodičích v Jouleovo teplo transformuje, lze dobré vodiče, jako na př. měď, považovati za vodiče nekonečně dobré, najmě při vysoké frekvenci Hertzových oscillací.
+Následkem této supposice mohou uvnitř vodiče síly elektrické dosáhnouti obnosů jen nekonečně malých, nemá-li proudová intensita býti nekonečně velikou. Při tom existuje ve vodiči kondukční proud jen těsně při povrchu jeho, nabývaje téměř povahy proudu plošného.
+Kontinuita tangenční složky elektrické vede pak k podmínce, že elektrické síly v isolatoru na povrchu vodičů v limitě kolmými býti musí.
+Věta Poyntingova učí, že rozdělení sil elektrických a magnetických i tímto předpokladem jednoznačně ustanoveno jest, jestliže v daném okamžiku předepsáno bylo.
+*) Koláček, Wied. Ann. sv. 82, str. 4S2.
+XLI. ﻿Kondukční povrchový proud ve vodičích lze dvojí cestou ustanoviti: jednak pomocí daného rozdělení sil magnetických, jinak i úvahou, že řečený proud, vstupující do malé plochy na povrchu vodiče, nutně vystoupiti musí z plochy té jakožto proud posunutí, jehož intensita se za známou považovati může, protože týž výrok platí o silách elektrických na povrchu plochy.
+Speciální případ, kterým se nyní zabývati míníme, jest tento: Budiž dán systém válců (drátů) mezi sebou a k ose x-ové rovnoběžných a po obou stranách do nekonečna sáhajících a obsažených v isolujícím mediu s dielektrickou konstantou K. Máme najíti možné rozdělení sil elektrických a magnetických.
+Jednej se v prvé řadě o stojaté kmity.
+Bylo-li v jistém okamžiku J=        -|-------h 3 „   nullou, to jest neexi-
+stoval-li  tak zv.  prostorový  náboj   v dielektriku,   nebude  existovati   nikdy. Rovnice Maxwellovy nabudou pak tvaru
+= «« // K,
+Vyhovíme jim kladouce
+Rovnice J=o vede ku
+Z rovnic (III) obdržíme
+D/a
+Y= — -^-,       Z:
+,   D2/>
+. .   .   . (III)
+D/>
+(V)
+D/2 • neb se zřetelem na rovnici (V)
+(VI)
+Rovnicím (V) a (VI) se vyhoví supposicí
+P=. A sin    -
+kdež TI = 77 (y , z) hoví rovnici
+sin -^- (x + «) //
+32/7
+= 0.
+Při tom značiž * dobu kmitu, >i = fúr délku vlny, #, A, « konstanty integrační. Elektrické síly jsou tedy vesměs obsaženy v rovinách kolmých k drátflm. Podmínka, že i k povrchu jejich kolmými býti mají, vede dohromady s rovnicí (VII) k výsledku, že rozdělení jejich jest identickým s rozdělením sil v případu statickém, kdy se totiž každý drát nalézá na daném stálém potenciálu.
+XLI. ﻿Jde-li na př. o jediný drát průřezu kruhového, bude 77 = log — , kdež L
+konstantu a r nejkratší distanci bodu od osy drátu označovati bude. Síly elektrické jsou pak radiálně k drátu uspořádány.
+Jde-li o rovnoběžné velmi tenké dráty průřezu kruhového, jichž distance jest značnou proti jejich tlouštce, a jsou-li tyto dráty jako v systému Lecherově
+povahy protivně elektrické, bude 77 = log-7-, kdež označuje r,  potažmo r'
+nejkratší distance určitého bodu, v němž velikost síly hledáme, od os drátů jednotlivých.
+Silokřivky jsou radialné v nejbližším sousedství drátů, a majíce tvar oblouků kruhových spojují oba dráty protivně elektrické.
+2 n
+V určitých  uzlových rovinách,  daných rovnicí —r— (x-\- a) = nn, kdež
+« = 0,±1,±2..., jest síla elektrická nullou. Tyto roviny lze nahraditi rovinami z kovu nekonečně dobře vodivého, neboť pro nepřítomnost síly elektrické se neporuší podmínka, že jak na drátech tak i na těchto rovinách
+kolmou býti má. Odlehlost jejich jest vždy —.
+Položíme-li vice versa na přič k drátům rovinu nekonečně dobře vodivou, musí býti rovinou uzlovou. Jak dalece se u drátů Lecherových téže vlastnosti docílí prostým přeložením mostu drátového na místo kovové roviny příčné, vyšetříme později.
+Rozdělení sil magnetických lze vyšetřiti z rovnic (II) dosazením ^f=0, Y=------—,  Z=-----^—. Obdržíme odtud L = 0 pro všechny časy, jestliže
+podmínka ta, jak předpokládati chceme, v jednom čase splněna byla. Jsou tedy síly magnetické rovněž obsaženy v rovině k drátům kolmé. Zároveň jest, volíme-li, což ve všech isolatorech platí, \n, permeabilitu magnetickou rovnou l,
+
+neb po vynechání bezvýznamné konstanty integrační
+M= — -i- A cos -^ (/ + tf) cos ~- (x + «)
+N
+2 n
+= — A cos-----(/ -f- ť>) cos -r—
+Současně jest
+3/
+.   .   (VII)
+Y=-A*to?*
+1
+Z= — A sin
+ún -,- (x
+*
+.—
+D/7
+. (Vlil)
+XLI. ﻿10
+Z rovnic (VII) a (VIII) vážíme tyto výsledky:
+1.    Platí   YM-\-NZ — Q,  čili  magnetické silokřivky jsou orthogonalní trajektorie k silokřivkám elektrickým, tvoří tedy u jediného drátu o kruhovém průřezu  kruhy  koncentrické,   u drátů  Lecherových  rovněž  uzavřené  kruhy, které by v problému elektrostatickém odpovídaly křivkám stejného potenciálu.
+2.    Uzly síly elektrické jsou vrchy sil magnetických a naopak.
+3.    Rozdíl fásový obnáší půl doby kmitové, t. j. síla magnetická má na jistém místě v jistém okamžiku maximum, kdežto elektrická současně nullou jest a více versa.
+Kondukčni proud i na povrchu jednoho z válců kladně čítaný ve směru rostoucího x jest 4^-tým dílem mechanické práce A', kterou vykonají magnetické síly na dráze identické s obvodem průřezu drátového při oběhu, který jest se zřetelem na směr proudu protivný k směru rafiky hodinové. Značiž ds differencialní vzrost obvodu v tomto směru, (sy) potažmo (s z) úhly, které svírá s osami s a j, tedy l7 cos (sy) ~\- Z cos (s 2) příslušnou sílu magnetickou, tak že jest
+a zároveň
+neb dle (II)
+4 n i = A' = \ ds\M cos (s y) -|- N cos (s z) j ,
+f = \
+ZA' D/
+
+(    \
+Úhel, který normála k témuž obvodu ven z drátu positivně čítaná svírá s osami y a L, budiž (ny) a (ns). Patrně jest
+tedy
+di
+cos (s z] = — cos ny ,       cos (sy) = cos n z , D      tP\                O
+ds.
+Integrujíce nalezneme
+^ / = -- cos
+cos
+077
+l           4*
+Týž  výsledek  obdržíme  uvážíce,  že kondukční proud, jenž do části  pláště válcového na délce dx úhrnem vstupuje, obnáší —-^-dx.
+Je-li   N' =-----r— normální složka elektrická na jednu jedničku elektromagnetickou,  bude proud posunutí, jenž z plošné jednotky drátu vystupuje,
+XLI. ﻿11
+udán v míře elektrostatické číslem
+K ZN'      l
+4n    *t
+tedy v míře elektromagnetické číslem K 1N'       l
+4*    á""/   *  F2 ~~ 4«~   3/   * «2 ' Proud z části pláště dx vystupující jest pak
+Přirovnáním nalezneme pro ^ = l opět
+DŽ           A__P
+""Ď5"" = = TíTó*"" J
+, ds
+
+cos
+.           .
+*) - sin
+a integrací rovnici (IX)
+Jest patrno, že kondukční proud má rovněž jako magnetická síla maximum v místech, kde elektrická síla má minimum nulle rovné a více versa.
+Dosud jsme předpokládali, že dráty po obou stranách do nekonečna sáhují. Nyní se chceme zabývati vyšetřením hraničných podmínek, které jsou v platnosti, ústí li dráty volně do dielektrika neb do kondensátoru aneb jsou-li konečně na přič přepaženy mostem drátovým.
+Dráty budtež vesměs tenké a vesměs končteš v teše společné a k nim kolmé roviné.
+Nazveme-li rozdělení síly podél drátu na obrní stranách do nekonečna sáhajících normálním, lze říci, že toto rozdělení bude sáhati až do takové distance od volných krajů, která jest veličinou téhož řádu jako tlouštka drátu, tedy veličinou nepatrnou najmě proti délce vlny. Položí-li se v této distanci drátem řez, tedy vstupuje jím z té strany, kde síly ještě normálně rozděleny jsou, povrchový proud kondukční do zbytku drátového a tento proud uniká pak stěnami jeho jako proud posunutí. Tento poslední obnos jest však veličinou téhož řádu jako maximální kondukční proud na drátě násobený zlomkem, jehož čitatelem jest délka zbytku a jmenovatelem délka vlny. Lze tedy v limitě říci, že volné konce jsou uzly kondukčního proudu, tudíž i uzly síly magnetické.
+Ústi-li tenký drát do vodiče o rozměrech proti tloustce jeho nepoměrné"" velikých, bude na ném rozdělení síly elektrické málo rozdílným od rozdělení °dpovídajíciho stavu statickému.
+Těsně před místem, kde drát ústí, položme drátem řez I. a podobný lez II. skrze vodič. Oba tyto řezy, z nichž druhý mějž rozměry náramně veliké proti tloustce drátu, omezují s povrchem drátu a tělesa dohromady určitý volum. Kondukční proud do něho u I. vstupující odchází částečně stěnami jako proud posunutí a jiná konečná část jeho běží dále řezem II. jakožto Povrchový proud kondukční. Jsou tedy kondukční proudy u I. a II., to jest práce magnetických sil na obvodech jejich, veličinami téhož řádu, tedy
+XLI. ﻿12
+magnetická síla na povrchu vodiče nepatrnou proti oné, která panuje na povrchu drátu. Z rovnic (II) pak usuzujeme, že elektrická síla jest v těch místech velmi přibližně určena potenciálem statickým.
+a
+i t		
+	a d	\f \ \f
+		
+Obr. 1.
+Vliv příčných mostů.
+Zabývejme se napřed případem,  kdy Lecherovy  dráty končí ve spojce a'ď (obr. 1.)  o stejné tlouštce s dráty hlavními.   Exaktní  řešení  problému, kterak  síla  elektrická poblíž  mostu rozdělena jest,  bude  zajisté  velmi  nesnadným. Uprostřed mezi ad a a'ď jest zajisté nullou, poněvadž zde při protivně stejné elektrické povaze horního  a  dolního  drátu  změna  ve znamení  nastati  musí.   V  a a d musí  z důvodů elektrostatických býti nullou, za to může u a' a ď nabýti hodnot nekonečně velikých. Zjednodušíme si tudíž úlohu předpokladem,  že ad jest nekonečně malým proti délce vlny. Lze pak říci, že elektrická síla, tudíž i proud
+posunutí, jest nullou netoliko na ad, nýbrž ještě i poblíž //, tedy v distanci,
+která jest sice ještě malou  proti délce vlny,  ale náramně velikou  proti ad.
+Důvod jest  ten,  že se síla elektrická o konečný  obnos své maximální
+hodnoty (ve vrchu vlny elektr.) jen tehdy změniti může, postoupíme-li odtud
+na levo neb na právo aspoň o veličiny téhož řádu jako —. Ve všech místech
+mostu, jakož i mezi af jest při této hypothese kondukčni proud stálým, bude tudíž rozdělení a velikost magnetické síly v ploše a dff bezmála takovým, jako kdyby týž stálý kondukčni proud v celém vodiči panoval. Pak jest možno síly magnetické vypočítati precisně dle zákona Biot-Savartova, protože tento dvakrát lomený vodič prakticky uzavřen jest (v nekonečnu).
+V téže distanci // dostavujž se již normální rozdělení sil. Řádovou velikost její (af= x) najdeme, vyšetříme-li na př. pomocí indukčního zákona Neumannova (neb Maxwellova vektoru) sílu elektrickou uprostřed mezi //, pokud pochází od časových změn proudu v mostu. V řečeném místě má vektor ten u přirovnání s jinými místy na // svou maximální hodnotu
+Jeli i proud kondukčni, bude sfla ta S,
+*>—L>**
+XLI. ﻿13
+V místě // jest dle předpokladu rozdělení síly již normálním, tudíž bude síla elektrická 52 v prostředku délky // a k ní rovnoběžné rovna
+4/í        2 = --- —sin—
+sin
+Jest to zároveň obnos minimální se zřetelem na ostatní body na //. Současně jest dle rovnice (IX)
+tedy
+neb sblížené
+í =---75— COS-----(* + ^) COS
+2 O)               T
+L_^Y     2^
+rfí dť
+Pro %Q = x jest na př. (maximum veličiny) ^ děleno na (minimum)
+v poměru
+log l'31 < 0*033, vliv mostu na jiných  místech  tudíž
+nepatrným.
+V distanci #, která jen několikrát převyšuje odlehlost drátu o, bude již rozdělení elektrické síly normálním.
+Práce elektrických sil na dráze ffdaf po povrchu drátů redukuje se z důvodu nahoře uvedeného na 2P, jelikož na čáře // síly elektrické potenciálem
+2 n
+= Asm
+2 n (x 4- «) .      rti sin - ^-r-1 — L log -J
+určeny jsou; další úvaha, že tato práce dle zákona Maxwellova identickou jest se zápornou časovou změnou silokřivkového počtu plochou a dff z a rovinu papíru prostupujícího, dovoluje pak určiti konstantu a pro případ, jestli osu /-ovou (x = 0) položíme do osy mostu drátového. Budiž L počet silo-křivek odpovídající jedničkovému proudu po povrchu drátů tekoucímu, jejž si se zřetelem na body zevnější v ose drátu koncentrovaný myslíme, a hodnota proudu ještě u // panujícího budiž i. Pak máme
+(X)
+aneb
+čili přibližně
+4 tg -r- (X + ft) log  ^- = -y- Z ,
+r0            A
+«; + « =-------.     .   .   ,
+(XI)
+XLI. ﻿14
+Odtud se najde konstanta «, jestli jsou podmínky toho druhu, aby vyšla na # nezávisle. Lze toho, jak později uvidíme, exaktně docíliti pro takové x, které jsou náramně velkými proti Q.
+Magnetická síla poblíž mostu jest dle dřívějšího patrně tatáž, jako kdyby proud = l cirkuloval v ose drátu z nekonečna přicházeje a v nekonečnu konče (viz obr. 2.).
+osa  drátu
+osa drátu,
+Obr. 2.
+V bodě, jehož koordináty jsou  x, y  (viz obr. 2.),  obdržíme  dle Biot-Savartova zákona tuto hodnotu síly kolmo vedoucí za rovinu papíru
+-i- (cos J, + cos j.) +1 [cos (90 - Xl) + l] + ~[cos (90 - &) + l] .
+neb
+=?+
+<f—S
+5-+4
+_;___ +  -       *
++
+Výraz nalezený nutno násobiti dx. dy a integrovati od x = ru až do x = x, jakož dle y ody = r0 do j = (> — r0. Poloměr drátu jest při tom označen písmenem r0 a budiž nekonečně malý jak vedle o, tak vedle x > o.
+Prvý a druhý summand se redukují dohromady na
+třetí a čtvrtý na pátý a šestý na
+Jelikož jest
+2*log.f-,
+e-r.
+XLI. ﻿15
+máme konečně
+L = 4
+2 «) log --
+Předpokládajíce, že # jest značné proti o a dráty velmi tenké, nalezneme
+L = (4*+ 2?) log-^--2? (2-log 2).....(XII-)
+ro
+Z relace (XI) obdržíme pak
+«=ífi-—^Mfi-
+2 V         loe-í-   )      2 V.
+'°g v.
+Pro dráty extremně tenké, kteréž se v praxi arciť nenaskytují, bude u = ~- i tehdy, není-li x nad míru značnou veličinou proti Q.
+ú
+Jak ze vzorce (X) seznati možno, odpovídá veličina L právě vypočtená koefficientu samoindukce ve vodiči složeném ze dvou přímek o délce x a z mostu o délce Q . Elektromotorická síla ve směru šípu (viz obrazec) jest
+totiž — L —j-----2 P a musí se nulle rovnati při vodivosti nekonečně veliké.
+Při obvyklém výpočtu elektromotorické síly samoindukce ve vodičích otevřených vychází se obyčejně ze vzorce, jenž správně udává účinek jednotlivých proudových vláken na sebe, jde-li o proudy uzavřené. Výsledek pak podstatně na tom závisí, který z elektrodynamických zákonů výpočtu za základ položíme. Jiný jest při použití zákona Weberova, jiný při zákoně Neumannově. Vycházejíce ze zákona Helmholtzova, seznáme dokonce, že jest neurčitým ba dokonce libovolným skrz libovolnou konstantu k v tomto zákoně se vyskytující. Proto jsme volili při hořejších výpočtech našich cestu jinou. Zkušenosti novější však ukazují, že změřené koefficienty samoindukční rovných drátů dosti dobře souhlasí s těmi, které lze vypočísti pomocí vzorce Neumannova. Tímto se řídíce obdržíme v případu, kdy proudy jen po povrchu rozděleny jsou, pro koefficient samoindukce rovného drátu o délce / vzorec
+(21        \ log-------l l. Současně nalezneme pro koefficient vzájemné **o        *
+indukce mezi dvěma rovnoběžnými vlákny s proudy rovnoběžnými o distanci c> a délce x vzorec
+XLI. ﻿16
+Následkem toho bude koefficient samoindukce Lv našeho drátu dvakrát lomeného roven výrazu
+neb
+I =4
+z _|_ L« __ (, _ x) + 2(> (log 2 — + (4#-|-2e) log — -f-4#log
+,0                 3. + Yea + *a
+Při různosti početního způsobu nesouhlasí tato hodnota Z,, s hodnotou (XII). Jejich rozdíl
+jest však při poněkud větších x nepatrným proti hlavnímu členu
+jenž odpovídá drátu extremně tenkému. Za správnější považujeme však (XII). Z rovnice (XIa) konkludujeme následující. Na extremně tenkých drátech Lecherových končících v poloze x = O příčkou o stejné tlouštce dostaví se v distanci značné proti odlehlosti drátů Q normalné rozdělení sil elektrických s potenciálem
+2 n                   2 ""
+P = A sin-----(t -4- #) sin - .—
+i                      f-
+tak jako kdyby u
+ležela dokonale vodivá rovina uzlová.
+nx-o
+Obyčejný most drátový.
+Vypočtěme,   předpokládajíce  opět  délku vlnitou za nekonečně  velikou, množství silokřivek, které skrz a dff běží za rovinu papíru (obr. 3.).
+Při proudu po obou stranách stejném a jedničce rovném byla by v libovolné výši z nad osou dolního
+2          2
+drátu síla magnetická-----\- — -——,
+tudíž množství silokřivek skrz a dff
+4a;log—. Panuje-li týž proud =1 Obr. 8.                                     * ^o
+			
+M]		a d	3
+			
+XLI. ﻿17
+jen v části pravé, prochází jich dle dřívějšího
+Lze tedy snadno najíti, že proud r\ (viz obrazec) o sobě jich posílá
+Je-li v distanci af= x na pravé straně normální rozdělení sil dle vzorce P = A sin —— (/ -\- O) sin —^- (x -f- «) log -, ,
+TA/
+na straně levé dle
+P=A' sin — (/ + o) sin -.- (x + «') log -^,
+t                                 A.                                 T
+bude dle rovnice (X)
+o             2rr                Vir  .
+— 2 log ~ A sin — ft\             t
+Po zavedení hodnot
+
+''=- 2-o7cos-r('+*'   a  »—
+plyne odtud
+Týž postup se dá upotřebiti i pro levou stranu mostu. Platí tedy
+Kontinuita potenciálu u x žádá však
+^4« = A' V . Jest tedy yi = ^1', a' = « = O .
+Most se chová pak jako dokonalá rovina uzlová, avšak jak zde výslovné podotýkám jen tehdy, neleží-li blízko konců drátových eventuálně kapacitami zatížených ; neb tehdy jest pravý uzel posunut ve směru ku kapacitě o něco
+méně nežli   -~ ( l -f- -^ ' ~~ ^ '} , jak již dříve dokázáno bylo. log ±    J
+Vyjmeme-li  tudíž  oba diskutované  případy  extremní,  bude  pravý uzel
+od mostu vzdálen o veličinu uprostřed ležící mezi O a ~ l l --                I.
+lo   ±    )
+log
+Rozpravy.  Koěnik V. Třída II.
+XLI. ﻿18
+Pokus Lecherův.
+U #=0 (obr. 4.) jsou dráty Lecherovy přepaženy mostem, který za uzel elektrické síly považovati můžeme, jestliže distance drátů je nepatrná netoliko proti délce vlny, nýbrž i proti délce drátů po obou stranách mostu. Předpokládajíce to klademe pro pravou stranu od mostu
+Obr. 4.
+při x = l jest vřaděn kondensátor o tenkých deskách a veliké kapacitě
+(viz obr. 4), tak že za to lze míti,
+X-o                                  Xs l            ŽG  kondukční  proud   do   horní
+desky vstupující úplně pokračuje jakožto proud posunutí mezi deskami, načež v stejné síle dolní deskou opět vystoupí. Se zřetelem na hořejší předpoklad lze pak též o rozdělení magnetických sil říci, že jest v sousedství kondensátoru přibližně takovým, jako kdyby na místě jeho byl drát.
+Elektrický potenciál P' na horní desce jest jen přibližně stálým, volme tedy za něj hodnotu střední, která náleží centru hořejší desky v místě přivráceném k dolní desce. Jdeme-li odtud k centru desky spodní, kde jest potenciál — P\ a odtud podél dolní desky a dolního drátu až k místu x = t—L, pak kolmo vzhůru k hornímu drátu a po něm zpět toutéž cestou po povrchu kovů k centru desky horní, tedy vykonají elektrické síly práci 2P' — 2P, kdež P náleží k poloze #=:/ — L, kde již normální rozdělení sil existovati má. Budiž zároveň L veličinou malou proti / i délce vlnité, avšak
+značnou proti (>, tak že místo cos        L,  potažmo sin -     L psáti lze l, po-
+.        2*t tažmo ""T~f«
+Množství silokřivek, které jde plochou uzavřené křivky právě popsané za rovinu papíru, jest dle dřívějšího
+kdež jest
+Proud / jest přibližné stálým  mezi x = l — L a kondensátorem a jeho hodnota u místa x = l—L ustanovena jest vzorcem
+JOD           l                           i
+
+XLI. ﻿19
+neboť skrz 77= log— — jest -. — \ ds         na povrchu hořejšího drátu
+f               *±1t   J          u ti
+Dle věty Faraday-Maxwellovy jest pak
+= - yl 2 * cos 2T - (/ - {) sin 2 *(/ + *) (2 f + 9"") log -L- .
+A                 /.                                 T                                                          A, Q
+Dosadíce za P obdržíme až na veličiny vyššího řádu
+2n ,                  Q   f .    2n  .            2n ,2n  Q"" \
+/> ' = — .4 sm — (/ + 0) log ^- ^sm -j- / + cos -y- / -y- Y J ,
+neb přibližně
+_    s„
+sn
+Jest tedy potenciál na kondensátoru takový, jaký by panoval v distanci
+/-|-~o~»  kdyby  až  k ní  panovalo  normální  rozdělení.*)   Kondukční  proud 2
+u x = l — S vstupující slouží předně k náboji drátu f, jehož kapacita v elektro-
+Za potenciál jeho  lze  psáti  správně  až  na
+t  AT statické  míře  obnáší ———
+veličiny vyššího řádu
+Zbytek přítoku vztaženého k jedničce časové
+.K
+neb    —
+A
+Zni
+2*
+nabíjí kondensátor. Náboj E na horní desce jest se zřetelem na protivné znamení jeho na desce dolní určen vztahem L=(/>,!—/?12)P', kdež j#n a /?ia označují koefficienty kondensátoru v míře elektromagnetické. Nalezneme tedy z principu zachování množství elektrického
+A
+— -=— cos
+2 W                 A
+Jest to tedy tak, jako kdyby  normální rozdělení proudu  sáhalo až po kondensátor, ale potenciál jeho byl P'.
+Označíce    koefficienty    kondensátoru   v   míře   elektrostatické    písmeny
+=/?. V11 =
+AT a Lia = #14
+máme
+A^cos
+*) Korrigovali jsme touto úvahou náhled platný v prvé aproximaci, že totiž potenciál desky jest totožný s potenciálem drátu do něho ústícího.
+XLI. ﻿20
+aneb kladouce —— l/-)--—J = 17,
+Ln —^12 jest dvojnásobnou kapacitou (C) kondensátoru, t. j. dvojnásobným nábojem, je-li při protivné stejných potenciálech rozdíl jejich = l. Pro kondensátor, jenž se skládá ze dvou kruhových desek o tlouštce b, o poloměru R a o vzájemné distanci 2a (malé proti ^), platí dle Kirchhoffa*)
+log
+.a
+
+V jednom z pokusů Lecherových **) bylo : Q = 31 cm , A""= [ , R = 8'96 cm, 2 « — O99 cm ,  r0 = O05 «« .    Tlouštku   kovových   desk   kondensátoru   pan
+Lecher neudává;  je-li velmi malou proti 2a,  vyjde L"" = 23'92 r/« ,  obnáší-li
+a
+ex. gr. ±mm, vyjde málo rozdílné C=23'98cm.  Dále jest ^- = 12 35 cm.
+ů
+Maximum   »effektu«   docíleno v Lecherově pokusu, bylo-li  /== a neporušilo se, jestli ležel druhý most v distanci /= 130 + 940 cm. Lze tedy
+940 cm považovati za — .
+ít
+Volíme-li  /= 130-|-940<:/«,  a píšeme-li v rovnici   (f)  za   faktor  vedle TI tg jy jedničku,   nalezneme  z  rovnice  77 tg jy = 1'7545  hodnotu  17 = 3*59557
+a  přibližně  pro — = 946 cm. Této hodnoty použijme k vyšetření vynechaného faktoru, který obnáší l — O00645. Tím obdržíme novou rovnici r/ tg 17 = l '7 74 1,
+jíž hoví 17 = 3 59777 , čemuž odpovídá ^ = 945'1 cm .
+Z
+Odlehlost uzlů měřená jest 940 cm .
+Zevrubnost   měření  Lecherových   bude   zajisté   !/a%   vyjimaje  tlouštku
+drátu,  která se nachází v log—,   tak  že jeden  procent  chyby  při  r0   má
+ro v zápětí pouze Y7°/0 v logaritmu.
+*) Kirchhoff, Abh. p. 112.
+**i Lecher, Wied. Ann. 41, 1890. Též Drude, Physik děs Áthers. Zde jest (pag. 457) též udána rovnice podobná jako (f), jen že schází faktor v závorce na pravé stranč a že
+místo M--i- psáno jest /. Došli bychom téhož vzorce předpokládajíce, že potenciál drátu
+v místě, kde do kondensátorové desky ústí, jest identickým s potenciálem desky. Jen tím, že pan Drude zavádí nekorrigovanou pííliš malou kapacitní hodnotu, dochází snesitelného souhlasu s měřením.
+XLI. ﻿21
+Resonator Geitlerův.
+Pan Geitler užívá za resonator dvou parallelně napjatých drátů na volných koncích spojených s vhodně sestrojeným elektrometrem; po nich se posouvá most až do polohy, kteréž odpovídá maximální údaj elektrometru. Odlehlost mostu od volného konce lze považovati za čtvrť délky vlnové arciť jen v případě, kdy kapacitu elektrometru vůbec zanedbati lze. Zevrubněji obdržíme * ze vzorce (f).
+Schematicky lze si totiž elektrometr  upotřebený  znázorniti  dvěma stejnými a symetricky   orientovanými   vodiči  /?,,   B±   na   koncích   drátů,   mezi      ^^^^^ kterýmiž symetricky zavěšeno jest těleso C C kol svého centra  lehce  pohyblivé a elektricky isolované (obr. 5.). Odchylka,      ^«^— již   vzbuzují   přitažlivé   elektrické   síly mezi /?! C a   /?, C influencí účinkujíc,  jest  měrou  potenciálu   na Bv   a  Bg,.
+Označí-li se potenciály písmeny Pl, P.^ P^ a množství elektrická El, EZ , E3, bude
+/7    ----- h       f>      l    A       E>      l     J,     p
+P*,
+(P,)B,
+C
+Obr. 5.
+Ze symetrie jde trvale nullou a
+'22
+}.    Je-li   mimo   to   vždy   /\ = — />2,   bude  P3
+Lze tedy opětně upotřebiti vzorec (f), v němž však ~ (Ln —b^}— C značí
+elektrostatické měrné číslo kapacity elektrometru. Výpočet její jest nesnadný, lze ji však pokusem vyšetřiti, při kterém nabíjíme Bv a B, na protivný potenciál, udržujíce jehlu v stavu nenabitém a v poloze rovnováhy.
+Zpravidla nebude v praxi C,   byť i dosti malým bylo  (na př. = l cm\ nekonečné"" malým   proti  kapacitě   drátu   resonatorového,   tedy   proti  výrazu
+—.   Následkem toho  nebude  pro základní kmit, jenž jest zde roz-4ATlog-
+hodujícím, v platnosti relace ? = y, nýbrž n = ~ — ^^ kdež { považujeme
+za velmi malé proti —. V druhém sblížení obdržíme pak z (f), vynechajíce faktor uzávorkovaný na pravé straně, jenž jen korrekturu znamená, a současně — vedle /,                                        , „
+'$-*)=     %.
+XLI. ﻿neb
+jest tedy
+V  práci   páně  Geitlerově   postrádáme  údaj  kapacity,   udáno jest  však r0 = 0'\ cm. Kladouce příkladně C=lem a K=\, máme
+Pro nejkratší pozorované vlny bylo / asi  17Srw, jest tedy
+Pro vlny nejdelší í— - — = /j obnáší korrekce vždy ještě 3%-
+Přibližná theorie Geitlerova pokusu.
+Dvakrát lomený drát II I II o tlouštce 2r0, u I končící ve dvě koule o poloměru 2rw, jež se obvyklým způsobem spojují s póly induktoria, ústí ve dvě desky kruhové Pl . Za nimi (viz obr. G ) nalézají se v určité, avšak proměnlivé distanci d = 2a dvě stejné desky, k nimž připojen jest drát //, jenž u y ústí v sekundárním vedení, které se u B B ve vzdálenosti /' od y přepažuje mostem. Nad rovinou (II I II) v distanci 10 cm jest položen rovnoběžně ku II II resonator složený ze dvou parallelních drátů, kteréž na koncích volných nad II I II položených opatřeny jsou elektrometrem Geitlerovy konstrukce (viz obr. 6.). Na levo od I běží dráty resonatorové do značné vzdálenosti. Při dané poloze mostu B B pozorují se odchylky elektrometru odpovídající rozličným polohám mostu B' B\ jenž se po drátech resonato-rových posouvá. Určitým jeho polohám odpovídají úchylky maximálně; příslušné délky B'E jsou přibližně rovny čtvrť vlně oné oscillace, kterou systém vysílá.
+Theorii klademe za základ tyto praemissy :
+1.  Distance Q (i několikanásobná) jest malou proti délce vlny,  což také platiti má o délce drátu L'.
+2.  Dráty jsou velmi tenké proti jejich distanci.
+:i. Náboje na kondensátorech Pl P' neúčinkují na sebe  způsobem zná tclným.
+4. Distance II jest značná proti distanci I.
+XLI. ﻿23
+Považujíce jiskru za vodič nekonečně dobrý (zrovna jako drát I) můžeme se  zřetelem  na  udané  praemissy  míti  za  to,  že  rozdělení  sil  elektrických
+X<0
+P'
+B
+B'
+K
+Obr. r>.
+na II II jest v jisté distanci od I již normálním, tak že klásti lze
+«),    kdež    /7 = log-^-,
+P=Ansm —
+T
+sin -~ -
+A
+Konstanta a rovnala by se   X l l --       — — l , kdyby vodič I byl drátem
+'°8Í   }
+o průřezu 2 r0 . Ve skutečnosti jsou však do něho vřadény dvě koule o poloměrech 2 cm a dráha jiskry; dá se však snadno dokázati, že se i tehdy « nebude mnoho lišiti od hodnoty právě udané.*)
+*) Při výpočtu veličiny L běží pak dráha ffdaf přes povrchy obou vybíjecích koulí o radiu R jakož i přes povrch jiskry, jejíž délka jest d"" a tlouštka 2r0"". Nutno pak k nalezenému již Z., jehož nejhlavnější člen jest
+-^-, připočísti 2 d"" log -V -4* (log — — l) .
+ro                                            ro                               ro             *
+Jest totiž při určení této korrektury dovolena představa, že proud běží osou vodiče I. Jí bylo 2<rw, r0 jest Ol cm, záporná část korrektury jest tedy 15'9; kladná část obnáší pro jiskru na př. l cm dlouhou a Q-<2mmt potažmo O02 mm tlustou 4'3, potažmo S-3cm. Nutno tedy Z, které v daném případě as 600 cm obnáší, zmenšiti o nějakých W cm, to jest o díl šedesátý a o týž díl se zmenší a obnášející as 20c/w. Ve výsledných počtech nachází se však a ve výrazu /-f~a (as^ 120 cm). Vlivem koulí a jiskry zmenší se tento výraz asi
+20 o -- cm = O 3 cm , což jest velmi nepatrné.
+XLI. ﻿Na povrchu drátu II jest 77 = — log — , a potenciál v místě, kde drát
+ro ústí do desky, byl by, normální rozdělení předpokládaje, roven hodnotě, která
+vznikne, dosadí-li se za x = /. Dokážeme však později, že střední potenciál desky jest vyšší a že odpovídá místu, které by leželo dále o «, ; kladouce tudíž prozatím «0 = at -j- « , máme pro potenciál desky
+
+.(XIII)
+V místě, kde ústí drát, jest intensita proudu kondukčního dle (IX) A          9. a                     9 TT
+).....(XIV)
+Na větvi (IV IV) jest ve větší distanci od y y rozdělení sil opět normálním. Je-li zde distance drátů Q'. jejich tlouštka 2r'0, bude pro IV IV (na povrchu) v platnosti
+=-^' log -V sin
+sn
+.   (XV)
+i = — ^-log-^-cos— (/+0)cos ^-(x*+ <*').    .   .(XVI) Jw         r0          i                        A
+Zde označuje x' distanci od y y v právo čítanou a «' konstantu, která se určí z polohy mostu B B, případné i z délky drátu volně končícího při nepřítomnosti mostu.
+Větev L', jejížto koefficient samoindukce týmže písmenem označen jest budiž tak krátkou proti délce vlnité, že proud její i za přibližně stálý považovati můžeme. Hodnota jeho bude pak identickou s hodnotou proudu v místě y* (i' = 0), to jest
+2* ,. ,   ^        2*   ,                  (XV[a)
+A'
+cos
+T
+Potenciál u y jest rovněž
+V = — A' log   V sin --
+r o          T
+cos
+sn
+Elektromotorická síla v tomto vodiči (patrně nulle rovná, je-li z materiálu nekonečně dobře vodivého) jest složena ze dvou částí:  1. P' — Pyy kdež P*
+potenciál  na  zadní  desce  označuje a  ze samoindukce  — L'    ,Y .   Proudy
+v (IV IV) jsouce  protivný  neúčinkují  na   L'.   Vliv  proudu  dolního L' jest jednak  nepatrným  proti  samoindukci,  proto   že  účinkuje z distance  značné proti  tloušrce  drátu, jinak mizí, jelikož obě L' stojí na sobě  téměř  kolmo. Větve II a I leží rovněž příliš daleko. Z relace
+/>'-/>,,-// -- = 0
+XLI. ﻿nalézáme pak
+P> = — A' log V sin — (/+ ») sin -^ r o        T                      *
+L'
+^- . -V -4' sin     -   (/+*) cos -^ «'
+•           A                        V                                      A
+(XVII)
+Náboj  L,  a L'  na  deskách Pl potažmo P9 v míře  elektromagnetické, v níž udány jsou i konstanty kondensátoru /?n, /?12, /řaa, jest dán rovnicemi
+Rozdělení sil a proudu není sice normálním až po samu desku kondensátoru, avšak úvahou identickou s onou, již jsme provedli při diskussi pokusu Lecherova, dá se dokázati, že výsledek applikace principu o zachování množství elektrického jest zrovna ten samý, jako kdyby normální rozdělení proudu sáhalo až po sám kondensátor. Jest tedy
+a z podobného důvodu
+4»—^g—J
+12
+O/""'
+Dosazením   hodnot   za   /,  />,,  P'  a  IK z  rovnic (XIV), (XIII), (XVII) a (XVIa) vznikne
+2n f.        o'         2na'       L'      2n         2na'\        /v,riTT,
+j log ~- Sin---y--------^-.-r-COS---y--- l,     .    (X Vlil)
+'   T '        O M>            9 /*r /»'                     «'             9 «v /»' ^v ~l
+x^        ^/r         L TI a                o          L TI n   \  \
+- -Io^sin-T-)J
+(XIX)
+Eliminujíce z (XVIII) a (XIX)  A,  A', obdržíme základní rovnici,  která slouží k určení délky vlnité A.
+Pišme  místo
+!,  ^12o)2,  ^2ft)2  hodnoty   —L-,
+,  kdež
+^12 a ^22 označují konstanty kondensátorové v míře elektrostatické. Zmíněná eliminační rovnice jest pak
+XLL ﻿Konstanta «' určí se následovně:
+Je-li u B B ve vzdálenosti /' od 77 most, bude pro značné /' (naproti (/) rozdělení sil již normálním a zároveň v téže poloze uzel síly elektrické. Jest tedy
+«' = — /'. Kdyby nebylo mostu a dráty u /' volně končily, bylo by / = 0, tudíž
+9 <rr
+cos - x- (/' + «') = O .
+Budeme příště přihlížeti jen k případu prvému.  Místo tg -^ (/ + «„) cos -^ (/+«„)
+lze psáti kdež
+co.-??(/+«)
+9 ÍT
+i            2 n  ..  .     .   2 n («n — «)
+fl'=l + cotg-T-(/+«)- ~^-
+jest číslem velmi málo rozdílným od 1.
+Substituce 77 =
+dává na místo
+Ti         ^'^22
+L1 - xírft8- ' -
+e'         n*' ~\
+^ "" tg 7-!^ J
+'     • '(XXI1
+Tento vzorec se odporučuje pro malé /'. V případě opačném budiž
+Vnl'
+i Nalezneme
+Je-li systém II I II od L' IV IV Z/ nekonečně vzdálen, tedy L12 =0, rozpadne se rovnice (XXII) (neb XXIII) ve dvě, které o sobě udávají kmity jednoho i druhého systému. Jsou-li desky kondensátorové sobě nekonečně
+XLI. ﻿blízko, bude Ln = b^ náramně veliké a zároveň (viz později) />,, tudíž na místo (XXIII)
+r>
+Kladouce
+K l
+můžeme místo (XXIII) psáti
+
+\\
+Pro 1 = 0 jest M záporné, pro ^ = -- — « , lim « = 0 kladné, pro f =: -- + «
+L                                                                            Li
+záporné, pro f = -^— - « kladné  atd.   Leží tedy kořeny v těchto  hlavních intervallech
+O až
+3*
+2 '
+v                ,
+až _    atd.
+Jejich  polohu   možno ještě blíže určiti,  jde-li o taková /',  která jsou  velmi značná proti (/-)-«)• Pro četnou řadu nejmenších kořenů jest pak  * -— f   ^
+menší než — - a / veličinou podstatně kladnou. L>
+Druhý   summand   v   M jest   až   do  ft =
+= -7 — . -T, — T~— ^tt/   2  kladným, při f=/9 zároveň -|~°°-
+^              *      ^               ^
+záporným,   odtud   do překročení
+22
+této   hodnoty   stane  se   záporně   nekonečným   a  zůstane   záporným   až  do /= oo ,  čehož dosaženo  bude při takovém   parcialném  kmitu,   kterému od-
+povídá
+~~—^
+/
+/
+= ir- ^ak se stane/ záporným, s ním druhý summand atd.
+4
+Uvážíme-li, že při velikých /' vliv krátké spojky L' na váhu nepadá, tak že prvý summand v M zanedbati lze, shledáme, že pro ^ = nt 2n, 3nr f . . . k^ n bude M záporným. Největší možné L, určí se tím, že nalezneme nejmenší kořen rovnice
+a vyhledáme celé číslo, které vznikne při dělení /i na n .
+Od /=/i až do /=/a jest druhý summand v M kladným, od /=/2 do /•=. oo záporným atd. Odtud jde, že mezi k = O a k = /L,  kořeny L ležeti
+XLI. ﻿28
+budou v druhé polovici uvedeného hlavního intei vallu, od k = k^  do k = v prvé a od k = k^ do oo opět v druhé atd.
+Celé číslo k^ určí se podobně jako nahoře z relace
+
+2'í
+K l'
+Je-li na př. kl = 5, L2 = 8, budou kořeny rovnice ležeti v těchto kvadrantech
+Očividně nalézáme v místech, kde druhý summand z — do -|- přechází, dvě vlnové délky s poměrně malým rozdílem (11,12) a opět jiné, jejichž rozdíl jest zase nápadné značný (16 , 19). Takové dublety jako (11, 12) pozoroval pan Geitler v četných případech a uvádí je ve spojení s dubletami spektrálními. Tento spektrálně analytický obraz mohli bychom doplniti: neboť před k = k^ (11,12) dala by se frekvenční čísla přibližně vyjádřiti pravidlem Balmer-Kayser-Rungeovým. (Viz ostatně Rozpravy této akademie 1895 jakož i Wied. Ann. sv. 58, str. 271, 1896.)
+Pro extremně veliké /' a oscillace nižšího řádu máme na místo (XXIIIa) rovnici
+4^-log-^-LtgL=l;.......(XXIIb)
+přibližně jest potom
+= mk lf = (2 k — 1) -L-;       (L=1,2,3,...).
+Neboť tehdy jest i bvlf veličinou o řádu —' ^ ~*~—^L2, tudíž vedle jedničky k
+zanedbání. Rovnice odpovídá isolovanému systému IV IV U L'.
+A'                      ""2n
+K vůli pozdější potřebě uvádíme ještě dva výrazy pro ——, kdež m = —7—
+A                        /.
+položeno jest:
+kdež
+S =
+cos m « = —
+. (XXIld)
+A              ,.  .     v  o{
+r^ cos m (/-[-«)   ,
+^4                       ^
+tg w
+) log -P-
+ro/
+.(XXII-)
+XLI. ﻿Pro nekonečně malé m (nekonečné A) bude 5 = l a zároveň
+A'*                 K*
+4L
+(xxnf)
+Z výrazů   (XXIIc)  viděti,  že se prvý a druhý  faktor  s  rostoucím m či
+ubývající délkou vlny pravidelně umenšují aspoň pro vlny, jichž   '   > 2 (/-}-«).
+l
+Třetí činitel, nekonečné veliký pro /» = 0 a /#=oo, má minimum. Odtud jde, že extremně krátké a extremně dlouhé vlny nelze pozorovati v resonatoru umístěném nad větví II I II, nýbrž jen vlny ty, jichž délky jsou poblíže oněch hodnot, pro které nastává pro A* : A'* maximum. K této věci se ještě vrátíme.
+Výpočty numerické.
+Nahoře uvedené podmínky theorie nejsou při Geitlerových pokusech příliš dobře realisovány. Větev II, která proti větvi I značnou býti má, jest pouze dvakrát větší (7 = 100cm, Q = 50cm), avšak / není již malým proti délce vlny. Dále jest 2 r0 = 2 mm, 2 r'0 = l mm > Q' = 3 cm.
+Podmínka (3) jest dosti dobře splněna. Rádius kondensátorových desk jest 20cm, distance jejich 2a = d v tom případě,*) který jest podmínkám theorie nejpříznivější a jemuž větší pozornost věnovati míníme, rovna 4:5 cm. Elektrická síla mezi deskami prvého kondensátoru 5t jest v prvém sblížení
+6\ = ——-         , náboj L.=:—- — Sl. d                               ±n
+Účinek do dálky, na př. síla S2, kterou náboj na prvém kondensátoru vzbuzuje v centru druhého, bude málo rozdílná od účinku »magnetu« o momentu Eldt umístěného ve středu kondensátoru prvého. Při distanci center
+g = 50 cm bude 5Q = —^—, tudíž 52 : 5,  číslem dostatečné malým.
+Nejdůležitější podmínka, aby totiž několikanásobné g bylo ještě malým proti délce vlny, jest jen u nejdelších vln přibližně splněna, a následkem toho není v této oblasti kondukční proud tak stálým jak toho theorie vyžaduje
+Volme na př. nejkratší vlny o -'- = 178 cm.    Zoveme-li   ť0   intensitu   kon-
+dukčního proudu ve středu větve I, kde maximem jest, bude na konci větve I
+= í0 cos ——    — = 0'976 /i, >  v další však  distanci Q  na  II  může klesnouti
+A       4
+až na 0'0 i0   Podobná podmínka stran L' (35 cm) bude u krátkých vln také jen zhruba splněna.
+*) Zde lze totiž s poněkud větší oprávněností počítati kapacitu dle uvedeného vzorce Kirchhoffova.
+XLI. ﻿30
+Obracíme se nyní k výpočtu konstanty «0 — «, odtud pochodící, že potenciál desky kondensátorové není identickým s potenciálem drátu II v místě, kde do ní ústí. K vůli jednoduchosti předpokládejme, že jde o arrangement vyznačený ve figuře 7., kde tečkované čáry a čárkované písmeny náležejí deskám zadním.
+Kondukční proud u a vstupující běží dále po vnitřní straně desky horní a seslabuje se tím, že jako proud posunutí z části přechází na zadní desku, tak že u b jest již téměř nullou. Jde-li o značnou kapacitu, vystoupí pak
+ze zadní desky v síle téměř nezměněné. Kondukční proudy
+Jf              fj f        ^\ •L ^^ j        na přední a zadní desce exi-
+stující mají pak prvý maximum u a a minimum = O u b, druhý O u a' a maximum u b'. Možno tedy při výpočtu korrektury «0 — «
+/         \\            ji                   předpokládati,   že  rozdělení
+sil magnetických jest takové, Obr. 7.                                    jako  kdyby   proud   i  běžel
+osou systému (středem desky) v nezměněné síle. Plocha afgha (viz obraz) počínej při povrchu drátu II II a sáhejž až do fg, čáry to oba kruhové středy spojující.
+Počet silokřivek, jdoucích 'za rovinu papíru uvedenou plochou, budiž M' •=. \dtM, kdež ds plošný element označuje. Má-li určitý bod od osy
+spodního drátu odlehlost z, od horního o—s, bude JM=2ť\-----1---------l,
+V z       Q — gj
+a integrál přes pruh o šířce dx mezi horní a dolní deskou bude
+log
+o — z
+kdež L má význam ordinaty ve figuře vytknuté.
+Při dalším počtu čítejme x od středu dolního kruhu  na levo;   jest pak #a 4~ La = ^2 • kdež označuje R rádius desky. Jelikož jest Q>L, máme
+*L- - f ""    J
+log
+= — V dx log L + V dx log Q + V dx log
+f
+S=R
+XLI. ﻿31
+a po dosazení hranic M
+_:
+Proud u a jest
+R*
+
+2n
+Tudíž jest dle věty Maxwell-Faradayovy rozdíl potenciálů u/a a dán vzorcem
+a následkem toho
+Pf= - A sin 2- (/ + ,9) [sin -"" / + -^-
+log-^r neb pro dlouhé vlny
+2»        2»r
+•-rcos—
+Mezi a a f jest potenciál na desce něco větší, mezi f a b něco menší, a dá se snadno dokázati, že střední hodnota jeho jest od Pf málo rozdílnou. Výraz Pf považujeme za střední potenciál desky. Jest zřejmo, že jest rovný oné hodnotě, která by panovala při normálním rozdělení potenciálu v distanci
+K 91'
+— za místem, kde drát ústí do kondensátoru.
+log — 3 r„
+Numerická hodnota korrekčního člena kondensátorového jest tedy
+
+Dále jest
+tedy
+/ 4- « = 100 + 19-75 = 1 19-75 cm
+2n
+(T=l-f-Ctg—
+31-4
+--
+Při výpočtu koeíficientu samoindukce ve větvi L' není třeba hleděti ke kondukčním proudům v zadní desce; vznikla by tím korrektura náramně nepatrná. Výpočet dle Poincaréova vzorce dává
+U = 2 . 35 cm
+Aog ^~- - 1\ =
+437 09 .
+XLI. ﻿Elektrostatické koefficienty Ln , L12 , L2a lze určiti pomoct vzorce Kirch-hoffbva (při předpokladu, že tlouštka desky je nepatrnou).  Jest /? = 2a = 4'5<:M.
+Je-li potenciál na deskách -|- l a — l, bude náboj
+č       ,                R>       R   (.      SnR        \
+^ =*„-,„ = _ + _ (log —   -1).
+Je-li na obou potenciál -(- l , bude náboj *)
+—
+Odtud jde
+Ln = /;2a — 32-422 cm    a   L12 = — 26'056 cm. Numerická substituce vede k rovnici
+
+kdež jest
+_ ff  3.3652 \ /_!_ __ a9939 ^ _ 2.2290 tg f \ 2-1478 *(« + 2-2438 tg f) = 0,    ........ (XXI1-)
+Rovnici (XXII8) budeme tak řešiti, že položíme napřed rr= l a vyhledáme přibližnou hodnotu rjQ . Pomocí ní nalezneme korrekční faktor ff. Tím korrigujeme (XXII aj a vyhledáme lepší ij .
+Budiž /' = 0.
+Rovnice (XXII a) přejde, klademe-li <r = l , ve tvar
+ctg,=
+a  křivky
+Kořeny její jsou abscissy průseku  cotangentové křivky y = ct
+l— b*f      '
+Diskussí této křivky shledáme, že y jest nullou pro 17 = O, -f~°° Pro ^ = 0-97, že klesne po překročení této hodnoty na —oo, že prochází nullou při 17=1-51. Odtud počínaje zůstává y kladným a křivka blíží se přímce
+y==T~'
+Leží tudíž jeden kořen mezi O a l, druhý něco za n, třetí za 2 n, 3* atd. Pomocí regulae falši jest pro nejmenší kořen 17 = 0473, — = 797 cm. Ostatní délky vlny nebyly čítány, jsou asi 7, 14,.. .krát menší.
+Pro základní kmit nalezneme ?/ = 0'4344, — = 868r///, pro prvý vrchní
+l kmit 17 = 1-288, -=- = 292 cm.
+ů
+') Viz Kirchhoff, Vorlesungen p. 109.
+XLI. ﻿Za další  příklnd   volme  ještě  /' = 2000 cm.   Jest  tu  pro šest  po sobě jdoucích prvých oscillací
+I.    1 = 79°,
+II.    | =180°+ 54° 10',
+III.    | = 300°+ 25° l O',
+IV.    í = 540°—23°40', V.    f = 720° — G6°45',
+VI.    L
+-~ = 45f>7rw,   A
+2                       a.
+= 934-6 «w
+— =695-8^
+~ = 551' l cm
+z
+~ = 382-0 cm
+Z obrazce 8., který zde dle Geit-lerova pojednání reprodukován jest, a v němž abscissy znamenají /' v metrech, ordinaty pak dvojnásobnou distanci od elektrometru až k mostu resonatoro-
+vému,  tedy  přibližně --, jest na prvý
+600
+100
+z
+400
+6    8   10  12   l*t  k  18 20 m
+pohled viděti, že při l' = 2QQQí:m pozorován byl pouze čtvrtý, pátý a šestý kmit parciální. Průseky ostatních tří, arciť neúplných křivek s ordinatou
+/' = 20 m daly by - - i pro první  tři  nižší  kmity.   Pro  třetí jest ještě  pro-
+ů
+dloužení křivky  možné a vede ku — = 940.    Pro   /' = O   byl   pozorován
+pouze základní, pro /' = 50 cm tento a první vrchní kmit   Výsledky theorie a měření jsou v následující tabulce sestaveny:
+	I	II	III	IV	V	VI
+- theoreticky 2	4557	1537	934-G	095-8	551-1	382-0
+--• měřeno •	—	—	940	675	535	430
+						
+Pak
+/' = O        — theoreticky 797 cm, měřeno 835 cm,
+Koz pnvy. Ročník V. Třída II.
+XLI. ﻿/' = 50ťT*»        -sj- theoreticky 868 cm, měřeno 910cm,
+ů
+2
+292
+355
+Bylo již nahoře uvedeno, že Geitlerova čísla jsou zajisté něco menší než pravé hodnoty, protože kapacitu elektrometru vedle kapacity drátu re-sonatorového zanedbati nelze; z jiného však důvodu jsou zase příliš veliká, neboť resonator s kmity tlumenými reaguje maximálně na zevnější, rovněž tlumený periodický impuls nikoli při stejné, nýbrž při vlastní frekvenci vyšší. Je-li totiž (f jistý parametr oscillace, a i fl konstanty, a je-li zevnější impuls udán vzorcem qp = A smnter~bty vyhoví se známé rovnici
+integrálem
+[>/2 - V - (b -
+«2 (b -
+Zde znamená n 2*r-násobnou frekvenci zevnější, n0 onu, která volnému re-sonatoru nálež', b logaritmický dekrement zevnější, bQ onen resonatoru volného. Odtud jest zřejmo, že, předpokládá-H se (b — bQ} nezávislé od w, maximum resonance nastane při amplitudě
+A
+a při frekvenci resonatoru n0 udané vztahem
+Jak dalece se účinek kapacity zanedbané kompensuje protivným působením logaritmického dekrementu, nelze říci. Nebudou však vlivy ty příliš značné, jelikož diference vypočtených a měřených hodnot několik procent nepřevyšuje, vyjímaje vlny nejkratší, šestou při /'= 2000«» a druhou při /'=50r/#, kde podmínky theorie, jak již nahoře uvedeno bylo, méně dobře splněny jsou. Ostatně budiž ještě podotknuto, že theoretické hodnoty jsou proto poněkud malé, jelikož vliv odporu, v jiskře zajisté ne nepatrného, při výpočtu zanedbán byl. Není zajisté stejným pro rozličné kmity parciální; neboť s rostoucí frekvencí kmitů restringuje se jednak kondukční proud na vždy tenší vrstvu povrchovou, jinak září části vodiče u II I II více energie do prostoru, tak že logaritmický dekrement roste.
+Všeobecný theorem.
+Nalézá-li  se  v  dielektriku  systém  hmot  z materiálu  nekonečně dobře vodivého, jest dle věty Poyntingovy rozdělení sil elektromagnetických v každém
+XLI. ﻿35
+pozdějším okamžiku jednoznačně ustanoveno, dáno-li bylo v určitém čase / = 0.
+Úlohu tuto lze řešiti, známa-li jest geometrická povaha jednotlivých parciálních řešení typu periodického, jimž náležejí kmitové doby r, = — , r2 = — etc. ;
+l                ^2
+neboť pak se redukuje celý problém na určení jistých konstant, z nichž vždy dvě náležejí k určitému řešení parcialnému. Methoda, která zde k cíli vede, opírá se o následující větu:
+» Utvoříme-li výrazy jednak pro magnetickou, jinak pro elektrickou energii systému, nenaskytuje se ani v pn>ém ani v druhém člen odpovídající koexistenci řešení parcialných.*
+Větu lze považovati za dokázanou, dosvědčí-li se její platnost pro dvoje koexistující řešení:
+,) Xv...,    L = cos n} Sečtením obou obdržíme nové řešení
+X\
+a      = sn
+Y\ = sin n, (t + 0J \ Y, + sin *2 (/ + 0
+L M
+N
+, -j- cos wa (t -[- #
+Dle rovnic (l) a (II) jest při L = _3A;
+K ,      ;
+K
+..        ,        t W. yv: = -i J —s-*-.
+(XXIV)
+Podobně platí i rovnice, v nichž na místo indexu l psán jest index 2.
+Jelikož X, Y, Z značí sílu na jednotku elektromagnetickou, bude síla na jednotku elektrostatickou X\ F, Y: F, Z: F, F==3 x 1010; tudíž elektrická energie v krychlové jednotce
+XLI. ﻿36
+Je-li   ds  element prostoru  prostě souvislého a dielektrikem  vyplněného, bude výraz pro energii elektrickou Ee, potažmo magnetickou Em\
+in« «. (/ + 0.) f á. (Ai« + Fa» + 2,*) C «/.(*,*,+ X, K, + Z, 2i) sin «,
+= -Ji- cos' «, (f + ,•>,) f </. (i,2 + ^ » + N + J^- cos« «. (/ + *,) f rf. (V + Jf,« + A + -^- f </. (i, Z, + J/, J/a + A', W,) cos »,
+Na místo výrazu
+F„ = L f rfi (JT, A; + K, Ka
+sin
+cos », (/ + »t)
+lze psáti dle (XXIV)
+Pomocí Greenovy transformace obdržíme, vyrozumívajíce značkou ^/r/ element plochy na povrchu vodičů a písmenem ;/ normálu dovnitř vodičů čelící
+cos nx
+cos
+Faktor u í/?j stojící jest, jak snadno lze ukázati, úměrným k součinu z tangenčních složek elektrické a magnetické na povrchu vodičů, tudíž nullou, jestli je za nekonečné dobře vodivé považujeme, faktor u dt lze transformovati dle rovnic (XXIV), tak že obdržíme
+Podobně jest
+Těmto rovnicím se skrz n^ L n^ vyhoví jen tehdy, je-li zároveň nullou F^ i G^.
+XLI. ﻿87
+Pomocí vztahu všeobecně platného
+=    -       cos n,
+Z principu energie plyne ještě
+s (Xf + Yf + Z*} =
+redukuje se výraz  pro  energii  systému s libovolným  počtem  koexistujících oscillací parcialných na
+JSC = -^pf Jj sin"" «,• (/ + *,) J </« (X? + Yf + Z?) ,
+J * (Lf + M? + Nf) .
+(L? + Mf + Nf) .
+Na zmizení koexistenčních členů v obou výrazech energetických založíme methodu, která nám dovolí v našem případu určiti sílu jednotlivých kmitů parcialných z podmínek, které existují v okamžiku jejich vzniku, to jest v okamžiku, kdy uprostřed obou koulí s póly induktoria spojených skočí jiskra elektrická.
+Applikace theoremu.
+Dle našich představ jest na horní polovici větve I jakož i na horní větvi II až do jisté distance x = S , která však proti délce vlny nepatrnou jest, kondukcní proud ještě přibližně stálým, tudíž povrchový náboj elektrický nullou. Magnetickou energii E\m prostoru obsaženého mezi rovinou # = L a x = — oo lze pak snadno vyjádřiti nahoře určeným koefficientem samo-indukce L v příslušném dvakrát lomeném drátě II I II a intensitou proudovou. Elektrická energie v témže prostoru jest přibližně nullou.
+Dle (XII-) a (XI •) jest
+L.4|hff+4.hff
+ro                    ro
+kdež   ,=        i_
+log --
+Od x =. | počínaje budiž na drátech II II rozdělení sil elektromagnetických úplně normálním. Při koexistenci dvou elektrických oscillací bude dle rovnic (VII), (Vlil), (XII) a (XIV) při označení «ř1=2»/l1, w2 = 2*/;i2
+Z=
+
+sn *
+sn
+sn
+sin *•§
+-- ^- (Al sin «, (/ -f- #,) sin w, (x -\- «)
+A% sin «a (/ + ^t) sin ///, (x + «)) ,
+XLI. ﻿38
+L — O      M= -• j       -   At cos ;/, (/ -f #,) cos wt (a? + «)
+-f- Az cos >/„ (/ + #2) cos W2 (# A^= -^ —   — f yJt cos ;/, (/ + #1) cos MI (x -\- a)
+-f- AI cos tf2 (/ -f #2) cos w2 (a? -f- «)) ,
+P= — log — ( Al sin Wj (t -\- ^j) sin #/j (a; -f- «) r
+sn
+/ = — — —   yjj cos «, (/ -)- ^,) cos w, (x + «)
+COS
+sn
+COS
+Výrazy pro magnetickou, potažmo elektrickou energii prostoru, jenž jest obsažen mezi kolmýma k drátům rovinama x a x-\-dx, jsou při permeabilité
+F2 /* = !   a při w2 = --
+/! cos //, (/ -f- í'^) cos ;«j (a? -j~ «) -f- ^42 cos «
+cos //ř
+, sin ;/, (/ -|- »^i) sin Wj (a; -J- «) -f- ^2 sm ^2 (^ ~1~ *) sm W2 (* Element roviny k drátu kolmé jest dv\. Dle Greenovy věty jest
+Zde jest ds element  obvodu  drátového,  v normála  k  němu  kladně  čítaná dovnitř drátu.   Na obvodu horního, potažmo dolního drátu jest
+Ť*                                                               Y
+U = log —j-    rovno    77 = + log —,
+O     A.'                                       ----      O      „      '
+Tedy
+$
+jelikož se integrace vztahuje k oběma průřezům drátů. Utvoříce výrazy
+\ cm dx    a    \ee dx ,
+XLI. ﻿obdržíme magnetickou, potažmo elektrickou energii prostoru mezi rovinami Jest tedy
+\emdx = -^jřž- log y- \ dx (X cos «t (/-f- #t) cos *rt (s + a)
++ 4, cos «2 (/ + #s) cos /*, (x + «))*»
+*=/                                   x=/
+yedx= p^lag-jS-
+,**, (/ + *,) sin ^(2? + a)
+-f- ^2 sin «2 (/ + ^2) sin w2 (a? Magnetická energie prostoru na levo od roviny x = $ jest patrně -- ž2 neb
+-I« =    í log      - + « log
+
+COS *
+neboť lze se zřetelem k tomu,  že distance a -\- L nepatrnou jest  proti  délce vlnité, psáti místo cos ml (x -\- «) v obvodu sáhajícím až do x = f prostě l. Píšíce
+J*( )—j
+«=f                          -<
+obdržíme se zřetelem na výrazy pro energii magnetickou, potažmo elektrickou
+V dx (   ) = \ dx X cos ;/j (*+#,) + ^2 cos «
+cos «, (* + *t) + ^ cos «2
+potažmo veličinu velmi malou o řádu
+
+ve výrazu energie elektrické.
+Bude tedy elektrická energie celého prostoru na levo ležícího od roviny x=-l velmi přibližné rovna
+/ = i^yi log y- \
+dx   A  sin
+#, ) sin w, (x + «)
+\ *
+sin wa (/ + ť>2) sin wa (* + a) J
+XLL ﻿40
+Připočtením výrazu E\m ku   \ cm dx   obdržíme   podobně   pro   magnetickou
+energii téhož prostoru
+.,               r*
+Lm,ll =-^2- log -L- V dx ( J, COS ?/, (t-\- fl-j) COS ///t (x + «)
+— a                                                                                             \ 2
+-f- AI cos ;/2 (/ -f- &) cos wa (o; + «) J   .
+Energie řečeného prostoru jest tedy zrovna tak velikou,  jako kdyby příčky I I ani nebylo a normální rozdělení sáhalo od x = — « až do x = t.
+Výrazy   pro  energii   v  obvodu  drátů  IV IV   mezi   rovinami   x' = O  a x' = — «' lze z podobných důvodů přímo napsati. Bude
+sn »
+sn
+sn
+sin ;;/2 (a;' + «')* ,
+V = -        log   r
+cos Wl
+4- ^l'a cos »2 (/• 4- ^a) cos wa (xf -f- «' Energie obou kondensátorů dohromady jest patrně
+Le,k0nd = (Bn A + /řla />') 1\ + P' (B„ P, Zde jest*)
+Pl = — log —   Ai sin »j (t -f- ^,) sin wt (/ + «)
+sin
+sin
+a P' dle (XVII)
+P' = — A't sin ;/, (/ -|- »'^,) | log -, sin w, «' —  ^ ;«, cos /«, «' )
+V       r o
+/       '                  7 '                  \
+— /í'2 sin w.^ (t -\- ^) ( log -r sin w2 «' -- ^- ^2 cos wa «' J .
+Dle rovnic kontinuitních jest *x=i = — o— í ^i cos /^ (/ + ^, ) cos w, (l + «)
+^5 O)    V
+--
+cos »
+cos
+— —
+cos «
+cos
+cos
+cos
+~ .
+*)   Nehledíme  zde   k   vůli  jednoduchosti   ke   korrektuře  kondensátorové,  kladouce «„ — a = O , tudíž o = l.
+XLI. ﻿41
+Integrujíce a nepřihlížejíce k věcně bezpodstatné  neperiodické konstantě integrační, máme skrz
+l             l           K       l
+další vztahy
+q (/-j-
+K   ( ,          ,    ,       v cos;//, (/+«)
+>' = --^ U srn «,(,+ »,)-    &JL
+sin »
+cos ml a m*
+
+Provedením   naznačených   operací   nalezli   bychom   Le,it<mď    Nás   však interessuje pouze koexistenční člen JLe,koaá udaný relací
+AT sin nv (/-f i^) sin n^ _         n   A1A^ f sin Wj (/-|- «) cos /«„ (/-[-«)   .^ sin w,2 (/-f- «) cos w, (/-|- «) ^v
+Iog70-^-^-       -5—                         -sr         J
+_ .      Q'_ A\ A\ f sin w, «' cos ;«tt af   .   sin w2 «' cos mí a' °g/-'~      2         ~          w,                             ///
+H~ ~j—
+4
+— cos w, a'. cos ;//„ «'
+= —V-2- log -—    — 2 \ sin ///! (a: + «) sin w2 (a; -f- «) ^a:
+•           ro            J
+L.           x = — a
+;// «_LW « f""
+-|-----S-—!-—5 - \ cos ;«, (j; + a) cos ;//2 (a; + a) ^
+12        «
+* =      a
+-o'
+\ sin ///, (x' -f- «') cos w, (xr -f-«') ť/a;' o
+/2 (a*' -|- ""') ^'
+cos W
+i   Z,'         . .   /». a -f- ///„ 2 + ~r «« i ^ « — J        — — cos /;/. «' . cos w„ «'
+Konečně jest nám ještě přihlédnouti k magnetické energii v oboru obou drátů L'. Přijavše je v theorii za kapacity prosté, nepřisuzujeme oboru jejich
+XLl.
+- ﻿energii elektrickou. Jest pak L'      K
+.
+\ COS «, (t -\- #t) COS Wt «'
+COS W
+Dle theoremu nahoře dokázaného jest koexistenční člen v úhrnné energii jak elektrostatické, tak magnetické nullou. Poslední požadavek vede ku
+log — Al Az \ dx cos ml (x -\- a) cos m^ (x -|- «)
+-a'
+~r A\ A\ V dx' cos m^ (x' -|- a') cos ;//a (x' + a') ** o         "" J
+-j- — /J'j yj'2 COS #/,«'. COS W2 «' = O
+(XXV)
+Prvý  požadavek vede k téže rovnici, jak se provedením   počtu  snadno přesvědčíme.
+A         A
+Budiž ještě podotknuto,  že poměry —L- a —,— určené rovnicemi (XVIII)
+Al       AI
+neb (XIX) jsou pouhými úkony délek vlnitých í.,, potažmo X2 a konstant pokusu. Rovnici (XXV) lze ještě vhodně transformovati pomocí relací
+\ dx cos m^ (x -f- «) cos w2 (x -\- a) = - — sin w2 (/ -f-«) cos ml (/ -|- «)
+J                                                                   ""*2
+— a
+-f- —*- \ dfa; sin ///! (r» -]- «) sin m9 (x -\- a) ,
+^2   J
+— a
+— a'
+\ í/a;' cos w, (a;' -|~ ""') cos ;;;2 (^' + a') =-----"""" sin wa «' cos wt «'
+b
+-a'
+—j—     \ ť/a/' sin ?«. (a/' -4- «') sin ///« (a/' m^ J o Dosadíce do (XXV) nalezneme
+Al AI log —\dx sin *#! (a; + a) sin w2 (a; -)- «) o »/
+— a
+— a' /    f*
+-f- -í4', ^'2 ^°g — >- \ dd sin ;A/i (^f -f- «') sin w2 (a?' -|- «') ^ « .l
+cos m, ď . cos m„a' ~
+1         Q       At         At       '                t      COS m\   n            ^
+log -,- A , ^4 2 sin wa « —   -í— = O r o                               wi
+cos M
+(XXVI)
+XLI. ﻿Určení síly jednotlivých parcialných kmitů.
+Vztahy (XXV) a (XXVI) zůstanou v platnosti, nahradíme-li indexy l a 2 jinými libovolnými / ay', a lze jimi určiti intensity jednotlivých kmitů parcialných z daných podmínek počátečních. Tyto bucftež následující:
+V čase t = O ať jest na větvi II potenciál P předepsanou funkcí polohy, tedy P = <f(x), na větvi IV pak P=<l>(x').
+Současně budiž v témže čase dáno rozdělení proudu, na větvi II výrazem /= i/>(#), na větvi IV t = lP(x'). Dále panujž kontinuita potenciálu pro místa, kde dráty do kondensátorů vstupují a z nich vystupují. Na spodních drátech budiž až na znamení všechno stejným.
+Píšíce za AJ cos HJ fy a Aj sin nj #/ ve výrazech (XIII) a (XIV) prostě BJ, Aj, čímž tyto značky arciť nového významu nabývají, máme na drátě II
+j — oo V1             Q
+— P=   /j   l°g — (Aj cos tijt-\- BJ sin nj t) sin mj (x -[-«),
+y=i         r<>
+00
+— 2 * w = V cos ntj (x -\- «) (cos HJ t BJ — sin «,- / AJ).
+Pro větev IV platí podobné relace, jen že-na místo Q, r0, Aj, BJ, x} « nastoupí hodnoty o', r'Q, A'j, B'j, xr, a'. Zároveň jest ~é~==~^r^ zůstanou
+tudíž   obě   relace   (XXV),   (XXVI)   v   platnosti,   nahradí-li   se   písmeny   A písmenami B.
+Pro čas t = O máme
+(XXVII)
+— q, (x) = log -^- [AI sin w, (x -J- a) -f- A^ sin ;//2 (íc -f- «)
+(x) = />, cos ml (x -J-
+= log *r (A\ sín wi (^ + <
+cos
+— 2 oj «f a^ =
+cos
+cos sin
+cos w2 ' cos
+(* + «)-}-...,
+Abychom určili konstantu Bl (neb B\\ násobme druhou rovnici v (XXVII)
+na dx log — Bl cos Wj (a; -|- «) a integrujme od x = — « do x = /t čtvrtou *o
+násobme   na    dx' log — ,- B\ cos ;//, (x' -f- «')   a   integrujme   od   a;' = O   do
+XLI. ﻿44
+x' = — tť. Oba výrazy sečtěme. Obdržíme
+i                                                                    --O'
+[f                                             of f                                 i
+Bl log — \ ip (x) cos ;;/j (a: -f- a) dx -f- J7', log -V V dx' I1f(x') cos w, (x* 4«')   2 co ''o J                                                    roJ                                      J
+— a                                                                                                O
+Q r    f                                  f
+= log —   />,2 \ cos2 m. (x -4- a) dx -}- Bl B„ \ dx cos m. (x -4- a] cos m„ (x -f- ft)
+'• L     J                                    J
+— a                                                                       — a
++ A^3  \ dX COS Wj (# 4"" a) COS W3 («+«) + ••'
+cos
+cos
+cos
+— a'
+\ B' * \ rf*'
+Zř'« B'., \ dx' cos Wj (x' 4 ""') cos Pomocí rovnice (XXV) redukuje se pravá strana na
+/                                                                         -o'
+C                                          '         f
+log -f- />\2 \ ^a? cos2 Wj (a? + «) 4- \og-~ B'^ \ cos2 ml (x' -{- a') dx' ro         J                                       r o        J
+- B\ cos wt cť [Z?'2 cos w2 «' 4 ^'3 cos »/3 «' 4~ • • •] • 2
+K určení veličiny ^  (neb 5'j\ jichž poměr jest známým úkonem známých veličin dle (XVIII), máme tedy rovnici
+/                                                                         —a'
+oč                    'C
+O = log — Bl 2 V dx cos2;//! (a? + «) + log -y ^',2 V cos2 w, (a/ 4- u') dx'
+%             w                                                               '' O              J
+— a                                                                                O
+-|——- B\ 2 cos8 ntl a' -j—— B\ cos Wj «'. 2 w */'*(«' = 0)
+/                                                                               -a'
+r                                   *
+f w L, log — \ *(*) cos w, (a: 4~ a) ^ 4"" 2 w B\ log -,-; o J                                                         r o
+— a
+Dle dřívějšího jest
+Zrovna tak určíme B i neb /?'/, dosadíce za index l index í. Podobně určíme konstantu Aít potažmo A\.
+Prvou a třetí rovnici v (XXVII) násobíce na Al dx sin ;//t (x + «), potažmo \ ť/x' sin w, («' + «')> integrujíce a sečtouce jako dříve, máme po upotřebení
+XLI. ﻿46
+vztahu (XXVI)
+— a'
+- Al \ dx cp (x) sin w, (x -j- «) — ^', \ '/' (#') sin w, (a?' -f- «')
+-a                                                             O
+/                                                                         —a'
+= log -?- ^, 2 \ <& sin2 wt (* + «) + log -L- yf, • \ </*' sin2 ro        J                                       r o        J
+— a                                                                               O
+m
+L/         ,     COS «!,«'.
++ log —r A \ -               [^2 sin
+sin
+(>         cos wt (/ -|- «) r A             1 1  i     \  i    /i    •         / / i     \
+— log-- A -                 -^    A sin ;//„ (/ + «) + ^Í3 sin w3 (/+ «)
+r0                Wj
+Z,'          cos w, «' / .,
+1
+. . .
+COS W„
+COS
+Transformujíce dále, máme relaci
+,     C * («') sin w, (*' + «') ďy — C°S J1 ""' «í> (x' = 0)
+log
+x sm2 w,
+COS W, (/ 4- «)    . -                         sin
+i
+r j»• o  / f i fx   sín m\a' c°s wi""'
+\ ^c sin2 w, (a; + « )-------------------
+J                              'i
+/'                  /'
+4-^,«cos'Wl«'+4-,j',
+cos w
+r=o
+
+Způsob, jakým se oscillace elektrické zavádějí, jest přibližné tento.
+V jistém okamžiku těsně před / = 0, kdy mezi koulemi na vodiči I jiskra skočí, jest horní polovice vodiče I, horní vodič II a spojená deska kondensátorová ještě na stálém statickém potenciálu /. V okamžiku t = O lze míti za to, že se napjetí elektrické ztratí jen v sousedství koulí; na větvi II a souvislé kondensátorové desce jest P ještě stálým =/. Na dolní symetrické polovici jest P= —/. Na vodiči J/, jenž se skládá z obou zadních desk kondensátorových, z obou větví L'IV a z mostu BB^ bude rovněž existovati ještě potenciál statický všude stejný =/' Označíce kapacitu vodiče Z/, IV, B B, IV, L' písmenem y, najdeme, že náboj vodiče Mt který jakožto
+XLI. ﻿46
+náboj  isolovaného   vodiče  dle  podmínek  pokusu od nully  se  lišiti  nemůže, ustanoven jest vztahem
+Jest tedy /'=0.   Uvážíme-li,  že v čase / —O  na všech místech  mimo vybíjecí koule i = O jest, shledáváme pro t = Q podmínky tyto
+<T (*)=/,         *(*')=(),
+Ví (a?) = 0,         V'(*') = ().
+Odtud obdržíme předně ^?, = B^ = ... O, pak
+= log
+l. cos'' m, /' .  (XXVIII)
+Přihlížejíce k určité parciální oscillaci seznáváme, že příslušná délka vlny A, caeteris paribus roste s rostoucím /', a že jest A, jen tenkráte ne-
+2 n konečným, tudíž m^ = — — jen tehdy nullou, je-li /' nekonečně velikým. Jde-li
+/v
+nyní rnv od O do nekonečna, vzroste prvý summand v jmenovateli (XXVIII) rovněž od nully do nekonečna, a sice pravidelně, jak se utvořením derivace dle 2 w, (/-{-«) přesvědčíme. Druhý summand tamtéž jest vždy kladný; dle
+A""1                            l
+(XXIlc) jest  pak  pro  wi1=Q ——^ veličinou o řádu — ^»   ^ Pa^   °   ^^u
+(mí /'). Avšak ;//t může býti nullou jen pro /' = oo, a tu platí (viz pag. 28.) pro kterýkoli (L-tý) parcialný kmit mkl' = (2fc — 1) ^ , tak že (w*/') stálým
+a konečným zůstává, dokud jest /' velmi značným, tudíž w* náramně malým. Jest tedy druhý summand nekonečně velikým pro wt =0, a jak se snadno přesvědčíme, opět nekonečně velikým pro 0^ = 00, celý jmenovatel tudíž nekonečně velikým jak pro ml = Q, tak pro m^ = oo ; dojdeme od mí = 0 vycházejíce bezpečně napřed k minimu jmenovatele, t. j. k maximu Aí.
+Odtud plyne věta, &c intensita kteréhokoliv, avšak vždy téhož parcialného kmitu dojde napřed maxima, jde-li se od /' = O ve směru rostoucího l'. Větu tuto usoudil již pan Geitler ze svých pokusů a vyjadřuje ji v ten smysl, že intensita má maximum na t. zv. »konjugované« křivce, t. j. dle naší theorie na křivce, která pro určitý parcialný kmit udává souvislost mezi abscissou /'
+a ordinatou — . 2>
+Přesné určení polohy maximové znamenalo by úlohu velmi rozvláčnou. Omezíme-li se na kmity s tak dlouhými vlnami, že - — V~— — - proti jedné
+XLI. ﻿47
+zanedbati lze, máme dle (XXIIC) pro L-tý parcialný kmit
+A' ,
+'
+pak jest
+Následkem toho bude
+m
+(XXVIIIa)
+Maximové /' leží zde při
+4^,,'log^
+m*!:L ir
+neb
+l)lf _ _    3 /_______(Zk— 1)
+'         — V /              9'           9
+\ 8 log    , log — ^j,
+ro             ro
+' = i (2 *-!)•«• log A- log -Z-
+Lze odtud též viděti, že se s rostoucím řádovým číslem k maximum ono posunuje ve směru rostoucího /'.V případě nahoře propočítaném bylo
+(/+ «) = 119-75 cm,   Lia = — 26-06 cm,   log -^- = 4-095,   log — = 6'214 .
+O                                                      O
+Pro prvý, druhý a třetí parcialný kmit leží ""maximové /' u 273'4 cm, potažmo u 567 cm a 800 cm. U prvního kmitu schází v Geitlerově pojednání údaj, pro druhý, potažmo třetí kmit leží pozorované maximum při 550cm, potažmo něco před 800 cm. Pro čtvrtý kmit náš přibližný vzorec již ne-vystačuje, nalézáme /'=1000í7// místo pozorovaných asi 1800 cm*)
+Chceme ještě vyšetřiti, kterak jest intensita rozdělena od jedné oscillace k druhé. Z (XXVIII) vidíme, že při stálém /' jmenovatel výrazu má minimum, tudíž že určitému parciálnímu kmitu bude náležeti maximum intensity. Po-važuje-li se totiž m za nepřetržité proměnlivé, bude jmenovatel netoliko pro m =0, nýbrž i pro m = oo nekonečné velikým. Pro m = 00 jest to okamžitě
+A'*
+zřejmé,  pro «/ = 0,   t. j. pro vlny  velmi  dlouhé,  jest   T         dle (XXIIf)
+A
+a (XXVIII) o řádu l/m. Má tedy onen parciální kmit maximum intensity, pro který jest jmenovatel minimem. Prvý summand jeho jest při značnějších /' velmi malý a roste pomalu s rostoucím /«,, jak se derivací dle 2 ml(l-\-a) přesvědčíme. V druhém summandu roste rovněž faktor T (člen T/WJ cos8 mvl' nemá vlivu při značných /'), bude tedy o poloze minima rozhodovati minimum zlomku —Ar.
+
+*) Geitler, Sitzber. d. kais. Akad. Math.-naturw. Classe. Bd. CIV., 1895, p. 998, Tab. I.
+XLI. ﻿48
+Při velmi značných /', kde vliv spojky L' zanedbati lze, jest dle (XXIIC)
+AT2            L2
+kdež
+=    « A-2
+cos  n
+2  /""         >4   2
+l    f          •**()
+TU^
+yj '        *
+Prvý faktor v      *   , totiž cos217 mění se pomalu a zmenšuje se s rostoucím
+w,. Nastane tudíž minimum celého jmenovatele v (XVIII) přibližně tam, kde
+A'*
+leží minimum uzávorkovaného činitele ve výrazu 2 . Polohu jeho, t. j. příslušné 77, lze snadno nalézti dle pravidel diferenciálního počtu. Shledáváme, že jest nezávislým na /'.
+Odtud jde,  že ten parcialný kmit má maximum  intensity, jehož   délka
+A' 2 vlny je nejblíže oné délce vlny, pro kterou jest —r^- minimem. S rostoucím /'
+A
+stoupá délka vlny pro každý parcialný kmit, kdežto maximum vždy vázáno jest na určitou, na /' nezávislou délku. Musí tedy s rostoucím l' maximum intensity přecházeti ke kmitům řádu vyššího.
+Zvláště zajímavý jest vliv distance desk kondensátorových. Stojí-li daleko
+2 R
+od sebe, redukuje se L12 téměř na nullu, Ln a A,2 pak na -----. Následkem
+n
+toho jest činitel u A^ náramně velikým, tak že BQ* zanedbati lze, a minimum leží tam, kde A0 jest nullou, tedy kde dle dřívějšího leží délky vlny o poměrně nejmenší differenci. Odtud jde, ze při značné distanci desk pozorovati můžeme jen tak zvané dublety.
+Při deskách nekonečně blízkých jest b^ =L22 náramně veliké a od —L12
+n
+málo rozdílné. Skrz Ln-{-Ln = ~- máme
+n
+«(/+«)
+Tento výraz se mění v oboru vln měření  přístupných  velmi pomalu.   Budiž jako nahoře
+log-- = 6-2,        log-V = 4'0,       R = 2Qcm,
+«= 120««.
+XLI. ﻿49
+Pro
+jest na příklad
+A\
+'   2
+po  sobě  rovno  hodnotám   l,   1'2,  6'4.    V  intervallu
+^=00   do — = 480 cm lze je  za stálé  považovati.   Dle  rovnice   (XXVI11)
+ubývá pak amplitudy jednotlivých parcialných kmitů přibližně s jejich délkou vlny, aniž by existovalo markantní maximum, tak že počet kmitů, jejž v re-sonatoru pozorovati můžeme, jest nepoměrně velikým. Vše to souhlasí s pozorováním pana Geitlera.
+Vrátíce se k dříve propočítanému příkladu numerickému, kde distance desk 4*5 cm obnáší, chceme ještě pro /'=2000 udati amplitudu potenciálů pro prvých šest kmitů, a sice v procentech oné difference potenciálové, která panovala na koulích I v okamžiku, kdy skočila jiskra.
+I           II          III           IV           V           VI
+2%       7%        19%       23%       16%        13%.
+Maximum leží zde při IV-tém kmitu. Dle Geitlerových pozorování jsou elektro-rietrické odchylky pro IV V VI udány čísly 8, 11, 5, tak že by maximum (ploské) leželo při oscillaci V-té. Ostré maximum při IV-té oscillaci vidíme dle připojené tabulky při málo rozdílném příkladě /' = 18 m. V tabulce *) označují menší číslice odchylky elektrometru, větší v závorce půl vlny dle měření p. Geitlera. Hvězdičky znamenají maximum.
+/' v m	II	III	IV	V	VI
+20	—	—	8 (675)	11 (535)*	5 (430)
+18	—	3-1 (865)	14-3 (625)*	8-8 (495)	? (390)
+16	—	3-4 (780)	7-9 (580)*	3'2 (450)	—
+14	—	4 (710)	6 (530)*	1-3 (400)	—
+10	2-2 (920)	10-2 (580)*	3-8 (410)	—	—
+6	12-8 (685)*	6-2 (435)	—	—	—
+Z tabulky je viděti, že v souhlase s theorií s rostoucím /' maximum se posunuje ke kmitům vyššího řádu. Půlvlny k němu příslušné zůstávají v úzkých mezích, mezi 530 a 685cm. Přibližně udává dle hořejších vývodů řadovou velikost půlvlny, pro kterou maximum intensity nastává, ona půl-vlna, která činí A\2: Al * minimem. V daném příkladě rovná se asi 480 cm.
+Co do měření elektrometrických dlužno uvážiti, že dle vlastního udání páně Geitlerova jsou udané číslice výsledkem jediného měření, že mohou tedy
+*) Geitler, Wien. Sitzber. 104, p. 9í>8, 1895.
+Rozpravy. Ročník V. Třída II.
+KU ﻿50
+v sobe obsahovati podstatné chyby, pocházející od velmi proměnlivé a nespolehlivé účinnosti elektrické jiskry, která tak dalece klesnouti může, že oscillace mnohdy vůbec nevznikají.
+K této okolnosti nehledíc, nemůžeme ani tvrditi, že by odchylky elektrometru byly měrou zdvojmocněné amplitudy A ve vodiči II I II . Je-li totiž B amplituda elektrické síly v elektrometru, btí a «0 její logaritmický dekrement, potažmo 2?r-násobná frekvence, bude okamžitá dvojice na jehlu úměrná ku
+impulsivná dvojice, tudíž i ballistická odchylka, úměrná ku
+l                                                            2Č>n     '    1      l      ^0*
+*                          +V
+Dle dřívějšího není ani Z? úměrným ku A. Bez zevrubné znalosti průběhu logaritmických dekrementů nelze tudíž elektrometrickým měřením připisovati větší přesnost nežli tu, že nás přibližně orientují o průběhu amplitudy A.
+Avšak i čísla  theoretická  jsou podrobena  námitkám.   Intensita určitého parcialného kmitu závisí hlavně od A\* l A^*, udaného vzorcem
+'ifO                               O               7        O                             /-^.r*                       i        n
+A^         COS2 )/     #22
+y*i          cos'' L   #12
+závisí tedy podstatně od |, t. j. od nadbytku nad kn ve vzorci | = L;r-(-..., tak že malé chyby v délce vlnité mají v zápětí závažné změny vypočítané intensity.
+Takové  nepatrné  chyby  v -     nejsou   vyloučeny,   poněvadž   ze   všech
+t
+daných hodnot nejméně správnou bude hodnota kapacity, byť i byla vypočtena dle vzorce Kirchhoffova. Při odvození jeho se předpokládá essencialně, že distance desk 2a jest nepatrnou proti radiu, podmínka u Geitlerových pokusů méně dobře splněná. Lze ještě připustiti, že Kirchhoffův výraz pro bvl—^,2 jest poměrně dobrým i při větších 2«; za to jest však méně
+správným   výraz   Ln-|-L12 =—,  který  odpovídá  kapacitě  desk  na stejný
+fi
+potenciál nabitých a dle odvození platí a správným jest pro 2 a nekonečně malé. Uvážíme-li totiž, že elektrická energie systému při daném náboji jest úměrnou k reciproké hodnotě kapacity, shledáme snadno, že při velmi malých 2a kapacita jest větší nežli při větších 2a, protože sbližování desk jest spo-
+r>
+jeno s nákladem práce. Nutno tudíž za - L položiti číslo poněkud větší.
+n
+Precisnéjšího souhlasu theorie docílili bychom tudíž při poměrně větších R a menších 2a. Zároveň by bylo žádoucno zmenšiti distanci parallelních drátů II II, protože pak s větší pravděpodobností za to lze míti, že kondukční proud ve větvi II jest do vzdáleností, Q mnohokráte převyšujících, ještě týž jako na I.
+XLL ﻿51
+Postupující vlny na drátech Lecherových, jejich lom a reflexe.
+Jednej ž se opět o svazek rovnoběžných drátů po obou stranách do nekonečna jdoucích. Rovnicím Maxwellovým vyhovíme opět kladouce
+kdež jest   _  2= w2 .   2   (rovnice VI). Integrálem jest
+) má význam dřívější, jest na př. pro dráty Lecherovy log-,-.
+Nalezené řešení odpovídá vlnám libovolného tvaru, jež postupují ve směru bud kladné neb záporné osy #-ové.
+Příslušné síly magnetické obdržíme z rovnic (II), kladouce f* = l
+Neexistuje-li statické, t. j. na čase nezávislé rozdělení sil magnetických, bude
+co    O %                                             oj    O <c^
+A^=----^—f(™t — x)------^-'-- F(x + co/).
+co    O y                             oj    cy
+Jest tedy v rovině k drátům kolmé pro kteroukoli postupnou vlnu rozdělení sil elektromagnetických podobné jako u vln stojatých.
+Intensitu kondukčního proudu / ve směru -f- x určíme jako dříve. Nalezneme totiž z dříve odvozené rovnice
+
+Reflexe a lom následkem různé tlouštky drátů.
+Budiž na levé záporné straně osy #-ové tlouštka drátu r0, na pravé kladné r\}. Osa drátu r0 ať přejde direktně v osu drátu o tlouštce r'0, tak že jest Q stejné. Předpokládejme, že z levé strany (— x) dopadají na rovinu
+4* XLI. ﻿x = 0 postupné vlny
+P = An(y,z)f(«t-x),       4«i = ^
+Z této vznikne zpět béžící reflektovaná vlna
+a vlna lomená Pt = ^, /I,
+^, ^4', ^, jsou amplitudy vlny dopadající, odražené a lomené, ni jest hodnota funkce pro kladné, 77 pro záporné x.
+Normální rozdělení sil elektromagnetických, jak je předchozí vzorce vyjadřují, nebude arciť sáhati těsně až k rovině x = 0; naopak lze míti za to, že mezi x = — | a x = g nastane jistý stav přechodní. Je-li, jak předpokládati chceme, tento obvod f -)- f ' malým proti délce vlny, tuto předpokládajíc za periodickou a velmi dlouhou, bude se hodnota potenciálu v x = — L jen velmi málo lišiti od oné v a? = f, zároveň bude však resultat substitucí x= — L do P a />', jakož i # = L' do jP, prakticky týž, jako kdyby bylo | = J' = 0. Podmínka kontinuity potenciálů pro x = 0 dává tudíž prvou rovnici
+Tato má býti splněna pro každé místo, kde se stýkají dva dráty různých tlouštek. U Lecherových drátů, kde 77 má hodnoty na obou drátech protivné, jest jí snadno vyhověti. Přejde ve výraz
+Do určitého kusu drátu, omezeného rovinami x = — L a x = L', vstupuje na konci levém jistý kondukční proud. Část jeho, při dlouhých vlnách zajisté velmi nepatrná, vystupuje povrchem jako Maxwellův proud posunutí, kdežto druhá část běží u r = J' dále. Lze tedy v abstrakci psáti
+l'_ ,-f-*•'_, =
+neb
+U drátů Lecherových jest integrál v poslední rovnici nezávislým na tlouštce drátů, máme tedy kratčeji
+Tytéž úvahy by zůstaly v platnosti, kdyby těsně před x = O při x = — L dráty se symmetricky sbližovati neb vzdalovati počaly, tak že by při x = -f- J' běžely opět parallelně, v distanci však (>'. Není li Q' mnoho rozdílné od p, jak zde předpokládati chceme, mohou vzdálenosti L a L', za kterými již nor-
+XLI. ﻿malní rozdělení sil nastává, býti, jak se zde požaduje, velmi malé.   Lze tedy prvou podmínku také psáti ve formě všeobecnější
+— log r0
+Odtud jde
+*
+A
+V odvození těchto vzorců nepřijali jsme změnu fase. Bude tedy změna její nullou, vyjde-li A' kladným, a nastane změna o _+_ n při periodických vlnách, vyjde-li A' záporným. Al jest vždy kladné. Jest zde patrná analogie se světlem kolmo dopadajícím na rozhraní dvou ústředí, při čemž poměr (log Q — log r0) : (log Q' — log r'0) odpovídá indexu lomu z leva na právo. Různí-li se jen tlouštka drátů, tedy je-li L = (>', bude
+Jť_
+A
+log^
+2^ílog^-
+:^<?
+Nastane-li jen změna distance, r0 = r'0 stejné předpokládajíc, bude
+A' A
+Co do změny fase má tedy rozšíření drátů na positivně straně osy ar-ové při nezměněné tlouštce týž effekt, jako zmenšení tlouštky při nezměněné distanci. Počet numerický ukazuje, že tyto vlivy jsou velmi značné. Je-li
+na př. rf0 = ^-r0, -^-=100, bude A' = A.W15.
+»          ro
+Běží-li dráty původně v distanci Q, pak jistý kus v distanci Q' a zase v distanci (>, nastanou zjevy podobné jako při interferenci tenkých lístků. Fase reflektované vlny jest pak závislá na velikosti intervallu tf, kde nastalo zvětšení neb zmenšení distance. Intensita a fase vlny tímto místem poruchu reflektované, případně odražené, dá se dle známé methody Fresnelovy vyšetřiti.
+Budiž tfia koefficient reflexe v mediu l na rozhraní medií l a 2. Podobný význam měj #21. V našem případě jest
+'12
+Příslušné koefficienty lomu jsou
+o   o
+XLI. ﻿54
+Je-li  pro  dopadající vlnu  při vstupu do místa poruchu  potenciál  udán vzorcem cos----/, najde se pro odražený podíl v témže místě
+Id
+kdež jest
+t8""""T"" ~ =7             —4ÍT-
+l -f- a* o   cos —.—
+Podobný výraz platí pro vlnu lomenou.
+Odraz a lom na kondensátoru.
+Týž budiž vřaděn u x = Q tak, jak obrazec 9. ukazuje; dráty sáhají při tom od x = —oo do x = oo. Předpokládajíce vlny periodické, pišme používajíce výhody, již poskytuje upotřebení komplexních amplitud,
+— X
+Obr. 9. pro dopadající vlnu, jejíž amplitudu za jedničku považujeme,
+(*   7\ TJ           fV (jtot — *)
+p=n. **«<»-* >,      4»i=- \-~-ds--------,
+J  on            to
+pro odrazenou
+í* D 77       ev(toí-P' = A'n.ev(tt» + x),        4nť — A \         ds~
+OJI   ,   ^<řt
+pro lomenou
+p, = 4 n.
+Zde jest * =     -   -     . ^ = délka vlny.
+A
+Potenciál na horním drátě těsně před x = 0 jest P-\-P\ těsně za # Pl. Kontinuita jeho zde platná vede k rovnici
+= O
+Proud kondukční u X = O na záporné straně #-ové jest / -\- i', na straně kladné  tt.   Zbytek  i-\-ť —1\   slouží k  náboji  kondensátoru.   Se zřetelem
+XLI. ﻿k tomu, že obě desky kondensátorové mají potenciál protivný, bude v platnosti
+neb po dosazení hodnot a v úvaze, že pro Lecherovy dráty jest na povrchu
+drátu horního
+D/7
+neb
+Jako dříve lze místo ^n — L12 psáti dvojnásobné měrné číslo kapacity C kondensátorové v míře elektrostatické (která odpovídá nábojům na deskách jeho protivně stejným).
+Nalezneme dále pro komplexní amplitudu vlny odražené
+A' =
+T C
+kdež jest neb
+A' cos —    — — — q,
+při čemž & leží mezi -'- a -5-, protože jest y číslem kladným. 4         A
+Je-li tedy dopadající vlna udána vztahem
+T                 ftí
+bude platiti pro reflektovanou
+Její amplituda jest nullou pro 26""=^n — ^12=0, t. j. v nepřítomnosti kapacity;   naopak  nastane  úplný  odraz pro C,  tudíž i ^ nekonečně veliké.
+Zpoždění   fase leží  mezi  - - a — ,  a sice jest - - pro C=0 a -
+4         J                         4                           4
+pro
+LT=oo.   V případě prvém jest sice také  amplituda  nullou,  avšak jest tím řečeno, že se přítomnost sebe menší kapacity prozradí zpět běžící,  přibližně
+o — zpožděnou vlnou.
+Zúží-li se na některém místě dráty velmi náhle, lze to při nepřítomnosti kondensátoru považovati lak, jako kdyby tam kapacita kladná vložena byla, rozšíření jejich, t. j. zmenšení skutečné kapacity, za vložení jakési záporné kapacity.
+XLI. ﻿56
+Pro komplexní amplitudu vlny lomené nalezneme
+2
+Leží tedy zpoždění fase mezi O a-j-,  amplituda sama   mezi l   (pro ČT=0)
+a nullou (pro C =00).
+Zvláště jednoduchý  jest případ ten,  kdy dráty na positivno straně  osy scházejí. Zde jest Al = 0, tudíž
+čili
+Ví
+Amplituda jest zde vždy jedničkou,  kdežto  zpoždění  fase  leží  mezi O a ---(pro ČT=0, případně C =00).
+Podobným způsobem dalo by se se stanoviska theoretického pojednati i o jiných případech, na př. o zajímavém rozvětvení Lecherových drátu, jak je popisuje pan Geitler ve Wied. Ann. sv. 49, str. 194.
+XLI."

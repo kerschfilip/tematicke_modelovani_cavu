@@ -1,0 +1,258 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TŘÍDA  II.
+ČÍSLO   7.
+K analytickému řešení problému Apollonického
+na kouli.
+Napsal
+J.  SOBOTKA.
+(Předloženo dne 23. února 1912.)
+1. Uvažujme na dané kouli K středu O a poloměru, jehož délku R bereme za jednotku, nejprv libovolné dvě kružnice kít kz, jejichž sférické střed}7 označíme SL, S2, sférické poloměry rv rz.
+Libovolná rovina R, která se obou kružnic dotýká v bodech Alf resp. Az protne kouli v kružnici k dotýkající se v bodech Alt A2 kružnic daných. Označme 5 střed sférický kružnice k. Přímka OS seče rovinu R v obyčejném středu K kružnice k. Klaďme dále <Ll A^KAz = <jp12 a vědmě středem O rovinu rovnoběžnou k R protínající kouli v kružnici m.
+Kružnice velké na kouli v rovinách SAfl, SA20 uzavírají úhel <p12. Jejich průsečíky -s m, jimiž se oblouky SSV S52 na nich položené doplňují
+tjf
+na ^r-, označme Mlf resp. M.2 a klaďme na nich A±M± = AZM% — a; značí-li 2t
+<?12 sférickou vzdálenost bodů .4^ A2, plyne ze sférického troj úhelníku .dj^S dle věty cosinové
+cos ď12 = sin2 a + cos2 a cos qpj 2 čili
+cos* K sin
+2 '
+(1)
+Sférickou vzdálenost dl2 bodů Sv S.2 označme jakožto délku centrály obou kružnic klf k.,;   vyjádříme-li ji z trojúhelníka sférického 5jSS2 bude
+(*        \    (*        \JL-f*        \    •    ín        \
+cos aa = cos ( — — i\—a) cos I — — /•.,— a l + srn ( -- — 1\— ctjsi n I — — r.^—aícos <p12 ,
+z kteréžto rovnice plyne
+n — sin (;'j + «) sin (r.2 + a) + cos (rt + «) cos (r.2 + a) í l — 2 sin2 ^
+cos a dále
+sin2— — sin'2 'l    ;2 = cos (rt + «) cos (;-2 + «) srn2-— .           (2)
+M                                      ••                                                                                                                   AJ
+Při tt>m bereme  každý z poloměrů  rlt rz kladně nebo záporně, dle toho, je-li na téže straně kružnice k jako střed S aneb ne.
+Rozpravy: Roč. XXI. Tř. II. Cis. 7.                                                                        l
+VII. ﻿2. Uvažujme nyní společnou tečnu kružnic, t. j. velkou kružnici k12, dotýkající se daných kružnic klt k2; prvé v bodě Nlt druhé v bodě N2. Rovina takové kružnice se stanoví jakožto rovina tečná, procházející středem O koule ku jednomu z kuželů 2. stupně, které lze kružnicemi položiti; rovina ta jest zároveň společnou rovinou tečnou ploch kulových, které danou kouli K protínají orthogonálne v kružnicích klt k%, obsahuje tudíž příslušný jejich bod podobnosti, který jest též vrcholem řečeného kužele. Délkou tíz uvedené společné tečny označujeme sférickou vzdálenost bodů Nlf N2. Je-li 512 pól kružnice &12 a beřeme-li délky poloměrů rlt rz algebraicky tak, že mají stejná neb opačná znamení dle toho, leží-li na téže straně nebo po různých stranách společné tečny kv2, pak plyne ze sférického trojúhelníka S^S^S^ buď
+cos
+aneb
+,         /»      \        (a      \   ,     •   /*      \   -   i*      \
+d12 = cos ( ^ — rl J cos i — — rt l + sin ( — — rt ) sin ^ >; -- r2 l cos tV2
+cos d12 = cos ( '-- + rt j cos l — + r2j + sin ^T>- + i\J sin í — -f /-2 j cos t12 .
+Z obou rovnic plyne
+si                              .y
+sin2 -~ — sin2 -^
+f
+== cos r cos r sin2 -
+(3)
+Z rovnic (2) a (3) plyne
+cos (^ + a) cos (rz + cc) sin2— = cos ^ cos r% sin2 -^.               (4)
+^         ~2
+3. Uvažujme dále na kouli čtyři kružnice klt.., k±, které se dotýkají kružnice páté k v bodech Alt Az, A3, A±. Ze známé relace, platící o čtyřech bodech kružnice, totiž
+
+= O
+vyplývá relace
+2
+sn
+0>     sin*Zj*t    sin2^, 'f,              O,     sin*?*,
+sn
+2
+2
+sn
+sn
+O,     sin2 ""f
+LI
+*
+VIT. ﻿kde jest obecné bud <jp<A = «3C AfKAk, značí-li K opět obyčejný střed kružnice k, anebo též (pik = <$! AiOAk.
+Vložíme-li do posledního determinantu, hledíce k prvnímu významu úhlu <jpi* za s-in2 ^~   hodnotu z rovnice (4) vycházející, obdržíme vzhle-
+M
+dem k tomu, že lze obecně z i*° sloupce vyjmouti
+cos
+současné
+COS YI                         .
+-----;—;----r . relaci
+cos (r/-f a)
+sin*
+cos (n + K)
+a z /*"" řádku
+13
+2
+*
+sn
+*
+*
+sn
+stn*
+14t>
+sn
+sin*
+•— ,      sin"" •=
+O ,         SíW2 —
+O
+= o,
+(6)
+z níž obdržíme   dále, značí-li n^ úsečku NtNk, a klademe-li obecně = 47*'
+2      7Í   2
+3 •        ''24
+ti   2        ,,,   2            ()          ,,    2
+'*13 >       '23 '               >           34
+-M    2       i,    2      «    2            A
+rv-í A   ,        'vn*    .        tťti    ,              V
+= 0.
+(7)
+4.  f7&č/ fe>i2 íží'ow kružnic kíf kz na kouli.
+Buďtež KI, K2 středy kružnic těch a L jeden jejich společný bod. Uhel tečen jejich v bodě L rovná se úhlu rovin KflL, KZOL. Sférické středy a bod L stanoví na kouli trojúhelník S^S.2L, z něhož plyne
+cos UM = cos r: cos rz -r sin ^ sin r» cos ®12, z kteréžto rovnice obdržíme úpravou
+sin
+2 ""12
+* -
+—r»
+sn   ---v— - = sin r, sin r» sin'
+takže se zřetelem na rovnici (3) obdržíme
+sm* ^f =
+(8)
+l*
+VII. ﻿a rovnice (6) dává větu analogickou vety Darbouxovy o úhlech čtyř kružnic v rovině, které se páté kružnice dotýkají, přenesenou na kouli, totiž
+sin*
+;<i,z
+sin
+sin
+Slil'
+2  '
+u,
+2^23
+st
+2 «*13
+2   ' »«
+stw
+= 0.
+čili
+•     ®34    ,        •     ®23     •     ®1
+sin -~ + s/w -^ s?« —~ ^                —           2i
+sin -~ = O
+Veta tato plyne arciť ze zmíněné věty Darboux-ovy přímo inversí koule v rovinu.
+5. Redukuje-li se jedna z kružnic v předcházejícím či. 3., na př. &4 na bod P, pak rovina kružnice ku jest rovinou tečnou ke kuželi, jímž se kt z bodu O promítá, vedenou přímkou PO: je-li Nt její bod dotyku s &<, jest Ui čili krátce ft sférickou vzdáleností bodů P, A^ a «i4 == PNt. Obdržíme takto z (6) a (7) vyjádření pro polohu libovolného bodu na kružnici k, která se tří daných kružnic klt k2, ks dotýká.
+Takto jsme vedeni k řešení úlohy:
+Stanoviti kružnici k, která se daných tří kružnic klt kz, k3, ležících na kouli, dotýká. Buďtež v libovolné soustavě parallelní rovnice rovin daných
+kružnic příslušné
+Rj_ = O, R., = O, 7e3 = 0.
+Protíná-li OP rovinu  Rt obrazce snadno plyne,
+(OPGÍ) = Tedy
+O  v  bodě  GÍ jest, jak  z   příslušného R                l
+in^      2 srn 2-^
+2       2 (OPGi)
+Při dosavadním odvození předpokládalo se mlčky, že body Nt jsou reálné a tudíž i společné tečny 4t • Není-li tomu tak, pak jednoduše můžeme délku společné tečny tu definovati pomocí vzorce (3), kladouce
+2
+2
+(10)
+VII. ﻿takže srn2 •L jest vždy veličina reálná, již lze na základě této definice vždy
+2i
+jednoduše sestrojiti nebo vypočítati a pak ovšem platí vzorec (6) obecné i pro případy, v nichž se jednotlivě neb i vůbec nevyskytují reálné tečny.
+6. Pro délku tečny z bodu libovolného P na kouli ku kružnici ki máme pak rk = O, a tedy, značí-li dt sférickou vzdálenost bodu P od středu S» kružnice kt
+sin
+2
+sin*     — stw
+COS
+(U)
+Vyjádříme-li na pravé straně čitatele funkcemi úhlu d^   a n   obdržíme
+o   U
+sin* -— =
+cos YÍ — cos 2 cos ri
+(12)
+Vedeme-li rovinu SfOP, obsahující tedy též obyčejný střed KÍ kružnice ki a bod Gt, v němž OP seče rovinu RÍ = O kružnice ki, bude, ozna-číme-li PÍ patu kolmice s bodu P na
+OKt = R cos n, OPi = OP cos dt. Následkem toho dává rovnice (12) relaci
+sin* — =
+ježto však
+lze relaci tu též vyjádřiti
+takže konečně jest
+U       URj— OFj 2.&K~
+OP
+sin* —
+OP
+1
+2       2 (OPGi)
+V každém případe jest tedy 2 sinz— rovno poměru, v němž dělí rovina
+/ kružnice kt poloměr bodu P.  Mohli bychom zde bučí (OPGi) aneb  sin2 —
+2
+označiti jakožto potenci bodu P vzhledem ke kružnici ki a analogicky pak hodnotu
+tik
+- -- sin* 2
+on* -s- —
+cos n cos VII. ﻿již jsme obdrželi pro společnou tečnu dvou kružnic, označiti jakožto potenci dvou cyklů těmito kružnicemi stanovených. Můžeme totiž kružnici přisouditi určitý smysl jako kladný vzhledem ku poloměrům koule ve smyski od středu O určité na př. kladně orientovaných a pak ji nazveme cyklem kladným, kdežto přisoudíme-li jí smysl opačný, obdržíme cyklus záporný této kružnici přináležející.
+Avšak jakožto potence bodu P jest obvyklé zaváděti hodnotu tg* —, danou výrazem plynoucím též přímo z (12), totiž
+tik Z výrazu (10) pro sin- — plyne snadno
+2
+, o       _    .
+'*         ""      ""
+dik — (n ~~ rk)
+'
+
+což nás vede k tomu abychom hodnotu  tg2—   označili jako potenci prí-
+2i
+slušných cyklů na kružnicích ki a k* položených.
+7. Má-li středO ve vytčené soustavě souřadné souřadnice a, b, c, bod P pak souřadnice x, y, z a značí-li RÍ (a, b, c) — RJ°) resp. Rt (x, y, z) = RÍ levou stranu rovnice RÍ = O, do níž místo proměnných souřadnic dosadíme souřadnice bodů O, resp. P, tu jak známo
+a tudíž
+Rovnice (6)  dává nám tudíž relaci mezi vzdálenostmi U bodu na kružnici k dotýkající se daných tří kružnic, totiž
+0
+sin* -^ ,
+2 '
+'12                •    o  *13                •   9   1
+~ ,     sin* -~ ,     sin* —
+/->                •   o *23                •   o   *2
+U ,      stn* — ,      sin* ~
+TT.                °-      SW^
+z
+*
+sin* -± ,      sin* -7 ,
+0
+(13)
+dále pak relací mezi souřadnicemi x, y, z bodů na k:
+VII. ﻿0 ,      srn2
+2 i3,
+srn2 13
+již lze též psáti
+Vyčíslením plyne sin* -?
+srn2 f-j
+0
+= 0.
+(14)
+tt><°> '             /?3<°>
+o,    »122.    V, o,    ^2,
+• 2 ,         »9«2 ,              O ,
+7?,          /ť,
+t    R2                t    R -
+""f ^Ií2   +   S/W* -f ^Í)2
++
+•   2 ^J2     -2 ^23      ^1 ^:
+jw      ""l ~~a        i
+kteroužto relaci lze uvésti na tvar
+jemuž odpovídá tvar
+Rovnice (14) a následující značí patrné kužel 2. stupně, mající svůj střed v bodu společném rovin Rl = O, Rz = O, R3 = 0. Kdybychom tyto roviny zavedli příslušně za roviny souřadné x — O, v = O, z = O obdrželi bychom rovnici toho kužele na př. ve tvaru
+in % V/- 4- sin ^^- + 2  f a ~          2|o~
+sin              = O
+c
+(15)
+Kužel ten spojuje tudíž hledaný pár kružnic Apollonických.
+8. Body dotyku kružnic těchto s danými kružnicemi kl, k2, k3 obdr-
+VII. ﻿žíme, klademe-li do rovnice   (14)   aneb  některé z  následujících, R3 = O resp. R2 = O neb R% = 0. Tak obdržíme v prvém případě
+čili
+= sř«a ~
+sin* -g ,
+(16)
+a proto
+= (OPG3GZ) =
+Oznaříme-li r^ prňsečnicí rovin RÍ— O, Rk = O, jež značíme krátce R<, R*, jest též
+ÍR   R   r P r O) = srn* ?LS •  srn2 ^ v   2-                                    2 •••>••   2 •
+Roviny tohoto dvojpoměru protínají rovinu Rx v přímkách *ia» ria> b °v při čemž přímka o± spojuje bod ríz . rl3 s průmětem boduč^ do RÍ ve směru r^\ pro přímky ty platí rovněž
+si «2 — 2
+čímž jest přímka /j protínající /t] v hledaných bodech dotyku jednoduše stanovena.
+Označme L< pól roviny R< a H^ pól roviny r^P vzhledem k dané kouli; pól Ol roviny r&O leží v nekonečnu na E^E^; následkem toho plyne z rovnosti
+že
+sin* ~
+Rozdělíme-li tedy ^f"".; bodem
+v poměru -^ , pak rovina kolmo-
+31
+k přímce OH^ položená přímkou r& seče kj_ v bodech dotyku s kružnicemi Apollonickými.   Konstrukci tuto můžeme též následovně upraviti.
+Póly EI, E2, E3 rovin, v nichž dané kružnice leží, vedeme tři rovnoběžně úsečky, které i co do smyslu jsou v poměru veličin nK2, ngf, n122; koncové-body těchto úseček stanoví trojúhelník perspektivný k trojúhelníku E^E^E^
+VII. ﻿seče-li osa perspektivity strany E^E^ E2E3,E3El v bodechG3, Gí,G2a sestro jíme-li na stranách těch body H3, Hlt H2 tak, aby G<E/= EkHft obdržíme tH body na přímce h; pak přímka li v rovině R< kolmo ku OHt vedená seče kružnici kt v hledaných bodech dotyku kružnic Apollonických.
+Když jsme stanovili přímku h, můžeme též spustiti s bodu společného rovinám Rx, R2, R3 kolmici q k rovině Oh, pak protínají roviny r&q, r9lq, r12q kružnice kít kz, k3 v jejich bodech dotyku s hledanými kružnicemi. Jsou-li ř/i, Vi body dotyku s ki, pak tečny v bodech těch se protínají v bodě MÍ; body Mlt M2, M3 leží na přímce m, a m Í7< jest rovina jedné, mVt druhé kružnice hledané.
+9. Přechod k problému příslušnému v rovině podává rovnice (13) a
+vede přímo k rovnici obdobné k (14), píšeme-li v ní KÍ místo ——,  při čemž
+značí KÍ potenci bodu (x, y) vzhledem ke kružnici kt čili KÍ = 0. Pro body dotyku kružnic Apollonických na př. s k^ obdržíme obdobně jako
+v (16) vztah
+K  • K  — / 2 • / 2 j.\.2 . *\3      t12   . L13 ,
+je-li tu tyt délka společné tečny dvou cyklů v k2 a k3 obsažených; což znamená, že body ty leží na kružnici svazku (^3). Jejíž střed H1 dělí vzdálenost středů 52, 53 kružnic kz, k3 v poměru L212 : Í21S, takže kolmice ze středu potenčního kružnic klt k2, k3 na přímku spojující střed St kružnice k-^ s bodem HI seče kt v hledaných bodech dotyku. Konstrukce tato shoduje se s prve vytčenou pro kružnice na kouli, když necháme EÍ splynouti s bodem S<. ﻿*"

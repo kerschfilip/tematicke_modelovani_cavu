@@ -1,0 +1,1655 @@
+"","x"
+"1"," ﻿ROČNÍK IV.
+ČÍSLO 1.
+š&
+/
+s
+• gj&x
+Příspěvky k theorii funkréí^ěfífftických, nekonečných řad a integrálů omezených.
+(PokraCování.)
+Píše M. Lerch. Podáno  dne   1.  září   1SÍU.
+' — Y | -f- (V T/
+VI.
+1. Bučí f(x,y} — a x- -\- 2 b x y -\- c )>""   kladná   forma   kvadratická,   jejíž součinitelé a , b , c buďte veličiny jinak libovolné.    Substitucí
+čili jak zvykem psáti
+vznikne z ní forma odvozená
+/"" (ř, *) =«'**+ *^fi+<V i
+kde položeno
+a' = a a'1 -f L>/;« 7 + ť-/-, / = a ^ + 2 <M(V +
+V — anii-\-b (a S -\- J 7) -f- ^ }' lV • Toto předeslavše, uvažujme  funkci R0stnkamov*
+l<(a,b,c\n, i') , již definuje řada
+(/// , j» = O , ± l , ± 2 , 18,...),
+v níž  // , v  jsou neodvisle proměnné a q = c""t:íi značí libovolnou  konstantu, jejíž prostý obnos je menší jedné.
+l ato řada konverguje absolutné a nezávisí tedy na seřadéní svých členil : transformujme summační ukazovatele ;/;,// substitucí
+Ko/pravy   R,^n.  \\. Třída II. ﻿jejíž   prvky   n , $, y , <V   jsou  čísla   celistvá   a   determinant   np kladný.    Tím obdrží obecný člen řady (1) tvar
+,      — nJ"" (."", »•) /-2 -i i (/<«' 4-»' »0 «• /i, v — lr                             '
+kde položeno
+jest
+u' = nu
+ti v .
+Summační ukazovátek* /< , i' nebudou však probíhati čísla celistvá,   nýbrž určité zlomky o jmenovateli d , totiž ony, pro něž výrazy
+m
+jsou celistvá čísla. My položíme
+takže ///' , //' jsou čísla celistvá, a opatříme obecný člen
+(l n , r —~~ Mm', n'
+součinitelem tm>>n> , jenž zmizí, jakmile výrazy
+n m'-\- př //'             y m -f- ď ;/'
+«M     -     _          '    ' _     */   -    I _ ' -
+d                       d
+nejsou čísla celistvá,   a v případě opačném   má hodnotu  l .    Pak bude řada (I) míti hodnotu
+*""= 7j **""'•*' am>'n> ' (//ř/> n> ~ ° ' — 1 ' •*- 2 » • ' •) '
+m', «'
+kde ;;/, w' probíhají ncodvisle   od sebe řadu  všech   celistvých čísel kladných a záporných.
+Součinitele im><n' žádané vlastnosti poskytne nám výraz
+íi [a (n m'+ ftn') + r (y m' + ó n')]
+', n'
+
+v němž součet vztahuje se k hodnotám
+a obecný člen bude zníti
+provedemeli sčítání vůči ;//', #', vznikne v právo ď1 výrazů, jež jsou tvaru
+l      V1     /' í    T'   J^     '      [w'(«'4-au4-rj') + »'(!''+ «/^-f Tá)J
+OT',M'
+_   l    r( a      b       c    , n
+^^   W- ' ;/« ' ,/-' ;
+, n -\- ff n -\- r y      ?/-)-
+'""  ""
+7 tV ﻿a tak nacházíme důležitý vzorec
+r
+l
+( a>       b> \f ' ^
+v'+ ff p -4- T Ó
+kde a\b\c\u,v  jsou dány rovnicemi
+«' =<i «» + 2L« 7 -f- ^r , '=
+u = nu -\- y v ,        v' = {i u -\- dv ,
+při čemž « , ^ , y , ď jsou celistvá čísla a determinant «# —
+= d je kladný.
+2. Vzorec ten je důležitý zvláště pro případ b'= () , poněvadž pak se pravá strana redukuje na elliptické transcendenty. Jeli totiž //:=(), rovná se výraz
+2 n~   - * i (m u 4- n v)
+součinu dvou řad jednoduchých
+OO       C
+čili součinu elliptických transcendent
+V tomto případě // = O tedy vzorec (2) poskytne výsledek
+z něhož plyne, že
+/.:.v ;vří/// (1) vždy vyjádřiti clliptickýtni  transccndcniawi,   vládne! i mezi součiniteli a , /; , c vzíaJi
+a «$-\-b (a (V -j_ (-í ;') -|- c ;• (V — (} ,
+kde « , {l , j' , <V jsou celistvá čísla a determinant ae* — .íy = </ je kladný. Klademeli « ^ ~ r , « ti -f- ^ y = j , y (V = c , bude ju -— 4r/== (« ď — V našem případě tedy vládne mezi a , b , c vztah
+v němž
+-fj/;-|-/r = 0
+í* — 4 rf = ď*. \,
+l* ﻿Tato podmínka také postačí a lze vysloviti vetu: » Vládneli mezi veličinami a,b ,c vztah
+v nČmž součinitelé r, s , / jsou Čísla celistvá, pro n?z výraz (b)                                               s-—- \rt
+jest úplným  čtvercem od nully různým',  pak lze řadu F(a,b,c\u,v}  vyjádřiti transccndentami clliptickými.*
+Abychom   to   dokázali,   uvažme,   že   z podmínky   poslední plyne,   že lze rovnici
+\ *)                                                                    i                   /       l                                                                       '
+řešiti celistvými čísly « , 7 ; jeli pak « vhodně volené číslo celistvé, hoví veličiny
+<< '               7
+rovnicím
+(a   .A ' 'v j vznikne pak z (a ,l>,c) forma (a\ b', c), /' » ÓJ v níž prostřední součinitel
+rovná se nulle.    Tím veta dokázána.
+3. Předešlá podmínka je splněna,  jakmile podíl - - je racionalným.  Znamenejme
+pak rovnice (a) zní
+b_ c
+a máme r = O , f = // , / = ;• , s"" — 4 rt = //- ; rovnice (c) obdrží tvar
+— /< a y -J- >• a- = O     Čili  M y = r « , a máme řešení (d) :
+« == // >-/ = r,^ = 0,í = ?;
+Volímeli « = l , máme konečně hodnoty substitučních prvků :
+« = /* , /* = O , y = »• , tf = i ; </ = ^ ; v rovnici (2a) bude dlužno klásti
+a'= a u'2 -\- 2 b \i v -f- r r<J , r'^= r ; ?/'= /* // -|- ;• v , T/'= z/ .
+/ 7/-r- ff « -f- T y    rt'oj \       / v'-\- a d -\-r d    c'co ^ Veličina ^'>3 l —J-— -S         --2-J #3 ^-       ~^-í      -  — ~ -J přejde ve vyraz ﻿a máme tedy větu :
+TV//' podíl — sa c
+číslo racionálně, bnde
+při čemž
+a'~ au"" -j- 2 /; // >' -f- f >•- = # /<
+Zvláště lze vyjádřiti elliptickými transcendentami hodnoty řad F (a , b , c ; 7* , v) , v nichž a,b,c jsou čísla celistvá; některé elegantní výsledky v tomto oboru odvodil Krone ckcr pomocí principií vyvinutých Dirichletem při vyšetřování počtu třid kvadratických forem.
+VII.
+V tomto článku chceme přímo uvažováním funkcionalných vlastností určitých výrazu vyvinouti a zobecniti některé výsledky velmi elegantní, k nimž Kroncckcr dospěl výpočtem.*) K vůli přehledu užívejme symboliky dvou-příponové, kladouce
+takže
+/i,,,, (// ; co)
+značí celistvou funkci transcendentní hovící podmínkám
+'V< (« + O = (— IX {)9* 00 . <V< (« + T) = (~ 1)/J r To předeslavše, znamenejme nyní
+kde v , T jsou   neodvisle   proměnné,   a 7ť, , 7C'(2   mají  kladné části   pomyslné* a položme
+. _     w} K'a           . _    l    .^ l   wl — íc/2         . _       — l
+n i —         j       -    u i —            — - -       j           , c i —         :         .
+Wl -\- W„                 2           2    Wl -\- 7L'2                        ÍC', -|- Tť,,
+Pak máme
+, z),
+, f
+, T
+, r) f
+ť/) = (— IX ^.t/(
+čí)
+Z rovnic  těch plyne,   že   ft (ď , T) je  Rosenhainovskou  funkcí theta řádu prvního o známce (charakteristice)
+a periodách (rř/ ,ói,ci).
+) Sttzungiberíchtt   der  kón.  preussischen  Akad.   der  Wiss.   1883   (Zuř  Theorie   der ellipt. Functionen, či. 111. >, dále tamtéž 1880, či. XIX.
+L ﻿Musí tedy dle známé věty o těchto řadách platit vztah
+(„ , r) = A Y / 'T
+tn , n
+kde položeno
+(m , n — O , _+  l , ± 2 ,...)»
+a veličina ;1 nezávisí  na proměnných n, r.    Tato konstanta   určí se   pomocí rovnice
+i        i
+r     f     .       r-«*v+*«>       -*/(L, j     j '/ř7^^'r)                 =A*
+h""
+""•"" li 4- h"" ""'
+o           u
+K určení levé strany potřebí je především znáti integrál
+i
+J (7) = \    ftfrfr ((T~\-T W ,   i Tť, ) ^A» (ff - T 7L/2  , Wu) C' 9"" O
+K tomu cíli bude třeba znásobiti řady
+-*««<                    A-
++ cwjw,)/      =(-1)
+v — — OO
+/             __ 1      l       \                    _ (       \\
+?' iť \e •     r w^ \ WQ) e           — (^      l)
+načež se obdrží J (T) jako člen na (T nezávislý.    Bude tedy
+aneb
+J     .    _
+i I -~- «;, 4- C-
+'
+přetvořímeli ještě tento výraz podle vzorce
+obdržíme
+__     ^       T    !                -______l
+^+w,   3V    h2K+wa) ﻿takže bude
+*2 ('°i -\- ""'2) •""* *    h"" r -7 z
+/'1 w, ;t>, 4- 2 /t"" for w, —
+2 (wl -f w4)    "" 2 (w, + w,,)  l w, -f re',, Uvážímeli dále, že hořejší rovnice definující a , /?, f poskytnou
+a tedy
+Ar'1'.
+mánie konečné
+^^.(» + l
+kcíe 11 značí určitou konstantu; odtud plyne
+levá strana však splývá s integrálem i         i
+H
+(s""   ll""
+""^""""""-""^''""""'         *
+""o       ""o
+Porovnáním pak nacházíme A = (-i]
+h' 4- 2 í;' h"" +g"" h
+čili
+""V^.
+Tím tedy dokázán vzorec
+(i)
+i   W,   »5'/,' <r — rif, l Ifs)
+^(.+f . „ +. *) +,,,-[(,„+ f.)
+m ,n
+, * = O, ± l, ± í, ± 8 ,... -) •
+kde položeno ﻿a veličiny a , b , c souvisejí s veličinami íť,  a íc/2 rovnicemi
+d l ,
+^     _ c                          ---- l
+— L u l        J , —        j            — C"" / ,
++            —«•*,
+7e'2                      ?e',
+a z těch plyne, že w,  a — w^ jsou kořeny rovnice druhého stupně
+a -f- (2 b -\- i) w -)- ť w2 = () . Veličiny a, /;, c však nejsou libovolné, nýbrž jsou vázány podmínkou
+Pisemeli s Kroneckerem
+a předpokládámeli,   že it\  a — 7L'2  jsou  sdružené veličiny,   budou  dn , bn , ť0 reálné veličiny hovící podmínce
+a ?c', , — íe',2 budou kořeny rovnice
+načež rovnice (1) obdrží tvar
+(i*)
+>T
+V
+co Lj
+w , n
+kde položeno
+/„ (S ,i) = «.S*
+'o'it,g""=L'+ ff , *"" = ;''
+Odtud se obdrží první výsledek Kroneckerův, kladeli se g — // = g' = /?'==!, a nahradímeli v řadě příponu ;;/ -|- l  hodnotou in :
+=^c    2\
+;« , n
+Volímeli dále g = h = l , ^ ' = (),//' = l ,  máme druhý výsledek Kroneckerův*)
+^. = ± l , ± 3 , ± 5 , . . . ; n = O , ± l , ± 2 , . . .) .
+*) Sitzber. 1889, ČI. XIX, § 3. ﻿VIII.
+1.   V posledních   svých pracích   o theorii   funkcí elliptických   zabýval se často Kroneckcr řadou
+,
+mTn
+__
+! -f- 2 tf 0)„   '
+ve které L,  a L2 jsou reálné ryzí zlomky a at , «2 značí dvě komplexní veličiny,   jichž   poměr   není   reálný,   takže    můžeme   předpokládati,   že   veličina
+- = oi má kladnou část pomyslnou. »i
+Rada tato nekonverguje absolutné a z té příčiny uvažujme řadu
+která jest analogickou   Writr$trassové řadě pro /;//, a ve které psáno kvůli stručnosti
+x = m^ ~\- n í,, ,     w = 2 ni o>, -|- 2 ;/ o)2 ;
+čárka u znamení součtu znamená, že dlužno vynechati člen /// = ;/ = O . Mňžemeli ukázati, že řady
+konvergují při určitém pořádku summačním,   pak konverguje  při tomtéž pořádku summačním také řada (1) a její součet
+bude míti hodnotu
+(?5)                            S (u) == Z (ti) -\-A-Bu.
+Ukážeme přímo, že výraz
+C"")
+00          00              Sl.1 í (11 Ši
+SY* 2j   n -|- 2 {i wt -f- 2»' w2
+« = — oo v — — oo
+konverguje; k tomu cíli užijeme identity Ábelovy
+n - l
+flr,.^v —         ^v (h — ^v + 0 + A^« ,
+kde
+= o
+= rt0 -|- rt, -f- . . . -j- ^ . 1. ﻿10
+Klademeli
+.»     -----   .,2 .-T / . r ín      /;     ——
+(lv ----- C                -   ,  ('v —
+obdržíme
+~~h ^
+2f*fi>1 -f 2 r 0)3
+zároveň tu patrno, že a že tedy řada
+lim .-]„ bn = O ,
+konverguje a rovná se řadě absolutně konvergentní
+fit l, __ !       (* + 21' W, -+- 2 r o>2) O + 2 p », + 2 r o>2 + 2 w~ )
+Kladeli se nyní
+M    ,             V^2--/> + 1)^  — l                  203.
+'' ' ^ — i^     ^-/í3— l     • -(„ -f Wj (u + w + 2(»2) ' a užijemeli opětně označení
+= 2/< o), -|- 2 >'<•),, ,
+bude
+4 to1 6ag (co, -f- 0).^) -f- 40?, co2 (?/
+(« -f
+2 <»2) (?^ -f- w -\- 2
+a poněvadž opětně
+lim Am bm — O ,
+m —oo
+jak snadno se dá ukázati, máme dokázánu konvergenci výrazu
+rn
+(a)                       JL^ S
+W        OO
+lim   V  V        0**1i*l*+*to
+m—co
+a zároveň nacházíme jeho hodnotu ve tvaru
+00        00
+J_____V V
+wf*»íí,~ i) A..A
+2) l ﻿11
+kde položeno na okamžik
+/„.A   _ ___ 4ft?i o)2 (m, -f- wa) -f 4 Q)t ft).2
+-           _____-
+Avšak řada i"" sestává ze čtyř částí podobných jako (a) a tedy konverguje, provádíli se nejprve sčítání vůči i- a po té vůči /< .
+Zcela podobné   lze ukázati   konvergenci řad A a  />'   při tomto pořádku.
+Tím jest ale platnost rovnice  (3) zajištěna.
+Z absolutní konvergence řady (2) snadno se odvodí, že Z (ii) jest analytickou funkcí jednoznačnou proměnné // , a nemá jiných míst zvláštních mimo póly stupně prvního u = 2 ;//«, -f- 2 #o>2 , (/« , ;/ = O , _+_ l , i 2 ,...).
+Totéž platí, jak ze (3) vysvítá, také o funkci S (//) .
+Pro tuto funkci obdržíme charakteristickou vlastnosť, jestliže v rovnici (l*) píšeme nejprve ;/ -f- r za n au výsledku m -j- /« za /;/ ; tím se objeví vztah
+(4)                       ^(«) = ť2:tl'(/<fl + 1'&)^(«+2/<OIi +2rwJ ,
+kde /< a ;• jsou libovolná čísla celistvá.
+Znamenejme nyní rs K Weierstrassovu funkci T (// MI , w„ ) sestrojenou na základě polouperiod w, , co,, , a položme
+pak jest (•) (?/) celistvá funkce transcendentní a má vlastnosť
+(-) (u -f- 2 w) = (— 1}"" '• +/•+» řá v (« + ""') - 2-^ ''^ r-> (//) ,
+kde psáno
+w = /< w, -f- '• "">2 , '] = ,"" Ví + v r,'i i ^ = ,"" M + r ^a '
+při čemž ?,, , r/2 znamenají známé Weierstrassovy konstanty  z theorie funkce
+sÍLmia.   Odtud plyne, že funkce (-) (//) liší se jen stálým činitelem   od funkce
+ff(u-\-2 Š„ w, — 2 ^, ro2) . ť2 *""> '/= - *= v.) « ;
+stálý   ten činitel obdrží se   porovnáním   hodnot   obou   funkcí  pro w = ();   tu jest (') (O) = l , kdežto poslední funkce pro u = O se rovná výrazu
+a tedy
+čili (5)
+ff (U I CO,   , OJQ) ď (2L» W.  — 2|, W,,     W.   ,  QJ„) \            J5       5Z /         \       - li       l               ^1       U         l    *       !L.
+Tím vyjádřena hodnota řady (1) pomocí Weierstrassovy funkce (T. Důkaz proveden pro všechny reálné hodnoty ^,^2, pro něž konverguje řada (1), t. j. pro ony, které nejsou celistvé. Znamenámeli ﻿12
+bude veličině v odpovídati bod položený uvnitř určitého rovnoběžníku period, a veličiny  — L, , La   budou   souřadnice bodu   v  v   určité  soustavě   kosoúhlé, jejíž osy mají jednotkové body na místech 2 wt , 2 «2 . Rovnice (5) pak ukazuje, jak lze vyjádřiti funkci
+(T 11 .  G V
+trigonometrickou řadou o proměnných L, , L2 .
+2. Budtež nyní a , $ , 7 , tf celistvá čísla hovící podmínce a ti — ft y = l ; jak známo, obdržíme veškera celistvá čísla ;// , ;/ a každé jen jednou, klade-meli ve výrazech
+/// = n ui' -}- 7;/', n = fi m'-\- d n
+za m' a //' veškery celistvé hodnoty; a sice soustavě w = n = () odpovídá soustava ;// = n' = O .
+Ježto řada (2) konverguje absolutně, můžeme v ní za in a n klásti tyto výrazy a zaříditi pořad summační libovolně.
+Tím ale výraz 7L> = 2MOJ, -)-2ww,i přejde u výraz
+w = 2;;/' («coj -[- (-; w2) -|- 2?/' (/roj -|- ó1 w2) , a zároveň bude
+x = 2;// (« í, + /í ř,) -l- 2 «' O- í, + 'V f„); píšemeli tedy
+(6)                     l r, =«P! + ž ř!', r!=r f! +«?!,'
+objeví se hodnota řady (2) ve tvaru
+takže bude
+(7)                     Z (U  , Jj   ,  L,  i OJ,   , 03,,) =8 Z(//  , ř\    , r2
+čímž shledána důležitá vlastnost funkce S (ii) .
+Zbývá ještě vyšetřiti, jak se k transformaci (i>) chová funkce vS' (//) ; odpověď k této otázce poskytuje vzorec (5) . Znamenámeli totiž >/', , r/\, hodnoty funkcí »/, , 17,, příslušné k polouperiodám o/, , M'„ , l)ude
+takže obdržíme
+a podobně
+poněvadž mimo to
+/   i    '       ' \         /              \
+(7 l Z    CO ,   , CO „ ) rr^ (7 \s    W.   , (O„    , \             |l        '2'               \            l'""/' ﻿zůstane výraz  na  pravé  straně   rovnice  (5)  nezměněn,   provedeli   se   v něm transformace (6) , a bude tedy
+(8)                      ^ (« , Si , L,   "", , «,) = S (u , L', , l'«   «', , «',,),
+Z rovnice této plyne také,   že řada (1)   obdrží   tutéž hodnotu   při všech pořádcícll summačních, které odpovídají substitucím
+(///, //) = i* Jj. (///' , n') , *d— p •/ == l .
+U/ijcmeli dále rovnic (7) a (S) u výrazu
+shledáme, že veličiny A a /> se ncinhú při transformaci (G).
+Tyto veličiny možno   také   vyjádřiti   přímo pomocí   lunkcc   sigma   a její derivací.  Z definice (2) totiž vysvítá, že rozvoj funkce Z (ii] je tvaru
+1 .+a„*\-a'fí9   i
+n
+a  že tedy
+S(*)=s-^+A — Bt
+u
+Tento   rozvoj   porovnejme   s oním,   jenž   se   obdrží  pomocí  vzorce   (5). Znamenámeli na okamžik
+obdržíme
+a tudíž máme porovnáním
+tra        tra
+Výsledky tyto nám podávají rovnice
+-=2(ř,fc-řlíl
+>   -t
+ffi
+-jj.og . ^(gf^i-gfi^)
+- 2     *»        "" ^ 2|«  - 2Í «     ' ﻿14
+Rovnice (5) a ((,)) poskytují řadu specialných výsledků, na kterých Kro-necker velmi si zakládal ;*) rovnice (5) ovšem není nová, neboť podána byla Kroneckerem v jiné formě, nový jest pouze její důkaz a jeho důsledky (9) .
+,'}. V řadě (2) dosadme nyní za ;//, n hodnoty
+///   ,     n'               m'      .^ n'
+m — « - -, -f- 7 —, , n = p ~j- -\-o -j, d    d       ad
+při čemž « , (j , / , d jsou celistvá čísla, a determinant
+je kladný; litery ;//,;/' mají probíhati  celistvé hodnoty,  pro něž výrazy m ,n jsou celistvé. Zavedemeli jako v či. VI. do obecného členu činitele
+bude dovoleno vzíti součet vůči všem celistvým hodnotám ;;/ , ;/'  bez rozdílu Ježto pak
+bude obecný člen zníti
+1        2 .TÍ r
+— - \nť (š°, + x,
+~d*  C
+kde psáno
+a píšemeli dále
+rt    / a w
+tl = 2 m -      --~
+^Z
+w, • = —
+ť<
+A)] / __ 1_              JL _l      7/ ^
+V   // ~|- W          IV          či' / '
+obdržíme hodnotu řady (2) ve tvaru
+4' - -*í±V±iL ,
+Jde nyní o analogický problém při S (V) .
+:|;) /ur Theorie der elliptischen Functionen (Sitzber. 158.), článek \K, § >i.) Srovnej též článek zvěčnělého mathematika berlínského P. (íilntheni (PartialbruchzerleKuní;en in der Theorie der elliptischen Functionen) otiítčný ve 11'?. svazku Journalu fiir die reine und angew. Mathematik.
+I. ﻿15
+Znamenejme
+poněvadž druhá derivace rozdílu 5 (//) — @ (?/) je nullou, musí
+5 (//) — (3 (w) = a u -\- b ) kde třeba určiti konstanty a a b .
+Vzrostcli 21 o 2dfa),° , vznikne odtud
+5 (») *-•«'«•••+'« -— @ («) * - 2 -T/5i° = «*+* + 2 * d «, ° ; avšak tito exponenciální činitelé
+ma
+jí hodnotu společnou a tudíž musí # = 0,^ — 0, takže máme vztah
+Tento výsledek obdrží elegantnější formu, vyjádřímeli v něm veličiny co a veličinami w° a |° ; je tu totiž
+a tudíž zní náš výsledek
+», ° - ft<*>n°  ,  0)2  = rt W,,0  - y O), ° ,
+t o        t n               to         to
+-rf -/^-, *. = .«— 7^,
+
+*, ,*, aneb změnímeli označení
+(10*)
+V (u , (V L, — $ *„ , — -• ^ -}- n J„   ď w, — ^ w,, , — 7 w, -(- n o>„)
+kde summační přípony x, , x„  probíhají hodnoty
+x, , xtt = O , l , 2 , . . . d — l . Vyjádřímeli konečné tento výsledek pomocí vzorce (í>) , máme
+n- («   to, , o)2) a (d.v   w, , wu)
+1<*|JÍ1«_;-V?»_?ÍÍ!>
+d ﻿kde psáno
+v __ 2 L( w __2 Í! w,
+a litery r/, , 77,, znamenají funkce 77, , i^ příslušné k polovičním periodám «, , »„ . Opakujeme, že « . ^ , y , í jsou čísla celistvá a determinant «rf — (Jy = d je kladný. Pravá strana je analytickou funkcí argumentu 7', podobné všechny výrazy G na levé straně, i musí tedy též
+2ři O' Ví + * '/« — íu) "" ---• ("" Ví +;"" '.- — ?«)
+býti funkcí argumentu ?/, a to patrně /. . v , kde /. je konstanta ; porovnámeli tento výraz s
+9 2 f,    t___9 2 ío   ^
+^ A    i í- 2        ** ""    íí ^ l   '
+obdržíme po vyloučení /. , užijemeli vztahu
+mi
+l/,  "">tt-*a "">!==-L- .
+rovnici
+•— \                                v ~ \                ^z
+(« i/ -f- p' /;,) f.>2 — (j' ?7, + o 7t) (o, ==-«-,
+která splývá se samozřejmým vzorcem
+<ri
+?/l Í02         r/2 Wl ::::=   9    *
+Vyjádřímeli v rovnici (o) funkci ff funkcí i^, , obdržíme vzorec Kroneckerův
+((— g\          (••    /           U          t      '                         ^    __                                         ""''-----------------------------'__________________________~_________________'
+'/         ""\>-15-lÍ!        1'íí/            O    .   .                                           /í?'(-   ——         ''""    l     /?""      (    -         ''''              *     '  ?_         ^*-    l
+který lze také psáti
+y,      ^/íl,g-mr)       _        ^   ^',   (O l O)) ^,   (« + <T + T<0     ,./)
+)
+H~ ;/ f°
+IX.
+1. Budiž / (# , y) = a x° -f- %bxy -f- rj- kladná forma kvadratická; // = <7 ď — /;2 její opačně vzatý diskriminant, 11 veličina kladná; dále buďte w, ,rL'u dvě komplexní proměnné, jichž pomyslné části ve své prosté hodnotě nepřevyšují určitou mez , 7't , ?'2 pak dvě veličiny reálné, nikoli celistvé; konečně buď s veličina komplexní, jejíž reálná čásť je kladna. Znamenejme na okamžik
+^°          ™             e<i jt i [e, (u;, + m) + w, («;, + «) |
+w — — oo n — —oo
+a pokusme se o stanovení součiniteli0! trigonometrického rozvoje
+/'Yíf»       7^"") ----   >    >4       ,.2.-r/(//H',+)'íť,)        (,t     ,-----()      J.    1       +   <•)         \
+j  \íí'j , lí'^) — /. Op tV i                           ,      Vr > '       l/ » — • j -J- ^ > • • •/ • ﻿17
+Tu bude
+l   l
+Afl'v== \ \ F^WI '
+o   o
+*>«, + »«»> dwl diví,
+a dosadímeli sem za funkci F řadu, která ji definuje,
+i   i V      V    f f   |t«fta-rtf».+*>+<*b-»>l""k-l-«»]
+/í/í'''~;2jooM^JooJ   J        [n -\-f(iVi -f ;« , 7L>0 -|- «)]s
+Transferujemeli   tento   integrál   substitucí   w, = x^ — ;// , «'2 = x,2 — ;/,
+vznikne
+«4-1
+00           00           A                >»
+/..-=5j   S   \ '^ \
+>M — — 00 « — — 00      «J                 J
+TO                           ?i
+a odtud konečně
+(l)             A
+— oo — oo
+Tento integrál možno přetvořiti pomocí identity
+C f ř2""'' """"==J  3  ""I
+JI Í ((U, — /í) X, + (W, — v)   X,)
+----dx*
+S                       *
+00
+Of) -- — V   ,-' [« [lř +/(*!» %)J        J
+čímž se obdrží
+oč
+oo    oo
+,,= I c~tuts-^di \     \   *-'/<
+O                                   —oo —oo
+dvojnásobný vnitřní integrál určí se pomocí známého vzorce
+au'n —1b y + cy*) + u>* + u»Y(ixdy=    n      ~         *
+oo   oo
+[l-
+—oo - oo
+v němž   A~ac—L2,  a který   možno  ostatně  velmi  snadno  odvoditi; i   obdržíme tak
+_ / u - ~ ^  [a (w, - r)2 - 2 fr (r, - v) (», - /i) + C (tf, - /O1]
+(2)    r(r)4,,,=i
+Při označení (1) neb (2) bude pak platit vztah
+00           00
+c2 ji i [», (wt + m) + v3 (w2 + n)]
+(—00. ..00)
+Rozpravy. Ročn. IV. TMda II.
+S         /l          .2.11 (/!!», +V IP,)
+^1/í , V   »
+- ﻿18
+Předpokládámeli, že reálná čásť veličiny s leží mezi O a l ,   můžeme ve vzorci (2) přejíti k limite pro ?( — Q; tím se obdrží pro A^>v hodnota
+oo   __L*_[•       _   \*_9b t   _   w   _      i    /   _   \i]
+(4)
+takže jsme vedeni k reciprocitě
+— oc^..oo)                                      .SÍTÍ (»,(«>,-f m)-f»,(tí>2-f n))
+2 /> («-,
+«,, + n)°-Y
+(\~J ""
+'          ~""C
+/ (m u>, +««;,)
+- w)2 — 2^ (v, —m&i - n)+a(vt —ň)
+
+jejíž případ zvláštní jsme uvažovali ve své rozpravě Studie v oboru Malmsté-novských řad a invariantů forem kvadratických.
+2. Hodnotu levé strany rovnice (3) znamenejme
+® (w, , «/2 ; z/, , 7>8   a,b,c\s\ u) , t. j. položme
+(w, , wtl ; ?/, , z/,,   a ,b ,c;s\ii)
+^,2 .-r i (w », + w w2)
+K + M)' + 2 b (w,
+«) + r (7e;2 + w)2 -f)
+Pro   studium   této  funkce   důležitá je též  řada,  která   se obdrží pomocí rovnice*)
+oo                                  .                       .,/ -          co
+«r-«                      ffí. n v TI i                            y ijr         m~""^
+.1vwKÍ\                         ___V;L_       V      C'
+ii   \í*„, i »>,\* _i_ .F "" r (s}   ^
+f                .-!»(»-«)*
+J     e
+O
+Převeďme nejprve výraz
+a (?L', -(- w)2 ~f- 2 ^ (wl -\- ni) (w„ -\- n) -f- r (7e'<2 -|- «) na tvar
+/2 4~ w H
+>
+H — (wi
+a proveďme v řadě (5) nejprve sčítání vůči n ; tu bude třeba položiti
+u -
+t-
+*) Základové theorie Malmsténovských řad, str. 4J, vzorec (la). ﻿19
+a obdrží se
+® (wl , Wi; 7;, ,
+-i/~~
+— fy, w, ni         \n
+(0)1
+
+oo
+f       -    (-!-(-, + »)'+«)   X- i!3^^       ,_J
+\ '                       eJ                    a;
+(,« , w == O , +. l , ± 2 , . . . .) .
+Součin r (s) ® (wt , w„ ; 7>, , 7/,2   ^ , ^ , r ; .v ; //) je tedy celistvou funkcí transcendentní vůči j' a zůstane jí i pro // = O , neníli wl  celistvým číslem.
+Nás zajímá hlavně hodnota této funkce pro s = l ; tu máme především
+- 2 l ws - /i ! -TV± (««,
+?
+a tedy bude
+(7)
+—2 Wj w, n i ^ C
+0*,í» = 0l± l, ±2,...)-
+Předpokládámeli   O < 7'2 < l ,   a   provedemeli   sčítání   vůči   //,   vznikne v právo výraz
+(a)
+l —
+2JT i (m w, 4- «>, -\— (i — f2) (w, 4 »o)-----— —- v''1 (^i 4- ""»,* -f f a
+ř>        V                                                             /
+čili
+.       2 v, TI/
+— - —
+(7*)
+r   c
+l 4-cw2)
+l — e
+2 m
+ř f w, 4-1. (», 4 m)} - ~ V l («»i 4- w)14- c /
+\            C                  /         C
+2 TI i fw,
+CKJ
+-s
+1 — e
+2 JTP,
+~~
+V J (W, +»!)' + C U
+2 ?i i
+.*    __ wi 4- c u», 4 fc m) 4- — V j (w, 4- w)1 4- c «
+2* ﻿20
+Případ ii> \ = w* = O tohoto vzorce byl jiným způsobem vyšetřen v rozpravě Studie v oboru Malmsténovských řad a invariantů forem kvadratických.*)
+Vyšetřme ještě případ u = O ; tu bude dle vzoru (a) 5í (w, , w., ; 7', , 7'2   a , b , c ; l , 0)
+— 2 P, w, ni  oo
+2 .T: / f??z t>, --- = (w, 4- w*A ---- ? V J l *»i -f *« l
+w
+2.T/(
+i     -2-'(^+c
+l       c
+(w^m)] --rf3 l «>,+«» l
+l — e
+V tomto vzorci předpokládejme O < it\ < l , načež ivl -f- m má hodnotu 7(7, -•- ;// pro /// > O , ale hodnotu ;/ — 7C>, pro ;// = — n , n > l . Spojímeli zároveň členy positivních ;// v prvém výrazu se členy negativních in ve druhém výrazu, což dá
+OO                                                    9 TTÍ »M   »).   -l- <? ti- 7T »  /'í/I.   J- ÍM1*
+v   -
+Aw, -4-»
+2 ,T|'M v, + 2 »o -T / (WL
+l —
+
+— 2 .T ; w, + 2 TT / (w, + »0 —
+2 rr / (m i', 4- ^2^ — 2 -T l (l - ""2) (w, 4"" »
+—
+m = —co
+obdržíme výraz
+,•«/(«*,+•**(<*+«>]
+TO = —oo
+a |)odobný výra/, se objeví, spojímeli členy ostatní; při tom znamenáme
+takže ra,   a — co2 jsou kořeny kvadratické rovnice
+Zavedemcli označení
+(8)                <l*(u,w,v\
+obdrží náš výsledek tvar
+
+*) Vzorec (2).
+=y __i___
+™^oo   * + «""     !
+*,*,í;l;0)
+i i (w 4-
+I ﻿21
+kde pravou stranu lze také psáti
+(9a)
+
+Touto velezajímavou   transcendentou zabývali jsme se již ve článku IV. 2., vzorec (í))J, kde jsme uvažovali  výraz
+2 n s .T i
+J(x ,y ,s v. , ?>„) = J
+-1
+který jsme vyjádřili omezeným integrálem sestrojeným z elliptických trans-cendent.*)
+3. S transcendentou </> (//, wl v to) setkal se také Kroncckcr v jedné ze svých posledních studií o theorii funkcí elliptických.**) Za příčinou úplnosti budiž nám dovoleno reprodukovati úvahu slavného mathematika, pokud toho vyžaduje souvislost' s našimi studiemi.
+Vycházejme ze vzorce (5b) článku VIII.:
+kde //' = <T -f- T w .
+
+Píšemeli nyní —, — za u a ca , a klademeli u — n v -4- r w , u' = ď v -4- T' ze>,
+z^     z/
+máme vzorec
+Vyměnímcli u a «', plyne odtud vztah
+fl .1 i [o' (n -f- r) — r' (;;t -(- a)]
+<*»    Sií
+T »(n n — m r)
+
+při tom bylo předpokládáno, že pomyslná čásť veličiny  -~ je kladná;  hledejme nyní hodnotu řady
+^         ft*/[«'(•+!) —!*(».{-«)]
+*) V citovaném článku nedopatřením udán výsledek (tí) chybně : má tam pravá zníti
+strana
+i
+77!     l
+v
+2 s .i i
+j_            «/          «     j__    6.-^(I+""""!)
+""'       ""2 », *n».-í.   ' *:&„x + u tr. l^Tř^T
+6*   ""'                 __
+**) Sitzungsberichte der kón. preuss. Akad. z r. ItííX), str. 1025-1029. ﻿22
+v případě,  kdy pomyslná čásť veličiny  -      je záporná; tu vyměňme n za — //, a obdržíme
+^2 3t i [- a' (n — r) — r' (m + a)]
+tedy dle (10)
+""^ S 7=17
+a píšemeli zde — m za m ,
+v -\-(n — T) ( — w) '
+r' -f «)
+gí ji i (na — m r)                                        ^f
+-7-1-----\-----1   / /   i —N-       pro I m-    - •< O .
+T' -[- w) v -j- (T -f- >/) ze/                        z/
+Značili nám tedy « znamení sgn. Im. —, t. j. e = _+_ l , jak jest pomy-
+w
+siná čásť veličiny — kladnou neb zápornou,  bude
+S,& Ji i [o' (« 4- r) —i1 (m 4- fi)]           w^i                Jt Jti(na - m r)
+•^JTw)y-i.(T_L^w ^2j^ + ;l v + v + „)-ú-'
+Společnou hodnotu obou stran  znamenejme Ser. (n v-\-^^v ,(ťv-\-x iv) a utvořme integrál
+r         -U    /
+J ^=2 BV m \ ber. (<r z/ -f- v w , ff z/ -|- r0 ttřj ^/ <r
+-j- 2 t w *r / \ Ser. (<r z; -(- z w , <TO v -)- T' ze;) í/ r . Počítámeli jej pomocí pravé strany, obdržíme
+J •=• 2í TI i /1 e * ™*    ""ir^ log    .                      p    ——-r-----j
+„i „                             (ď« ~r w) ^ ~r (To   r *) w
+při užití levé strany obdržíme pak
+x>2 n i [0*0 (K + *) — ro' (m + "")]
+not
+(T -f «) [(<f + ni) v + (T -f «) ze/]
+^2 Jií   [a0 (« + T) — r„' (m 4- oř)]
+(T -f- «) [(ff ~\- m) v -)- (r -[- «) ze/J
+^,2 ?r l [OTO (« 4- T) — r0' (m 4- «)]
++ WS""^T
+[(ff -\- m) v
+ni [oc (n + r) — r
+• n) w]
+' m) v ~f~ (T -f-«) H ﻿Obě prostřední řady po sečtení obecných členů poskytnou
+et n i f<TO (n 4- r) - r'„ (m + a)]
+a tedy máme jako druhý tvar integrálu J:
+^               c<í .t i [(r + n) o0> -(* + ») r„']
+m, r,
+T / [(r + M) <TO - (n + m) r„]
+m, n
+«-•«   ,& ;r / or„ (r 4-«)
+-S^ir-
+<r -f-
+porovnáním  obou výrazů pro J máme vzorec Kroncckerův
+Sf 2 *• / [rr + n) a0' - (a 4-«) !-„']                         ^
+. i„-^+^[(ff+OT)Z,+(T+„)Kf+w Ji;
+i [(r + n) nn - (o + m) r„]
+-f w) v
+(a)
+Řady na pravé straně vyčíslíme nyní pomocí vzorce
+m-«         s&kbni                        s&abai
+,^       a---k                  eZcuii--- l
+Ar = -oo
+Tu především obdržíme pro výraz
+g* -T l [(T 4- ») a„' - (rr 4- TO) r0']
+áH (* + n) [(« + ;//) H-M- «) íe^
+píáemeli   v něm   — m za m ,  a  provedeme  sčítání  vůči ;// ,   předpokládajíce 0<r„'<l:
+—'(o'v4-T 'lo)(r4-B) OO                       1                         .,   W         °
+-----— (r -|- «) + 2 ff Ji /
+e  v                   —l
+abychom obdrželi řadu
+xi \(T -\- n) a0 — í<r 4~ in) roj ) IC"""" ~\~ M*) V ~\~ (* ""4"" ﻿24
+přetvořme nejprve obecný člen pomocí identity ______________l______________
+(fr -{- ///) [(* -f- m) v -f- (* -H «) ít;]
+=     i     r_L___
+(r -j- «) w   \^ a -\-m        c takže  bude
+-60,
+kde
+se určí jako dříve a sice bude za supposice O ^ TO «< l :
+2 ni
+—~ K u 4- r0 w) (r 4- W)
+—  l
+vložením nalezených výsledků za a a b do vzorce (11) obdržíme
+(12)
+l
+^r-(•/»+«/""'> C*-M
+2.TÍ
+oo
+-V   4-
+^     T-|-«
+—i
+kde se předpokládá O < r0 < l , O <C T0' <C l •
+Při počítání řady b objevila se rovnice
+Tn (r -(- n) \.(ff ~{~ m) V ~Í~ (T 4~ w) Wl
+,,27r f [(r + W) «o - ("" 4- m) r0]
+m , ? ﻿25
+vyjádřímeli   obě   strany    pomocí   vzorce (a),    předpokládajíce    O < TO <C l » O < TO < l , obdržíme vztah
+Zni
+(13)
+----KW+ r„u>)(r-f-rt)
+e
+= — oo
+lni
+-t ~(v— o0v — r0w)(a 4- w»)
++
+2ni
+=— oo
+— (o -j- m) -f 2 r .i i C   w                    —\
+který jsme ve článku IV. odvodili přímo pomocí věty Cauchyovy,*) kdy nám práce Kroneckerova nebyla ještě přístupnou.
+4. Vzorec, kterým jsme definovali integrál J, t. j.
+ni \ Ser. (rrv -\- T w , *' v -f- TO' w
+""O
+ro'
+ř' \ Ser. (ff ?' -(-
+TW,<T0í/-(-T/7C')í/f/ ,
+poskytne nové vyjádření naší funkce, nahradili se v něm výraz
+Ser. (<TV-\-iw ,ffgv -|- z' w) hodnotou
+J_fc,^- ».'(«  y)^(-t-   ')
+•71                                                              /  Z/        y>          l/'\
+-Q.       l——l  v/1     ( — l
+kde položeno
+U 1^2 ff V -l— T ÍC/ , ?í' ^^ O1' Z^ —j— ř  W ,
+a zároveň se předpokládá ř = l .
+Poněvadž   tu    zároveň   WT'   a  wdi'   značí   hodnoty   diťferencialu
+— 7 («') i
+mamě
+//„'                                            M,
+~^ti = J * (*') ť/W/ + \ T (""')
+~I                                     ~0
+kde iív = ťr0z/ _j_ T-'OÍC/ , a integrace jsou přímočaré.
+Pokud O << TO <; l , O <>„' <C l , neleží v trojúhelníku ,ÍQ uv //„' žádný pól integrované funkce a dle věty Cauchyovy bude tedy
+kde integrál je přímočarý. *) Str. 25., vzorec (5*). ﻿2G
+Máme tedy
+""f  l   *',(0  v)-V^lv)
+dx
+f   l   »'.(0  Ť)*.(^l-
+,    /        U      7/n     7«A    ~^-°~           (        u       1tn      W\    — ?—
+= — '/M T ,      , —- — l tf    w     -4- f/> I T , —  —1.    .— l e    v
+\      9*   9 \9J                \      9      9   *\ 9/
+aneb což totéž jest
+X
+f   0',  (O    W)^(» + g    03)       rt/
+i —~------;—;—\—^—~,—i—^------*            (l X
+J        ^, (// | w) ^t (j? | 01)
+(U)
+.)
+= — '/> (T , ,v , íC
+l    /&T X.1 t  _l_   (1^   /_        j,       ff
+' <•                      iT '  \f >ltr > ""^o
+ze kteréžto   rovnice   (kterou   ostatně   differencováním   přímo   lze   verifikovati) plyne, že
+<l> (r , u , íř1  w) jest funkce mající logarilhmická místa zvláštní x = m-\-nw, a tato vlastnost stává se evidentní výrazem na levé straně vzorce (12).
+5. Kroneckerův vzorec (12) možno psáti
+r+«)
+V   4-
+_L     , + n
+e
+~2«.W
+
+u'         V^ '
+í lOg               B  f |     C
+m v -j- n w
++ •
+I , W
+kde v součtech -l"" dlužno vynechati kombinaci m = n = 0. Z rovnice té patrno, že každý z těchto výrazů je nezávislý na //„ , resp. na u'0 , takže bude zajímá vo určiti výraz
+e   v
+"") log -°-
+
+přechodem k limitě pro u0 = O .
+Členové první řady jsou dvojí : jeli n € záporné, blíží se při limitním přechodu UQ = O členové tito  členům řady absolutně konvergentní,  kdežto cle- ﻿27
+nové druzí, kde ne je kladné, blíží se členům řady divergentní -—.— pojme tedy k řadě součet
+.>>„)=  *•  •                   .-*.•)
+jenž se rovná výrazu
+_i
+- . Při-
+n^Q    r + n*
+a obdržíme
+n a
+•
+^_L t!!_r     --     -4--
+T-{-fl           *nwni + tůni
+v
+íjti(nfj-mr) ]        Hn~\~mv~\~
+
+Poslední řada blíží se nulle zároveň s ?^0, a máme tedy
+l
+._
+= nSoo  ^+~^ l
+//
+— lim    «lo
+
+• + -
+e    v            v     — l
+00        ^'W,    >
+takže zbývá jen určiti limitu vzávorkovaného výrazu. Budiž předně s = l , i bude
+0.-r    .
+00         — °-— (r
+6'      ť
+při čemž se předpokládá r>>0, aneb
+kde položeno
+Ježto integrál
+00
+C                          dTa;
+-)—T=ř4
+OO
+Se— r -i ﻿28
+se chová pravidelně pro z = O , máme
+= - log (- *S„ i
+dx ,
+kde (z) značí veličinu, která mizí zároveň s Bude tudíž
+i        o       i
+"" „I1!"" llog ""V- -***
+veličina - ' je kladna ve své části pomyslné, tedy
+' — 2 //„
+__ 9 jj   f. ,X                   /x                    o _
+— q— l = loe - - ""- 4- log — -.-
+V      )        h   V   ~      *     l
+a následkem toho
+
+tudíž máme výsledek
+7t L                                        r"" (T\
+F(ff, r , v, n>) =------4- log ^^ — rvi) -l- —L}
+\ .  i   »   ;         2 -r««*      « w-r r/T%
+_                                                                                           -<
+V      _l_r_     J____J.I
+_LJ     r -[_ n  l     2««>jr/' .  ŽU.T/
+agu. (n+i)
+UU
+předpokládaje sgn. Im. -— = l .
+v
+Náš výsledek tedy zní takto: Jdi pomyslná Část veličiny o> kladnou, znamenáme l i dále u = n -)- x M f a jeli z ko)nple.vní veličina, jejíž pomyslná čásf leží mezi nullou a pomyslnou částí veličiny w, bude při podmínce
+
+(15)
+m, n
+_
+»w)__l    I""
+funkce na pravé straně se vyskytující je nám již známý útvar z rozpravy Základové thcorie Malmsténovských
+*) Str. 54. ﻿29
+Jeli za jinak stejných podmínek   pomyslná   čásť   veličin a> a z zápornou, máme
+1                ~<2zni(T + n)
+'     l      \       ^,2 ni (má — nr) in ,n
+JL_f_        _J______l — sgn. (n — l)
+4-«    \^2ír/(a-f HOJ)__ l                     2
+G. V Kroneckerove vzorci
+(12)
+|f    /.]   *                       lOg    ,               r       :     p------j----r------
+^                               (tfii -h tff] v -4- (r.. -U ;/) w
+m,n                                                     V  O    l         /         l    \ O    |^ ""•)
+, (      n     nn    tv\   **""""""«         (      u     nf     w\   ZXÍTU^
+= 4* Ir, — ,-         -\e    v      — f/>   T ,—,-         -1^    »
+V        7;         7'       7^ /                              \VVVj
+ve kterém
+U
+pišme nyní, znamenajíce Wj a — wa kořeny kvadratické rovnice
+jednou 7/ = -f- l , w = «i , f = -]_ l , podruhé e/ = — l, 7f = w2, f = — l , a odečtěme výsledky; i obdržíme
+(16)
+i               '^ (r„ + ///)"" - 2 ^ (íTf^Ovf^
+—  0 (r , rr — T w(, , <70 — r0 o>2    — o)2) r2r-T/'(<T«-TOWJ>
+—  jí/> (r , rr -f- T to, , T'G -j- T'o foi í foi) í-2r^'(0'o + r'«.w.)
+Levou stranu lze považovati za derivaci funkce
+flni (na — Wlr)
+« (TO +~ 2 ^ (TO + n) (<TO
+K
+iři — mr)
+% [* (*'« + «)«— 2 * w + «)« + «,) + f <„; + «,)«]•
+vzatou vůči j na místě j = O, kteroužto funkci dle označení § 2. možno psáti
+^ K i To; —T«ff f i — ^ ia;j i °)
+— Št (ff'0 , T'O ; — T , <r  r , — /;, a ; í, O) . I. ﻿A   proto   možno   obdržeti   výsledek   (lf>)   též   pomocí  vzorce  (4), jestliže jej applikujeme na náš rozdíl a přejdeme k limitě pro s = O.
+7. Uvažujme nyní nekonečnou řadu
+(17)
+O , »' ; L1 , L
+(—00 .. . 00)
+
+n' -(- 2;;/ ft), -f~ 2 «
+-T- 'l -
+», )
+ve které L, , L„ značí dvě   reálné  veličiny,   jež  nejsou   celistvými  čísly, ?/ , //' dvě komplexní veličiny, pro něž žádný ze zlomků
+n -f- 2 /"" to, -(- 2 « wa = -/      0        -r-0-     L i // -f~ ^ w to, -f- 2 A/ w2
+1                 x
+, « = O , ± l , ± 2 , . . .)
+neobdrží zápornou hodnotu reálnou.   Mocnina a* má býti dána jednoznačně výrazem ťíloga, v němž pomyslná čásť logarithmu je mezi — n a n ;   kromě
+<2
+toho předpokládejme,  že pomyslná čásť veličiny     <2   je   kladnou.    Užijemeli
+co,
+nyní vzorce známého z elementů
+oo
+P  x~s dx          n
+\-------------iz^-----------či—
+J    a -\- x         sin s TI
+obdržíme pro naši řadu výraz
+JL—s
+SÍIUTT
+00
+v1                  r í         ' _u 9     _L
+=ri'          J U+I/X+(i +*> (2
+aneb sečtemeli pod integračním znamením
+00
+\-\-x
+x~sdx ,
+sm
+ar-*
+(2 jwnoj-f 2«w2) '
+f   X~* dX   ^
+ř) J    1+*   ^ lí + w^
+átJ^iww, +
+Řada pod integračním znamením obdrží se podle vzorce (5a) článku VIII. ve tvaru
+*, íi""4-Si) *. (f. - *. í) ' i. ﻿31
+kde funkce #,  tvořena na základe parametru     <J , a tedy bude
+71
+sin sn
+kde psáno -—- = L2 — L, - - . 2 w,                     w,
+V tomto integrálu proveďme nyní transformaci
+1+3?
+a obdržíme
+71
+-S (u, u'; L, , f 2 | w, , w„ ; s) sin JTTT
+l                         1        ')•'   (C\\    P O   ( f    U°-}        $i*ni  /•   /
+či z ,
+
+kde funkce ^,  tvořeny na základe parametru — — , a mimo to položeno
+Integrační cesta je přímočará, jsouli u , «' reálné kladné ryzí zlomky, ale vzorec zůstane správným, jakmile oba body K , u' leží uvnitř rovnoběžníka (O.aw, ,2a)1+2w!2,2o)2).
+Kroneckerova řada (11) obdrží se odtud pro s = O .
+S. Vraťme se ke vzorci (;•}), volíce s — |-;   tu nám  poskytne vzorec (2)
+nejprve
+^2^       -a.-ry-j-VíKiř, —r)*-íft(», -»•)(»,-<«
+y^?/
+a tudíž obdržíme identitu
+(19)
+! -f W) -f v, (u>, -f- W)]
+2 J «'
+2.7 / (;»«;, 4- M «O - 2.1 V— \ja (t'2 — n)» — tb («>, — n) («', — m) + c (v, — m)1
+položeno jak obyčejně J = ac — notám /// , n — () , +. l , +. 2 , ± 3 , .
+a součty  vztahují se k hod- ﻿Volímeli dále v témž vzorci s = -^-, vypočteme nejprve l
+a tedy
+- 2.-r      -?   V* («, - r)* - 2fr (v, - v) (», - /<) + C (e, - /i)»
+(20)
+ííK Y//-frt(«'
+^ V* (*'* - 'O2 - 2^ (*'« - ») (v, -ti + c (*>,
+f9.i l [r, (w, + m) -f t>, (w, -f »)]
+/(f«u>, 4-Mio,)— 2,-r ""V-p ya (wz — W)1 — 1b (v,~ w)(w, — W) + C (w, —
+— *)* — 2 L v
+9. Obraťme se nyní ku vzorci (0); v tomto bylo předpokládáno, že 7',, 7>j, nejsou celistvá čísla; my předpokládáme, že «', není celistvé, a přejdeme k limite pro T;, = 7'2 = O; tím obdržíme nejprve
+ft (7L/, , ?L'„; O , O  tf, č , c; j , ?/)
+—-—
+OO s    f       /d
+1'-(>
+//a?;
+vyloučímeli z této řady členy f< = 0, vznikne •Sí (7L/, , rt'2 ; O , O  a ,b ,c\s\u)
+~\'         w~* /               l \             OO
+y*r(r—T)    v^                  i
+(21)   J
+OO             OO          9,,-rť
+-=            '
++_VL. v
+•^TTiřS     ^J
+l = — OO   // — - OO
+co
+r*
+l
+. l
+„
+-l dx .
+Abychom upravili pro naše účely první řadu, která zní
+M                       ^
+odvocfme ze vzorce (2) S 2. naší rozpravy Základové theorie Malmsténovských řad rovnici
+OO
++     .íj   i       \ /i      oy
+_ l                                              Pí        ^^(wí+v^Mo + aci)
+= 2 sin ÍT n \ \ )a _J_ ;/  )«                       J | ,.2- CI-HAbT?) — l
+ ﻿tu lz<- pravc straně uděliti tvar
+2 sin
+f   #'-2
+^ Sin T7T   \    -
+i  Y«„+
+a vvčíslímeli poslední integrál, máme konečně
+*-v>
+i
+(a)
+JL((«<
+j- 4 sin n TI
+<r)F(<r—J)
+d./'
+Pomocí tohoto vzorce vypočteme
+„ _ i v     ,-, /          l
+rs — l  \ TI l  i f-------
+*         "" M \r        2
+(b)
+As
+!         Ať*-1 \nr(s — ±)smn (s — 1
+l
+^   —   l
+^-4r(x)
+00
+$
+-2.T    \   -      +X2
+^                      cos 2 :«.', >T —
+>   \ •-'« i   i
+X'                   -l.T    \--------1- X2
+~ '2(                        COS ZTČ', 71 -|- l
+Chceme nyní  vyšetřiti   první dva členy   rozvoje   našeho   výrazu M  podle mocností veličiny s — l . Ti Hudou patrné
+,7           l
+7T log //
+\ '
+oo
++— f.
+^-
+l    ť «    , 2,1           -f- x2
+'    '
+COS J? <V, .7 -  l
+^ •'<      i      ,.'•
+l        l
+át1
+i
++ 1""
+
+S   y]' '• '• ''""''i +   ***\ <•(""1""'14""
+W --: — OC     //   — — OO                                                           *'                                                                              \    '
+Dosadímeli sem hodnotu
+C    II     .T     -
+Cil
+Kozpravy. Uočn. IV. Třída II. ﻿obdržíme pro náš rozvoj
+(•:<', , TÍ'„ ;<),()   a J> ,c \s\it]
+součinitele .]„  ve tvaru
+oč
+71 101»//     ,     4-T   f
+4'=      v/   +v/)
+(     \   '         cos 2 :ťt 77 — l
+li.   -
+l     Ž.-T1-— + X-                                     V
+'2 i'       >    '            COS ^ZC', »-j- 1     >
+••
+nnel> po  sečtení  vůči  /<:
+""•C             ""C
+•2.
+e
+ť, -f i- ií». 4 b m) —    '--1 fi, \ J (tt'i + wt}14 '
+.7 log//       4 rt \                   e    >   '          cosI? TV', -7    -  l
+^        \l           __   *) L'       \    l           COS ""^ 7i'   77     |     J    \
++•• *         '       '
+\   /(Ti'
+2-T ,
++-   sn
+-' T Í                                                       1-1
+— (b u,-, -\ <- w.. 4- ř MM 4- — \ l (M>, 4- wi
+-•+<._ J
+V tomto výrazu vyskytuje se integrál, který je dosti složitý; můžeme jej nahraditi jiným výrazem, ustanovímeli jiným způsobem stálý člen uvažovaného rozvoje ve funkci tbX
+Řada
+fVs
+1             JL l
+,   25   -   l Í
+D(S)= y]'
+m ~ -  oč
+konverguje pokud reálná čásť veličiny ^ je kladna a chová se pravidelné na j= l . Veličina ib) zní pak
+— 4- DM4-2rc>s -i)j.
+j-»r(*)     l (W,«
+Ježto v okolí místa .v = l   platí
+_  A           *J
+tedy dle vzorce
+r(2/-i)= **'  ' ﻿85
+bude
+f (2* — 1) =
+(2* — 1) f (2 j — 1)
+77
+•       rw
+-     r
+kde (í — 1) /nací funkci mizící na s ~ l ; tudíž funkce (b) začíná svůj r osvoj
+cleny
+
+kde položeno
+Avšak
+podle vzorce
+obdrží též tvar
+C    u
+/>(!)= lim           V
+*f=OC   V mL±l
+takže možno psáti
+*           i          71
+""""^\,^^ + ,, Porovnáme!i   tento  výra/ s
+/
+za
+výsledkem   dříve-   nalezeným,   obdržíme,   píšíce
+cos 2íi(;r — l
+-  í
+Znamenali tedy
+(23-)
+i/' (.v , //) — lim
+•   lim
+M ^c<
+,„      .u \
+,-
+
+=7- — 2 loií J/ 4-»
+B ﻿86
+bude výraz (22b) zníti
+(22"")
+_                        k.XJ
+í  L
+\      '      Mí   _ — 00   l   \Wi
+-f   <«
+—    l
+l
+-y T i                                          2 .T \  l    \                          '• u
+—     -(bw.4-ew*-\-bm)4- -       - \ (w. 4- m)- -\——
+e     ""                                                        J  -     l
+Podobné   shledáme   pomocí rovnic (21) a (b),   že  Maclaurinovský rozvoj funkce (21) začíná členy
+kde položeno
+]]   = _ _ '™   i   ^«tog""
+1                 A    l        l.'   _
+s .7 ""\. /   f              e"" V ^         cos 2n\ TT — l                  x- dx
+('                                           C U                                                    C U                                                                              , C U       l
+t,l       4 T v          -f a;2                  ÍJf V/— - • -l   .t2                                             l __— —l— '
+V'»
+»,   f m)
+m = - oo   »i = — oo
+oč c«a)    f        ~(     .   »""'. + »0a +-"") J: — — -;       -l     ,
+\ 6'                                   x   - a x ;
+avšak
+OČ
+- r
+""'X   l'""',   i
+a tedy  poslední dvojnásobná rada se rovná veličině
+00      '         '           a-?/,,      .                    2.1; i V.            ,   t-u v
+r+ ,)
+/
+l ^ —
+-.-^'(b^ + c^ + bm)-  -'""M '   VW,+w)»+ ""!'
+takže hodnota />,  ve vzorci  i24a) bude zníti
+nu   .     nu log //    |    8;r) ^y ^i——,   jH        rp-:        h             >
+(24 b)
+00      f/
+-""ilQLH.1— ,(.-,
+.TI                                     -2-r  '    \    \'                  .
+(»«.  i  C""',  i hni)—             - \ (10 1 + m)' 4-
+""\
+-   l
+J
+2 -r ř                                         ' T '
+-----------(fr ir, 4- f «'., -}- ř Ml) —
+C                                                                     C ﻿37
+t -l .T \ - -}- .c- CQS '2W7T ----   l
+při čemž kladeno (24«)     '^''
+Při tom je dobře poznamenati, že výraz
+/T //          71 K Jo** //          8 71 \    l
+rovná se součiniteli při s v Maclaurinovském rozvoji funkce
+l
+l   ^ L- -f
+Tak   přejdemeli   k limite   pro // - - O ,   bud<í   n^im   při O <C žovati funkci
+l   uva-
+i
+l
+;-2.v—l
+čili v našem označení*)
+Podle vzorce (17) na citovaném místě platí však vztah
+a dle toho máme
+= — 2 cos s n (ij (sv, ,2 — 2 s) -|- L (l — naše tiinkce (b) bude tedy v tomto krajním případe zníti «> *    ' V _ r- ('         i \
+(2 7f]'s ' - T(2  — 2 A') COS .V ,T
+a odtud je patrno, žt; jrjí Maclaurinovský rozvoj začíná členem/?/^, kde/'/ má hodnotu
+«
+2 V ;        cos ^ "" rt'» n
+-      '
+, -
+:) Viz naše Dá W stmlit -.< oboru Malmstťnorských ř<itf, článek L, § i3. ﻿38
+a tedy v případě O < wt < l :
+i\ -6- J
+Zbývá ještě vyjádřiti hodnotu nekonečného součinu, jehož logarithmus přichází ve výrazu (24 b), pro případ ?/ = (). Předpokládejme opětně 0<OL'i <C l » a oddělme činitele m=0: tím vznikne výraz
+. i V  Í
+m
+• Pí /
+) -     '7       -   w, -f- m
+Člen ;« prvního součinu spojme vždy se členem — ni součinu druhého a naopak, a užijme opětně označení
+takže oj,   a wfl jsou kořeny rovnice druhého stupně
+íř -}- />> m -}- í"" O) - =: ( ) .
+Tím se oba poslední součiny spojí u výraz
+oo
+I   M
+00
+•   I
+-f -2.T/0), (w, 4-w) J   í| á. T/U», 4- -2 .TÍ <.),()»', -f '«))
+Připojímeli k němu vynechané činitele
+= 4 c        c       'sin 77 (ít'2 -|- ""'i ""'») sin ^ (— ri'u -f-které lze psáti
+4 ťlf' -T'('""' +'""-) sin ^ (w., -(- Ttf! u>2) sin » (— íťa -f- 7L', shledáme, že součin za znamením lo^. má hodnotu
+t', cu,),
+o,),
+//(co,) //(roj
+kde // (o)j má obvyklý význam
+I. ﻿
+Výraz tento dlužno logarithniovati a k opačnému logarithmu přičísti
+/;  ' = 2-J-'   (W  « — 7c', +  ' ) = - U i (Ol    -+- 10   )   ( 70   * - f*    -l- ÍV 1             6""
+nacházíme tedy, že v případě ?/ = O veličina (24b) bude zníti
+— log <'*.'(""•.+ '""*>*'' ^! (- wg +7L;i Mi l CTi) t7i fíl'2_+ w\ Í0-i l Mz)
+= — log A (— Tťj,  , 7ť,   j  W,   ,  W2) .
+Máme tedy zajímavý výsledek, že Maclaurinovský rozvoj funkce ft (rL', , 7L/._, ;(),()   tf , /> , c ; j ; O)
+začíná členem
+- s . log A (— 7i',_, , íť,  ; o), , f«O ,
+kde ^/ je známý Kmneckerův invariant,   který v našich pracích  již   byl  uvažován.
+l O. Buďte K , [i , ;' , A celistvá čísla hovící podmínce
+« A —  •/ y = ]  , a  přetvořme výraz  (5) substitucí
+/// — /< ///' -J- .-í n' , // = •' ni' -|- (V//' : píšemeli zároveň
+jjřejde řada
+v řadu
+kde položeno
+(25)
+M KČ', , 7L'fJ ; 7', , 7',,    /ř , /; , c ; s ; //)
+a = tt«'- -)- 2 ^ n 7 -f- ť ;'- ,
+^' = a a J -f- b («. d -f- ^ v) -f- ť ;• A ;
+c =aí*--2bld--c4í*
+při tom zároveň platí
+'„ í»a = W| ' 7', ' -f wť ••',/ .
+Dvě soustavy
+(.</ , b , 6- ; 7^, , w„ ; í;, , 7-,,)      a      (a' , // , c ; 7ť/ , w'tt ; :-', , T''2) ,
+Které vespolek souvisejí rovnicemi (25) ,   nazýváme rovnomocnými,  a pro ne platí vztah
+= Jí (7č', , rt'2 ; 7', , 7',_,   a , /; , í- ; s ; ﻿40
+takže funkce  51 (7ť, , rc'2 ; í1, , v„ | a , /> , c ; j ; //)   jest   invariantem  twiiomoc-nýcJi soustav
+(a , L , c ; W, , w„ ; ?', , 7/J .
+Totéž platí o funkci 51 (vi^ , 7ťy ; ?', , v„ \ a , b , <• ; l ,0) a o jiných útvarech z funkce 51 odvozených.
+Můžeme považovati za nejznamenitější náš výsledek včtu, že [dle vzorce (íh'| funkce
+,••,«/<-* + »,«,) </, (W|   ,  __ «,„ _|_ ^ „),   , V,  -f- 7',, 01,      OJ,)
+jest invariantem ravnomocných soustav (25) .
+X.
+1. Transcendenta X(rJ , z"" M , o>' , o>'' ; ^-) , jejíž některé vlastnosti jsme dokázali ve článku IV., vyskytuje se podivuhodným způsobem v theorii transcendenty
+kterou jsme se zabývali v jedné z posledních prací.*)
+V této řadě mějte veličiny c\ , c„ , ... cr reálnou čásť kladnou, podobně //, aby výraz
+(',   IUt    —j—   C~ft   Din   ~\~   •    •   •   ——   í'r Ulf
+pro všecky soustavy kladných čísel in^ , ///„ . .. inf převyšoval určitou mez. Veličiny 7', , v„ , . . . VF buďte kladny ve svých částech pomyslných, aby řada byla absolutně konvergentní. Mocnina z? buď opětně dána výrazem ríln'~, kde pomyslná čásť logarithmu byla mezi — TT a TT .
+Položme nyní // = cí 7i', -\- c„ ?v,2 -|- . .. -j- <'p^p , kde w^ , r*.'8 , ... i^F jsou reálné veličiny mezi nullou a jednou, a rozviňme funkci
+v trigonometrickou řadu
+(— oč . . .00)
+i 4- '»*""'•> 4- • • • 4 •
+*) Sur une fonction transcendante. Včstník král. české společnosti nauk z r. ﻿41
+koefficient .-l„t „,...„   bude dán rovnicí
+1   i      i
+o ""o         o
+Dosadímeli sem za funkci / příslušnou řadu, vznikne i   i         i
+v„ . . . dwr
+kde součty -i* vztahují se k přípono a = l , 2 ,.../. Přetvořímeli tu obecný člen substitucí
+íť, -f- ///! = a;, , íc/a -f- w.j    "" 'o i •.. wp -f-obdržíme konečně
+("" l*     f <
+^*...%-\ \...\
+(^i x\ ~T~ ci x'i   i   • • • ~T~ cp &pf
+<)      (I                 O
+i zbývá pouze vyčísliti tento /-násobný integrál; to se podaří pomocí vzorce
+no
+i    r -SK.-.+^+...+<, rv) j
+jenž je možný, jakmile reálná čásť veličiny ^ je kladná. Dosadímeli tuto hodnotu, obdržíme výraz
+OO                           OO            OO
+,       _r ,_,. r   f -
+""'""-••• -v-J* **}••• v
+2.T/(M     — ť
+o                         u            u
+v němž lze provésti vnitřní integrace;  učinímeli to, objeví se A ve tvaru
+'  ($ ) />«, n,. . . n ^ co                                                                                     '
+r                                                 ••--1 /~
+} "" h^-M »«• (», -^,)] . k * + 2 ^», - f»)J • • • D> - + 2 * ' K - t>)T"" Funkci, jež násobí pod integrálem ^'-1^, rozložme v částečné zlomky:
+•=É— c
+••.   /-      l      _  T ' í n___ví     l »
+l<de položeno k vrtli přehlednosti
+, - 7
+i. ﻿při čemž v součinu l       dlužno vynechati činitele ^ = «. Pak bude
+r's ~ l d •""
+vn
+a integrály v právo určí se podle vzorce
+00
+f .:,<-',/,;
+\_____________-----___________      <7Í — l
+J    *+L    ~ sin-*'* kde se předpokládá, že g není reálné a záporné; jestliže tedy žádná z veličin
+není reálnou a zápornou, bude
+f - 7 '                   T ""
+(;/'< — T''<) L   c«                    J
+kde   mocnost ^rS~í je   dána jednoznačně   výrazem   C^ — WOKF^   v němž loga-rithmus má pomyslnou čásť v mezích — -n a n .
+Vložímeli tuto hodnotu za A do uvažované řady  trigonometrické   a do-sadímeli zároveň za Ctt explicitní výraz, obdržíme vzorec
+(-OO  . . .OO)
+y,  iv
+'•> .T i /», wt 4- M, w. ~|- . . . -f n
+Tento vzorec byl námi v citované práci vyvozen právě vyloženým způsobem a jde nám nyní pouze o jeho další přetvoření, t. j. o zjednodušení výrazu v závorce [ . Sčítání řady zařiďme takto:
+Volme nejprve za a určité číslo mezi prvky l , 2 ,.../, sečteme vůči všem ukazovatelum ;/, , ;/2 , .. . n„ _ i, n„ ^.\ , ... nr , při čemž obecný člen znamenejme
+tímto způsobem vytvoříme / částečných součtů,   které dohromady   dají řadu původní.
+I- ﻿Avšak v částečném součtu prvků   T(<i) přípony ;//; probíhají neodvisle ve-spolck veškery celistvé hodnoty, takže máme zde součin řad:
+.v - I
+>i,n. . .. nr
+.v - Ir-      oo
+^""M    U    V    _«j""'vv
+C«         J      H        «        nfi-vii       n*t-va'
+'           /> = l M ... = — oo — -- "" __ •
+cfí
+kde  součin   řad se vztahuje   k příponám   ,> = l , 2 , . . . '< — l , ř< -i- l ? . . . /> [ednotlivé tyto řady sečtou se pomocí vzorce
+co
+LL'2kbxi                   c-labxi _    — *) irr 1   _ a-k ~-~n    č**i—\   '
+čímž se obdrží
+r:r:; =""—< ('-?T' ťr—-^
+- l
+což   lze   též   psáti
+*—J
+Sečtemeli tyto výrazy pro a — l , 2,..../, obdržíme hodnotu řady obsažené na pravé straně rovnice (iM v závorce [ ] . Pravá strana rovnice (2) tedy bude zníti
+iltrti f          \                 x  i — l
+U — W,J /     « — i:.\ JL.
+/' l Y ' /
+čímž rovnice ta nabude tvaru
+(3)
+1 S
+.^l^.^oo
+,. _ i
+
+•ripomeňme, že zde součin ve jmenovateli vztahuje se k příponám ft = 1,2,... <        'a+] '•••/.   t. j. lépe   řečeno,   že dlužno vynechati   v něm čini-
+I. ﻿Tento vzorec jsme obdrželi ve formě jen málo změněné  v citované naší práci pod čís. (4), kde jsme jej odvodili na základě věty Cauchyovy o integrálech  v  komplexním  oboru;  rozdíl  spočívá  v  tom,   že  v onom  mocnosť i je dána výrazem
+(*-l)log(/---
+e
+v němž logarithmus má pomyslnou čásť mezi nullou a 2^,   kdežto v našem vzorci (3) mocnost í**-      '-)       odpovídá logarithmu, jehož pomyslná čásť
+1 u
+leží v mezích — /T a n .
+Zajímavá rovnice tato vyjadřuje vztah mezi p funkcemi tvaru
+00
+í—i
+2nu.T i
+a funkcí P (u \v \ c \ s) .
+Kladcmeli zvláště ^ = l , vznikne
+(4)
+Si Í
+2 u .T i
+= l       n = — oo
+Jí,
+C
+i^r
+= 0
+což v případě / = 3 poskytne známý nám vztah*)
+l
+— 2 M ""j }
++;
+kde položeno
+(5)    -Y (L',L"" .o,,(,/I«i"";J) =
+= O
+J ;/ .v .-r r
+T/(I'+«"">'>     ^ r !2í<^^»«-) ""         _ iJ U-              _
+Článek IV., vzorec (1).
+I. ﻿Výsledek ten připouštěl zjednodušení následující: Jsouli L, , -2 , •?•! veličiny podrobené podmínce
+6]   <--j    ~j      tf> <->n       j      íjj •-'fj   — —  V/   ,
+lze- řešiti rovnice
+c, v„ — <-., v^ = xr;{ , ru 7/3 — <:., vt = s, , r;{ 7', a sice bude lze jim vyhověti  hodnotami
+_   7.
+_  »        __      7; _ _
+iJf.V,                 ""3Vi
+vložením těchto výrazti do naší rovnice obdržíme známý nám vztah *)
+l                                        iuxi.f-l-í±^tZi
+Y (s, , — .0'.,   c>, , r;{ , c\ ; ?/) r               •• r<c>ť*
+< L
+l                                                           2 u .7 / . -'Xf-LT-ílli
+~V"" l ft           __    r:<         /•         /•                •    ;/                              «»e    C, C         ____ /  \
+Vypišme ještě podrobně vztah (3) v případě / = 2, kde je tvaru zvláště jednoduchého:
+1          /'(*;«-,,».;*,,*.;,)
+S — l       2 « .7 /'
+v .s — l         2 M .-r /
+
+Klademeli zde j = (j , máme
+(0...00)
+/ V // 1 =.   V   í -2 -7 ' ( '"" • f'i + w- ''-• ' _
+a rovnice (7) přejde ve známý nám výsledek (13)  či. IX. aneb (5*)  či. IV.
+2 u .-r i
+00
+'2 n .-7 i
+-- (W— /',)
+1)
+) Článek  IV.,  vzorec  (L;).  Tam   omylem   nesprávně   udány přípony  u  liter  o tímto budiž opraveno.
+což ﻿Vytkněme ještě výsledek, jejž obdržíme,  násobímeli rovnici (7) na obou stranách 7^(1 —s) a přejdeme k limitě pro jr = l ; vznikne tak
+•l U -T /
+(8)
+2 „i/'(»*, r, -
+(O...OČ)
+V   _<""_
+71          i             i
+-•""J       li -   - ///,  l',   -!- ///„ i'n
+Vt{  ,   //(._,
+(M —  l'..)
+__]
+i        / • M — r, \
+l<>g U "",,  U
+l
+Předpokládámeli  reálnou čásť proměnné s větší než dvě, bude
+(O...CO)
+lim        - -                                                    ^
+.^o^Uo^^; íři .«"".;<! ,,, ;j) = Znamenámeli tedy
+tO...00)
+(9)                    ^(* ^ ,^,; .v) =  V
+obdržíme z rovnice (1) vztah
+oo  '
+/ví//   ,-, , ty ; /)         l
+2 « z/ .T /
+ínun i
+,       •     v — l                   c
+i   V   Í1U V       6'
+t-;;   —   l („ l      2nťl»i T
+• .=-00  V   »>/         c~Z~ _ i
+kde v součtech  V    vynecháno po clonu » = O.
+Tráva strana je celistvá lunkce transcendentr.í pronirnné .v a tím jest dána propagace funkce R(u' i\ ^t'»\s) vůči s. Poněvadž F(\ —s) má póly .v = l , - , 3 , . .. , může R (u \ c} , r2 ; s) míti pouze tyto póly; ale na místech j =3,4,5,... chová se tato funkce pravidelně a zbývá tedy jen vyšetřiti body s = l , s = 2 .
+Klademeli v rovnici (7) j = l , obdržíme
+2 Z* -T /
+J-   V       __í_!!
+/-     —     2.T/;
+*• 1  n = - oo        .    (Ci '-2 - '-, », -l- « c2)
+
+-   l
+\         c
+"" ""T7""        ^.-rř-
+c '•• ﻿47
+přejdemeli zde k limitě pro v{ =() , v„ —O , vznikne
+•2 nu.-TI                                                žNíí.-T/'
+i  v-   •—  +-1- y'    *JL   -«_!_4._L.  _•-.
+«..L.***_,  ř'-^~7^Z7   '• ""2^""""f-^'
+z rovnice (10) pak plyne, že bod j = l je pólem funkce A,  a že residuum příslušné zní
+2 >? u .-T i
+4 W U .7 ř
+(ID
+které tedy  má hodnotu -
+'       -
+//
+ti
+-2   \ okolí místa JT == l  existuje tedy rozvoj tvaru (a)        A' (w | <-, , (,. í J) = - -~ + />„ + />, (* — 1) + ^ (X — 1)*
+kde
+/,_  •      tzi.
+~~        2/- ^
+- ť i ( ^
+Podobně existují rozvoje
+(b)       R(*\c, , r,, ; í)== ^ + 6'„ + C\ (s -2) + 6, (* - 2)«
+(c)              R (ít <-, , ť-,, ; .o = y;„ + /;, (s - 3) -h A, (^ — 3)- + .
+platné v okolí míst s = 2 , resp. .v = o . Z rovnice (iO plyne dále
+^ A'(//   ť, , ř-„ ; s]               L) (                         1N
+(d)                                   ^1                 -sR(u   <~} ,c„ ;j+1) .
+V řadě (c) můžeme ])římo určiti stálý člen
+Differencujetneli (b), máme dle (d) rovnici
+-(-řL2+-^+--- = -'^.-'A(*-!í)
+<i po jednoduchém  přetvoření pravé strany
+— */?„- (x —2) (/?.+»/>,) + .•.
+tedy
+? 6'            ? C„
+=        =0 ,     ^    *- = r-
+^ //               ? //
+I. ﻿18
+Tím nalezena rovnice
+Znamenámeli //0   určitou hodnotu   proměnné u ,   L\t (//„)   příslušnou   hodnotu funkce  C]t — CH (//) , mánie integrací z poslední rovnice
+oo
+x 4- «-
+/r
+!"">       ,-,    X 4- «., 4- »í C, s.     '
+l
+Veličinu  C'„ lze vyjádřiti dalším způsobem plynoucím z rovnice (10). Z rovnice (b) plyne totiž
+/'___/)           \ ( .,          O\    L* (,.      f         ,-     •   ..> l
+C „ — JJS=<1 \\* — 6) K (U    í, , t.j, , S)\
+a výraz   uzávorkovaný   obdržíme,   násobímoli   v rovnici  (1O)   obě strany veličinou (2 — s) F (l — s) C27r)s~ l čili, což totéž jest, veličinou         —-—             - ;
+l        Á
+provedemeli pak differencování, a dosadíme s = 2 , obdržíme:
++
+ť  2        -2n,-t.rl            i
+č      °>       — l J
+•J ?Z // .T /
+oč-   '
+= — oo    '
+« — — ~c    -
+-   l
+I lodnotu první závorky lze vyjádřiti v zakončeném tvaru. Za tím účelem položme s = 2 v rovnici (7), a obdržíme
+— l
+-l U .T Í
+_4_     V       • H I^2_          c   "":
+—         /         r  <L~      '      -lni n — - oo           *•                   — (CJ wi — ci ws + « ř;i)
+^ Cj                               — 1
+2 M .T l
+ií « .-r
+— l
+___  J ﻿49
+přejdemeli k limitě pro v, = O , v„ = 0 , vznikne
+•2n u .t i
+,-v-    /                                                                  CO    '
+S/// ť ' , ., v ""* < : i- M^T- ~r2;r2j í •-' 21, t- i            --------• — •------                                             ___ r*f~< '.
+a pomocí této rovnice náš výraz pro  60 obdrží tvar
+c\íll
+ftsr— OO    l
+'""'
+•2 n u .11 ,>      ci
+-_' >l U n i
+•       '••
+Dosadímeli pak do našeho výrazu pro  Č0(/v)— C0 (//„) hodnotu z tohoto vzorce plynoucí, nacházíme výsledek
+(13)
+f*l~ ""     '"" '""')
+';
+r:,
+00    '
+<• % '<•' .
+n — — x:       l l
+2 n IÍ...T;
+n i        c    c«
+2 n u„ .7 i
+l         ni
+, lo^ — .
+!   <-'*'        c\ '     — l                                    c
+2 Tri           ;/
+-   — OO
+lnu n i
+l
+;/
+—
+l
+e   C|     — l                              c              ._ i l
+Zbývá nám ještě vyšetřiti konvergenci našich výrazu. Staneli se, že v rovnici (2) podíl dvou veličin c, na př. ' , jest reálným, stane se pro nekonečný počet soustav čísel //„ , nfí výraz Kf — Vj— lf (//„ — ?'„) velmi blízkým hodnotě
+Kde z značí libovolnou veličinu reálnou; neníli pak veličina i'fl -   C/; 7'ř<  real-
+1 <«
+nou, biule pomyslná čásť veličiny n^ — r'/;—</; (//„ — ;•„)   stálou  a   od   nuliy různou, z čehož plyne, že
+TV//* '      ;//(l ""    ''/•'       ;/<* — r«
+<it<niy                    ----                      Si    Jli )H(>/IOII    HtlSiťílkťJH    rO&Ht&Mtiych   St>!(S/tll'   ('t-
+Koz pra vy. K jčnik IV. Třída II.
+1.                                                             4 ﻿50
+listvých  čísel ;/„, //,,•   státi  nekoncčnč  malými,   neníli  aspoň jedna  z  veličin
+——, — - reálnou, c*     í'«
+Jeli tato podmínka splněna, zůstává ve vzorci (2) na pravé straně jmenovatel obecného členu od nully v konečné vzdálenosti, a řada muže konvergovati, když čitatel pro vzdálené členy je malý, což vyžaduje, aby reálná čásť veličiny s byla menší jedné, při čemž ovšem konvergence muže býti pouze podmíněná, aspoň jdeli při tom o případ p = 2 ; konvergence bude však najisto absolutní, jeli reálná čásť veličiny A- zápornou.
+I v obecném případě, kdy žádné - - není reálné a kdy ovšem všecka í'„
+mají kladné části pomyslné, může konvergence pravé strany v rovnici (2) býti jen podmíněná, když reálná čásť veličiny s je kladnou, poněvadž pro Tt', = Wo = .. . = 7č'ř = O levá strana rovnice je nekonečnou.
+Naproti   tomu konvergence   pravé   strany rovnice   (;>) je vždy absolutní,
+jestliže bud aspoň jeden z podílů         není reálným, a pro ostatní reálné po-
+cft
+díly         podíly   J:    nejsou   reálné;    aneb   když   by   všecky   podíly         byly
+reálné, jeli reálná čásť veličiny s zápornou. V obou těchto případech se předpokládá, že lze 11 vpraviti do tvaru r, 7ť, -|- c„ u>„ -f- ... -|- CF ity , kde re, , 7í'„ ,... WF jsou reálné veličiny obsažené mezi nullou a jednou.
+Výjimku z našich úvah tvoří případ, kdy uvažované poměry 'jsou racionálně.
+Abychom se vyhnuli komplikacím,   předpokládáme zejména  ve  vzorcích
+(7) — (!•>), i nadále, ze podíl -""   není reálný; veličina u pak musí býti repre-
+c\ sentwána bodem ležícím uvnitř rovnobčzníka, jehož vrcholy jsou O , i\ , c„ , <-, -\- c„ .
+Abychom určili veličinu B(\ , differencujme rovnici (a) vůči u a užijme vztahu (d); tím obdržíme
+DB
+čili po upravení pravé strany ^         ?/'„
+z čehož plyne
+c   ?/;ó L ' ""irz
+— C— C' ﻿51
+prvá rovnice poskytne druhá pak zní
+
+C |  C ,j
+a 'i té plyne:
+*u (X («) — A, ("" + ""») J = ^0 (« + ""o) — <-i ('O
+oo                   /•"" + """" f""wr' ^
+^""^      (•                                  V
+m~n                  * \ "" <>7    / a tedy integrací v  mezích //, . //:
+J>\> ("") - /;o ('< -r ""„) + /í, (^i  4- //<ř)   -   A, (.//,)
+/
+^x = O log -
+^ (3t + U + «n + W t'i \         »-, . X + «, -f »í i'i
+~~5T""       ^ • l (    ~ ..•,
+Z rovnice (a) plyne
+a veličina uvnitř závorky se obdrží, násobímeli strany   rovnice (KM   veličinou
+(l - s) ('2 *)* -* r(l — *) = T ('2 ~ s) . ('2 *Y-J; po provedeném diríerencování tedy shledáme
+, = (-/"" (1) + log 2«).
+i         ^         '
+2 nu ní l          ti     ''
+'-,     **Li*f
+e   ""«     -l
+Z n u .-T i
+lot?
+.
+—l l
+l''vý součet splývá s výrazem (11) a má tedy hodnotu obdržíme
+/>       f     i-» / 1 \   i   i     i t   \ ^\   i* ť""«»      "" 7* A, = 1— /   (l) + logV2»J      '   ;
+^ í i c ••
+.  takže
+Inun i
+<* n u .-i i
+—  l ﻿52
+Vyjádřímeli pomocí tohoto vzorce výraz
+A. (""> — A. (« + ""o) + AI K + ""i) — A) Oi) a porovnáme s hořejším výsledkem, obdržíme
+oo                            r/x 4-« 4-HO 4-»»«i \ r>/'z^~""'4-w»c,\
+n          i             *        ~~^T~~    ~''     {         < ••
+L/e - O    lOg  -----
+*»      f-   *+«i, + M,
+O                                                                  r.2
+ci\ „.a
+= /-'K + ""i) + /•""<"""") — ''>„ + "") — /•>, ) .
+kde položeno
+(14a) /''(^ =
+í W W -i /
+l   ,        ///
+V                   r     °'      — l
+V okolí bodu .s- r= O konečně existuje rozvoj
+A' (//   rt , ru ; s) = A{, -j- /J, s + Jo A'- +   • • ; diríerencujemeli jej dle // a užijemeli rovnice (d) , obdržíme
+— l
+takže obdržíme
+Odtud odvodíme
+[4 C"" + ""., + *i) + ^i W - ^i (^ + ^.) — ^i (^ + ;/i
+;;7T~0
+tedy integrací v mezích // a //„ Al (* +*• + «!>+ 4 (""
+„4-^,4-J
+__fs____
+:„ 4-WK-I  >
+Al (//„
+— ^i (u 4-
+u 4- «i_4-'»'• i
+MI 4- ""24- »«ťi>
+/«„4-«i4-""«s 4-wcn
+ií.. 4- m c,•>  ,-,   H -L- w„ 4- »' <""\ \ r> l[ť_+ Hj_4- ""''' i \
+""-Va—)' '      ""~ÍT~
+Avšak výraz A, =/>x   (, A'(//   r, ,r(J;.v) se obdrží z rovnice (lni ve tvaru yl, -     -(r'(l) — log 2 w)-J,,
+l
+2nlt:ri                                                           lllll.it
+'•'   ""'           4-1,,,.""'        -   -
+•     2H ,-,., /              ~T *""*   c         Inc^i
+' n
+c   *     — l                       c   r;     - ﻿58
+dále z rovnice
+plyne, že Aít je kvadratická funkce u, a tedy obdržíme, nahradímeli v našem posledním výsledku výrazy A^ jich hodnotami:
+oo      r>/"" + au + ""i +ffl^j\  r»/""4-«Civ r*/«u + tti + »«C|\ »-/*, + «,. +M o,. TT                  c,                      c,                   r,_                ~g~
+^ l J   y ""u + Ki + Kaji^fa |-»/5Lfcf52i) f(!L±*LÍi*Lť) /""(?L±JíL±_'Lfi)
+w = O                                 o.i                               ^       o,                                  <-j                                        ť*3
+-----  ťT ^//    —[— //«   —l— 7/  ^-----(r (li. ) -----  (T (li —l— ?/   ) -----  CT iJI   ••! - 7/  ^
+r v'o    l   ''i    1^  f|j;         ' \""u'                  i   ''o'        l   v"" n^    l/ »
+kde znamenáno
+00   '
+J__  V   I
+2^^' M;-fu //
+'-' H « -T /
+•2 n u .T i
+;//
+///
+11       /<• *•
+°"" ť ' -»řiiT     ~^~   g 7""' ~2«Clí»-
+ř"" ""•    — i            ""   e   *   _ i
+Znamenámeli
+obdržíme při označení (15) :
+/Y'+mc»)
+V       r.j
+(10)
+|t„
+TT
+l
+,""o
+= G (//) -\- (T (v) -\- G (7ť) -\~ G (;
+G (.:••)       (V (// -p 7'       .:.•)       t7(i kde se předpokládá, že veškery argumenty
+leží v rovnoběžníku (O , r, , <•„ , ť, -|- r„) •
+íí. Užijemeli \/.oicc-
+obdržíme známý nám vzorec (17)            r(s)R(» c..c.
+.1    (l    -i- '•'•'•)(! —t-""-""i
+ve kterém reálná č.isť veličiny .v musí býti vetší dvou. Násobením mocninového rozvoje
+'     » ﻿kde />'. =   , , /?„ = 0   , atd., podobným rozvojem funkce b             iW
+l
+obdržíme
+2 ť, <:,, a;
+Integrál
+(w   ./, ,   , .0-Čí            '                  -J-       ''•+'»
+( l ~ l       3)   (/'       4 J   i l o   > *s '-----l     V    / I            ,— '•   x        1             __<•   x\                             ~            .)
+t)         ( I           ť           ')  ( L          <•'         -"" )             ''i f',j, X~               l í'| í""o J?
+«""> í\   C""„  —f— Ct "" —\~ í'lt ""     \ ______'     •*                                   -         l    ,.— U .c
+12^0,
+
+tedy existuje   i když   reálná čásť  exponentu .y je zápornou,   ale   ovšem  větší než - - l . Pokud je tato reálná čásť větší dvou, máme patrně podle (17)
+a tento vztah musí býti platným pro všecka s , pro něž funkce  /v a -$ jsou definovány. Rovnici tu možno psáti
+(19*)
+' (II    C,  , c;. • S) =
+_|      —Tq     —| +
+,      ' 1      ř -.'
+Odtud   se   obdrží   výsledek,   že  prví   dva   součinitelé   Maclaurinovského rozvoje
+120)                      /v (n   c} , <-, ; s) = 4, + ^, ^ + ^,, .s-- + ...
+mají hodnoty
+-^„
+% u
+^i + ^ 2 < , ř-a
+* i-'••,'••,      ^
+-f ﻿55
+Místo TS (li \ <""\ , '» ; O) pišme stručněji -& (u \ rt , r,.}, takže
+00
+x __ f f_______l_______1          r, -f-Ci
+*(«:<•, ,<«):  *1  l (1_r_e,^ (!__,-*,*) --   fiC|a.tt   - -^7-3,
+o
+3r, r„ -f- rt"" -f~ '«
+Dosadímeli do (20 aj za Al  hodnotu výše nalezenou
+A, = An (log 2 rr - r obdržíme vztah
+<                           e,H-e.             3//a
+(22)    cr (?/ i <•, , ^«)
+l
+kde psáno jako výše
+,
+*    l   '.'
+2 //* — r (i)) +
+J    -       7/U  _      ''•   +^    ,-_!_   (rl  +ftt)a + ^l^
+"" 2^        2r,r„                 12^^
+Vzorec tento lze považovati za analogii řady Kummerovy. ﻿*"

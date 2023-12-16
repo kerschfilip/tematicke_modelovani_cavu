@@ -1,0 +1,489 @@
+"","x"
+"1"," ﻿ROČNÍK XVII.                       TŘÍDA   II.                               ČÍSLO 32.
+O všeobecném určení číselných koefficientů  grupy hypergeometrické rovnice differenciální.
+Xapsal
+Dr.  Fr.  Graf.
+(SO obr. v textu.)
+(Předlo/cno dne 8. května 1908.)
+Elementární methodou geometrickou možno, jak známo, určiti vytvořující substituce hypergeometrické grupy. Praktických výsledků znalosti grupy jest se však nadíti jen tehdy, je-li znám všeobecný zákon, dle něhož lze tvořiti přímo, tedy nikoli komposicí vytvořujících substitucí, číselné koefficienty grupy; neb konstrukce Poincaré-ových řad Z vyžaduje, jak známo, znalost' libovolného množství těchto koefficientů.
+Cennou pomůckou k dosažení tohoto cíle jeví se nám t. zv. formule Wirtinger-ova, vyjadřující integrály hypergeometrické rovnice jako formy integrálů nejjednodušší rovnice hypergeometrické s exponenty O, O, O, totiž elliptických period cal, co.2. Integrály hypergeometrické rovnice T-, a v.2 jsou s formami co,, w., homomorfní, to znamená, doznávají substituce své grupy, podrobíme-li to1 a C32 homogenním substitucím kongruenční grupy modulové druhého stupně
+/a/A      /l 0\         )d
+k nimž přináleží   x- (T) co kongruenční modul.
+Zvolme hypergeometrické formy následovně:
+(V, r) d V
+o
+Rozpravy:  Roř. XVII. 'l'i:  II. Č.  :!2.                                                                            l
+xxx i r. ﻿Velice důležitou okolností jest, jak záhy seznáme, že Označme nyní inte grand krátce / (r, T) ; bude- pak:
+l                                                       T_
+Y! = K)1 j / (r, T) d v,    v., = Wj j / (r, T) rf y.
+o                                                o
+Podrobíme-li T substituci:
+r'=
+obdržíme:
+l    y-
+iu fa v*
+(y ó)
+,) \ / ( v,   y ^~ ' T. \
+-'             « + p T   /
+Dlužno teely ve všech funkcích f>;- za\'ésti transformovaný (juotient ir . Ježto pak operujeme lomenými mocnostmi funkcí těch, jest nám vyjíti od logarithmu při transformaci druhého argumentu.
+Logarithmy tyto jsou určeny pro případ, že prvý argument dotyčné thetafunkce rovná se nulle, pomocí funkce rt (T) na základě dosti obtížných úvah.*) Zbývá toliko rozšířiti platnost uvedených zde relací pro libovolnou hodnotu prvního argumentu v. Formule-, jc/ /de- uvádím, jsou správné až na exponenciálně faktory s exponenty 'Initi. kde; n značí celistvé číslo:
+í>„ [ («  + 0 r) -, -, x |
+^ ['a  + (i T) y, T |
+t% [(«  + /'J r) v, r]
+»., [;«  + /j T) r, r].
+Při tom značí:
+1 L'/3   ^
+—^- (^, = ."") « + 3 ď — (i (u.
+C,   -- :i « + :J d — s   «,
+*)   Či.  Dcdckind, ErHiuterungcn   /.\\  tlen   l ragmcnten,  Ricmanns  Wcrkc.
+XXXII. ﻿12/j       _ k)                ^             0
+Tt Í
+kde (;», //) jest tak zvaný J)e-de kinduv symbol, t. j. jistá funkce obou v závorce stojících argumentu, která je vždy dána číslem celistvým.
+Logarithmuje-me -li poslední čtyři rovnice- pro transformované funkce Oy a p.iložíme-li r = O, jsou, jak v měděném pojednání pro #, (?.') jest doi;ázáno a jak pro ostatní tiietafunkce pomocí transformace funkce i] (T) vyplývá, vycházející relace přesnými. Platí tedy pro v~0 všeobecně:
+/» 9f [r, T'\ = Ig »f [(« + ,i T) 7', r j + -Í- /g {— (« + /j r)2 } + C,-
+kde logarithmus druhého cle nu na pravé straně je určen tak, že jeho imaginární část le ží vždy mezi ^_x i.
+Bychom dosáhli n lací pro libovolné r, mysleme si, že v poslední rovnici argument r roste od nully přímočarně k libovolnému bodu v = p-\-qr, keL p a c] značí celistvá a na př. kladná čísla. Všem bodům, jež jsou body nullovvmi pro některou ze čtyř thetafunkcí a jež leží na jeho pfímočarné dráze, vyhne se pohyblivý bod malým polokruhem ve směru kladném. Ježto můžeme přesně stanoviti změny logarithmů obou thetafunkcí poslední rovnice a ježto dále- pos!e-dní dva členy ]:ravé strany argument r již neobsahují, docílíme tímto způsobem patrně vztah, platný pro všechny body prvního quadrantu roviny 71 o celistvých souřadnicích.
+Pro bod 7' = O bueítež tedy logarithmy všech čtyř thetafunkcí určitým způsobem normovány; jaké jsou jich konečné hodnoty pro libovolný bod v = p -{-qr, značí-li /> a q celistvá, kladná čísla a pohybuje-li se argument 7' od nully k tomuto bodu podél právě vytčené dráhy ?
+Ze všeobecných formulí *)  vyplývá pro celistvé p a. q:
+i (w-f- !)-/-{>, (í-) — xi['lq— M (r + T) = l g #, (r) +lgh   l   +n /[l*— 'l q T]
+/- •% (í' + r) = l g ř>3 (?•) + / g /i""1 —'lír iq -c
+manu -li na zivt< li, že při transformaci o reálnou jednotku argument v opisuje kolem míliových bodu polokruhy ve směru kladném, následkem čehož dotyčné logarithmy zvětší se oproti dřívějším o - x i.
+Vy se třmě nejprve na základě těchto rovnic kom čné   hodnoty   logarithmů   thetafunkcí,  pohybuje-li se argument   •' napřed   od  nully  podél
+*)  Čí.   poje l míní:    ,.O   hodnotách    logarithmů   clliptickýeh   thetafunkcí   při transformaci prxvho argumentu"".
+l XXXII ﻿reálné osy k bodu, jenž representuje kladné celistvé číslo a, při čemž opisuje v blízkosti míliových bodu funkcí tt, (7') a &.,.(v) polokruhy ve směru kladném. Po té odbočí ve směru r a proběhne spojnici bodů a, a -f- b T, kde b opět značí kladné a celistvé číslo. Nullovým bodům funkcí í^ (7'), ^o (^) vyhne se opět ve směru kladném. Známe-li počet míliových bodů ležících mezi původní přímočarnou a touto lomenou drahou, odvodíme snadno hledaný výsledek.
+Iterací a komposicí posledně uvedených formulek obdržíme pro konečné hodnoty logarithmu, odpovídající lomené dráze O M N:
+l
++ b T, T) — l
+Ig O1! (a + b T, T) = lg
+lg #2 (a + b r, T) = lg lg 0-3 (a 4- b T, T) = lg
+(o, T) — ni b-r + n i h (o, T) — nib-r + nib (;;, T) — ni b- r + n i a (o, T) — ni b'1 T.
+a
+Obr.  I.
+Nazveme-li G, počet míliových bodu funkce #y (?', T), ležících na přímé dráze O N a 4j počet míliových bodu téže1 funkce, nachází jících se v části roviny mezi dráhou touto a lomenou dráhou O AI N, dlužno nejprve stanoviti relaci mezi a, b, Gjt Jr Ježto pak <?,• je dáno čísly u, b, možno určiti J,\ patrně obdržíme následující vztah imzi konečnými hodnotami logarithmu pro dráhy O M N, resp. O A':
+B)                 l g ty (a + b r, r)0 w N - 2 * i 4. = l g ». (a + b r, r)ox
+neboť připojíme-li k lomené dráze O M N systém kliček, odpovídajících Jf u\-nitř ležícím míliovým bodům, ve směru záporném, lze celou tuto dráhu bez překročení bodů míliových převésti ve dráhu přímou O N.
+Pozoruji iru -li rovnoběžník o stranách a, br, jest počet míliových bodu funkce #0 (v), ležících uvnitř a na jeho kontuře (l -f a) b; povážíme-li dále,
+XXXII. ﻿že trojúhelník O M N neobsahuje dle našeho usnesení míliové body v počtu <?,„ ležící na přímce ON, následuje:
+a podobně vyplývá pro ostatní tři funkce:
+(l+«)(!+&)= 2^/, +(?! + l
+í* 6 = 2 4, + *,.
+Ohledně <?, podotýkám, že v })očtu těchto bodu není zařaděn počátek souřadnic, nýbrž mimo ostatní na přímce O N ležící body o celistvých souřadnicích jen bod konečný N.
+Dosadíme-li z těchto rovnic hodnoty pro ^/, do relací B), obdržíme kone-čně pomocí rovnic .-1) pro hodnoty logarithrnu, opíše-li argument •v přímku OA7, následující relace:
+lg ř>;, (a + br. T)(;V  = lg #„ (<>- r}—7ti \b- T -\-ab~ G„]
+C)                l g #, (a + b T, r)--N.  = lg í>, (O, r] — n i [b- r + a b — (?,]
+l g ».2 (a + b r, T)(TV  = lg »., (O, r) — ai [b- T + a b — az]
+lg ^;5 (a + br, r)(-.  = Lg T>.J (O T) — TT ; [6- T + a b — <73].
+Opakuji, že <?,• značí počet míliových bodů funkce O1, (r, T), ležících na přímce spojující počátek souřadnic s bodem a + b T, (při čemž a, b značí kladná, celistvá čísla), kde r jest druhý argument dotyčné funkce.
+Všechny možné přímé dráhy mezi dvěma body sítě (l, r) možno roztříditi ve tři kategorie; je-li / největší společný dělitel čísel a, b (jenž rovná se jedné, jsou-li to relativní prvočísla), tak že
+a = i
+b — t
+jsou možný rásle dující tři případy.
+J. a^ je číslem sudým, bl lichým. Dráha (O, O), (a,, b}] obsahuje jediný míliovy bod funkce #„ (v, r} a taktéž (mimo střed souřadnic [O, 0]) jediný míliovy bod funkce í>, (?-, r), totiž bod (a}, 6,). Celková dráha (O, 0), (a, b} obsahuje tudíž
+t míliových bodu funkce t^ (v, T) a /        „              „         ,,        »0(v, z).
+'2. «1 je číslem lichým, /;, pak sudým.   Patrně leží na celkové dráze
+/ míliových bodu funkce #t (<•, r} a  dále                    t        „              „          ,,        &» (v,r)
+.'5. a1 i &, jsou čísla lichá. Pak pmchází přímá dráha (O, O), (a, b)
+t míliovými body funkce  91 (r, T) a záro\-eň              /        ,,              ,,         ,,        í>3 (r, T).
+Jiné kombinace- míliových bodu elliptických thetafunkcí, ležících na spojnici dvou bodů sítě (l, T) nejsou možný.
+XXXII. ﻿Označíme-li zbytky čísel «,, /;, (mód. '2) symboly a^, b}, leží tedy na přímé dráze  (O, O),  (a, b) celkem
+/ míliových bodu  funkce #, (?', r}
+•\                                        /                                                            fť-   /o   i   7 \    /-i     T\
+1         »              »          »         vSí(Z+bí)  v* >  Tj-
+Vraťme se nyní k dřívější pro í1 = <> platné relaci:
+a dejme tomu, že argument ?' opíše přímou dráhu O X.   Ti nto argument měříme na levé straně této rovnice jednotkami
+Pak jest
+1. ť -         —-—; budiž tedy
+v = a' -f 6' T'.
+.    V -r-  ď
+= a *+ i* r.
+a + d //) r
+Proběhne-li í1 v síti (l, T') přímku mezi body
+0 + O.r'. rt' + Ď' r'
+opíše patrně argument (a +/3 t)   v taktéž přímku v síti (l,  r} mezi body
+0 + 0. r.  a*-\-b*T.
+Leží-li na první dráze  G-  míliových bodu funkce •91, (r, T'}, na dráze druhé pak<?;-* míliových bodu funkce #; (v, T), náskdnjc obecně z rovnic C):
+/g í>7- (a  + // T', T') = Ig ftj (O, T') — 7t i | /J/2 T'-\- a' b' — <?/],
+/g ^;    (í/* +   &* T    T) =  Ig fy   (O, T) — 7T ř [b*2 T + rt* Ď* — G,*].
+aneb, zavedeme-li opět argument i>:
+/g »,- (v, r') = J« í>, (O, T') —ni // ť + n i G-Ig fy [(K -f /3 T) u, T] = /« »y- (O, r) — jt / b* (« + /3 r) ť + TT / <?/*.
+Dosaďme-  nyní hodnoty pro Ig ;f; (O, T')  resp. Ig O1, (O, T)  vyplývající z těchto rovnic clo relace /)); vychází pak
+Ig fy (v, T') + ni // r — n i G,' = Ig fy \(<x + fi r) í', r ] + n i b* (a + /5 T) u
+l
+čili
+(y, T') = /j? «•; L(« + /3 r) », T | + TT i v {/;* (a + ft T) — b'}
++ ^ ^2   + C..
+Ježto však
+/,* = ^ a' -f ď //,    « ř) —fty= I. XXXII. ﻿jest, jak jednoduchým výpočtem se přesvědčíme:
+b* (a + ft r) — l>' — ft (a -f ft T) v. tak že konečné vychází: l g fy (v, r') = lg &/ [(« + 0 T) v, r] + * ř /j ( « + 0 T) í'2 — a ř (<?;* — <r/)
+Tímto způsobem obdrželi jsme ze svých formu lek pro logarithmy opět na pravé straně druhý term, jenž vyskytuje se i ve formuli obecné, platící pouze pro thetafunkce samotné, nikoli však prozatím i pro jejich logarithmy.
+Zbývá nyní ještě určiti diffennci  (<?;* -- <?/).
+Vztah imzi souřadnicemi a', // a a*, b* zní:
+resp.:
+a* = a a   + <y b',    b* = /j a' + ď b'
+í?' == d íř* — y 6*,    b' = — (i a* -i- K b*.
+Pro míliové body elliptiekých thetafunkcí jest
+a' i:       (mód  J),    &' E   ^ (mód 1),
+*j                                 M
+kde- /u, v = O, ]; tím obdržíme ]>rávě čtyři kombinace. Ježto «, ď jsou čísla iichá, /^, y pak sudá, platí též:
+a*  --  '""   (mód.   1),    b*=~ (mód.  1),
+čili každému nullovému bodu funkce 9- (r,r') odpovídá míliovy bod funkce 9}- [(« + fi *} í1, ^]; dráha, kterou proběhne bod r přímočarně v rovině (l, ť) obsahuje týž počet míliových brdu každé funkce jako dráha, již spíše bod (U-\-(ÍT)V v rovině (l, T) aneb
+G *  = G '
+!              l  '
+Rovnice
+Ig ti-/ (v, r') = Ig &; [(a + 0 T) v,
+(a + /* r) i'2
+platí tudíž pro všechny body prvního quadrantu roviny (l , T) a platí tudíž všeobecně. Tím končím digressi o logarithmech transformovaných thetafunkcí. Označim-li nyní zkráceně:
+«n C0 + «t Cl + «2 C -f- «3 Q = -7g Cf„ í?v
+Vy o)
+\-ychází substituce hypergcometrickýeh integrálu, odpovídající substituci elliptiekých period (»§):
+XXXII. ﻿Nyní poznáváme význam relaci. 7 aí = O; rovnice tato zajišťuje nám totiž pro integrand / (r, T) multiplikativní automorfismus při transformaci druhého argumentu; záre>veň vidíme, že číselně theoretická konstanta C/a p\
+\y 6)
+jest úplně irrclevantní pro inhomogenní substituce, ježto v obou transformovaných  integrálech  vyskytuje  se  multiplikativně  stejným způsobím
+V
+a tudíž odpadá při vyšetřování projektivní substituce pro kvocient ""»? =
+Třeba podotknouti, že substituce forem tvoří grupu, nehledíme-li k těmto faktemim, které se nekombinují multiplikativně, applikujcmc-li za sebou dvě substituce kvocientu T. Neboť ani u e lliptických thetafunkcí nemají konstanty transformací vznikající vlastnosti grupy. V těchto fakte>-rech jsou dále obsaženy i konstanty, které hypergeometrické formy přibírají, vykoná-li nezávisle proměnná differenciální rovnice oběhy kolem všech tří singulárních bodu.
+V posledních dvou integrálech zaveďme novou nezávisle proměnnou
+čímž získáme opět dřívější formu integrandu.   Avšak meze integrálu jsou nyní
+« + /3r               y -}- dr
+a píšeme-li místo w opět v, obdržíme substituci:
+ce + (l r
+\ y 'ó!                         \ y d)    'l
+y + ÓT
+®í""2) 3/!|asi*lCí«ft  $f(v>^dv'
+y
+Problém určení grupy jest tímto redukován na řešení otázky, jak možno povstávající zde integrály vyjádřiti opět původními v mezích od
+nully do—, resp.--.
+—             -i
+Především konstatujeme, že' integrační cesta jest přímá, je-li ])ro původní integrály přímou následkem substituce u' —- (a -f p T) r. Jak již uvedené), jsem i transformované integrály vedeny přímočárně od nullového bodu funkce #! (v) až k jistému nullovému bodu funkce •»% (V) resj). funkce •9""0 (?'), aniž by integrační cesta procházela jinými body míliovými.
+XXXII. ﻿Dekomposice transformovaných integrálu v integrály základní yi a
+\'., nepřivodí formálně nijakých obtíží, j(žto se thetafunka při jednoduchých transformacích až na jisté faktory n produkují, z nichž však faktory všem funkcím 0;- (v) společné následkem relace L «; — O odpadnou. Avšak expementy «,-jsou, \ se obe čně řečeno, čísla lomí na, popřípadě i komplexní.
+Nestačí proto \ěděti, že  na ])ř. a tudíž
++ 1) -   -->, (v), neboť —l
+= c
+a ji/st zře jmo, že právě tyto exponenty dlužno znáti exaktně až na multipla úhlu it i. Číselné koeffici< nty grupy obsahují tedy právě tato celistvá čísla ;/ a jest nutno, \yjiti od nejvyšší, vlastně nekonečné irratietnality, totiž od lS&j(v), bychom jednoznačně ovládali irrationality konečné. Je to něco podobného jako známá ona Riemannova věta, že všechny polymorfní funkce r/U, », v, :) jsou jednoznačnými funkcemi nejjednodušší funkce ?/ (O, O, O, z).
+Mys.leme si inhomogenní síť (l, r) v rovině proměnné r, označme zde
+« + /jr bod -----^----, který půlí vzdálenost mezi dvěma body sítě o téže ordinatě
+u — l      (l    \    / K + l
+/ U. ---   l       p       \        /   K   -j-   l         p       \
+í—-)—, ^r ) , \—T)— ,~ň ř já spoj mé tento bod přímkou s počátkem souřadnic. Integrál ])odél téte> přímky retzložíme stupňovitě v integrály, vedené přímočárně mezi body sítě tak, by původní dráha přímá a dráha stupňovitá uzavíraly plochu, která neobsahuje ani jediný míliovy beid kteréketli funkce ^/ (r- T)- Jť""^i tat° podmínka splněna, dá se dráha stupňovitá bez překročení singulárních bodu inU grandu převésti v dráhu přimetu a integrály
+podél obou drah, vedené od střeelu souřadnic k boelu ----—-----jsou si rovny.
+Abychom si usnadnili při hled, supponujeme prozatím, že «, /3 jsou čísla kladná. Ježto vždy vycházíme pro střed semřadnic etd téže hodnoty integrandu a tento betel sám jest nuHovvm bodem funkce ^ (?•), představme
+XXX11 ﻿K)
+si, že počneme s integrací nikoli od středu souřadnic, nýbrž od bodu, jeho/ souřadnice v síti jsou obě kladné, však velice malé. Obrazec znázorňuje situaci pro K = í>, fi = 4.
+Lomená cesta integrační po/ustává z přímek a polokruhovitých oběhu míliových bodu tak, že všechny tyto polokruhy jsou orit. ntovány svojí konvexní stranou k přímé dráze integrační. Abychom dostali si1 na př. od bodu počátečního k následujícímu bodu aequivalentnímu, nutno vykonati dvě přímé dráhy mezi ch ěma míliovými body a dva oběhy, totéž platí pro každý následující bod aequivalentní.
+Naskýtají se nyní otázky dvě: Jc-li dána transformace- quotu ntu í A ) , jak možno určiti lomenou dráhu integrační a jakých hodnot nabývá integrand pro tuto dráhu:'
+Chci zodpověděti nejprve otázku první. Při tom dlužno ro/lišovat případy « -~ř P""; a = /3 není přípustno, neboť « je vždy číslo liché, fi pak sudé.
+l , a > (i. Představme si, že se zabýváme úvahami analytické geometrie v rovině, jíž slouží za základ systém klinogonálních souřadnic ve směru spojnice bodíi (O, 1) resp. (O.r). Délky ve směru osy reálné měříme jednotkou J, délky směrem osy r pak jednotkou |T|. Případ obvyklé geometrie analytické obdržíme ovšem pro r = /. Jest zřejmo, že pro « > p"" počíná lomená cesta integrační reálnou jednotkou; neboť kdybychom od středu
+souřadnic vyšli ve směru r, leží bod í -   •       ), míliovy to bod funkce #;i (?'),
+\   *J        ^t   /
+jistě mezi oběma drahami.
+Ve všeobecném případě proběhne bod nejprve několik reálných jednotek podél os;y reálné a odbočí pak směrem positivního T, dosáhnuv však ordinaty l, odbočí opět směrem osy reálné atd. Snadno lze se přesvědčiti, že vždy po několika horizontálních jednotkách pohybuje se pouze o jednu vertikální jednotku |r|. Jest nám určiti abscissy bodu, ve kterých integrační dráha se lomí směrem T.
+Rovnice přímé integrační dráhy v kosoúhlých souřadnicích zní:
+y-f-,.
+(i
+Pozorujme nyní abscissy bodu, pro něž koordináta r rovná se
+l     3     .1
+Jak z obrazce je zřejmo, odbočí lomená dráha ve směru r vždy v bodu, jehož abscissa (celistvé číslo) liší se od abscissy bodu příi.ié dráhy s pořad-
+nicí -0-,   ' ,   t, , . . .  absolutně o méně než   k> .   Mají tedy body 2     2>     2                                                w
+XXXII. ﻿11
+Obr.  3.
+pořadnice            -~-,
+a abseissv:            -r,
+20
+A     /3~~1
+2 ' * '      2
+(0-
+• > «               o a
+""27'     ~27' •     ~T l
+Označíme-li symbolem X(x] od číslu .v o méně než -- vzdálené celistvé číslo, jsou patrně abseissv bodu (zde na pr. J, 3, o), ve ktervch dráha lomí
+se ve směru r:
+/v
+A
+v
+' A
+iu'boť jinak by opět míliové body funkce •9>.í (r) ležely mezi oběma dráhami. Označme tato čísla zkráceně:
+//0,                      //,,                       h.2,                    hL_Y
+Body sítě, jimiž prochází stupňovitá dráha, jsou tedy:
+(O,  0)                    (l,  O)                         (L>,   O)      .....(//„,  0)
+(/'o.   1)               (^o+ J.   ])            (^,» + -,   1)   ... (hlr   1)
+(/'i,  -)               (X+!>  -)            (Ai + 2,  3)   . .  .(//,,  2)
+- '  / K    fi \ a bod konečný, k síti nepťmalezejici, l -   , -    ).
+2.  « < /i.   Lomená dráha jiočíná určitým počtem jednotek x, načež následuje jediná jednotka reálná, pak opět jistý počet jednotek v, pak
+XXXII.
+l ﻿12
+opět jediná reálná atd.   Dráha odbočuje reálným směrem v bodech o pořadnicích
+,2«/'        V 2
+které označím symboly
+í.'n>                               7',,                             7'2)                           7'o-i.
+Body sítě, na dráze ležící, jsou pak dány souřadnicemi: (O, 0)                (O,   1)                    (O,  2)          ... (O, ,-„)
+(l, í'„)              (l, 00+1)           U, *>o+2)   ..-(l, v,)
+«— l           \        /« — l            ,    ,\         /« — l    ,.      \
+-2- '""-?-V    ( -T"" V    V ' "" H- ""7-V
+a bod konečný   í-^-,   t>   l.  Patrně jest r« — i— •'>.
+Tytéž ú\-ahy dlužno ještě pro\-ésti pro
+!! cestu s konečnm
+bodem     -     - , ve kterém zmizí funkce •9-,, (7', r}.   Také zde jest nám od-
+&
+loučiti případy y~^-ó.   Rozdíl oproti iivaze dřívější jeví se jen způsobem, jakým integrační dráha končí. l . y > <y. Označime-li opět
+U
+v
+' '2
+])ismenami
+jsou souřadnice po sobě následujících bodu sítě, kterými integrační cista
+prochází :
+(O,  O)                     (l,  O)                     (2,  O)            .   .   .(*„  0)
+(ho, 1)                  (*o+L   D           (^0 + 2,  1) . .  .(//,,  1)
+d - - l
+kde
+Tuto dráhu obdržíme též, zrcadlíme-li předešlou dráhu a < /S \- klino-gonálním smyslu na přímce A- .v. Reálné jednotky přejdou v jednotky r a naopak. Je zřejmo, neobsahuje-li plocha mezi dvěma drahami míliových bodů, že tato vlastnost se přenáší i na dotyčný obraz plochy. Jest třeba tedy
+XXXII. ﻿13
+jen zaměniti abscissy   s  ordinatami a naopak,   dále   pak   nahraditi «, čísly d, y.
+2. Je-li konečně y < ď,  obdržíme zrcadlový  obraz případu   «> Celistvá čísla
+,...
+2 y /
+2 y
+značí opět pořadnice bodu, ve kterých dráha vybočuje směrem reální osy. Zavedfme pro ně opět symboly
+t'o,                            <'i,                            v 2,            •  •  •       Vy — --
+Body sítě určující lomenou dráhu integrační, jsou dány koordinátami:
+(O, 0)                    (O,   1)                    (O,  2)           ... (O,  t'„)
+(l, í'o)                (L »o+l)          U. »• + *)  •••(!. *'i)
+-
+2 '       -l
+/ y     d \ a konečný bod   (  ' , -»- l .
+Stupňo\'itá dráha integrační jest   tedy pro všechny možné substituce ( a * ) určena, j sou-li tyto coefficienty vesměs čísla kladná. Libovolnou
+takovou substituci lze komponovat ze substitucí základních (ni)a( 91 ).
+resp. ze substitucí původních ( n l ) a ( ] l  ) '  ^  transformovaném inte-
+grálu vyskytuje se co horní mez čitatel y -f ó T, resp. jmencn-atel a -f /3 T, které jsme tímto způsobem rozložili, jak lomená dráha ukazuje, v součet reálných a komplexních jednotek T.
+Známe tedy nyní pro každou substituci s kladnými koefficienty
+
+stu])ňo\-itou dráhu integrační. Jc-st nám nyní určiti hodnoty integrandu podél dráhy této. Základní integrály rovnice jsou vzaty jen podél polovičních stran rovnoběžníku period, což jest pohodlnější, než kdybychom je vedli od nully k jedné, resp. k bodu r. Počátečním bodem integrace jest střed souřadnic (O, O) či vlastně bod o velice malých kladných souřadnicích. Tato nepatrná změna je nutná, bychom vždy znali určitě polohu argumentu vzhledem k bodům míliovým. Označím-li v následujícím bod\ o celistvých souřadnicích (a, b], tedy body
+v = a -f- b r
+XXX11. ﻿14
+zkrátka co body sítě, jest tomu vždy rozuměti tak, že argument ?' je repre sentovún bodem, jehož souřadnice- jsou o velmi malé a kladné veličiny většími  než a, resp.  b.
+Klademe si nyní otázku: Má-li interními / (>', r) v jistém bodu sítě v určitou hodnotu, jaká jest jeho hodnota pro argument u -f- l, resp. v -f r? Změny logaritlimu jednotlivých thetafunkcí jsou známy;*) násobíme-li každ}^ z logarithmu příslušným exponentem «,. obdržíme se zřetelem na okolnost, že A- citovaných rovnicích dlužno />. q nahraditi celistvými souřadnicemi a, b'.
+li! / (v -f- 1. T) = /g / (r, T) — TC i C2 b + l ) («, + «2) — 2 n i b («3 + «„) a dále:
+lgf(v + r, r) =lgf(vtt aneb:
+\a f
+let
+(- a
+J) («,
+n   a   a,
++ l, T) =/L/(!'. r) — (a, 4- T. T) = /g/ (r, T) + (a„
+/Ví'<*.
+Dráiiy argumentu jsou pro oba případy v obrazci naznačeny; připojená znaménka pak udávají směr polooběhu kolem míliových bodu a zároveň se vyskytují u dotyčných termu pravé strany posléze uvedených rovnic. Při každé z těchto transformací vykoná argument v mimo dva přímočárné úseky dva polooběiiv a logarithmus integrandu změní se patrně všeobecně o
+flf' [ 22 a2 22 tt]] pi~i transformaci ])r\'é, veličinu                       it i'[ — «0 ji K\\ pi""i transformaci druhé,
+neboť pro každou z těchto drah jsou možný čtyři kombináte positivních a negativních polooběhu. Bylo již dřivé podotknuto, že oběhy ty dlužno zaříditi tak, by mezi dráhou přímou a. stupňo\ itou neležely žádné míliové
+3
+body.    Také   zde   uplatňuje   se   důležitost   relace   L' K. = O    podobným
+zpnsobem jako při transformaci argumentu druh' ho.
+Zbývá ještě určiti  hodnotu integrandu pro body
+resp. l
+pohybuje-Ji se argument od bodu (a, b) k bodu prvému P napřed přímo-čárně a pak polokruhem kolem nullového bodu funkce &., (r) ve směru kladném neb záporném a podobně k bodu druhému P''. Dráha se; skládá z dílu přímočarného a z malého polokruhu.
+Čí. diívc uvedené pojednání.
+AXXII. ﻿Hodnoty integrandu v konečném bode prvého tohoto polokruhu jest nám tivba, bychom integrál vedený me/.i body I', X vyjádřili integrálem M, P\ to jest možno, neboť manu k disposici relace, stávající mezi log-iirUhiny thetaíunkcí pn> body roviny ?', jež leží symmetricky na straně .17 A* k bodu P řeší). na straně M, A'' symetricky k bodu I*'.
+Logarithmy thetafunkcí v takoxých dvou bodech liší se o stálou, která /ávisí jen na směru polokruhu kolem nullového bodu funkce #2 («•).
+resj). fti( (í1).     Do-adíme-ii do rovnic   l') až S') pro e hodnoty O aneb    > . •obdržíme přímo pro hodnoty integrandu v symmetrických bodcclr
+— L + b T) r.- lg l (a ~ b z] — ni «., / [«. + (& + !—«) T] = lg f (a + /; r) + % i «„
+aneb všeobecně,  vnecháme-Ji  označení limity:
+lim Ig l (a
+L = 0
+lim
+L = 0
+/« l (a /g / [a
+l
+6 r) = l» t (a
+- l ) r] = /g / (
+b z) — n i a.,
+j- /; r) — JT i «„,
+při čemž ojiét platí znaménko hořejší, vyhne-li se argument dotyčnému bodu nullovému směrem kladným, d;;lní jiak ]>ro směr záporný. Tím stanoveny jsou íogarithmy integrandu pro všechny body integrační dráhy, pro které je vůbec určiti lze a v kterých právě jich jest třeba.
+Je-li tedy dána přímá dráha integrační od středu souřadnic až k bodu
+« + (i T               y + d T
+—^ -- , resp. -- - - , nestačí ještě znáti body, jež postupně na lomené
+dráze integrační se nacházejí. Dlužno ještě vyšetřiti, jakým směrem probíhá pohyblivý bod kolem toho kterého nullového bodu thetaíunkce. Xul-lové body funkce #, (;•) odpadnou úplně, ježto leží ve středech rovnoběžníků a stupňovitá dráha vede jen podél jejich stran. Tuto okolnost, že exponent a. . vůbec se nebude vyskytovati v našich formulích, dlužno odůvodniti opět relací \ «. ^ (». Již dvakrát jsem poukázal k tomu. že plocha ohraničená drahou přímou a l.iinenoit nesmí obsahovati singulárních bodu :ní""grandu. Pouhý geometrický názor učí, že polokruhy, jež opisuje ne-odvisle Droměnná kolem nulloxých bodu, jsou vždy orientovány konvexní svojí stranou k přímé dráze integrační a že tudíž znaménko příslušné poi;>viční periody n i souhlasí vždy se směrem kruhového pohybu argumentu \ okolí příslušného nullového bodu, děje-li se tento pohyb od stivdu s uradnic podél lomené dráhy k horní limitě integrálu. Přináleží tedy vzhledem k dané přímé integrační dráze každému kritickému bodu integrandu (jakož i každému bodu roviny, kterým právě přímka ona neprochází) jisté signum, jež možno definovati mechanicky následovně:
+.Mysleme si, že přímá integrační dráha, vedoucí od >třed;i souřadnic ke konečnému v prvním kvadrantu roviny r ležícímu bodu, nahrazena jest na obou stranách ozubenou tyčí. do níž zasahuje ozubené kolo se středem
+XXXII. ﻿K)
+v daném bodu (/></).   Pošinujeme-li tyč ve směru podélném od středu sou radnic, udává směr rotace ozubeného kola signum bodu (/>, q] vzhledem k dané přímce.  Je-li úhel reálné a imaginárně osy menší než pravý, možno pro prvý kvadrant tvrditi,   že body záporného sigra leží pod přímkou, body kladného signa pak nad ní.   Analyticky jest signum dáno výrazem:
+<ignum   bodu   (/>,  q) = Sg \     - — .4 J — ± l ~ (/>,(/)   pro   všechny
+kvadranty, značí-li A koefficient směru přímky.    Y rovnicích dalších pr-užijeme pro signum tohoto jednoduchého symbolu  (/>, i/).
+Označme nyní faktor, který přibírá integrand, pohybuje-li se argument v od bodu sítě a -{- b T k bodu a -j- J + b T ve směru polokruhu
+krátce písmenem A' (a, b': jest patrně
+A i a 61 = t:7IÍ [í"" J -> • 6) a* + (fl """""" ]' 6) Wi]
+kde výrazy \~ závorkách značí signa dotyčných bodu vzhledem k přímé integrační dráze. Obdobně budiž A [a, b] faktor, přistupující k integrandu, pohybuje-li se argument od bodu a + /; T k bodu a 4- (b -\- J) r směrem
+Bude pak
+Ala, b] =eÍIÍ[(a>6 + Í-)a»+(<l'*+lBj.
+Proběhne-li tedy neod\'isle proměnná část lomené dráhy od středu souřadnic až k bodu sítě a -\- b T a má-li integrand / (r, r) v tomto bodě hodno u 0 [a, b] f (O, r), kde 3>\ci, b] značí číselný faktor, platí patrně pro tento rekurrentní rovnice:
+0> [a+ l, b~ •=-- 0 [a, b] K (a, b] 0 [a, 6+ 1] = 0> [a, 6] yí [a, 6].
+Pro integrály, vedené přímočárně od bodu a-\-br k horní mezi a + 9- + & r, resp. « -j- í ^ + ., ) T obdržíme tedy:
+/ (v, r) dr = 0 [a, Ď] J / (r, r) ch
+a - b T
+•+(n  r)<                      l
+/ (t,, T) AI = 0 [a, 6] j / (v,
+a + b r
+Po každém takovém integrálu následuje integrál, vedeny od millo-vého bodu funkce ^2 (v), resp. í>„ (7') k nullovénm bodu funkce ^ (?'), jenž
+XXXII ﻿jest aequivalentním středu souřadnic. Integrand přibírá v této druhé polovině strany parallelogramu faktory
+c""     ' ~>'<>>«>, resp. a integrály hoví, jak zřejmo, relacím:
+a + l ' b T
+a ~ —  fůr
+f / (v, T) dv = + eír^a ' T*) «• f / (r, r) <&
+e/                                                                                                               tJ
+řZ -f-  b T
+a - — + b
+/ (V, r) dv     - + cni  ""• b -      <*""     / (w, T) dv.
+Z toho odvodíme konečně pro integrály vedené mezi dvěma body sítě:
+a+ l + br
+! i (••••
+a -• — - 6 r
+a +- 6 T
+- X [rt, Ď]    ' / (V, T) dv
+a+ br
+c» '     6 - í «*       J / (V|
+] r /
+a -r- 6 r
+Integrály pravé strany vyjádříme dále pomocí faktoru 0 ra, b] integrály základními a jest tudíž vše připraveno pro dekomposici integrálů transformovaných:
+r/2 ^ co,   \   / (i1, r) dv.
+o
+Body sítě, jimi/ prochází lomená dráha    integrační, udali jsme již dříve.  Je^t nám tedy pouze tvořiti Mimu integrálu
+fl f 6 i
+Rozpravy: Roč. XVII. Tr. II. Č. 32.
+XXXII. ﻿pro body o celistvých souřadnicích a, b, od kterých integrační dráha vybíhá směrem reálným a součet integrálu
+a + (6 + 1) r
+J / (v, r) dv
+a + b T
+pro bod}7 sítě, od nichž vychází dráha směrem T.  Jako dříve jest nám rozlišovati případy
+K ~^- /j,     y ^ ď. K vuli přehledu zavedme ještě zkrácené označení:
+cZ> [a, b~\ . x [a b] = ® x [a, b] 0> \a, b] . A [a, b'\  = 0> A [a, b],
+tak že souřadnice bodů jsou uvedeny pouze jednou.   Konečné rovnice, k jichž odvození netřeba dalších poznámek, jsou:
+I. «>/3
+V—l
+V této poslední sumě jest //_i   ^-0, x
+2      ' 2
+\\XII ﻿II.«< ft
+[o.
+ÍH— l
+v,
+kde
+-l]
+-1-
+Pro druhý integrál pnk vychází: III. y>d.
+íj—8 8
+XXX11. ﻿d — l
+S' **
+IV. y < d.
+Vt—í
+[O, /] + yl 0 x [O, v0]
+4- y2      / 0> A [2, /] + y, 0 x [2, ?'2]
+ř-1*!-1
+A   -V
+Tím určeny jsou lineární substituce integrálu pro substituce (    'ý
+o kladných koeffícientech. Ač formule zdají se dosti složitými, je přec stanovení substituce pro specielní případy snadným, je-li v rovině v naznačena dráha integrační. Chci uvésti zde příklad:
+:
+a jest určiti
+u = >
+= 4
+XXXIi. ﻿•JI
+l
+Uvážíme-li, že všechny míliové body pod přímkou mají signum záporné, ostatní puk kladné, obdržíme:
+ji == n
+t«i)   (1-4- c — n * a°)  v -\- c — n
+-f- c~n { Uí)   y
+i («j + «o)    -L   ^;— ff i (2 Cía + «0) _L g — 71 i (2 «j - 2 «„))   y   -l-
+n i (Uí 4- cfi)    l
+— n i (ctt + cti - «o
+i + 2 a0)l
+Patrně tvoříme tu takřka mechanicky postupné faktory <2>, x,A. Knn-trolu dá nám do jisté míry vyšetření determinantu vycházející substituce, jenž vždy rovná se cL(ai]ni, kde L (a-} jest lineární funkce exponentu s celistvými součiniteli aneb stanovení substitucí integrálu pro substituci inversní
+Komposice obou substitucí musí vésti k identitě. Toť ovšem kontrola nejspolehlivější. Prve než však promluvíme blíže o případech, kdy konečný bod integrálu leží v jiném než prvnímquadrantu, dokažme dříve naprostou totožnost základních substitucí integrálu Kulérová a Wirtingerova.
+Formy v-, a v.-,, jak je od počátku vyšetřujeme, nejsou vlastně integrály hypergeometrické rovnice, nýbrž povstávají z těchto potlačením jistých faktoru, obsahujících ještě unifornťsující proměnnou r. Vyjděme od hypergeometrické rovnice:
+//*•- 11                                                                      fí\ j
+/-.                 v     W        *      ,      t       f          //,       f\*        ,      -t    .         \       11    V                     /      nf                  f\
+• cc p   V = (J.
+d:
+a \'olme základní integrály následovně:
+= ( iď~l  (l—uy-P-i (l — z
+i
+z
+l
+ys>J«r-Mi-«)''-''-
+l
+l — ;u-
+Položíme-li nvní
+•= X1 ír),
+obdržíme:
+XXXII. ﻿y2= #()2 (?'-/?'-«',  ^2(1-7')   #32<«'t0')     f   #():V-^'-l
+a jest tedy dle dřívějšího označení:
+2 /_ 2 0'— 1= «o ,     l — 2 «' = «,,      l 4- 2 «' — 2 /= «2 ,     2 /j'— l = «3
+aneb
+Poslední integrály liší se od Kulérových nanejvýš numerickou konstantou a representují skutečné funkce čili formy nulltého řádu v ellipti ckých periodách.   Násobíme-li je faktorem
+je zřejmo,  že projektivní substituce kvocientu      '  zůstává   nexměněna. Exponenty fa jsou libovolné.
+.i
+Obr. o.
+l
+Vykoná-li bod \u=   - negativní oběh kolem bodu CXD;   deformuje se
+přímá integrační dráha pro y2 způsobem \- obrazci \-yznacenym. Hodnota integrandu mění se, jak z integrálu Kulérová ihned odvodíme, při kladném oběhu neodvisle proměnné kolem bodu
+z resp. o faktory
+00
+l
+O
+Substituce základní jsou tedy:
+Ty*=y\
+Ty., = (J -c2»i(r'~""'}) v, +L**? ya
+a dále, odpovídá-li .S"" kladnému oběhu bodu u =      kolem u= l:
+r)) y., + c**i(ť- /»'-«') V
+
+XXXII. ﻿aneb dle dřívějšího označení exponentů:
+aiat
+Tyto rovnice vznikají však právě z Wirtingerovy formule transformacemi druhého argumentu
+T (T} = (l f) ,   S (r) = (\
+abstrahujeme-li od faktoru, obsahujících Dedekindův symbol.*)
+Přistupme nyní k určení transformace Wirtingerových integrálů pro případ libovolných koefficientu  f     L ). Bylo-li dříve tvrzeno, že uvedené
+formule platí všeobecně pro kladné koefficienty, je tomu tak jen za určité podmínky, kterou později uvedeme. Předně chci v dalším zabývat se jen veličinami y}, 1?.,, t. j. transformovanými integrály bez faktoru transformací 7>-funkcí povstalých, jež jsme již dříve byli stanovili. Dále buclu \yšetřovat jen ony substituce kongruenční grupy modulové, které povstávají kombinací obou operací S, T, resp. jich inversí. Jest známo, že ku každé projektivní substituci kvocientu r náležejí dvě substituce homogenní, z nichž jedna ze druhé povstává obrácením znamének všech čtyř koefficientu. Z těch dvou však vždy jen jedna jest výsledkem operací S a T; druhou lze
+obdržeti adjunkcí ,.nevlastní identity"" ÍQ __i)- Pro kvocient r jest ovšem obrácení znamének úplně bez významu.
+Dále  nutno  podotknouti,  že  k  určení   „počátečního koefficientu"", o němž v dalším pojednáme, je třeba znáti pořad základních operací
+r 7   __   CKi """"T^i   Ca-  T""fk
+í K     P\ \   y     ÍS)
+7. nichž předložená substituce   T se skládá.
+Leží-li bod, represontující horní mez integrálu
+K -f-  li T                     V  + ř)  T
+-^-      resp.----^~
+\ libovolném kvadrantu, vyjděme opět od počátečného bodu v blízkosti středu souřadnic v kvadrantu prvém, neboť počáteční hodnota integrandu, na kterou applikujeme první operaci S±l resp. T±l, je vždy tatáž. Dej nu1 tomu, že konečný bod dráhy integrační leží v kvadrantu druhém.
+*) Důvod toho, že k integrálům přistupuje konstanta, vé/Á patrně v okolnosti, že při přechodu k nové proměnní.'' nepoužili jsme rovnic ve formě log-arithmické.
+XXXII. ﻿•24
+Počíná-li lomená dráha integrálem Vj, dlu/no nejpr\-e obejíti \- polokruhu střed souřadnic, bychom dospěli k aequivalentnímu bodu o souřadnicích (—J + s, f), kde s značí malou veličinu kladnou. Faktor, od] ovídající tomuto počátečnému oběhu, určíme později; závisí totiž na pořadu základních substitucí, z nichž daná substituce kvocientu je sít žena. Ostatně jest co do určení průběhu lomené dráhy integrační i zde šetřiti dřívějšího pravidla, že mezi ní a dráhou přímou nesmí ležeti null-ný bod některé theta-íunkce. Bod, representující integrační proměnnou, pohybuje se i zde od jednoho původnímu aequh alentního bodu k určitému nejbližšímu tak, že dráha mezi nimi skládá se vždy z dvou přímých částí a dvou libovolně malých polokruhů. Počíná-li lomená dráha integrálem v„, pohybuje se integrační proměnná těsně podél osy (<>. T) v kvadrantu prvém, opisujíc negativní polokruhy kolem míliových bodu, načež odbočí reálným směrem
+do kvadrantu druhého. \ e všech bodech sítě tohoto kvadrantu, v kterých dráha se lomí v negativním reálném směru, opisuje ncodvisle proměnná bezprostředně za sebou dva polokruhy, z nichž první má opačný směr druhého (v. obrazec), tak že hodnota in-tcgrandu zůstává zde nezměněna. Táž okolnost naskytuje se v kvadrantu čtvrtém v bodech, v kterých základní integrál v., následuje po integrálu v,.
+Z připojených obrazců lze snadno seznati průběh lomené dráhy pro kažclý kvadrant, tak že jednotlivostmi netřeba dále se zabývati. Ostatně uvedeme po určení počátečních faktoru systematicky změny, jež v obecných
+formulích  pro případ  libovolných koefficientů substituce (     •» )   dlužno
+\Y oj
+zavésti.
+Přikročme nyní k určení počátečních faktoru.  K  tomu cíli zvolme libovolný bod o souřadnicích r,, c.2 v klinogonálnímsystému (l, r] jako drive.
+Je-li  f "" jyj substituce kongrtlenční grupy a podrobíme-li  substituci  tuto
+Obr. ««.
+«    2 a -f-
+základní operaci S, obdržíme:
+(U  ^S=(a C]  ('
+\r á/       \y óJ v°
+čili 5 transformuje ]>u\ odní  bod «-j-/ír vhod a ~|-(2 a-(-/*') r a obdobně
+\\.\ir. ﻿25
+y -f ď T v bod y + (2 j> + <3) tr.   Jc-li tedy   ze' = flfc ^g - -,   bude příslušný
+úhel pro bod transformovaný
+,    2a + /3 w  = a/r /» -     — .
+Nazveme-li nyní souřadnice původního bodu všeobecně clt c2, otočí transformace S rádius vector tohoto bodu v kladném směru o
+are
+tg (wr — w) = are tg 2 ( -  —~----)
+V cl + ra /
+t. j. vždy směrem kladným.   Patrně jest tato rotace vždy menší než -„-,
+neboť   a+/Í4=0.     Podobně   obdržíme   pro tangenty úhlů, o něž vektor transformovaného bodu jeví se v kladném smyslu otočen transformacemi
+2
+Transformace S n T""1 posunou tedy vektor bodu vždy směrem kladným, S~l a r pak záporným. Z toho je již zřejmo, jaký vliv má libovolný pořad těchto operací na původní hodnotu integrandu. Pozorujme na pr. substituci
+Každá z těchto operací otočí původní konečné body základních inte_ grálů (-„-, Oj resp. ÍO,-5-J ve směru záporném, až konečně transformované body opět octnou se v kvadrantu prvém. Integrand vykonal tedy negativní oběh kolem středu souřadnic, prve než nastoupí lomenou dráhu v kvadrantu prvém, a jest tudíž k oběma základním integrálům připojiti faktor c~~'2flic'1. Ostatně není však faktor tento pro oba integrály vždy týž, ježto konečné body transformovaných integrálu ležeti mohou v rozličných kvadrantech; každým způsobem však faktor tento závisí jedině na exponentu «,. Jc-li a, celistvé sudé číslo, zůstává původní hodnota integrandu nezměněna, neboť vyšetřujeme jen exponenciální faktory samotný, nikoli však i jejich logarithmy. Dej au nyní tomu, že konečný bod integrálu octne se po jistém počtu negativních oběhu, k nimž netřeba více bráti zřetele, v kvadrantu druhém. Počíná-li lomená dráha integrálem v.,, dlužno ovšem dříve vykonat okruh až k počátečnému bodu p/vého kvadrantu. Třetí a čtvrtý kvadrant neposkytuje nic zvláštního a polooběhy kolem středu souřadnic jsou tu dány bezprostředně pořadem substitucí základních.
+Skládá-li se substituce kvocientu x jen z operací 5 nT~1, jsou oběhy kolem v = O positivní a jen pro čtvrtý kvadrant jest opět podotknouti, že
+xxx u. ﻿neodvisle proměnná dokoná dříve úplný oběh až k východišti v kvadrantu prvém, počíná-li lomená dráha integrálem yv.
+Je-li konečně substituce ( J* j složena libovolně ze substitucí základních, tak že konečný bod dráhy oscilluje oběma směry dle jich pořadu, zůstává, jak zřejmo, pro počáteční faktor rozhodujícím jen rozdíl oběhu kladných a záporných. Určíme tedy nejprve algebraický součet oběhu a-lých, načež směr ev. polooběhu je dle dřívějšího jednoznačně určen.
+Z obrazce lze lehce odvoditi pravidla, dle nichž možno po stanovení počátečních faktorů z dříve uvedených, jen pro kladné koefficienty platných formulí určiti substituce v případě obecném. Předpokládejme, že
+C,    -\~   Ca   T
+známe  substituci  pro kvadrant  prvý,  tedy pro konečný bod  -' —~----,
+ů
+kde C] > O, c2 > 0.  Změny, jež dlužno zavésti, jsou následující:
+Kvadrant druhý (cj < o, c2 > 0): Obraťme nejprve signa všech bodu lomené dráhy. Počíná-li tato integrálem ylt připojme k tomuto záporné znaménko, neboť vodorovný směr integrační je opačný, dále násobme r2 faktorem e~nittl. Vychází-li však stupňovitá dráha od středu souřadnic směrem t, jest \\ opatřiti koefficientem —e+nittí, kdežto v2zůstává nezměněno.
+Kvadrant třetí (cí < O, c.2 < 0): Oproti kvadrantu prvnímu změní se jen znaménko obou integrálů.
+Kvadrant čtvrtý (ct !> O, r2<CO): Signa všech bodů dráhy jsou opačná k oněm pro kvadrant prvý. Počíná-li dráha integrálem y1; zůstane tento nezměněn a yz obdrží faktor —c~ntfti. V druhém případě mění v._> pouze znaménko, kdežto k yl přistoupí faktor c+7Tt(tí.
+Po té je vždy k oběma integrálům připojiti ještě počáteční faktory a tím určena je projektivní substituce integrálů hypergeometrických; homogenní substituce pak jest doplniti faktorem, pocházejícím z transformace elliptických thetafunkcí.
+XXXII."

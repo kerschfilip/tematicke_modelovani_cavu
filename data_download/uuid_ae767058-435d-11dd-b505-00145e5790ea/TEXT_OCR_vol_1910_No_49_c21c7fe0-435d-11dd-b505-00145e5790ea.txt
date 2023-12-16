@@ -1,0 +1,223 @@
+"","x"
+"1"," ﻿ROČNÍK XIX.
+TŘÍDA II.
+ČÍSLO 49.
+Příspěvek k theorii forem.
+Napsal Dr. Karel Rychlík,
+assistent české university. (Předloženo   dne   25.  listopadu  1910.)
+V následující práci jest podáno odvození některých vět týkajících se Sv: ahrnů jednočlenů a užití vět těch na lineární systémy forem. Úvahy o souhrnech jednočlenů provádí Delassus při systémech differenciálních rovnic parciálních (Annales de 1'Ecole Normále supérieure [3], 13, 1896) a poukazuje na užití jich v theorii rovnic algebraických (tamtéž [3], 14, 1897). V následujícím podáno bud zjednodušení neb doplnění příslušných důkazů. Dále podán důkaz věty Hilbertovy z theorie forem (Math. Ann. 36). Důkaz tento má oproti jiným tu výhodu, že připouští převedení systému nekonečně mnoha rovnic na jistý kanonický systém rovnic a při kořenech určitým způsobem definovati multiplicitu. Zároveň se ukazuje, že věta Hilbertova jest obdobou věty Tresse-ovy (Acta Mathematica 18, 1894) z theorie systémů differenciálních rovnic parciálních.
+Souhrny jednočlenů.
+Budeme uvažovati souhrny různých jednočlenů v m proměnných x^1 .v2gí . . . x$n , kdež gv g2, . . . gm jsou libovolným způsobem daná celá čísla kladná.
+Skládají-li se souhrny E a Eí z týchž jednočlenů, pišme E — Et.
+Obsahu jc-li souhrn E± všechny jednočleny ze souhrnu E a mimo to je§tě některé, budeme psáti E1 > E neb E < Er
+Souhrn obsahující jednočleny obsažené bud v E neb v E^ značme
+Rozpr?vy roč. XIX. tř. II. čís. 49.
+l
+IL. ﻿Násobíme-li všechny jednočleny souhrnu E jcdnočlenem x^x**. . .xmkm, dostaneme nový souhrn, který označíme x*lxf* . . .x^m E.
+Jednočleny x^xf* . . .xmKm téhož stupně g, -f g2 + . . . -f gm — n uspořádejme na základě následujícího principu:
+O jednočlenů x^xf*. . .x""m  pravíme, že má větší výšku než jednočlen *!*' x2* . . .xmk>», je-li gl > fy,   neb,  v případě,  že g1 = fy, jc-li g2 > h,-----
+obecně, v případě, že g, = hv g, = Aa, . . . gť_T = h^, je-li gi > fy.
+V daném souhrnu E můžeme si mysliti uspořádání tak provedeno, že nejprve tvoříme skupiny L(1> obsahující tutéž mocninu xlt v každé skupině E(l) dáme do téže skupiny E(2) jednočleny, obsahující téhož mocnitele u x,, atd.
+Uvážujeme-li všechny jednočleny v m proměnných daného stupně n a dáme-li jednočlen o největší výšce x^11 na prvé místo, nabývají tím již významu výrazy: p-tý jednočlen, p počátečních jednočlenů.
+Souhrn skládající se z p počátečních jednočlenů stupně n budeme nazývati souhrnem kanonickým.
+Souhrn, neobsahující žádný jednočlen nazývá se. souhrn nullový, souhrn, obsahující všechny jednočleny daného stupně n, nazývá se souhrnem úplným. Souhrn jednočlenů, které doplňují daný souhrn na souhrn úplný, nazývá se souhrnem k danému komplementárním.
+Souhrn kanonický E jest úplně definován stupněm n a počtem jednočlenů v něm obsažených p. Veliký význam, má poslední jeho člen, tedy člen o nejmenší výšce x* x^ . . . #IM_/""t-1#Wín ~ei ~f2""''' ~ e'n ~1 • Mocnitelé jel.o, elt e.,, . .. elll_l nazývají se indexy souhrnu kanonického.
+Pro souhrn úplný jest e1 = e2 = . . . = em_l = 0. O souhrnech kanonických E a E1 platí E < Ev je-li počet jednočlenů souhrnu E menší než počet jednočlenů souhrnu E^.
+Jsou-li ev, e.2,  . . . em_l indexy souhrnu E a
+(i)   . (i)
+souhrnu Eít  jest E < El tehdy a jen tehdy, je-li e1 > e
+(i)
+ze e^ =
+(i)
+je-li e2
+(i)
+neb v případě,   že e1 =
+> es(    a obecně,   v   případě,  že   eí = ev
+e.> =
+. . em_y  indexy
+neb v případě,
+e.2 = e2(l}, je-li
+•  ^.-_i = e.
+'i-\
+(1)
+je-li e, > e^.
+Souhrn kanonický v m proměnných xv x2, ... xm stupně n o indexech elt e2, ... em_l můžeme psáti, rozložíme-li jej dle skupin E(1), ve tvaru E = xf + x^1 C^(m~l) + x^ Qm~l} + . . . + xf+1 C^^ + x? E(ml}, při čemž Ci(m~1) jest souh.rn úplný stupně i v m — l proměnných- x.,, xs, . . . xm a E(m ]) jest souhrn kanonick}^ v m — l proměnných^, x3, . . . xm stupně n — e: o indexech e2, e3, ... em_1.
+Budiž dán souhrn E stupně n. Utvořme souhrn stupně n -f l
+E' = % E -f- x2 E -f- . . . + x,n E.
+IL. ﻿Souhrn ten nazývá se souhrnem odvozeným ze souhrnu daného E.
+l platí věta:
+Souhrn E' odvozený ze souhrnu kanonického L jest opět souhrnem kanonickým a má tytéž indexy eL, e2, ... em_l. Souhrn odvozený ze souhrnu úplného jest opět s o u h r n e m úplným.
+Větu tuto dokážeme úplnou indukcí.
+Pro jednu proměnnou jest jediný možný (nenullový) souhrn stupně n a ten skládá se z jediného členu #/* a jest zároveň souhrnem úplným. Souhrn odvozený jest x""+l, což jest opět souhrn úplný.
+Pro dvě proměnné jest
+C-\         j~
+
+E % = x
+E x„ =
+f X2 + X^
+a tedy
+—  -^1          i""  *^1     -^2  ""l        l
+*""
+n +1—e\
+což jest opět souhrn kanonický o indexu e±, tak že věta vyslovená pro dvě proměnné skutečně platí.
+Předpokládejme tedy,  že věta ta platí pro m — l proměnnýcli a dokažme platnost její pro m proměnných.
+Souhrn E lze psáti
+I bude
+#! E = ^""+1 x2 E = x? xz
+'xml IL.
+4- x x  C (m—1)  4-1* ﻿Z předpokladu, že věta vyslovená platí pro m — l proměnných, plyne
+x. + xa + ... + xm = Q>»  ""
+x, Q'""  » + xa Q""'  »> H-  . . . + xmQm  "" = Q'« ""
+.v., C2<""'~"" + -v3 C2<""» -»> -f  .. . + xm C2<»' -') = Cy»  ""
+r (m- 1)      ,         r(,m     1)       ,             ,
+A., U«_«,_!  -+- A3 L,,,    í,    i  -)- . . .  -j-
+klademe-li
+bude L'('""""~1)/ souhrn kanonický v proměnných A-.,, A""3, . . . xm odvozený z F"""" o indexech ť.,, ^3, . . . em. Tudíž jest
+A-2 E + .v3 + /:...+ xm E —
+z čehož vidíme, že lze psáti
+C""
+Jest tedy skutečně E' souhrnem kanonickým o indexech cv, e.2> . . . cm__\.
+Uvažujme   nekonečnou   posloupnost   kanonických   souhrnů,   jichž stupně stále vzrůstají
+F     F                F
+l*fj    l^V + \,   •   •   •   ťt,   •   •   •
+a předpokládejme, že jest stále
+F '
+C* II
+-jU + 1 •
+I jest počet č l e n u v posloupnosti, pro niž jest E'^ < Ep+l nutně konečný, t. j. existuje konečné číslo n, od kterého počínajíc jest stále L"",/ = Ell+l. K vůli úplnosti uvádím zde důkaz Delassus-ův. Budtež ev c», . . . em_l indexy souhrnu E^. Přechodem k sou-li.rnu odvozenému se čísla ta nemění, tak že, je-li při přechodu od ft k }i -f- l Ep — Eft+1, bude souhrn E^+l míti tytéž indexy jako E^.
+Je-li E'ft< Efl+l, obsahuje E^+l více jednočlenů než E'^. Řekneme, že při přechodu od p k ^ + l přibylo jednočlenů. Přibude-li jeden jednočlen, a není-li již em_l = O, zmenší se em_í o l aniž by se ostatní indexy změnily; z toho plyne, že po konečném počtu kroků bude em_l — 0. Od tohoto
+IL. ﻿okamžiku, přibude-li nový jednočlen, a ncní-li již em__z = O, zmenší se *'„;-á ° ' a cm-i nabude jisté hodnoty > 0. Přibývá-li dále jednočlenu, bude se e„, t zmenšovati až k O, pak není-li již em__l — O, zmenší se em_z o l atd., až bude cm ^ — O, em } = 0. Nyní, přibude-li nový jednočlen, a není-li již c,n___:i = O, zmenší se cm___.A o l a em_.,, e,„_ l nabudou hodnot > O a podobné dále. Z toho vidíme, že přibývá-li stále jednočlenu, musíme konečně přijíti k souhrnu, v němž c1 = O, c2 = O, . . . cm_l = O, t. j. k souhrnu úplnému. Od tohoto okamžiku budou všechny souhrn}' následující úplné, tak že nebude moci jednočlenu přibývati.
+Jest tedy počet kroku, při nichž jednočlenu přibývá, konečný, tak že jen pro konečný počet členů posloupnosti jest E' n < E t a od jistého členu En počínajíc skutečně stále E,,' — E,l + l.
+Lineární systém forem.
+Lineárním systémem nazvvá se soustava forem
+kdež Alt A.,, . . . ^ jsou libovolné parametry a flt /2. . . fp dané formy téhož stupně n. Stačí se omeziti na případ, kdy dané formy jsou lineárně neodvislé. Pak nazývá se p rozměrem lineárního systému S. Lineární systém dán jest libovolnými svými p lineárně neodvislými formami. Takových, p lineárně neodvislých forem tvoří basi lineárního systému. Jedná se o to, zvoliti tuto basi účelně.
+Uspořádejme ve formě / (xlf x.-,, . . . xm) stupně n členy podle výšky, tak že člen o největší výšce jest na prvém místě. Členu tomu budeme říkati člen počáteční a o formě / (xlt x.2< . . . xm) budeme říkati, že členem tím počíná. Jestliže počáteční členy base lineárního systému tvoří souhrn kanonický /:„. na/ývá se base kanonickou. Jest patrno, že kanonická base existuje, jestliže determinant z koefficientů n počátečních p členů není roven mílie a že lze pak dosíci toho, že ve formách tvořících basi kanonickou mimo první člen, patřící souhrnu En, vyskytují se již jen jednočleny ze souhrnu k En komplementárního.
+Dokážeme však větu:
+Při lineárním systému forem jest vždy možno dosíci lineární transformací proměnných xL,x.2, ... xm toho, že existuje kanonická base.
+Důkaz provedeme úplnou indukcí.
+Pro lineární systémy rozměru l, skládající se z forem Aj fl (xlt x2, . . . xm), věta vyslovená skutečné platí. Jest totiž vždy možno zavésti do dané
+IL. ﻿formy /x (xv x2, ... xm) stupně n lineární transformací nové proměnné tak, že se ve formě transformované vyskytuje skutečně člen x^.
+Předpokládejme tedy, že věta platí pro lineární systémy forem rozměru p — l a dokažme, že pak platí pro lineární systémy forem rozměru p.
+V daném systému forem Sp rozměru p tvoří p — l lineárně neod-vislých forem basi lineárního systému Sp__v rozměru p—1. System Sp obdržíme pak ze systému Sp_1 připojíme-li k basi systému Sp__l libovolnou formu z Sp, která není v Sp_l obsažena. Předpokládejme tedy, že formy fv fz> • • • fp—i tvoří kanonickou basi systému Sp_l a že jest F forma z Sp, která není v 5/,_1 obsažena. Pak tvoří formy /1( /2, . . . fp__-i, F basi systému Sp. V basi této nahradíme F formou fp, která neobsahuje p — l počátečních jednočlenů. Vhodnou volbou konstant fa, vx lze totiž dosíci toho, že ve formě fa -F + vi/i =-^i nevyskytuje se jednočlen první x^'. Podobně lze vhodnou volbou konstant fc2, v2 dosíci toho, že se ve formě fa F^ -f v2 /2 = = F2 nevyskytuje člen druhý a tak podobně dále, až přijdeme k formě fp. O formě fp můžeme předpokládati, že neobsahuje jednočlen p-tý, sic by byla věta dokázána. Označme jednočleny stupně n v m proměnných xrí x2, . . . xm uspořádané dle klesající výšky
+Pak lze psáti
+X
+/2 =
+a22 X2
+a.2í>
+fp— l —                                           &p—l, f>— l **-p- l
+//> =
+kdež r > p.
+Zaveďme nové proměnné substitucí
+>—l, p       p
+Xp  ~\-  . .
+—  fc (w) r '   i    i (m) r '   i             i
+m — Si     *j    r §2     *g    r • • <   i
+(m)
+Označíme-li jednočleny  stupně n v m proměnných x\, \\, uspořádané dle klesající výšky,
+X'     V '         V'        V '     V
+j ,   ^\2 > • • •   **  p — \>   **P  >   ^ /) + !•••.
+I L. ﻿budou jednočleny X lineární homogenní funkce jednočlcnů X' a koeffi-cient u X' = Vg< *2'ř° • • • V"" bude stupně gt v L(1), stupně gt v L(2), . . . stupně gm v Ž(m).
+Z forem /1; /2, . . . //, obdržíme
+// - < -V + V AV + • • • + V -V + - - -// = V A'/ + *,/ AY + . . . + a,p' Ay + . . .
+/   __    _/       V   '   _L   /r     ' V  '
+>  — a />i *M  ~r ff/sa AO
+/AV
+Uvažujme determinant D z koefficientů n prvních /> členů AV- X2', . . . Xp. Bude to polynom stupně np v proměnných L, koefficientech to substituce. Dokážeme, že nerovná se vzhledem k těmto proměnným mílie identicky. Za tím účelem vyberme z D členy následující: Zvolme nejprve členy, které jsou nejvyššího stupně vzhledem k proměnným |(1), mezi těmi členy nejvyššího stupně vzhledem ke |(2), mezi těmi opět členy nejvyššího stupně vzhledem ke |(:i) atd. Polynom tvořený členy, které takto obdržíme, označme 7)n. Pak bude determinant D jistě od nully různý, bude-li polynom D0 od nully nižný. Abychom utvořili D0, musíme vzíti v každém prvku a'ik z D členy nejvyššího stupně v |(1), z těch členy nejvyššího stupně v |(""' atd. Uvážíme-li, jak jest vyjádřeno X pomocí X', shledáme, že členy polynomu Z)0 jsou obsaženy mezi členy, které obdržíme, béřeme-li v každém prvku determinantu D
+v prvém    řádku členy vzniklé z   an X1 v druhém      ,,         ,,           ,,      ,,  «,., X0
+v p—lem řádku členy vzniklé z a^, í)_l A*„_, v ptém          ,,         ,,           ,,      ,,  (ipX,.
+Poněvadž však všechny členy v témže řádku popsaným způsobem vzniklé jsou téhož stupně v |(1), téhož stupně v |(2>, . . . téhož stupně v |(';í), budou členy ty všechny v D0 obsaženy. Bude tedy
+D0 = au #22   • • • a't>    '»   P—1   apr d,
+kdež J jest determinant, závislý pouze na |. Ukažme, že determinant 4 není roven mílie identicky. Stačí ukázati, že nerovná se nullc pro speciální substituci
+IL. ﻿=               -V
+*,» - l/""0 -v/ + &'»> *2' -f- . . . -f L,„<'""> *'„ . Při této substituci bude
+vd) v A l   A,
+tf? x.: + ... +
+při čemž žádný z koeí fič iontů !Sk není roven nulle identicky Pak bude
+a tedy skutečně <4 nerovno identicky nulle.
+Poněvadž determinant I) není roven nulle identicky vzhledem k proměnným |, jest možno dosaditi za | takové speciální hodnoty, že pro ně nenabývá hodnoty míliové, z čehož pak ihned plyne věta vyslovená.
+Snadno lze nahlédnouti, že o substituci, jíž podrobujeme proměnné, můžeme předpokládati, že má determinant rovný 1.
+: Dále platí věta, jejíž platnost plyne přímo z věty dokázané: Zave-deme-li do lineárního systému forem nové proměnné lineární substitucí, jejíž koefficienty pokládáme za proměnné parametry, bude míti systém takto transformovaný kanonickou basi.
+V následujícím budeme předpokládati, že proměnné byly podrobeny lineární transformaci s proměnnými koefficienty, tak že uvažované lineární systémy mají kanonickou basi.
+Lineární sstém kanonick.
+Je-li dána forma / (xlt x2, ... xm) stupně n, nazveme formy stupně n-\-\
+xi f (xv x-i< • • • xm), x-i / (*i> #2.  • • • x«t )'  • • • -v'« / (xi> xz> • • • Xm )
+formami z ní odvozenými (Delassus: déduites).
+| \ Formy odvozené ze všech forem lineárného systému S„ tvoří opět systém lineární 5„+1, který nazveme systémem z daného systému Sn odvozeným. Basi tohoto systému obdržíme, utvoříme-li odvozené formy base jeho a vezmeme z nich formy lineárně neodvislé. Z forem base kanonické obdržíme odvozené formy, počínající členy souhrnu odvozeného En'. Avšak formy tyto netvoří vždy kanonickou basi. Týž člen ze souhrnu En' může totiž vzniknouti odvozováním z několika členů E)( a, nejsou-li formy
+II,. ﻿takto vzniklé identické, podržíme z forem těch pouze jednu a pomocí té dosáhneme, že ostatní začínají členy nižšími. Z toho jest patrno, že počáteční členy kanonické base systému odvozeného 5„+1 tvoří souhrn kanonický EH+1, pro který En+1 > L„'.
+Budeme  se   nyní zabývati  případem,   kdy  En+í = En'.   Tu  mají formy fv /2,   ... fp, tvořící basi, vlastnosti:
+1.  počáteční členy jich tvoří souhrn kanonický,
+2.  utvoříme-li z nich formy odvozené a z nich vybereme formy glt gz,  . . . gq tak, aby se vyskytovala každá z forem počínajících týmž jedno-členem jen jednou, bude možno psáti kteroukoliv z forem odvozených ve tvaru   xj_ gi + *2 g2 +  • • • + xq gq>   kdež  xt,  *2,    ...  xq  jsou   konstanty. System, který má takovouto basi, nazveme lineárním  systémem kanonickým, n jeho stupněm, ev ez, . . . em_l indexy.   I platí věta:
+Lineární  systém   forem  odvozený  z  lineárního systému   kanonické li o   jest   opět   kanonický.
+Označme daný systém kanonický S„,  systém z něho odvozený 5;t+1 ;•'. systém z tohoto odvozený 5,l+2.
+Budiž
+h\ Y ''* l     •*>
+= « -f 2,
+jednočlen z LM"" a předpokládejme, že vznikne několika různými způsoby odvozováním z jedno členů z L/.
+Dostaneme tedy několik forem v Sn+.2 počínajících tímto jednočlenem a stačí uvažovati jednu z nich a pomocí té vyloučiti počáteční člen z ostatních, tak že musíme pak dostati formy obsahující vesměs jen členy nižší.
+Z věty na str. -'3. plyne, že v souhrnu En' se jistě vyskytuje jednočlen
+x = V1 -V* • • • xik'~l>
+z něhož dostaneme X, násobíme-li xt. Předpokládejme, že jest také
+X - xh X,
+při  čemž  X = x**xL* . . . xfr~l . . . xf1   náleží L,/. Avšak v X jest mocnitel hc > 0. Vyskytuje se tedy jistě v En jednočlen
+V #2**   ' ' ' **** ~ l ' ' • Xl 'l{ ~ ' •
+IL. ﻿10
+Formu z S„ počínající tímto jednočlenem označme 0. V systému 5M+1
+bude forma F počínající jednočlenem X a poněvadž Sn jest systém kanonický, bude
+F = a Xk 0 + (p,
+kdež <p jest forma počínající členem nižším než X a patřící ku S,!+1. Podobně bude forma F počínající jednočlenem X
+F = a x i 0 -\- rp,
+kdež (p   jest forma počínající členem nižším než X a patřící ku Sn+l.
+I dostáváme dvě formy v S,l+.>, počínající týmž členem X^  totiž
+Xi   F •=  a Xk Xi   0  + Xe fp
+xk F — a xk xi 0 + Xk y>'
+kdež formy x, <p a xlt <p počínají členy nižšími než A"". Pomocí jedné z těchto forem můžeme z druhé vyloučiti člen A' a obdržíme formu obsahující vesměs členy nižší než X a patřící ku Sn^1, čímž věta dokázána.
+Z toho plyne zároveň, že budou kanonickými i všechny následující systémy odvozené.
+O systému kanonickém platí dále věta:
+Je-li v systému kanonickém 5., o indexech ev, c2, ... c,,,.^ první index eL > O, jsou všechny formy dělitelný formou /\ stupně elt obsahující jistě člen xLCl. Dělíme-li všechny formy systému Sn formou P1 a vynecháme formy obsahující %, obdržíme kanonický systém v proměnných x.2, xz, . . . x,n o indexech e.2, e3, ... L„,__!• Je-li e.2 > O, jsou všechny formy tohoto systému dělitelný formou P2 stupně ez obsahující nutně člen xze*. Dělíme-li formou P.2 a vynecháme formy obsahující x.2, obdržíme kanonický systém v proměnných xs, x i, ... xm o indexech. cz, e4, . . . cm_1, jehož všechny formy jsou za předpokladu e3> O dělitelný formou Pa stupně e3, obsahující jistě člen x%\ Postupujíce podobně dále, shledáme, že poslední forma kanonického
+systému  5„ bude tvaru PjP2P3 . . . PWI_, #,„""       *2   '""—^«-i-V případě ei = O klaďme příslušné Př = 1.
+K důkazu užijeme vlastností resultantu R polynomů F, G v proměnné x stupně resp. m, n:
+l. Podmínka nutná a postačující, aby polynomy F a. G měly za největší společnou míru polynom obsahující skutečně x jest, aby rcsultant zmizel.
+IL. ﻿II
+2. Resultant lze znázorniti ve tvaru
+kdež G1 a Fx jsou polynomy v x stupně nejvýše n — l a m — 1. Jich koef-ficicnty jsou racionální celé funkce koefficientů polynomů F a G.
+Z forem fv /,,... fp daného systému kanonického utvořme formy
+F =
+A2 /2
+P2 /2
+kdež Aj, A2, . . . A^,, ;*!, ři2, • • • f1/, Jsou nové proměnné. Formy tyto budou míti za společného dělitele společného dělitele forem fv /2, ... fp. Je-li tento společný dělitel stupně glt musí jistě obsahovati člen % , poněvadž /x obsahuje člen x^1. Ježto pak ^ se vyskytuje v fp ve stupni nejvýše ev bude gi < ^.
+Uvažujme resultant forem F, G jakožto polynomů v xr Bude to polynom v proměnných x2, x5, . . . xm, jehož koefficienty budou dle věty 2. formy v proměnných x.2, x2, . . . xm z lineárního systému vzniklého několikráte opakovaným odvozováním. Je-li však e1 > O, neexistují takové formy odvozené a z toho plyne, že onen resultant jest roven identicky nulle, tak že F a G, tedy i fít /2, ... fp mají za největší společnou míru formu Pr stupně ^ > 1. Dokážeme, že, dělíme-li všechny formy systému 5„ formou Pj obdržíme opět systém kanonický Sn_K. stupně n — gx o indexech el — gv €o, e3, . . . em_,. Dělíme-li všechny jednočleny souhrnu kanonického En, jímž počínají formy ze systému S,,, x^1, obdržíme opět souhrn kanonický L„_„,, stupně n — ^ o indexech q — g1( c.2, . . . e„._^.
+Rozložme En a En_^ jako na str. 2 dole:
+E  =
+1,,^-^ -r-
+Forma/! počíná jící */' dá, dělíme-li jiPj, formu počínající členem x^'~~gl. Formy ze souhrnu x^'~' C)'""""1' lze psáti ve tvaru
+a .V-1' A' + 2; b Y,
+kdež X jest jednočlen ze soulirnu C/""1""0 a  V značí jednočleny stupně w následující po A^""""' A'. Dělíme-li Pj obdržíme formu tvaru
+a xf ' Kl ' A' + 2: c 7, IL. ﻿12
+kdež Z značí jednočleny stupně n — :gl následující po x^81""* X. Dostaneme tedy takto formy počínající jednočleny se souhrnu x^"" •""' l Cf"" l} a žádné dvě z nich nebudou počínati týmž jednočlenem. Formy ze souhrnu .v/1 A""""""""1' lze psáti ve tvaru
+a xf X + 2; a V1 X + 2; b Y,
+kdež X jest jednočlen ze souhrnu E('""~~1} a Y značí jednočleny následující po x i1 X.
+Dělíme-liPj,  obdržíme formu tvaru jednočlen stupně n- — gí následující po .v/1
+počínati jednočleny %Cl~Sl X ze souhrnu .v počínati týmž jednočlenem.
+I vidíme,   že  formy  v   systému   S„_ Formy odvozené z forem systému  SH  „t formy odvozené z forem systému S„, to jest právě provedené pak plyne, že formy ty souhrnu kanonického stupně n — gí + l
+a x^1""""1 X -{- 27 b Z, kdež Z jest 1 X. Formy takto vzniklé budou 1""""'1 E('""~}} a žádné dvě nebudou
+?1 počínají jednočlen v z En_„i. obdržíme, dělíme-li formou Px formy ze systému 5„+1. Z úvahy budou počínati jednočleny ze o indexech
+což jest souhrn   odvozený  z   En_^.   Jest tudíž   souhrn S,,,,,,   kanonický.
+Dle předpokladu nemají formy ze systému S,,— „, společné míry-Z toho plyne, že prvý index tohoto systému jest = O, a tedy gl = c^
+Vynecháme-li v systému Sn__ei formy obsahující xlt obdržíme systém kanonický v proměnn\>ch x2, x3 . . . x„, o indexech c.,, ez, . . . cm_v, s nímž můžeme opakovati úvahu předešlou a tak vyřčenou větu dokázati.
+Veta Hilbertova.
+Je-li možno vyjádřiti formu F pomocí forem daných fít f.2,   ...//, ve tvaru
+kdež g  jsou formy zvolené tak, že napsaný výraz jest homogenní, píšeme
+F~0 (mód A, /2, . . . fp) .
+Formy fv f2, ... fp nazývají se systém divisoru. Je-li dán libovolný systém forem jakkoliv definovaných (v konečném neb nekonečném počtu), tli souhrn forem F, které vyhovují kongruencím
+IL. ﻿13
+kdež A, /2, • • • //> značí libovolné formy (jichž počet však jest konečný) z daného systému S, tvoří kongruenční obor příslušný systému 5. Jest patrno, že náleží-li daná forma oboru kongruenčnímu, náležejí mu i všechny formy z ní odvozené a náleží-li oboru kongruenčnímu base lineárního systému forem, náleží mu všechny formy lineárního systému. Formy určitého stupně z oboru kongruenčníl o tvoří jistý lineární systém.
+Tu platí veta:
+Kongruenční obor K příslušný k libovolnému systému forem 5, m ů ž e mé pokládati za kongruenční obor příslušný k systému, skládajícímu se z konečného počtu f or em.
+Přímým důsledkem věty této jest věta Hilbertova:
+Z libovolného systému forem 5 můžeme vybrati konečný počet forem fl, f.2, ...//, té vlastnosti, že lze všechny formy ze systému 5 vyjádřiti ve tvaru
+A Si + f-i g* + --+fp 8i»
+kdež #!, g.2, ... fy jsou jisté formy (zvolené tak, aby napsaný výraz byl 1'omogenní a které nenáležejí nutné systému S).
+Zaveďme do daných forem nové proměnné lineární substitucí s neurčitými koefficienty. Tím dosáhneme toho, že bude možno každý lineární systém uvésti na tvar kanonický. Platí-li pak věta vyslovená pro systém takto transformovaný, bude platiti i pro systém původní.
+Uvažujme formy stupně r z kongruenčního oboru K. Ty tvoří lineární systém forem Kv. Utvořme jeho kanonickou basi. Počáteční členy jejích forem tvoří souhrn kanonický Ev. Utvořme lineární systém K*+l odvozený z A„. Počáteční členy jeho kanonické base budou tvořiti kanonický souhrn E*+l a pro ten bude jistě platiti Eý < E*+l.
+Uvažujme nyní lineární systém Kr+1 forem stupně v -f l z K. Ten bude obsahovati všechny formy z A*+1 a tedy bude pro kanonický souhrn Lr+1, tvořený počátečními členy jeho kanonické base tím spíše platiti EJ < L""„+,. Vztah tento platí pro libovolné v. Musí tedy dle věty uvedené na str. 3., od jistého stupně n počínajíc býti stále En' = En+1. Tvoří tudíž lineární formy stupně n z A' lineární systém kanonický A;i a formy stupně n -{- l tvoří systém, který obdržíme z A„ odvozováním. Jest pak dle věty na str. 9. i tento systém Kn+l i další Kn+í> .. . kanonický. Formy stupně v > n z K dostáváme tedy z forem kanonického systému Kv, tvoříme-li formy z nich odvozené a jich lineární kombinace. Tím věta dokázána a zároveň přiřazen systému 5 systém kanonický A„.
+I L. ﻿*"

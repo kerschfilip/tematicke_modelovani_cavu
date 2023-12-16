@@ -1,0 +1,209 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 41.
+
+
+Postupná konstrukce Ribacourovýéh křivek.
+
+
+Podává
+
+
+Dr. Mik. Smok,
+
+
+professor české reálky Kr. Vinohradech.
+
+
+(Se obr. textu.) Předloženo dne 16. listopadu 1906.
+
+
+Bodové souřadnice každé Ribacourovy křivky indexu (reálné číslo poměr poloměru křivosti příslušné Cartesiovy normály) dají psáti tvaru
+
+
+sin~';
+
+
+sin <p.
+
+
+Při tom parametr úhlem kladného směru normály příslušné tomu bodu kladným směrem osy A"". Pro křivky ose konvexní (index kladný) považujeme kladný směr normály směr její středu zakřivení, pro křivky konkávní (index záporný) obráceně.
+
+
+Uvažujme nejprve křivky indexem záporným
+
+
+Jich souřadnice tedy jsou:
+
+
+R-,n
+
+
+sin'""
+
+
+•=. mc\ sin'"" qp.
+
+
+Poněvadž applikovati integrace per partes, platí též sin""'
+
+
+in'""""1 cos (v2 sin'""~2qpř/qí>.
+
+
+
+
+
+•_,„ sin
+
+
+
+
+
+Souřadnice tyto dají však snadno vyjádřiti pomocí souřadnic křivky /v>_(,„_2) příslušných bodu, jehož normála rovnoběžná normálou bodu křivky Jest totiž:
+
+
+y_m j.'_(fw_2)sin2qp
+
+
+A'_.,„
+
+
+X-m J/_(,„_2)Sin COS -f- ^._(,„__2).
+
+
+Rozpravy: Tř. II. 41.
+
+
+XLI. ﻿Pokládáme-li j'_(,„_2) známé, vidíme, dají souřadnice ;r_,„, také snadno sestrojiti pomocí souřadnic .i'_(w_2), j_(m_2)- Rovněž normálu příslušnou bodu „,, „,) pak přímo známe, svírá osou úhel qp, známe tedy tečnu toho bodu. Příslušný poloměr křivosti ///-násobná Cartesiova normála.
+
+
+Pomocí křivky A^_(„,_2) lze tedy sestrojiti křivku R-m\ pomocí této zase křivku A—^ atd. vůbec křivky /í_((;; 2/fr), 3....
+
+
+Při tom ovšem předpokládáme, křivku A_,„ známe geometricky řešiti.
+
+
+Volme př. Křivkou A_i jest obyčejný kruh, jejž známe geometricky řešiti. Pomocí obyčejného kruhu dají tedy postupně sestrojiti geometricky řešiti všechny Ribacourovy křivky indexu záporného lichého zvané Ribacourovy kruhy.
+
+
+obr. provedena jest konstrukce pro křivky A?_a
+
+
+Obr.
+
+
+Volíme-li dostaneme A_2, což jest obyčejná cykloida. Plyne tudíž, pomocí obyčejné cykloidy lze sestrojiti řešiti postupně všechny Ribacourovy křivky indexu záporného sudého Ribacourovy cykloidy. Obr. podává sestrojení pro A?_4 R-6.
+
+
+
+
+
+LI. ﻿Podobně př. křivky atd.
+
+
+___2
+
+
+sestrojovati pomocí křivek resp. atd., jenže ne-
+
+
+
+
+
+známe dosud těchto nejjednodušších křivek jako vůbec
+
+
+~lf
+
+
+žádné křivky Ribacourovy indexem lomeným geometricky řešiti. Je-li index kladný, máme
+
+
+
+
+
+
+
+
+sin""
+
+
+dq>
+
+
+—r—-
+
+
+sin""
+
+
+aneb integrujeme-li per partes
+
+
+
+
+
+sin
+
+
+
+
+
+cos <r/
+
+
+*"" ""«^ ""sirť7^"" -^"",7=^-J
+
+
+
+
+
+Zavedeme-li analogicky jako při indexu záporném souřadnice křivky ?„_2 místo úhlu normály úhel příslušné tečny dostaneme
+
+
+J'«-2
+
+
+cos''
+
+
+(Xn
+
+
+
+
+
+
+
+
+
+
+
+XLI. ﻿Každá Ribacourova křivka indexu kladného celistvého lomeného sestrojiti řešiti'pomocí křivky Pomocí mohu pak dále stanoviti atd. křivky (k— 3—).
+
+
+Tak př. jest obyčejná parabola; její geometrické řešení známe. Pomocí paraboly dají postupně sestrojiti geometricky řešiti všechny Ribacourovy křivky indexu kladného sudého Ribacourovy paraboly.
+
+
+jest řetězovka. Pomocí řetězovky dají tudíž sestrojiti postupně řešiti Rib. křivky indexu lichého kladného, zovou Rib. řetězovky.
+
+
+Dle toho sestrojeny obr. křivky R6\ obr. křivky RK.
+
+
+Připomněli jsme již, návod tento platí též pro lomený kladný index, jen zde jako při indexu lomeném záporném schází nám dosud znalost konstrukcí příslušných nejjednodušších křivek.
+
+
+obr. naznačeny jsou též dvojné isolované body křivky resp. RG.
+
+
+J3f;
+
+
+LI."

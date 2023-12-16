@@ -1,0 +1,440 @@
+"","x"
+"1"," ﻿ROČNÍK VI.
+TŘÍDA  II.
+ČÍSLO
+O   semiinvariantech.
+Napsal
+Dr. Karel Petr,
+skutečný   učitel   na   gymnasiu   v   Olomouci.
+(Předloženo dne 5. listopadu 1897.)
+I.
+Jest třeba, a. to již k vůli označení a pojmenování, jichž ve vývodech následujících budu užívati, stručně rekapitulovati hlavní definice a poučky o semiinvariantech, jak obecně jsou známy.
+Transformujeme-li formu ;/-tého řádu
+l                               *>      1               l                               >/      •>       9         l                                     i                      —
+Q  Jt      _'_71   (l   X            1C   —i— //   Ct   3C         ~ V*'<.* ——
+kde «lf «2, . . . . značí binomické součinitele, substitucí
+Jr1=A*'1+|i*'1 dostaneme formu:
+jejížto   koefftcienty   «'„, ťí^, «'.,, .... jsou racionálna celistvé funkce   čísel
+A, ft,  v;   <?0,  rtu   at,......    Oněm   pak   funkcím   koefficientů,   pro   něž
+platí vztah
+(p (a'„, a\, a'.,,.....a',,}   -(Áv)7' (p (aot a^.....a„),
+říkáme semiinvarianty dané formy.
+Na zřeteli budu míti jenom semiinvarianty, jež jsou racionálno a celistvé funkce koefficientů, a tu pak pro každý člen této funkce
+XY,      A,        A.,                          A„
+k . a„ a{    a„     . . . .a„
+Rozpravy: Ročn. VI. Tř. U. Č. 37.           XXXVII.                                                               ., ﻿jsou splněny tyto podmínky:
+A, -f 2 /L., -f   .....  -f « A„ = t>
+kde s a v jsou pro všechny členy semiinvariantu čísla stálá a slují stupeň a v á h a semiinvariantu.
+Mimo tyto   podmínky   vyhovuje   ještě   semiinvariant   <p   této   rovnici differenciální:
+-Óa,
+Rovnici tuto, která jest východiskem mé práce, pišme zkrátka
+Každý   semiinvariant   dané   formy   rádu   ;/-tého   určuje   jednoznačně kovariant formy dané.    Řád kovariantu jest
+Tento kovariant jest tvaru
+při   čemž A0 jest právě oním semiinvariantem určujícím a  ^n  ^/2> ..... jsou funkce koéfficientů at}, al5 . . . , jež lze operací jednoznačnou z J„ odvoditi. Jestliže
+y,^« s- -2 v.~ O
+jest semiinvariant invariantem formy řádu /Mého.
+Dá se pak snadno ukázati, že každému vztahu mezi semiinvarianty odpovídá úplně stejný vztah mezi příslušnými kovarianty a opačně; a tak jest patrno, že vyšetřování kovariantu resp. invariantů dané formy dá se redukovati na vyšetřování semiinvariantu. Z tohoto pak důvodu nabývá theorie semiinvariantu, jakožto útvarů jednodušších nežli kovarianty, zvláštní důležitosti pro theorii forem, která v době novější nalezla hojně pěstitelů hlavně mezi matematiky anglickými a německými.
+2.
+Jest dále potřebno vytknouti zásady, kterými se budu říditi při psaní semiinvariantu a zavésti k vůli stručnosti některá pojmenování nová.
+Každý člen semiinvariantu a funkce koéfficientů vůbec budu psáti tak, aby koéfficienty váhy větší předcházely před koěťficienty váhy nižší. Tak ku př. budeme psáti: a^ci^a^ flr,'2<i..~.
+XXXVII. ﻿Srovnávajíce dva členy stejné váhy a stupně nazývejmež ten vyšším, který obsahuje koéfficient váhy větší. Tak ku př. : a.A #0 jest vyšší než a.,al\ «- «ta3 jest vyšší než a3±. Při takových pak dvou členech, které mají koefficient váhy největší stejný, budeme říkati tomu vyšší, jenž zmíněný koefficient obsahuje v mocnině vyšší; jsou-li však i mocniny jeho v obou případech stejné, budeme se říditi koéfficientem po něm hned následujícím a t. d. Tak ku př. :
+než
+a g tf.j a()
+»    a""- a., aí.
+Píšeme-li pak semiinvariant a funkci koěfficientů vůbec, začneme s členem nejvyšším a jdeme postupně k nižším.
+Zvláštní důležitost' mají, jak ihned poznáme, ony členy semiinvariantů, jež koefficient váhy největší obsahují v mocnině vyšší nežli prvé.
+Členy tyto nazývejmež krátce členy mocninové.
+Takové jsou ku př. členy a^a^a^ «3srt2' rtV
+Semiinvarianty, jež se dají vyjádřiti jakožto racionálno a celistvé funkce semiinvariantů stupňů nižších, označovati budeme jakožto semiinva-rianty n e r y z í. Ku př. semiinvariant
+jest neryzí třetího stupně, jelikož jest součin semiinvariantů a0 a a.2 a0 — al2.
+Máme-li pak na zřeteli celý systém semiinvariantů, budeme jej nazývati nepřevodný, nedají-li se všichni jeho členové vyjádřiti jakožto racionálně a celistvé funkce menšího počtu semiinvariantů.
+Nejjednodušší semiinvariant stupně prvého váhy nullté totiž <70, kterémužto jakožto kovariant příslušný odpovídá forma daná sama, do pouček o semiinvariantech v následujícím odvozovaných pojímati nebudeme.
+Potřebná pojmenování předeslavše odvodíme pro nás tuto velice důležitou větu :
+Každý semiinvariant má členy mocninové.
+Důkaz. Dejme tomu, že bychom měli semiinvariant nemající žádných členů mo:ninových. Pak lze jej psáti ve tvaru
+a, LM-|-*"" -i <L»-!-{• a«-*I'»  t~h  ..... -f tf„_/.A„  *,
+kde   L„   obsahuje   nejvýše   koefficient a,,-^   (nikoliv však #„), /-„_i nejvýše koefficient a„-.>, L,,-., nejvýše a,,-.,,    ..... L,,,/, nejvýše a„  k-\-Proveďme na tomto semiinvariantů operaci
+l* XXXVII. ﻿<J = #,,
+-f
+Tak obdržíme identicky:
+- *
+V této identitě jest #„ obsaženo jenom ve členu a„dLtl, pročež
+(a)                                     ALu-=-^
+an-±  obsaženo jest jenom  ve  výraze   an.^ AL„-^ -f- na„-í L„ (a   mimo to ještě v 4 L„ , kde však dle rovnice (a.) identicky vymizí), pročež také
+(n— 1) («— 2)
+a podobně
+(n-K) L„_*=0
+Z těchto rovnic plyne ihned Z,„_^ = 0, Z,„_^4_i^=0, ..... JL„_1^=0, L„ = 0; t j. celý semiinvariant identicky jest roven mílie.
+Neobsahuje-li tudíž semiinvariant členů mocninových, jest identicky roven nulle. Tím pak naše věta jest dokázána.
+Z ní plyne ihned tento důsledek: Mají- li dva semiinvarianty členy mocninové stejný, jsou i v ostatních členech úplně stejný. Neboť rozdíl jich jest semiinvariant, který nemá členů mocninových; t. j. rozdíl jich rovná se identicky nulle.
+Lze snadno ukázati dále: Každý libovolně daný člen mocninový určuje jeden semiinvariant. Daný člen mocninový jest nejnižším členem tohoto semiinvariantu. Budiž dán člen mocninový:
+Váha  tohoto členu mocninového budiž v, stupeň ^.    Tomuto členu odpovídá semiinvariant
+-f
+XXXVII. ﻿kde:
+Pm      2 m a„,-l Q
+a,„
+u číselný součinitel (po případě rovný nulle).
+Že výraz (pí) jest semiinvariantem, plyne ihned, provedeme-li na něm operaci z/.  Po snadné redukci obdržíme
+Z věty právě odvozené můžeme ještě usuzovati:
+Každý semiinvariant  dá se pokládati za součet semiinvariantu majících jediný člen mocninový.
+Nejnižší člen semiinvariantu jest člen mocninový.
+Snadno lze nám nyní sestaviti systém semiinvariantu, z nichž každý má toliko jeden člen mocninový a pomocí nichž všechny ostatní se m iinvarianty jakožto racionálno a celistvé funkce dají se vyjádřit. Jsou to semiinvarianty o mocninových členech
+3 a?t at, aí 3 a^ a.2, a 13 a?i a., aí
+Všeobecný   výraz   členu   mocninového,   jenž   určuje   jeden   takový sfniiinvariant, jest
+kde
+Abychom dokázali, že každý semiinvariant pomocí právě uvedeného systému se dá vyjádřiti racionálně a celistvě, stačí dokázati, že se každý semiinvariant mající jediný člen mocninový tak dá vyjádřiti. Neboť dle předcházejícího jest libovolný semiinvariant lineárnou funkcí semiinvariantu o jediném členu mocninovém.
+Důkaz toho pak provedeme na případě zvláštním ; jest ihned patrno, že věta jest všeobecně platná.
+Mějmež semiinvariant váhy 20-té o mocninovém členu a^a^a^-. Značme jej zkrátka
+XXX VII. ﻿Znásobme semiinvarianty mající mocninové členy rtr, L>, ei^, aí2, kteréžto vesměs se vyskytují v systému (y); obdržíme semiinvariant, jež má mo-cninový člen a^a^a^ a mimo něj mocninové členy vesměs vyšší. Lze tedy dle předcházejícího pokládati semiinvariant daný za lineárnou funkcí so*učinu semiinvariantů : (V,-J . [«a4] . [a2^ a semiinvariantů o mocninových členech vyšších než mocninový člen dané semiinvarianty. Tyto semiinvarianty mají z části mocninové členy, jež jsou obsaženy v systému (y>)\ ty pak, které odpovídají mocninovým členům v tomto systémn neobsazeným, lze opětně jako daný semiinvariant pokládati za součet ze součinu některých semiinvariant daných systémem (y) a ze semiinvariant o mocninových členech ještě vyšších atd. Takto postupujíce vyjádříme daný semiinvariant jakožto funkci racionálnou celistvou semiinvariantů daných systémem (y).
+Dostaneme pak v našem případě :
+[o        •>        OT           r       01    r       «i    r       -'117        l        ->1    r       9        l           z.       l        1       ""l    r       •'!
+% «*X J==Lťř5 J [<VJ  [*i J-T*i   L""r> J [«4XJ-i-#3  K #3] [«i J-T
+kde L jsou součinitelé číselní.
+My toto vyjádření na některých příkladech jednodušších zúplna provedeme, při čemž ukáže se nám okolnost zvlášť důležitá :
+Při semiinvariantů [a,í2al-\, n-^1, jest, jelikož
+\a„ ' al 2] == [a u 2 a, ] a^ -\- [a„ 3J  [<7 1 á J
+Při   vyjádření   semiinvariantů    [fl;,,-^^]   můžeme použiti buď součinu [ti,,2] [&13], anebo součinu [^„-'tfj [^j2].    V prvém případě, jelikož
+2 [at 3J =a9 a0 2 — 3 a.2 at «,, -j- 2 ^ 3 dostaneme :
+(<J)            2[aH2al»\-.2[att*] [aí^~í~3[a,!2a,al] a(] — \a""-a,\ a(*         n^_3
+v druhém pak případě obdržíme podobně jako v příkladě prvém:
+W
+a„ - rtt    = a
+t 2J -j- [a„ 2 a., a^
+Jest tudíž patrno, že vyjádření libovolného semiinvariantů pomocí semiinvariantů v systému (y) může býti a jest také ve velké většině případů mnoho-značné. V každém pak takovém případě srovnáme-li výrazy vypočtené pro jeden a týž semiinvariant, dostaneme relace mezi semiinvarianty systému (y). Relace ku př. srovnáním výsledků v (d) a (e) vzniklá jest
+2 (VI |>, 3] — 2 W a,} + 2 [a,ra, a, \ a0 - \a -a, \ a0* = O        // ^ 3
+XXXVII. ﻿V takovéto relaci mohou se dokonce vyskytovati semiinvarianty systému (y) lineárně, t. j. násobeny jenom číselným součinitelem. Tak ku př. různým vyjádřením semiinvariantu [a,,*^8!, jednak s pomocí součinu [<*,/*] 1/v'J, jednak s pomocí [rf„2rt3] [tfa2J, zjednáme si, jestliže ;/ -*"" 6 tuto relaci
+20
+18
+a.,
+30
+30
+- 30
+Dle této relace jest možno semiinvariant [a „-a,, a., cřj, který vyskytuje se v systému (y) pomocí semiinvariantu nižších stupňů rovněž v systému obsažených vyjádřiti racionálně a celistvě.
+Podobně různým vyjádřením  [au2asaa3aí]   použitím postupně součinů
+[rf„-J [<?- ~a.>aí |, [«*2«2] [a58ťZi]i [tf*í/ari] t^s^íji \a""'a-> (l\ \ l'r.-, ""J lze zjednati si tři relace, v nichž se vyskytují lineárně semiinvarianty: a,? a- as a.2 tft], [<7„2#(; «t rfL) « j |, \a„-a;t a± a^ a^\ ; lze tedy tyto pomocí ostatních semiinvariantu systému rovněž jakožto celistvé racionálně funkce vyjádřit.
+Neposkytuje nám tudíž schéma (y) ještě systém nejjednodušší; jest možno ještě některé členy schématu toho vyloučiti, aniž by systém semiinvariantu jím určený pozbyl své základní vlastnosti, totiž že pomocí něho všechny ostatní semiin varianty racionálně a celistvě dají se vyjádřit.
+Avšak dá se velmi snadným způsobem ukázati, že nemůže se vyskytnouti mezi semiinvarianty určenými v (y) relace v koěfficientech «„, al) a.,, . . . druhého, třetího a čtvrtého stupně. Neboť nelze mocninový člen čtvrtého stupně dvojím způsobem rozložiti v součin mocninových členů (mocninový člen třetího a druhého stupně vůbec nedá se rozložiti) a proto v relaci mezi semiinvarianty, která jest nejvýše čtvrtého stupně onen člen, který dává, nahradíme-li semiinvarianty jich výrazy v koěfficientech, nejnižší mocninový člen, nemůže se vyskytnout; t. j. není žádné relace mezi semiinvarianty systému (y) čtvrtého stupně v koěfficientech <r0, aí, . . . . Representují tudíž semiinvarianty druhého až čtvrtého stupně v systému (y) -nejmenší množství semiinvariantu, pomocí nichž všechny ostatní semiinvarianty těch stupňů racionálně a celistvě dají se vyjádřit.
+Není nesnadno ukázati plodnosť pouček v předcházejícím odvozených. Tak jest možno u formy libovolného řádu udati ihned všechny semiinvarianty nepřevodné, jichž váha ncpřestihuje řád formy, a nejenom to, i všechny relace, jimiž vzájemně jsou vázány, snadno odvodit.
+Tak ku př. u formy řádu pátého jsou 4 semiinvarianty váhy ^ 5 Tyto odpovídají členům mocninovým
+a i -, tfj :í, a., -, a., 2 ířj .
+Mezi těmito semiinvarianty není žádného vztahu.
+U formy řádu šestého  jest   6 semiinvariantu váhy určeny mocninovými členy
+6, kteréžto jsou
+XXX V II. ﻿Mezi těmito šesti semiinvarianty jest jeden a jenom jeden vztah algebraický, kterýžto obdržíme, vypočítáme-li různými způsoby \al6\, jednou pomocí [tft3J2, podruhé pomocí [í*!2]3.
+U formy řádu desátého máme 15 semiinvariantů o váze ""^ 10 se členy mocninovými
+di', eJ4'~aí, a. i a.,
+mezi nimiž 6 vztahů algebraických, a t. d.
+Avšak i v případě obecnějším, když váha semiinvariantů jest větší než řád formy příslušné, lze snadno sestaviti systém semiinvariantů dané formě příslušných a odvoditi mezi nimi vztahy algebraické. Způsob, jakého v tomto případě třeba použiti, objasním později na semiinvariantech třetího a čtvrtého stupně patřících formě libovolného rádu.
+6.
+Nejjednodušší   semiinvarianty  jsou   stupně   druhého.   Lze je psáti ve
+va ru :
+/„ r= a2„(ití — (2 «)t a2ll-ial + (2 w)2 a2„-2<r., -       .............
+-f (— 1)« (2 «)„ a,? — (— l )"" (2 »)„+i <*«  i *«+i ~r    ........
+- (2 «)2 „ . t a i <i-2 „ - 1 -f tf0 rt.2 «
+kde (2?^^, (2 «)a, ..... jsou zkratky pro binomické součinitele. U tohoto semiinvariantů lze snadno udati funkce koěfficientů druhého stupně, ze kterých postupným použitím operace /l náš semiinvariant povstal. Jsou to výrazy:
+*(l'} = -     [rt2«H-i""0 — (2 w)i ^L'""í7'i ""t"" (2 w)2 ^zw-irta —
+2«-f/^() — (2 »)t ^2«+x-  i«t - h (2 «),, <?-„+/, Urts
+Jest snadno dokázati, že:
+///"" (1) — 7""    //f l2'' — 7 (l1   //í (•'*' — 7 l2'             ^/ř í/<'-) —• 7 C*-1
+/J-»«        ---- -*;/,    «•»*        ---- J;/      ,    <<-lMu        ----   -*;/•••       **•*•»        ----ín
+Při tom obsahují mocninové členy:
+/„    obsahuje...........(— 1)„ (2 ;/)„ a„2
+I.™     ................O
+XXXVII. ﻿//•*    !)...............O
+'*            L                                                                                  '            41 V        /^            W""j-A*
+pro k > n........U
+Jestliže P,t jest funkce koéfficientů <70, «t ... <?„ homogenní a váhy z> jinak však úplně libovolná, pak jest výraz
+scmiinvariantem.  Neboť operujeme-li na tomto výraze operací z/, obdržíme majíce na zřeteli vztahy (i) a identitu zJIn = 0
+Utvořili jsme tak semiinvariant, který má tyto mocninové členy:
+Kdybychom   dle   příkladu   předcházejícího   utvořili   podobné   semiin varianty pomocí základních semiinvariantů:
+r        __.                       __ icy        i     r)                          i     /o        l     p j
+a   utvořivše   tak   semiinvarianty   stejné   váhy   a   stejného   stupně   je   sečtli obdrželi bychom semiinvariant ve formě součtu:
+C
+íl\          2H (T  , , P             T
+\A)           *•    ^J//-f k f n-^-k —  •»«+*
+/• -- O
+Značíme-li mocninové členy tohoto semiinvariantů
+vidíme ihned, že
+77;/     jest lineárná funkce s číselnými koeficienty výrazu P„ 77„_j t    »                                     »                »          výrazů P„
+//„!,    »                                     »                >                      P„
+XXXVII. ﻿10
+Poněvadž však můžeme P„, P« + i, P„+2,......zctla libovolně voliti
+jakožto funkce koefficientů <70, alt a.,.....   stejného stupně a váhy resp.
+v, v — 2, v — 4,......    jsou i //„, J7«+i, n„+2,......   zcela   libovolné
+funkce   koefficientů   rt0, alt a2,......    stupně s   a   váhy   resp.   v, v— 2,
+i> — 4......   Jestliže pak /!„, H„  \, H„+2.....    jsou dány (to nastává
+ku př. tenkráte, máme-li sestrojiti ve tvaru součtu (i) semiinvariant o daných
+členech   mocninových),   lze,  jak   okamžitě   patrno,   P„,  P//+i, P„-p_>,......
+jednoznačně pomocí /!„, fl,l+1) !!„+•.,......vyjádřiti.
+Jest tedy forma (K) zcela všeobecný výraz   pro   semiinvariant   libovoi-ného stupně a váhy.
+7-
+Na právě vyložený obecný výraz pro semiinvariant jest rnožno užit symbolického vyjádření koefficientů, kteréžto užití povede nás k poučce, jež pro theorii forem stala se zvlášť důležitou. Budeme totiž psáti:
+místo <il
+symbolicky   <z, b,
+při čemž nutno na zřeteli míti, že jest nutno, aby vyjádření symbolické semiinvariantu bylo jednoznačné, zvoliti tolik symbolů, kolik jednotek obsahuje jeho stupeň. Tak ku př. ku vyjádření členu a.23a.} jest potřebí symbolů čtyř a lze člen ten psáti symbolicky ve tvaru a? b* c* d'A. Symbol aa 6'1 c4 ď'* v semiinvariantu 4-tého stupně značí a5aísaai pro semiinvariant stupně 6-tého značí tentýž symbol a6a^9aaa0^ v tomto případě totiž jest nutno si jej představiti ve tvaru a^b^c^ďe0/0. Nahrazení symbolů «"",/>"", .... jednotkou ve výrazech symbolických (t. j. vynechání symbolů a{\ <L°, . . . .) nepovede nás při vyjadřování semiinvariantu k nedopatřením, a jenom tenkráte budeme ony symboly psáti do výrazů semiinvariant, jestliže jest možno ze semiinvariantu tyto symboly vytknouti jako činitele (v tomto případě jest semiinvariant dělitelný a(}k}.
+Operace ^/ pro naše označení symbolické nabývá významu zcela jednoduchého, jak poznáme, zavcdeme-li do rovnice
+~J a,t i^r na„ . i označení symbolické, máme ihned:
+Já"" — ti a""~l
+Připamatujeme-li si při tom, že zásady pro operaci J vzhledem ku součtu a součinu funkcí koefficientů platné dle definující rovnice jsou tytéž jako pro derivaci, plyne ihned, že operaci J na výraze symbolicky vy-
+XXXVII. ﻿11
+jádřeném  provedeme,   utvoříme-li   derivace   onoho   výrazu   pro   jednotlivé symboly a výsledky tak vzniklé sečteme.
+Toto   předeslavše,   vidíme   ihned,   že výrazy v odstavci   předešlém za základ vzaté 7„, 7,/1) ...    lze takto psáti symbolicky:
+I,/1) = a (a — l)}'
+
+Výraz tudíž (x), píšeme-li  P„ pomocí symbolů c, d, <?,.... kladouce
+P„ =/„(<:, d, t\    ... ) lze napsati ve tvaru :
+Aneb použijeme-li věty Taylorovy (jež v našem případu jest identitou): f„ (c — d, d — rt, c — a, . . . .    ) (a — //)-""
+Všeobecný výraz pro semiinvariantu jest tedy dán součtem 2:/„ (c — </, d — a, c —a,.....) (a — b)2""
+Lze tudíž každý semiinvariant vyjádřiti jakožto funkci celistvou
+rozdílů symbolů: a, b, c,..... A opačně jest snadno dokázati, že každá
+funkce homogenní rozdílů a — $, a — c, b — r,..... představuje nám
+semiinvariantu (není-li, nahradíme-li symboly koefficienty, identicky rovna nulle).
+Ku symbolickému vyjádření stačí, jak jsme viděli, jediná řada symbolů: a, fi, c', . . . . Chtěli-li bychom přejíti od semiinvariantů ke kovariantům dané formy, objevilo by se užitečným užívati dvou řad symbolů: <r,, b^c^d^ . . . .; rt2, /A,, č\j, í/2, . . . při čemž symbol avka.i""~k značí a/,, koěfficient to součinu HkX^tx1ln~k při formě w-tého řádu. Přechod tento nečiní žádných potíží, rozdíly symbolů a — b mění při něm v determinanty
+XXXVII. ﻿12
+'•í '
+(a b) = til ó.2 — a* bí
+a semiinvariant objeví se jakožto funkce racionálna celistvá determinantů (ab}> (ac\ (bc\ .... a symbolů alt bv, c\, . . . . Tak ku př. semiinvariant ^2 ao — ai ' se dá vyjádřiti pro formy:
+druhého řádu jako    —(aó)-, třetího řádu                - - (a />)"" a, b,,
+kde
+čtvrtého řádu             -~ (a b]2 aí '21\ 2.
+Příslušné kovarianty lze symbolicky psáti:
+1  ,            l  ,                      l /
+-y (<* v)~,     9 (a O)- rt.v o*,      2 (a^'llx~ •' ' '    •
+ax—a  x -\-a-x.,,   b,=b  .r  -±-b, x t
+Toto označení symbolické jest dobře známo; zavedli jej do theorie forem známí matematikové němečtí: Aronhold, Gordan, Clebsch.
+Důkaz svůj, že každý semiinvariant (a tudíž i každý útvar invariantní) dá se naznačeným způsobem vyjádřiti symbolicky, opřel jsem pouze o základní vlastnosti semiinvariantů, vlastnosti to, které plynou z rovnice diffe-renciální:
+O
+a nebylo nutno přibírati v úvahu invariantní útvary systému forem.
+8.
+V úvahách následujících zabývati se budu semiinvarianty stupně třetího a čtvrtého a bude naším hlavním úkolem vyšetřiti, kolik semiinvariantů stupně třetího rcsp. čtvrtého má forma ;z-tého řádu.
+Poměrně snadno se to podaří u semiinvariantů stupně třetího; avšak i při semiinvariantech stupně čtvrtého nenaskytnou se obtíže nepřekonatelné a to zejména následkem okolnosti nahoře vytčené (odst. 5.), že totiž známe přesně všechny semiinvarianty stupně čtvrtého, pomocí nichž a semiinvariantů stupňů nižších ostatní semiinvarianty čtvrtého stupně dají se vyjádřiti jakožto celistvé racionálně funkce a že není možno zmíněné semiinvarianty čtvrtého stupně na menší počet redukovati.
+Bude užitečno pro následující upozorniti již nyní na jednu vlastnost* semiinvariantů. Píšemc-li jej ve tvaru
+* '
+L, + aj' » Z, +
+XXXVII. ﻿13
+kde a„, jest nejvyšší koefficient v semiinvariantu se vyskytující, výrazy pak LQ, LU ..... L/, a,„ již neobsahují, jest výraz L0 semiinvariantem.
+Semiinvariant   (tu)   budeme   značiti,   pokud  to   není  na újmu  jednoznačnosti, zkrátka
+(a»'L9).
+Tak semiinvarianty druhého stupně budeme označovati:
+ht a0 — 3 aa at ~\- 2 a., - = (a_l au) afi a0 — 6 ťř- rtj -j- 15 a í a2 — 10 as á = (at. «0
+9-
+Při semiinvariantech stupně třetího budeme zprvu rozlišovati dva případy: váha semiinvariantu jest buď lichá buď sudá.
+1. Váha buď lichá, v = 2 m -f 1.
+Cleny mocninové, které v tomto případě určují semiinvarianty základní, jsou
+při čemž
+z kterýchžto nerovnin ihned plyne
+Jest tedy celkem semiinvariantu třetího stupně váhy 2 ;// -f- l
+p.
+Všechny semiinvarianty mající vždy po jednom ze řady (v) mocninových členů začínají členem a2M+i«o""' ^ze Pa^ Je srovnati dle jich členů mocninových tak, že semiinvarianty, jež budeme značiti
+(o)                                /„, A, 4........ik
+mají za mocninové členy stejnolehlé členy řady (v).
+Tento systém semiinvariantu nahradíme jiným, ekvivalentním, pomocí něhož dá se každá semiinvariant systému (oj lineárně vyjádřit a opačně. Při tom budeme se říditi zásadou získati semiinvarianty o členech prvních co možná nejnižších a zároveň o rozsahu nejmenším.
+XXXVII ﻿14
+Jeden ze semiinvariantů (o) s prvním členem <I%HI+I (!«"" podržeti si musíme, podržíme si pak /0 jakožto nejjednodušší; z ostatních člen (t.,„tjrí a(}2 a současně a2„,al a0*) eliminujeme. Odečteme- li od semiinvariantů 715 /,,... //. semiinvariant 70 násobený vždy vhodným numerickým součinitelem, dostaneme novou řadu semiinvariantů
+j '   i '                     i '
+Jl , l*   ....... l k-
+začínajících vždy členem (%>* - 1 (aa ao) --- a?m-i (aá ao — íjfái)-
+Jeden (a to //, jelikož má nejméně členů) si opět ponecháme, z ostatních pak odčítáním odstraníme člen "".>„/+! (/'L> tf0 — řř""'i) a současně s ním tf„,_ tfo rf — rt.,*) a máme řadu novou
+a t. d. Zjednáme si tak po  řadě řady semiinvariantů sestavené v schematé následujícím :
+/„,   /j,   /.,,   7o, ....... l k    s počátečním členem ft->,„-\.\a(^
+A', //, //,   ...... ///             »                >       «2wř-i(«2«0)
+Z těchto semiinvariantů si podržíme vždy počáteční členy jednotlivých řádek :
+/o, A', A"", ......... W
+a dostaneme tak nový systém semiinvariantů nepřevodný třetího stupně pomocí něhož každý jiný semiinvariant třetího stupně váhy 2 m -f l lineárně se dá vyjádřiti. Jednotlivé semiinvarianty tohoto systému jsou pak takového druhu, že není možno je nahraditi semiinvarianty jednoduššími.
+2.  Váha bud' sudá v = 2 m.
+V tomto případě jsou základní semiinvarianty dány těmito členy mocninovmi :
+ílM a',,,   ., cř(, a •,„_., ^ , ....... a m-k
+kde
+Přibereme-li   semiinvariant o mocninovém   členu   rt,/""<70,   kterýžto  jest součin semiinvariantů stupně druhého \a„~\ a koěfficientu a(}  a postupujeme- li
+*/ Tímto členem nemůže totiž semiinvariíint začínat, jelikox attilt Ani ata9 — atat není semiinvariantem fsrov. odst. 8.).
+XXXVII. ﻿15
+s  takto   nabytými   semiinvarianty   v   počtu   k -f- l  stejně jako při řadě zjednáme si řadu semiinvariantů v počtu k ~ 1] -,— s počátečnými členy:
+\j
+s počtem členů mocninových
+2,                   3,                   4,
+a s rozsahem co možná nejmenším.
+4- l
+10.
+Abychom nyní ustanovili, kolik přísluší formě ;«-tého řádu semiinvariantů třetího stupně, uvažme, kolik jest semiinvariantů s počátečným členem tím (%/#o)i dáme-li semiinvariantů tvar co nejjednodušší způsobem naznačeným v odstavci předcházejícím.
+Budiž nejprve w — 2 v-j- 1.   Pak v semiinvariantů [a^^^a^/a^}] musí
+_j
+3 jak z předešlého hned patrno; tuto podmínku lze také psáti:
+p
+l
+a
+-
+2.
+V tomto případě jest tudíž
+semiinvariantů.
+Jestliže ;// =: 2 3', obdržíme pro počet semiinvariant začínajících členem í7.,r(<7.,/tf0) podobně číslo
+Shrneme-li oba výsledky pro /// liché a sudé, můžeme říci : Počet semiinvariantů, které začínají členem a,„ (<i.,/aQ\ kde /jest v jistých mezích libovolné, ni dáno, jest
+I^ormě /// toho řádu přísluší tudíž semiinvariantů třetího stupně
+XXXVII. ﻿16
+E
+,, m
+- l
+4
+Abychom 6* vypočetli   rozeznávejme   případy   wz — 4 A,  ;//— 4 A-j- l, ;;/ — 4 A -}- 2, m — 4 A + 3.
+Dostaneme pak snadno tyto výsledky:
+m — 4 A,
+m~—l
+8 m ~ — 4
+8
+m — 4 A + 3,    5 = 2 A- -f 3 A -f l =
+m2--l
+!•  l
+Ve všech čtyřech případech lze říci: Počet semiinvariantů třetího stupně'příslušných formě řádu m-tého jest dán číslem
+m
+Všechny tyto semiinvarianty jsou nepřevodné, t. j. nedají se vyjádřiti jakožto racionálně celistvé funkce menšího počtu semiinvariantů stupně třetího a semiinvariantů nižších stupňů.
+Z předcházejícího plyne rovněž: Invarianty stupně třetího mají jenom ony formy, jichž řád jest dělitelný čtyřmi, a má pak taková forma invariant stupně třetího jenom jeden.
+II.
+Základní   semiinvarianty čtvrtého   stupně   váhy   sudé   2 m   jsou   dány těmito členy mocninovými:
+a'1'm..iaía2í atm.^aeaí, . . . ., a~„,.k«2^-2«2, ««,.*.
+Podmínka
+(*)
+m—k ^2 k- l XXXVII. ﻿17
+musí nutné býti splněna; mimo tuto předpokládáno ještč pro /• ve schématu napsaném
+(r)                                   m — k—l < 2 k + l
+z čehož plyne
+Podmínky (G) a (r) mohou však býti splněny za tří různých okolností:
+1.
+2. 3.
+3 /• — m —l
+3 k — ni
+3/•=;///   - l
+Ve schématu hořejším jest předpokládána okolnost prvá. Kdyby platná byla okolnost druhá resp. třetí, začínal by sloupec /'-ty mocninovým členem
+rt2„,_/—, tf2/--L íT..   resp. cř-,„_/,_1 <!.,/,-.> a±.
+V prvých k — l sloupcích našeho schématu členů mocninových dole po jednom přibývá; ve zbývajících sloupcích nahoře tři členy ubývají a dole jeden přibývá, takže celkem vždy po dvou ubývá.
+V k— l sloupci jest celkem členů k— l, v /('-tem jest členů /, kde / jest buď k —- l, buď k — '2, anebo k — 3, podle toho, která ze tří okolností nahoře zmíněných jest splněna.
+Jest tedy celkem členu mocninových:
+,  (4  , Í2
+•'• --|3 ' 11
+l -f_ 2 + 3 -}- 4+
+-f /& -j- / + / — 2 -f- / — 4-f-
+Součet právě napsaný může býti zakončen dvojím způsobem, jak naznačeno, což závisí na tom, zda / sudé či liché. Jest třeba tudíž rozeznávati šest různých případů, pro které provedeme-li výpočet součtu, obdržíme tyto výsledky:
+v — l ni;
+1.     /// = 6A,            Pt=:3A- — 2 A
+2.     m — 63L f l,    Pt — 3 A2 — A            =
+3.     w zr 6 A-}-2,    /\ — 3A-
+4.     /// - 6 A f 3,    1\ - 3 A2 + A            =
+5.    //^ = 6Af4,    y, =3As-f2A        =
+6.    /// — 6 A f 5,    Ft = 3 Aá -}- 3 A -f- l =
+XXXVII
+/// "" -- i- ///
+12 /// 2 - — 4 /// -)- 3
+12 /// 2 -- 1- ;//   *- 4
+Hf2~ /// - — 4 ///   - 3
+nr ---- 1- ///
+12 ﻿18
+Pt značí počet všech semiinvariantů stupně 4. váhy 2 m, jichž je třeba, a(1y se pomocí nich a semiinvariantů stupňů nižších všechny semiinvarinnty stupně čtvrtého jakožto racionálně a celistvé funkce mohly vyjádřit.
+Zcela podobně přijdeme ve případě tom, že váha jest lichá, k těmto vzorcům:
+— 2 m -f- l;
+].    /// — 6 /.,
+f\ = 3 A2 2.    in — 6 A f l,    P{—3 A2 + A           _-
+o               ____  x-   i      |     o         7j__'i   2 2     '•     f)   ""l               ___
+4.    ;« = 6 A 4- 3,    />, = 3 A-.-f 3 A -[- l =
+5.    m = 61 -- 4,    7J, = 3 A2 -f 4 A -f- l =
+nr 12""
+jws—- l 12
+/// - - — 4 12
+///á -4- 3
+12
+,; , 3   ___    1
+6.    /// ~ 6 A -f 5,    7Jt = 3 A-  r 5 A -[- 2 = -
+12
+Všechny tyto výsledky obsažen}' jsou v těchto dvou formulích:
+Q«-2)»+3
+* 4   l -1   '"" J    ---   -°              ! r-,
+12
+
+12.
+Naším úkolem nyní bude, stanoviti, kolik přísluší formě řádu ///-tého semiinvariantů stupně čtvrtého. Za tím účelem přeměníme si systém semiinvariantů základních stupně čtvrtého váhy i> na jiný, tak abychom měli systém co nejjednodušší, totiž semiinvarianty, které začínají s členem co nejnižším.
+Započněme případem, že v jest sudé, a napišme si systém semiinvariantů stupně čtvrtého, ku kterému přibereme ještě semiinvarianty stupně třetího téže váhy násobené <7(1. Veškeré tyto semiinvarianty srovnáme v pořad dle jich členů mocninových. Vznikne nám tak řada semiinvariantů
+(v)
+I '   -*2'    A'i>
+Budeme nyní postupně eliminovati členy nejvyšší. Touto eliminací vzniknou nám semiinvarianty nové, jejichž nejvyšší člen a/, ./3, kde j., jest semiinvariant stupně třetího anebo semiinvariant stupně druhého náso
+XXXVII. ﻿19
+bena a(}. Abychom eliminovali nejvyšší členy, jež obsahují jako činitele semiinvariant druhého stupně, použijeme součinů semiinvariantů druhého stupně, kteréžto součiny, značíme-li váhu v — 2 w, můžeme psáti dle užitého již označení ve tvaru:
+,i)   M [ví, [*«,-!*] [VJ, v*.V M........V] [*«-');
+Tyto součiny mají totiž za nejvyšší členy:
+takže nejvyšší členy, jež mají za součinitele semiinvarianty cr03, (aaa0)a0 . . . pomocí   zmíněných   součinů   dají se eliminovati.    Zbývají   tudíž k postupné eliminaci   jenom   ty   členy,   které   obsahují   semiinvarianty   stupně   třetího, Abychom eliminovali členy mající nejvyšší koefficient ii2„„ a.>m-^ a.>„,  2, . . . .... a*,,,-,,  jest   třeba o jednu více semiinvariantů řady (v) než jest semi-
+invariantů třetího stupně váhy O,  l, 2, 3, 4, 5, ........ , q. Nehledíme při
+tom již k neryzím semiinvariantům třetího stupně, jež, jak řečeno,  pomocí řady (L) lze z nejvyšších členů vyloučiti.
+Abychom tudíž stanovili, kterým nejnižším členem může semiinvariant váhy 2 /// stupně čtvrtého začínat, jest třeba nalézti číslo ,r, pro které platí tyto nerovniny :
+P, CO) + P, (1) -f P, (2) + P, (3)
+P3 (0) -f P, (1) + P, (2) -f P. (3)
+kde Pi(k} značí počet semiinvariantů /(--té váhy, /-tého stupně. Znajíce .v víme, že existují všechny semiinvarianty počínající členem a2m-xj3; jenom některé a platí-li ve (^) znaménko rovnosti, vůbec žádné semiinvarianty s nejvyšším členem a2„,-.i—ij3-
+Výpočet provedený pro šest různých případů naznačen jest v hlavních výsledcích v tabulce následující:
+Váha	= 2 w	P, (2 »/)	L? /O      ^       Lí       '    L?            í-í       1             '    D íJ \                /                ty)     1            V^ '     '            ^"""".'     1     * *   *      i           '.""O	ř
+1 2 (í		3f*2— 2p	2 tu                       3 ,« -	6 ji
+12 ji	-i- 2	3 n - — M            2 (i                      3 ,u - -[- //		6,«-f 1
+12 #1	+ 4	3 ,«2	*~l                                                                O         "">       1       O 2 ([/                       o (i~ — L u	6ř<-f-2
+12/i	-f 6	3 ,u2 -j- [i	2.U-L-1              3,u2-|-3/t-f 1	6 u -f 3
+1 2 «	f- 8	3 //á _|_ 2 u	O       _i__ 1                     o     á   j     i        '    -i	6p-j-4
+1 2 /<	4-10	3 /*•-[- 3 » -i- 1	2afl              3ř,-'.4. 5ř4_|_2	6H-5
+XXXVII.
+2* ﻿Z této tabulky ihned patrno, že vždy pro í1 sudé jest přesné splněna rovnice :
+(P)   Pa (0) -r P3 (1) + P, (2) + . . . + J»,   y  = *4 ("") f -P» (»)
+Existují tudíž všechny semiinvarianty čtvrtého stupně váhy sudé tvaru [Lf(L*3o)] kde (a,-nsa(}) jest libovolný semiinvariant třetího stupně, o němž platí podmínka
+Stejným způsobem lze dokázati větu příslušnou pro semiinvarianty čtvrtého stupně váhy liché: Existují všechny semiinvarianty stupně čtvrtého váhy liché tvaru
+kde  ((irasei0)   jest semiinvariantem stupně třetího,   pro   který splněna podmínka
+q — 2 > r~\-s
+Jest však třeba poznamenati, že v případe, kdy váha byla sudá, mohli jsme eliminovati nejvyšší členy tvaru a.2t/(a<>,.a0)a0 pomocí součinu \a(/'\ \a,~\, je-li však váha lichá, analogických součinů není, a proto výraz (//) zastupuje nyní i ten případ, že (a,.asat}} jest neryzí semiinvariant třetího stupně.
+Přistoupiti můžeme již ku vyčíslení počtu scmiinvariantů čtvrtého stupně příslušných formě řádu >w-tého. Do tohoto počtu zahrneme pro počátek počet semiinvariantů třetího stupně dané formě příslušných.
+A tu po snadné úvaze, píšeme-li pro krátkost'
+7J3 (k) = P, (0) -t  Po (1) -f PH (2) ~
+- P,
+přijdeme k následujícímu:
+a) Budiž váha semiinvariantů menší anebo rovna řádu formy ni *<_ v. V tomto případe jest počet semiinvariantů :
+pro v sudé pro v liché
+(l-
+/j) m <C v. Počet semiinvariantů pro v sudé           //3 ( "".) —7/a(v_«_ 1)
+XXXVII. ﻿21
+u liché
+77
+K těmto formulím třeba poznamenati, že součet TZ, (/•) byl v odstavci předcházejícím rovnicí (p) stanoven, dle této jest
+n^(k}~ Pt (2 /•) -]- P, 12 k) P/*«.-*J*=2!±2
+12
+, P, (2 *) = L-
+Pomocí formulí těchto můžeme ihned určit, kolik jest semiinvariantů (a tudíž také kolik jest kovariantů resp. invariantů) čtvrtého stupně a dané váhy pří slušných formě daného řádu. Abychom obdrželi počet semiinvariantů ryzích, jest třeba v každém případě ještě odečíst počet semiinvariantů třetího stupně stejné váhy a formě téhož řádu příslušných. Tak ku př. invarianty čtvrtého stupně formy ///-tého řádu jsou vždy, jak známo, váhy 2 ///. Počet jich tudíž jest
+/I;j (ni} — n.A (m — 1) = P.{ (;//).
+Semiinvarianty váhy 'l /// a stupně 3, příslušné formě řádu ni vůbec nejsou. Jsou tudíž všechny invarianty v počtu P3 (///) na sobě lineárně nezávislé a ryzí. A tak máme zajímavou větu: Počet všech invariant čtvrtého stupně formě řádu m-tého příslušných jest rovný počtu semiinvariantů ryzích třetího stupně váhy m-té.
+.   /// -i- 3               ,, ///
+íento počet jest   h------—      resp.   h —   d l e t o h o, j e-11 /// 11 c h e
+či sudé.
+Sečteme-li pro všechna v počet semiinvariantů čtvrtého stupně formy řádu ///-tého, dostaneme
+n.t (///) -j- //3 (m — 2) + 7I3 (m — 3) -4- 773 (///  -4) -f- . . . -j- //, (4) -j- /I, (3) -j-
+(>'}              -f
+/// — l     .         /;/ — 3            /// — - 5
+-         j- h        -         j- h        -
+111 Od tohoto   součtu   třeba odečíst   E - ^ ,  jakožto   počet semiinvariantů
+o
+třetího stupně příslušných naší formě.
+Výpočet řádku prvého v součtu (r)   provésti  třeba pro šest případů. Obdržíme tak
+,                                          m3— 12»f      36
+;// = o ft                2. = 6 tu<1 —    2 ,u   -}-    l              ~
+f      ,   .          >-      x-    -i  ,     o   -,
+;// •    6 u -4- l        2. = 6 »' -4-   3 .""""
+oo
+— 3 ;// + 2 0/. 36
+.
+l
+XXXVII. ﻿22
+», '""l
+/,/ = 6 fi -j- 3        2;^6tu3-|-   9řtá-j-   40+1 = ;* = 6p-|-4        -l1 = 6 p8 -j- 12 /i8 -|-   6 p -}- 2 = /// = 6 n . -f- 5        2; ^ 6 /i 3 -r 15 /i2 -j- 12 p -j- 3 = K těmto výrazům se ještě přičítá
+9H9— 12 m -f 36
+36 y/í3 — 3 ;// 4- 18
+36
+//ž^— 12 m ~\- 20
+36
+///3 •— 3 //v -{- 5 36
+„/« — l        ,,w — 3   i    ,,m — 5                  ,.;«2             ///
+Zí --9-----1- k     g— 4- -E - 9-----h • • • • "" h 8 == — ^ 4-   jestliže w sude
+> = O, jestliže ;;/ liché.
+A tak obdržíme konečně: Počet semiinvariantů stupně čtvrtého patřících formě řádu m-tého a jež na sobě a součinech semiinvariantů stupňů nižších jsou lineárně nezávislý, jest
+pro rn  sudé     /_
+, ;r5 — 12 n
+,. , ,      ,. pro /// liché     k
+36
+h 1.
+XXXVII."

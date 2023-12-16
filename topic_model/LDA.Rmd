@@ -1,0 +1,696 @@
+# Postup tematického modelování časopisu _Rozpravy_ České akademie v letech 1890-1910
+
+```{r setup, eval=TRUE, echo=TRUE}
+#Načtení všech potřebných knihoven
+  #pro přípravu dat na modelování  
+    library(quanteda)
+    library(quanteda.textstats)
+    library(quanteda.textplots)
+    library(topicmodels)
+    library(readtext)
+    library(tidytext)
+    library(dplyr)
+    library(reshape2)
+    library(jsonlite)
+    library(readxl)
+    library(stringr)
+  
+  #pro vizualizaci  
+    library(LDAvis)
+    library(wordcloud)
+    library(ggplot2)
+    library(gridExtra)
+    library(RColorBrewer)
+    library(forcats)
+
+#model není nutné opakovaně spouštět - lze načíst Rdata environment
+load("topic_model.RData")
+```
+
+## 1 Načtení korpusu a transformace dat
+
+### 1.1 Načtení textových souborů
+
+Načtení všech připravených txt souborů z adresáře:
+
+```{r loading_data, eval=FALSE, echo=TRUE}
+current_working_directory <- getwd() # nastavený pracovní adresář, předpokládá se adresář, kde je uložen tento script
+relative_path_to_data <- "/data/*.txt" # podadresář se soubory
+full_path <- paste0(current_working_directory,relative_path_to_data) # celá cesta k souborům
+
+corpus <- corpus(readtext(full_path)) # načtení ve formě corpusu knihovny quanteda
+```
+
+### 1.2 Vytvoření matice dokument-slovo
+
+Načtená data ze souborů je třeba rozložit na jednotlivé tokeny a vytvořit matici *dokument-slovo* (*documet-term matrix*). K načtení a manipulaci s daty se používá knihovna `quanteda`.
+
+V rámci transformace do matice je možné odstranit z korpusu tzv. stop slova.
+
+```{r transform_data, eval=FALSE, echo=TRUE}
+# slova objevující se napříč všemi *Rozpravami* (zanedbatelný vliv na témata)
+stop_CAVU <- c("akademie", "strana", "rozprava", "obsah", "fig", "tab", "pag", "hodina", "metr", "pozorování", "maximum", "den", "rok", "datum", "milimetr", "vel", "průměr", "minimum", "maximum", "stupeň", "leden", "únor", "březen", "duben", "květen", "červen", "červenec", "srpen", "září", "říjen", "listopad", "prosinec")  
+
+# nevýznamová slova a znaky v korpusu
+stop_nonsense <- c("wsw", "nnw", "ssw", "wnw", "ene", "sse", "eše", "nne", "»", "«", "^", "srv", "srv", "ccm", "dod", "vyn", "tim", "vin", "kol", "ott", "oti", "jah", "upd", "rkp", "srvn", "stsl", "ghm", "srva", "pis", "cxo", "mgh") 
+
+# rozdělení na tokeny pro quantida
+tokens <- tokens(corpus) %>% 
+  tokens_remove(c(stop_CAVU,stop_nonsense))
+
+# matice dokument-slovo
+dfm <- dfm(tokens) 
+dfm_df <- t(as.data.frame(dfm)) # matice dokument-slovo jako data frame pro lepší zobrazení 
+```
+
+Z matice je možné získat jednoduchý přehed o nejfrekventovanějších slovech v korpusu.
+
+```{r word_freq, eval=TRUE, echo=TRUE}
+freq <- textstat_frequency(dfm, n = 20)
+head(freq, 20)
+```
+
+## 2 LDA
+
+Pro modelování témat metodou LDA je využita knihovna `topicmodels`. Ta pracuje s jinak strukturovanou maticí *dokument-slovo*, je proto potřeba výše vytvořenou matici do této podoby převést.
+
+```{r lda_matice, eval=FALSE, echo=TRUE}
+  dtm <- convert(dfm, to = "topicmodels")
+```
+
+Spuštění LDA si vyžaduje stanovit proměnnou `k`, která určí, kolik témat se má v korpusu identifikovat. Bylo stanoveno, že model má rozpoznat 35 témat. Pomocí třídy `control` je možné nastavit další parametry. Je takto určena hodnota `alpha`. Čím je `alpha` vyšší, tím větší množství témat se může objevovat v jednom dokumentu. V našem případě je nastavena na `0.1`, neboť předpokládáme, že jedno číslo *Rozprav* se pravděpodobně věnovalo jednomu tématu. Hodnoty dalších parametrů jsou ponechány ve výchozím nastavení[\^https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf], počet iterací Gibbsova vzorkování je v takovém případě 2000.
+
+Dále je vhodné použít před spuštěním modelu funkci `set.seed`, která slouží k vytváření reprodukovatelných výsledků v případech, kdy se vytváří proměnné nabývající náhodných hodnot. Zaručuje se tak, že při každém spuštění kódu budou vytvořeny stejné náhodné hodnoty.
+
+```{r lda_topic_model, eval=FALSE, echo=TRUE}
+set.seed(1234)
+topic_model <- LDA(dtm, method = "Gibbs", k = 35,  control = list(alpha = 0.1)) 
+topic_model
+```
+
+### 2.1 Matice *slovo-téma* (*word-topic matrix*)
+
+LDA vytvoří matici *slovo-téma*, ve které je u každého slova z korpusu uvedeno s jakou pravděpodobností bylo vygenerováno z jakého tématu. Tato pravděpodobnost je označena jako `beta`. Model témata nijak nepojmenuje, označena jsou pouze čísly.
+
+```{r word_topic_matrix, eval=TRUE, echo=TRUE}
+word_topics <- tidy(topic_model, matrix="beta")
+word_topics
+```
+
+Pro každé téma je možné zobrazit stanovený počet slov, která se v něm vyskytují s nejvyšší frekvencí:
+
+```{r word_topic_matrix_top_words, eval=TRUE, echo=TRUE}
+topic_number <- 8 # příklad pro téma č. 8
+
+word_topic_posterior <- posterior(topic_model)$terms[topic_number, ]
+top_words_for_topicX <- head(sort(word_topic_posterior, decreasing = T), n=50)
+head(top_words_for_topicX)
+```
+
+Nejfrekventovanější slova tématu je také možné zobrazit jako wordcloud:
+
+```{r word_topic_matrix_wordcloud, eval=TRUE, echo=TRUE}
+wordcloud(names(top_words_for_topicX), top_words_for_topicX)
+```
+
+### 2.2 Matice *dokument-téma* (*documet-topic matrix*)
+
+Druhým výstupem LDA je matice popisující pravděpodobnost příslušnosti dokumentu ke konkrétnímu tématu určená proměnnou `gamma`.
+
+LDA přiřadí každému slovu v dokumentu téma. Čím více slov v dokumentu je přiřazeno k jednomu tématu, tím větší hodnotu má proměnná `gamma` a tím spíš pojednává dokument o daném tématu. `gamma` tedy udává odhadovanou proporci slov v dokumentu, která byla vygenerována z konkrétního tématu.
+
+```{r document-topic_matrix, eval=TRUE, echo=TRUE}
+topic_model_documents <- tidy(topic_model, matrix = "gamma")
+topic_model_documents
+
+document_to_topic <- topic_model_documents %>%
+  group_by(document) %>%
+  slice_max(gamma) %>%
+  ungroup()
+```
+
+Také je možné vyfiltrovat všechny dokumenty, které patří k vybranému tématu:
+
+```{r document-topic_matrix_selected_topic, eval=TRUE, echo=TRUE}
+topic_number <- 1 # vybrané téma
+document_topic_filtr <- filter(document_to_topic, document_to_topic$topic == topic_number)
+document_topic_filtr
+```
+
+### 2.3 Pojmenování témat
+
+Model rozpoznaná témata v korpusu označuje pouze číslem, jejich vhodné pojmenování závisí na vlastní interpretaci badatele. Za tímto účelem byly využity 3 techniky. Nejefektivnější a nejjednodušší přístup k pojmenování témat je zhodnotit nejfrekventovaněší slova, která se v každém tématu vyskytují. Pokud tato technika nevedla k intuitivnímu pojmenování, byl analyzován začátek plného textu dokumentů patřících k danému tématu s nejvyšší pravděpodobností. Nepomohla-li ani tato technika jednoznačně určit vhodný název pro téma, byly z matice *dokument-téma* získány identifikátory jednotlivých svazků patřících do tématu, pomocí identifikátoru byl sestaven odkaz do digitální knihovny a byl analyzován přímo zdrojový digitalizát.
+
+**Nejfrekventovanější slova**
+
+Pro pojmenování témat pomocí nejfrekventovanějších slov, jež se v něm vyskytují, může posloužit například jednoduchý tabulkový přehled:
+
+```{r topics, eval=TRUE, echo=TRUE}
+# vytvoření data frame pro přehledné zobrazení:
+word_topics_TOPterms_df <-as.data.frame((terms(topic_model, 30))) # 30 nejfrekventovanějších slov pro každé téma
+word_topics_TOPterms_df
+```
+
+Zobrazení nejfrekventovanějších slov jednoho vybraného tématu v tabulce:
+
+```{r topics_table_one, eval=TRUE, echo=TRUE}
+# Tabulka pro jedno téma
+word_topics_TOPterms_df$`Topic 8`
+
+# formátování:
+word_topics_TOPterms_df_table <- knitr::kable(word_topics_TOPterms_df$`Topic 17`, 
+  col.names = c("Nejčastější termíny"))
+```
+
+Kromě tabulkového přehledu je možné využít také vizualizaci pomoci knihovny `LDAvis`, která převede mnohorozměrná témata modelu do dvou dimenzí tak, aby bylo možné je jednoduše a interaktivně prezentovat. Výstupem je jednoduchá javascriptová aplikace, která umožňuje prozkoumávat výsledky LDA pomocí zaměření se na konkrétní témata nebo slova.
+
+Velikost kruhů ve vizualizaci reprezentující témata odpovídá tomu, kolik tokenů (slov) je k tématu přiřazeno (v pravém horním rohu se ukazuje přesné procentuální vyčíslení). Velikost tak odpovídá důležitosti daného tématu v korpusu. Z vizualizace lze také z blízkosti kruhů odvodit, která témata jsou si sémanticky podobná či se překrývají:
+
+```{r LDAvis, eval=TRUE, eval=TRUE, echo=TRUE}
+    dtm = dtm[slam::row_sums(dtm) > 0, ]
+    phi = as.matrix(posterior(topic_model)$terms)
+    theta <- as.matrix(posterior(topic_model)$topics)
+    vocab <- colnames(phi)
+    doc.length = slam::row_sums(dtm)
+    term.freq = slam::col_sums(dtm)[match(vocab, colnames(dtm))]
+    
+    json = createJSON(phi = phi, theta = theta, vocab = vocab,
+                      doc.length = doc.length, term.frequency = term.freq, reorder.topics = FALSE)
+    serVis(json)
+```
+
+**Náhled vstupních dokumentů**
+
+Pokud by pro pojmenování témat nestačil přehled nejfrekventovanějších slov, je možné z matice *téma-dokument* získat dokumenty s největší pravděpodobtí příslušnosti k jednotlivým tématům a podívat se na jejich plný text, nebo jeho část. Je ovšem potřeba mít na paměti, že plným textem je pro potřeby modelu již upravený textový soubor obsahující pouze podstatná jména v základním tvaru.
+
+```{r documet_preview, eval=TRUE, echo=TRUE}
+topic_number <- 8 # vybrané téma
+document_topic_filtr <- filter(document_to_topic, document_to_topic$topic == topic_number)
+document_topic_filtr
+
+# získání textu dokumentu
+document_number <- 8 # číslo vybraného dokumentu
+document_name <- document_topic_filtr$document[document_number] # označení vybraného dokumentu
+document_to_preview <- corpus[[document_name]] # přístup k textu v načteném korpusu
+
+# zobrazení textu
+document_to_preview <- gsub("\n", " ", document_to_preview) # vytvoření mezer
+substr(document_to_preview, 1, 1000) # zobrazí prvních 1000 znaků
+#print(document_to_preview) # zobrazí celý dokument
+```
+
+**Odkazy na digitalizáty** 
+
+V případech, kdy žádná z předchozích technik nevedla k pojmenování témat, je možné získat z názvů jednotlivých dokumentů jejich identifikátor `uuid`, sestavit z něj odkaz do digitální knihovny a analyzovat přímo zdrojový digitalizát.
+
+```{r get_url_of_source_document, eval=TRUE, echo=TRUE}
+topic_number <- 31 # vybrané téma
+document_topic_filtr <- filter(document_to_topic, document_to_topic$topic == topic_number)
+top_documents <- document_topic_filtr$document
+
+documents_url <- list()
+for (txt in 1:length(top_documents)){
+  doc_uuid <- str_sub(top_documents, -40, -5)
+  doc_url <- paste0("https://kramerius.lib.cas.cz/uuid/uuid:",doc_uuid)
+  documents_url <- c(documents_url, doc_url)
+}
+head(documents_url) #několik prvních dokumentů
+#documents_url #odkazy na všechny dokumenty tématu
+```
+
+## 3 Přehled identifikovaných témat
+
+Na základě výše zmíněných metod byly tématům přiřazeny názvy.
+
+```{r eval=TRUE, echo=TRUE}
+#pojmenovaná témata
+named_topics <- c("01: Fyziologie rostlin a živočichů", 
+                "02: Nářečí", 
+                "03: Politické a sociální dějiny",
+                "04: Bryologie (mechorosty)", 
+                "05: Sklářství", 
+                "06: Geometrie", 
+                "07: Právo",
+                "08: Cytologie", 
+                "09: Fyzická geografie českých zemí a nářečí", 
+                "10: Fyzikální chemie",
+                "11: Matematická analýza", 
+                "12: Nervová a smyslová soustava", 
+                "13: Literární věda a jazykověda",
+                "14: Patofyziologie", 
+                "15: Syntax", 
+                "16: Filosofie a psychologie",
+                "17: Fonologie a daně", 
+                "18: Kulturní dějiny",
+                "19: Fyziologické experimenty", 
+                "20: Anatomie kostí a kloubů",
+                "21: Systémová analýza", 
+                "22: Chemické prvky a sloučeniny", 
+                "23: Fyziologie svalů",
+                "24: Petrologie", 
+                "25: Numismatika", 
+                "26: Elektrotechnika", 
+                "27: Geologie a archeologie",
+                "28: Horniny a kosmická tělesa", 
+                "29: Hmyz a morfologie rostlin",
+                "30: Embryologie a anatomie orgánů", 
+                "31: Klinické příznaky a léčba nemocí",
+                "32: Řečtí a římští klasici", 
+                "33: Geografie", 
+                "34: Umění, písemnictví a humanismus",
+                "35: Staročeská a slovanská kultura")
+```
+
+Identifikovaná témata a jejich publikace je možné propojit s daty o době jejich publikace:
+```{r eval=TRUE, echo=TRUE}
+
+# Spojení identifikovaných témat s roky jejich publikování (na základě metadat z digitální knihovny)
+
+  # Načtení JSON s metadaty čísel
+  file_name <- "combined_issues_publication_year.json" # předpokládá se, že soubor je ve stejné složce jako R script
+  json_file_path <- file_name
+  issues_publication_year_data <- fromJSON(json_file_path)
+  names(issues_publication_year_data)[1] <- "document" # přejmenuje se sloupec s uuid čísel tak, aby odpovídal sloupci v data framu document_to_topic, se kterou budou načtená data spojena
+  
+  # v data framu document_to_topic je potřeba upravit sloupec obsahující uuid čísla
+  for (q in 1:nrow(document_to_topic)){ # pro každý řádek
+    new_string <- paste0("uuid:",str_sub(document_to_topic$document[[q]], -40, -5)) #prefix "uuid:", substring najde uuid, předpokládá se, že název souboru končí .txt
+    document_to_topic$document[[q]] <- new_string
+  }
+
+  # spojení document_to_topic a načtených dat
+  document_to_topic_year_data <- merge(document_to_topic, issues_publication_year_data, by = "document", all = TRUE)
+
+  # Součet dokumentů věnujících se jednomu tématu
+  document_counts_per_year <- document_to_topic_year_data %>%
+    group_by(topic, volume_year, class) %>%
+    summarise(count = n(), .groups = 'drop')
+  
+  # konverze kvůli problémům při řazení při zobrazení v grafu
+  document_counts_per_year$volume_year <- as.character(document_counts_per_year$volume_year)
+  document_counts_per_year$topic <- as.factor(document_counts_per_year$topic)
+  document_counts_per_year$volume_year <- sub(" - .*", "", document_counts_per_year$volume_year)
+```
+
+
+Pro popis jednotlivých témat byla vytvořena funkce `getTopicOverview(topic_number)`, která zajistí vytvoření wordcloudu (`getTopicWorldCloud`), přehledu počtu vydaných svazků v jednotlivých letech sledovaného období (`getTopicOverYearsGraph`) a zjistí celkový počet svazků náležících tématu (`getTopicDocumentsSum`). 
+```{r eval=TRUE, echo=TRUE}
+#vytvoří wordcloud z nejfrekventovanějších slov tématu  
+getTopicWorldCloud <- function(topic_number){
+  word_topic_posterior <- posterior(topic_model)$terms[topic_number, ]
+  top_words_for_topicX <- head(sort(word_topic_posterior, decreasing = T), n=50)
+  wordcloud <- wordcloud(names(top_words_for_topicX), top_words_for_topicX)
+  return(wordcloud)
+}  
+
+#vytvoří graf ukazující počet dokumentů daného tématu vydaný v jednotlivých letech
+getTopicOverYearsGraph <- function(topic_number){
+  #přehled počtu dokumentů k danému tématu v jednotlivých letech
+  topic_filter <- filter(document_counts_per_year, document_counts_per_year$topic == topic_number)
+  all_years <- data.frame(volume_year = 1890:1910) # data frame s rozsahem 1890 to 1910
+  topic_filter$volume_year <- as.integer(as.character(topic_filter$volume_year)) # konverze volume_year z factor na integer v topic_filter
+  topic_filter_complete <- left_join(all_years, topic_filter, by = "volume_year")
+  topic_filter_complete$count[is.na(topic_filter_complete$count)] <- 0 #nahrazení NA nulou
+  
+  # graf
+  years_graph <- ggplot(topic_filter_complete, aes(x = volume_year, y = count, fill = class)) +
+    geom_bar(stat = "identity") +
+    theme_minimal() +
+    labs(x = "Roky", y = "Počet dokumentů") +
+    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+    scale_x_continuous(breaks = 1890:1910)
+    
+  return(years_graph)
+}  
+
+#Shrne počet dokumentů ve vybraném tématu
+getTopicDocumentsSum <- function(topic_number){
+  topic_filter_sum <- sum(filter(document_counts_per_year, document_counts_per_year$topic == topic_number)$count)
+  return(topic_filter_sum)
+}  
+
+# Vytvoření přehledu pro jednotlivé téma
+getTopicOverview <- function(topic_number){
+  
+  topic_filter_sum <- getTopicDocumentsSum(topic_number)
+  print(paste0("Počet dokumentů v tématu č.",topic_number," je ",topic_filter_sum))
+  
+  wordcloud <- getTopicWorldCloud(topic_number)
+  wordcloud
+
+  topic_over_years <- getTopicOverYearsGraph(topic_number)
+  topic_over_years
+}
+```
+
+### 3.1 Fyziologie rostlin a živočichů
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(1)
+```
+
+### 3.2 Nářečí
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(2)
+```
+
+### 3.3 Politické a sociální dějiny
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(3)
+```
+
+### 3.4 Bryologie (mechorosty)
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(4)
+```
+
+### 3.5 Sklářství
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(5)
+```
+
+### 3.6 Geometrie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(6)
+```
+
+### 3.7 Právo
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(7)
+```
+
+### 3.8 Cytologie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(8)
+```
+
+### 3.9 Fyzická geografie českých zemí a nářečí
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(9)
+```
+
+### 3.10 Fyzikální chemie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(10)
+```
+
+### 3.11 Matematická analýza
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(11)
+```
+
+### 3.12 Nervová a smyslová soustava
+
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(12)
+```
+
+### 3.13 Literární věda a jazykověda
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(13)
+```
+
+### 3.14 Patofyziologie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(14)
+```
+
+### 3.15 Syntax
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(15)
+```
+
+### 3.16 Filosofie a psychologie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(16)
+```
+
+### 3.17 Fonologie a daně
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(17)
+```
+
+### 3.18 Kulturní dějiny
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(18)
+```
+
+### 3.19 Fyziologické experimenty
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(19)
+```
+
+### 3.20 Anatomie kostí a kloubů
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(20)
+```
+
+### 3.21 Systémová analýza
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(21)
+```
+
+### 3.22 Chemické prvky a sloučeniny
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(22)
+```
+
+### 3.23 Fyziologie svalů
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(23)
+```
+
+### 3.24 Petrologie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(24)
+```
+
+### 3.25 Numismatika
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(25)
+```
+
+### 3.26 Elektrotechnika
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(26)
+```
+
+### 3.27 Geologie a archeologie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(27)
+```
+
+### 3.28 Horniny a kosmická tělesa
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(28)
+```
+
+### 3.29 Hmyz a morfologie rostlin
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(29)
+```
+
+### 3.30 Embryologie a anatomie orgánů
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(30)
+```
+
+### 3.31 Klinické příznaky a léčba nemocí
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(31)
+```
+
+### 3.32 Řečtí a římští klasici
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(32)
+```
+
+### 3.33 Geografie
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(33)
+```
+
+### 3.34 Umění, písemnictví a humanismus
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(34)
+```
+
+### 3.35 Staročeská a slovanská kultura
+
+```{r eval=TRUE, echo=TRUE}
+getTopicOverview(35)
+```
+
+
+
+## 4. Témata v kontextu
+
+Zobrazení sloupcových grafů pro nejfrekventovanější slova ve všech tématech:
+
+```{r topics_overview, eval=TRUE, echo=TRUE}
+word_topics_TOPterms <- word_topics %>%
+  mutate(topic = named_topics[topic]) %>% #pojmenování témat
+  group_by(topic) %>% # pro každé téma...
+  slice_max(beta, n = 10) %>% # ...10 nejpravděpodobnějších slov
+  ungroup() %>%
+  arrange(topic, -beta)
+
+word_topics_TOPterms %>%
+  mutate(term = reorder_within(term, beta, topic)) %>%
+  ggplot(aes(beta, term)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  theme(strip.text.x = element_text(size = 8)) +
+  labs(x = "Pravděpodobnost příslušnosti k tématu",
+         y = "Nejfrekventovanější slova") +
+  scale_y_reordered()
+```
+
+
+
+Graf ukazující počet dokumentů patřících k jednotlivým tématům:
+
+```{r document-topic_matrix_graph, eval=TRUE, echo=TRUE}
+document_to_topics_count <- document_to_topic %>%
+  mutate(topic = named_topics[topic]) %>% #pojmenování témat
+  group_by(topic) %>%
+  summarise(count = n(), .groups = 'drop')
+  
+  ggplot(document_to_topics_count, aes(x = factor(topic), y = count)) +
+    geom_bar(stat = "identity", fill="#12448B") +
+    theme_minimal() +
+    labs(x = "Téma",
+         y = "Počet dokumentů") +
+    theme(axis.text.x = element_text(angle = 70, hjust = 1)) 
+```
+
+```{r document-topic_matrix_graph2, eval=TRUE, echo=TRUE}
+# s rozdělením na třídy
+document_to_topics_count <- document_to_topic_year_data %>%
+  mutate(topic = named_topics[topic]) %>% #pojmenování témat
+  group_by(topic, class) %>%
+  summarise(count = n(), .groups = 'drop')
+  
+  ggplot(document_to_topics_count, aes(x = factor(topic), y = count, fill=class)) +
+    geom_bar(stat = "identity") +
+    theme_minimal() +
+    labs(x = "Téma",
+         y = "Počet dokumentů",
+         fill = "Třída") +
+    scale_fill_manual(values=c("#006837", "#A50026", "#3288BD"))+
+    theme(axis.text.x = element_text(angle = 80, hjust = 1)) #pro zvětšení písma lze použít: text=element_text(size=25) 
+```
+
+Jednotlivá témata byla klasifikována do obecnějších kategorií vycházející z klasifikace FORD a také vědních oblastí a sekcí, do kterých je v současnosti organizována Akademie věd ČR. 
+
+Načtení souboru s klasifikací:
+```{r read_xlsx_topic_classification, eval=TRUE, echo=TRUE}
+topic_classification <- read_excel("klasifikace_temat.xlsx")
+topic_classification
+```
+
+
+Graf ukazující počet dokumentů patřících k jednotlivým sekcím vědních oblastí AV ČR:
+
+```{r document-topic_science_field, eval=TRUE, echo=TRUE}
+topic_classification_sections <- topic_classification %>%
+  filter(`Oblast vědy` != "NA") %>%
+  group_by(`Sekce vědy`, `Oblast vědy`) %>%
+  summarise(`počet svazků` = sum(`počet svazků`, na.rm = TRUE), .groups = 'drop')
+
+topic_classification_Ford_2nd_Level <- topic_classification %>%
+  group_by(topic_classification[7], topic_classification[10]) %>%
+  summarise(`počet svazků` = sum(`počet svazků`, na.rm = TRUE), .groups = 'drop')
+
+ggplot(topic_classification_sections, aes(x = `Sekce vědy`, y = `počet svazků`, fill = `Oblast vědy`)) +
+  geom_bar(stat = "identity", position = "stack") +
+  theme_minimal() +
+  labs(x = "Sekce vědních oblasti",
+       y = "Počet dokumentů",
+       fill = "Oblast vědy") +
+  scale_fill_manual(values=c("#5a1628", "gray", "#12448B", "#005417"))+
+  theme(axis.text.x = element_text(angle = 70, hjust = 1, size = rel(1.6)))
+```
+
+
+Graf ukazující počet dokumentů patřících k jednotlivým oborovým skupinám FORD:
+```{r eval=TRUE, eval=TRUE, echo=TRUE}
+ggplot(topic_classification_Ford_2nd_Level, aes(x = `FORD Broad FULL`, y = `počet svazků`, fill = `FORD 2Lvl`)) +
+  geom_bar(stat = "identity", position = "stack") +
+  theme_minimal() +
+  labs(x = "Oborové skupiny FORD",
+       y = "Počet dokumentů",
+       fill = "Vědní obory FORD") +
+  scale_fill_manual(values=c("#A50026", "#D73027", "#F46D43", "#FDAE61", "#FEE08B", "#5E4FA2", "#D9EF8B", "#A6D96A", "#66BD63", "#1A9850", "#006837", "#3288BD"))+
+  theme(axis.text.x = element_text(angle = 70, hjust = 1)) #pro zvětšení textu: text=element_text(size=25)
+```
+
+
+Rozložení jednotlivých témat v čase
+
+```{r topic_over_time, eval=TRUE, echo=TRUE}
+document_counts_per_year_graph <- document_counts_per_year %>%
+  mutate(topic = named_topics[topic]) %>% #pojmenování témat
+  filter(topic != "17: Fonologie a daně") %>% # exclude the unwanted topic
+  filter(topic != "34: Humanismus a umění") %>% # exclude the unwanted topic
+  group_by(topic, volume_year) %>%
+  summarise(count = sum(count), .groups = 'drop')
+  
+document_counts_per_year_bar <- ggplot(document_counts_per_year_graph, aes(x = volume_year, y = count, fill=topic)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+    labs(x = "Roky",
+       y = "Počet dokumentů",
+       fill = "Téma") +
+  theme(axis.text.x = element_text(angle = 70, hjust = 1)) 
+
+document_counts_per_year_facet <- ggplot(document_counts_per_year_graph, aes(x = volume_year, y = count, fill=topic)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  facet_wrap(~ topic, scales = 'free_y') +
+    labs(x = "Roky",
+       y = "Počet dokumentů",
+       fill = "Téma") +
+  theme(axis.text.x = element_text(angle = 70, hjust = 1))
+
+ggplot(document_counts_per_year_graph, aes(x = volume_year, y = fct_rev(topic), fill = count)) +
+  geom_tile() + 
+  scale_fill_gradient(low = "#12448B", high = "red") +
+  theme_minimal() +
+  labs(x = "Roky", y = "Téma", fill = "Počet dokumentů") +
+  theme(axis.text.x = element_text(angle = 70, hjust = 1)) # zvětšení textu: text=element_text(size=25)
+axis.title.x = element_text()
+```

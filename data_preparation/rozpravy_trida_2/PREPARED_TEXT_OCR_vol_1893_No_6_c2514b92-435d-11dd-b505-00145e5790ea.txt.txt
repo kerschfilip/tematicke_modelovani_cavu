@@ -1,0 +1,353 @@
+"","x"
+"1"," ﻿ROZPRAVY
+
+
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEEA PRO VĚDY, SLOVESNOST UMĚNÍ PRAZE.
+
+
+ROČNÍK II.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+DŮKAZ OBECNĚJŠÍ VĚTY
+
+
+lEZEIt
+
+
+""i
+
+
+••	-	íl b	H
+
+
+PODÁVÁ
+
+
+DR- ANT. PLESKOT,
+
+
+PROFESSOR GYMNASIU PLZNI
+
+
+
+
+
+PEDLOENO DNE JNA 185)2
+
+
+
+
+
+PRAZE.
+
+
+NÁKLADEM ČESKÉ AKADEMIK CÍSAŘE FRANTIŠKA JOSEFA
+
+
+FKO VĚDY, SLOVESNOST UMĚNÍ.
+
+
+1893. P»<A/B. úvaze své použijeme následujících dvou vět:
+
+
+rc) Jsou-li /•'(#) (x) funkce, které intervallu ...li] nestávají nekonečnými je-li /'""(x) tomto intervallu funkcí spojitou i// (x) funkcí integrace schopnou, jež své znamení tomto intervallu nemění, pak platí:
+
+
+
+
+
+F(x) (z)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jsou-li <7, (t„, a.A ti,, veličiny vesměs stejného označení blb„,b^...bn libovolné veličiny, pak platí:
+
+
+kdež /nací jakousi střední hodnotu, která jest větší než nejmenší veličin ... zároveň menší než největší těchže veličin /;, /;2
+
+
+Nechť jsou nyní /""'(#) (a?) dvě funkce, které intervallu a...b nestávají nikde nekonečnými. Obě mohou míti tomto intervallu určitý počet konečných průtrží. I1~(x) předpokládejme, intervallu jen roste zůstává positivní, funkce (#) budiž taková, nemá intervallu ... nekonečný počet míst, nichž-by procházela hodnoty positivní negativní.
+
+
+Vyhovují-li F(x] ty(x) těmto podmínkám, pak jest možno intervall a...b rozděliti určitý počet intervallu, nichž každém /•*(/) jest funkcí spojitou i/' (x) své znamení nemění. Nechť jsou tyto intervally atv f,ř(2 ..#„_!/>. Poslední intervall rozdělme intervally dva i*n ř»^« Poloha mezi f„_i budiž prozatím libovolná.
+
+
+Pro každý intervall můžeme užiti věty a), čímž obdržíme:
+
+
+F(x) (x) -f- (řt
+
+
+VI.
+
+
+(x) i/' (x)
+
+
+
+
+
+II-
+
+
+
+
+
+n-l
+
+
+kdež tfx
+
+
+Nahradímc-li pravé straně posledních relacích rozdílem
+
+
+promění následující:
+
+
+/•""(.r)
+
+
+-f- //j (ř,
+
+
+(a?)
+
+
+,/• -i/
+
+
+
+
+
+
+
+
+/'""(a)
+
+
+=*•(«.+
+
+
+
+
+
+ř„)
+
+
+
+
+
+Sečtením těchto rovnic obdržíme
+
+
+(x)
+
+
+-\- (ř, ř/)J
+
+
+(a?)
+
+
+
+
+
+
+
+
+(a;)
+
+
+(a?)
+
+
+
+
+
+...o)
+
+
+(*, C'')
+
+
+'\> (*2
+
+
+VI. ﻿Na pravé straně této rovnice jest součet součinů, každý činitelů
+
+
+jest positivní, neboť (x) intervallu a...b jen roste. Podobně činitel /'""(« -j- (f, rt)) jest positivní, neboť F(x) jest intervallu positivní. Můžeme tudíž součet hořejší applikovati větu /?), čímž obdržíme
+
+
+
+
+
+(x)dx F(in *,$)
+
+
+kdež značí jakousi hodnotu, ležící mezi největší nejmenší hodnotou integrálů
+
+
+
+
+
+}ty(x)dx \y(x)dx
+
+
+
+
+
+
+
+
+""'
+
+
+
+
+
+
+
+
+Poněvadž ale it>(x) jest funkce integrace schopná \y(x)dx tudíž spojit
+
+
+
+
+
+funkcí argumentu lze hodnotu vyjádřiti následovně:
+
+
+
+
+
+
+
+
+
+
+
+kdež
+
+
+Rovnice (1°) nabude pak tvaru
+
+
+
+
+
+
+
+
+ř;/
+
+
+
+
+
+tohoto vzorce snadno vyvineme větu všeobecnější.
+
+
+Budiž f(x) funkce, která může býti positivní buď negativní nechť vyhovuje všem ostatním podmínkám jako F(x), tedy té, intervallu ...b stále roste.
+
+
+Pak můžeme funkci
+
+
+applikovati větu (1), čímž obdržíme
+
+
+[/W
+
+
+
+
+
+
+
+
+
+
+
+čili krátké redukci
+
+
+=/(/i)
+
+
+kdež *<;$<*„
+
+
+
+
+
+
+
+
+VI.
+
+
+Docela stejné relaci bychom dospěli, kdybychom f(x) předpokládali, intcrvallu stále menší, při čemž muže býti buď positivní neb negativní sice applikováním věty (1)
+
+
+Platí tudíž rovnice (2) f(x] která může býti buď positivní neb negativní, jen když intervallu 1)) stále roste, neb menší, při čemž všem ostatním podmínkám jako F(x) vyhovuje.
+
+
+Věta (2) jest obecnějším případem známé druhé střední věty. Poloha jest totiž posledním intervallu, kterém f(x) jest spojitou ty(x) své znamení nemění, docela libovolná. Volme tudíž lim <-„
+
+
+relace (2) pak plyne druhá střední věta
+
+
+\f(.r} it> (x) /(*) (x) +f(ff) (x)
+
+
+
+
+
+Je-li f(x) celém intervallu spojitou vůbec tomto intervallu
+
+
+znamení nemění, pak jest poloha *,, celém intervallu docela libovolná; volme tudíž lim
+
+
+Jelikož tomto případě plyne relace (2) následující
+
+
+
+
+
+
+
+
+f(x) (x) =f(a-\- a)) (x)
+
+
+
+
+
+
+
+
+kteráž značí prvou střední vetu.
+
+
+VI."

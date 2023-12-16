@@ -1,0 +1,155 @@
+"","x"
+"1"," ﻿ROČNÍK XVII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 11.
+
+
+Nový technický přistroj měření induktivních koefficientů.
+
+
+(Se obrazci textu. Podává
+
+
+inž. Adolf Šubrt
+
+
+elektrotechnického ústavu české vysoké školy technické Praze.)
+
+
+Předloženo dne 21. února 1908.
+
+
+Stávající methody měření induktivních koefficientů pro praktického elektrotechnika mají nevýhodu, vyžadují značně času hlavně pak laboratoře dobře zařízené. praxi elektrotechnické bývá však často třeba určiti tyto pro obvod proudu střídavého tak důležité faktory rychle, prostředky minimálními přece však přesností dostatečnou. Pojal jsem tudíž myšlenku konstruovati apparát technický, který stupnici direktně udával induktivní koefficienty, podobně jako voltmetry, amper-metry atd. udávají příslušné hodnoty. Theoretický podklad zařízení apparátu tohoto dovoluji pak dalším podati.
+
+
+Budtež (obr. 1.) dva odpory induktivn vepnuté obvod proudu střídavého, tak jimi prochází určitá intensita střídavá, jejíž effektivní hodnota budiž Pro jednoduchost předpokládejme jednoduchou změnu sinusovou úvahu proveďme hodnotami effektivními. koncové body tě:hto odporu induktivních zapnuty jsou cívky poměrně značném neinduktivním odporu, sobě kolmé otáčivé kol společné osy homogenním magnetickém poli střídavém periodě souhlasné periodou proudu odporech fasi proti intensitě 110; pošmuté.
+
+
+Uvažujme nejprve induktivní odpor příslušnou němu připojenou chku Cívkou bude procházeti intensita úměrná napětí bodech I). Napětí toto pozůstává příslušného napětí ohmového napětí induktivního /., kdež /•, ohmový odpor, kocfficicnt samo-indukce cívky úhlovou rychlost předkládané změny sinusové značí.
+
+
+pra vy: Koř. XVII. Tiíd.i II. 11. ﻿Tato napětí nedají se, jak známo, arithmeticky sčítat jsouce fasi 90° pošinuta, dají ale sčítat momenty otáčivé, jež vyvodí intensity napětím těmto úměrné, cívkou procházející magnetickém poli uvedeném, jehož effektivní intensitu označme Pak moment napětí ohmového, které jest fasi souhlasné intensitou tedy kolmé fasi předpokládaného pole magnetického, dán jest výrazem
+
+
+cos «', cos í>0°,
+
+
+				N		
+
+
+		/				
+
+
+		T			\	
+
+
+						
+
+
+a	A Mfinnn	b	i	C	L (\(](\(\M	j
+
+
+kdež konstanta, níž zahrnut počet výška závitu cívky jich rameno ose otáčení odpor cívky, úhel, jejž svírá právě cívka směrem pole magnetického. Jak patrno, jest
+
+
+
+
+
+Moment napětí induktivního, které fasi kolmé intensitu tedy souhlasné fasi předpokládaného pole magnetického, dán výrazem
+
+
+cos Z., cos cos
+
+
+kdež význam jednotlivých veličin znám. Stejnou úvahou obdržíme, výslední moment, jejž vyvodí intensita působením napětí bodech cívkou procházející, dán výrazem
+
+
+«., sin
+
+
+Jsou-li cívky opačně vinuty, pak otáčivé momenty tyto působí proti sobě celý otáčivý systém, který nemá žádné síly direktivní, ustálí poloze, níž oba momenty jsou rovny, tedy
+
+
+cos Lvi x.2 sin L.2 Xí.
+
+
+toho plyne, pro případ nastalé rovnováhy
+
+
+L.2 L.y
+
+
+Jsou-li rozměry počty zavitu cívek stejné, pak x2. přijdeme výslední relaci
+
+
+
+
+
+Jc-ii známý induktivní koefficient je-li osou otáčení spojena ručka, jež stupn.ci odečítat úhly možno jakýkoli neznámý induktivní koefficient známého L., odečteného úhlu určiti. Samo-sebou dále rozumí, pro technický apparát budou stupnici místo úhlu zaneseny direktně příslušné hodnoty L., tak měřené induktivní koefficienty dají direktně příslušných jedničkách odečítat.
+
+
+Tím celá věc byla rozřešena ovšem supposice, magnetické pole předpokládané fasi kolmé intensitu cívkami procházející; zbývá tedy ještě rozřešiti otázku tuto. tomu cíli použito známého můstkového spojení obr. naznačeného, jež vepnuto uve-
+
+
+obr.
+
+
+děný dříve obvod proudu střídavého, takže intenista celková prošedši induktivními odpory .4, vchází dále rozvětvení II, III, IV, kterém III jsou odpory neinduktivní II, odpory induktivní. Náležitou volbou těchto odporu docílit, intensita můstkem procházející tedy pole magnetické, jež tvoří, fasi kolmé intensitu celkovou tomu tak jest, dovozem) dalším.
+
+
+Budiž 0.4 vektor celkové intensity (obr. :}.), tato bodě dělí intensity in, naznačené vektory ()C OD\ táž intensita celková/ ale bodě skládá intensit iin //r, jichž vektory budtež ()I\ Vektory intensit i,,, ilu iv, sbíhajících uzlovém bodě />, musí býti trojúhelníku, jest tudíž intensita můstku dána vektorem ED.
+
+
+XI. ﻿Tutéž intensitu obdržíme intensit ilv bodě 11, jak patrno jest skutečně rovnoběžno rovno ED. Mění-li odpory jednotlivých větvích stačí př. měnit jen odpory ohmové mění intensity těchto větvích tím poloha bodu patrno, při určité hodnotě těchto odporů vektor intensity můstkem procházející El) bude kolmý vektor intensity celkové, tedy pole magnetické, jež intensitr, můstkem procházející tvoří pokud ovšem prostředím jeho látka bez hysterese bude lasi kolmé intensitu celkovou.
+
+
+Pro úplnost zakresleny obr. .'$. též vektory příslušných napětí. Napětí ohmové bodech ;;/ jest fasi příslušnou intensitou if, dáno tudíž vektorem OH, budiž vektor napětí větvi induktivní ;///>, pak
+
+
+obr.
+
+
+
+
+
+jest vektor napětí můstku ///>. Napětí toto předbíhá příslušnou intensitu úhel t/>. témuž výsledku dospějeme, vycházíme-li druhé strany mustkového spojení. Ohmové napětí větvi III jest opět fasi příslušnou intensitou dáno př. vektorem OK, induktivní napětí větvi dáno vektorem OL, jest pak vektor napětí bodech ///>. Jak patrno, musí být rovnoběžno rovno LK. hodnot již uvedených možno dále určiti vektor napětí bodech ;;/ složíme-li výslednici OM, značí tato vektor napětí Tutéž hodnotu dostaneme ovšem jakožto výslednici napětí větvích daných vektory OL. jednotlivým vektorům zaneseny jsou obr. .'5 též číselné hodnoty určitém případě skutečně naměřené.
+
+
+principu zde uvedeném zhotoven byl mechanické dílně elektrotechnického ústavu české vysoké školy technické apparát, jehož fotografický snímek podává obr.
+
+
+XI. něm jsou cívky sobě kolmé otáčivé kolem společně osy, každá nich 200 závitu jemného měděného drátu odpor každé doplněn předraženým neinduktivním odporem hodnotu 1-~>00 L1. jsou cívky dvě, jež vepnuty jsouce mustkovém spojení body ;?/>, tvoří homogenní, magnetické pole střídavé fasi kolmé intensitu proudu hlavního. Odpory, tvořící ostatní větve můstku jakož srovnávací odpor
+
+
+Obr.
+
+
+induktivní dají při vhodné 10;mě dobře umístit druhé stejně veliké skříňce, tak cely apparát pozůstává skříněk dvou, obsahujících vše, čeho okamžitému měření zapotřebí.
+
+
+Jak výše uvedené theorie apparátu patrno, jest theoreticky možno jedním srovnávacím induktivním koeíficientem jedinou stupnicí měřiti hodnoty induktivních koefficientu ježto výraz L.2tg<c při směně ÍH)° nabývá hodnot Ukázalo však, prakticky možno měřiti hodnoty Okřát menší hodnoty Okřát větší nežli použitý srovnávací induktivní koefťicient. Tak apparát ústavu elektrotechnického poskytuje možnost měřiti induktivní koefficienty
+
+
+XI.
+
+
+0'0005 0'12 Henry při právě voleném normálu. Použitím jiného normálu možno ovšem rozsah stupnice libovolně měniti.
+
+
+Cejchování apparátu možno provésti bud pomocí známých induktivních koefficientů nebo též pomocí proudu stejnosměrného tím způsobem, jednu otáčivých cívek zapneme konstantní napětí stejnosměrné; zapínáme-li pak druhou cívku napětí proměnlivá, dostaneme odchylby odpovídající induktivním koefficientum, jež jsou srovnávacímu induktivnímu koefficientů témž poměru jako příslušná napětí proměnlivá napětí konstantnímu.
+
+
+Správnost fase užitého magnetického pole každé době jednoduchým způsobem kontrolovati. Některému srovnávaných induktivních odporů předepneme odpor neinduktivní, měníme-li pak hodnotu tohoto odporu zůstává-li odchylka apparátu konstantní, máme důkaz, magnetické pole skutečně fasi kolmé intensitu hlavního obvodu. Nebylo-li tomu tak, pak možno jednoduše změnou ohmových odporu můstkovém spojení fasi magnetického pole korrigovati.
+
+
+Posléze dovoluji podotknouti, téhož apparátu dalo použíti též měření kapacit. Pro dovození správnosti tohoto tvrzení třeba jenom výše uvedené theorii apparátu analogicky dosazovati
+
+
+—-. Konstruktivné poměry apparátu musely býti ovšem poněkud
+
+
+jiné novému účeli přiměřené."

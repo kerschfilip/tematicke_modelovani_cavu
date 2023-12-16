@@ -1,0 +1,2018 @@
+"","x"
+"1"," ﻿ROČNÍK XVI.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+jednom rozvoji pro algebraické formy.
+
+
+Napsal
+
+
+Petr.
+
+
+(Předloženo dne 15. března 1907.)
+
+
+Jak známo, jest jednou nejdůležitějších pomůcek při theorii forem binárních rozvoj Clebsch-Gordanův. dokázal, podobné rozvoje existují při formách w-árních.*) Při odvození svých rozvojů vychází Capelli operace polár používá zejména vyjádření známé Cayley-ovy operace pomocí polárních operací.
+
+
+Při nahrazení operace operacemi polárními jisté jednoduché vlastnosti, které přísluší této operaci, zakrývají domníval jsem se, toto nahrazení (ač při jiných úkolech může býti jest velice užitečno) tomto případě stěžuje spíše řešení, pokoušel jsem bez pomoci tohoto nahrazení Capelliovy výsledky odvoditi. Při tom podařilo nalézti formuli úplně hotovou dosti jednoduchou, jež pro formy m-řadách w-árních proměnných totéž jest, rozvoj Clebsch-Gordanův pro binární formy dvou řadách kterážto formule shoduje podstatných věcech rozvojem, kterému dospěl Deruyts základě své theorie algebraických forem. **) Rozdílno obou rozvojích jest hlavně, Deruyts
+
+
+Viz Cap elli, Sur les opérations dans theorie děs formes algébriques, Math. Annalen, sv. 37, str. Později zjednodušil Capelli vývody své zejména pojednání Nuova dimonstrazione dél theorema sullo sviluppo per polari etc. Rcndiconti della Accad. dei Lincei 1892. str. Jiné důkazy podali Deruyts Essai ďune theorie generále děs formes algébriques, Mémoires société royale děs se. Liěge, sér. 17. svaz. 1892) Young quantita-tivc substitutional analysis, Proceedings the London math. society, sv. XXXIII. str. 97. rok 1901.
+
+
+**) Deruyts, Sur développemeut certaines fonctions algébriques. Mémoires 1'Académie royale Belgique 49. (rok 1890—1893.).
+
+
+Rozpravy: Roč. XVII. Tř. II.
+
+
+VII. ﻿nepodává výpočet numerických součinitelů neužívá pomocné řady proměnných. Tento druhý rozdíl jest však jenom zdánlivý, jak seznáme snadno, uvědomí me-li předpisy, jakých třeba jest zachovávati při provádění derivačních operací jeho formulí. Koefficienty pak rozvoji Deruytsově lze bez potíží vypočísti použitím věty odstavce této práce; provedeme-li tento počet, dostaneme pro numerické součinitele tytéž hodnoty, jež jsou str. 16. uvedeny. Podávám následujícím důkaz zmíněné formule, při čemž vycházím vět elementárních sledu derivací provádím tomto základě důkazy všech vět, jež potřebuji.
+
+
+
+
+
+následujícím budu úvahu bráti formy několika řad w-árních proměnných. Různé proměnné téže řady označovati budu indexy dole připojenými, různé řady proměnných pak indexy nahoře psanými. Tak značiti bude př. (x(l)] řadu proměnných, jež skládá w-proměnných
+
+
+(1) (1) (1)
+
+
+*""
+
+
+
+
+
+Nejprve dokáži tuto větu:
+
+
+Věta Provedeme-li Cayleyovu operaci součin (*<!>, *<2>, .*<»>) F(*«l>, x&, .*<"">), kde formaF^w, .*<»>) řad proměnných (x(v (x(n'>} není identicky rovna nulle, dostaneme výsledek formu, jež není identicky rovna nulle.*)
+
+
+Operace jest dána symbolicky determinantem
+
+
+(1)
+
+
+
+
+
+a	a
+
+
+V1	> *2<« *„<D
+
+
+a	a
+
+
+a*!<2	' *2<2> Xnw
+
+
+a	a
+
+
+3^""	' a*2<»>' 3*„<"">
+
+
+Při tomto symbolickém vyjádření zastupuje součin dvou derivačních symbolů sled dvou derivací, platí tento pro následující důležitý vztah:
+
+
+
+
+
+3a3~F
+
+
+Symbolické toto vyjádření jest odůvodněno tím, pro sledy derivací platí tytéž základní zákony jako pro součiny čísel (associativita, distrib.).
+
+
+Capelli, str. 23. Capelli podává důkaz vety této, kterou označuje jako fundamentální pro svoji theorii, úplnou indukcí.
+
+
+VIL ﻿Ve větě svrchu uvedené mimo jest
+
+
+x^, X,'1', *i(2), *2(2),	r (l) -*n <2>
+
+
+*!<»>, x2(n), .	. *<»>
+
+
+Abychom větu dokázali, roznásobme (x(1), x(Z\ x(n))F Dostaneme
+
+
+kde jest forma týchž proměnných řad každé nich stupně jednu vyššího. Forma jest současně nully rozdílná.
+
+
+Provedme nejprve (x(l), #(2), x(n}) (x(l), x{n)) operaci potom operaci
+
+
+
+
+
+
+
+
+'.....
+
+
+(n)
+
+
+kteroužto operaci obdržíme píšeme-li místo proměnných (#(1)), (x(2}), ...
+
+
+
+
+
+derivační symboly -^——- -^—— ... zaměníme-li zároveň koeffi-v x^l) x(Z>
+
+
+cienty formy (připouš tíme-li pro čísla komplexní), čísla komplexní
+
+
+sdružená. Sled těchto dvou operací jest ekvivalentní operaci 3*°(-~—ňp
+
+
+———- kde jest témž vztahu jako Avšak
+
+
+
+
+
+(2)
+
+
+(i)
+
+
+kde jsou koefficienty, jimiž jsou násobeny jednotlivé součiny proměnných x(*}ftl x%}ft' %(^n......X^TH vyskytující jsou kladné
+
+
+numerické koefficienty (součiny faktoriell). Součet pravé straně (2) jest však jenom tenkráte rovný nulle, když všecka jsou rovna nulle; když jest identicky rovno nulle. Provedeme-li tudíž součin (je(1), %<2>,.. .x(n)) (x(1} x(n)] pouze operaci íi, dostaneme výraz, jenž jistě není identicky rovný nulle, není-li identicky rovno nulle.
+
+
+Abychom větu právě dokázanou poněkud zevšeobecnili, označme (;'*) kombinace w-té třídy čísel při tom jest
+
+
+Značiž př. (/) tuto kombinaci pišme
+
+
+VIL ﻿(3)
+
+
+#(.m)
+
+
+
+
+
+obdobný význam nechť determinant (#(1), #(2), #(m))(;> Tak lze vysloviti tuto větu:
+
+
+Věta II. Provedeme-li všecky operace &(jk)',
+
+
+T""
+
+
+
+
+
+\mj
+
+
+5T1 /^j
+
+
+A;*) \m)
+
+
+dostaneme, není-li tento výraz identicky rovný nulle, výsledky formy, jež nejsou všecky identicky rovny nulle.
+
+
+Důkaz této věty jest přesně týž jako věty předcházející jest zby-tečno jej dopodrobna prováděti.
+
+
+II.
+
+
+Značme pro stručnost dle Capelliho
+
+
+l,\\
+
+
+(*)
+
+
+
+
+
+Pak můžeme dokázati tyto věty:
+
+
+Věta III. Jsou-li pro formu (x(l\ x(n)] platný vztahy
+
+
+Dlt =0, Dlt
+
+
+jest (x(l\ x(n)) bud dělitelná determinantem (#(1), ^(2), x(n)) anebo jes.t nezávislá (x(l)).
+
+
+Neboť poučky Eulerovy homogenních formách základě větou daných vztahů ihned lze psáti
+
+
+
+
+
+
+
+
+XlW
+
+
+
+
+
+•^2
+
+
+
+
+
+
+
+
+.(2)
+
+
+
+
+
+VII.
+
+
+(n)
+
+
+značí stupeň formy (xll) (x(l)).
+
+
+Závisí-li (x(l}, řady (#(1)), jest jistě jedna derivací
+
+
+
+
+
+TTT nully různo. Násobme rovnice
+
+
+
+
+
+nully různá; budiž př.
+
+
+právě napsané minory determinantu (#(1>, #(2>, #("">) patřící elementům prvního sloupce; bucftež tyto minory ctk.i, =1, ... dostaneme snadno
+
+
+(5)
+
+
+«i>
+
+
+čehož ihned (se zřetelem irreducibilitě determinantu (x^, x&, x^)) následuje uvedené tvrzení.
+
+
+rovnice (5) plyne snadnou úvahou, větu III. lze určitěji vysloviti též takto:
+
+
+Věta lil.' Jsou-li pro formu (xtv, x^, x^) platný vztahy
+
+
+L>i,2/ =0, D1|3/ ..... Z)1n/=0,
+
+
+buď lze formu psáti tvaru
+
+
+xW, xM)i (xW, %(»)),
+
+
+kde (x®) x^) nezávisí řadě (x^), anebo jest forma identicky rovna nulle.
+
+
+Věta IV. Jestliže pro formu (#(1) x(m)) jsou platný vztahy
+
+
+L>i,?/=0, Dvt/==0,... D1,mf=0
+
+
+jestliže zároveň m>n, jest forma f(x^,...x^) buď identicky rovna nulle anebo aspoň nezávislá (#(1)).
+
+
+rovnic větou daných následuje ihned, jsou vesměs
+
+
+identicky rovny nulle, čehož tvrzení vytčené vyplývá. Věta Jestliže pro formu (#(1) x^) jsou platný vztahy
+
+
+Li,2/=0, Z)i(3/=0,... Z)1>w/=0, m<n
+
+
+jestliže mimo &(/ft) /=0 pro všecky kombinac e(;\), jest forma/ (x(v, #(m)) buo! identicky rovna nulle anebo aspoň nezávislá
+
+
+VII. ﻿Dosaďme, abychom dokázali, (x(l), #(""•)) dle rovnic
+
+
+r<ť) y<») r('> -4- -l- r(*>
+
+
+**l, ^2, •*-»», -^wt
+
+
+(6)
+
+
+.....
+
+
+kde Lrs jsou neurčité konstanty. Pak stane forma (x(l), x&\ x{m})
+
+
+formou řad proměnných (x(1)), (*(2)), (x{m)) w-árních, jež není identicky rovna nulle, není-li (x(l\ x(m)) rovno nulle, jakož chceme předpokládati. Označme
+
+
+jest patrně následkem (6)
+
+
+3/+
+
+
+w+l
+
+
+čehož snadno
+
+
+tudíž dle předpokladů větou daných identicky
+
+
+L>i>2/+ =0, 1>8/ ..... A.«/+ tedy dle věty III.
+
+
+(*<i>, %<2>, XW] (xw, xW)
+
+
+vzhledem větě nenííim identicky rovno nulle. Při tom jest
+
+
+xf, xf\
+
+
+X^, X2W,
+
+
+(m) x(m)
+
+
+
+
+
+
+
+
+Avšak snadno lze uzavírati,
+
+
+=1,
+
+
+kde c(/ft) jsou racionálně celistvé funkce neurčitých parametrů Sf,.*)
+
+
+Kdybychom provedli jenom jednu substituci př.
+
+
+r(t) (*) -4- r«) -l- IPQ r<«) «(•)
+
+
+<C2, -^2 l*' -^3 ....-)- ^w> Jí""^
+
+
+..... dostali bychom
+
+
+(1> 2., („, (l, Srn, (l,
+
+
+VIL ﻿Není-li tedy (#(1), #(w)) identicky rovna nulle závisí-li řadě (#(1))> nemohou výrazy &(j všecky býti rovny nulle, čehož věta vyplývá.
+
+
+III.
+
+
+odstavci tomto vyložím nejprve některá další označení. vůli symmetrii výsledků přibereme svých úvah nových pomocných řad proměnných (w-árních), jež znamenati budu (|(1)), (|(2)), (|(n)).
+
+
+Značiž pak (irk) jistou kombinaci r-té třídy čísel ... Kombinace tyto srovnáme pořadí libovolného; symbol uvedený značí pak řadě všecky možné kombinace r-té třídy prvých čísel přirozené řady,
+
+
+(/yy* Podobně nechť znamená (/L),
+
+
+%,...( )po řadě všecky různé kombinace r-íé třídy čísel
+
+
+....
+
+
+Zavedeme pak tuto operaci
+
+
+(7)
+
+
+•«-E©U *='•'•.....C)
+
+
+(ír\ ""l determinant sestavený způsobem, jejž netřeba
+
+
+podrobněji popisovati prvků matice
+
+
+(8)
+
+
+jež nacházejí řádcích určených kombinací (ty sloupcích daných
+
+
+kombinací (fk). Výraz pak zastupuje derivační operaci, kterou dostali
+
+
+němé vyjádřenou symbolicky pomocí determinantu, sestavíme-li tento determinant prvků nacházejících prvních řádcích sloupcích určených kombinací (ty matice
+
+
+
+
+
+(9)
+
+
+a*(«i
+
+
+™»t
+
+
+VIL ﻿Netřeba snad ani podotýkati, jedné určité kombinaci čísel (fa) jest pořádek čísel vždy týž, vztahuje příslušný symbol matici (8) nebo matici (9).
+
+
+Tak znamenati bude př. =1,
+
+
+9f\
+
+
+X,(2) (2>
+
+
+
+
+
+*1<4) *o<4)
+
+
+(2) (2)
+
+
+(4) (4)
+
+
+,(2) (2)
+
+
+1<4) *3(4)
+
+
+
+
+
+
+
+
+(2,
+
+
+
+
+
+Píšeme-li operaci (7) (i) místo |<*>, místo -^—, dosta-
+
+
+$/,
+
+
+němé derivační operaci, již označíme budeme tudíž psáti
+
+
+Při tom jsou .r} determinanty, jež jsou utvořeny způsob 1k' L^J
+
+
+patrným dle předcházejícího matice
+
+
+
+
+
+(U)
+
+
+matice
+
+
+(1)
+
+
+(12)
+
+
+
+
+
+
+
+
+Vztahují tedy symbolů (!•)>!•>(•)• Jež obsahují
+
+
+jednu značku kombinační, matici (9) resp. (11); pak, jež obsahují dvě značky kombinační, matice (8) (12). Symboly, jež jsou psány závorkou
+
+
+VII. ﻿hranatou, jsou determinanty derivačních symbolů, symboly pak, jež jsou psány závorkou kulatou, jsou determinanty proměnných.
+
+
+Operace jsou, jak známo, operace, které neruší invariantní vlastnosti forem, nichž jsou prováděny; plyne okolnosti, lze jednoduše vyjádřiti pomocí operací polárních.*)
+
+
+Operace jsou mezi sebou záměnný rovněž tak operace jakož přímo definicí těchto operací vyplývá.
+
+
+Pro skládání operací operací polár (4) platí některé věty, jichž následujícím třeba jichž odvození jest bez jakýchkoli potíží. Tak jest, jsou-li .... u', jiná čísla nežli (|) forma proměnných řad (|(1)), (|(2)) ..... nezávislá řadách (x1}, (x2), .....
+
+
+(Hz, (í)
+
+
+obecně (13)
+
+
+
+
+
+------
+
+
+12,«, v... '•"" «,»....' u', «'...'
+
+
+
+
+
+při tom jest součin operací kterých kombinace (i) buď obsahují anebo obsahují současně
+
+
+Podobně jest pro operaci je-li (x) formou proměnných řad
+
+
+Hl>UiVi_ F(x)
+
+
+
+
+
+obecně (14)
+
+
+rj* rjA'
+
+
+l,«, ť,... «,«,... 2,«',«',...
+
+
+U-1
+
+
+... u'. »',... M', ť'____
+
+
+Capelli, str. 16.
+
+
+77A'
+
+
+2,«,i>,... ""2, u',«',...
+
+
+VII.
+
+
+(*))
+
+
+(X)), ﻿10
+
+
+kde jest součin operací H(i}, kterých kombinace (i) bud neobsahují anebo obsahují současně Nezávisí-li fí* H*tt,jt/i. (DÍ2 F(x)} proměnných (x), jest patrně poslední člen pravé straně (14) rovný nulle.
+
+
+předpokladů konečně, vyplývají vět pomocných derivacích determinantů odvozených odstavci VI. věty pro následující rovněž potřebné. Jedinou kombinací w-té třídy čísel ... označíme (im), berouce př. této kombinace čísla při-
+
+
+(v\
+
+
+operace, již dostaneme H(i«*),
+
+
+dosadíme-li tam místo řad (|(1)), (|(2))> (l(wi)) řady parametrů (X(1)),
+
+
+(X\ operaci, již dostaneme H(f»),
+
+
+dosadíme-li tam místo řad proměnných (x(l)), (x(Z)), (x(m)) řady parametrů (X*1')
+
+
+Pak lze vysloviti tyto věty:
+
+
+(X\ výra
+
+
+
+
+
+
+
+
+•F(l).
+
+
+»-'.«.....(7).
+
+
+kde jp(|) jest forma proměnných řad (|(1)), (|(fw)) e-závislá (%(1)), .... (jc(m)), dostaneme proA,>0
+
+
+
+
+
+Při tom jest A/WÍ_I numerický koefficient závislý pouze číslech i'm—i, K\, .... kteráž jsou dána těmito součty
+
+
+Věta VIL Provedeme-li operaci 7/r. výraz
+
+
+
+
+
+kde (x) jest forma proměnných
+
+
+(x) závislá
+
+
+řad
+
+
+
+
+
+
+
+
+dostaneme při A>0
+
+
+=1,
+
+
+
+
+
+
+
+
+
+
+
+VII. ﻿11
+
+
+Při tom jest vm_l .... týž numerický koefficient jako větě předcházející. odstavci VI. dostáváme pro tento koefficient vztah
+
+
+A'm_1 A'M_2
+
+
+2,___w
+
+
+Pro ten případ konečně, kterýžto případ větách právě uvedených jest vyloučen, dostáváme výsledek
+
+
+/x\ sx\
+
+
+operace resp. obou případech kterážto okolnost pro druhý případ jest evidentní.
+
+
+Větu VII. lze ostatně rozšířiti případ, pak běží jednoduše provedení operace
+
+
+
+
+
+
+
+
+;(«),
+
+
+Fte),
+
+
+
+
+
+JL, *J,
+
+
+=1, Tw)
+
+
+\rj'
+
+
+tomto případě dávají činitelé součinu právě napsaného, jež odpovídají r=n součin
+
+
+kde jest jistá derivační operace sestávající sledů operací íi, již znadno každém jednotlivém případě lze udati; (|(1), |(n)) pak jest determinant elementů matice (11). Provedeme-li íi| výraz (15), dostaneme základě vět odst. VI.
+
+
+....«—
+
+
+(7).
+
+
+IV.
+
+
+Budiž F(x) forma řad proměnných (x{l]), (*(2)), (x(m)) w-árních. Stupeň této formy řadě (xw] značme pk', menší pak čísel znamenejme Pak máme větu:
+
+
+VII. ﻿12
+
+
+Pro formu (x) jest platný tento rozvoj (16) S**'?'*'*-*' '••
+
+
+
+
+
+Při tom jest A®[r=l, .....
+
+
+jedním řešení rovnic, jež dostaneme píšíce, výraz (16) jest stupně (x(k}), (forma Ft(t>) jest nezávislá (*<«), (%(2> .... (#<m)). Znaménko pak navšecka řešení těchto rovnic. Numerický součinitel <av(/( i/(/) 2/w jest
+
+
+/_i ...
+
+
+závislý číslech daných rovnicí
+
+
+<16'> i-»-yi« •-».«.•'•-(?):
+
+
+**""r-l,í. ......./.
+
+
+Forma (|) jest stanovena rovnicí (16"") ^(l)
+
+
+vůli snadnějšímu pochopení uvedu řadu (16) pro tomto případě netřeba užívati znaménka součinového; dostaneme tento tvar
+
+
+(17) (X)
+
+
+
+
+
+
+
+
+fí^?2. fl*U, rfs JíV fiV H^F, (í).
+
+
+1,2 2,3
+
+
+Při tom součet vztahuje všecka řešení rovnic
+
+
+_|_ J(<) ^«) _|_
+
+
+*1, Al, ™1»
+
+
+(17/) *Í?2,H Aí?2 ^2>
+
+
+^2,3+ *í?, ^3,
+
+
+Pro čísla pak A'W platí (17"") A'jp A(«2>3; A'W AW, Ag, ^8; 4'W
+
+
+Konečně forma (f) jest dána vztahem
+
+
+(17""')
+
+
+
+
+
+—AW ~AM -A<o —A(o _AW ~A(O —iw
+
+
+1,2,3 1,2 1.3 //2,3 H*l ř/A2 1,2, ""1,2 ""l,3 2,3, ""l
+
+
+VIL ﻿13
+
+
+Rozvoj (17) tom případě, jednoduché úpravě lze patrně (dle věty VII.) psáti tvaru
+
+
+kde
+
+
+(x)
+
+
+*1,2,3' ""l
+
+
+""l,2 1,3 2,3*
+
+
+
+
+
+ff)\ /O\ /í>\
+
+
+v-\Lt) /Y\*""'' ,(3) Y(3) y(3)
+
+
+
+
+
+.^(2) ^(Sn^l,
+
+
+Numerický součinitel &j,(/) souvisí zcela jednoduše součinitelem jest operace (1) pro Podobný tvar dostáváme případu
+
+
+obecném při m^n; obdržíme (16) rozvoj formy dle mocnin determinantů n-t stupně matice (8.).
+
+
+Důkaz věty provedeme úplnou indukcí. Seřadíme všecky formy dle celkových stupňů (x) formy téhož celkového stupně dle stupňů (#(1)) dokážeme, věta platí pro formu (x), platí-li pro formy menších celkových stupňů (x) pro formy téhož celkového stupně (x), avšak nižšího stupně (xW).
+
+
+Počet nutný, aby postup nestal něj asný následkem složitého označení, provedu částečně pouze předpokladu řadě (17.). Pravou stranu vztahu (17) označme pro okamžik (x) vypočtěme D12$ (x). Dostáváme dle (13) ihned řadu, jež místo členů příslušících určitým ^1,2,3, AI, 2,- obsahovati bude tyto členy (při tom vynechávám index součtový však vyznačovati budu Ft(L) obšírněji
+
+
+^•1, A!, A!, ""2, Ai, A-2,
+
+
+flj/ ""•
+
+
+jAl, rj^l, 3---- riA2> 3+1
+
+
+AI,2,3!.. .(au—
+
+
+,""•1, 1,2,3 1,2 ""1,3 -""2,3
+
+
+(18)
+
+
+flj'
+
+
+'i'
+
+
+(Ai —1)!A2!
+
+
+""l, Aj> /.2, AI, A2,
+
+
+yAl rrAi riAl ^1,2,3 ^1,2 ^1,3 H2,2
+
+
+i---l ^A2
+
+
+
+
+
+
+
+
+
+
+
+(2, A^a, A2(3, Al, Aa,
+
+
+VII. ﻿14
+
+
+těchto členů jest prvý (resp. druhý) položiti rovný nulle, když A1>3 (resp. když =0).
+
+
+Užijme nyní věty, již máme dokázati rozvoj formy Dít (x) (kterážto forma celkový stupeň týž jako (x), avšak stupeň (#(1)) jest jednu menší; pro takové formy naši větu jako správnou předpokládáme). Obdržíme řadu, jež skládati bude členů tvaru
+
+
+*•.,
+
+
+(19) při čemž jest
+
+
+,2, ř*l,
+
+
+
+
+
+1,2
+
+
+
+
+
+2,3
+
+
+1,2)
+
+
+*1, Pí, Pí, P2, Pí, P2,
+
+
+P'3
+
+
+Pí, Pí, Pí,
+
+
+Pí, Pí, P2, />2
+
+
+Pí, Pí, P2,
+
+
+ř«'2 /*!, í*l, ř*2, f*'l
+
+
+
+
+
+.(l,
+
+
+řtl.2,3. ř*l,
+
+
+
+
+
+l*l,
+
+
+Pl, 77ř*l, Třř*2, 7/í* #1, #2,
+
+
+Avšak použitím rovnice (14) dostáváme pro
+
+
+
+
+
+
+
+
+,2,3, ř*l,2, Pí, P2, /*! Pí, Pí, Pí, P2,
+
+
+
+
+
+*2,
+
+
+
+
+
+tento výraz
+
+
+členů tohoto výrazu jest vynechati prvý (po př. druhý), je-li fi^ (po př. (t2 =0). Dosadíme-lí tento výsledek (19) spořádáme-li řadu pro D12F (x) tak, seskupíme členy, jež obsahují tutéž
+
+
+
+
+
+^•1,2,3, ^1,2, ^1,3, ^2,3. ^1) AŽ, AS,
+
+
+shledáme, členy, obsahují shodují
+
+
+""•!, 'M, *l.ij ^-1,3. ""li ^2, ^3,
+
+
+úplně členy (18) pro všecky systémy hodnot Ai)2, Ai)2, jež vyhovují rovnicím 7'). Neboť rovnice
+
+
+ř*l, AI, ř*l, AI, f*l, AI; ^2, A2,3, A1;
+
+
+mají při f*2, jedno jen jedno řešení pro tom jest vždy naopak řešíme-li dle mají jedno, jen jedno řešení pro při tom jest vždy p2,
+
+
+VII. ﻿13
+
+
+Analogické tvrzení pak platí pro rovnice
+
+
+tedy
+
+
+AI, f*2 A2,
+
+
+Rozvoje tudíž pro Z)1( (#) pro Dlf (x) úplně shodují jest
+
+
+f*l, ^1, /*!, %1, ř*2, ^-2,
+
+
+při resp. při
+
+
+(x) Dlt (x)
+
+
+Obecně jest, označíme-li rozvoj (16) (x) předpokládáme-li větu správnou pro formy nižšího stupně (x(l)) než, jest (x)
+
+
+jest tedy, jestliže dle věty IV. (21) &(x)=F(x).
+
+
+Jestliže jsou členy rozvoje (16) tvaru
+
+
+<22> ""A- í,'
+
+
+m—1; ...
+
+
+kde
+
+
+2,___m— 2,___
+
+
+kde (iw) jest jediná kombinace m-tého řádu čísel ... .w.
+
+
+Pro vědmě rozvoj (16) operaci kde (X) jsou neurčité
+
+
+parametry; dostaneme ihned použitím vět VI. VII. členu (22), jestliže výraz
+
+
+>-T"" ------A -~- -ri""r y-« C.^
+
+
+<*!'r A'-cVr i^^./5r-Tr7#?*^ l^TT-^^/^K
+
+
+A,Am_1>...A1 Am_i Am_2 (A—1)! \r>s(AyjS!) (*,)/
+
+
+kde
+
+
+jestliže p?,k =0, dostáváme nullu. Součet těchto členů jest však rozvoj pro formu (x), je-li věta, již máme dokázati pro F(x), správnou
+
+
+pro formy nižšího celkového stupně nežli (x) stanovíme-li, mezi různých indexech platí vztah
+
+
+""řH «*M___1
+
+
+(23) rtj/ T;— c'2j/ ííi/
+
+
+w_i m.....A Am_i,.
+
+
+VII. ﻿16
+
+
+přistupuje pro rovnicím (20) další rovnice (*) H(XX)
+
+
+Poněvadž pak determinanty w-tého stupně matice
+
+
+X(1>
+
+
+**!
+
+
+X<2> »Ai
+
+
+jsou sobě lineárně nezávislý, lze užiti věty máme pro rovnici (21).
+
+
+tak jest důkaz věty proveden, předpokládáme-li platnou pro formy nižšího stupně (x) pro formy nižšího celkového stupně (x). Postupným snižováním stupně proměnné řadě (#(1)), převedeme formu jinou, jež závisí toliko m—l proměnných řadách takovýmto způsobem přijdeme formám pouze jedné proměnné řadě, pro kterou rozvoj (16) jest patrně platný, neboť redukuje vztah
+
+
+(23')
+
+
+
+
+
+
+
+
+Vyžaduje při tomto postupném snižování počtu proměnných řad další relace mezi «j/
+
+
+m—l
+
+
+(23"")
+
+
+
+
+
+m—l, m—2, ..-
+
+
+flir -tf
+
+
+m—l, m—z, ...
+
+
+Jest tedy věta správnou pro formy celkového stupně jestliže jest správnou pro formy celkového stupně nižšího než-li lze-li současně podmínkám (23), (22'), (23"") vyhověti. Poněvadž pak tyto podmínky určují úplně, nejsouce rozporu poněvadž, jak patrno,
+
+
+pro lze psáti rozvoj (x) tvaru (16) (při tom 1), jest důkaz úplně proveden.
+
+
+Pvo «j/ dostáváme současně tento výsledek
+
+
+
+
+
+ď\>
+
+
+
+
+
+A',!
+
+
+k=l r=l
+
+
+(m—l (A' =rt
+
+
+
+
+
+formách -Fť(|), jež vyskytují rozvoji právě dokázaném jež definovány jsou (16"") lze tvrditi nejprve, není možný lineární vztah
+
+
+VII. ﻿17
+
+
+mezi těmito formami, němž současně vyskytovaly formy různých 'i, A'/_i, •...., AVTo lze dokázati snadno různým způsobem. Mezi formami (|) týchž ,K\ mohou býti lineárně vztahy jsou tyto vztahy při obecných formách (x) jednoznačně přiřaděny vztahům mezi determinanty E(Q definovanými str. 22. Píšeme-li identity mezi deter-
+
+
+minanty Etjr\ místo členu
+
+
+
+
+
+
+
+
+7»*
+
+
+(ir\
+
+
+\""st
+
+
+formu
+
+
+dostaneme identitu naopak [při obecné formě (x)].
+
+
+Formy (L) jsou formy, jež závisí toliko řadách (|(1) (|(2) tímto jednoduchým způsobem. Označíme-li determinanty w-tého stupně prvků matice
+
+
+li"" .....	lf	
+
+
+L,....	(2)	
+
+
+
+
+
+......	M fcr*	
+
+
+... .11 můžeme dle výrazu pro Ft(§) tvrditi, (|) jsou formy řad proměnných (/>(1)), (p(2)í), •(/>(/))-
+
+
+(|) jsou invariantní útvary formy (x) každý invariantní útvar systému forem (|) jest též invariantním útvarem formy (x) naopak, jakož rozvoje dokázaného vyplývá. Podán tak současně důkaz věty poprvé Clebschem **) vyslovené dokázané, každá forma může nahrazena býti ekvivalentním systémem forem, nichž každá jest závislá toliko řadách (p(u}), 2t.....
+
+
+
+
+
+Jako příklad obecnému vzorci uvedu rozvoj, binárních forem několika řadách, př. třech řadách proměnných (xl9 #2), (yít y2), (z^, z2). máme operace
+
+
+Jestliže skládá řada (p(n)) toliko jediného členu, totiž determinantu tomto případě jest (|) součin mocniny tohoto determinantu formy, jež závisí toliko řadách (pW), (pW), (/>(""—J)).
+
+
+**) Clebsch, Ueber eine Fundamentalaufgabe der Invariantentheorie; Abhandl. der math. Klasse Ges. Wiss. Góttingen. Svazek XVII. str. 37. (rok 1872.).
+
+
+Rozpravv RoC VII Tř. II.
+
+
+VII. ﻿18
+
+
+/a2 «t. (*i g-|-
+
+
+
+
+
+Derivační operace [|, 17] lze provésti dle věty VII. (rozšířené pro pří-
+
+
+.__j __„2 __4
+
+
+pád výrazu H,1-2 HA*\l .... /C3 /(#,...) dostáváme
+
+
+
+
+
+krátké úpravě tento rozvoj (užívajíce poněkud jednoduššího označení pro exponenty)
+
+
+(x,
+
+
+
+
+
+""^
+
+
+kde
+
+
+
+
+
+Tří
+
+
+
+
+
+
+
+
+kde součet vztahuje všechny hodnoty (t, p', v', jež hoví rovnicím (p, jsou stupně formy (x, z):
+
+
+-\- -\- —q, |tí+v/=y. Pro numerický koefficient plyne (24') bezprostředně tento
+
+
+g'! («' l)2
+
+
+výraz
+
+
+..... jsou vlastně operace polární. Užijeme-li obvyklého označení polár, píšíce př.
+
+
+obdržíme tento rozvoj
+
+
+
+
+
+
+
+
+Tato formule platí téměř bez jakékoliv změny pro libovolný počet řad proměnných. tom případě, (x, závisí toliko dvou řadách, př. její stupeň (zv 23) jest redukuje rozvoj Clebsch-Gordanův.
+
+
+VI.
+
+
+Zbývá nám ještě dokázati několik pomocných vět derivování součinů determinantů, kterýchžto vět předcházejícím jsme použili.
+
+
+VII. ﻿19
+
+
+Označme tím účelem
+
+
+#1,
+
+
+^2,
+
+
+a\, #1,
+
+
+((m) x(m)
+
+
+
+
+
+
+
+
+,&*•'
+
+
+
+
+
+kde ans ____ ____ 6JJ ____ .... proměnných (x) nezávislé parametry. Dokážeme pak nejprve tuto větu:
+
+
+Věta Provedeme-li operaci ížw (str. rovnice (3)) výraz
+
+
+Jín^ki> k==l> ••••
+
+
+""*•< .... A,,
+
+
+dostaneme (přiA>0)
+
+
+..... Wl.xw.^-'jnA., j-» ..... ""-1-
+
+
+l(= *,...*«*,
+
+
+CA,AI,...,IW_I jest numerický součinitel závislý pouze AA, .... Aw_i ^4^ jest mino jenž přináleží e-terminantu^o subdeterminantu
+
+
+c(w)
+
+
+;'•
+
+
+x(m)
+
+
+
+
+
+VII. ﻿20
+
+
+Jestliže jest výsledek operace nulla, jakož bezprostředné patrno; neboť determinanty 4k,i nezávisí vůbec (*(1)).
+
+
+Správnost věty jest bezprostředně patrná pro tomto pří-
+
+
+
+
+
+pádě redukuje výraz operace A(y) derivaci-g—jjy- jest
+
+
+
+
+
+Větu tudíž dokážeme, dokážeme-li, jest platná pro w-řad proměnných, platí-li pro ten případ, &(7) obsahují toliko (m— řad proměnných. Předpokládejme tudíž platnost věty tom případě, běží řad proměnných rozložme operaci íiy) (vztahující w-řadám) dle věty analogické rozkladné větě Laplaceově; ozna-
+
+
+číme-li totiž minor patřící determinantu íiyj ku^ ,„, zkrátka mm,
+
+
+klademe-li př.
+
+
+a	a
+
+
+ai	;(1) 3*(1> 3*0)
+
+
+a	3
+
+
+a*	
+
+
+
+
+
+můžeme psáti iíi(7) tvaru tomto
+
+
+
+
+
+íž,., ""oT^^ »»»,
+
+
+2,-----m
+
+
+Napřed provedeme výraz operaci atmi což jest snadno základě věty předpokládané pro řad. Dostaneme
+
+
+J--1 ---- <,; .....
+
+
+při čemž jest «Wi minor patřící determinantu tomu subdeter-
+
+
+ITJ\
+
+
+(a) »„, (U) ct,
+
+
+minantu, jejž dostaneme <am, píšeme-li místo- TT-. výraze
+
+
+
+
+
+(a) vykonáme potom operaci dle známého pravidla derivaci sou-
+
+
+činu. Derivujeme-li př. činitel 4r>s obdržíme
+
+
+2,.
+
+
+2r; AS-
+
+
+VII. ﻿21
+
+
+kde /3r's. jest minor patřící #(.w). Avšak
+
+
+
+
+
+S*m,i ft';. A{ň. J,,s, e=l, 2,....
+
+
+
+
+
+dostáváme ihned, máme-li ještě zřeteli vztah
+
+
+
+
+
+
+
+
+2,....,
+
+
+......... AA,
+
+
+tedy větou udaný tvar.
+
+
+Zároveň jsme získali jednoduchý vzorec rekurentní pro výpočet numerického součinitele, totiž
+
+
+CA, h..í„_1 4-Ai ---- Am-i CA, AL, Aw_2 kterého (jakož vztahu okamžitě dostáváme
+
+
+*(* 2). .....
+
+
+Am_i 1).
+
+
+Mohou totiž <xm pokládány býti minory téhož deter-
+
+
+
+
+
+minantu 4r,s', neboť když potlačíme determinantu řádky m-^ '2, n—l zůstanou tam řádky .m1 n-tý, jež vesměs shodují řádky ... n-tým determinantu 4r> Následkem toho jest věta, jíž textu použito, snadným důsledkem vět determinantech minorů jednoho determinantu.
+
+
+Budiž dle obvyklého označení/ subdeterminant determinantu L», \',
+
+
+\1, ....
+
+
+/l, ....
+
+
+1,2 ... Rozložme dle Laplaceovy věty, obdržíme, zna-
+
+
+\1,
+
+
+číme-li subterminanty utvořené prvých (qí řádek subdeterminantu
+
+
+/l, 2.....q\ /l. 2.....m\
+
+
+znacime-h E/t příslušné minory tuto
+
+
+.... \1, ....
+
+
+identitu
+
+
+Dosaďme této identity yi, místo k', ..... kde y», jest minor přináležící dostaneme ihned
+
+
+Ci, ft| Minor patřící c«,
+
+
+\l. .....
+
+
+(minor d*'v CÍ,A (minor
+
+
+což jest věta textu specielním případě použitá.
+
+
+VIL ﻿22
+
+
+Věta Budiž dán součin
+
+
+.....
+
+
+T/- .**• rw,
+
+
+°r,k (**)' =1,2,..........
+
+
+kde (ťL) jest jedna kombinace y-té třídy čísel .... kde, značí-li př. (ir) kombinaci ilt i2, vůli jednoduchosti předpokládejme vždy <..•• w), jest
+
+
+#2, #2.
+
+
+—ř, —r,2> •**»
+
+
+Provedeme-li operaci ái{;), dostaneme íí(j) pří íi(/) Q,ii,...Am_1 -4w při při čemž
+
+
+a»~,=
+
+
+Větu tuto dokážeme úplnou indukcí. Seřadíme všechny výrazy celkového stupně proměnných dle výšky*) dokážeme, věta platí výraz dané výšky, platí-li pro výrazy menší výšky.
+
+
+Budiž stupeň výrazu řadě (x(K)}', předpokládejme př.,
+
+
+Této indukce užívá právě Capclli, loco cit. pag. 24. důkazu věty Máme-li výraz, jež jednotlivých řadách proměnných stupně dané těmito čísly seřaděnými dle velikosti
+
+
+ií2
+
+
+jiný výraz téhož celkového stupně, avšak jednotlivých řadách stupňů, jež dány jsou, seřadíme-li zase dle velikosti čísly vt^v2 ^.vm, říkati budeme prvnímu výrazu vyšší, jestliže čísel
+
+
+první, jež jest nully různé, jest kladné; je-li záporné, budeme ovšem druhý nazývati vyšší. Toto seřadění ostatně jest známo nauky symmetrických funkcích použito bylo poprvé Waringa.
+
+
+VII. ﻿23
+
+
+Pak výrazy
+
+
+DikV
+
+
+
+
+
+jsou nižší nežli platí tudíž pro tyto výrazy věta dle předpokladu. Položme
+
+
+(c)
+
+
+€^,...1 při A>0,
+
+
+LJo
+
+
+při
+
+
+Užijeme-li operace D12 (c), máme zřetelem záměnnosti této operace Sl^
+
+
+(A. D12 Ví, avšak základě věty předpokládané pro nižší formy nežli jest též
+
+
+%).(L>12F) =D„V. jest
+
+
+DltV1 D12V; D12 (V1—V')=0, tak obecně
+
+
+(d) Dlik (Fx 3,.. .w. Zároveň však jest
+
+
+(e) aft (F! V'} 2.....,n—
+
+
+při čemž značí
+
+
+
+
+
+Dl"" ak1 +"" ''' fl*"";
+
+
+neboť Uft tudíž D\^akVv (následkem záměnnosti příslušných operací) jest rovno nulle, Ditttk ... m). plyne důsledku věty III' rovnic
+
+
+(/) 4$-1 <ři (*(2), *(3),...).
+
+
+kde forma (#(2),. nezávisí již #(1).
+
+
+Jestliže však přistupuje rovnicím (d) (e) ještě, jak patrno, rovnice
+
+
+A..„_„ (F, F') jest tudíž pro (dle věty IV.)
+
+
+
+
+
+čímž jest část věty jež vztahuje dokázána, neboť stálým umenšováním výšky, přijdeme výrazům, jež obsahují méně nežli w-řad proměnných pro věta bezprostředně vyplývá. Budeme tudíž následujícím předpokládati
+
+
+Provedeme-li však rovnici (/) A-kráte sobě operaci
+
+
+
+
+
+dostaneme levé straně patrně nullu, neboť
+
+
+l,a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jest tedy
+
+
+
+
+
+VII. ﻿Avšak tato rovnost jest splněna jenom, když bud1 (#(2) anebo (pl jest vždy A). případě prvním jest platnost věty dokázána (neboť (/) vyplývá V). Zbývá nám tedy vyšetřovati případ, když Pak činitele součinovým znaménkem výrazu (6) jsou vůbec nezávislý (x^) můžeme tento výraz psáti tvaru
+
+
+....
+
+
+
+
+
+při čemž nechť znamená
+
+
+
+
+
+k+D,
+
+
+
+
+
+Mezi jest pak vztah
+
+
+(g)
+
+
+(*)
+
+
+Podobně jako svrchu jest
+
+
+D2>k (FJ 4,. .m; D2i ak(V1—V')=0, 2,___n
+
+
+máme tedy pro g>x (x^,....) tyto rovnice
+
+
+---- ---- /I/M
+
+
+j_/t> *I'i í-J.
+
+
+Z)2, 1,2,...
+
+
+Proveďme (g) operaci Z)2( aM_w sobě A-kráte, obdržíme snadno
+
+
+=A!
+
+
+při čemž pravé straně jsem pouze první člen vypisoval vyznačil,
+
+
+ostatních členů lze vyjmouti 4Q. zřetelem irreducibilitě ^/„
+
+
+tomu, řádný činitel prvého členu nemůže býti dělitelný ^0, jest nutně
+
+
+rovnic (h) (&) však plyne
+
+
+kde
+
+
+nezávisí (#(2) můžeme tudíž psáti
+
+
+VII. ﻿25
+
+
+Provedeme-li však tento vztah operaci D2tan_m sobě Arkráte, dostaneme levé. straně nullu; pravé však jenom tenkráte dostaneme nullu, když bud q>2 (x®,....) anebo A=A+A!—l, AX. případě prvém jest tvrzení naše pro výraz dokázáno, zbývá tudíž dokázati pro případ druhý, kterém jest
+
+
+kterém možno psáti pro
+
+
+(ti
+
+
+činitelé tohoto součinu nezávisí pak ani (#(1)) ani (#(2)) (se zřetelem tomu, At).
+
+
+takových krocích, jaké jsme právě dva učinili, můžeme libovolně pokračovati. Dejme tomu, jsme jich učinili tedy možno psáti rovnici
+
+
+2,...l,
+
+
+
+
+
+
+
+
+kde činitelé součinu nezávisí x^, x(z), ... x^, rovněž rovnici
+
+
+Učiňme pak krok 1-vý. Forma <pe (x^ V,.. hoví rovnicím
+
+
+{'M' i,*hVe> =1,2,____n
+
+
+Budiž číslo celé, pro něž <iq^n Provedme
+
+
+(l) operaci +i, sobě +.....+A?_„ M_i)-kráte. levé
+
+
+straně dostaneme nullu. pravé straně pak mimo ještě položme
+
+
+___
+
+
+A,.....n
+
+
+Dotaneme tak (/) tento vztah
+
+
++X,j m—li ^-q ^""S—l
+
+
+\x(o .....
+
+
+kde jest kladný činitel numerický kteréhožto vztahu podobně jako nahoře následuje,
+
+
+"""" Ir*
+
+
+VII. ﻿26
+
+
+těchto rovnic (m) plyne ihned (dle věty III'),
+
+
+tedy
+
+
+(x(e 2), nezávisí již x(e Vykonáme-li této rovnici ope1>an_m celkem ---- Ae_! Aff) -krátě, dostaneme levé straně míliu. pravé straně pak jenom tenkráte obdržíme nullu, když buď <pe (xe 2>, ____ =0, anebo ..... prvém případě věta jest dokázána, druhém pak případě lze výrazu dáti tvar
+
+
+rac
+
+
+
+
+
+r,h
+
+
+
+
+
+kde činitelé nezávisí již (x(l)), (x®), .... (A;^ 1)). toho patrno, pro všecky výrazy daného celkového stupně věta platí, platí-li pro výrazy menší výšky, než-li jest pro výrazy tvaru
+
+
+poněvadž však pro tento výraz věta jest správná (následkem věty neboť výraz (n) jest specielním případem výrazu větě poněvadž tento výraz jest zároveň nejnižší nully různý všech výrazů daného celkového stupně daných K±. .Km_\, jest věta obecně platná.
+
+
+Větě větě můžeme snadno dáti tvar jiný pro naše použití příhodnější. Místo determinantu př.
+
+
+a2,
+
+
+lze psáti větách těch výraz IP)
+
+
+
+
+
+""1> ""2 •l.
+
+
+
+
+
+
+
+
+tak obecně. Abychom nahlédli, stačí příslušnou změnu provésti determinantu právě uvedeném. tohoto determinantu dosaďme aít .....c4, minory, jež přísluší determinantu
+
+
+VII. ﻿27
+
+
+
+
+
+«!, «2,.....y4, y5. Užitím pak Laplaceovy rozkladné věty známých
+
+
+vet determinantech minorň daného determinantu dostáváme ihned
+
+
+výraz (p] násobený -j^.
+
+
+větách VI. Vil. místo konstant, kterými tomto odstavci jsme počítali, vyskytují derivační symboly; však věci nic nemění, jelikož jak hned zpočátku bylo vytčeno, platí pro sledy derivačních symbolů pro součiny čísel tytéž základní věty.
+
+
+

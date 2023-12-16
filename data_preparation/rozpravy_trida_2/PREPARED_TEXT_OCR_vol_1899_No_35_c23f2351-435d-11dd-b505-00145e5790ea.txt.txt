@@ -1,0 +1,629 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 35.
+
+
+některých konstantách theorie harmonických řad.
+
+
+Sdílí
+
+
+
+
+
+professor universitě Fribourgu švýcarském.
+
+
+(Předloženo dne 20. května 1899.)
+
+
+Riemannova funkce definovaná řadou
+
+
+jest jednoznačná celé rovině komplexní proměnné tam pouze jediné místo zvláštní, sice pól stupně prvního takže rozdíl
+
+
+(s) celistvá funkce transcendentní. této funkci dokázal
+
+
+
+
+
+Riemann zajímavou reciprocitu
+
+
+(1)
+
+
+2(27t)s-1 sin
+
+
+vlastnost to, jaká před tím již vyskytla při útvarech podobného druhu studovaných Malmsténem, Schlómilchem Lipschitzem.*) Logarithmickým derivováním plyne rovnice (1)
+
+
+(s)
+
+
+<l—s)
+
+
+
+
+
+(1—4
+
+
+značí-li nám (u] výraz
+
+
+(u)
+
+
+Viz tom naši rozpravu Základové theorie Malmsténovských řad.
+
+
+Rozpravy: Ročn. VIII. Tř. II. 35. XXXV. ﻿Veličina -^-) nullou není, jak lze výpočtem zjistiti, proto ob-
+
+
+držíme poslední rovnice pro -^-
+
+
+Dosadíme-li sem nyní hodnotu
+
+
+21og2,
+
+
+při čemž značí známou konstantu Eulerovu též Mascheroniovou zvanou,. obdržíme
+
+
+(2)
+
+
+C-+^r
+
+
+Rovnici lze uděliti jiný tvar, jímž nabude zajímavosti formálně po-jiné stránce, užíje-li okolnosti, platí identicky
+
+
+^fj
+
+
+?^--2 čili, což totéž jest
+
+
+&*r
+
+
+
+
+
+(-i)""-1
+
+
+rovnice tato podá derivováním
+
+
+log
+
+
+odtud pro
+
+
+log
+
+
+j2~
+
+
+«(4).
+
+
+Dosadíme-li sem tedy hodnotu (2) výraz
+
+
+XXXV.
+
+
+﻿f(4)
+
+
+
+
+
+obdržíme
+
+
+(3, 4J(-1^
+
+
+(!)[<
+
+
+kterýžto výsledek lze též psáti
+
+
+log log log log
+
+
+""71T ""vT""
+
+
+
+
+
+/•oa\ l-------=r -j-----;^=r-------—;
+
+
+
+
+
+
+
+
+
+
+
+4""-V2log2
+
+
+lze těchto vzorců užiti vypočtení čísla leží bíledni, ježto lze obě řady rovnici (3a) přicházející přeměniti řady rychlejší kon-
+
+
+vergencí, tkne vzorce (2), lze výpočtu hodnot -^-
+
+
+užiti vzorce
+
+
+(4)
+
+
+kde (», jest hodnota jednoznačné transcendenty definované řadou
+
+
+(5) R(w,*) (w]_v)s
+
+
+Difierencujeme-li rovnici (4), máme
+
+
+načež
+
+
+veličiny (*i (*> ""2"") stanoví pomocí známého
+
+
+roz-
+
+
+voje semikonvergentního.*)
+
+
+Funkce R(w,s) definovaná rovnicí (5) připouští případe jednoduché rozvinutí trigonometrické vůči proměnné vzaté intervallu
+
+
+III. ročník Rozprav Akademie, číslo 28.
+
+
+XXXV. které jest zvláštním případem známého vztahu Lipschitzova bylo zvláště vytčeno Kinkelinem později znovu objasněno Hur-witzem*), zní jak následuje:
+
+
+(6)
+
+
+Znamenejme nyní literou číslo kladné neb záporné, které jest hlavním diskriminantem, literou označme jeho prostou hodnotu. Užívajíce Legendreova znaménka
+
+
+(T)
+
+
+tak, jak byl souhlasu Jacobiem definitivně upravil Kronecker, položme rovnici (6) zí> násobme Í-T-) sečtěme výsledky pro
+
+
+
+
+
+Poněvadž řada (5) rozvoj (6) nikdy současně nekonvergují, dlužno stanoviti součet
+
+
+jiným způsobem, než při současné transformaci výrazu (6).
+
+
+Uvažujme nejprve součet (7) pro hodnoty při nichž řada (5) jest jak známo konvergentní. Zde bude
+
+
+
+
+
+\~k)
+
+
+
+
+
+klademe-li
+
+
+součet obdrží tvar
+
+
+čili při označení**)
+
+
+
+
+
+\Z/
+
+
+bude .-.,
+
+
+Literární udání nalezne čtenář úvodu Zákl. theorie Malmst. řad. Práce Kinkelinova vyšla programe průmyslové školy Basilejské 1861—2.
+
+
+**) těchto výrazech jednáno našich rozpravách arithmetických ročníku VII.
+
+
+XXXV. ﻿(8)
+
+
+
+
+
+Výraz tento zůstane roven součtu (7) pro všechna bez rozdílu tedy též pro hodnoty které náležejí intervallu ... 1). Pro tyto pak obdržíme rovnice (6)
+
+
+sin
+
+
+Jest pak dle známých vět algebraicko-arithmetických jeden součtů
+
+
+
+
+
+
+
+
+cos
+
+
+
+
+
+nullou součet zbývající rovná
+
+
+sice mizí první součet, je-li druhý případě Kla-deme-li tudíž
+
+
+(9) obdržíme
+
+
+
+
+
+
+
+
+cos
+
+
+
+
+
+
+
+
+případě D^>
+
+
+sin
+
+
+
+
+
+tudíž zní náš výsledek, dříve již Kinkelinem Hurwitzem odvozený
+
+
+-s) ----
+
+
+-zL-iféA
+
+
+čili
+
+
+(10) (-TT— m^— F(I—S')
+
+
+rovnice této plyne logarithmickým derivováním
+
+
+XXXV. ﻿Kdyby nyní /?, bylo nullou, musilo též ÍD, --„- Kdyby pak byla nejnižší nully různá derivace, ob-
+
+
+
+
+
+drželi bychom rovnice (10) w-násobným derivováním substitucí
+
+
+patrně
+
+
+-srMAT^-^KTMAT)
+
+
+odtud, ježto
+
+
+rovnici
+
+
+takže bylo sudé. Derivuje-li -f- l)kráte, obdrží pak
+
+
+odtud (lla)
+
+
+
+
+
+
+
+
+/>(•«)
+
+
+(-4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Předpokládejme však, již ÍZ?, j^O, takže ;;/=: máme
+
+
+pak (11) pro
+
+
+""(AT) '(^
+
+
+
+
+
++iog-^-*(4).
+
+
+XXXV. ﻿TV (D.
+
+
+Ježto pak —í. jest buď cot —=— neb
+
+
+X-/.
+
+
+
+
+
+taň-—-, jak
+
+
+jest neb máme .patrně
+
+
+'(A4)
+
+
+------<;cfn
+
+
+sgn.
+
+
+tedy vyjde
+
+
+(12)
+
+
+
+
+
+sgn.
+
+
+zvláštním případě plyne odtud př.
+
+
+(13)
+
+
+log log log? log
+
+
+yiF v~š~ Y~Ť~ V^~
+
+
+
+
+
+funkci P(D,s) známo, lze psáti jako součin
+
+
+______l
+
+
+
+
+
+
+
+
+vztahující všem číslům kmenným /=i2, 11,
+
+
+Součin ten konverguje absolutně pro j>l, logarithmickým derivováním obdržíme
+
+
+P'(D,s)
+
+
+log/
+
+
+
+
+
+Smíme-li zde připustiti též hodnoty zejména s=—t ob-
+
+
+
+
+
+držíme tedy posledním případě podle vzorce (12)
+
+
+!°g/
+
+
+(14)
+
+
+
+
+
+sgn.
+
+
+
+
+
+Předpokládáme-li tuto rovnici správnou, což jest pravděpodobné, můžeme odvoditi důsledky velmi zajímavé.
+
+
+Klademe-li
+
+
+XXXV. ﻿2y log n-----— sgn.
+
+
+uvažujeme-li pouze kmenná čísla jež nepřevyšují danou kladnou veličinu plyne rovnice (14)
+
+
+log/
+
+
+
+
+
+log
+
+
+při čemž znaménko naznačuje, levá strana pro nekonečně rostoucí blíží tétéž veličině jako strana pravá našem případě stálá). Jest však
+
+
+(T)
+
+
+log/
+
+
+Z>\ log/
+
+
+log/
+
+
+log/
+
+
+ježto řada
+
+
+konverguje absolutně, máme
+
+
+
+
+
+
+
+
+rxp
+
+
+log/
+
+
+log ""\!
+
+
+při čemž zůstává konečných mezích nezávislých
+
+
+Znamenáme-li pak literou veškery kmenné činitele jichž jest počet konečný, znamenáme-li
+
+
+bude pro
+
+
+
+
+
+log/
+
+
+Jest však dle známé věty Mertensovy
+
+
+
+
+
+/L*
+
+
+kde neznámá veličina jest obsažena mezi tedy bude
+
+
+(15)
+
+
+
+
+
+Tato rovnice stanoví součet (15) chybu menší než jadřuje okolnost, kmenná čísla pro něž
+
+
+vy-
+
+
+XXXV. ﻿mají převahu nad čísly kmennými, pro něž
+
+
+výsledky těmito zdají býti souhlasu úvahy rovněž pevně založené, které uveřejnil Ern. Cesáro svém článku Sulla distribiizione dci numeri primi obsaženém zprávách akademie Neapolské 1896, které vztahujíce případu zvláštnímu obírají výrazy poněkud jinými, jimž vzorec (15) může sloužiti pramen odvození.
+
+
+XXXV. ﻿*"

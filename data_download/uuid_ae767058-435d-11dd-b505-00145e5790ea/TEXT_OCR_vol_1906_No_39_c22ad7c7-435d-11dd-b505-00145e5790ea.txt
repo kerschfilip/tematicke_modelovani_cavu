@@ -1,0 +1,979 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+TŘÍDA  II.
+ČÍSLO 39.
+Vypočítávání srostlic v soustavách kosoúhlých.
+Sepsal
+Gotthard Smolař.
+(S 12 obrazci na dvou tabulích.) (Předloženo   dne 16. listopadu   1906.)
+§  1. O   pravoúhlých   průmětech   úseček.
+Základní poučka, na niž později často   se   budeme   odvolávati, jest:
+Jestliže   k   libovolné   úsečce   m (obr.  1.)   v   koncových   bodech R, S
+připojen jest souvislý řetěz úseček libovolných  a, b, c . . ., pak pravoúhlý
+průmět úsečky m na libovolnou přímku PQ rovná se  součtu pravoúhlých
+průmětů úseček a, b, c . . . na to iž přímku, tak že jest
+m cos co ~ a cos a -j- b cos $ -\- c cos y -)-...
+(1)
+Všeobecná platnost této poučky poznává se též pozorováním obr. 2., kdež cos a a cos ď jsou záporné.
+Kladný směr úseček jest ten, kterým se přejde z bodu R do >S jednak po úsečce ;«, jednak po úsečkách a, b, c . . .
+Uvedená poučka platí nejen o úsečkách v rovině, ale též při libovolné jejich poloze v prostoru.
+Důsledek. Promítají-li se úsečky «,&,L... na přímku RS nebo na přímku s RS rovnoběžnou, pak platí týž vzorec (1) a cos ca = 1.
+§ 2.   O   úhlech   kolem   začátku   souřadnic.
+1.  Nazveme-li úhly, jež svírají positivní poloosy souřadnic
+a úhly, jež svírají roviny souřadnicové
+') Pokračování spisu »Mathematický podklad k vypočítávání srostlic* od téhož spisovatele v Rozpravách České Akademie císaře Františka Josefa pro védy, slovesnost a umění v Praze, II třída, r. 1906. XV. ročník, čís. 21.
+Rozpravy: Roč. XV. Tř. II. Č. 39.                                                                                       l
+XXXIX. ﻿—E, XY\ YZ~n, (obr. 3.), pak dle první poučky sfaerické trigonometrie jest:
+cos A — cos |« cos G
+cos e —
+cos r{ —
+sin ^í sin G
+cos tu — cos G cos A
+sin G sin A
+(2)
+„o,__ COS G — COS A COS «
+COS t7___ -______________________
+sin A sin (i
+2. Uhel qp n^ are X A, jejž tvoří osa Jf s rovinou souřadnicovou FZ, se vypočítá takto: oblouk qp (obr. 3.) jest sfaerickou výškou [\XYZ a rozděluje stranu are F Z na dva oblouky 7/z a (A— ^). Dle toho v pravoúhlých sfaerických /\XAZ a &XYA jest:
+cos (.i i= cos qp cos wz,
+cos (7 zi cos qp cos (A — m).
+Vyloučíce m z těchto dvou rovnic, vypočítáme
+.  2     _   l—cos2 A—cos2ft — cos2<7 -f- 2 cos A cos ^ cos G    j
+sin2A
+Cyklickou záměnou pak obdržíme:
+l — cos2 A — cos2 u — cos2 G -4- 2 cos A cos u cos G          (3)
+sin íť ~-----------------                                 -----------------------
+Výraz
+l — cos2 A — cos2 u — cos2 G -4- 2 cos A cos .a cos (7
+sin2 T =: -                                                        ------
+sin2 G
+l — cos2 A — cos2 u — cos* G -j- 2 cos A cos ku cos G ~
+l          COS G   COS 4U l
+COS G          l         COS A
+cos^i   cos A      l
+(4)
+nazývá se   čtvercem   rožního   sinu   (0)   a   značí   se sin2 (0) nebo určitěji sin2(A/i<7) nebo sin2(^YFZ).
+Proto vzorce (3) jest možno psáti také takto:
+sin (Au<?)                    sin (Autf)                   sin (Au<7)
+sin <p — -----±_EL_^  sin ty = -----       ' ^   sin T = _         _JL     <    _    (5)
+sin A                             sin u                             sin <?
+XXXIX ﻿3.   Ze vzorců (5) přímo vyplývá vztah tento:
+sin (A fí tf) zz sin (p sin A zz sin i/> sin ,u = sin x sin <>.    .    ,    .    (6)
+4.   Vzorce (6) souhlasí se vzorci sfaerické trigonometrie:
+sin (Ají(?) = sin rj sin G sin A — sin ft sin A sin Lu rr sin f sin (u sin G.      (7)
+5.   Determinant (4) jest možno nahraditi součinem funkcí A, ;/, G takto:
+l — cos2 A — cos2 H — cos2 G -j- 2 cos A cos ,u cos <7 — (l — cos2 A) (l — cos2 (i) — (cos A cos [i — cos <?)2
+= sin2 A sin2 tu — (cos A cos tu — cos <?)2 — (sin A sin ft — cos A cos tu -{- cos (7) (sin A sin ,tt -j- cos A cos [i — cos (?)
+zz [cos G — cos (A -|- (i)] [cos (A — [i) — cos G]
+A -4- (t 4- G         a -i- G — A         G 4- A zz 4 sin       '   '            sin------      ----- sin---------
+«          A -f- u — G - sin---------—.
+(8)
+2222 Poznámka. V soustavě souřadnic pravoúhlých dle vz, (4) jest sin'-(0)~l.
+§ 3. O úhlech při libovolném paprsku OB (obr. 4.) vedeném ze začátku souřadnic.
+1. Jsou-li x, y, z kosoúhlé souřadnice libovolného bodu B, jsou-li a, b, c úhly, jež svírá paprsek OB s positivními poloosami X, Y, Z (obr. 4), a promítneme-li souřadnice x, y, z na paprsek OB, pak dle vz. (1) jest
+O B ~ x cos a -j-y cos b -\- z cos c.
+(9)
+Promítneme-li dále postupně souřadnice x, y, z na osy X,   F, Z, též dle vz.  (1) jest
+O B cos a zz     x      -f- y cos G -\- z cos ,u, l
+O ^cos b = x cos G -\- y           -(- 5- cos A,    5       ...    (10)
+cos L =i x cos ^ -j- y cos A -|- L.             )
+Násobíme-li rovnici (9) veličinou (9 5 a na pravé straně za O L cos a, O B cos b, O B cos c postupně dosadíme hodnoty z rovnic (10), obdržíme pro délku radia vectoru OB:
+O B2 zz x* -f j2 -)- L2 -f- 2j/L cos A -j- 2s;jr cos ,u -j- 2xy cos <?.      (11)
+Jestliže z rovnic (9) a (10), jež platí pro libovolný paprsek, eliminujeme proměnné veličiny O B, x, y, z, obdržíme tento vztah směrných cosinů k úhlům A, /z, G:
+') Briot-Bouquet, Lécons de geometrie analytique. 17 édition, Paris, p. 512.
+XXXIX. ﻿což se vyčíslí takto:
+l cos a cos b cos c cos a l cos G cos f* cos Z> cos G l cos A cos c cos /» cos A l
+= 0, ')     .    .    .    .    (12)
+sin2 (A fi<? = cos2 # (l — cos2 A) -j- cos2 L (l — cos2 ,») -|- cos2 c (l — cos2 (?) -{- 2 cos # cos b (cos A cos ,u — cos <?) -f- 2 cos /; cos L (cos ttt cos tf — cos A) -|- 2 cos L cos a (cos <> cos A — cos (i)
+a b c                                                         a b c
+= V cos2 a (l — cos2 A) -{- V 2 cos a cos L (cos A cos ,u — cos <?).  (13)
+/. /l n                                                    ""f.fln
+2 Jsou-li (>a, (>h (>c odchylky paprsku OB od rovin souřadnicových YZ, Z X,   XY (obr. 4), pak podobně jako ve vzorcích (5) se určí
+sin (b c A) sin A
+sin (c a u]
+-—— '-
+sin (a b 6}
+sin
+sin
+(14)
+Je-li pól B na positivní straně (v předu) roviny Y Z, jest sin ya kladný; je-li pól B na zadní straně (ve směru negativní poloosy X), pak sin Qa jest záporný. Podobně tomu jest při sin (t&, sin yc.
+Tato úloha pohodlněji se počítá vzorci (55).
+Poznámka 1. Když bychom obráceně ze známých odchylek (>a, ^, oc chtěli vzorci (14) vypočítati směrné cosiny cos a, cos b, cos c, pak narážíme na obtížné řešení rovnic vyšších stupňů, a proto tato úloha bude později (v § 17.) řešena jiným způsobem.
+Poznámka 2. V soustavě pravoúhlých souřadnic /. =r u — <r =i 90°, tak že vzorec (13) se zjednoduší takto •
+l =: cos2 a -|- cos2 b -j- cos2 c. Při téže podmínce ze vz. (11) plyne:
+§ 4. Jsou-li (^j jj ^) a ujr2 j'2 -0'2) souřadnice bodů A, L>, pak vzdálenost jejich dle vz. (11) se vypočítá takto:
+(15)
+2 (y\ -1'*) (-1 — -«)cos A -l-2 (-i — -«
+') Viz G. Smolař,  Mathematický  podklad k vypočítávání srostlic, 1906, p. 42.
+XXXIX. ﻿§ 5.   Různé   rovnice   roviny   v   kosoúhlé  soustavě (A ^ tf).
+1. Je-li O Q kolmé na rovině R (obr. 5.), svírá-li tato kolmice s positivními poloosami X, F, Z úhly a, b, <r, a je-li B libovolný bod v rovině R^ pak O Q jest pravoúhlý průmět radia vectoru O B. Proto promítajíce jednak OB, jednak souřadnice bodu B (x, y, z) na O O — ď, dle vz. (1) přímo obdržíme normální rovnici roviny
+neboli
+ó — x cos a -\-y cos b -(- s cos c :~ x cos a -{- y cos # -j- L cos L — d ~ 0,
+(16)
+kdež O znamenajíc vzdálenost roviny od začátku souřadnic, jest vždy positivní. Směrné cosiny cos a — «, cos b = /3, cos c = y vyhovují podmínce (13).
+2.   Označíme-li   všeobecnou    rovnici   téže   roviny  v téže soustavě kosoúhlých souřadnic (A tu G) takto:
+(17)
+abychom ji převedli na tvar rovnice normální, dělíme ji veličinou M, tak že jest
+— B,    M cos c — C,    —Md = D.        (18)
+Veličina M určí se tímto způsobem: hledíce na vzorec (13), píšeme
+cos2 a(\ — cos- A) —
+C1 —cos2 /i)
+•     /i             f-x         C2 (l— COS2 (7)
+COS2 6- (l  —  COSJ (?) = -------------JTJŽ---------— ,
+. ,                                             2 A B (cos A cos u — cos
+cos « cos b (cos A cos (« — cos G) = —
+M*
+2 B C (cos u cos <3 — cos A) 2 cos b cos c (cos ,u cos (> — cos A) = -        71^2       ~~ '
+,                                             2 C A (cos G cos A — cos u)
+2 cos L cos a (cos <? cos A — cos (i) =        ""~~~*~       '
+Sečteme-li levou i pravou stranu těchto rovnic, hledíce ke vzorci (13)j vypočítáme
+ABC                        ABC
+A/2sin2(Ař<(7)z=^^2(l — cosaA)-f ^2^^(cosAcosla-cos(J). (19)
+/. li n                                                        /. 11 n
+Veličina M se zde vypočítává z druhé odmocniny uvedeného výrazu a proto obecně má dvě znaménka +.
+XXXIX. ﻿Z těchto se do počtu bére pouze to, jež vyhovuje poslední podmínce vzorců (18):
+*-      D
+!        ±M*
+kdež d jest vždy positivní.
+Dle toho z oné všeobecné rovnice roviny (17) odvodí se normální rovnice téže roviny:
+Ax         By        C z          D
+A   +-M+-^M+-HU + -±M- 0......(20)
+Správnost výpočtu se kontroluje vzorcem (13). Poznámka. V soustavě souřadnic pravoúhlých dle vz. (19) jest
+M=± YA* + K*^C*.
+3. Dělíme-li všeobecnou rovnici roviny (17) veličinou — D, obdržíme osovou rovnici
+*  -h- y    4-    *    -i
+_ D ^       D_^      D^ .....
+A       'B       'c
+kterouž rovnici můžeme psáti též ve formě
+Y             1f              f
+f + Í + Ť =l.........(2l)
+Veličiny p, g, s jsou úseky způsobené rovinou R na osách X, F, Z (obr. 5), jež se též nazývají pa rametry roviny R. Srovnáním obou předcházejících rovnic vyplývá
+D                     D                     D                         ,00.
+f=—A'    * = —B<    S=~T......(22)
+4. Dle vz. (21) rovnice x = p znamená rovinu, jejíž parametry q, s jsou nekonečně veliké, tak že jest rovnoběžná s rovinou osní Y Z a úsečka každého jejího bodu x=p. Podobně y = q znamená rovinu rovnoběžnou s X Z a z = s jest rovina rovnoběžná s Y X.
+§6. Jest určiti úhel co sevřený dvěma rovinami R^ a R2 v kosoúhlé soustavě (Afitf).
+Tímto úhlem co rozumí se úhel, jenž se rovná odchylce kolmic spuštěných ze začátku souřadnic na tyto roviny. Známe-li tedy normální rovnice rovin
+^i = x cos aí -\- y cos bl -j- z cos cl — ó\ — 0, Rt=x cos a.2 -j- y cos b% -\- z cos c% — ó\ — 0,
+XXXIX. ﻿est možno danou úlohu převésti na úlohu: jest vypočítati odchylku o? dvou paprsků (obr. 6.), jichž směrné cosiny jsou známy. Jsou-li xl,yl,zl souřadnice bodu <2n Jenž jest patou kolmice O Qv spuštěné na rovinu ./?,, a jsou-li x^y* S2 souřadnice bodu Q2, jenž jest patou kolmice O Q2 spuštěné na rovinu R2, určí se vzdálenost těchto dvou bodů jednak dle vz. (15), jednak dle Carnotovy věty z A O Q2 Qt takto :
+-Q^Q22 = (X - x,Y + (^ _,f )• + (Sí - sj* + 2(*t - *,) (^ -A>) cos a
++ 2 O'i —Já) («i — •%) cos A -f 2 (^ — sg) (#, — #2) cos ,u.
+Ql <222 = d\ '2 -f- ó\2 — 2 ďj Ů2 cos os.
+Srovnáním   obou těchto rovnic a dosazením hodnost   za dj2, ')'22 dle vz. (11) vypočítáme
+Píšeme-li    za   stručností   cos a ~ a,   cos b = fi,    cos c = y,    poměry
+v       y       z
+^—,   -—,   -j-   vypočítají se řešením těchto rovnic sestavených dle vz. (10): o        a        o
+x                  y                   z _,-             -f- -^r- COS <7 -j-----— COS tU =: a,
+x               ,   y                .2
+—=r cos G -4-    t              -4- -     cc
+o                     o                     o
+x         i  y      í i  2
+—r- COS U -\------— COS A -H------                   =Z V.
+o                     o                     d
+Z těchto podmínek se vypočítá: x         « (l — cos2 A) -j- /J (cos A cos jw — cos 6)-\- v (cos (7 cos A — cos fi)
+jj>         /3 (l — cos2 ft) -]- y (cos tu cos G — cos A) -f- « (cos A cos (i — cos (?)
+V                                                                       *      9/1      — \
+o                                                                sin- (A (u 9)
+z         y (l — cos2 G) -}- « (cos (7 cos A — cos ,«) -j- ^ (cos ,u cos (7 — cos A)
+í)                                                          sin2 (A jit <7)
+Dosadíme-li tyto hodnoty do rovnice   (23),   provedeme-li   naznačené násobení, krátíce pak veličinou sin2 (A u G),  vypočítáme
+cos ta . sin2(Ajíí G] =: «j «2 (l —cogíA)-!-^^ (l — cos2;*) -f- yx ;-2 (l— cos2*?) ~h (ai ^2 ~4~0i ""2) (cos ^ cos tu ~ cos ff) 4~ (/^i ^2 ~h ^i ^2) Ccos »u cos a — cos ^
+H~ (^1 tt2 ~l~ K\ ^2) (COS ^ COS ^ - COS řO .......  (^
+XXXIX. ﻿8
+Poznámka. V soustavě souřadnic pravoúhlých jest dle vz. (24)
+COS ,„ — Klat + pt r}t + yt y,, neboť cos /. — cos u zz cos n rr 0.
+§ 7. V kosoúhlé soustavě (A /i (?) jest určiti vzdálenost b o d u B (xv ^y^ z^) od roviny, jejíž normální rovnice jest
+y? = ;r cos a -\- y cos $ -{- z cos c — á — 0.
+Je-li v obr. 7. ./č průmět roviny /?, pak pro rovinu /i, jež jest s rovinou R rovnoběžná a prochází bodem B, platí rovnice
+K~~ x cos a -\-y cos ^ -|~ s cos L — á'zz: 0,
+kdež f) ' = O E.
+Dosadíme-li do teto rovnice zax,y,3 souřadnice bodu B (^1,7,,^), obdržíme
+A't cos a -f-J^i cos ^ ~r 5i cos ^ — ^/:=:: ^' čímž jest určeno ď. Též OD = ft jest známo z dané rovnice A"", takže jest
+/ ZZ= () - ()' = rf - Xt  COS Í3! — )\  COS ^ - Sí COS C,
+neboli
+— p = ^ cos cz -f-J'1 cos ($> -(- ^t cos c — ó,    ..... (25)
+čímž jest určena vzdálenost bodu B od roviny R\ — p znamená, že bod B s bodem O se nalézají na téže straně roviny R. Když by bod B byl na druhé straně, pak ve vz. 25. místo — / píše se -f~A
+§8. V kosoúhlé soustavě (A«(?) jest určiti rovnice rovin U, T rozpolujících úhly sevřené dvěma danými rovinami RI a R%.
+Jsou li normální rovnice daných rovin
+Rv = x cos aí -\- y cos bl -{- s cos ^ — '), =0, ^2 = A- cos as -\-}> cos ^2 -{- L• cos <:2 — ti.2 = 0,
+pak   pro   bod   B  (•*"", j^ Lt ),  jehož   vzdálenosti   od rovin   těchto   mají býti v daném poměru  m : u, dle vz. (25)  platí
+— mdi = jTj cos <7, -)- jt cos ^ -j- ^ cos í\ — ď, ,
+— « í/    = JT    COS «    --/    COS ^    ~~  ""    C°S í      — ')-
+(V obr. 8. ^u R2 znázorňují průměty rovin R{ , ./?,, promítnuté ve směru jejich hrany C.) Nahradíme-li v těchto rovnicích určité veličiny dlt xlt j,, -?! veličinami proměnnými d, x, j, z, při současné platnosti
+XXXIX. ﻿obou podmínek   odvodíme   geometrické  místo bodů,   které jsou  od obou rovin Rv, R2 vzdáleny v poměru 7/2:72, tak že bude
+— m d — R^,
+—  u d = R2.
+Násobíme-li první tuto rovnici veličinou // a druhou rovnici veličinou — m, pak sečtením obou rovnic vyloučíme proměnnou veličinu d, tak že obdržíme
+T' = nRl—mRt = Q.........(26)
+a podobně
+U'     nRl-\-mRz=&..........(27)
+Mají-li roviny J1, U rozpolovati úhly sevřené danými rovinami Rl^ R21 děje se to při podmínce 7/2 = 72, tak že všeobecné rovnice rovin roz-polovacích jsou
+T=Rt —7^=0..........(28)
+U=Lt+R, = &...........(29)
+§9. V kosoúhlé soustavě (Á4u<7) má se určiti rovnice roviny Rx souměrně položené k rovině R^ dle roviny souměrnosti R, (obr. 9.)-
+Vypočítejme nejprve rovnici roviny R^, jež procházejíc průsečnicí C, svírá s rovinou R libovolný úhel (p. Známe-li normální rovnice rovin
+R, EEEE * «, -f y fa -4- s y, — ó\ = 0, R, == x «, +y fa H- sya - ď2 = 0,
+pak pro libovolnou  rovinu R,F  procházející průsečnicí C dle vz. (26) a (27) platí rovnice
+Rp= A"", -f xRs = 0,.......(30)
+kde činitel x má se výpočtem určiti.
+Násobíme-li činitelem x rovnici Rs a přičteme-li ji k rovnici RI} obdržíme
+MRrp =-*•(«,+ X «,) -f y (fa -j- x fa] + « (yt + X y,) - (ď, - X Í2) = 0, kdež R^ značí normální rovnici roviny R     a dle vz. (19) jest
+M2 sin2 (Afi í?) = («j -f x «2)2 (l — cos2 A) -f (fa + x /J2)2 (l - cos2 ji) +
++ (yi-f xy2)2(i-cos2^) +
+-}- 2 (^ -f- x #<,) (/ij -f- x fa) (cos A cos u — cos (?) -j--{- 2 (/jj -f- x /32) (;'j -f- x y2) (cos 1.1 cos (7 — cos A"") -|--j- 2 (y, -f- x y2) (cfj -i- x «2) (cos o"" cos A — cos ^i).
+XXXIX. ﻿10
+Provedeme li   v   tomto   výraze   naznačené   umocňování   a   násobení, krátíce pak celou rovnici dle vzorců (4) a (24), vypočítáme
+M = V l 4- x2 + 2 x cos ea .......    (31)
+Dále dle vz. (2*) jest:
+(«i -f * «2) «2 C1 ~ cos2 A) -j- (/j1! -f- x 0„) /J2 (l — cos2 ft) 4-
+H- (Xl  + * V*) ?2 (l — COS2 (7) -f
+~l~ t(ai ~h x aa) f*2 H~ (0i ~h x 02 ) aa] (cos ^ cos ř* — cos (?) 4~
++ K0i + * /J2) r2 4- (TI -h x ^2) 0a l (cos /* cos ^ — cos A) -f-
+4- [(7, -f- x y2) «2 4- («, -f x «2) ya] (cos (7 cos A — cos fi) — = Mcos (f sin2 (A ju <?).
+Dosadí-li se za 71/ svrchu vypočítaná hodnota (31), provede-li se naznačené násobení, načež se opět krátí dle vz (4) a (24), umocněním obdržíme
+2    !     o                          COS2 W - COS2 (
+x2 -f 2 x cos oj 4
+sin   9 kterážto rovnice řešena jsouc dle x dává kořeny
+sin 03            sin (03 4. cp)                          _.„.
+x = — cos 03+ -- = — - v   +y;.    .              .     (32)
+tg (p                  sin <p
+Ve zvláštním případě, když ^ = 03,  jest x, = 0,   tak   že rovina R^ splývá s rovinou Rl, dále pak jest
+x2 = — 2 cos 03,    ........    (33)
+což jest  hledaná a všeobecně platná hodnota   pro x v rovnici   roviny Rx, tak že jest :
+Rx ^2 R, -f- x2 Rs  = 0.   .    .    .....     (34)
+Tato rovnice Rx jest opět normální, neboť v tomto případě dle vz. (31) jest M= 1. Cos o se určí vzorcem (24).
+Poznámka: Vzorce (31), (33), (34) neobsahují funkce úhlu /., u, a. tak že platí v nezměněném tvaru též pro soustavu souřadnic pravoúhlých.
+§ 10. Rovnice přímky v kosoúhlé soustavě souřadnic (A /*(?).
+1. Přímka B C (obr. 10.) jest určena dvěma rovnicemi, jež značí kosoúhlé průměty B3 C3 a B2 C2 na rovinách souřadnicových X Y. X Z promítnuté ve směru souřadnic. Dle toho
+y^mx-\-q, z = nx - f- r      ......    (35)
+XXXIX. ﻿11
+jsou rozvinuté   rovnice   přímky BC.
+Vyloučíme li x z těchto dvou rovnic, obdržíme rovnici průmětu Bv Ct přímky BC na rovině Y Z, tak že jest
+J5l C, zz.; n y — m s = n q — m r.
+2. Pošineme-li přímku B C rovnoběžně samu k sobě do začátku souřadnic, tak že OC\BC, pak v rovnicích (35) a (36) jest # — r = tf a proto rovnice paprsku O C jsou:
+n x.
+3.  Rovnice
+(37) (38)
+„    .           ^       ,    j             •                       m sin G                ,          n sin \i
+určuji osu A.   neboť   směrnice /p-f= •      .                  a/L•L:=-—.—
+l -j- m cos G                   \-\-n cos tu
+rovnají se nulle; L zde značí odchylku průmětu přímky od osy X. A podobně rovnice
+z = 0, T = 0 určují osu   F, l
+/qn\
+/-»                  /-«                                   ""71.....^ 0.7 l
+.r =: 0, ^ ^= 0         »         »      -^
+§ 11. Jsou-livkosoúhlé sou stavě souřadnic (Afi(?) známy směrné cosiny libovolného paprsku, jest určiti jeho rovnice ;= m x, z = n x.
+Jsou-li směrné cosiny paprsku   OČ' (obr.  10.)   cos a = «,  cos ^ = /i, cos L == y a označíme-li O C — d, dle vz. (10) obdržíme tuto soustavu rovnic
+cos
+^r cos x cos
+cos ft =   a,
+cos A = ď/3 ,
+(40)
+cos A  -j-
+jichž řešením vypočítáme:
+_d[« (l — cos2 A) -4-/3 (cosAcos^í — coscr)-)- y (cos A cos (? — cos (i)]}
+sin2 (A t« (?)
+dT«(cos A cos tt— cos G~)-\-3 (l —cos2 w)4-y (cos (7 cos u —cos A)l i/=   L---           !              '     7-=^ -- ^—                         - ±=mx,
+sin2 (A u (?)
+_ ď [« (cos G cos A — cos ,u)-[-/3 (cos (? cos jit — cos A)-|-}; ( l — cos V)] _
+S — —                                              — : — »—. -- -•.                                                   — M2.
+sin2 (A (i G) Z těchto rovnic přímo plyne
+XXXIX. ﻿12
+a (cos A cos /u — cos (?) -f- /i (l — cos2 (u) -f y (cos (? cos ;t — cos A) a (l—cos2 A) -j- /j (cos A cos ft — cos 6)-\-y (cos A cos (? — cos ,a)'
+a (cos (? cos A — cos jw) -f- /i (cos G cos í* — cos A) -|- y (l — cos2 (?) a (l — cos2 A) -j- /3 (cos A cos /t — cos (?) -f- j> (cos A cos G — cos /<)'
+Poznámka:   Ve zvláštním případě, když Á ~ u — ff — 90°, jest
+(i
+§ 12. Jsou-li v kosoúhlé soustavě souřadnic (A tu (?) známy rovnice libovolného paprsk u y^=^inx, s = n y> mají se určiti jeho směrné cosiny «, /3, y.
+Dle daných rovnic paprsku upraví se rovnice (40) takto:
+T*                                                                                        X
+a =: -^- (l         -\- m cos G -j- // cos tu) — — — E,
+3C                                                                                                                  3C
+ft = — ( cos G -j- ;//            --f- ;/ cos A) = -     /*,
+1T                                                                                                                                               Jť*
+y = ^— ( cos jt --j- ;// cos A -j- n         } = — — čz.
+Z těchto tří rovnic vypočítáme poměry směrných cosinů
+Kip-.y = L:F:G,
+tak že jest
+Dosadíce tyto hodnoty za cos b a cos <: do vzorce (13), vypočítáme
+E sin (A ;/ (?)
+V \E2 (l-cos2 A)+,P2 (l -cos2 u)+G2 (l -cos2 <?)+2LLP(cos A cos p-cos <?) + 2FG (cos (? cos jt-cos A)+2 G L (cos G cos A- cos u)]
+Označíme-li odmocněnce ve jmenovateli písmenem A/, jest
+„ __    /7sin(Alu(í)                   g sin (A ft (?)
+1                  ""        '     7           YW
+(43)
+Dosadíme li do jmenovatele za E, F, (i příslušné hodnoty, vypočítáme — (l -j- m* -f"" n* -\~ 2 m n cos A --[- 2 // cos u -f- 2 ;// cos (?) sin2 (A tu <?). Dosadíce tuto hodnotu do vz. (43), obdržíme
+XXXIX. ﻿13
+« —
+Ví
+c = »
+\-\-m cos 6 -j- n cos (i - 2 ;// n cos A 4~ 2 n cos ft -j- 2 m cos (7
+COS <? 4~ ^ ~f"" ^ COS ^
+Ví-f
+y —
+Vi +
+w2 -(- 2 ;« n cos A -f- 2 « cos p -\- 2m cos <?
+cos /i -j- m cos A -(- n          _________
+n2 -j- 2 w « cos A -j- 2 « cos ^ -f- 2 ;// cos tf
+(44)
+Poznámka. Dle těchto vzorců v soustavě souřadnic pravoúhlých jest l                                       m                                       n
+= v>r-
+Vl
+mí
+§ 13. Má se vypočítati odchylka přímky od roviny v kosoúhlé soustavě souřadnic (A/i <?).
+Úlohu tuto jest možno řešiti vzorci předcházejícími takto: Z daných rovnic přímky dle § 12. vypočítají se její směrné cosiny an /^n V\- PS^ rovnice dané roviny převede se na tvar normální dle vz. (19) a (20), tak že pak známe směrné cosiny «2, /32, y2 kolmice spuštěné z bodu (9 na danou rovinu. Pak dle vzorce (24) vypočítá se odchylka co mezi oběma paprsky a hledaný úhel sevřený danou přímkou a rovinou jest (90°-o).
+§ 14. Soustava kosoúhlých souřadnic, jež jsou určeny odchylkami poloos A, tu, (7, stočí se kolem osy OP kolmé na rovinu normální rovnice P--xcosrl -{-_ycosr2-}-^cos;'3 — úř=0 z původní polohy o úhel v (obr. 11); jest určiti směrné cosiny poloos stočených X\ Y\ Z'.
+Označme odchylky stočené kladné poloosy A"" od kladných poloos X. F, Z polohy původní al, Z>,, Ln cosiny těchto odchylek an /^, yí a podobně pro poloosu F' «2« ^21 ^2 a příslušné směrné cosiny cr2, /J2, ya dále pro osu Z' #3, ^3, cs a příslušné směrné cosiny «3, /33, 7*3. Pak ve sfaerickém A X PX' jest
+neboli
+a podobně jest
+cos at — cos2 r1 -\- sin2 rl cos v a{ r= cos2 r, (l — cos v) -f- cos i'
+cos2 r2 (l — cos v)
+cos v
+^3 i= cos2 ;-o (l -- cos v) -f"" cos v-
+(45)
+Dále jest určiti směrné cosiny os stočených k nestejnojmenným osám polohy původní :
+Cos X' OZ=yl vypočítá se ze sfaerického [\ X'P Z, v němž X' P—rv, ZP=rst ^X'PZ—^L XPZ— v, kterýžto úhel jest potřebí dříve vypočítati.
+XXXIX. ﻿14
+Ve sfaerickém A XPZ jest cos XPZ— —
+sin T sin
+z čehož
+in XPZ— ± : V l — cos* XPZ
+sn
+_ + y l — cos2 1\ — cos2 r3 — cos2 /* -f- 2 cos r, cos r3 cos
+sn ;- sn r
+což dle vz.  (14) jest možno psáti takto:
+•vn f        Í sm ^2 sm ,""
+sin XPZ—                 .
+sin rl sin ;3
+kdež p2  znamená odchylku paprsku   (9 P od roviny souřadnicové Dosadíme-li tyto hodnoty do vzorce:
+cos X' PZ = cos (XPZ -v} — cos X P Z cos v -f- sin XPZsin v,
+vypočítáme
+,                (cos p — cosrj cosr3)cos i' + sin vsin fisin í>2 cos X P Z =-----                   —;-------;—                           - .
+Pak ve sfaerickém  /\ A'' P Z jest:
+y, •=. cos ťj r= cos ^j cos r3 -j- sin ŤÍ sin r3 cos Jf' P Z.
+Dosadíce   do   tohoto   výrazu   za   cos X' P Z  vypočítanou   hodnotu, obdržíme
+7j =cosr1 cos 3^3 (l —cos v) -|~ cos tu cos v ± sin v sin ftsin p2, z čehož cyklickou záměnou odvodíme:
+«2 = cos r2 cos rt (l — cos v) -)- cos (7 cos v + sin v sin a sin p3, /í3 = cos r3 cos r2 (l — cos v) -f- cos A cos v + sin v sin A sin (>}.
+.    .    .(46)
+Podobně cos a3 — «s vypočítá se ze sfaerického /^XZ' P, v němž ^CA'PZ'^3600 —<^PZ—v, tak že cos JTPZ' = cos (XPZ+ v}. Proto pro a3 obdrží se podobný výraz jako pro yl ve vzorci (46) s tím toliko rozdílem, že znaménka + jsou převrácená. Vypočítáváme tedy
+— COST-J cos 7-3 (l — cos v) -j- cos n cos v + sinv sin /a sin p2, =cosr2 cosr, (l — cos v)-\- cos ff cos v + sin v sin (7 sin p3, = cos r3 cos ?-2 (l — cos v) -{- cos A cos v + sin v sin /l sin (>, .
+.    .    . (47)
+XXXIX.
+L ﻿15
+Ve vzorcích (46) a (47) horního znaménka se upotřebí při stáčení kladném, doleního znaménka při stáčení záporném. Umístí-li pozorovatel oko své v myšlenkách do začátku souřadnic, dívá li se směrem kolmým na rovinu x cos J\ -\-y cos ra -j- s cos r3 — d = 0 a děje-li se při tom stáčení ve směru protivném, než jak se pohybují ručičky hodinové, pak se nazývá toto stáčení kladným (jak jest vyobrazeno v obr. 11). Otáčení směru opačného je záporné.
+Je-li bod P (obr. 11) na positivní straně osy X od roviny souřadnicové YZ, znamená ^l ve vz. (46) a (47) úhel kladný. Když by se pól P nalézal na negativní straně osy X od roviny souřadnicové Y Z, pak úhel PJ jest negativní, tak že sin (j, jest negativní. Podobně jest nutno dáti pozor na znaménko při sin L>2' sin (V
+Správnost výpočtu  «*, ($>,, ?* se kontroluje vzorcem  (13).
+Důsledek. Je-li úhel stáčení v = 180°, tak že cos v = — l, pak vzorce (45), (46) a (47J se zjednoduší takto:
+«j i= 2 cos2 TJ — l,      /J2 — 2 cos1
+l,
+= 2 cos2 /'3 —l,
+Y\ = Ks — 2 cos 1\ cos r.A — cos ,u, «2 — /)j — 2 cos r2 cos rt — cos G,
+=r  '   = 2 cos r   cos ?-   — cos A.
+. (48)
+Poznámka. V soustavě .souřadnic pravoúhlých jest A = iu, zn c z= 90°, tak že se vzorce (45). (46), '47) a (48) zjednoduší tak, jak jsou uvedeny v práci G. Smolaře, Mathem. podklad k vypočítávání srostlic, str. 3.—5.
+§ 15. Transformace kosoúhlých souřadnic soustavy (A a G}.
+1. Jsou-li známy směrné cosiny stočených poloos X', Yf, Z' a jsou li označeny souhlasně s § 14. «*, pL, yx, transformujeme souřadnice x, jf, z libovolného bodu B (obr. 12] ze soustavy původní v souřadnice .r', y', z' soustavy stočené takto:
+Učiňme pravoúhlé průměty jednak radia vectoru O L, jednak souřadnic bodu B x,y, z i x',y\z na osu A', pak na osu Y a Z} tak že dle vz. (1) jest
+O B cos /j — .v -\-j> cos G -|- s cos tu,
+O B COS /!  =^ X   COS íZj   -f~ )' cos ^2  ""f"" 2r' COS a3 •
+Z toho plyne:
+-y cos (7 -j- z cos u = x' ar
+a podobně jest
+}    .    .   (49)
+xcoscr-fj/         + Lr cos A = x' /Jt -\-yr /32 -|- / /J3 ,    j
+x cos ,u -f- j- cos A ~[- z         = *' ^j -f-y y2 -j- / ys .    J
+XXXIX. ﻿16
+Řešením těchto tří rovnic vypočítá se x, y, z takto :
+x sin2 (A p ai =
+(X «i -f/ «2+*' ""3). c°s ^ í^A+yA+^w, ^
+cos [i
+cos A
+cos
+sin2 (A /( G) =    cos
+i,          (^-'«! 4~y ""2 ~f •Lr/ ""3)1    c°s P
+cos <7,     (AT' /Sj -f yr p2 -f / /33),    cos A
+r*riQ u      í v   i^    —L i/T    - _   fl*   II   l        1
+LUb p,     V-1    / l     l   ^   /2     l     ""   ďS/l
+sin2 (A u (?  =
+l,            COS (7,
+COS (7,       l,
+cos,«,   cos A,
++/
+L:' «s) y^) / ys)
+.    .    (50)
+Když bychom souřadnice soustavy stočené x', y', s převáděli na souřadnice soustavy původní řešením rovnic (49), obdrželi bychom ve výsledcích méně pohodlný determinant
+= sin2 (A
+a proto raději promítejme jednak souřadnice ,r', j/', s', jednak stupně na osy stočené X' ^  V, Z', čímž dle §  1. vypočítáme
+x' -\- y cos G -\- z cos ,« = .r «t -|- j /^ -j- s ya .r' cos G -\- y'          -}- z' cos A = ^r «2 -f- j/ /32 -f- ^ ^2
+T' cosi* -f/ cos A 4- s'          =xa3 -\~y /3S + - }'3
+Řešením těchto rovnic se určí:
+sin2 (A ft (?) =
+sin2 (A ^ (?)
+5' sin2 (A fji G) =
+(x a, -f- y /J, -j- z y, ),    cos (7,    cos ,« (^r a2 -|- y fi2 -\- z y2),     l ,           cos A
+5: 72 1,    cos A
+cos (7,    (-r «2 -f j /i2 cos w,     ^ «
+3 -- y /*3 -f- j y3),     l l,         cos<7,    (4r«1 -f-j'0! 4-2
+cos<7,   i,        U-«2 + y^4-«
+cos /i,    cos A,    (jr a„ -)- j/ /33 -(- .o'
+.    .    .   (51)
+*)   Viz   B.   Niewenglowski,   Cours   de   geometrie  analytique.   Torné   III. Paris 1896 p. 34.
+XXXIX. ﻿17
+Poznámka.    V  soustavě  souřadnic  pravoúhlých  zjednoduší se vzorce (50) a <51) takto:
+x = x' KÍ -\-y' «2 --•- s' a3,
+Obráceně pak jest:
+,v' = xaí -f jí//?, + *y„ / :=#«, +^/3aH--c:y8, -' = *• «s +7 fis -f - JV
+2, Známe-li úhel <JP, jejž tvoří poloosa ^f s rovinou   K Z,
+t^,    »       »            »         F         »         Z X,
+T,    »                          Z         '         XY
+(viz obr. 3), a má-Ii stočená poloosa
+X' od rovin souřadnicových   Y Z> Z X, XY postupně odchylky <pn i^, rn Y'   •       »                    »                         »        »            »               »                   »            <p2> *ř>2, T2«
+Z'       *          *                       »                             >            »             »                 »                     »              qpg,   1Í>3,   Tg
+>
+pak kolmice vztýčená v bodě (9 na rovině Y Z svírá s osou X úhel (90 — qp), s osami F, Z"" úhel pravý. Proto, ^promítneme-li souřadnice bodu B jednak soustavy původní, jednak soustavy stočené na tuto kolmici a postupně dále též na kolmice vztýčené v bodě O na rovinách Z X, X Y, obdržíme přímo dle § 1. tyto transformační vzorce
+x sin qp = x' sin qpj -\- y sin qp2 -f- s' sin
+/ sin ^ = x' sin i/.', -j--^' sin t^2 -f- 2r' sin
+sin T m ^r' sin r1 -j- j/' sin r2 -(- ^' sin r3. *)
+....  (52)
+Uhly   <pK,   il>>,,   ry.   určí   se   ze   známých   směrných   cosinů vzorci (5)
+a (14).
+Též obráceně, jsou-li odchylky původní poloosy
+X od rovin souřadnic, stočených Y' Z\  Z' X', X' Y' postupně qp,', ti-,', rt'. Y >       »            »              »             »            »»            »        qp8, ^2'f TJ',
+Z   >        »                  »                       >                    »                  »                                    »            qp3', i^'2', T3',
+pak průměty pravoúhlé souřadnic bodu B jednak soustavy stočené x\ ý, s', jednak soustavy původní x^ y, s na kolmicích vztýčených na rovinách stočených Y' Zř, Z' X', X' Y' dle § 1. jsou tyto:
+*) Vit G. Salmon-W. Fiedler, Analytische Geometrie děs Raumes.  Leipzig 1874, p   12.
+Róz pra vy :   Roč.  XV. Tř.  II.  Č. 39.                                                                                                2
+XXXIX. ﻿18
+x' sin qp = x sin qp/ -f-y sin <p2' -\- s sin <]p3',
+y sin i/; := x sin ^/ -j- j sin ^2' -f- L sin ^3', ^' sin T = jť sin r/ -j-jy sin r2' -f- z sin TS'.**)
+. (53)
+3. Chtíce srovnati transformační vzorce (51) a (53), vyčíslíme v oněch naznačené determinanty a píšíce za stručností A, j«, G místo cosinů těchto úhlů, obdržíme :
+x' sin2 (A /* (?) = x [a{ (l — A2) -j- a2 (A ti — (?) -|- «3 (a A — u)] -f J' [& (l — A2) -[- /32 (A ta — &)-}- fis C*7 A — fi)J
+4- * Oi (i — ^2) -f ya (A .u - <0 + ys (* A — ř1)]
+á1' sin2 (A u (?) — ,v [«3 (l — (?2j -f- ířj ((? A — 4u)   j- «., ((? (u — A)]
+4~y [Ps (l — °""2) 4~ /5i (^ ^ —,«) ~h ^2 (^ ř* — ^)] 4- - [ys (i — °2) -\-7í(G^- ,«) 4- r-2 (G v — A)] •
+Poněvadž vz. (53) a (54) znamenají touž transformaci, srovnáním koefficientů proměnných veličin při .r, j/, z odvodíme důležité vzorce pro výpočet odchylek qp/, $,/, x.,. původních poloos X^ Y, Z od. rovin souřadnicových stočených, neboť jest:
+sn
+______'__        f(l (l — A2) -f- «a (A tg — (?) + t<3 ((? A — ,u)
+sin qp                                     sin2 (A jit (?)
+Dosadíce za sin 99 hodnotu ze vz. (5), obdržíme
+.          «i (l — A2 1 -4- «9 (A u — (?) -4- a- ((? A — tt)
+sin OD.   = — í-: -
+— sm (A 4u (?) sin A
+Podobně jest: sin ty' = -
+sin (A n (?) sin fí
+sin r ' -      ^(^-u.)+«2(.g(?-A) + a3(l-(?2)
+blil   c.     ----   _                                -      _        _     .
+sin (A tu (?) sin (?
+(55)
+**) Chceme-li z těchto vzorců (53) odvoditi transformační vzorce, jak je uvádí O. Staude ve své >Analytische Geometrie děs Punktes, der geraden Linie und der Ebene*, Leipzig u. Berlin 1905 str. 178, upotřebíme zde formulí (5), píšíce ve vzorcích (53):
+sin (X Y Z)
+sin qp =
+.      ,        sin (A' F' Z'} sin qp 1 =           . -
+sin A
+sin(FF'Z')
+sin qp 2 = -      v    — sin A
+sin A atd., tak že obdržíme
+x' sin (A' YZ) = x sin (AT F' Z') -f j/ sin (F V Z'} + 5 sin (Z F' Z'\ y' sin (AT FZj = x sin (A^Z' AT') \-y sin (FZ' A^') 4- s sin (ZZ' A''), ^' sin (X Y Z) — x sin (XX' Y') -\-y sin (F A"" F') -f- 5 sin (ZA""' F').
+XXXIX. ﻿19
+Pro výpočet ostatních odchylek qp8', t/;2', Ta' při ose Y a <]p3', ^3', r3' při ose Z platí tytéž vz. (55) s tím rozdílem, že místo a se píše fi pro osu F, y pro osu Z. Tyto vzorce jsou pro výpočet mnohem pohodlnější než vzorce (14).
+Příklad Je-li cos A = 2, cos n — ^, cos (7 = f a stočí-li se soustava souřadnic kolem osy kolmé na rovinu P = — x -\- 2y -\- z = 0 o úhel v ve směru kladném tak, že cos v = |, sin v = i, mají se vypočítati směrné cosiny ax. p„, yK stočených poloos X'Y^ Z!
+Postup výpočtu je tento :
+Z daných podmínek sestaví se
+sin2 A = |, sin2 tu = *, sin2 G — |- ; cos A cos /i — cos a= - i-, cos ,« cos <7 — cos A = — l""^, cos G cos A — cos tu = 0,
+což dle vz. (2) znamená, že ?/ = 90° neboli že roviny souřadnicové X Y : Y Z stojí na sobě kolmo.
+Pak se vypočítá čtverec rožního  sinu dle vz.  (4) :
+z/3 = sin2 (A ju 6} = ^2 .
+Abychom   rovnici   roviny P převedli   na   tvar  normální,  určíme   dle V' 69
+vz. (19) dělitele M=
+, tak že žádaná normální rovnice jest
+-                  __     i                     _
+V69.5        V'69.5        V69.5
+= 0.
+Dle toho jest
+cos /% = —
+5                            10
+, cos rž —
+V69.5
+V 69 . 5 '
+COS To
+V'69 . 5 '
+Než pokračujeme ve výpočtu, dříve kontrolujeme správnost normální rovnice vzorcem (13).
+Pak dle vz. (14) nebo pohodlněji dle vz. (55) vypočítáme odchylky osy stáčení od rovin souřadnicových:
+sin      = —
+7 V 69 69
+, srn <)2 =
+9^2.23
+, sin (í3 = 0,
+což znamená, že osa stáčení OP leží v rovině souřadnicové X Y\ sin QÍ jest záporný, poněvadž pól P dle rovnice roviny P jest na záporné (zadní) straně roviny souřadnicové Y Z.
+Když   tyto   veličiny jsou   určeny,   přistoupí se   k výpočtu  směrných
+XXXIX. ﻿20
+cosinů   stočených os souřadnicových XJ  Y' Z' dle vz. (45),  (46) a (47); tak že jest
+434
+69. 5. 2 ' 236
+69.5.2 ' 118 — 96 V23 69 . 5 . 2
+0i =
+fc =
+236
+69. 5. 2 '
+494
+69.5.2 ' 247 — 84 V 23
+Ví~
+118 + 96 V~23 69.5.2
+247 -f 84 V""23
+69 . 5 . 2 434
+Tyto směrné cosiny a*, jíy_, yK sestavené v řádcích i sloupcích vyhovují podmínce, určené vzorcem (13), dle něhož nikdy neopomeňme provésti zkoušku správného výpočtu.
+Dosadíce tyto hodnoty «x, /3X, yK do vzorců (54), vypočítáme:
+•v-
+249
+= *-
+
+69.5 — 48-1-32 V ""23
+69.5 — 64 V~23
+_i_ -i/
+'
+— 84 69.5
+69 . 5 —56 V23
+
+- 42 + 36 \^""23 69.5
+48-^32 V23 69.5
+207 — 28 V' 23 ~~69.5
+69.5                  '          69.5
+Chtíce nyní transformovati rovnici roviny V = 2x' - 3/-f3*' =
+ze stočené soustavy souřadnic do soustavy souřadnic polohy původní dle vz. (54) tak, aby rovnice transformováním vzniklá přímo byla normální, převeďme nejprve rovnici U' na tvar normální dle vz. (19) a (20) takto:
+
+_
+18 V 5
+_
+18 V 5
+Dosadíme-li do této normální rovnice U' za x', y, z svrchu vypočítané hodnoty, vypočítáme opět normální rovnici téže roviny v původní soustavě souřadnic:
+,_  AT (214 —96 V 23)         y (— 359 — 84 V 23) 69.6 VB""                     69.6 Vjf
+L(131 — 36 V 23)
+^ j_,            N                                             ____x      •         M
+69. 6 V 5~
+O správnosti této normální rovnice se přesvědčujeme opět vzorcem (13).
+XXXIX. ﻿21
+Odchylky os souřadnicových X,  Y, Z od rovin souřadnicových téže soustavy určeny jsou dle vz. (5) takto:
+sin ( =
+V 5
+,   sin ijj =
+V15
+4Y'2
+,   sin r i=
+V 3 2     '
+Odchylky osy X od rovin souřadnicových  soustavy stočené určí se vzorcem (55) takto:
+'-    83 V 5      .       ,_   (-6 + 4V23)V3Ó     .      ,_        32 V 3.23 ;m<3Pl  :       69.5    ' smVl  :            69.5          ' SinTl =1          69.5      '
+podobně se vypočítá sin qp2', sin t/,'2' atd.
+§16. Dvoje nebo několik stočení, o rozličné úhly okolo různých os v začátku souřadnic se protínajících, má se převésti na jedno stočení výsledné v kosoúhlé soustavě (A ju <?).
+Jsou-li transformační koefficienty pro přeměnu souřadnic po prvním stočení v souřadnice polohy původní dle vz. (53):
+	sin?/	s\ncp2'        {	sin <p3'	.... (56) souřadnic   po !•> 2'
+	— u., sin q> sint^/	sin q? sin^2'	sin <p sin i^3'	
+	sin ty           ""' sin r/	sin 4< sin r/        ,	sin r^        V2> sin r3'	
+sin T                    sin r         """"3'       sin r          ! dále   pak  jsou-li   transformační   koefficienty   pro   přeměnu druhém stočení v souřadnice po prvním stočení obdobně sin qp/'        s        sin qp2""                  sin qp3""        .				
+	sin qp             ' ' sin t^,""        s	siny sin t^2""	sin 95 sin í^3""       f	
+	sin il>            ! sinr,""	sin ty sin r2""	sin t^ sin TS""        .	
+	sinr       -^	sin T            3'	sin T	
+pak transformační koefficienty pro přeměnu souřadnic po druhém stočení v souřadnice soustavy původní
+XXXIX. ﻿22
+návodem obsaženým v práci G. Smolaře,   Mathematický podklad k vypočítávání srostlic str. 6—8, se vypočítají takto:
+í, = Oj b,-f ft
+ř2 = at b2-f n2
+* 3 = «l *>3 + «2
+f, , o2 = t\ b2-f b2 e2
+fs i   03 = &1 ^3 + &S ?3
+= c, b2 -f- c2 e2-f c3 f2,
+= C, bs
+C3 f 3 .
+(57)
+2. Při stočení několikerém spojují se postupně vždy dvě poslední stočení dle vz. (57) v jedno stočení výsledné, které zase s předcházejícím stočením se spojuje, až tím způsobem dosáhne se konečného výsledného stočení ze všech stočení předcházejících v počtu libovolném.
+§ 17. Když jsou známy transformační koefficienty pro přeměnu souřadnic stočených v souřadnice polohy původní, mají se určiti směrné cosiny os stočených «„, /í„, y„.
+Uvedené transformační koefficienty dle vz. (56) buďtež:
+Cli =
+a, =
+o, =
+sin qp,'
+sin (f2
+sin <jp3
+sin (p sin 4\ '	sin tp r           sin t/;2'
+sin i/; sin r/	sin ti-sin T2'
+sin T
+sin T
+sin qp
+sin 4'3 sin tí> sin r3' sin T
+kdež qp,/, ý,/, r,/ jsou odchylky os původních X,  F, Z od rovin souřadnicových stočených   V Z\ Z' X\ X' F'.
+Tyto transformační koefficienty a„, t»«, C« mají tytéž hodnoty jako součinitelé při ;r, j/, s vypočítaní ve vzorcích (54). Srovnáme-li tyto rovné součinitele proměnných veličin ze vzorců (54) a (53), krátíce výrazy dle vz. (2) a (6), dojdeme k řešení těchto rovnic:
+ax sin A — ct2 cos O1 sin ,u — «3 cos ?? sin <? = sin g?/ sin (A /((7),
+— «! cos t> sin A -[- K2 sin « — «3 cos f sin (7 = sin t/^' sin (A (u <?),
+— «! cos r] sin A — «2 cos L sin tu -f- «3 sin <7 = sin r/ sin (A (u <?).
+Z těchto rovnic se vypočítá
+sin <p
+sin <PJ ,	— cos #,	— COS 1]	
+sin ti'j ',	1,	— COS L	
+sin r,',	— COS L ,	1	
+1,	—  COS #,	---- COS Ťj	'
+— cos 9 ,	1,	---- COS L	
+— COS !/   ,	— COS L ,	1	
+. . (58)
+XXXIX. ﻿23
+sn ť1
+sin r
+1,	sin 9,',	— COS   tj
+— cos 0 ,	sint/>,',	— COS  L
+— cosy ,	sinr/,	1
+1,	— cos O1,	I —  COS Tj
+— cos í>,	1.	— COS   L
+— COSI?,	— COSL,	1
+1,	— cos O1,	sinqp/ :
+cos#,	1,	sint^,'
+— cos ?/,	— cos e ,	sinT/
+1,	— cos #,	— cos??
+— cos #,	1,	--- COSL
+- cos ?7,	---- COSť ,	1
+.(58)
+Pro výpočet směrných cosinů  /Jj, /32, fí3   platí tytéž vzorce jako pro s tím toliko rozdílem,   že místo g?/,  ť-/, r/ dosadí se veličiny
+y2l y3  do vz.  (58)
+«2, «3
+t/'2',
+2'-   Rovněž   pro výpočet směrných  cosinů místo qp/, i/'/, r/ dosadí se q>3', ^3'. r3'.
+Tím jest též rozřešena úloha naznačená v § 3 v poznámce  1. Determinant ve jmenovatelích  (58) jest možno vyjádřiti též takto:
+l — 2 cos s cos tj cos & — cos2 L — cos2 »/ — cos2 & == (l — cos2 f) (l — cos2 »;) — (cos s cos ?/ -j- cos O1)2
+= sin2 f sin'2 »/ — (cos L cos r] -{- cos í>)2
+= (sin f sin í/ — cos L cos ?/ — cos í>) (sin L sin )/ -)- cos f cos rt -|- cos •»•)•) =: — [cos 9- -L cos (« -f- »/)] [cos 9 -(- cos (f — iy)]
+= — 4 cos
+cos
+7? — «•
+'
+cos
+cos
+. (59)
+§18. Když jsou známy směrné cosiny «*, /3^, ^x os souřadnicových stočených k osám původním soustavy (Auff), jest určiti polohu osy stáčení a velikost stočení.
+Když soustava os souřadnicových X^ F, ^ stočí se kolem osy O P o úhel v směrem kladným, jak jest znázorněno v obr. 11.. takže X přichází do polohy X' ) Y do F', Z do Z', pak sfaerické poloměry opsaných oblouků jsou ru ?'2, 7-3, jež se mají určiti. K těmto třem neznámým přistupuje ještě čtvrtá totiž cos v.
+K určení těchto čtyř neznámých postačí tyto čtyři rovnice:
+Dle vzorce (13) jest
+1.    cos2 r, (l — cos2 A) -f- cos2 r2 (l — cos2 (t) -f cos2 r3 (l — cos2 (?) -|- 2 cos t\ cos r2 (cos A cos (u — cos G} -}- 2 cos r2 cos r3 (cos (u cos G — cos A) -|- 2 cos rs cos rt i cos tf cos A — cos ,u) — sin2 (A ;/ G}.
+XXXIX. ﻿24
+Dle vzorců (45) jest:
+2.     cos2 r, (l — cos v) -f- cos v = a1}
+3.     cos2 r2 (l — cos v) -f- cos v = /32,
+4.     cos2 ?'3 (l — cos v) -f- cos v := 73.
+K těmto rovnicím přistupují ještě pomocné rovnice (46) a (47), z nichž vypočítáme součiny cos r^ cos r3, cos r2 cos rp cos r3 cos r2, sečtouce obdobné rovnice po dvou, tak že obdržíme:
+5.    yt  -f- «3 = 2 cos rx cos r3 (l — cos v) -j- 2 cos ,u cos v,
+6.    «2 -f- 0! := 2 cos r2 cos rt (l — cos v) -\- 2 cos a cos v,
+7.    03 -\- y2 — 2 cos r3 cos r2 (l — cos v) -f- 2 cos A cos v.
+Dosadíce za cos ;'t, cos r2, cos r3 a jejich součiny do rovnice 1. hodnoty vypočítané z rovnic 2. až 7. a krátíce vzorcem (13) vypočítáme
+2 cos v sin2 (A fí (?) = KJ (l — cos2 A) -f- /i2 (l — cos2 p) -f- y3 (l — cos2 (?)
+-f-(«2 -t-/31)(cosAcosl<ř— cos(?)-|-(/Í3-}-y2)(coslu cosff — cos A) -)- (^1-f-a3)(cosffcosA — cos/í) — sin2 (A « a)......(60)
+Znajíce cos v, vypočítáváme cos 7^, cos r2, cos^3 z rovnic 5., 6. a 7. takto
+cosr
+,  i /  (^i -f- «3 — 2 cos ft cos v i («2 -|- /ířj — 2 cos (? cos v] 1 ~    - f            2^O""—~cos vj ((i3 -j- yí^-^čošTčos v)
+i / («2 4~ 0i — 2 cos G cos v) í 08 ~h ft — 2 cos A cos v) 2(1 — cos v) (yj -j- a3 — 2 cos /i cos v)
+2 cos A cos v) (/yl -\-«3 — 2 cos ,u cos v)
+(61)
+_ 2(1— cos v) («2 -|- /Jj — 2 cos (? cos
+Z obou znamének + bére se do počtu pouze to, které se shoduje se znaménkem jmenovatele příslušného odmocněnce (61).
+Chtíce vypočítati odchylky osy stáčení od rovin souřadnicových Y Z, Z X, X Y) odečteme obdobné rovnice ve vzorcích (46) a (47), tak že jest
+sin
+2 sin A sin v
+y, — «a
+Sin  ř)n  ----
+sin (»s =
+2 sin /<• sin v
+2 sin (7 sin
+(62)
+XXXIX. ﻿25
+Při upotřebení těchto vzorců buďme pamětlivi, že při stáčení ve směru záporném sin v jest záporný.
+Důsledek Při stáčení o 180° není možno upotřebiti vzorců (62), poněvadž dle vz. (48) jest
+(63)
+a proto v tomto případě vypočítáme ze  vz. (61):
+T/		(«2 -|- cos G) ( a;i	f- cos ,u)  i
+		2 (/js -f- cos A)	
+cos ry =: rr\c f -- -	-V	(03 -f cos A) (/i,	í- cos G)
+		2 (j'j -j- cos ,u)	
+	,v	(j>i -f cos p) (y,	-\- cos A)
+(64)
+Z obou znamének + bére se   do počtu pouze to,   které se shoduje se znaménkem příslušného jmenovatele v odmocněnci.
+Poznámka. V soustavě souřadnic pravoúhlých zjednoduší se vz. (60) takto:
+cos v — \ (al -f- /Í2 -f y3 — 1) a ze vzorců (61) odvodíme:
+cos r, = T l/ --
+cos n =
+— cos v) íyt 4~ as)'
+2(1 —cos v) («,-!-/§!>•
+Vzorce (62) v pravoúhlých souřadnicích změní se takto:
+cos r  -- -
+sin
+, cos r2 =
+— ,  cos r3 =
+2)        *»vy-'   '   Q     ------       0
+sin v                      2 sin v
+Pro stáčení o 180° v soustavě souřadnic pravoúhlých ze vzorců (64)  se odvodí
+§ 19. V soustavě kosoúhlých souřadnic (A ,u <?) polohy původní jest známa normální rovnice roviny T — h x -j- ^ j -\- 12 — ř)=0 a normální rovnice libovolné roviny
+XXXIX. ﻿26
+U' ~d x' -\- eyf -\-fz' — ď = 0 v soustavě (K ji <?), stočené o neznámý úhel v kolem osy kolmé na rovině známé normální rovnice P=a x-\- by-\- C z — ď"" = 0; změří -l i se úhel o>, jejž svírají roviny Ta U', má se určiti úhel stočení v.
+Bereme li do počtu zatím stáčení ve směru kladném (jak jest znázorněno v obr. 11), pak směrné cosiny poolos stočených dle vz. (45)> (46) a (47) jsou tyto:
+«! :=rt2(l —cos v) -|- cos v,    (ij ==«L(!— cos v) -f- cos <? cos v — si
+^j — 0f(l — cos i^-j-cos.ucos
+«2 =«^(1 —cosv) -j- cos 0 cos v -f- sin v sin ff sin (>3,   /i2 = $2(1 — cos v)-]- cos v,
+y9 rr dí(I — cos v) -j- cos A cos v — sin v sin A sin (>,,
+«3 — #<:(! —cos v] -4- cos;t cos v — si ní' sin ft sin(>2,
+j33 — bc(\ —cos v] -j- cos A cos y-j-sin v sin A sin (>,,    y3 =f2(l — cos v) -j- cos v.
+Transformujeme-li souřadnice *', j/, -' rovnice L/' ze soustavy stočené do původní dle vz. (54), píšíce za stručností A, f«, (7 místo cos A, cos ,u, cos <?, odvodíme:
+U' sin2 (A p (?) - x [K, { (l — A2) d -\- (\i A — 0) e -f (<y A — tu)/ }
+-f «2 l (A u-o) d + ( l - í*2) * -f (tf ř* - A)/ ]
++ «, ( (A a - ?í) d + (fi a - A) , -f ( l - ^ )/ j]
++^ [či { (l -AV+ C« A - (7) , + (ff A - ři.)/ }
+-j-^, { (A ,«-<?) rf-f- (l - M2) ^ + (o M - A)/ j
+{ (l - A2) d
++ y3 { (A d-í() rf+ (it< 0   -  A) , -f ( l - *2)/ j] = 0,
+kdež 67/ znamená opět normální rovnici stočené roviny U' v původní soustavě souřadnic. Dosadíme-li do této rovnice za ««, 0X, yK příslušné hodnoty svrchu naznačené, vyjádříme-li pak cos 03 dle vzorce (24), provedeme li naznačené násobení a krátíme-li celou rovnici veličinou sin2 (A tu G) = zJ3, obdržíme rovnici
+cos o? z/g ~ (l — cos v) z/g cos Fcos A -(- cos v z/g cos
+// L /                      \ hk l
+sin v    sin A sin (>,    d ef   -\- sin fi sin (>2   í/ ^ /"" l G (i                                 G l A
+-f- sin G sin (>3
+def u A l
+(65)
+XXXIX. ﻿27
+Zde A, ^i, a opět psáno místo cosinů těchto úhlů, P znamená úhel, jejž svírají plochy T : P, A— U: P, ® = U: J1, kdež U jest rcvina v nestočené soustavě souřadnic téže polohy, jakou má rovina U' v soustavě stočené, tak že jest její rovnice
+U
+ey -f fs — d' = 0.
+Cos F, cos A^ cos (d vypočítají se vzorcem (24).
+Nyní zbývá zjednodušiti součinitele při sin v v rovnici (65). To se provede, dosadíme-li za sin (J11 sin (>2, sin Q3 dle vz. (55) funkce a, b, c, tak že součinitel při sin v může se psáti v této formě:
+a b c		hkl		a b c		LL/		a b c		*L/
+G 1 A u A 1		def	4-	/iA 1 1 (7/1		í*// o-l A	+	1 (7/1 o-l A		def « A 1
+Provedeme-li v tomto výraze naznačené násobení determinantů, vytknouce společného činitele z/„, zjednodušíme součinitele při sin v v rovnici (65) takto:
+\hkl
+(7       C
+Dle toho zkrátí se rovnice (65) takto:
+cos 03 = (l — cos v) cos Fcos ,</ -j- cos i' cos & -\-
+jež se má řešiti dle v.
+Zavedeme-li za zjednodušením
+Q = cos Fcos //, AT= cos Fcos // — cos 6>, í2 = pak rovnici (66) jest možno psáti ve formě:
+cos co = Q — Y\7cos v -j- íi sin i^. Dosadíme-li do této rovnice
+sin v
+def a b c
+.(66)
+/;L/ a b c
+sn v =r        l —
+vypočítáme:
+cos v =
+N (Q — cos o) + íi V TV2 4- ^2 — (Q — cos
+—                 ' -
+eo
+2-.      -.(67)
+XXXIX. ﻿28
+Hoření znaménko -)- platí pro stáčení ve směru kladném, dolení znaménko — pro stáčení záporné beze zření ke znaménku předíi, poněvadž toto před druhou odmocninu se dostalo odmocněním \/í22.
+Důsledek 1. Platí-li podmínka, že stočená rovina U' ve stočené soustavě kosoúhlé (A ;t (?) má touž polohu jako rovina T v původní soustavě, neboli že
+// = d, k — e, l =/,  A=T, & — 0 , pak zjednoduší se vz. (67) takto:
+cos v
+Q — cos to
+TV
+cos2 A — cos to cos2 A — l
+Nahradíme-li v tomto vzorci cos v, cos to funkcemi úhlů polovičních, obdržíme
+co
+sin — v              2
+sin — —         —7-2         sin A
+(69)
+Důsledek 2.   Jsou-li roviny  T,   U,   P téhož pásma nebo-li jsou-li hrany jejich rovnoběžný, pak platí podmínka jejich tautozonálnosti
+čímž vzorec  (67) se zjednoduší takto:
+Q — cos to        cos r cos A — cos ca
+cos v
+N
+cos Fcos A — cos©
+.... (70)
+Důsledek 3. Je-li cos ca =r l, což znamená, že rovina U' jest rovnoběžná s rovinou T neboli že rovina U má po stočení splynouti s rovinou T, pak
+N* + W — (Q — cos to)2,
+tak že druhá odmocnina vzorce (67) rovná se nulle;   pak zkrátí se tento vzorec takto:
+N           cos Fcos A — cos®
+cos v —
+Q—l
+cosJ^cos A — l
+(71)
+Důsledek 4. Má li býti rovina U' rovnoběžná s hranou, jež jest určena
+jakožto kolmice na rovinu normální rovnice   T__h x -|- ky -\-1 z — d = 0,
+pak ve vz. (67) cos o? — 0, poněvadž to = 90°, v kterémžto případě možno usáti :
+NQ + i
+COS V r=:
+(72)
+XXXIX. ﻿29
+Příklad   k   důsledku   3.    Zvolíme-li   základem   příklad   uvedený l                    l                    2
+v §  15.,  jest cos A —i  0  ,   cos p = — ,   cos <s = -Q  , P  =
+10 -^ 4. -4L= =0
+_
+V69.5       V 69. 5        V69.5
+
+18 V5         18 V5         18 V5
+_   .r (214 — 96 V23)_      j/ (— 359 — 84V' 23)       g(131— 36 V 23) _ 69.6 V5                      69.6 V 5                     69.6VŠ
+Stočením kolem osy kolmé na rovině P má plocha
+U
+10
+15 y
+18V5
+18 V5
+15 1ŠV5
+splynouti   s plochou  T,  tak že cos w = cos (Uf: 7^) — 1.   Z těchto podmínek jest vypočítati úhel stočení v.
+Dle ví. (24) se vypočítá:
+COS 1            COS	\J- • r) — ó . ( rj • p\	69 19	V69	> 24909         361
+	3 517	V69   ' A/"" —		9 . 692        9 . 69 ' 10764               156
+h,	( '      7         9 . 69 k l 1 C	208		9.692   ~      9.69 '
+** —   d t ai		""9	.69""	
+Z těchto veličin vzorcem (71) se vypočítá
+— cos®         10764
+cos v
+cos r""cos A — l
+17940
+což se shoduje s podmínkou  uvedenou v příkladě §  15.,   tak že tím jest potvrzena správnost vzorců příslušných.
+§20. V kosoúhlé soustavě souřadnic (A/^tf) neznámá rovina M svírá s rovinami Nlt 7V2, N3 známých normálních rovnic úhly t^,, ^2, ti'3; má se určiti rovnice roviny J\I.
+Jsou-li známy tyto normální rovnice rovin:
+XXXIX. ﻿30
++ /3.c; — 0, a označíme-li neznámou normální rovnici roviny M výrazem
+M— ax-\-by-{-cz = 0,
+pak neznámé veličiny a, b, c vypočítají se řešením soustavy těchto tří rovnic sestavených dle vz. (24), v nichž za stručností místo cos A, cos ,u, cos G se píše A, [i, G:
+I.                « [kv (l — A2) -f ^ (A « — 0) + ^ ((? A — ,u)]
++ b fa (l — ,u2) -f- /, fit G — A) -f A, (A ft — <?)] -f c [ A (l — <?2) -f- A! (ff A — u) + A! (u <7 — A)] = cos 4\ 4, 1
+II. a III. příslušné rovnice jsou téhož tvaru s tím toliko rozdílem, že ve II. rovnici místo Alf An /ít 4\ se píše /z2, L2) /2, tí>2 a ve III. rovnici A3, ^a> 4» ^3- Označíme-li koefficienty při a, b, c za stručností písmeny Ht K, L, jest možno tyto rovnice psáti takto:
+a HI -f- b K\ -j- c L! =: cos ^ z/3, a H^^- b Kz-\- c Lz^=. cos ť,-2 z/3, # //3 -j- ^ A
+c L3 = cos i^3
+kdež z/g := sin2 (A n G).
+Dosadíme-li do těchto rovnic za  11,, K,., L, příslušné hodnoty, vypočítáme
+yi*iA
+K, L9
+Dále jest.
+cos cos cos
+0      1   (> u
+b —
+«       A'      /
+cos 4l
+cos t/A
+COS 4% 'L$ K$ ^3
+0     G   l A
+'.   /
+AJ /Čj /j h   k   l
+2     2    2
+! cos ^'j //j kl /,
+COS 1Í*    /?   A   /
+COS t/'3 7/3  y('3 /g
+0     ,u   A l
+
+A! A, /j
+/Z.)   /Vo   řn
+(73)
+xxxix. ﻿když psáno A, (u, G místo cosinů těchto úhlů.
+Dosadíme-li tyto hodnoty za a, ó, c do rovnice M, obdržíme normální rovnici této roviny a krátíme-li jmenovatelem, odvodíme všeobecnou rovnici roviny M:
+cos
+COS
+cos 0
+\ &i l\
+1
+cos 4\    i   \ 4
+COS 1/'2 ^2 /í'2 /2 COS tř>3 //g L3 /3
+0     tf   1   A
+cos
+COS COS
+0
+u   A  1
+= 0,    (74)
+když opět za stručností psáno A, ,«, o místo příslušných cosinů.
+Poznámka. V soustavě souřadnic pravoúhlých cos /. ~ cos « — cos a =r 0, tak že rovnice (74) se zjednoduší takto:
+cos 4\ k\ 4
+COS t^2 ^2 4 COS 1/-'3 ^3 4
+4 cos 4\ 4
+?2 COST/>2 4
+'l3 COS 1^'g 4
+COS 1^!
+COS ^2 COS t/>3
+§ 21. Určíme-li návodem naznačeným v § předcházejícím tři známé roviny Mlt M2, M.A krystalu stočeného v soustavě souřadnic polohy původní, jest vypočítati točnu P a úhel otočení v.
+Jsou-li   v kosoúhlé   stočené soustavě (A («ď]   normální rovnice ploch
+M2 = 4 x' -f eay -t-/2 z' — 0,
+a jsou-li
+M3 = a.A x -4- b.A y -]- c3 s = 0
+II.
+normální rovnice týchž rovin v původní soustavě souřadnic, určíme směrné cosiny os stočených «*, /^, j>x, dosadíme-li do rovnic I. za ,r', j>', z' příslušné transformační vzorce (54). Uspořádajíce rovnice dle proměnných veličin *•, y, z a píšíce opět A, tu, (7 místo cosinů těchto úhlů, obdržíme:
+J/j sin2 (A ji <y) = AT jWj třj (   l —- A2) -j- ďj «2 (A ,u — <? ) -(- ^4 «3 (<7 A — ;w )
+4-/!«! (« A - /•) -i-/! «22 o« i—A ) +/i «33 (* i - c?2)]
+-j- y \d\ ftl(   l — A2) -f- dl /J2 (A u — <? ) -j- dv /33 ((7 A — u ) 4~ 'i /^i (ř1 A — <? ) 4~ ^i /^a (   ^ — tM2) 4~ ^i /^3 (ř* ^ — ^ )
+-f /i A (* * — f*) 4-/i /J2 C"" a — A ) -f /"", /33 ( ! — O]
+4~ - í^i y\ (   l — A2) -j- dl y2 l A 4a — <> ) -j- dl y3 ((? A — ,u )
+4- /i y! («i -,« ) 4- .A j-2 (/• * - A ) 4-/ y»J ( i - *2)] = 0-
+XXXIX. ﻿Podobné výrazy obdržíme též pro plochy M2, M% s tím toliko rozdílem, že místo úfn L,, /j všude píšeme jednak d2, r2,/2, jednak ds, e3} f3-Srovnávajíce tyto rovnice s rovnicemi II., poněvadž koefficienty týchž proměnných x, y, z jsou si rovny, přicházíme při výpočtu směrných cosinů an ""21 ""3 k řešení této soustavy rovnic:
++ a, [rfj (A ,,-*) + ^ (l - *»*)+/, (fi * - A)]
+4- «3 [rf, (A <7-4u) -f- ^ (/i G ~ A) -f /, ( l — (?2 )] = a, sin5' (A a o),
+,« ~ "") -f/2 (^ —
+- «s K
+- *8)] = «8 sin2 (A
+«j [d3 (l —A2j -)- ť3 (A /< -- (?) -|-_/3 (A tf — ^t)]
+H~~ a2  IXs  (^ tl~G) ~\~ eS  (l  --- í*2 ) """"h/S C""' G---^)]
+-(- «3 [í/3 (A G —11} -f- í""3 (</ <> — A) -}~_/3 (l — <>2)] = a3 sin2 (A tu <7xi.
+Vyčíslíme li   příslušné   determinanty,   krátíce   veličinou    sin4 (A u o) vypočítáme:
+a\   d\   c^   /x
+CÍo        ířo        to         /o
+0     l    ff    fi
+^i ', A
+^3^3/3
+i     «á =
+0    (?    l    A
+tfi   ^i   ri   /i
+0
+A    1
+e2/2 ^3/3
+(75)
+d, e, /,
+Pro vypočítávání směrných cosinů /3j, /32, ft3 platí tytéž vzorce s tím rozdílem, že místo a se píše b a místo « se píše /l
+Vypočítávajíce ylí y2, y3, pišme ve vzorcích (75) místo « . . . y. místo a ... c.
+Když jsme takto vypočítali směrné cosiny stočených poloos, pak určujíce polohu osy stáčení a velikost stočení, pokračujeme dle § 18.
+§ 22. Přechod k rovině a ose srostlicové.
+1.   Leží-li   osa   stáčení  v   rovině   souměrnosti   krystalu,   pak   rovina
+XXXIX. ﻿srostlicová rozpoluje úhel v, jejž tato rovina souměrnosti točením opsala. Je-li tedy A, normální rovnice uvedené roviny souměrnosti v původní soustavě osní (A tu (?) a A2 normální rovnice této roviny souměrnosti po stočení, pak vypočítáme všeobecnou rovnici roviny srostlicové 5 dle vzorce (29), tak že jest
+Si: A, -f A2 ..........   (76)
+S touto   rovinou srostlicovou jest zároveň rovnomocná druhá rovina srostlicová S' odvozená dle vz. (28)
+(77)
+jež na oné rovině i"" stojí kolmo.
+2.  a) Obnáší-li   úhel   stáčení   okolo   libovolné osy  180°, pak u tvarů souměrných a rovnoběžnoplochých   rovina   srostlicová   jest   kolmá na ose srostlicové, jejíž směrné cosiny jsou určeny vzorci (64).
+Z>) U tvarů souměrných a nerovnoběžnoplochých rovina srostlicová není kolmá na ose srostlicové, kolem níž stáčení obnáší 180°, a jest nutno vypočítati ji jakožto rovinu rozpolující hranu srostlicovou mezi rovinami souměrně položenými.
+c) U tvarů enantiomorfních, srůstají-li dva krystaly pravé nebo dva levé, není možno osu srostlicovou nahraditi rovinou srostlicovou. Pakli srůstá pravý tvar s levým, pak polohu srostliccvou možno jest určovati pouze rovinou srostlicovou a nikoli osou srostlicovou.
+d} U tvarů asymmetrických jest možno vysvětlovati polohu srostlicovou jednak rovinou, jednak osou srostlicovou hemitropní.
+3.  Když neleží osa stáčení o libovolný úhel  v v žádné rovině souměrnosti   krystalu,   jenž   po   případě   může   býti   též bez roviny souměrnosti, pak   jest   možno   vypočítanou   rotaci   převésti    na    hemitropní,   možno-li rovnomocné   osy   krystalu   zaměniti   tak,   aby   směrné   cosiny   stočených poloos souřadnicových vyhověly  podmínkám   vzorců   (63),   načež se upotřebí vzorců (64).
+§ 23- Vzorců v této práci odvozených možno jest užiti ve všech soustavách krystalografických, při čemž často nastává značné zjednodušení.
+a)   V soustavách monoklinických učiní se l = G — 90°, (<t > 90°.
+b]    V     soustavách     hexagonálních     a     trigonálních     jest A — í* = 90°, a =120°. Ze čtyřčetného symbolu roviny (h i k 1} odvodí se její   parametry   na   vodorovných   osách   X,   Y dle jednoduchých   poměrů
+OfJ= - - ,   03=    .- , při čemž indexy vyhovují podmínce
+//                       1
+h -\-i-\- k = V> .........     (78)
+Odůvodnění viz: P. Groth, Physikalische Krystallographie, II. 316 v oddíle o hexagonální soustavě krystalové.
+XXXIX. ﻿34
+c] V soustavách krystalových, v nichž osy stojí na sobě kolmo, jest A = fi — a = 90°, v kterémžto případě zjednodušeně se počítá, jak vyloženo jest v práci G. Smolaře »Mathematický podklad k vypočítávání srostlic*, kdež jest vypsána též příslušná literatura.
+§ 24.   Dva nové výrazy pro sin (Aj»<?).
+Sestavírne-li všech devět směrných cosinů stočených poloos v soustavě kosoúhlé (A (.1 G) ve smyslu § 14 do determinantu:
+4,=
+a dosadíme-li zde za aXí /ix, y*, hodnoty vzorců (45), (46), (47), upotřebíce pak vzorců (4). (13)  a (14), vypočítáme :
+^/3 — cos2 v sin2 (A ^t (?) -j-
+-f-sin2 v (l—cos v) [cos r, sin(r2 r3A)-{-cosr2sin(r3 ^ tu) 4~cosr3 sin(^j r26í] ~
+-\- sin2 v cos v [sin2 (r2 rg A) -j- sin2 (rz rí fi) -|- sin2 (^ r2 (?) -f-
+-f- 2 cos A sin (rj ra (?) sin (r3 r, ,u) -(- 2 cos ft sin (r2 r3 A) sin (^ r2 (?) 4-
+-f- 2 cos G sin (r3 ;-j f/) sin (r2 r3 A)]
+= sin2 (A fi <y).
+V této rovnici zajímavé jsou nové formy sinu trojhranu (A (u <>), neboť
+[cos r, sin (rá rs A) -j- cos 7'2 sin (r3 r^ \ič) -f- cos r3 sin (rt r2 (?)]2
+= sin2 (rs r3 A) -f sin2 (rs ^ ř<) -f sina (^ ra (?) -f-
+-f- 2 cos A sin (r, r2 <?) sin (r3 r^ (i) -f 2 cos ttt sin (r2 r3 A) sin (r{ r2 (?) -j-
+-p 2 cos (? sin (rs rl (i) sin (r2 rg A)
+— sin2 (A /i G).
+§ 25.  Doplněk literatury.
+A.   John sen,   Uber   Zwillingsbildung   Centralblatt f. Min. etc.  1903. 534
+bis 537.  (Ref. Zeitschr. f. Kryst.  1906. 41. 522.) E. voň Fedorow, Einige Folgerungen aus dem Syngonieellipsoidgesetze.
+Zeitschr. f.  Kryst.  1905. 40. 332. C.  Briot-J. Bouquet,   Legons   de   geometrie analytique.    Dix-septiéme
+éd. par M.  Appell. Paris  1896.
+13. Niewenglowski, Cours de geometrie analytique. Paris 1.1894. III. 1896. G.   Sál m on,    Analytische    Geometrie   děs   Raumes.    Deutsch   voň   W.
+Fiedler. 2. Aufl. Leipzig 1874. M. Simon,   Analytische   Geometrie   děs   Raumes.   Leipzig,   Góschensche
+Verlagshandlung 1900. Otto   Sta udě,   Analytische   Geometrie   děs   Punktes, der geraden Linie
+und der Ebene. Leipzig, Berlin.  1905.
+XXXIX. ﻿35
+O. Fort-O. Schlómilch,   Lehrbuch   der  analytischen Geometrie.   Be-
+sorgt voň R. Heger. Leipzig I. 1904. II. 1898. H. Weber-J. Wellstein,   Encyklopádie  der Elementarmathematik. II.
+Leipzig  1905. F. V. S t u d n i č k a, Úvod do analytické geometrie v prostoru. V Praze 1874.
+XXXIX ﻿* ﻿Tab. l.
+K'         A""
+\
+./ m
+R
+.s
+\
+
+ ﻿* ﻿Tah. II.
+Rozpravy Česki Akademie. Třída l RoíXV teCo. Čís.39. ﻿*"

@@ -1,0 +1,1796 @@
+"","x"
+"1"," ﻿ROZPRAVY
+
+
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMÉNÍ PRAZE.
+
+
+ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO \\±
+
+
+POZNÁMKA
+
+
+
+
+
+THEORII INTERPOLACE.
+
+
+NAPSAL
+
+
+LERCH.
+
+
+PŘEDLOŽENO DNE r». LEDNA is;»-_>,
+
+
+yv^*; v-*
+
+
+***3$>
+
+
+ž^r> •••-'-•
+
+
+-K7ř
+
+
+
+
+
+
+
+
+
+
+
+1'RAZE.
+
+
+NÁKLADHM ČKSKÉ AKADEMII- CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO Yl':nV, SLOVESNOST UMĚNÍ. ﻿TtsKHM OTTY PKAKE. ﻿1. Budiž
+
+
+
+
+
+-f- -f- tf„_
+
+
+libovolná celistvá funkce stupně //,./-„, ,/Vg utvořme podíl determinantů
+
+
+(1)
+
+
+
+
+
+
+
+
+•'o -f/o ••••
+
+
+pak libovolné veličiny
+
+
+
+
+
+
+
+
+1,7* /y*
+
+
+•••«*!
+
+
+
+
+
+.rh .r/,2...
+
+
+Násobímeli sloupce determinantu čitateli řadě čísly <?„, tf„_i, řř„_j, ... (/dečtemeli výsledky sloupce posledního, zbude determinant
+
+
+'///'""
+
+
+'•'O'1 »*••*• »''(»• ««--«*'
+
+
+kde jsme omezili vyjádření prvního řádku. Odtud pak obdržíme
+
+
+
+
+
+/>» -^—— /•*
+
+
+'••••//'1 '7""
+
+
+
+
+
+...«
+
+
+
+
+
+**o >•••*!
+
+
+Jednotlivé členy posledního součtu jsou celistvé souměrné úkony veličin ./•«, ./•/,, jak brzv ukážeme.
+
+
+
+
+
+Rozvinemeli čitatele podlé prvků posledního sloupce vyjádřímeli jmenovatele rozdílovým součinem, obdržíme zkrácení
+
+
+./'| (./'n
+
+
+
+
+
+(.»-,)
+
+
+-i-
+
+
+
+
+
+
+
+
+
+
+
+-0) (a-/i ÍT,) (r/, -Oi -i) čehož plyne jednoduchým výpočtem vztah
+
+
+WP§ •''] •''/»
+
+
+(-^A !Í>i -ř'/i
+
+
+který sloužiti muže rekurrentnímu stanovení funkcí 1</,. Máme postupně
+
+
+
+
+
+
+
+
+﻿Volímeli F(x) bude postupně
+
+
+
+
+
+
+
+
+obecně
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+čili explicite vyjádřeno
+
+
+
+
+
+l./-,./,*---
+
+
+Qr» />•
+
+
+
+
+
+
+
+
+.r/, ./•/,'•------11//1
+
+
+l'-|l**ffc •••**	o'1
+
+
+•	l ...^	.
+
+
+c*//J «^	V1
+
+
+
+
+
+•/• '<(( /v» ř""t
+
+
+-'o •••«*•
+
+
+
+
+
+Vzorec tento dlužno považovati zobecnění elementárně rovnice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""""l
+
+
+Veličina (5) právo patrně celistvá souměrná funkce veličin ,rrt ,.r, ,...;/•/,, rozměru totéž platí následovně výrazu (2), který tedy lze psáti
+
+
+2*)
+
+
+.r,
+
+
+rovnice (4) máme
+
+
+
+
+
+O'o *i) y/« Cro
+
+
+(^1 ^íž) (^0
+
+
+
+
+
+
+
+
+<*!, n--h)
+
+
+••••*•
+
+
+Násobímeli tyto rovnice řadě ./•„ (.r0 (x0 ocz) (.r0 sečtemeli výsledky obdržíme
+
+
+(r0 arj (.rt a?a) (ar0 a;,)
+
+
+X\) Cro ^2) (^o
+
+
+\*^*o 3'i) (xtí X*) \.Ty xmj (xo xm)
+
+
+Jelikož při odvození vzorce (4) nepotřebovali jsme předpokládati, /M./) celistvá funkce, nýbrž může F(x) vzorci (1) znamenati zcela libovolnou funkci, platí také vzorce (1), (4), («) zcela identicky, máme takto («) pro libovolnou funkci f(x) Newtonův Gauss ftv interpolační vzorec
+
+
+f(x) =f(xl) xí)/l (xl,x,í)-}-(x xl)(x xtl}ftl (x^x(1,x3}
+
+
+-}- Xq) (Xi Xtl X4) ..........
+
+
+(^i Xq) Xm) Xt^ Xm)
+
+
+který zobecňuje známý zv. vzorec Taylorév% jenž odtud vznikne pro
+
+
+(6)
+
+
+
+
+
+
+
+
+Poslední člen #,)...(# xm} .r, .r„ xm) při interpolaci vynechává (poněvadž právě neznáme hodnotu funkce f(x) pro libovolné místo) zove zbytkem interpolačním. Jedná sblížené udání chyby, jaké dopustíme vynecháním zbytku
+
+
+tomu účelu užijeme následující d&lešité vety. Utvořme funkce rozdílové
+
+
+(x) (x] (x) ix) (x)
+
+
+AkF(x] A*-* F(x] ,/*-i F(x
+
+
+kde <2- reálná veličina kladná neb záporná. Pak zní míněná věta následovně: žil reálná spojitá funkce reálné proměnné (x) -\- stec «„,«,,... «.n pak lze ustanoviti dosti malé tak, aby též n-tá funkce rozdílová /"" F(x] zmizela jednom místě uvniír interval (rc0,«,,... «„) .*)
+
+
+Této věty užijme nyní při determinantu
+
+
+z'- ft^ .». \~>j
+
+
+1/y* yfl 'Y*
+
+
+»*/ \Ms iC' «A/
+
+
+(>-\ -----
+
+
+L»/ ii'i''l...-A'i/(.íyii
+
+
+ÍP» O.' ./' ""/""(.r
+
+
+tento jest reálnou funkcí proměnné mizí n-\-\ místech: .r,, x„,... musí tedy uvnitř intervallu omfezeného největší nejmenší právě psaných veličin existovati hodnota pro niž .•4nF(s) pro niž
+
+
+... ;/!i» ./»/U)
+
+
+
+
+
+... X*~l f(X)
+
+
+r,./-,8___i-,""-1.*-,'1 f(x})
+
+
+1^» /y> /y» -----
+
+
+njn
+
+
+řešením dle .-lnf(z) plyne odtud rovnice
+
+
+x'2 ... xn~ f(x)
+
+
+•••.',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+čili dle (l):
+
+
+\t*
+
+
+takže zbytek řadě ((>) zní
+
+
+
+
+
+
+
+
+
+
+
+(,ť
+
+
+
+
+
+
+
+
+t>«
+
+
+Najisto platí veta pro nekonečné malá jsouli derivace a/, //-té včetně konečný spojitý.
+
+
+IÍIJ7 ﻿(8)
+
+
+Vzorec (7) vyjádřen tvaru explicitním dle (3) přejde následující
+
+
+/(*•)
+
+
+
+
+
+
+
+
+(/v»____ _____ 1"" (ff* 't*
+
+
+•«/!
+
+
+______/&)______
+
+
+
+
+
+•••••••••••
+
+
+->*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+který není nic jiného než známý interpolaČni vzorce Lagrangcítv udáním zbytku.
+
+
+toho plyne zároveň, interpolace Newtonova Lagrangeova jsou stejně přesný, majíce vždy týž zbytek; jsoutě podstatě totožný liší pouze formálně.
+
+
+Předpokládámeli, funkce f(p) její prvých derivac jsou spojitý mezeře (#, ,#2,... x„), pak plyne okolnosti, determinant /*""(«) mizí místech #,#,,....*'«, též w-tá derivace jeho zmizí určitém místě řečené mezery;*) toho obdržíme podobně jako výše vzorec
+
+
+
+
+
+
+
+
+Zbytky Lagrangeova prokladu též prokladu obecnějšího ustanovil základě počtu integrálního poprvé pan Hermite.***)
+
+
+Lagrangeův vzorec interpolační byl zobecněn panem Hermitem uvedeném místě, způsobem elementarným bez udání zbytku panem Gomes Teixeirou.***) Neli týmž, tož aspoň analogickým vzorcům bychom dospěli následujícím způsobem. Utvořme determinant
+
+
+,-*2 r*n (*A
+
+
+\"")
+
+
+1/y» /y*
+
+
+
+
+
+(A-)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'/*(*,)
+
+
+
+
+
+Srovnej Schuar/, Dcmonstration élémentaire ďune propriété fondcimentale děs fonctions interpolaires. Atti della Accademia delle Scienze Torino, vol. XVII, IH82. Aneb: (iesammelte math. Abhandlun^en, II. Jel. (Berlin, Sprinter, ISÍiu) ,*i()7.
+
+
+Journal fůr die reine und angeuandle Mathematik, sv. 84.
+
+
+'-::;:'::') Mémoires Societě royale Sciences Liege, řada, sv. Courso Analyse infinitesimal, vyd., str. 206.
+
+
+668 ﻿jenž vznikne determinantu (A) tím, určitý počet řádků nahradí derivacemi prvými, druhými atd. řádků ostatních. Vyskytnou takto determinantu posledním sloupci prvky /(#, )./'(>,) •/(V|~1)Ori) ;/(#«) »/'(#«)» yi^-1)^) ;... součet indexů '',-)-'^ ••• bude roven Předpoklá-dámeli, derivace funkce f(s) jsou intervallu (x, rr2 ...) spojité //-tou, pak determinantu patrno, /<' (s) mizí jednoduše, 1ia «,-násobně, x,, «t*flásobné, atd., takže známe celkem ;/-f- míst míliových, nichž některá kupí mnohonásobná. toho pak plyne, 7/(M)(~) zmizí aspoň jednom místě uvažovaného intervallu, čehož obdrží rozvinutím ;/-té derivace determinantu (A') rovnice:
+
+
+1/y* /v-* /v""»
+
+
+tX/ »*/ tAV
+
+
+
+
+
+/v* /y* .•v*
+
+
+•A/ *// tA/
+
+
+
+
+
+fc>
+
+
+
+
+
+*A/
+
+
+2',, ^r,,
+
+
+xn—l	/(*)	
+
+
+n""1	/(./:,)	
+
+
+l).r,»-	V C'',)	•
+
+
+o	/W	
+
+
+•	•
+
+
+
+
+
+/•v* /y»^ /y»O .'Tt
+
+
+tA/ tA/ tAV tA/
+
+
+1/yt /v» /y» /y»
+
+
+»A/ *A/ t^/ lA/
+
+
+
+
+
+»A/ tA/
+
+
+1/y» /y» /y* »*yO
+
+
+
+
+
+
+
+
+ktf.rýžto vzorec právě obsahuje míněné zobecnění interpolace Lagrangeovy, takže zbývá pouze rozvinouti levou stranu, aby obdržely hotové vzorce, což pro nedostatek času pomíjíme.
+
+
+Uvedeme zde ještě poznámku, která nám přišla mysl před pěti lety při studiu citované práce pana Hermitea. Týž uvádí svém pojednání vzorec, jejž lze takto psáti:
+
+
+(-u) ř/,2 (//)
+
+
+(//) /*"" (o; *'(*) (a;
+
+
+
+
+
+/i)
+
+
+kde </>, </>2 ř/J2A- jsou výrazy závislé pouze nezávislé povaze tunkce /''(#)> zbytek A^- zmizí, klademeli J^x) polynom stupně
+
+
+Jedná tvar funkcí které obdrží specialisováním funkce volíme právě l1"" polynom stupně 2/', aby odpadlo rovnice. Zname-námeli F(x) F(x -\- //)
+
+
+mme rovnce
+
+
+
+
+
+-{-
+
+
+669
+
+
+Vyloučímeli těchto rovnic veličiny l^(k
+
+
+obdržíme
+
+
+(10*)
+
+
+//''
+
+
+^(*)-I
+
+
+//•M
+
+
+/••' (x)
+
+
+'---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//•""(*)-S
+
+
+
+
+
+
+
+
+//•'
+
+
+
+
+
+
+
+
+AA-
+
+
+1)!
+
+
+
+
+
+
+
+
+i):
+
+
+
+
+
+./y^'*)(.i-)
+
+
+
+
+
+
+
+
+
+
+
+tohoto determinantu lze vypočísti AF(x) jako lincarnou homogení funkci veličin /-''(.r), /«"""" (JF) ,... /«'(*) (x) ,Ff -\- //),... /''<*> (ar //), právě tak jak udává vzorec (10) proto obdržíme identifikací koefficientů hodnoty veličin '/'.
+
+
+Vše tedy záleží stanovení determinantu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>&!
+
+
+_i*±i_
+
+
+••(^'+1J!
+
+
+*«*
+
+
+?+2)!(/t 3)! jeho vyčíslení vede studium determinantu pohled speciálního
+
+
+(11)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+('/'--!)!
+
+
+
+
+
+2A-
+
+
+
+
+
+který lze psáti při označení
+
+
+,,,
+
+
+takto:
+
+
+v/7-- ﻿kde symbol />'///* značí «tou derivaci funkce tedy
+
+
+({i -f- ///»-«
+
+
+zvláště
+
+
+Tento determinant však obdrží vvrazu
+
+
+
+
+
+
+
+
+/;T* A*-f... AL-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+substitucí
+
+
+•Asf
+
+
+
+
+
+
+
+
+bude Tí^~
+
+
+
+
+
+nutém výrazu *ís (x0 -f-
+
+
+2A-
+
+
+
+
+
+
+
+
+sí/V
+
+
+//; klademeli tedy
+
+
+2A-
+
+
+ď/n ...
+
+
+2A-
+
+
+0,1,2,.
+
+
+součiniteli při
+
+
+rozvi-
+
+
+,//-["" »•••/* -f- ^A) Poněvadž ale
+
+
+
+
+
+,2,3,...
+
+
+
+
+
+
+
+
+
+
+
+musí každý člen rozvinutém výrazu této funkce obsahovati jakožto činitele jeden člen rozvinutého součinu (LH L/>•) jenž jest rozměru l-\-2-\-...-\-& Tudíž náleží člen součinu L/"" L§*""""*•••L** členům stupně nejnižšího obdrží se, když tento člen součinu (Jja f/v) náležitým zná-
+
+
+měním vyjme znásobí veličinou, již ostatních činitelů obdržíme substitucí LA- Obdržíme tak
+
+
+A-(A--l)
+
+
+
+
+
+1)1
+
+
+
+
+
+čili
+
+
+(11*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Determinant jest linearnou funkcí veličin aa, jejíž členové přejdou rňznc
+
+
+členy funkce .-/„ substitucí toho plyne, determinant
+
+
+(Á.- -[-
+
+
+Rozpravy. Ročn. II. :«.
+
+
+671 ﻿10
+
+
+obdržíme, když rozvinuté funkci (11*) nahradíme veličiny x0k veličinami -\- «)! Nacházíme takto vzorec
+
+
+(12)
+
+
+1!	2! '	//fr >&!
+
+
+""' 2!	3!	••(^+1)1
+
+
+i	hk -|- 2	//**
+
+
+'	(L 2)! '	'• (2^)!
+
+
+(-1)
+
+
+
+
+
+21... (*—!)!
+
+
+*!(*-!-1)1... (2*)!
+
+
+-frr) !«„
+
+
+Hodnota determinantu (H)a) obdrží, klademeli zde
+
+
+
+
+
+
+
+
+
+
+
+takže rovnice (I0a) zní
+
+
+
+
+
+
+
+
+(**-*)!*
+
+
+
+
+
+
+
+
+čehož následuje porovnáním (10)
+
+
+X')'-
+
+
+
+
+
+Klademeli vzorci (10) x-\-/ť —//' //, vznikne
+
+
+čehož plyne '/'«(//)
+
+
+
+
+
+ted>-
+
+
+máme dosazením posledních výsledků jednak
+
+
+
+
+
+1)"" (A)
+
+
+jednak ale obdržíme též následující vzorec arithmetický
+
+
+2/é
+
+
+
+
+
+(-»)• (!)(«*-»)!
+
+
+čili elegantněji vyjádřeno:
+
+
+
+
+
+
+
+
+•••C) ﻿11
+
+
+Vzorec ten lze též vyjádřiti větou, součinitel při x"" rozvinuté spořádané funkci
+
+
+hodnotu !)*(,)•
+
+
+Vyjádřímeli součinitele tohoto integrálem
+
+
+(0)
+
+
+obdržíme substitucí
+
+
+vzorec
+
+
+(13')
+
+
+
+
+
+sináA""
+
+
+
+
+
+
+
+
+
+
+
+Taň var Bendixson své zajímavé práci Extension 1'infini formule ďinterpolation Gauss*) užil identity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(.C <7,
+
+
+(*-«
+
+
+(X---- tf0) (X----(1, (X---- <7„)
+
+
+(ff___St ____ ___
+
+
+\~'
+
+
+následujícím způsobem: Značili /("") funkci mající uvnitř jistého oboru omezeného čarou .S' povahu funkce celistvé, neležíli čáře .S"" žádný bodu <70 ... tf„, kde aspoň leží uvnitř oboru (i""), pak násobme poslední identitu /""(-) '/^ integrujme podél .S'; tím obdržíme rovnici
+
+
+(14)
+
+
+kde
+
+
+f(s)
+
+
+
+
+
+-f-
+
+
+
+
+
+<*,)..-
+
+
+
+
+
+
+
+
+
+
+
+(jr í/0) 0,)
+
+
+
+
+
+(.r (x;
+
+
+
+
+
+a„)
+
+
+
+
+
+snadno ukážeme, vzorec (14) splývá vzorcem Newtonovým V), jestliže všecka místa <?, leží uvnitř (^) Neboť této podmínky integrály Av, I\n jsou spojité funkce veličin <f0 ,//,,... které mohou uvnitř (S) libovolně pohybovati. Poněvadž ale
+
+
+f(s)
+
+
+
+
+
+
+
+
+;:) Acta mathematica, sv. í).
+
+
+073 ﻿1°
+
+
+
+
+
+mamě
+
+
+
+
+
+
+
+
+""4-1
+
+
+
+
+
+kromě toho jest (a0) =f(a0), odtud soudíme, bude
+
+
+
+
+
+
+
+
+Vzorec interpolační (fi) resp. (14) redukuje funkci f(x) funkci celistvou; můžeme ale též utvořiti obecnější vzorec interpolační, kde interpolovaná funkce nahradí výrazem racionalným lomeným. Tento obecnější vzorec interpolační bude generalisovati theorém Laurentův právě tak jako vzorec (6) zobecňuje větu Taylorovu.
+
+
+Mějme rovině věnec (S) omezený dvěma uzavřenýma čarama, vnitřní „S"",, vnější f(s) bud jednoznačná funkce mající (S) povahu funkce celistvé znamenejte! b.A ,... místa položená mimo (S), jinak libovolná, a*t Pa^ body zcela libovolné, nichž žádný neleží čáře «S*t. pak bude
+
+
+
+
+
+
+
+
+
+
+
+(S)
+
+
+kde integrál vzat kladném směru okraji oboru (S) tedy sestává dvou částí:
+
+
+/(*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+prvém integrálu nahradme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+výrazem (a), němž pišme
+
+
+místo <?0 .., druhém pak užijme vzorce
+
+
+(ft
+
+
+
+
+
+
+
+
+
+
+
+b^)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+obdržíme tak hledaný vzorec interpolační
+
+
+(15) f(x)
+
+
+rtr,
+
+
+(a?
+
+
+/V+
+
+
+(a;
+
+
+kde položeno
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<J74 ﻿13
+
+
+
+
+
+
+
+
+ívt
+
+
+tni
+
+
+/-*
+
+
+
+
+
+(a; a,) (a;
+
+
+'lni «,)(L—- <*«]
+
+
+
+
+
+
+
+
+(a? (át
+
+
+
+
+
+
+
+
+...(*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Máli /("") povahu funkce celistvé také uvnitř čáry Si}, zmizí patrně všecka takže vzorce (lf)t lze výhodou užiti pouze při funkcích, jež mají uvnitř místa zvláštní. Jestliže dále funkce /(^) sice uvnitř místa zvláštní, ale máli všech bodech zevně jeli konečná pro oo) povahu funkce celistvé, bude patrně takže celistvá čásť pravé strany redukuje konstantu. Nejdůležitější částí interpolačního problému jest ovšem vhodná volba veličin tak aby zbytek Rm,n byl možná malý.
+
+
+Leží snadě, jak třeba voliti veličiny tf, počtu nekonečném, tak aby vzorci (15) bylo lim Rm,n abychom obdrželi
+
+
+
+
+
+pro f(x) nekonečnou řadu, která právě zobecňuje větu Laurentovu; tím není ovšem řečeno, úkol ten byl vždy možným. Ukážeme příkladě, kde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<7~2'
+
+
+qn'
+
+
+
+
+
+
+
+
+při čemž značí komplexní veličinu absolutně menší jedné.
+
+
+čáry aby body
+
+
+volme kružnice
+
+
+
+
+
+
+
+
+,); podmínka, tedy
+
+
+
+
+
+ležely mimo rnezikruží, vyžaduje Volímeli kromě toho /', pak také žádný bodů neleží
+
+
+kružnici vS\ Zbytek Rm,n zní našem případě
+
+
+
+
+
+
+
+
+.,-.~n
+
+
+____ /*«
+
+
+**/
+
+
+
+
+
+
+
+
+4"" fis}
+
+
+V*""* **"" ***
+
+
+
+
+
+tedy přejde pro
+
+
+
+
+
+tvar
+
+
+CXD
+
+
+
+
+
+111«
+
+
+675 ﻿Následkem toho máme vztah:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kde jsme příkladu Schendelově*) užili označení
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...(x—
+
+
+pak zcela obecně
+
+
+fl=r,
+
+
+-(-
+
+
+Vzorec (16) zde nastupuje místo theorému Laurentova, který zde tedy nemá analogie pravém slova smyslu, poněvadž integrál (10) nedovedeme obecně vyčísliti. Volme jakožto příklad
+
+
+f(>) log
+
+
+
+
+
+
+
+
+
+
+
+tato funkce jest jednoznačná komplexní rovině (z] opatřené řezem r...r)\ pomyslná část? její jest severním břehu 2rc větší, než jižním. Volíme pak r-\-ti, integrálu (l(i) možno nahraditi cestu integrační čarou, jež obíhá řez r...;-) těsně němu přiléhá. Obdržíme tak jakožto hodnotu levé strany (1tí) našem případě výraz
+
+
+rr1-?""-^
+
+
+
+
+
+
+
+
+a""
+
+
+
+
+
+
+
+
+
+
+
+znamenámeli tedy vůli přehledu
+
+
+
+
+
+máme (16), uvážímeli, zde
+
+
+vztah
+
+
+(17)
+
+
+
+
+
+
+
+
+
+
+
+log
+
+
+
+
+
+
+
+
+
+
+
+:':) Journal fiir die reine und angewandte Mathematik sv. S4. Srovnej též naši studii Schendelově zobecnění mocninových řad. (Věstník Ak. čís. 3.)
+
+
+676 ﻿kde
+
+
+
+
+
+
+
+
+\«—
+
+
+l°g
+
+
+
+
+
+
+
+
+cíli
+
+
+(17-)
+
+
+
+
+
+sice vztah dokázaný podmínek /-<
+
+
+
+
+
+677 ﻿*"

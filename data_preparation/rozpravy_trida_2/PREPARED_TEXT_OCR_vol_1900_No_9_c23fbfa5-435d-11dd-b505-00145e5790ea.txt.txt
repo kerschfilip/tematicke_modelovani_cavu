@@ -1,0 +1,575 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+Příspěvek
+
+
+určování existenčního oboru analytických úkonů.
+
+
+Podává
+
+
+(Předloženo dne 14. prosince 1899.)
+
+
+Budiž veličina komplexní kladnou částí pomyslnou, takže veličina
+
+
+emni
+
+
+bude své prosté hodnotě menší jedné. Součin této podmínky konvergentní
+
+
+
+
+
+jest analytická funkce proměnné co, která chová pravidelně celé polovici roviny (ca) položené nad osou reálnou. Jest této funkci známo, ose reálné nikde nechová pravidelně, takže nelze propagovati jižní polovice roviny (to), ale vlastnost tato ještě neproklestila cestu knih učebných theorii funkcí elliptických jednajících, proto nebude snad bez užitku, vyložím-li následujícím jednoduchý důkaz tohoto fakta, kterýž zasluhuje povšimnutí již vůli překvapující roli, jakou hrají jisté arith-metické výrazy.
+
+
+Logarithmováním součinu (o) obdržíme
+
+
+log («)= log ?2/í). ,""
+
+
+dosadíme-li sem známý výraz
+
+
+l<0fn. ix. Tř. II.
+
+
+IX. ﻿log
+
+
+obdržíme dvojnásob nekonečnou řadu logqp(oi)—
+
+
+
+
+
+jejíž konvergence jest absolutní.
+
+
+Nekonečná řada dvojnásobná
+
+
+(i)
+
+
+rovněž absolutně konvergentní souvisí funkcí (co) rovnicí následující
+
+
+(2)
+
+
+jejíž správnost leží snadě. Řadu (1) převedeme řadu jednoduchou, provedeme-li sčítání vůči ft, čímž vyjde
+
+
+*(-)=-Ž^Í
+
+
+
+
+
+kterýžto tvar nám sloužiti základ předsevzatém šetření.
+
+
+Rozložíme-li část reálnou pomyslnou ty, kde kladné, vznikne otázka, stane funkce -}- iy\ přejdeme-li mezím pro j:=0; pro náš účel stačí uvažovati část pomyslnou této funkce. Položíme tedy
+
+
+ií> (.r -\- iy] (x,)'} (xiy\ vypočteme, ježto
+
+
+log Í3v*--'i-2i>j'n)
+
+
+log 2"">'-T cos A-Tr)2 -)- 4""-»'-T sin2
+
+
+e-'í vj> sjn
+
+
+arctg----------7,-----------^--------,
+
+
+-3**'
+
+
+podle (laj následující rovnici:
+
+
+/0,
+
+
+(3) t/., (*.j)
+
+
+arct
+
+
+
+
+
+--- e—1 cos XTt
+
+
+Tvrdíme, pro nekonečně ubývající tento výraz blíží veličině
+
+
+IX. ﻿(3a)
+
+
+
+
+
+sin
+
+
+(3Ct —s— arctg
+
+
+COS
+
+
+což dokážeme omezivše případ, kdy číslo jest irracionalné. Důkaz žádaný bude proveden, ukáže-li se, každé kladné konstantě ,ď, jakkoli malé, přísluší kladná veličina tak malá, pro všecka kladná j>, jež nepřevyšují -//, bude rozdíl (x,y) svém prostém obnosu menší než
+
+
+tím účelem určeme celistvé číslo ;// podmínkou
+
+
+
+
+
+uvažme, funkce arcus tangens vždy svém prostém obnosu menší
+
+
+než takže bude
+
+
+
+
+
+
+
+
+
+
+
+arctg
+
+
+;«-(-
+
+
+sin
+
+
+lvy* cos
+
+
+sin
+
+
+cos
+
+
+Při známém nyní čísle lze určiti tak, aby pro /// rozdílů
+
+
+^r, každý
+
+
+
+
+
+arctg
+
+
+s'm2v
+
+
+ivy Cos
+
+
+sin
+
+
+arcte
+
+
+
+
+
+cos
+
+
+příslušných hodnotám byl absolutně menší než
+
+
+
+
+
+
+
+
+takže jich součet bude menší než Provederne-li nyní rozklad
+
+
+
+
+
+
+
+
+
+
+
+,-2VJ'7l gjn A""
+
+
+arct<í
+
+
+sin
+
+
+""-;'-T cos cos
+
+
+í,— 2vj'n sjn
+
+
+
+
+
+
+
+
+
+
+
+arcte
+
+
+
+
+
+cos
+
+
+potřebujeme vzpomenouti, pravá strana sestává veličin, nichž
+
+
+IX. ﻿«\
+
+
+právě bylo ukázáno, jsou pořadem menší než abychom
+
+
+viděli, platí nerovnost
+
+
+kterou právě jsme chtěli dokázati. Dotvrdivše takto rovnici
+
+
+lim
+
+
+(#, 0),
+
+
+udělme výrazu i/^ (x, tvar elegantnější. Poněvadž
+
+
+sin
+
+
+cos
+
+
+COt
+
+
+bude nám hledati úhel JT, jehož tangens jest rovna tgvxx; určeme celistvé číslo (.1 tak, aby rozdíl byl mezi nullou jednou, přesněji
+
+
+pak bude iz: (ft -j- jt, veličina arctg (cot TT] arctg
+
+
+bude míti hodnotu ř-= TT.
+
+
+Veličinu (>, která jest nejmenším kladným zbytkem veličiny .v, lze psáti x), znamená-li obecně
+
+
+»<*) *-*(*)
+
+
+nejmenší kladný zbytek veličiny při tomto označení bude tedy
+
+
+(4)
+
+
+svého tvaru arithmetického tato funkce připomíná onu veskrze přetržitou funkci, kterou uvádí Riemann své rozpravě habilitační*) jakožto příklad funkce integrace schopné. Okolnost, tohoto druhu výrazy, utvořené základě methody kondensace míst zvláštních, nacházejí souvislosti funkcemi elliptickými, tedy oborem jedním nejpravi-
+
+
+Ueber die Darstellbarkeit einer Function durch čine tri^onometrische Reihc.
+
+
+IX. ﻿dělnějších vlastnostmi algebraickými nejbohatších, jest zajisté pamětihodná.
+
+
+funkci t/jj (*, =/""(:*•), definované naší řadou (4), lze dokázati, každém irracionalném místě spojitou, kdežto místech racionalných existují sice krajní hodnoty
+
+
+lim
+
+
+//O
+
+
+=/(*„ 0), lim f(x9 Ji) =/(*, 0),
+
+
+ale tyto jsou různý. Okolnost tato tkví vlastnostech funkce (^r), dle nichž
+
+
+lim Ji) (z) při lomeném
+
+
+dále
+
+
+lim (s) lim //) (s- (--) 1=1
+
+
+při celistvém Budiž ted^ voliti kladné. Utvořme řady
+
+
+Budiž tedy racionálně číslo tvaru nepřevodném, kde lze
+
+
+dokažme, bude
+
+
+
+
+
+lim li)—
+
+
+//o
+
+
+=/(jce—O).
+
+
+Omezíme důkaz první věty. Buď daná kladná konstanta určeme celistvé kladné číslo /;/ podmínkou
+
+
+
+
+
+<r.l.
+
+
+""'
+
+
+poněvadž veličiny r)í (-) leží pokaždé mezi ---- budou ne-
+
+
+
+
+
+konečné řady
+
+
+﻿míti prosté svoje obnosy menší pravé straně rovnice
+
+
+
+
+
+
+
+
+
+
+
+přicházejí dvě nekonečné řady, jichž prosté hodnoty jsou menší než
+
+
+
+
+
+jich součet bude tedy menší než
+
+
+První výraz pravé straně jest
+
+
+složen konečného počtu členů, stává přetržitým pouze místech, pro něž -\- stane číslem celistvým; přihoditi může jen pro konečný počet hodnot //, nepřihodí vůbec, určíme přiměřeně malou veličinu volíme- h^k\ tím lze též dosíci, aby každý člen
+
+
+stal absolutně menším než —-----, tedy náš součet absolutně menším
+
+
+///
+
+
+
+
+
+než Následovně bude při všech kladných hodnotách //, jež nepřevyšují /&, platit nerovnost
+
+
+která obsahuje tvrzení
+
+
+
+
+
+=/fo 0).
+
+
+Podobným způsobem dokáže věta druhá.
+
+
+Rozdíl obou mezných hodnot f(x{) ~j- f(xQ —0) bude dán řadou
+
+
+jejíž členech víme, nezmizí jen tehdy, je-li .v0 číslo celistvé, kterémž případě mají hodnotu —2. Potřebujeme tedy bráti úvahu pouze členy </, jež dají hledaný výsledek
+
+
+IX. ﻿f(x0
+
+
+
+
+
+i|/r
+
+
+
+
+
+Předpokládejme nyní, funkce (co) chová pravidelně jistém plošném oboru í2, prostoupeném osou reálnou, sice buď /íf) úsek reálné osy oboru náležející. témž oboru bude též (w) funkcí analyticky pravidelnou. Je-li irracionalná hodnota vzatá intervallu /j), bude, jak výše vyloženo,
+
+
+lim
+
+
+pomyslnou částí analytické funkce
+
+
+lim -\- iy) (JT),
+
+
+
+
+
+tedy též funkcí analytickou, následovně spojitou.
+
+
+Ježto jsme ukázali, funkce f(x), daná řadou (4), není spojitá, narážíme nemožnost musíme zamítnouti domněnku, funkce (co) chovala někde ose reálné pravidelně.
+
+
+konec stůjtež zde ještě některé poznámky, které předmětem předcházejícím nacházejí úzké souvislosti.
+
+
+Pro funkci tytt(x,ý) obdrželi bychom přímým dosazením výraz
+
+
+(5)
+
+
+
+
+
+~~r
+
+
+
+
+
+sin
+
+
+jeho pravá strana konverguje jisto, je-li číslo irracionalné algebraické, kořenem rovnice
+
+
+
+
+
+
+
+
+jejíž součinitelé jsou čísla celistvá. však postrádá všeho smyslu pro každé racionálně čísel ostatních, transcendentních, lze každém sebe užším intervallu nalézti taková, pro něž řada tato diverguje. Nyní ještě poznámku řadě (1). Uvedeme-li nejprve tvar
+
+
+shrneme-li členy společnou hodnotou bude součet příslušných hodnot patrně součtem všech dělitelů čísla ;/, toto číslo samo jednotku včítaje; znamenáme-li jej («), obdržíme tvar
+
+
+IX. ﻿je-li dovoleno této řadě"" přejíti mezím pouhým dosazením obdržíme
+
+
+(*,
+
+
+
+
+
+sin JT,
+
+
+tedy dle (4) výsledek ovšem nejistý
+
+
+-*<»*>
+
+
+(6)
+
+
+který nicméně vede důsledkům správným. Tak příklad násobme obou stranách differenciálem c~ax integrujme nully nekonečna; objeví vztah správný
+
+
+
+
+
+(»)
+
+
+~árf4^rní
+
+
+
+
+
+Podobně obdržíme (6) prostou integrací rovnici správnou
+
+
+(8) ""T—.
+
+
+í«)
+
+
+-1-„— cos ir.
+
+
+Poznamenání. Úvahy předcházející jsou podstatě zahrnuty posmrtné publikaci Riemannově »Fragmente uber die Grenzfállc der ellip-tischen Modulfunctionen« (Riemannovy spisy, str. 453 druhého vydání). Poněvadž fragmenty nebyly určeny uveřejnění, nemůže překvapiti, nich nacházejí některá menší nedopatření; jest však zřejmo, výrazy této cestě namanuvší vyvolaly některá místa rozpravy habilitační, rovněž vysvítá, Riemann měl úmyslu vyšetřiti konvergenci výrazů podobných pravé straně rovnice (6). Přečetné relace Riemannem uvedených fragmentech vyvinuté vztahují arithmetickým úkonům jako E(x], (x] pod., kteroužto historicky zajímavou okolnost dlužno vytknouti vzhledem známým rozpravám Kroneckerovým uveřejněným více než třicet roků později spisech Akademie Berlínské.
+
+
+IX."

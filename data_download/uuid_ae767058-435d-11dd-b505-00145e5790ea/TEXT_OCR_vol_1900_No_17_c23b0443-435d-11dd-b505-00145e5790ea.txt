@@ -1,0 +1,240 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+TŘÍDA II.
+ČÍSLO 17.
+O fakultních součinitelích,
+Napsal Dr. F. J. Studnička.
+Předloženo dne 16. února 1900.
+Jakož   známo,   staly se  tak zvané   analytické   fakulty*)   teprve
+1 lehem tohoto století předmětem soustavného   probádání a spracování,   ač
+již Euler r.  1753, Vandermonde r.  1772 a Kramp r.  1799 jim po-
+ornost svou věnovali,   ba posledně jmenovaný zavedl i dnešní symbolické
+jich označování.
+>Versuch einer allgemeinen Theorie der analytischen i acultáten« sluje první samostatně o nich vydaný spis, jímž r. 1823 upozornil Crelle na zvláštní součinový pojem tento, jehož po sobě jdoucí činitelové představují arithmetickou řadu stupně prvého, takže Krampúv symbol
+an\d -
+(1)
+načež Oettinger vyložil v obšírném pojednání do 33. sv. »Crelle's Jour. l Lir die reine und angewandte Mathematik« vloženém znovu tento zvláštní předmět.
+*) Dosud neujalo se žádné české pojmenování fakulty, takže majíce úplnou v té věci volnost, zavádíme slovo »násobnost« jakožto obdobu slova »mocnost«, vy-uuiřujícího součin stejných faktorů. Podobně možná slovo >faktoriella« nahraditi Krátkým >násobné«, takže podle toho značí násobné n součin prvních n čísel řady přirozené. Poměr obou pojmů vytčen symbolicky výrazem obecným
+zvláštním
+k = l
+= 1.2.3. ... n — n\
+k- l
+Ro
+zprávy:  Ročn. IX. Tř. II. Č. 17.
+XVII. ﻿V naší době pak nové tvary fakultní zavedli Heine*) a Weier-srass**), takže rozeznávati možná různé druhy vytčených fakult, jež vesměs představují součiny, jichž činitelové řídí se stejným postupným složením, jako na př. výraz
+(2)
+s nímž se zanášel Heine, a kterýž obsažen jest v obecnějším výrazu součinovém
+= (* 4- *i) O -f <*2) (* + «s) •••
+(3)
+k=i
+jejž nazýváme fakultou   binomickou,   rozeznávajíce   různé   druhy   podle toho, jaké číselné hodnoty představují veličiny
+Krampova fakulta tu obsažena pro
+x = O, dk = a -\- (k — 1) d, (k = l, 2, 3, ...,«), Heineova pak podobně pro
+•v ---- 1      />.  ----  ___ nk     (L, ---- 1       O     Q              ^\
+Jd         •  X,    ďk ----          U     .  l A-  ---- J.,    L*j    O,   •   .   .,   fí- ] .
+Zároveň patrno, že tvarem (3) zahrnuta i potence neboli mocnost co zvláštní případ fakulty neboli násobnosti, a to pro
+ak = a, (k = l, 2, 3, ... «), kdež se podle známé poučky obdrží
+(^ -f a}"" =x»-Jrnl x""-1 a  f n2 xn~2 a2 -|- . . . -fa*,              (5)
+jelikož # značí číslo positivní a celistvé, symbolem
+(6)
+l*!1      "" k\(n-K]\
+konečně vyjádřen tak zvaný L-tý binomialní součinitel, takže tu vzorcem (5) přeměněn zvláštní součin v součet.
+*) Handbuch, Bd. L, pag. 109.
+**) Functionenlehre, pag. 200.  V obecnč jeho fakultě obsažena i zvláštní fakulta Besselova.
+XVII. ﻿A týž úkol možná provésti podobně se součinem (3), načež se obdrží
+H
+\\(x + ak) = xH + nlX»-*-\-ntx""-*+...+n\ní           (7)
+kdež vyjadřuje symbol nový
+,. n\h — A„
+(8)
+součinový součet všech kombinací n prvků (4) třídy L -1 é, ,-i představuje tak zvaný fakultní koěfficient, obdobu to součinitele binomialního, kterýž z něho vznikne pro
+an= l, (*=»!, 2, 3, . . ., «).
+Jako se tento koěfficient vyjadřuje podle vzorce (6) poměrem faktoriell, .nožná i koěfficient fakultní (8) vyjádřiti poměrem dvou číselných výrazů, představujících mnou tak zvané determinanty mocninné.
+Obdržíť se tu ze známého vzorce obecného*)
+n        i
+o              k — l      k  i- l
+,*...«*
+. . . L«)
+(
+i\        i         o
+mn
+(9)
+kdež jmenovatelem jest tak zvaný základní determinant mocninný, jehož vyčíslení poskytuje známý součin střídavý z prvků (4) složený tvarem
+m„ = (a.ž — tft) (as — a^} (a3 — «2) . . . (au — an-Zároveň jde ze vzorce (9) na jevo, že M„               n \
+m u          k\(n — k}\
+jelikož podle známé relace**)
+==««_*,
+(10)
+(11)
+ak
+,
+a-2
+[   O      l      2                «
+\a\ <%2 &3 . . . a„
+l! 2! 3! ... (« — !)!
+(U)
+l<dež představuje <jr podobný základní determinant mocninný ku prvkům Re vztahující, takže
+i /
+*) Viz Studnička: »O determinantech mocninných a sestavných*, Praha 1897. Pag. 49, vzorec (50).
+*"") Ibid. pag. 52, vzorec (60 j.
+XVII. ﻿takže  bychom,   neznajíce   složení   koěfficientů   binomiálních  vůbec,   podle vzorce (8) a (11) jich hodnoty příslušné dovedli sestaviti.
+Složené tyto poměry nabývají rázu jednoduchého a v mnohém ohledu zajímavého, jakmile řada čísel (4) vyhovuje podmínce
+ak = k a, jelikož tu fakulta nabývá tvaru Krampova
+(13)
+|J (x + k a) = (x -f- a) (x -f 2 a) (x -f- 3 a) . . . (x -f n a\ k=\
+takže příslušný součet (7) vyjadřuje vzorec
+n
++ k a) = x"" -f Kl x""~l . a -\-K2x""-2. a*... + K? a"",        (14)
+značí- li symbol K„k opět součinový součet všech kombinací třídy k-\.& z // prvků řady přirozené
+l, 2, 3, . . . , n složitelných.
+Jakož jsem jinde dokázal,*) vyjadřují se tito součinitelově independent ně vzorcem
+J_ k\
+(«-fl)2, -l,        O , ..., (« + l)s.    «, ,  — 2 , . ..,
+(15)
+takže první jest**)
+7""1             /          l       1\
+A„ = (n -f- l )2 , což i přímo se potvrzuje součtem čísel řady přirozené
+kdežto poslední patrně vyjádřen násobným /z, takže o našem determinantu platí
+*) V pojednání   »Ůber  eine  neue  Formel   der  Kombinatorik*,   Sitzb. d. kón. bóhm. Ges. d. Wiss. 1878
+**) Porovnej s obecným vzorcem (15) zvláštní vzorce Oettingerovy!
+XVII. ﻿(*»'
+2 ___
+(* + i)í»	-1,          0	i ....      0
+(* + *)i >	«2 ,     — 2	,...,'   o
+(*-M>4.	72          (^ __ J^\2	, ....    o
+(* + !).+,	,       *.,(«- D-	-i,...,      2
+(16)
+Vyjádříme-li však   tyto   fakultní součinitele rekurrentně,   užívajíce při ti iin symbolu dříve obecně zavedeného vzorcem (8), obdržíme relaci
+n — l
+k - i
+n-\-n
+(17)
+•/, níž i plyne, jelikož tu z.láštní relace
+(18)
+tnkže kladouce sem za n řadu hodnot
+2, 3, 4, . .., »,
+obdržíme postupně
+l!     9—9
+1 li   • "" -----  ** 2 •>
+2J2  . 3 = 3|3,
+3Í3  • 4 - 41,,
+čehož obojstranným znásobením vyplývá konečně
+« „ = 2 . 3 . 4 .    . TZ = n \
+(19)
+souhlasně se vzorcem (15) a (16),  jakož   i  s původním významem tohoto posledního součinitele fakultního.
+Sestavíme-li pak první řady  těchto koěfficientů   do trojúhelníku, jak ""činil Pascal s koefficienty binomialními, obdržíme obdobu
+l,    l
+l,        3,        2
+l,        6,      11,        6
+l,      10,      35,      50,      24
+l,      15,      85,    225,    274,    120
+l,    21,      175,    735, 1624,  1764, 720
+l,      28,    322, 1960, 6769, 13132, 13068, 5040,
+XVII. ﻿z níž patrno, že tu představují šikmo k levé straně jdoucí hodnoty číselnř postupně řady arithmetické stupně
+0., 2., 4., 6., ..., 2/1.,... jakož toho vyžaduje i vzorec (15) pro koěfficienty
+Abychom pak poznali vzájemnost   součinitelů  těchto   s binomialními zjednejme si na základě binomické fakulty identičnost
+n"" -f- «i W*""1 . l -j- «'8 «"" ~ 2 . l* -f «'8 «* ~3 . l8 ~f . . . -f n« . l"" = ntl\l + « 8*-1!1 . l1 ' + % n""-2\l .l2'1 -j- «3 »* -3!1 . l3'1 4- . . . -f n„ l""11,
+z níž   plyne,   že   tu   řada   postupující   podle   mocnin   obsahuje koěfficienty   fakultní,   postupující však   podle fakult   obsahuje součinitele mocninné čili binomialní. Podle toho platí na př. pro
+n — 5 číselná identičnost
+55^15 ,54-f- 85.53-f 225.52-|-274.51-f 5!
+= 5.6.7.8.9 l 5.5.6.7.8|-10.5.6.7.24-10.5.6.2.3
++ 5.5.2.3.4 |- l . 2 . 3 . 4 . 5 =-. 2 . 6 . 10 . 14 . 18,
+jakož   se   poznává   podle   identičnosti   odjinud   pocházející  a   Krampovým fakultami vyjádřené
+2«.4=-- («-f l)""'1.                                         (20)
+Znajíce fakultní součinitele pro nejjednodušší případ, kde číselné hod noty řady (4) dány jsou relací
+dk = k,
+můžeme přejíti k řešení úkolu složitějšího, kde
+an = a -j- (k — 1) d,
+kdež tedy příslušné koěfficienty fakultní představují součinové součty všech kombinací, stažitelných z prvků arithmetické řady obecné
+a, a-\-d, a -\- 2 d, . . ., a -f- (n -f-1) </, jež označujeme novým symbolem
+A-^        u n = n\\k.
+XVII.
+(21)
+(22) ﻿Obdržímeť tu obdobně se vzorcem (7) 0-f a)""\d = x"" + nk af»-»-f-«lj ,U-ž o nových součinitelích fakultních platí
+(23)
+což patrně představuje součet členů řady (21), jelikož tu se zřetelem k významu čísla n platí
+n\ =- n2 ;
+a obecně se   vyjadřuje  L-tý   koefficient,   jakož známým*)   obratem se   poznává, vzorcem
+n , = «* ak + «;t ( anebo symbolicky
+n k =
+x čehož patrno, že ve zvláštním případě, kde
+a = 0,
+přejde koefficient náš v obyčejný neboli základní, takže
+«,'!* = «'*,
+1 de však ve zvláštním případě naopak platí
+rf=0, '1'cjde týž koefficient v binomiální, takže vznikne
+(24)
+Podle vzorce (24) obdrží se na př. pro
+a = l, í/ = 3, « = 5
+jakožto součet všech teren součinových z členů _ _                                    l, 4, 7,  10,  13
+Viz:   Studnička,   >Všeobecné tvarosloví algebraické*, Praha, 1880, pag.
+XVII. ﻿sestavitelných, jichž jest 10, přímo
+5JI3 = 10 -f 10 . 6 . 3 f 35 . 3 . 32 f 50 . 33 = 2485.
+Jak z dosavadních výsledků jde najevo, jest nejobecnější součinitel fakultní, kde řada číselných hodnot (4) nepodléhá žádné podmínce, vyjádřen vzorcem (9), představujícím poměr dvou determinantů mocninných Tyto koěfficienty obdrží pak ve zvláštním případě, kde řada (4) jest obecní arithmetickou, výraz vzorcem (24), z něhož patrno, že závisí na jednodušších koěfficientech fakultních tvaru (15), obsahujícím součinitele binomiáiní. Možná tedy naopak determinant M„ vyčísliti v těchto zvláštních případech pomocí vzorce (15) nebo (24), jako byl odvozen koěfficient binomiálr.í ze vzorce (11).
+A vzájemnost těchto čtyř druhů koěfficientních možná vyjádřiti symbolicky takto:
+Binomiáiní koěfficient vzorcem (6) stanovený
+nk= <jpl, fakultní koěfficient základní vzorcem (15) určený
+n\k = 4' («*) a fakultní koěfficient obecnější vzorcem (24) vytčený
+nk = i (n\k\
+(25)
+(26)
+(37)
+kdežto nejobecnější koěfficient fakultní vzorcem (9) vyjádřený zůstává v téže podobě zlomkové.
+Konečně tu patrno, že naše vzorce řeší obecný úkol do theorie arith-metických řad patřící, kde stanoví se pouze součet n členů, a to jak možná vyjádřiti součinový součet všech kombinací n prvko číselných třídy k-ié, značený symbolem
+Kk __ vrk
+lín  — ** L- u,
+kdež symbolem  C„  značí se součin k prvků   z daných n veličin číselných složený, takže stanoviti součet
+představuje úkol tohoto druhu nejjednodušší.
+XVII. ﻿Poznámka.
+Znajíce hodnoty fakultních koěfficientů ni*, snadno vyjádříme naopak hodnoty   příslušných   determinantů   mocninných,   užijeme-li   známé   relace
+,,becné
+(a °/z ri a "" + ''         tf ''' + '"" + ' ' ' +r«-»1 —
+\al    °""2     ""3           • ••«*•                               J —
+""/, _ i  .   .  .  K„ _ i  . Kfl— 2 •  •      K„ _2 .   .  .  A    .  .  .
+/""
+V
+r\       l                   r2 --- l                    ''» -- l---
+Jestli totiž v nejjednodušším případě
+a,k — k, (k — l, 2, 3, . . ., n) obdrží se pro základní determinant mocninný výraz
+L = 112131... (« — !)!, pro součinový součet pak kombinací třídy k-\.é výraz
+K i, :-.-; A'„ = rík, načež z obecného vzorce vyplyne
+(I*2rt3ri + rt . . . nr> + rí+- • •+*r-r)= l! 2! 3! ... (« — !)! xavedeme-li kratší označení
+rt —l
+Podle toho jest na př. pro
+n — 4, /-j = 2, ;-3   - 2, r3 — l, -li hodnot dříve v trojúhelníku fakultním sestavených,
+(1°223445IEEE>
+l, l,   l,    l l, 22, 32, 42
+, 24, 34, 44 l, 25, 35, 45
+2! 3!
+20, 35
+= 18120.
+A podobné obdržíme v případe následujícím, kde bylo
+- (k — -1) d, (k — l, 2, 3, ... «), XVII.
+ak =
+(30)
+(31) ﻿10
+kde tedy příslušné součty kombinačních součinů dány Vzorcem ""obdobným
+jelikož tu pro příslušný základní determinant mocninný platí vzorec
+<)'„ — l! 2! 3! ... (// —1)U/""*,                               (30.
+a pro determinant sestavný platí
+z/'„ _^ (nf u — i . . . n' „—i. n' u- 2. . . «',« —2 • • • n' t • • • n' ^)           (331
+r__i                     r __\                       r      __i
+konečný vzorec
+(34.
+Podle toho jest na př.
+^S* 5*'7*9*) =
+l,   l,    l,    l,     l
+l,  3,    5,    7,    9
+l,  32,  5"",  72,  93
+l,  34,  54,  74,  94
+l,  35,  55,  7:',  95
+— 2! 3! 4! 210.230,
+jelikož tu podle známého vzorce vyjde
+511   — 54-4     A.'     9 -l- 4!     ?2 —
+J|lg ---  Jg    -J-    t-j  . f|j  . L   -J- fjj .  L     __
+A podobně obdržíme pomocí známých koéfficientů fakultních
+(2° 5' 8S115)~
+kdež pravá strana snadno se vyčíslí.
+Jak z příkladů těchto jde na jevo, děje se vyčíslení determinantu mocninných, představují-li jich prvky arithmetické řady stupně prvého, tímto spůsobem co nejpohodlněji, známe-li příslušné koefficienty fakultní, čímž se tyto veličiny stávají též prakticky zajímavými.
+l,   1,   1,   1 2,   5,    8,    11 2:J, 5:!, 8:i, II3 2;', 5:>, S5,  \l:>	=2!3!36-;T' Té6
+XVII."

@@ -1,0 +1,782 @@
+"","x"
+"1"," ﻿ROČNÍK_V:
+
+
+TŘÍDA II.
+
+
+ČÍSLO 25.
+
+
+Příspěvky theorii eliminace,
+
+
+Podává Dr. Ant. Pleskot.
+
+
+Předloženo dne května 1896.
+
+
+úvaze následující podány jsou zvláštní methody eliminační, jimiž stanoví rovnice, kterým vyhovují veličiny kvadratickém výrazu j;--|- Ax-\-fit má-li tento výraz býti dělitelem levé strany rovnice
+
+
+f(x) x"" rft
+
+
+
+
+
+Úloha předložená je^t totožná úlohou určiti rovnice, kterým vyhovují funkce
+
+
+kořenů
+
+
+rovnice (1) vyjádřiti jednu veličin veličinou druhou.
+
+
+Jsou hlavně dvě obecné methody, kterými lze určiti rovnici, jíž vyhovuje jakákoli funkce
+
+
+jrs=f («,,«.,..«»), kořenů rovnice (1).
+
+
+Prvá methoda záleží tom, rovnic
+
+
+/(%)—
+
+
+/M) ""O,
+
+
+rovnice
+
+
+pra vy. Ročn. Tř. II. ?5.
+
+
+/M—
+
+
+XXV. ﻿vyloučíme veličiny xÍJx^í...xkl čímž obdržíme rovnici pro Methoda tato nevýhodu, resultant předložených rovnic obsahuje ještě jin<j kořeny, než které jsou žádány, nutno zvláštními obraty vyloučiti. Serrc-tově algebře (překlad německý str. 166. díl) jest užito této methody sestavení rovnice pro funkci
+
+
+ukázáno, jest kořenem rovnice, která vznikne, vyloučíme-li rovnic
+
+
+/(•)=<>
+
+
+Druhá obecná methoda záleží tom, utvoří všechny různé hodnoty
+
+
+
+
+
+funkce
+
+
+jichž nabývá permutacemi kořenů Rovnice pro pak zní:
+
+
+Rozvineme-li levou stranu poslední rovnice dle mocnin pak jsou součinitelé při jednotlivých mocninách symmetrické funkce kořenů nutno vyjádřiti úkony součinitelů rovnice (1)
+
+
+Obě předcházející methody neřeší předloženou úlohu úplně, neboť nestanoví příslušné aneb naopak příslušné Proto zbývá další úloha určiti jedné veličin příslušnou druhou naopak ovsem možno zase dle obecných method učiniti, ježto funkce
+
+
+
+
+
+jsou funkce podobné; ale práce, která jest úlohou touto spojena, jest příliš rozvláčná.
+
+
+Užito bylo proto následujícím toho způsobu, /(x) dělena byla výrazem
+
+
+zbytek dělením vznikající položen rovným nulle. Tím zjednána byla soustava rovnic zvláštním způsobem eliminačním vyvinuta rovnice jak pro
+
+
+XXV. pro />; při tom současně řešena byla úloha vyjádřiti jednu veličin
+
+
+jakožto funkci veličiny druhé součinitelů rovnice f(x) Řešení
+
+
+toto provedeno bylo bez theorie funkcí symmetrických. Jakožto applikace
+
+
+tohoto řešení uvedeny byly různé tvary resolventy rovnice biquadratické
+
+
+vyvinut zvláštní tvar podmínky, kdy dvě rovnice mají kořen společný.
+
+
+konci pak vyvinuta byla ještě zvláštním jednoduchým obratem rovnice pro funkci
+
+
+(xi *a)
+
+
+tvaru možná nejjednodušším.
+
+
+Má-li výraz -\-Ax-\- býti dělitelem funkce /(#)
+
+
+jest třeba, aby zbytek při dělení vznikající rovnal nulle. Dělením obdržíme:
+
+
+
+
+
+
+
+
+-\x-\-an
+
+
+Veličiny ""n jsou určeny rovnicemi:
+
+
+
+
+
+při dělení sice nevyskytuje, ale vůli přehledu budiž tato veličina zavedena.
+
+
+f(x) bude dělitelná výrazem
+
+
+funkce
+
+
+pro každé j., je-li
+
+
+Druhou těchto dvou rovnic můžeme uvésti přehlednější tvar, když odečteme rovnici prvou znásobenou tím promění
+
+
+
+
+
+XXV. ﻿t.
+
+
+
+
+
+Abychom určili podmínku, které vyhovuje veličina třeba soustavy rovnic níž
+
+
+vyloučiti veličiny atd.
+
+
+Tyto veličiny vyloučíme následujícím způsobem.
+
+
+rovnice k-\é w-té vylučme veličinu čímž nabudeme rovnice
+
+
+
+
+
+«fc«ro_! «Jt «ro tffc ""ft
+
+
+této rovnici označme výrazy
+
+
+«Jfc
+
+
+znakem ///), takže
+
+
+pro přehled zaveďme
+
+
+při čemž klademe
+
+
+Zavedeme-li rovnici (/?) funkce pak nabývá tvaru
+
+
+Klademe-li této rovnici postupné
+
+
+*=.»,
+
+
+obdržíme soustavu ——^—— rovnic:
+
+
+2,3,4,...*
+
+
+4,...
+
+
+^1^(0,4) ^^(0, 1)4-^(0,3)
+
+
+XXV. (*,
+
+
+„,(2,4) V(<>> *4tK<>,
+
+
+,2) ,3)
+
+
+(7)
+
+
+,») ""»V> (O, /?./> (l, -1)=0,
+
+
+2,«
+
+
+této soustavě lineárních homogenních rovnic vyskytují výrazy i/r/í',/""1 počtu odpovídající všem kombinacím druhé třídy
+
+
+prvků, dále členy
+
+
+počtu
+
+
+Jest tudíž počet všech výrazů předložené soustavě roven
+
+
+«(«—!)
+
+
+avšak výrazy t/'(^> ;/) Pro jsou rovny nulle, neboť dle rovnic dřívějších jest rcn
+
+
+Celkem máme tedy neznámých výrazů *-^ nimž ještě přistu-
+
+
+puje veličina
+
+
+Aby soustava (7) aneb, což totéž jest, soustava («) byla platnosti, jest třeba, aby determinant soustavy (y) rovnal nulle. Prvky tohoto determinantu sestavme vůli jednoduchosti tak, objevuje jen úhlopříčně; možno učiniti, neboť každé rovnici (y) objevuje lineárně každém řádku jen jednou pokaždé jiné neznámé.
+
+
+Označíme-li tento determinant pak veličina jest určena rovnic-
+
+
+kteráž značí dle rovnici stupně n(n~^ Příslušné patřící určíme soustavy rovnic (y), klademe-li y(0,l)= určíme
+
+
+pak dle rovnice prvé soustavy («),
+
+
+Obecně lze tedy stanoviti známe-li />', řešením rovnic lineárních, což ovšem °dpovídá známé větě theorie rovnic. Jest totiž B=xí^aA —(xí a-2). značí-li kořeny rovnice Protože funkce a-2 (xl ^a),
+
+
+XXV. ﻿připouští tytéž substituce, lze (ovšem obecně' stanoviti řešením lineárních rovnic číselnou hodnotu funkce jedné, známa-li hodnota funkce druhé.
+
+
+zvláštním případě může státi, dané hodnotě přísluší více hodnot pak ovšem soustava rovnic (;) nestanoví určitě veličinu nutno tuto jiným způsobem stanoviti. Vylučme soustavy (a\ níž nn_1=~{} považujíce při tom známé, sice rovnic 3,.. («—l)té veličiny «tt,... atd, čímž obdržíme rovnici, které musí vyhovovati. Eliminaci tuto lze snadno vykonati, jelikož jest soustava rovnic («) dle jednotlivých lineární. Každý kořen této rovnice není však hledané neboť tinisí vyhověti též poslední rovnici soustavě («), aneb což totéž jest, rovnici, kterou obdržíme, když soustavě («) rovnic
+
+
+vyloučíme
+
+
+2M...
+
+
+
+
+
+atd.
+
+
+Hledané musí tudíž býti společným kořenem posledních dvou rovnic; patří-li proto jedné hodnotě více hodnot pak musí poslední dví-rovnice míti společného dělitele nejméně stupně druhého vzhledem Činitel tento srovnán nullou určuje rovnici, jejíž každý kořen jest příslušná hodnota
+
+
+Užijeme-li předcházejících úvah rovnici stupně čtvrtého
+
+
+-f- -f- tf2 -f- <*3 -f- <?4 pak soustava rovnic (7) nabývá tvaru
+
+
+tf,
+
+
+,2) (O, 3)=
+
+
+této soustavy plyne následující rovnice pro
+
+
+""2	a\	0	—
+
+
+<*3	B	«\	0
+
+
+a\	0	B	0
+
+
+0	— aa	ai	B
+
+
+0	— a4	0	0
+
+
+0	0	— a*	0
+
+
+1	0	0
+
+
+0	- 1	0
+
+
+0	0	0
+
+
+B	0	—
+
+
+0	B	0
+
+
+0	0	B
+
+
+Rovnice tato jest stupně 6*°, ale snadno uvésti rovnici stupně neboř mezi dvěma jejími kořeny />, platí racionální vztah
+
+
+XXV. ﻿značíme-li totiž kořeny rovnice /(rr) .r, .r4, a?4, pak jest
+
+
+poněvadž
+
+
+jest
+
+
+
+
+
+
+
+
+BBl
+
+
+Zajímavějšího užití poskytuje resultant soustavy («), vyloučíme-li veličiny
+
+
+«21 «s, atd-» veličinu -5.
+
+
+Vyloučením veličiny rovnice Lťe' #/tó nabudeme rovnice:
+
+
+
+
+
+tomto tvaru není tato rovnice přehledná; přičteme-li ale odečteme levé strany nk._ pak nabude tvaru:
+
+
+(d)
+
+
+
+
+
+
+
+
+
+
+
+Zavedfrie opět kratší označení
+
+
+«k«w-l
+
+
+l>ak jest
+
+
+poněvadž
+
+
+jest pro jakékoli
+
+
+i/» (O, /«) «TO
+
+
+«„_!=
+
+
+Zavedením funkcí nabývá rovnice (d) tvaru
+
+
+--1,
+
+
+Píšeme-li této rovnici
+
+
+,... ;/,
+
+
+
+
+
+^držíme soustavu -^=^- rovnic:
+
+
+XXV. ﻿(O
+
+
+
+
+
+(O, y(0, (O,
+
+
+l)=o'
+
+
+
+
+
+kdež již výrazy t^(-^,^), jakož ip(^,«) položeny rovny nulle.
+
+
+této soustavě vyskytují lineárně homogenně výrazy i/>(L, ;//)
+
+
+počtu Pro platnost těchto rovnic jest třeba, aby determinant
+
+
+soustavy rovnal nulle; ten pak srovnán nullou, značí rovnici stupně
+
+
+které vyhovovati musí.
+
+
+Sestavme členy tohoto determinantu tak, veličina objevuje jen úhlopříčně možno učiniti, neboť jest každé rovnici jen jednou zastoupeno pokaždé jiné neznámé. Označíme-li takto vzniklý determinant pak rovnice, které vyhovuje zní:
+
+
+
+
+
+hodnotě stanovíme příslušné soustavy (ř) klademe-li
+
+
+zní určíme ^(0,« pak dle poslední rovnice systému («) vypočteme
+
+
+Při tom může státi, jedné hodnotě patří více hodnot abychom rovnici pro tomto případě vyhledali, postupujeme způsobem docela stejným, jako jsme postupovali, když patřilo více hodnot témuž Užijeme-li opět tohoto způsobu eliminace rovnici čtvrtého stupně
+
+
+pak rovnice
+
+
+<?a
+
+
+XXV. ﻿A	' a\	1	0	0	0	0
+
+
+	0	A C*	1	1	0	0
+
+
+	0	0	A ,	0	1	0
+
+
+	#3	-a,.	0	A	1	0
+
+
+	<?4	0	— 2	0	A	1
+
+
+	0	<*4	— íl,	0	0	A
+
+
+
+
+
+značí resolventu rovnice čtvrtého stupně; rovnice tato jest stupně 6Ao, ale snadno uvésti rovnici, která obsahuje jen sudé mocnitele veličiny vede proto řešení rovnice stupně třetího.
+
+
+rovnici (f) obdržíme člen neobsahující když determinantu píšeme nullu.
+
+
+Takto vzniklý determinant označme z/„.
+
+
+Hodnota //0 není nic jiného, než symmetrická funkce
+
+
+kořenů
+
+
+(x, a?a) (a:, x3) ... (a?,
+
+
+dJg á?;,
+
+
+xn)
+
+
+rovnice (1).
+
+
+Rovnice, které vyhovuje ri, zní totiž:
+
+
+
+
+
+člen neobsahující této rovnici značí právě hořejší funkci symmetrickou. Použitím této poznámky lze ustanoviti podmínku, kdy dvě rovnice
+
+
+/(*) /i1í^-i *a:c«-* ... +*„ (2)
+
+
+^*+4*»-»+... (3)
+
+
+nichž ť?„ ^TO nerovná nulle, mají kořen společný.
+
+
+Mají-li rovnice /(x) \f> (x) kořen společný, musí rovnice
+
+
+^íti kořen společný; naopak mají-li tyto rovnice kořen společný, platí totéž rovnicích /(*) (#) Abychom nalezli podmínku, kdy rovnice
+
+
+/(/0=o,
+
+
+mají kořen společný, utvořme rovnici
+
+
+Ro«pravy. Ročn. Tř. II. 25.
+
+
+(4)
+
+
+XXV. ﻿10 stanovme pro tuto rovnici determinant z/0; pak
+
+
+udává podmínku, kdy rovnice (2) (3) mají kořen společný. Jest totiž
+
+
+značí
+
+
+kořeny rovnice (4). Je-li
+
+
+=0, musí aspoň jednom činiteli yi-\-yi. platiti =0,
+
+
+
+
+
+rovnice (4) kořen pak platí současně
+
+
+Poněvadž dle naší podmínky ^TO jsou nully různý, nemůže }'t rovnati nulle proto předcházejících dvou rovnic plyne:
+
+
+rovnice
+
+
+
+
+
+mají kořen společný.
+
+
+Ovšem podmínka /J0 jen svůj význam theoretický nikoli praktický, ježto determinant jest stupně vyššího než onen známý determinant, jehož při stanovení resultantů dvou rovnic užívá.
+
+
+následujícím chceme ještě ukázati, kterak použitím symmetrických funkcí kořenových možno zjednati rovnici pro Značí-li #2, .r„, kořeny rovnice
+
+
+f(x) -f- a,, pak rovnice pro zní:
+
+
+níž třeba jednotlivé symmetrické funkce kořenů íTn nahraditi úkony součinitelů
+
+
+
+
+
+
+
+
+tím účelem položme rovnici /(a?) rovnici (5)
+
+
+
+
+
+XXV. ﻿11
+
+
+rovnice (5) přejde
+
+
+(6)
+
+
+tím úloha naše převedena vyčíslení symmetrické funkce (6) kořenů
+
+
+rovnice
+
+
+*•!
+
+
+
+
+
+(7)
+
+
+kteráž vznikla rovnice f(x) když jsme položili
+
+
+
+
+
+í=*+T;
+
+
+součinitelé fl', *'2 a'3 #„' jsou proto určeny podmínkami:
+
+
+""'•= -L-1)
+
+
+Vyjádříme-li levou stranu rovnice (6) úkony součinitelů 0'a položíme-li tuto funkci rovnou nulle, obdržíme podmínku, aby rovnice
+
+
+měla dva protivné kořeny, aby měla jeden kořen L,- současně kořen druhý
+
+
+Podmínku, aby rovnice (7) měla kořen L,- také kořen obdržíme též tím způsobem, položíme resultant rovnic
+
+
+=0, (8°)
+
+
+
+
+
+
+
+
+rovným nulle; neboť sečtením odečtením rovnic předcházejících obdržíme
+
+
+XXV. ﻿12
+
+
+Položíme-li tedy resultantu rovnic (8)
+
+
+(«-*)!
+
+
+nabudeme rovnice, které vyhovovati musí.
+
+
+Rovnice takto zjednaná obsahuje ale ještě cizí kořeny, které snadno lze eliminovati.
+
+
+Rovnicím (8) vyhoví zajisté, když
+
+
+•'•==0,
+
+
+neboť pak rovnice (7) kořen L,• Tuto podmínku nutno ale vyloučiti, ježto dle podmínky (6) L,- —L,- značiti dva kořeny rovnice (7) nikoliv kořen jeden. Abychom proto nalezli podmínku, která odpovídá rovnici (6), nutno při resultantu rovnic (8) odstraniti podmínku
+
+
+•'.=0.
+
+
+učiníme tím způsobem, rovnici soustavě (8), která neobsahuje a'n, dělíme pak ustanovíme podmínku, aby tato zkrácená rovnice druhou zbývající rovnicí měla kořen společný.
+
+
+Podmínka, aby tyto dvě rovnice měly kořen společný, známém tvaru determinantním zní:
+
+
+
+
+
+
+
+
+a1}.
+
+
+L1*1 d'q ^'»4 ...
+
+
+
+
+
+... a'k
+
+
+při tom značí a'^, posledního součinitele rovnici (8a) a'k posledního rovnici (8^).
+
+
+Píšeme-li determinantu předcházejícím
+
+
+(«—*)/
+
+
+máme rovnici, které vyhovuje je-li x*-f- Ax-f-B dělitelem f(x] Je-li dána rovnice 4Ao stupně
+
+
+f(x)
+
+
+XXV. ﻿13
+
+
+pak podmínka, aby rovnice
+
+
+měly kořen společný, zní:
+
+
+*'.«'» *'4*i'a rovnice tato značí tudíž resolventu rovnice biquadratické, klademe -li
+
+
+
+
+
+rt3-/(-YJ, «4-/(-
+
+
+Píšeme-li místo /^f—^) zkrátka/^, pak možno dáti tvar 36/'2 3/'/'1/'"" +//'""2
+
+
+Rozpravy. Rocn. Tř. II. 16.
+
+
+XXV. ﻿*"

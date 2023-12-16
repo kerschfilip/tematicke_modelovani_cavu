@@ -1,0 +1,611 @@
+"","x"
+"1"," ﻿ROČNÍK XII.
+TŘÍDA II.
+ČÍSLO 15.
+O polarisaci hraničných čar totální reflexe.
+Píše František Záviška,
+assistent   tysikálního   ústavu   české   techniky   v   Brně.
+(Předloženo   dne   13. února 1903.)
+Opatříme li pozorovací dalekohled totálního refraktometru nikolem a pozorujeme-ii hraničně čáry totální reflexe jakéhokoliv media opticky anisotropického, možno vždy najíti takovou posici nikolu, že při ní pozorovaná hranice vymizí buď úplně nebo aspoň částečně. Toho se užívá s výhodou u krystallů slabo dvojlomných, kde v zorném poli dalekohledu vidíme obě hraničně čáry současně, pak nikolem jednu z nich odstraníme. Rovinu kolmou k polarisační rovině nikolu v té posici, kdy hranici nevidíme, nazveme krátce polarisační rovinou hraničně čáry, o této hodlám pojednati.
+Při tom nutno rozeznávati případ dvojí: buď pozorujeme hranici ve světle odraženém nebo lomeném. V prvním případě dopadá světlo z media opticky hustšího a vždy isotropického (z kapaliny silně lomivé) na krystall, pozoruje se pak hranice mezi totální a parciální reflexí; v druhém případě dopadá diffusní světlo do krystallů skoro parallelně s rozhraním a láme se do media opticky isotropického, zde se pozoruje největší úhel lomu, zpravidla je tu hranice mezi světlem a plnou tmou.
+Polarisaci hraničných čar zabýval se poprvé Ke t té l ér.*) Jedná nejdříve o polarisaci hranice ve světle odraženém a tu tvrdí, že polarisační rovina hranice jest identická s polarisační rovinou příslušné uniradiální vlny odražené. Dopadá-li totiž světelná vlna na krystall, pak lomem vznikají vlny dvě. Směr jich normál, jakož i rychlost, jakou se šíří, závisí pouze na úhlu dopadu a na orientaci rozhraní a dopadové roviny k hlavním osám optické symmetrie. Poněvadž však směrem a rychlostí normály
+*) Ketteler: Wied. Annalen, 1886, sv. 28., pag. 230 a 520.
+Rozpravy: Roč. XII. Tř. II. Č. 15.
+XV. ﻿jest jednoznačně určena polarisace vlny, nezávisí tato na polarisaci vlny dopadající, na ní závisí pouze poměr amplitud obou lomených vln. Do-padá-li tedy na př. lineárně polarisovaná vlna, možno vždy voliti její rovinu polarisační tak, že vzniká jediná vlna lomená. Tato vlna dopadající a příslušná vlna odražená slují dle Mac Cullagha uniradiální, byly jím zavedeny k vůli zjednodušení problému reflexe na krystallech. Označíme-li totiž Al komponentu kmitovou parallelní s rovinou dopadu, />, komponentu k ní kolmou ve vlně odražené v případě, kdy vzniká jen první vlna lomená o amplitudě rovné /, mají-li dále veličiny A2 a B2 týž význam v případě, kdy vzniká druhá vlna lomená také o amplitudě rovné /, pak v obecném případě, kdy vznikají obě vlny lomené o amplitudách resp. ;7j a ya, jsou komponenty kmitové ve vlně odražené
+Svírá-li nyní směr kmitů nikolem propuštěných s dopadovou rovinou úhel ti>, jest jich amplituda
+R zz: A co s ty -r - B sin ty = ^ (Al cos i/.- -f- />\ sin 4') -f- J2 (A2 cos rL> 4- B2 sin r).
+Ketteler nyní tvrdí, že hranice příslušná na př. první vlně vymizí, volíme-li ty tak, že jest
+AI cos ty -\- B^ sin ty — 0
+Na základě té supposice, která ostatně není ničím odůvodněna, podaí vzorce pro polarisaci hranice, omeziv se jen na mimořádnou hranici u kry-stallů jednoosých. Ketteler konečně stanovil i polarisaci hranice ve světle lomeném pro případ, kdy osa optická leží v rozhraní; ukázalo se, že polarisace hranice ve světle lomeném i odraženém jest táž.
+Za účelem verifikování Kettelerových vzorců podnikl Norrenberg*) měření na vápenci. Praeparát byl ponořen jednak v monobrom-naphtalinu, jehož temperatura (17 1° C.) byla úmyslně tak volena, aby jeho index lomu koincidoval s řádným indexem lomu vápence, jednak v jiných kapalinách, jichž index lomu byl mezi řádným a mimořádným indexem lomu vápence, takže vždy vznikla jen mimořádná hranice. A tu se ukázalo, že vzorce Kettelerovy souhlasí s měřením velice dobře v případě prvním, jindy byl vždy naprostý nesouhlas. Jak se dá dokázati, leží příčina souhlasu jen v té okolnosti, že index lomu monobromnaphtalinu se rovnal indexu řádnému vápence, Norrenberg však hledí polarisaci hraničné čáry uvésti v souvislost s kuželem hraničných paprsků a tvrdí, že dle jeho měření vzorce Kettelerovy jsou správné, když tento kužel je elliptický nebo degeneruje ve dvě roviny. Toto tvrzení však není správné, poněvadž by vzorce Kettelerovy platily i tehdy, když kapalina, v níž jest krystal!
+*) Norrenberg: Wied. Annalen, 1888, sv. 34, pag. 843.
+XV. ﻿ponořen, má index lomu větší než oba indexy krystallu, což nenastane. Při měření ukázalo se dále, že polarisace hranice ve světle lomeném jest táž jako ve světle odraženém, při čemž na krystall dopadalo světlo přirozené, ačkoliv dle Kettelera má to nastati jen v případě, kdy optická osa leží v rozhraní; v dalším se ukáže, že to platí docela obecně.
+Měření Norrenbergovo jest jediné soustavné měření kvantitativní, jež o polarisaci hranice bylo provedeno. Otázkou touto zabýval se také Pulfrich,*) jenž užil polarisace hraničně čáry hlavně k určení charakteru dvojlomu v případě, kdy jednoosý krystall je broušen kolmo k ose optické, a obě hraničně čáry jsou tedy kruhy. Pulfrich identifikuje polarisaci hranice ve světle lomeném s polarisací příslušné vlny v krystallu, takže zanedbává změnu polarisace následkem lomu z krystallu ven, což ovšem není dovoleno. Konečně C. Viola**) udal methodu, jak možno užiti polarisace hraničně čáry ku jednoznačnému stanovení středního indexu v případě, kdy rozhraní tvoří libovolný řez krystallem dvouosým, při svých theore-tických úvahách však také zanedbává změnu polarisace při přechodu z jednoho media do druhého. O jeho měřeních pojednám v dalším obšírněji.
+Přistoupíme nyní k vlastní otázce. A tu nutno napřed uvážiti, co jest příčinou, že hraničnou čáru vidíme. Supponujme napřed, že pozorujeme nranici ve světle odraženém. Intensitu dopadajícího světla volíme za jednotku, intensitu světla odraženého označíme y, úhel dopadu CZ>, úhel lomu té vlny, jíž pozorovaná hranice náleží, budiž rp. Stanovíme-li intensitu J jako funkci úhlu (2>, pak snadno dá se ukázati, že J jest všude spojitou funkcí pro-
+7CV
+měnné 3>, ale diřferenciální quotient — - - jest rozpojitý v okolí hraničného
+úhlu dopadového. Ve výrazu pro
+j cs*
+vyskytuje se totiž také člen
+cy      j
+-- r^-<    d®
+a tu jest
+rozpojité.    Neboť,   konverguje-li   <P  k hraničnému   úhlu od
+hodnot větších, tedy z oboru totální reflexe, je <jp stálé, a tedy      — nullou.
+konverguje-li   však <&   k  hraničnému   úhlu   od   menších   hodnot,   z   oboru reflexe parciální, jest     ,_*.   nekonečně velké.  Uhel <p jest totiž jako funkce
+dopadového úhlu 0 určen bikvadratickou rovnicí v cot <p. Klademe-li tedy oč =z coffp, jest ona rovnice f(x, <&} = 0, a z ní plyne derivací
+d®
+«=*
+Má-li 3> býti hraničným úhlem  totální  reflexe,   musí   rovnice / (.v, (Z>) zr 0
+*) Pulfrich: Wied   Annalen, 1888, sv. 34, pag. 326. '**) Viola: Zeitschrift fůr Krystallographie, 1889, sv. 31., pag. 40.
+XV. ﻿míti dva stejné kořeny x,  je tedy tu   ^ — r= 0,   a poněvadž jest y    :> 0,
+musí býti
+d qp
+nekonečně velké.
+Je zřejmo, že tento rozdílný vzrůst intensity po obou stranách hranič-
+ného úhlu je příčinou,   že   hranici   vidíme.   Volíme-li   tedy polohu nikolu
+ay tak, aby ve výrazu pro intensitu J světla nikolem propuštěného člen -y
+buď vymizel,   anebo jeho absolutní hodnota  dosáhla minima, pak hranice buď vymizí aneb aspoň je nejméně zřetelná.
+Tytéž úvahy platí i v případě, kdy pozorujeme hranici ve světle lomeném. Světlo dopadá tu z krystallu na medium isotropické, označíme-li tu tedy k vůli souvislosti s předešlým <p úhel dopadu, <ř> úhel lomu, je
+z týchž důvodů co dříve differenciální quotient - , _    rozpojitý pro hraničný
+dopad. Jak známo, máme u medií dvojlomných pro každou polohu roviny dopadu obecně dva hraničně úhly; dá se pak ukázati, že světlo, které se lomí do media isotropického v menším úhlu než jsou oba hraničně úhly, jest lineárně polarisované ; ležl-li úhel lomu mezi oběma hraničnými úhly, je lomené světlo polarisováno ellipticky, ve větším úhlu nelomí se již nic. Je-li tedy lomená vlna lineárně polarisovaná, označme A komponentu kmitovou parallelní s rovinou dopadu, B komponentu k ní kolmou. Svírá-li pak směr kmitů nikolem propuštěných úhel ty s dopadovou rovinou, jest intensita světla nikolem propuštěného J =r (A costy -j- B sin ty)*.
+7fV
+Podmínkou pro vymizení hranice jest, aby ve výrazu pro         vypadly
+členy v okolí hraničného úhlu nekonečně velké, z čehož plynou dvě hodnoty pro ty :
+A
+tg ty * r= — lim
+dB
+První hodnotě odpovídá J m 0, je tedy tu nikol postaven na největší tmu v poli.
+Dá se však ukázati, že nejsou-li hraničně úhly velmi málo od sebe rozdílný, pak při obvyklém uspořádání vedou obě rovnice ku skoro stejným hodnotám pro ty. V našem případě totiž, kdy pozorujeme hranici příslušnou menšímu z obou úhlů hraničných, lámou se z krystallu do směru hraničného paprsku dvě vlny Úhel dopadový té vlny, jíž pozorovaná hranice náleží, je skoro 90°, dopadový úhel druhé vlny jest menší, a sice tím menší, čím více se od sebe liší oba hraničně úhly. Praeparáty, jichž při měření hranice ve světle lomeném se užívá, jsou nízké válečky, jichž jedna základna a plášť jsou broušeny. Z toho plyne, že jen v těch partiích roz-
+XV. ﻿hraní, které jsou k světlu dosti blízko, může dopadati ta vlna, jíž hranice nenáleží, v úhlu tak velkém, že se lomí do směru hraničného paprsku. Pozorovací dalekohled, který jest na nekonečno nařízen, sloučí všechny parallelní paprsky v jediný, možno tedy krátce říci, že intensita té vlny dopadající, jíž pozorovaná hranice nenáleží, je mnohem menší než intensita vlny druhé, a my ji krátce zanedbáme. Na tom právě spočívá výhoda těchto válečků i při měření hraničného úhlu, poněvadž je tu i u té hranice, jež náleží menšímu úhlu hraničnému, na jedné straně úplná tma.
+V tomto přiblížení je pak pro hraničný dopad A ~ 0, B = 0, a iden-tičnost obou vzorců (1) je patrná. To ostatně dá se dokázati i přímou úvahou. Po jedné straně hranice je úplná tma, má-li tedy hranice vymizeti, musí býti tma i po straně druhé, nikol jest postaven na největší tmu v poli.
+Pozorujeme-li hranici příslušnou většímu z obou úhlů hraničných, je světlo lomené ellipticky polarisováno; do směru hraničného paprsku láme se tu vlna jediná. Komponenty amplitudy supponujeme ve tvaru komplexním, takže tu jest A zz A' -j- i A"", /> = /?' -}- iB"", a intensita světla nikolem propuštěného je
+y — (A' cos ty -f // sin ty}* -f (A"" cos ty -f- B"" sin ty}2.
+Pro hraničný dopad je tu přesně A' zz 0, A"" — 0, B' =i 0, B'' i= 0, z čehož snadnou úvahou plyne, že podmínka pro minimum J je identická s podmínkou pro minimum výrazu ,^ ', dá se pak uvésti na tvar:
+=: lim
+_L   dIL d®    d®
+ť^   dB"" d®     d®
+(dA'\* \ d®
+d®
+-------(2)
+Vzorci (1) a (2) je tedy stanovena polarisace hraničné čáry. Pokud se týče vlastního měření, sluší podotknouti toto. Medium, do něhož se světlo z krystallu láme, musí býti silně lomivé, je to ostatně vždy k vůli dokonalému kontaktu kapalina. Z této však musí světlo vystoupiti do vzduchu, a tím se ovšem jeho polarisace mění, při přesném výpočtu měli bychom vzíti i tuto změnu v úvahu. To však odpadá u Ko h l rausc h o v a totálního refraktometru, poněvadž světlo vystupuje tu vždy do vzduchu planparalellní destičkou skleněnou, vždy při incidenci normální, takže polarisace vlny lomené se již nemění, a vzorce, jež v dalším budou odvozeny, platí tu přesně.
+Podmínky v rozhraní supponujeme v té formě, jak je podává theorie elektromagnetická, při čemž interpretujeme jako vektor světelný magnetickou sílu, t. j. vektor Neumannův. Ta žádá spojitost tangenciální komponenty síly magnetické i elektrické, tedy konjugovaného vektoru
+XV. ﻿Fresnelova, z toho pak plyne i spojitost normální komponenty magnetické síly. Jak známo, jsou tyto podmínky identické s podmínkami Neu-mann -Ki re h h o f f o vy mi v theorii elastické. Podávají celkem rovnic pět, z nichž však jsou jen čtyři neodvislé, za ně volíme rovnice vyjadřující spojitost všech tří komponent magnetické síly a jednu rovnici plynoucí ze spojitosti tangenciální komponenty síly elektrické. Komponenty vztahujeme vždy na systém ,r, y, z spojený pevně s rozhraním a dopadovou rovinou tak, že osa s kladně do krystallu čítaná je normálou rozhraní osa y je normálou roviny dopadové, kladně ji čítáme tak, aby při dopa-dovém úhlu 90° vlna dopadající postupovala směrem kladné osy x-ové. Hlavní osy optické pružnosti označíme x'', y, s'; orientace jich v osách x, y, z buď dána schématem:
+X
+y
+y
+fa      fa
+r,
+(3)
+Jsou-li komponenty Neumannova vektoru   u, z>, zv. pak   x-ová. komponenta vektoru Fresnelova, o jejíž spojitost se jedná, jest rovna
+-i 2 x
+kdež jest     aíf = vv 2 «1 ac -U v2
+7,,    <? Zl l, 2, 3,
+^D ^2' ^s Jsou  hlavní rychlosti světelné v krystallu.    Podmínka vyjadřující spojitost y-ové komponenty Fresnelova vektoru je tu identická s podmínkou vyjadřující spojitost komponenty w. Přejdeme nyní k speciellním případům.
+Krystally jednoosé. 1. Polarisace hranice ve světle lomeném.
+Orientaci rozhraní k ose optické definujeme úhlem ;< mezi normálou rozhraní (osou z) a optickou osou, orientaci roviny dopadové stanovíme pak úhlem tí mezi hlavním řezem rozhraní a dopadovou rovinou. Volíme-li tedy v2 = v3 ~v„, i\ ~ i',-, je osa x' osou optickou, a ve schématu (3) jest
+a, ~ sin ,u cos d\    «2 zi sin p sin ó\
+XV.
+=: cos ﻿v rovnicích (4) pak je
+rtn iz v,? 4- (z/,.2 — v„2) sin2 ,« Lť?í2 d,      al 2 = (^-2 — ^«2) Jz«2 f* •«« d
+?J fl Í0J ď.
+Vlna lomená je lineárně polarisovaná, jedná-li se o mimořádnou hranici u krystallů negativních a o řádnou hranici u krystallů positivních. Pojednáme tedy napřed o první, při čemž vliv dopadající vlny řádné zanedbáme.
+Na rozhraní tedy dopadá vlna mimořádná v úhlu (pe. Rychlost její označíme co, komponenty kmitové dle os x, y, s jsou ve tvaru komplexním:
+.„                                                                           x sin w, — scosq>e         ._.
+u — Ac e""l&<    v — fí, L""'""'*    w = Cc e'""»>- ,   9,. — t -- — - -— ... (5)
+to
+Kmity její jsou dle  Neumanna kolrno   na rovinu jdoucí  normálou vlny a optickou osou, z toho plyne:
+A c : />, : Cf = sin ,u sin ó cos y , : : — (cos « sin (p, -j- sin (i cos d cos qp, ..) : sin ,u sin ó sin qp,..
+Intensita světla dopadajícího je stálá, volíme ji tedy za jednotku, čímž jsou stanoveny absolutní hodnoty komponent Af, Bc, Ce\ obdržíme je, násobíme-li výrazy na pravé straně úměry jistým faktorem, jejž označíme y,, a který možno snadno určiti.
+Vlny odražené jsou dvě: řádná a mimořádná. Úhel odrazu vlny mimořádné označíme (pie, rychlost její budiž w1(, její komponenty kmitové jsou
+v\,-
+^        >•
+i,. — LI,, e
+- z cos (fic.
+.                               t
+?>1(, 1=  f  -                                                          ......    (O)
+t»l,
+kdež jest
+AI,. : B\c : C\, ~ sin psina cos q>ie : (cos tu sin tpi, — sin p cos d cos <f\?) :
+: — sin p sin d sin g)1(,,
+absolutní hodnoty komponent amplitudy obdržíme  zase násobením faktorem  Jlc.
+Úhel odrazu vlny řádné označíme qplň,   rychlost její jest vot komponenty kmitové jsou
+2cos<plo
+(7)
+XV. ﻿a při tom je
+A\„: B\„: C\0 = cos q>\„ (cos q>\„ sin \i cos d — sin <pi„ cos ji) : sin n sin d : : — sin <pi„ (cos <pi„ sin (i- cos ď — sin fp\0 cos 11).
+známe tedy zase komponenty amplitudy   až na faktor,   jejž označíme ^i,,. Konečně pro vlnu lomenou klademe
+u' ~ A cos® c
+v zz Be*            w' — Asin0erítl ,
+.ť sin 0 —-s cos ®
+~v        .....
+(8)
+<& je úhel lomu,   V rychlost světla v isotropickém mediu.
+Závislost mezi   úhlem   dopadu qp,   a úhlem lomu ® je dána kvadratickou rovnicí tvaru
+a „ coí2 qp, -f- a\ coítp,- -f- #2 už 0,
+závislost mezi úhlem odrazu <p,,.   a lomu 0 je dána  rovnicí: a„ cot2rpi,. — al coty\e -j- a2 — 0.
+Jsou tedy kořeny první rovnice coty,. a — coty>\,,. Pro hraničný dopad má ona rovnice oba kořeny stejné; z toho plyne qpi, — 180° — qp,, normála vlny dopadající jde tu beze změny směru dále. Mimo to je
+podíl--1- nezávisí na <&, je tedy pro hraničný dopad
+Podmínky v rozhraní vedou k těmto rovnicím:
+A cos <& — J,. sin (i siná cos qj, -f- ^i,. sin {Ji sin d cos rpi<- ~ ~h J\» co? (pí* (cosq>i„ sin {i cos d — sin<pia cosy},
+B — — Jt (cos ,u sin (pt -f- sin 4u cos ó cos qpt.) -(-   ^,. (cos ,u sin (pí,- —
+— sin fícosd cos <pie) -\- Jio sin psinu) ....... (9)
+A sin 0 =z J,, sin u sin d sin qp,. — jí], sin [i sin d sin y\. — y\„ sin (f\0 (cos(p]ri sin (u cos ď — sin (pi„ cos «),
+B sin G* cos 0 = — Jc (sin 4tt cos d cos- (pí,, sin qp,. -j- cos ^ sin*rp\0 cos qp,. [- J\,. (sin u cos d cos- q>]0 siny>\, — cos \i sin2 (pí, , cosrpí, ) -— y\>, sin (i sin d sin <pi„ cos qpi„.
+XV. ﻿Pro hraničný dopad jest <pie — 180 - qp,, a snadno se přesvědčíme, že rovnicím vyhovuje tu řešení A = J3—0, J\n — 0, J\c =: Jc. Derivujeme li nyní tyto rovnice dle 3>, a zavedeme-li hned hodnoty odpovídající hraničnému
+dopadu, obdržíme čtyři rovnice, z nichž možno veličiny Je, -—;- (Jc — J\c],
+'- determinantem eliminovati.   Tím obdržíme lineárnou homogenní re-d®
+•
+laci mezi
+'V             ,                           .,                                                    ,,V
+. .    a    ,    •, z niž plyne dle rovnice (1) a (p       a<P
+sin u cos d cos <pi„ -f- cos (« sin q>\,.
+COl l,  —
+sin [i sin ó cos (<fi0 —
+(10)
+úhel rpio je stanoven rovnicí
+l' a        .         ,
+,, m:      _.- sin<P.
+Úhel ý značí úhel, jejž svírá s dopadovou rovinou směr kmitů niko-lem propuštěných, dle Neumanna koinciduje ten směr se směrem polari-sační roviny nikolu.
+Je-li osa optická v rozhraní, je  « =r 90°,  a tedy
+coťfy = cotů
+COS (fi,
+(U),
+je-li osa optická kolmo k rozhraní, je « zz: 0 a také */> = 0.
+Je-li index lomu media isotropického roven řádnému indexu krystallu, je y\„ = 0, a tedy
+i
+COtl!' ~ COtO COS(pi„ -[- COt U
+sinq)-[0
+: — ,
+smti
+(12)
+Snadno pak se dá ukázati, že polarisace hraničně čáry tu koinciduje s po-larisací uniradiální odražené vlny mimořádné, tedy v tomto případě, a jen v tomto případě jest supposice Kettelerova splněna.
+Týž postup jest u řádné hranice krystallu positivních. Na rozhraní dopadá tu vlna řádná, úhel dopadu označíme <p„, komponenty kmitové dle os x, y, s jsou
+u = A„cvti ""      v— B„ e"" ""     -iv — Ca e'^""
+x sin (p„ — c cos <jp„
+(13)
+kdež jest
+A„: B„: C„ — cos tp„ (sin u cos d cos ty„ -f- cos \JL sin <p„) : sin (u sin d : sin (f (sin u cos d cos q>0 -f- cos jti sin 9?,,),
+absolutní hodnoty obdržíme zase násobením faktorem  J„.
+Pro vlny   odražené   platí  zase   rovnice (6)   a (7),   pro vlnu   lomenou rovnice (8). Podmínky v rozhraní vedou k rovnicím:
+XV ﻿10
+A cos 0 ~ J0 cos <p0 (cos <p0 sin ,u cos ó -J- sin y>„ cos /í) -}-J\0 cos <pi„ (cos <f\„ sin // cos d--------sin <fi„ cos (i) -j- %,. sin /i sind cos gpi,.,
+^ = y„ j/;/;/ sin d -|- Jlt) sin ,ti í/« d -|--\-  J\e (cos (i sin (fi, — sin // cos d cos qp1(.)
+(14)
+A sin 0 ~ y„ sin <p„ (cos <p„ sin tu cos d -)- j/« (p0 cos u) — — 7\0 sin qpi0 (cos <pi„ sin fi cos d — sin <píf, cos </) — y1(. sin ,u j/« d sin qpi,.,
+=i .?„ Jř« (u sin ó sin <py rť?í cp„ — y
+i, — ííií (U sin
+Pro hraničný dopad je rp„ — qpio = 90°, a rovnicím vyhovuje^/=: B — 0, L. r= 0, ;/lo — — .7,,. Označíme-li k vůli jednoduchosti
+) -j- cos'- n           N ~ sin- (i sin2 d — cos-11,
+M—sin2, obdržíme týmž postupem jako dříve
+sin [i sin d [2 sin (i cos fi cos d cos 0 cos qpiť — M sin (<JPI,. -j- 0J)
+Í6'/ t^ ---------------------------------j------;----—--------—-----—---------------;--------------j-----——---;---------------------       -----—       (  l O j
+M cos ,u cos <f\c -\- sin 0 cos 0 (A/cos,« sin <p\e -j- N sin u cos o cos <p\c)
+Je-li osa optická v rozhraní, je /* = 90°, tedy
+sn
+>i, + *)_
+COS0 COS <fiť
+(16),
+je-li osa optická kolmo k rozhraní, je ^ zi 0 a iť =r 90. Polarisace hraničně čáry nekoinciduje tu nikdy s polarisací uniradiální řádné vlny odražené.
+Vzorce (10) a (15) platí ovšem přibližně, jak dříve řečeno, a jsou správné jen tehdy, když oba hraničně úhly se dosti od sebe liší. Kdybychom znali poměr intensity té vlny dopadající, jíž hranice nenáleží, a již nyní zanedbáváme, k intensitě vlny, jíž hranice náleží, mohli bychom snadno vliv zanedbané vlny stanoviti. K tomu stačí stanoviti A i lí z pohybových rovnic (9) a (13), a vzhledem k tomu, že toto řešení odpovídá případu, kdy amplituda vlny dopadající se rovná jedné, nutno je násobiti amplitudou vlny dopadající, komponenty pohybu výsledného jsou pak rovny součtu obou řešení. Jedná-li se však o hranici mimořádnou u krystallů negativních, možno vliv vlny řádné snadno odstraniti. Je-li totiž index lomu media isotropického roven řádnému indexu krystallů, je v rovnicích (14) <pa ~ <fi„ zr 0, a rovnicím těm pro každé 0 vyhovuje J\c ~0.
+dA
+Tím však vypadne z nich <pi,., a v limitě podílu
+dH d0
+vliv vlny řádné pak
+XV. ﻿11
+vůbec vymizí, vzorec (12) platí přesně. U řádné hranice není možno nikdy vliv vlny mimořádné odstraniti.
+Přejdeme nyní k případu, kdy lomené světlo jest ellipticky polariso-váno. To vzniká tím, že jedna z vln odráží se již totálně a jest taktéž ellipticky polarisována. Poněvadž známé vzorce Fresnelovy platí jen pro případ vlny lineárně polarisované, nutno vrátiti se zpět k rovnicím pohybovým. Za tím účelem supponujeme pro onu odraženou vlnu něj obecnější pohyb optický, který jest dán vlnou ellipticky polarisovanou, jež se šíří s absorpcí. Komponenty kmitové vztažené na hlavní osy optické symmetrie krystallu jsou ve tvaru komplexním
+« = Aevil>       v — Bilí>     w — Cc""f>      »= t — (Px -J- Qy + Rs\ veličiny A, B,   C; P,  Q, R jsou tu komplexní. Klademe pak
+/>=L, (L'-irL"")t
+- y (M' - irM""\
+= y (A'
+při čemž veličiny V a r jsou tak voleny, aby L\ M', N' a L"", M"", N"" byly směrovými kosinusy. Pak, jak známo, jsou první směrové kosinusy normály fásové, druhé normály absorpční, V je rychlost normály fásové, r kočfficient absorpce.
+Označíme-li k vůli jednoduchosti
+L — L' — i r L"",
+M—M' — ir M""
+— N' —i rN"",
+pak existují mezi veličinami A, B, C ; L, M, N jisté relace, jež obdržíme, dosadíme-li u, v, w do pohybových rovnic Neumannových. Rovnice, jež obdržíme, dají se snadno nahraditi jinými, které jsou analogické známým rovnicím v případu lineárně polarisované vlny bez absorpce, totiž:
+L A -\-MH ^- N C— 0, z\ * A (NB — M C) -f vs - b (L C — M A)-} v3 2 C (MÁ - L B) — 0, . . (17)
+____
+v, - (L2 4- M2 + N~) — V-         v2- (L- 4- ~M* -[- N-) — V'2 ""*""
+N*
+Uosadíme-li   sem   nyní   příslušné   veličiny   komplexní,   obdržíme   celkem šest rovnic.
+V našem případu, kdy se jedná o krystally jednoosé, klademe
+pak druhá z předešlých rovnic se rozpadne v rovnice:
+XV. ﻿12
+NL—LC=0
+(17')
+z nichž první odpovídá dle Neumanna   vlně   mimořádné,   druhá   řádné. Podobně rozpadne se rovnice třetí ve dvě, totiž:
+V* — v0- L'2 + v,2 (M* + A'2)    a    F'2 = zv (L2 -f ,Y- -f .V-), . . (17"")
+první odpovídá zase vlně mimořádné, druhá řádné.
+Přejdeme nyní ku speciellním případům. Pozorujme napřed mimořádnou hranici u krystallů positivních. Na rozhraní dopadá vlna mimořádná, pro tuto, jakož i pro odraženou vlnu mimořádnou a pro vlnu lomenou zavedeme totéž označení, jako v rovnicích (5), (6), (8). Pro odraženou vlnu řádnou plyne z druhé rovnice (17""), dosadíme-li tam za L, M, N příslušné hodnoty komplexní a píšeme-li mín místo V:
+tai„- = v^ (l —r1}
+L' L"" -f- M' M"" + N' N"" — 0.
+Stojí tedy normála fásová kolmo k normále absorpční. Z podmínek v rozhraní však plyne, že normála absorpční koinciduje s normálou rozhraní, normála fásová jde tedy průsekem roviny dopadové s rozhraním. Uhel lomu je tu roven 90°, a ze zákona Snelliova plyne
+V
+sin 0
+Je tedy dále
+/•- = l
+1
+v0
+V Podíl  -  - rovná se sin<&0,  značí-li <2>„   hraničný   úhel   dopadový   příslušný
+7'o
+vlně řádné, je tedy
+*11* &<>  _  sin (® — <&0] sin
+-f- (Z»„)
+.
+Pro hraničný dopad je <2> hraničný úhel příslušný vlně mimořádné, je tedy r2 řádu 0— <&„.
+Zbývá ještě stanoviti polarisaci vlny odražené. K tomu slouží první z rovnic (17) a druhá rovnice (17'). Komponenty kmitové jsou tu vztaženy na hlavní osy krystallů (osa x' je osou optickou), vztáhneme-li je tedy zase na soustavu (xy y, .7) pevně spojenou s rozhraním a dopadovou rovinou, jest
+AI„ : B\n : C\„ =: / (rsin u cosd — i cos u): — (l — r'1) sin u sin ti : : — (cos;/ ~j- i r sin ttt cos ď),
+dále je tu
+x — irz
+XV. ﻿13
+Tím je tedy vše stanoveno, a možno přikročiti k podmínkám v rozhraní, jež dávají rovnice :
+A cos 0 — y. sin (i sin ó cos <pf -}- J\e sin tu sin d cos\c -\-H- yi» ^ (rsin tu <rc>.y A — i cos (i)
+— — y. (cos n sin <jpť. 4- sin ,u roj <) L<w qpť) + y^ (<:<?.$• /i sin qpi, — .«'# ^ cos $ cos Y**)
+— ?ia (l — rositi (i smÓ   ......... (19)
+A sin 0 =r y. j/« t« j/« d sin q>, — yi,. sin fi sin d sin (pif — J\o (cos [i -f- ii sin [i cos d )
+— ;-2) jz« ^ L0.y $ — y^ (r~ sin ,a ÍTOÍ ď sin q>c — cos fi cos qp,. i,. -f-
+Pro hraničný dopad je tu zase a4 zr ^ r= 0,  yjo ^r 0,  ylř = y,. Tak
+jako dříve stanovíme zase limitu podílu          , a z toho tg 2 ty dle vzor. (2).
+Obdržíme:
+2 ím fi jm ď (r2 sin pcos ó cos (& -f- cos ta j/«
+sin2 n sin2 ó (sin2<& -\- r* cos23>) — (cos2ft -{- r2 sin2 (u cos'2 d]
+Z tohoto vzorce p!ynou vlastně dvě hodnoty pro 4', jež se liší o 90°,
+j <y
+jedna z nich odpovídá minimu výrazu —j-^r >   druhá   maximu.    Nám    jde
+o minimum; kdy nastane, možno stanoviti dle známých pravidel differen-ciálního počtu. Uvážíme-li však, že dle vzorce (18) je r2 zpravidla malé, možno v prvním přiblížení ?'2 zanedbati. Pak ve vzorci pro tg2ty veličina r vůbec vypadne, je to tedy totéž, jako kdybychom v rovnicích (19) zanedbali všechny členy, v nichž se vyskytuje r. Následkem toho odpadnou tu imaginární členy, a rovnice (19) stanou se identickými s rovnicemi (9), dosadíme-li do těchto (pí,, i= 90.
+V tomto přiblížení je tedy dle vzorce (10)
+cotu,
+CO tti — -    .—,7-:-^-,
+sin o sin CP
+kteráž hodnota plyne také ze vzorce (20), zanedbáme-li tam r2.
+Leží-li tedy osa optická v rozhraní ((u =z 90) je ť =: 90, polarisace hraničné čáry je tu tedy stálá, pouze je-li d = 0, je ^ neurčité, což souvisí s tím, že jak vlna dopadající, tak i obě vlny odražené jdou směrem optické osy, tedy se nepolarisují. Neleží-li osa optická precisně v rozhraní, je ,« skoro rovno 90, a pokud se d liší od nully dosti mnoho, je také ty
+XV. ﻿14
+skoro 90°. Blíží li se však Ó k nulle, t. j. blíží-li se rovina dopadová k hlavnímu řezu, mění se 4 velice rychle, a pro ď =: 0, kdy rovina dopadu ko-inciduje s hlavním řezem, je 4 = 0. To možno velice dobře pozorovati na př. u křemene broušeného (téměř) parallelně s osou optickou. Zatmíme-li hranici pro Ó — 90, kdy rovina dopadová stojí kolmo na hlavní řez, a otáčíme-li pak krystallem, takže ď se mění, je hranice dlouho neviditelná, až v blízkosti osy optické najednou se objeví. Je patrno, že tato změna je tím náhlejší, čím jest cot p menší, t. j. čím dokonaleji jest rozhraní paralellní s osou optickou. Tím jest dána možnost zkoumati, jak správně jest krystall broušen paralellně s osou optickou, tato methoda jest citlivější než methoda koincidence obou hraničných úhlů.
+Je-li rozhraní kolmo k ose optické, je ^ z= 0, a 4 = 0.
+Zbývá tedy ještě řádná hranice u krystallů negativních. Ellipticky je tu polarisována vlna mimořádná. Docela tak jako v předešlém případě odvodíme, že úhel odrazu <ple je tu stálý, a sice platí:
+(vc""' — v02) sin u cos w cos ó cot <pie =
+02 cos2 ,u -j- v* sin- [i
+(21)
+Znajíce   <plt,  určíme rychlost GJI(.   odražené   vlny   dle   zákona    Snelliova konečně jest
+O   /         9             O             l              <•>         •      9        \                 TV>         '      '*                /                                                                               \
+r"" (v^cos* u -4- v,."" sin"" u) — l/- sin' opi,, ( —- „•—------. 0 _    ),
+\ sin \&          sin Q J
+<&e je tu hraničný úhel příslušný vlně mimořádné.   Je zase patrno, že pro hraničný dopad je r~ řádu 3>0 — ^,..  Dále určíme
+AIC : B-Í, : C\c — sin u sin ó (cos qpi(. — ir) : — sin ,u cos d (cos <p\c — ir) -}--[- í<?^ ft sin qpi, : — j?« (i sin ď ^z>z qpif,
+X5Z« g?iť — ^ (íí»j^pa,. — ir)
+Obdržíme tedy tyto rovnice z rovnic (6), dosadíme li v nich costp\c — ir místo cosrpí,. Z toho ihned plyne, že podmínky v rozhraní obdržíme z rovnic (14) provedením téže substituce. Dle toho možno pak snadno udati vzorec pro polarisaci hraničné čáry, ostatně z týchž důvodů co dříve platí až na veličiny řádu r2 vzorec (15).
+Je-li osa optická v rozhraní, platí vzorec (16). Dle vzorce (21) je tu (plf — 90, je-li tedy ď od nully rozdílno, je 4' — fy pro t) ~ 0 je 4 neurčité, z týchž důvodů co dříve. Je-li osa optická velmi blízko rozhraní, platí úvahy podobné.
+Je-li osa optická kolmo k rozhraní, je ip = 90. Srovnáme-li to tedy s výsledky předešlými, můžeme říci, že u každého krystallů jednoosého,
+XV. ﻿15
+kolmo k ose optické broušeného, vymizí hranice řádná, je li polarisační rovina nikolu kolmá k rovině dopadu, hranice mimořádná vymizí, když polarisační rovina nikolu s ní koinciduje. To také souhlasí s měřením Pulfrichovým. Tím je tedy dán prostředek k rozhodnutí, která hranice náleží vlně řádné, a která mimořádné, což z průběhu hraničných čar, kieré jsou tu kruhy, rozhodnouti nelze.
+2. Polarisace hranice ve světle odraženém.
+Pozorujeme-li hraničnou čáru ve světle odraženém, pak na rozhraní zpravidla dopadá světlo přirozené; omezím se také jen na tento případ Ve světle přirozeném mění se směr i fáse kmitů docela libovolně. Roz-ložíme-li si tedy jeho kmity na komponentu paralellní s rovinou dopadu a komponentu k ní kolmou, je zase
+u = A e
+v — Bei&
+(22),
+veličiny A a B jsou tu komplexní, tedy A — Ar -\- i A'\ B — B' -j- / B""t a mění se s časem docela libovolně, takže během jisté krátké doby ť nabudou všech hodnot, je tedy
+Tím však ještě není úplně charakterisováno přirozené světlo, i nutno uvážiti, jak je poznáváme. Od světla lineárně a ellipticky polarisovaného rozeznáme je tím, že, projde-li nikolem, je intensita jeho nezávislá na poloze polarisační roviny nikolu k rovině dopadu, při čemž ovšem nutno vzíti střední intensitu během doby /', poněvadž A a. L se mění s časem. To vede k podmínkám
+f(A*-\- A""- — B'- — B""-) dt—Q     f (Af B' + A"" B""} dt — &,.   .   . (23')
+intensita světla nikolem prošlého jest pak
+(24)
+Abychom světlo přirozené rozlišili od cirkulárně polarisovaného, vložíme mu v cestu na př. slídovou - desku, čímž světlo cirkulárné přejde v lineární, a to nyní analystijeme nikolem. Podmínka, aby ani tu intensita nezávisela na orientaci polarisační roviny nikolu, vede k další rovnici
+f(A'B"" - A""r>')dt—Q
+a
+XV.
+(23""). ﻿16
+Tedy veličiny A a /> musí vyhověti rovnicím (23') a (23""), aby rovnice (22) vyjadřovaly světlo přirozené.
+Rovnice (22) mají tu výhodu, že možno nyní operovati se světlem přirozeným jako s polarisovaným. Jak hned v úvodu řečeno, zjednoduší se problém reflexe zavedením kmitů u n i r a di á l n í c h. Je-li tedy vlna dopadající tak polarisována, že lomem vzniká jen vlna řádná o amplitudě rovné jedné, označíme její komponentu amplitudy kmitové paralellní s rovinou dopadu A o, komponentu k ní kolmou L>0, podobně ve vlně odražené Aio a B\„. Vzniká-li lomem jen vlna mimořádná o amplitudě rovné jedné, zavedeme podobná označení: A,., B, ; AI,., BI,.
+Dopadá-li nyní na rozhraní vlna libovolně polarisována, jejíž amplituda má komponenty A a B, vznikají dvě vlny lomené o amplitudách R„ a R,., ve vlně odražené označíme komponenty amplitudy AI a BI. Dle principu superposice kmitů, jenž plyne z toho, že pohybové rovnice optické jsou lineárně, jest pak
+A — A„R0-\-A,R,. fí = Bn R0 -f B,- R,-
+A, - Alt, R0 -f Alc R,. h   = L\. R„ + A,. Rf
+Je-li nyní A a B dáno, máme tu čtyři rovnice pro čtyři naznámé R0, R,,\ A^ L>}. Nám jde o poslední dvě, řešením obdržíme
+A, D - (j, A
+kdež jest
+Vl - Alo Be - Alt. B„       «, _ L\ Bla - B„ Lle     D _ ^ R _ ^ ^
+QZ = Ao Ale - A,- AlH      ir2 — A„ A, — Af L\„
+Veličiny Al  a fíí jsou obecně komplexní, klademe tedy zase
+Dosazením do rovnic (23') snadno se přesvědčíme, že vlna odražená ty rovnice nesplňuje, z čehož soudíme, že jest částečně polarisována. Svírá-li polarisační rovina nikolu úhel i/> s dopadovou rovinou, jest střední intensita světla nikolem propuštěného během doby/' rovna (dle Neumanna)
+— f \(A\
+dt . . (26)
+Nyní stačí stanoviti
+a voliti ť- tak, aby tento výraz buďvyrnizel, aneb
+jeho absolutní hodnota měla minimum.
+Při tom nutno zase rozeznávati dva případy: buď pozorujeme hra-ničnou čáru příslušnou menšímu z obou hraničných úhlů, nebo hranici příslušnou úhlu většímu. V prvním případě jsou veličiny (ílt TJ^, (>2, 7T2
+XV. ﻿17
+reálné, a pro uniradiální azimuty vlny dopadající a odražené plynou z pohybových rovnic Neumannových relace
+(A,. -|- Aie] cos 0 = sin ft sin d cos <p,. (— Ae -(- yJi,.) j/« 0 — — sin ,u j/« d sin (p„
+(/>, — Bič] sin 0 cos 0=i — sin a cos ó sin <pe cos2 cp„ -(- cos 4u cos <pc sin 2 <p„ . . (27)
+(Ao -(- ^i„) <:<9.y 0 — r<?.y qp0 (cos (p0 sin ft Í6»J d — sin <p0 cos ft)
+(— AO -j- ^io) JW O ^^ — i7« (p„ (í<?í qp„ íz« í< cos d — jm 9,, cos (i)
+B„ -j- />\„ =: sin [i sin d                 (B„ — Bi„} sin 0 cos 0 = sin ,a sin d sin <p0 cos <$0
+Pak je tedy
+dosazením do rovnice (26) obdržíme vzhledem k rovnicím (23'), (23'') a (24)
+7
+nr2 2) j/
+Nyní nutno dále   rozeznávati,  jedná-li se   o krystall   negativní,   nebo positivní. V prvním případě pozorujeme hranici mimořádnou, rozpojitý je
+j                                                                                                 i~\   ^y
+tu diťferenciální quotient -,-,/- , nutno tedy voliti iť tak, aby -= - vymizelo.
+u 9                                                                c (pL,
+Z rovnic (27) je patrno, že tpt, vyskytuje se jen   ve veličinách Aei Bc, Alct B\c. Jednoduchou derivací snadno pak se přesvědčíme, že tu platí
+A
+0 P.
+„ D
+__ a
+— 0,
+Stanovíme-li nyní  ^      , obdržíme   kvadratickou   rovnici   v   coř4\   která se
+c (jpL,
+zřetelem k posledním rovnicím se rozpadne ve dvě lineárně, z nich plyne
+_-      \                               ^      l                         ^    ~D                       ^   7~>
+TT, \                    <y Ae    ,        o Be        ^ c Bif
+~b)        ^ 2y7 + ** ?^7 "" D T^
+^l   2(pf        ^2 2^e           ~9y7~  • • • (28)
+^
+^^(^   } 2<pe  \Ď/
+1t} B„  — JT, A0
+í-2
+Máme tedy řešení dvě,   o prvním   dokážeme,   že vede   k téže   hodnotě ty jako rovnice (10),  jež   stanoví   polarisaci   mimořádné   hranice   u krystallů
+Rozpravy: Roč. XII. Tř. II. Č. 15.
+XV.                                                        2 ﻿18
+negativních ve světle lomeném. Pozorujeme-li totiž v rovnicích (9) faktory u Je, je patrno, že je obdržíme postupně z výrazů pro (At-\-Ai,)c0s&% Be -j- JSie, (—Ae -\- Aie] sin <&, (Bc—BIC) sin O cos <& v rovnicích (27), dosa-díme-li jen v nich 180 — <pf místo <pf. Podobně obdržíme faktory u J\f z týchž výrazů substitucí qpi, místo qpť) konečně faktory u J]0 jsou identické se zbývajícími čtyřmi výrazy v rovnici (27).
+Označíme-li tedy Ac, Ale, Be, L>ie hodnoty veličin At., A\e, Be, B\c, jež obdržíme zavedením <f\e za fpf, pak Af, A\e, Be, B\e hodnoty týchž veličin, vzniklé substitucí 180 — <pe místo qpř., pak rovnice (9) znějí:
+A — — Je (Je + Z<) — J^c (Ac + Z,) -f Jio (A0 -f Ai„)
+Z~> __            fy   í D     \     D   \           cYfI?\f?\\c5.fZ3Lf?\
+L) ___ ---- jc {L>e —T— JD\e)----J\c \JOt    ]— Lj\e)  —l— J\o   \l^o    í~  í)\o)
+r>___   <v   / r>___c>    \___es      / r>   _       D   \___cv     í f)___/?   ^)
+Neznámé jsou tu A, B,  J\e,  Ji,,.   Řešením tedy stanovíme A— Jc—r,
+N
+B —J, — , kdež jest J
+M=4 \Alo i Be Ae — Bc Ae) — B0 (Z, Z — Al Ac) -f Aa (AlfBe — Ze B~t)]
+Pro hraničný dopad jest y\c =i 180— qp0 tedy 7l/= N — 0. Z toho plyne, že taktéž pro hraničný dopad jest
+Jc   dN
+dA^ _  J^ d®  '""   A
+z čehož plyne dle rovnice (1)
+cot ty — — lim
+dM d® dN d®
+f
+(29)
+Nyní jest podobně pro hraničný dopad na př.
+3(180 — q>,) ~""        ag>l, ' 3 *' d''
+z toho plyne pak po krátké úpravě 2M       2M
+c    , a---------T
+3N
+_ = 4
+-f- JT2 2
+dosadíme-li tedy do vzorce (29), je patrno, že pro ^ obdržíme touž hodnotu jako ve vzorci (28)   pro ^n   s tím toliko   rozdílem,   že  je  tu   všude
+XV. ﻿19
+y>\c místo <fc.   Ze vzorce (10) je však patrno, že po provedení výpočtu qpjť resp. <pc vypadne, jsou tedy oba vzorce identické.
+Podobně jednoduchý význam má druhý kořen v (28).   Dopadá-li na rozhraní vlna kolmo polarisovaná  k uniradiální   vlně řádné, jest  úhel její
+D
+polarisační roviny s rovinou dopadu určen rovnicí cot% =. -- -— . Ve vlně
+odražené svírá pak polarisační   rovina   s dopadovou   rovinou úhel čemž jest dle (25)
+—    Ví Cotl + <?2    .   .    C>1  BO — $2 AO
+—
+při
+Srovnáme-li to se vzorem (28), je patrno, že polarisační rovina odražené vlny jest kolmá k polarisační rovině nikolu postaveného na vymizení hranice. To jest i přímo pochopitelno. Kmity vlny dopadající rozdělíme si na komponentu polarisovanou parallelně s řádnou uniradiální vlnou a na komponentu k ní kolmou. První komponentě odpovídá ve vlně odražené zase uniradiální vlna řádná, jejíž amplituda však nezávisí na qp0 jak patrno z rovnic (27). Odstraníme-li tedy nikolem z odražené vlny tu část, jež odpovídá komponentě k ní kolmé, pak itensita zplývající části jest nezávislá na úhlu <př, není tedy hranice viděti.
+Tytéž úvahy platí i pro řádnou hranici u  krystalů positivních.   Pod-
+?y
+mínkou pro vymizení hranice jest, aby         =0.  Uhel qp0  vyskytuje se tu
+c y0
+nejen v A0, AIO, B0í B\0, ale i v Be a B\e, poněvadž však pro hraničný dopad jest g?„ — 90°, jest           i — - — '- rovno nulle. Následkem toho platí
+podobné relace co dříve. Jednoduchou derivací zase dokážeme, že jest
+= 0
+D
+= 0,
+rovnice pro cotty se zase rozpadne a obdržíme cotty. =-------«'
+*                     H
+?T| /5ť-         Jřo sic
+cot íi'o =:-------
+význam obou těchto kořenů jest docela podobný jako v případu předešlém.
+2* XV. ﻿20
+Pozorujeme-li tu hraničnou čáru, jež náleží většímu z obou hranič-ných úhlů, tedy řádnou hranici u krystallů negativních nebo mimořádnou u krystallů positivních, jest jedna z lomených vln ellipticky polarisována, veličiny (Jl, í>2, írn 7t2 jsou tu komplexní. Klademe-li tedy
+obdržíme pro intensitu světla nikolem propuštěného
+O   (       '        Tf*       _l_        '       IT     '       _]__f\
+'»/' -f- p2"" jr2"") cos ti- sin $ -j-^/'2 -f ;r2""2) j/«2 ť«.
+Stanovíme  tedy nyní   ^       a shledáme podmínku pro minimum tohoto vý-
+e<p
+rázu. Počet je dosti komplikovaný, ostatně je patrno, že až na veličiny řádu ;--', kdež r jest koéfficient absorpce, platí i tu předešlé úvahy. S toutéž přesností plyne z toho identita polarisace hraničné čáry ve světle lomeném i odraženém, je-li tu dopadající světlo přirozené.
+3. Srovnání odvozených vzorců s měřením Norrenbergovým.
+Jak již dříve řečeno, jest měření Norrenbergovo jediné soustavné měření týkající se polarisace hraničné čáry. Ku měření použito bylo totálního reflektometru Kohlrauschova, takže odvozené vzorce platí tu přesně. Krystall je tu ponořen v silně lámavé tekutině, jež vyplňuje skleněnou baničku, část této jest nahrazena planparallelním sklem. Dalekohled pozorovací je tu pevný, osa jeho je kolmá k onomu plan-parallelnímu sklu, takže výstupem z kapaliny do vzduchu polarisace vlny se nemění. Praeparátem možno otáčeti kol osy vertikální, což se děje tak dlouho, až hraničná čára prochází průsekem nitkového kříže. Otočení odečítá se na horizontálním děleném kruhu, a stanovíme-li jednou pro vždy odečtení, kdy normála desky koinciduje s osou dalekohledu, obdržíme přímo hraničný úhel. Mimo to může se praeparát otáčeti kol normály rozhraní, aby se mohla měniti orientace roviny dopadu, která je tu patrně horizontální. Otočení odčítá se na vertikálním kruhu, při měření Norren-bergovu byl dělen po 3°, noniem bylo možno odhadnouti 10'. Za účelem pozorování polarisace hraničné čáry opatřil Norrenberg pozorovací dalekohled nikolem, jenž byl mezi objektivem a nitkovým křížem. Nikol byl spojen sděleným kruhem, přesnost odečtení odhaduje Norrenberg na l až lV2 stupně.
+Měření bylo vykonáno na vápenci broušeném paralielně s osou optickou a s plochou štěpnou. Norrenberg měřil s počátku polarisaci hranice
+XV. ﻿21
+pro červenou čáru Li, pro žlutou čáru Na a pro zelenou čáru 77; poněvadž však difference jednotlivých měření nepřesahovaly pozorovacích chyb, měřil později jen ve světle natriovém. Kapaliny, do nichž vápenec byl ponořen, byly:
+Monobromnaphtalin, index lomu pro nat.  světlo ;/n = T65846,
+sírouhlík                          »         »         »       »        »     nfí — l '63190,
+aethylenbromid             »         »         »       »        »     «D zz l '53631,
+benzol                               »         »          »               »     «D zz l'50024'
+temperatura kol 17° C. K vůli srovnání připojuji oba indexy vápence pro natriové světlo: n0 zz l'65850, nc-=. T48635.
+Jak bylo řečeno, a jak plyne také ze vzorce (12), byl souhlas mezi měřením a vzorci Kettelerovými jen v připadě vápence ponořeného v monobromnaphtalinu. V následujícím uvádím výsledky měření, jež Nor-renberg obdržel, při čemž ď značí azimuth roviny dopadové čítaný od hlavního řezu, t/> hodnotu měřenou, ^/ differenci mezi hodnotou měřenou a počítanou.
+Vápenec  parallelní s osou.
+90°	90°	0°
+80	85-6	0
+70	81-2	0
+70	76-9	- 0-3
+50	729	— 0-5
+40	69-2°	— 09
+30	66	- 1-3
+20	61'9	- 3'3
+10	55'9	- 9'5
+0	0	0
+Pro ostatní hodnoty d jest průběh úplně symmetrický. Souhlas je dobrý, pouze v blízkosti hlavního řezu ukazují se difference poněkud větší, jež Norrenberg vykládá tím, že hraničný úhel je tu skoro 90°, a do dalekohledu přicházelo také světlo od pramene. Podobně dobrý je souhlas v případě následujícím.
+Vápenec  parallelní s plochou štěpnou   (« — 44° 37' 45"").
+J
+d	i'.'
+90° 80	483° 45-4
+70	420
+60	379
+50	33-3
+40	28-8
+30	22 2
+0-5° 0-4
+0-5 0-4 0-5 1-2 0-6
+c)
+270°
+260
+250
+240
+220
+230
+210
+ti'	J
+48-5° 49-9	0-7° 00
+52-0	1-2
+51-6	0-7
+50-2	— 0-2
+45-8	10
+39-0	i-o
+XV. ﻿22
+Ó                        ty                   A
+200         — 286         0-2
+190         —  158         0'5
+180                O         ± O
+Pro ostatní kapaliny vzorce Kettelerovy nesouhlasí. Proto také Norrenberg udává jen výsledky měření na vápenci broušeném paral-lelně s osou optickou. Vzorec Kettelerův zní tu
+d	ty	J
+20	14-5	+ 0-5
+10	7-8	— 02
+0	0	+ 0
+-   COS
+cot tp ~ cot o -    -
+dle vzorce  (11) je však
+cot ty = cot ti
+cos <pi„
+cos (<pi„ —
+V následujících tabulkách značí z/t differenci mezi hodnotou ty měřenou a mezi počítanou dle vzorce Kettelerova, ^/2 differenci mezi ť měřeným a počítaným dle vzorce (11.) Výsledek měření a počtu jest:
+Sírouhlík, «D = l'63190
+d	ty	4t	42
+90°	90°	0°	0°
+85	88-1	-0-6	— 0-3
+80	86 1	— 1-1	-0-5
+70	82 1	— 1-4	— 08
+d	ty	4	<**
+60°	785°	— 2'6°	— 1-3°
+50	75-1	— 2-3	— 03
+40	72-0	— 6-0	— .1-9
+30	68-9	— 11-2	- 1-5
+A e t h y l e n b r o m i d, «D — l ""53631
+90°       90°            0°             0°
+85       879       —21          -0-2
+80       85'7       —3-9         -0-2
+70       81-3       —8-9       —0-2
+60
+78-0      — 23-0
+1-3
+Benzol, HD — l""50024
+d	*	^t	42
+90°	90°	0""	0°
+85	87-1	-3-6	+ 0'5
+80	84-8	— 9-3	+ 0'5
+75	83-5	— 20-5	- 0-6
+Z toho patrno, že difference ^/., nepřesahují téměř nikde meze chyb pozorovacích, čímž jest stvrzena správnost odvozených vzorců. Ta okolnost, že mají někde většinou totéž znamení, dala by se snad vyložiti nedostatečným justováním krystallu, nebo nepřesností v stanovení polohy roviny dopadové.
+XV. ﻿23
+Krystally dvouosé.
+U krystallů dvouosých jest postup týž jako u jednoosých, avšak řešení není možno provésti docela obscně. Uvažujme napřed polarisaci hranice ve světle lomeném. Na rozhraní nechť dopadá zase vlna v úhlu (p úhly odrazu obou vln reflektovaných označíme qpn a g>12, úhel lomu CP. Jak známo, je qp určeno jako funkce úhlu 0 bikvadratickou rovnicí tvaru:
+a„ cofi (p - -j- al cot3 (p -j- #<, coť1 (p -j- as cot <p -J- a± ^= 0, docela tak možno pro úhel odrazu  <p{   odvoditi  rovnici
+a0 cofi (p — al cofi (p -f- a2 cot'1 (p — a3 cot tp -j- a4 =n 0.
+Do směru stanoveného úhlem 0 lomí se z krystallů vlny dvě, jim tedy odpovídají dva kořeny první rovnice, a jak z druhé rovnice je patrno, odpovídají záporné hodnoty druhých dvou kořenů té rovnice úhlům odrazu. Pro hraničný dopad má první rovnice dva kořeny stejné, což jest jen tehdy možno, je-li na př. <jpjt = 180 — (p, vlna dopadající nemění tu tedy odrazem svůj směr. Z toho soudíme dále, že pro hraničný dopad je dy . d<.
+d®
+nekonečně velké. Součet všech kořenů první rovnice se
+rovná  — ~ ~j tento   podíl   však   nezávisí   na 0.     Derivujeme li   tedy   ten
+součet dle 0, a dělíme-li jej  pak        —- , obdržíme   limitováním   pro   hra-
+d cp       d (p,,
+ničný dopad, že limita podílu diff.  quotientů          a   — J. - rovná  se jedné.
+Platí tedy podmínky docela analogické jako u krystallů jednoosých, a také další postup je týž. Počet možno provésti jen přibližně, jsou-li totiž vl, v2, v3 hlavní rychlosti světla v krystallů (v^ > v2 > L'3), klademe
+^j2=i^22 (l -j- s\ ^3azz7'22 C1 — rt\ a Pa^ Je t*11^' rl velmi malé proti s (aragonit), nebo e proti */ (brookit), nebo jsou obě veličiny téhož řádu, ale malé (albit, kyselina vinná).
+Provedení počtu nemá zajímavosti, z toho důvodu omezíme se pouze na případ, kdy je rozhraní v krystallu docela libovolně orientováno, tu totiž polarisace hraničně čáry slouží k jednoznačnému určení středního indexu lomu. Nebude od místa zmíniti se stručně o průběhu příslušných hraničných čar. Máme tu opět dvě hranice, jež nemají bodu společného, neleží-li žádná optická osa v rozhraní, v posledním případě však společná hodnota hraničného úhlu udává přímo střední index, takže tu není dvojznačnosti jako v obecném případě, to tedy možno vyloučiti. Na každé z těchto hraničných čar dosáhne hraničný úhel 3> jednou maxima a jednou minima, máme tedy celkem čtyři význačné hodnoty hraničného úhlu, jež možno měřením stanoviti, a o jichž významu pojednáme. Při počátku to-
+XV. ﻿24
+tální reflexe jde lomený paprsek rozhraním, avšak vybočuje z dopadové roviny, naproti tomu lomená normála, která v rovině dopadu zůstává, rozhraním nejde. Rozhraní seče vlnoplochu v jisté křivce, vedeme-li nyní v tom bodu, ve kterém hraničný paprsek tuto křivku protíná, tečnu k ní; pak, jak prof. Koláček *) dokázal, je distance této tečny od středu vlnoplochy rovna —— , kdež V značí rychlost světla v isotropickém mediu, sin <2>
+0 hraničný úhel, a průsek roviny dopadu s rozhraním je k ní kolmý. Interpretujeme-li tedy . jako průvodič nějaké čáry, obdržíme úpatnici
+průsečné křivky vlnoplochy s rozhraním. Maximu, resp. minimu úhlu 0 odpovídá minimum resp. maximum onoho průvodiče. Další diskusse vede nyní k tomu, že podmínkou maximo-minimovou je tu, aby průvodič průsečné čáry vlnoplochy s rozhraním stál kolmo na tečné, v polohách maximo -minimových zůstává tedy paprsek v rovině dopadu.
+To nastane především, padne-li průsek roviny dopadu s rozhraním do jedné z rovin optické symmetrie, takže průvodič průsečné čáry je současně průvodičem jednoho z kruhových řezů vlnoplochy. Tak na př. rovina symmetrie xz seče rozhraní v přímce, jíž jako normále vlnové náleží dle Neumanna kmity kolmé k ose pružnosti j', které se šíří rychlostí i\2. Normála tu koinciduje s paprskem, pro hraničný dopad je úhel dopadu roven 90°, je tedy tu
+V
+a podobně pro t\ a v3. Tři extrémní hodnoty jsou stanoveny, čtvrtou stanovíme počtem, ta závisí na orientaci rozhraní k osám optické pružnosti.
+Stanovíme tedy z nejmenšího minima nejmenší index, z největšího maxima největší index, mirno to víme, že jedna z hodnot zbývajících udává nám index střední, která však to jest, nelze měřením hraničného úhlu na jediném rozhraní stanoviti. Omezíme-li se totiž na měření hraničného úhlu, stanovíme tím pouze průběh úpatnic průsečných čar vlnoplochy s rozhraním, z nichž možno sestrojiti průsečné čáry samy. Známe tedy jeden rovinný řez vlnoplochou Fresnelovou, a nad ním, jak dokázal Brill,*) možno sestrojiti vlnoplochy dvě, jež se liší pouze hodnotou střední rychlosti v2. Zvolíme-!i tedy za z\, kterékoliv z oněch dvou zbývajících měření, obdržíme vždy tytéž hraničně čáry, stanovení střední rychlosti a středního indexu lomu je tu dvojznačné.
+Jednoznačnosti možno dosíci cestou dvojí: Máme-li k disposici na témž krystallu dvě broušené plochy, měříme na obou extrémní hodnoty hraničného úhlu, dle předešlého musí tři z nich koincidovati, ty pak od-
+*! Viz Rozpravy Čcsk. Akademie, 1902. ročník XI., třída II., číslo 26, paL   2. *> A. Brill: Mathematische Annalen, sv. 34.
+XV. ﻿25
+povídají třem hlavním rychlostem světla v krystallu; jindy možno užiti polarisace hraničně čáry, jak poprvé ukázal C. Viola,*) o tom hodlám pojednati.
+Osy optické symmetrie označíme zase x ', y', zf, osy související pevně s rozhraním a rovinou dopadu oč, y, .7, jich vzájemná poloha jest dána schématem (3). Uvažujme nyní případ, kdy průsek roviny dopadu s rozhraním, t. j. osa x, padne do roviny ý s' , takže je tu «1 = 0. Dle toho co bylo dříve řečeno, je tu jeden z obou hraničných úhlů roven <2>j, ten, pozorujeme. Směrové kosinusy kmitů vlny dopadající v osách x, y, s označíme «, /J, y, jich amplitudu ^, ta je stálá. Směrové kosinusy vln odražených označíme «n, /Jn, yn ; «12, /j]2, y12, jich amplitudy yn a .7^, ve vlně lomené označíme zase .4 komponentu amplitudy parallelní s rovinou dopadu, B komponentu k ní kolmou. Rovnice, plynoucí ze spojitosti kmitů (vektoru Neumannova) jsou tu
+= Jy + .
+K tomu přistupuje podmínka pro spojitost ,ť-ové komponenty vektoru Fresnelova, která je stanovena rovnicí (4), ta se dá uvésti  na tvar
+kdež jest
+v. -
+«a — P «i) -r •""« 917 «2 — P aa ;j
+« 72 — /J /'i) -f sitl 9 ' 7 ""s — /j 73)].
+-i-
+v je tu rychlost vlny dopadající, qp úhel  dopadu, 0 úhel lomu, analogické výrazy platí pro «n   a «12.
+Pro hraničný dopad koinciduje jedna z vln odražených s vlnou dopadající, je-li to na př. první, pak jest « = «u, /J zi /Jn< 7 := j'u, « =: a'n a předešlé rovnice mají řešení A = 0, /> — 0, .712 = 0, yn ^^ — j7- Ku šta-
+flí
+novení polarisace hraničně čáry nutno stanoviti limitu podílu           , jež dle
+íí D
+d&
+?   i         •} i >
+předešlého se   rovná podílu   diferenciálních   quotientů    =-     a    ,   - .    Pro
+*) C. Viola: Zeitschr. fůr Krystallographie, sv. 31, pag. 40., a sv. 32., pag. 113.
+XV. ﻿26
+hraničný dopad je pak patrno, že v rovnicích, jež obdržíme derivací podmínek v rozhraní, budou se vyskytovati zase jen směrové kosinusy kmitů vlny dopadající a jich parciální derivace dle cp, pak směrové kosinusy druhé vlny odražené, konečně analogické výrazy pro ^r-ovou komponentu vektoru Fresnelova.
+Vlna dopadající jde pro hraničný dopad směrem osy x, ty kmity, jež se šíří rychlostí vl,   jsou dle Neumanna kolmo   k ose x', je tedy tu
+« = 0, fi ~ a3, y zr — «2.
+Z rovnic Fresnelových, jež slouží k určení směru stabilních kmitů, plyne dále
+3«                 ? (i                      2 v
+J/ z dalšího počtu vypadne, a netřeba ho znáti. Konečně ;tr-ová komponenta vektoru Fresnelova ve vlně dopadající pro hraničný dopad je nulloti, a derivace příslušného výrazu v rovnici (4) dle qp jest rovna
+sn
+V
+(V ~ V)
+2 - Ol-
+Dosadíme-li sem ^ 2 := z/2 2 (L -|- e), í'32=:z/22(l—íj), a zanedbáme-li veličiny řádu L??, máme jednoduše
+Směrové kosinusy kmitů druhé vlny odražené možno stanoviti pouze přibližně. V našem případě, kdy jde spíše o orientaci než o přesné řešení, stačí supponovati, že normála její jde také rozhraním, tedy směrem osy x. Pak kmity její jsou kolmo ku kmitům vlny dopadající, je tedy «12 — 0, /íi2 ~ cc2, y12 =z a3. Podobným postupem jako u krystallů jednoosých, obdržíme konečně ze vzorce (1)
+_ «3     V2       l
+1            «2     Z>2 2     -S//Z <&,
+L
+Tu jest         ZZJ**&ai   je patrno,   že  v   tomto   přiblížení   možno   psáti ®l
+místo íP2. Označíme-li pak (zx'} úhel mezi osou r, t. j. normálou rozhraní, a mezi osou x' optické symmetrie, jest cr3 —cos(zxr), a poněvadž KJ zz 0, jest «2 -iz.sin(zx\ takže
+— tg (s.v') sin® i
+(30)
+XV. ﻿27
+Pozorujeme-li nyní v polohách odpovídajících úhlům 02 a d>3, máme docela analogicky
+tg í/>2 zr: tg (zy'} sin®^        tg ^3 — tg (zz'}sin®$  .   .   .   .(31)
+Při měření samém je poloha extrémních hodnot 01 a 03 jednoznačně dána. Z toho tedy stanovíme t/>t a tí>3 a pak úhly (xx'} a (zs'}. Známe-ii tyto dva úhly, můžeme úhel (zy'} z nich vypočísti dle známé relace o směrových kosinusech. Pro úhel <P2 máme nyní dvě hodnoty, obdržíme tedy obecně i dvě hodnoty pro tl'2 a pro (zy'}, správná hodnota úhlu <Ž>2 je patrně ta, pro kterou hodnota (zy'} souhlasí s hodnotou vypočtenou z úhlů (f r'\ a ď ""'\
+\ZX )     d.    \8u J.
+Jinak možno postupovati i takto: Jakmile známe, kteráž hodnot odpovídá <Z>2, možno snadno stanoviti orientaci rozhraní v osách optické symmetrie, měříme-li úhly, jež svírají ty dopadové roviny, v nichž leží hraničně úhly <Z>n íL2, <&3. Označíme-li totiž #12 úhel dopadových rovin, v nichž leží <&l a 3>2, a mají-li veličiny #23 a #13 analogický význam, pak na základě předešlých úvah dá se snadno dokázati, že platí:
+COS &
+13
+co s #, o cos íh
+cos
+_12
+cos ?%
+úhly #12, -ř>12, #23 jsou kladně čítány v témž směru.
+Podle toho, kterou z hodnot extrémních volíme za <&2, obdržíme dvě série hodnot pro (sx'\ (zy'}, (z z'}, a ta z nich, která souhlasí s hodnotami obdrženými na základě polarisace hraničně čáry, odpovídá správně volené hodnotě pro 02- Tato methoda je jistější zvláště tehdy, kdy měření polarisace není provedeno dosti přesně.
+Tohoto způsobu užil C. Viola, od něhož tato methoda pochází, při svých optických studiích minerálů. Při svých úvahách zanedbává Viola změnu polarisace vlivem lomu z krystallu do media isotropického a tvrdí, že polarisační rovina hraničně čáry jest identická s polarisační rovinou vlny v krystallu dopadající. Supponujme na př., že pozorujeme hraničný úhel 0lt Pro hraničný dopad splývá polarisační rovina vlny dopadající s rovinou optické symmetrie y' z', je-li tedy polarisačni rovina hranice s n identická, vymizí hraničná čára, když polarisační nikolu rovina prochází osou x'. Pak úhel tř'n jejž svírá polarisační rovina nikolu s rovinou dopadu, je roven úhlu (zx'}. Máme tedy dle Violy : tgú\ —tg(zx'}, což se liší od vzorce (30) jen o faktor sin01.
+Který z obou vzorců vede k hodnotám správnějším, nelze z měření Violová rozhodnouti, poněvadž stanovení polarisace hranice je provedeno pouze přibližně, Viola sám připouští, že pozorovací chyby jsou tu značné
+XV ﻿28
+takže v mezích jejich souhlasí oba vzorce s měřením. Měření byla vykonána na Abbe-ově totálním reflektometru. Mediem isotropickým je tu polokulovitá čočka ze silně lámavého skla, na jejíž rovinnou plochu se klade praeparát Aby mezi ním a čočkou nebyla vrstva vzduchu, dává se mezi ně vrstva kapaliny, jejíž index lomu leží uprostřed mezi indexem lomu čočky a praeparátu. Je-li vrstva kapaliny úplně planparallelní, plyne ze snadné úvahy, že hraničný paprsek lomí se do koule v témž úhlu, jakoby tam kapaliny ani nebylo, pozoruje se tedy hraničný úhel totální reflexe mezi praeparátem a čočkou. Naproti tomu je patrno, že v předešlých úvahách úhly 3>n 3>2, 3>3 značí hraničně úhly mezi praeparátem a kapalinou. Vlivem lomu z kapaliny do čočky se polarisační rovina sice poněkud stočí, to však možno zanedbati. Kapalina, jíž Viola užil, byl bromnaphtalin, jehož index lomu jest asi 1'6630*) (pro natriové světlo), a neliší se mnoho od indexů lomu měřených minerálů. Jsou tedy tu hraničně úhly dosti veliké a oba vzorce mnoho se neliší.
+Jiným zdrojem chyb jest tu obtíž ve stanovení azimuthů í>12, {>13, í>.,;5 které také není možno provésti dosti přesně, poněvadž maxima a minima hraničných čar jsou plochá. Viola odhaduje tu chyby pozorovací asi na 1°, zdá se však, že jsou ještě větší.
+Že však inethoda tato i při méně přesném měření koná dobré služby, je patrno z následujících dat: Měřením hraničných úhlů albitu stanoveny tyto extrémní hodnoty:**)
+« = 53°59'6"" 0' = 54° 11' 24"" (V — 54° 12' O"" y = 54° 30' 48' Příslušná odečtení na nikolu jsou
+4>i ~ 70°               V zr 30°               4'2"" = 1 10°               T/.'3 = 70°
+Volíme-li nyní /3' za hodnotu odpovídající střednímu indexu, jest
+0'J2 = 50° a z toho plyne
+102°
+(sy) — 35° 56'
+'23 = 52°,
+zz) = 65° 57',
+jež dosti dobře odpovídají hodnotám t/>,, t/.-2', ^3.  Volíme-li fi"" za hodnotu odpovídající střednímu indexu, jest
+#""12 =30° z toho vypočteme.
+(s*') = 52° 38'
+!>13 = 102°
+""    —__ 790
+23 — — /i ,
+(z z') — 74° 46',
+*) Landolt-Bórnstein: Physikalisch-chemische Tabellen, pag. 430. **) C. Viola: Zeitschrift fůr Krystallographie, sv. 32., pag. 319.
+XV. ﻿kdežto odečtení na nikolu jsou
+^ = 70°                t|
+= 70°.
+Je patrno bez dalšího počtu, že tato druhá supposice je nepřípustná.
+Index lomu skleněné čočky pro natriové světlo byl No ~ 1*89040, na základě čehož vypočteme z měřených hraničných úhlů pro hlavní indexy lomu albitu hodnoty
+! = 1-52908
+— T53304
+«, = 1-53926,
+jsou tedy dosti blízké indexu lomu bromnaphtalinu, takže vypočtené hodnoty ze vzorců (30) a (31) pro t/^, t^2, ý3 liší se od hodnot pro (soč'), (sy] (ssi} nanejvýš o 1°.
+Na konec dovoluji si vzdáti díky   p. Dr.  Frant. Koláčkovi, jenž mne na toto thema upozornil a k jeho zpracování vybídl.
+XV. ﻿*"

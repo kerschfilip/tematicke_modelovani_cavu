@@ -1,0 +1,166 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK I.
+TŘÍDA Ií
+CISIX) 33
+O HLAVNI VĚTĚ
+THEORIE
+FUNKCÍ VYTVOŘUJÍCÍCH.
+NAPSAL
+M.   LERCH.
+%-.
+PŘEDLOŽENO   DNE  *,.   LEDNA   1S92.
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ.
+1892. ﻿TISKKM J   Oxrv v PKA/B, ﻿Některé úkoly počtu integrálního dají se pohodlně řešiti pomocí t. zv. funkcí vytvořujících (fonction génératrice), jež zavedl Abel\ nazývá se tak funkce f(x) hovící rovnici
+c
+-ax
+O
+užívání této methody však vyžaduje důkaz vety, že za jistých okolností » určující* funkci ty (a) přísluší jediná funkce vytvořující f(x). Provésti tento důkaz jest účelem následující úvahy ; v odstavci I. předeslána věta z nauky o funkcích reálné proměnné, kterou jiným způsobem dokázal p. Weitrstrtus ve spisech Berlínské akademie a současně p. Rnngc ve svých universitních přednáškách r. 1885, z nichž podán stručný výtah v časopise Acta mathema-tica, sv. 7.
+Tuto methodu vytvořujících funkcí měli jsme na mysli při poznámce pod čarou, již jsme učinili při své práci Mittheilungen aus der Integralrechnung.*)
+I. Budiž f(x) libovolná konečná a spojitá funkce reálné proměnné x, obsažené v určité mezeře (#.../>); pak lze sestrojiti řadu celistvých funkcí racionalných
+v (x) , RZ (x) ,
+které v celém intervallu (a . . . b)  stejnoměrně s rostoucím ;/  hodnotě f(x) se blíží, t. j. výraz
+lim    Rn (x)
+n= oo
+konverguje stejnoměrně a rovná se/(.r).
+Dfikaz. Volme klesající řadu kladných konstant
+(O
+lim (Vn = O .
+Intervall (a... b) rozdělme na ;• dílů rovných, a nazveme As bod, jehož souřadnice jsou
+s(b — á)                 ./     ,      b
+x = a-\-
+y
+*\
+-—J
+:;:) Monatshefte fiir Mathematik und Physik, I. roČ.
+l*
+681 ﻿Tím obdržíme na křivce y=f(x) znázorňující průběh naší funkce r-\- l bodů A^9AítA^t...Ar. Lomená čára A0 A{ A^ . . . Ar (složená z přímých délek AsAs+\) bude se celkem málo lišiti od čáry y=f(x), jeli r dosti veliké, t. j. rozdíl mezi funkcí f(x) a mezi funkcí qp (x) znázorněnou touto čarou bude veskrz menší než daná veličina. Kterémukoli číslu // z řady l ,2,3,... můžeme pak ustanoviti číslo r = wn tak, aby tímto způsobem vzniklá funkce r/> (x) —
+již znamenáme nyní <y„ (x) — lišila se od f(x) o veličinu menší než i dn , t. j. aby v celém intervallu (a ... ti)
+Zároveň ale znamenáme ///„ nejmenší z hodnot r, pro něž tento případ nastane.
+Intervall (a... b) rozšiřme po obou stranách o délku f, t. j. uvažujme nadále intervall (a — e ... b -\-~ s) . V částech (a — s .. . a) , (/;... b -\- s) nově připojených funkce qin (x) není ještě definována. Volme tedy v první části q „ (.r) = (fn (a), v druhé c/n (x) = <y>, (b) . Pak bude g>» (#) funkcí konečnou a spojitou v celém intervallu (<? — «...L-)-«), jež je znázorněna lomenou čarou. Dá se tedy tato funkce dle známých vlastností funkcí Dirichletovských vyjádřiti řadou
+rv-\
+x — a 4- s
+<7,.() ' COS j-v -. - O
+00
+v* 00
+i«
+rn
+která  konverguje  stejnoměrně  v   oboru   (a... b).   Následkem  stejnoměrnosti konvergence naší řady můžeme ustanoviti číslo*) ;//'„ tak, aby součet
+co
+<7V(W) COS
+X
+a~\- B
+v = m
+1 '71
+v celém oboru (a ... L)  byl absolutně menší než -L-,   takže pak  rozdíl mezi
+9
+(tn(%) & funkcí analytickou
+m'n-1
+x — a-\- s
+COS -:-------------r-1- :— »' 7T
+Vn (X)
+bude menší než ~- a tedy pro všecka x mezery (a . . . /;)
+o
+Funkci gentní:
+rozvinouti dle pravidla Taylorova v řadu stále konver-
+00
+*) A sice volíme za w'M opět nejmenší číslo hovící naší podmínce.
+682 ﻿která  tedy   rovněž  konverguje  stejnoměrně  v mezeře (a .. . b) .   Znamenejme nyní m""n nejmenší číslo té vlastnosti, že zbytek
+00
+X
+je v celém intervallu  (a .. . b}  menší než -L-, a položme
+m n —
+(2)
+Pak bude
+Rn (x) =
+3  '
+a tedy
+Volímeli po řade ;/ funkcí tvaru (2)
+(20
+\f(x)-Rn(x) 1,2,3,..., sestrojíme tím způsobem zákonitou řadu
+AJ, (x) , RZ (x) ,R3(x),...
+a jež mají tu vlastnost, že Rn(x) se od f(x) liší o veličinu menší než je w-tý člen řady (1), t. j. dn.   Tím je věta dokázána.
+II. Buď nyní/""(«) funkce konečná a spojitá, daná v celém intervallu (O ... oč) a nechť existuje pro všecka a, převyšující jistou mez, integrál
+00
+(3)
+V c~axf(x) dx = (f(a) .
+u
+Pak sluje dle Abcl-a. f(x) funkcí vytvořující (fonction génératrice) úkon kdežto q (a) sluje funkcí určující (fonction determinante) úkon f(x).
+y_
+Ze k dané funkci vytvořující existuje jediná určující, je patrno. Platí však lež důležitá věta:
+Dané funkci určující q>(a) muže odpovídati nanejvýš jedna funkce f (x), která ji vytvořuje.
+Kdyby totiž existovala ještě funkce /, (x) hovící rovnici (3), t. j.
+00
+ax
+/ (x)
+y (a) ,
+o
+pak bychom obdrželi odečtením obou rovnic
+oo
+\f(x) -/, (*)]
+683 ﻿Avšak
+je konečná a spojitá funkce v oboru (O... oo), a my dokážeme, že pro takovou nemůže integrál
+o
+pro všecka a zmizeti.   Zavedemeli proměnnou sledující
+přejde integrál v ná-
+i
+o němž se má dokázati, že nemizí pro všecka a převyšující jistou mez. Funkce /2 (/—) = \p (s) je spojitou ve všech bodech mezery (O ... 1), nanejvýše bude bod z = O činiti výminku. Bude nám tedy dokázati nemožnost rovnice
+(4)
+Ja = l xa ~ { ty (x) dx = O o
+předpokládané pro všecka a převyšující jistou mez.  Omezíme se dokázati vetu pouze pro ten případ, že existuje veličina c , pro ni
+ž
+lim xc y(x) — O .
+(5)
+Volímeli pak xcy(x) = %(x), a zaměnímeli a za a-{-c, přejde (4) v
+(4')
+J'a
+o
+kde funkce %(x) je spojitou v celém oboru (O Pak existuje celistvá funkce
+která se   od %(x)   liší   o veličinu,  jež   v   celém   oboru   (0...1)  je   menší   než předepsaná veličina d, t. j. bude
+l(x)-R(x)
+Ze vzorce (47) plyne, ano a -f- v ^> a ,
+i
+J'a+r=
+O
+o
+684 ﻿tedy
+
+J
+X*
+[R(x)
+O
+o
+o
+a odtud dle poslední nerovnosti:
+i
+X
+a—\
+(x)   dx
+o
+Integrál   na pravé straně  nezávisí plyne odtud, že integrál
+na volbě  funkce R(x) ,   t. j. na í,  a tedy
+a~iť(x)dx
+»-
+o
+je menší než libovolná veličina kladná,   což vyžaduje,  aby zmizel.   Ano
+je   funkce  kladná,   musí   býti  nullou,   t.  j.   i (x) = O.   Odtud   plyne,   že   též
+funkce i/' (#)  t. j. f± (/ —) je identicky nullou a věta dokázána.
+Pozn.   Dlužno podotčíti,   že supposice (í>)   obmezuje všeobecnou platnosť
+v
+naší vety do jisté míry. Žádajíc, aby lim L*Y(*) — O , t. j. aby  lim c~cx f^ (x) = O,
+*= oo
+dovolila podmínka ta provésti důkaz pouze pro ony funkce f(x), /, (x), jichž rozdíl se stane zároveň s x nanejvýš tak nekonečným, jako jistá funkce exponenciální.
+Obdržímeli tedy někdy vztan
+00
+00
+e~atfl(x)dx
+o
+platný   pro   všecka   a   dostatečně   veliká,   budeme  jen   tehdy   moci   souditi na rovnost
+jeli lze určiti kladnou veličinu c tak, aby
+lim
+*= oo
+685 ﻿*"

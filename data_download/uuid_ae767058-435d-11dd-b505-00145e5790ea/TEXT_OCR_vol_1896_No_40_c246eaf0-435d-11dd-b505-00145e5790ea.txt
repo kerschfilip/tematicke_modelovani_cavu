@@ -1,0 +1,321 @@
+"","x"
+"1"," ﻿ROČNÍK V.
+TŘÍDA li.
+ČÍSLO 40.
+Příspěvek k užití kinem atiky v geometrii novější a deskriptivní.
+Napsal Bedřich Procházka,
+docent na c. k. české vyš. škole technické. (Se 2 tabulkami )
+Předloženo   dne   16.   října   1896.
+1. Při odvozování polomeni křivosti křivky rovinné z poloměru křivosti křivky kollincarné lze výhodně použiti pomůcek, jež poskytuje geometrie kinematická
+Nechť jest (obr. 1.) bod ď středem kollineace, přímka O osou kollineace, křivky K a K' křivkami kollinearnými, body a a a' body kollinearně sdruženými, jichž tečny ak> a' k a příslušné poloměry křivosti ao, a' lo označíme /,/',(>,(>'. Dále nechť jsou úhly : '):.akt=q>, ^a'kl=y',
+Abychom poloměr křivosti (/ křivky K' v bodu a' odvodili z poloměru Q křivky K v bodu a, předpokládejme, že se paprsek kollineace s a otáčí stejnoměrně rychlostí určitou, ku př. takovou, že průsečík jeho a s tečnou a k křivky K se pohybuje rychlostí a k v této tečné. Z rychlosti této odvodíme si rychlost a m onoho bodu otáčejícího se paprsku sa, který v uvažovaném okamžiku spadá s bodem a tím, že vedeme ka\\sa a a m J_sa, kteréž přímky se protínají v bodu m rychlosti am.
+Přímka s m určuje na kolmici a'n, v bodu a' k paprsku s a' vztyčené, délku an jakožto rychlost onoho bodu tohoto paprsku, který s bodem a křivky K' spadá. Vedeme-li np\\sa, obdržíme v tečně a' k bod/, který omezuje rychlost a'p bodu a' v tečně této.
+Avšak při pohybu bodů a, a' v křivkách K, resp. K' se nejen tyto body pohybují v tečnách ak^ resp. a'k> nýbrž tyto přímky se zároveň otáčejí.
+Abychom sestrojili rychlost kv, jakou se pohybuje bod k při otáčení tečny a k kol bodu a, a kteráž nám představuje do normály a o křivky K
+Rozpravy   Ročník V. Třída IT.                                                                                              l
+XL ﻿'ok*        t* padající zrychlení -    — =— tohoto bodu,*) sestrojíme v bodu k kolmici kv
+ku ak a omezíme ji kolmicí av, spuštěnou s bodu a ku spojnici bodů k a o.
+Jelikož se tečny ak a a'k stále při pohybu svém v témž bodu na ose kollineace O protínají, lze nám z rychlosti otáčení tečny a k odvoditi i rychlost tečny a'k.
+Odvodíme si za tím účelem rychlost ku, jakou se pohybuje průsečík tečny a k s osou <9, v tomto okamžiku s bodem k spadající, v této přímce tím, že vedeme bodem v rovnoběžku v u s tečnou ak. Z rychlosti této ku sestrojíme rychlost kv\ jakou se pohybuje bod tečny dk, spadající v uvažovaném okamžiku s bodem k, při otáčení jejím kolem bodu a', vedouce uv'\\a'k a kv' ±,a'k.
+Z dříve již určené rychlosti ap, jakou se při otáčení paprsku s a bod a' v tečně a k pohybuje, jakož i z rychlosti kv\ jakou se pohybuje bod k při současném otáčení této tečny, obdržíme střed křivosti lo křivky K' v bodu a', jakožto průsečík kolmice p^o, s bodu p ku přímce a'v spuštěné, s normálou a' lo sestrojenou v bodu a' křivky K'.
+Abychom odůvodnili správnost uvedené konstrukce, dokážeme, že takto sestrojený poloměr křivosti a' }o = Q' vyhovuje podmínce
+uvedené Wtencrem**) ve které délky (>, L>', /, /' dříve uvedený význam mají a ve které (slaď) dvojpoměr čtyř bodů slaa' značí jakožto charakteristiku kollineace, v níž se nalézají křivky K, K' vzhledem ku středu s a ose O. Z podobných trojúhelníků kao a v k a, vzniknuvších při sestrojení rychlosti kv = a>, plyne, že
+t*
+a vyjádříme-li co  z trojúhelníka  pravoúhlého  kvn,  v němž  úhel  kuv = y a délka ku = x se vyskytuje, dle vzorce
+obdržíme
+co =r x sin qp,
+p = —      —. x sin op
+(i)
+Také z podobných trojúhelníků a'p*o, a'kv\  sestrojených při poloměru křivosti Q'J plyne, položíme-li kv'=a>' a a'p=.l,
+U'
+*) Prof. Eduard Weyr\ Zusatz zuř Abhandlung děs F. Procházka: »Lin Beitrag zuř Translations-fiewegung*. Věstník královské české společnosti nauk, třída mathematicko-přírodovédecká, ročn. 1895, str. 1.
+**) Dr.  Christian  Wiener: »Lehrbuch der darstellenden Geometrie*, I. díl, str. 218.
+XL. ﻿Vyjádříme-li  dále z pravoúhlého  trojúhelníka k v'u  odvěsnu co',  přeponou a protilehlým úhlem kuv' = q>   dle vzorce
+dostaneme výraz
+ou = x sin g)
+x sin qp Dělíme-li rovnice (1) a (2), obdržíme
+Q         t*     sin qp'
+(2)
+(3)
+Abychom výraz na pravé straně rovnice této jinak upravili, vyjádřeme si v ní
+.       ., ,         Y    sin qp'
+se vyskytující poměr —
+sin qp Z trojúhelníků akl a #'L/ plyne, že
+/#        sin qp       v.,.                 /«
+----= —-----,    cíli    sin qp =----sin ty ,
+/         sin                                /
+respektive
+a konečně
+l a           sin qp'
+— = --• člh
+la'
+sin qp'    _ l a' sinqp  "" "" Ta
+Dosadíme-li tuto hodnotu poměru —^-~ do rovnice (3), obdržíme
+smqp
+Q         /8       la'
+Q   =""^/2  '  Ta
+v níž si ještě délku X = a'p danými veličinami vyjádříme. Z pravoúhelného trojúhelníka a'pn jest patrno, že
+i=   ^~-
+"" sin 0' '
+v čemž, jak z podobnosti trojúhelníků wrt'j, mas plyne,
+na
+tak že, klademe-li zároveň, jak vyplývá z trojúhelníka pravoúhlého mak,
+m a = t sin 6 ,
+obdržíme dále
+tsmd     s a' sinlT             '
+XL.
+l*
+ ﻿Vypočítáme-li  dále z trojúhelníků  akl a   a'k l poměr     —r, který se,
+ť jak lze snadno  dokázati,   rovná  poměru —, dostaneme konečně
+s a
+Dosadíme-li tuto hodnotu pro 1 do rovnice (4), obdržíme
+»'3     •
+sa      la' sa'      la
+kterou rovnici snadno uvedeme na formu
+_L_       /  sa
+čili
+**'
+jak bylo dokázati.
+2. Konstrukce tato má však platnost i když považujeme sestrojený obr. 1. za dva různé průměty téže křivky rovinné, kteréž se, jak známo, také v kollinearné souvislosti nalézají. V tomto případě jest pak středem kollineace průmět středu promítání jednoho vzhledem ku druhému a osou kollineace stopa roviny křivky rovinné.
+Konstrukce této bychom však také užili k určení středu křivosti libovolného průmětu nějaké křivky prostorové, jejíž středy křivosti nebo jiného jejího průmětu jsou dány.
+Předpokládejme, že křivka prostorová K má svůj orthogonalný průmět v křivce Kv. Křivka M nechť jest stopou plochy tečen křivky K v průmětně, a bod s', orthogonalný průmět středu nějakého promítání centralného. Každému bodu křivky K, ku př. a, přísluší určitý centralný průmět #3 a tečně T^am křivky K v bodu, protínající stopu M v bodu w, přísluší průmět 73 ~a^m, jakožto tečna k centralnému průmětu K^. Bodu a křivky K přísluší určitá rovina oskulační, jejíž stopou jest tečna Tm stopy M v bodu ///. Křivka, která ležíc v této rovině oskulační by tuto křivku K oskulovala, měla by za průměty, orthogonalný i centralný, křivky, kteréž by taktéž příslušné průměty Kv a K3 oskulovaly. Bude tedy lze jako nahoře ze středu křivosti jednoho průmětu odvoditi střed křivosti průmětu druhého.
+Obr. 1. také můžeme pokládati za libovolný průmět dvou rovinných prů-sečnic téže plochy kuželové a použiti k odvozování středů křivosti křivky jedné z daných středů křivosti křivky druhé.
+3. Také při stanovení tečny a středu křivosti průsečnice  dvou ploch kuželových lze užiti zásad geometrie kinematické (obr. 2.).
+XL ﻿Nechť jedna plocha kuželová určena svou stopou K\ průmětně a středem svým s, jehož orthogonalný průmět jest v jj. Druhá plocha kuželová určena stopou K' a středem j', jehož průmět v s't.
+Ku stanovení průsečnice P těchto ploch užijeme pomocných rovin procházejících spojnicí 5 obou středů s, s', jejíž stopou nechť jest bod m. Jedna z takových pomocných rovin nechť má stopu svou v přímce mk, kteráž protíná stopy A~, K' obou ploch kuželových v bodech L, k'. Průsečnice sk, s'k' této pomocné roviny s oběma plochami kuželovými protínají se v bodu <z, náležejícím průsečnici P těchto ploch.
+Abychom kinematicky stanovili tečnu 7\a k průmětu křivky Pt předpokládejme, že se ona pomocná rovina nekonečně málo otočí kol spojnice středů J, s'. Pak se také stopa její m k nekonečně málo otočí. Dejme tomu, že se při tomto pohybu onen bod stopy této, který s bodem k křivky K spadá, pohybuje s rychlostí y = klk_\_km\ pak bod téže stopy, který s bodem k' stopy K' spadá, pohybuje se rychlostí y'=zklk' _L km, jejíž velikost jest dána známým vztahem
+--. = f
+m k m k'
+tok že bod k' se na spojnici bodů k a m nalézá. Z rychlostí těchto y a y' určíme v dalším rychlosti otáčení průmětů slk a s^k', kolem průmětů slt resp. s\ se otáčejících a v průmětu #, bodu « se protínajících, a tím stanovíme rychlost průmětu tohoto, jakožto tečnu ku průmětu průsečnice P.
+Abychom stanovili rychlost otáčení průmětu sl k kol bodu j,, uvažme, že bod k při otáčení stopy m k pohybuje se v tečně T, sestrojené v bodu k ku křivce A~, rychlostí n — k^k^ kterou obdržíme v tečně této vedouce přímku *k*k || m k*) Při tomto pohybu otáčí se průmět sl k určitou rychlostí, kterou vyjádříme rychlostí v = k *k _L st k onoho bodu této přímky, který s bodem k spadá, tím že bodem *k vedeme přímku 2/L3L|| síLí kteráž protíná přímku k*k J_ svk v bodu *k. Z rychlosti bodu k při otáčení přímky svk kol bodu sl odvodíme rychlost z = a^ la J_ sl k bodu #, této přímky tím, že vedeme přímku J, 3L, přímku a^a protínající v bodu *a.
+Právě tak určíme rychlost z' = a± íaf téhož bodu a při současném otáčení průmětu s\aí vzhledem ku druhé ploše kuželové.
+Znajíce nyní rychlosti a la% a la bodu a přímek slal, í',^ při současném otáčení těchto přímek, sestrojíme rychlost tohoto bodu jakožto průsečíku těchto přímek, vedouce bodem la přímku 1a^a\\slal a bodem V přímku *a' za || /!#!,**) kteréž se protínají v bodu V, určujícím s bodem al rychlost bodu a co do směru i velikosti, a představující tudíž tečnu 7^a k průmětu křivky P.
+*) »Lehrbuch der Kinematik* sepsal dr. L. Burmester, I. svazek, 1. sešit, 1888, strana 50 a 61.
+**) Tamtéž, str. 57.
+XL ﻿Tuto tečnu 7\a však můžeme také zcela jednoduše sestrojiti, jak známo, jakožto průmět průsečnice rovin tečných, sestrojených k plochám kuželovým podle přímek sk, resp. s'k', jichž stopy jakožto tečny T a T't sestrojené v bodech L, resp. k' k stopám K, resp. K' se protínají v bodu #, jakožto stopě tečny Tay určené v bodu a křivky Pt kteráž s průmětem at onu tečnu určuje.
+Ze i dříve kinematickým způsobem odvozená konstrukce této tečny s touto konstrukcí souhlasí, vyplývá z následních vztahů.
+Poněvadž dospějeme, i když zvolíme za rychlost k *k bodu spadajícího s bodem k při otáčení stopy L///, jinou délku, k jinému bodu 3#, který se také na přímce T^^a^a nalézá, musí poměr délek z a z býti konstantní. A že i bod n téže tečně náleží, stačí dokázati, že přímky np\\síal a np' || s\al určují na přímkách a^a, resp. 0, V délky x, resp. #', jichž poměr
+g
+se rovná onomu  konstantnímu  poměru —-.
+z
+X
+Stanovme za tím účelem poměr tento —r.
+Nazveme-li úhel, který tvoří přímka st k s normálou k o křivky K v bodu k (obr. 2.) q a úhel, který přímka m k s touže normálou uzavírá t/>, pak jest, jak z trojúhelníka k*k*k vyplývá,
+y = 11 cos V..........(1)
+Z trojúhelníka k*k*k plyne dále, že
+• --L-;    ....                          (2)
+cos g>
+z podobných trojúhelníků slk^k^ síalía pak
+čili
+v = z
+(3)
+Dosadíme-li postupně tyto hodnoty  do rovnice předcházející,  obdržíme rovnici (1) ve formě
+J, k      cos \b y = z^= . -     L. síal      cosqp
+Stejně obdržíme pro druhou plochu kuželovou
+costp cos 9'
+A jelikož, jak jsme hned z předu odvodili,
+y        mk 7** m?
+XL. ﻿čili
+, mk
+jest poměr
+s\ k'      íj #t      cos qp. cos ty' 77al   ' ~š7k '   cos qp'. cos ty
+Poněvadž však  dle známé věty Ccviho jsou  součiny  rozpojitých úseků, tvořených příčkou slm na stranách trojúhelníka kk'av, sobě rovny, jest
+a tudíž poměr
+mk . s\k' .síal = mk'    s\a, . s, k, z         cos qp. cos ty'
+cos qp'. cos
+(4)
+tedy rovný  konstantní  veličině, jelikož úhly qp, ty, g', ty' pro určitý bod a^ jsou konstantní.
+Nazveme-li  dále strany kn, k'n trojúhelníka kk'n, resp. /, /',   pak jest, jak z tohoto trojúhelníka plyne,
+cos
+ť         cos i/> Z pravoúhelných lichoběžníků knpa^ a k'np'a^ plyne dále, že
+a; = rt/ = ^ cos qp, x' = ap' = ť cos qp',
+(5)
+a tudíž i
+X         t       cos qp
+x' ~ ~ ť  '   cos qp' '
+Položíme-li za poměr —7- hodnotu z rovnice (5), obdržíme
+x         cos qp. cos ty' x'     ~ cos g/. cos ty
+Jest tedy, jak z této poslední rovnice a rovnice (4) plyne,
+x         z
+a proto skutečně leží bod n na tečně  7\a, jak bylo dokázati.
+Z této konstrukce tečny vyplývá však bezprostředně kinematický zpfisob sestrojení středu křivosti průseč nice P ploch kuželových^ kterážto úloha dosud nikde nebyla řešena.
+Při pohybu protínajících se průmětů sl a^, s\ al otáčí se však zároveň tečna 7^a; bodu a^ náleží pak určité zrychlení, jehož pomocí stanovíme poloměr křivosti křivky Pl.
+Abychom stanovili rychlost, jakou se průmět tečny 7*« otáčí, přihlédneme k stopě její «, kteráž se při pohybu přímek s1aí, .$•',#, také pohybuje jakožto
+XL. ﻿průsečík tečen T a Tf. Rychlost, jakou se bod n pohybuje, stanovíme tak jako rychlost bodu av , když určíme rychlost otáčení tečen T a T'. Při otočení tečny T kol středu křivosti o křivky K náleží bodu k v tečně této rychlost k^k a bod onen této tečny, který s bodem n spadá, pohybuje se při otáčení jejím kol bodu k rychlostí n*nt kterou obdržíme, když v bodu ;/ k T vztyčenou kolmici n ln kolmicí s bodu k na přímku o *k spuštěnou omezíme (článek 1.).
+Právě tak určíme rychlost n V bodu s bodem n spadajícího při otáčení tečny T1 kolem středu křivosti o' křivky K'.
+Znajíce rychlosti tyto, sestrojíme rychlost n *n bodu n jakožto průsečíku tečen T, Tf1 vedeme-li bodem *n přímku *n *n || T a bodem W přímku Wa«|| T', kteréž se protínají v bodu 2w. Jest zřejmo, že tato délka ň*n udává rychlost bodu n co do směru i velikosti a představuje zároveň tečnu Tn k stopě M plochy rozvinutelné, určené tečnami křivky průsečné P.
+Z rychlosti «2«, jakou se její bod n pohybuje, odvodíme si rychlost n*n, jakou se bod n při otáčení tečny 7^° kol bodu a pohybuje, tím, že vedeme a«3«|| 7\a a n3n±_an, kteréž se v bodu 3n protínají. Kolmice *a lo s bodu *a spuštěná na přímku a3n protíná normálu loa křivky Pl ve středu křivosti lo této křivky.
+Z tohoto středu křivosti průmětu Pl určíme si známým způsobem poloměr křivosti křivky prostorové P samé. Oskulační křivka kruhová (9, jejímž středem jest střed křivosti lo průmětu Pt, jest totiž průmětem jisté křivky elliptické, ležící v rovině oskulační bodu a křivky P (určené bodem a a tečnou Tn ku stopě M plochy tečen křivky prostorové P). Poloměr křivosti této křivky elliptické v bodu a jest zároveň poloměrem křivosti křivky P.
+Můžeme však určiti i křivost plochy tečen^ určené křivkou P podle její přímky Ta, tím, že stanovíme křivost stopy M této plochy v bodu n. K stanovení středu křivosti této stopy lze použiti týchž zásad geometrie kinematické.*)
+4. Ke středu křivosti průmětu průsečnice dvou ploch kuželových lze do-spěti však také jiným způsobem. Ke stanovení této křivky lze použiti rovin pomocných rovnoběžných s průmětnou, kteréž protínají plochy kuželové v křivkách kollinearně podobných k stopám K, respect. K' vzhledem k jich středům j, resp. s' (obr. 2.), jichž průměty jsou v téže souvislosti vzhledem k průmětům těchto středů.
+Předpokládejme onu pomocnou rovinu, která prochází bodem již dříve uvažovaným a průsečnice P, a aniž bychom sestrojili průměty průsečnic jejích 5, 5' s oběma plochami, mysleme si, že se rovina tato pohybuje stejnoměrně ve směru ke průmětně. Tu průsečík její s přímkou sa, který s bodem a spadá, pohybuje se v této přímce určitou rychlostí; ku př. zvolme za tuto rychlost délku ak. Současně se i její průsečík s přímkou a k' s bodem a
+*) »jEťn fíeitrag zuř Kinematik der Ebene* od B. Procházky; uveřejněno ve zprávách o sezení císařské akademie věd ve Vídni. Třída mathem.-přírodověd., II. oddělení r. 18U5.
+X L. ﻿spadající pohybuje stejnoměrně rychlostí a k'. Rychlost an bodu a pak obdržíme, vedouce body k a kf k tečnám ÍT a lTf ku křivkám 5, resp. 5' v bodu a sestrojeným přímky rovnoběžné, kteréž stotožňujíce se s tečnami T a T stop K, resp. K' (obr. 2.) se protínají v bodu n.
+Přicházíme tedy tímto způsobem k téže konstrukci tečny Ta jako dříve a můžeme tuto cestu sledujíce určiti i střed křivosti průmětu křivky P. Z rychlosti an průsečíku a v tečně Ta obdržíme rychlost a l bodu s tímto bodem spadajícího v křivce S, protneme-li tečnu íT přímkou nl\\sa. Spojnice bodu / s bodem sl určuje pak v tečně T bod 4L, který omezuje rychlost k*k bodu spadajícího s bodem k ve stopě K.
+Současně se však tečna 1T a tudíž i tečna T otáčí kol středu křivosti o křivky K, a proto i bod, s průsečíkem n tečen T a T' spadající, otáčí se určitou rychlostí «4;/, kterou obdržíme dle předcházejícího, když omezíme přímku n*n J_ T kolmicí kln^ spuštěnou s bodu k ku přímce o*k.
+Právě tak určíme rychlost n*n' bodu tečny Tr spadajícího s bodem // vzhledem k rychlosti k *k' bodu spadajícího s bodem k' a šinoucího se v této tečně a vzhledem k středu křivosti o' křivky K'.
+Vedeme-li body %, 4«' rovnoběžky *« bn, *nf 6n ke přímce 7\ resp. 7*', obdržíme bod 5#, určující pohyb bodu n při pohybu roviny pomocné rovnoběžné s průmětnou. Z rychlosti té odvodíme rychlost n*n kolmou k tečně 7^°, sestrojíme-li 5«6w|| 7"",° a «6«JL7\a. Kolmice spuštěná s bodu n ke přímce «! 6« protíná normálu křivky Pl v bodu at, sestrojenou ve středu křivosti této křivky, který se shoduje s bodem *o již dříve sestrojeným.
+Konstrukce tato jest, jak patrno, jednodušší předešlé a lze jí užiti i při stanovení středu křivosti průmětu průsečnice dvou ploch rotačních, jichž osy jsou spolu rovnoběžný, jak později poznáme.
+5. Máme-li stanoviti průsečnici plochy kuželové s nějakou obecnou plochou rozvinutelnou, jejíž křivka vratu a stopa jest dána, pak pokračujeme při určení tečny a středu křivosti oné průsečnice jako při dvou plochách kuželových.
+V obraze 3. jest křivka S, průmětem křivky vratu 5 obecné plochy rozvinutelné, jejíž stopou jest křivka K. Bod s\ jest průmětem středu s' plochy kuželové a křivka K' její stopou. Sestrojujíce průsečnici P těchto ploch, sestrojujeme bodem sf a přímkami obecné plochy rozvinutelné roviny pomocné, kteréž protínají zároveň plochu kuželovou v přímkách sekoucích se s oněmi přímkami v bodech průsečnice. Ku př. pomocná rovina položená bodem s' a přímkou s k (dotýkající se křivky vratu 5 v bodu s\ jejíž stopa km prochází stopou k přímky této a stopou m přímky sfst protíná stopu K' plochy kuželové v bodu L', určujícím s bodem s' onu přímku s'k' plochy této, která se protíná v bodu a průsečnice P s přímkou s k plochy rozvinutelné. Souhrnem bodů m jest určena křivka M, kterou pokládati můžeme za centralný průmět křivky vratu 5 v bodu s promítnuté, jejíž střed křivosti lze sestrojiti konstrukcí uvedenou ve článku 2.
+XL. ﻿10
+Stanovíce tečnu Tta ke průmětu P} průsečnice obou ploch, sestrojíme tečny T a T' v bodech k, resp. k' stop K, resp. AT', kteréž se protínají v bodu #, určujícím s bodem #t hledanou tečnu. Myslíme-li si, že se stopa roviny m k nekonečně málo pošine, pak otočí se kolem bodu m, a zvolíme-li rychlost tohoto otočení, můžeme sestrojiti tak jako v případě předcházejícím rychlost bodu k jak v tečně T tak i v tečně T'. (Vlastně se otáčí stopa m k kolem středu křivosti om křivky M\ poněvadž však pošinutí přímky této v ní samé nemá vlivu na pohyb průsečíků jejích k a k' s tečnami T B. T' v těchto přímkách, stačí pokládati otáčení přímky m k kolem bodu w.)
+Zvolíme-li při otáčení stopy m k rychlost klk=y bodu spadajícího s bodem k křivky A', obdržíme rychlost k'lk'=y', sestrojíme-li k'lk' _\_mk a omezíme ji spojnicí bodů *k a m. Z rychlosti y odvodíme si rychlost k*k = u bodu k v tečně T, vedeme-li bodem lk rovnoběžku k přímce m k, kteráž tečnu T\ bodu *k protíná. Učiníme-li dále ^k^k\\slk a k*k ±slk, obdržíme rychlost k*k = v bodu spadajícího s bodem k při otáčení přímky .$•,L, ze kteréž odvodíme rychlost ala = s, kterou se otáčí bod spadající s bodem a, vedouce a *a J_ sl k a přímku *k la, kteráž bodem j, prochází. Vedeme-li la*a rovnoběžně k slk, protne nám a1n v bodu 2#, kterýž omezuje v tečně 7ia již dříve sestrojené rychlost a^a bodu a^ (článek 1.). Podobnou konstrukcí docílíme rychlost ?/ = k' ^k' bodu k' v tečně Tf (další rychlosti vf a z' netřeba odvozovati, protože tečnu Tta již známe).
+Při otočení stopy m k však se tečny T a T' zároveň otočí, tak že bod spadající s bodem n jedné nebo druhé z těchto tečen se pohybují určitými rychlostmi. Abychom rychlost n ln tohoto bodu jakožto bodu tečny T stanovili, spustíme s bodu k kolmici k ln ke spojnici středu křivosti o křivky K s bodem 2L, kteráž stanoví v přímce n *n _[_ T bod ln.
+Právě tak stanovíme rychlost n ln' bodu spadajícího s bodem n jakožto bodem tečny T' při otáčení této v/hledem ke středu křivosti o' křivky K1 a vedeme body obdrženými ln a 1«/ rovnoběžky *n *n a 1n' ln* k tečnám T, resp. 7V1 které se protínají v bodu 2«, určujícím rychlost n^n bodu «, jakožto tečnu Tn k stopě N plochy rozvinutelné, určené jakožto plocha tečen ke prů-sečnici P plochy kuželové s obecnou plochou rozvinutelnou.
+Vedeme-li *n3n\\ Tn a nzn J_ /""„, pak kolmice n lo ke přímce a^n spuštěná protíná normálu, ku křivce Pl v bodu at sestrojenou, ve středu křivosti lo této křivky.
+6. Podobně stanovíme tečnu a střed křivosti průsečnice plochy kuželové s plochou hyperboloidu sborceného, obsahujícího střed plochy prvé.
+Sestrojujíce průsečnici těchto ploch užíváme pomocných rovin procházejících jednou z přímek plochy hyperboloidu, obsahujících střed plochy kuželové. Každá taková rovina protíná obě plochy v přímkách, jichž průsečíky náležejí průsečnici.
+Nechť jest plocha kuželová určena stopou K a středem s (obr. 4), plocha hyperboloidu stopou K' (která jest v obrazu tomto kružnicí), přímkou A
+XL ﻿11
+středem s procházející, jejíž stopa ve stope K' ležící jest ;«,  a přímkou B j kterou za příčinou zjednodušení dalších konstrukcí zvolíme kolmo k průmětně.
+Stopa m k jedné z pomocných rovin protíná stopy K a K1 v bodech L, resp. k'. Spojíme-li bod k s průmětem sl (středu plochy kuželové), který v tomto případě byl zvolen na stopě K\ obdržíme průmět přímky, v níž ona pomocná rovina protíná plochu kuželovou, a spojnice bodu k' s průmětem Bl, který se taktéž nalézá na křivce K', obdržíme průmět přímky, v níž táž rovina protíná plochu hyperboloidu. Průsečík přímek ks^ s k'Bl jest průmětem tft bodu a průsečnice obou ploch.
+Kdybychom si mysleli, že se při otočení roviny pomocné kolem přímky A otočí stopa její s určitou rychlostí, můžeme tak jako v předcházejicích článcích sestrojiti rychlost průmětu av jakožto průsečíku současně se otáčejících přímek svk a B^k' a tím sestrojiti průmět 7\a tečny průsečnice P v bodu a. Můžeme však tečnu T^ sestrojiti také jakožto průsečnici tečných rovin, sestrojených k oběma se protínajícím plochám v bodu a. Stopa T tečné roviny sestrojené k ploše kuželové jest tečnou ku křivce K v bodu k sestrojenou. Abychom stopu roviny tečné v bodu a k ploše hyperboloidu sestrojili, sestrojme ještě stopu přímky druhé soustavy této plochy bodem a procházející. Přímka tato, protínajíc přímku prvé soustavy C, kolmou k průmětně, jejíž průmět jest v bodu íj na stopě K^, má svůj průmět v přímce at sl a protíná tuto stopu ve své stopě /. Stopami k' a / obou přímek různých soustav určena jest stopa T' = k'l roviny tečné k ploše hyperboloidu, která se se stopou T protíná v bodu n, určujícím s bodem at tečnu 7^° průmětu Pl. (Že tato konstrukce tečny s předcházející souhlasí, lze dokázati tak jako ve článku 3.)
+Abychom i střed křivosti průmětu Pl sestrojili, uvažme, že stopa T roviny tečné k ploše kuželové se otáčí při otáčení stopy m k pomocné roviny kolem středu křivosti o stopy K. Taktéž stopa k' /= T' roviny tečné sestrojené k hyperboloidu se otáčí, jelikož se bod k' i / při otáčení stopy m k pohybuje ve stopě K1. Následkem toho pohybuje se i průsečík n obou stop T a. T' určitou rychlostí, již v dalším stanovíme.
+Z rychlosti klk bodu stopy m k s bodem k spadajícího při sestrojení tečny Tf odvozena jest již i rychlost k*k tohoto bodu v tečně T stopy K tím, že se vedla přímka *k*k\\mk tečnu tuto v bodu *k protínající. Stanovíce dále rychlost n ln bodu tečny T spadajícího s bodem n, omezíme kolmici n !tf, v bodu tomto ku T vztyčenou, kolmicí spuštěnou s bodu k ke spojnici bodu *k se středem křivosti o křivky K.
+Majíce stanoviti dále rychlost n V bodu stopy T' spadajícího s bodem w, určíme rychlosti bodů k' a /', jichž pohyb jest závislým na pohybu stopy m k. Z rychlosti k lk bodu spadajícího s bodem k při otáčení stopy m k stanovíme rychlost k1 *k* bodu spadajícího s bodem k' tím, že stanovíme k'lk' ±mk a omezíme ji spojnicí bodu lk s bodem ;;/. Z rychlosti té odvodíme rychlost L'2L' bodu k1 v tečně TV, k stopě K' v bodu tomto vedené, sestrojíme-li přímku lk'*k'\\mk> kteráž tuto tečnu v bodu *k' protíná.
+XL. ﻿12
+Rychlost k' *k' bodu spadajícího s bodem k' při otáčení stopy k'/== T' obdržíme, omezíme-li kolmici k'*k' ku k'l v bodu k' vztyčenou přímkou WW\\k'L
+Abychom také stanovili rychlost bodu spadajícího s bodem / při otáčení přímky s} /, kteráž v našem případu spadá stále s přímkou #, k, omezíme přímku l*l_[_svki přímkou *ks\ .*) Z rychlosti té stanovíme rychlost bodu / v tečně TI křivky AT', omezíme-li ji přímkou V2/|| ks^. Rychlost bodu spadajícího s bodem / při otáčení stopy k'l stanovíme, když přímku /3/_]_/L'/ omezíme přímkou 2/3/||L'/.
+Spojnice bodů 4L' a 3/ protíná pak přímku n V/ J_ k' l v bodu W určujícím rychlost n*n' bodu spadajícího s bodem n při otáčení stopy k'l. Znajíce rychlosti n ln a n }n', sestrojíme rychlost n*n bodu n jakožto průsečíku tečen T a 7"", vedeme li 'wa«|| T a J//'2w|| 7""', kteréž se v bodu 2# protínají. Z rychlosti této odvodíme rychlost n*n bodu # při otáčení tečny 7\a kol bodu #,, vedeme-li bodem 2« přímku 9nBn\\naít kteráž přímku n*n ^na^ v bodu 'An protíná.
+Spustíme-li konečně s bodu 2# (dříve při sestrojení tečny 7\a docíleného) kolmici *a *o ku spojnici bodu 3/z s bodem #, protíná ona přímka normálu v bodu #, ku křivce Pl sestrojenou ve středu křivosti ""0 této křivky.
+Tak, jak bylo již ve článku 3. zmíněno, lze pak ze středu křivosti lo průmětu Pl stanoviti poloměr křivosti křivky P samé.
+Jest samozřejmo, že bychom konstrukce v tomto článku uvedené mohli užiti i průsečnici libovolné plochy kuželové s libovolnou plochou hyperboloidu.
+1. Také při průsečnicích dvou ploch rotačních, jichž osy jsou rovnoběžný, lze užiti tohoto způsobu kinematického k sestrojení jejich tečen a středů křivosti.
+Předpokládejme především dvě rotační plochy kuželové, a užijme druhého způsobu určení tečen a středů křivosti průsečnice dvou ploch kuželových uvedeného ve článku 4. Zároveň, abychom mohli správnost konstrukce posouditi, zvolme onen případ, kdy povrchové přímky obou ploch kuželových tvoří s jich osami tutéž odchylku, tak že průsečnice obou ploch jest křivka 2. stupně, jejíhož průmětu střed křivosti lze také sestrojiti jiným způsobem.
+Zvolme, abychom konstrukci zjednodušili, osy ploch kuželových kolmý k průmětně. Průměty jejich jsou v bodech s^ a s\ (obr. 5.). Libovolná rovina pomocná, rovnoběžná s průmětnou, protíná obe plochy v křivkách kruhových K a K'', jichž průměty jsou AT, a K\, kteréž se protínají ve dvou bodech průmětu Pl průsečnice obou ploch kuželových. Mějme na zřeteli jeden z nich #!. Poněvadž st a s\ jsou, jak známo, ohnisky průmětu rovinné křivky
+*) Bod *k jakožto mezný bod rychlosti k sL, kterou se pohybuje při otáčení stopy m k pomocné roviny bod spadající s bodem k přímky sl k při jejím otáčení kol bodu -r, , obdržíme, když přímku &3&±sl k omezíme přímkou
+XL. ﻿průsečné P% lze jej  pomocí jednoho  bodu fa)  sestrojiti  (v našem  případe jest to křivka elliptická).
+Při sestrojení této křivky P} , pokračujíce jako ve článku 4., předpokládejme, že rovina pomocná se šine s určitou rychlostí ve směru os k průmětně. Při tomto šinutí pohybuje se bod křivky Kv , spadající s průmětem at v přímce s1 av , rychlostí určitou, ku př. a^ k = [i , a současně pohybuje se bod druhé křivky AT',, spadající s týmž bodem # toutéž rychlostí a^k' = a^k = /w. (V délce flj s' i .)
+Sestrojíme-li v bodu k rovnoběžku
+v našem   případě
+v   přímce  s\ obraze   5.   zvoleno   [».•=. avk'  rovno
+^ T k tečně v bodu #, křivky Kl sestrojené, a v bodu L' = .$•', rovnoběžku k'n--~T' k tečně v témž bodě křivky K\ sestrojené, obdržíme v délce nal-=^v. rychlost bodu a, a tudíž i tečnu TÍ"".
+Z konstrukce této jest patrno, že přímky T a T' můžeme považovati za stopy rovin tečných v bodu a k oběma plochám kuželovým sestrojených. Bod n pak vzhledem k tomu, že průsečnice obou ploch kuželových jest křivkou rovinnou, leží na stopě M její roviny, která jest kolmá spojnici ku s.t s\ . Dále patrno z konstrukce té, že tečna 7ia vnější úhel průvodičů elliptické křivky Pl rozpoluje, jakož že i úhly
+se sobě rovnají, jakož i úhlu
+# , ;/ k ,      al n k'
+= m a s   =
+kterýž tvoří normála křivky Pl s oběma průvodiči.*)
+Pokračujíce dle článku 4. odvodíme si rychlost at /= kn = T bodu spadajícího s bodem a^ v tečně sestrojené v tomto bodě ku A^, vedeme-li nl\\ ks, pak přímkou sl/ protneme tečnu T v bodu 4L, který v této přímce určuje rychlost k*k = x bodu k. Spustíme-li s bodu k kolmici k*n k spojnici *ksly obdržíme v přímce n *n J_ T rychlost n*n = !; bodu spadajícího s bodem n při otáčení tečny T kolem bodu k. Bodem *n vedeme přímku X\\ T, kteráž se se stejně sestrojenou přímkou X' \\ T' vzhledem k druhé ploše kuželové protíná v bodu r>/^. (Konstrukce přímky X' v obrazci 5. vynechána.) Vedeme-li dále přímku 5#6/*|| 7^a a protneme-li ji kolmicí nGn v bodu ;/ k tečně 7"","" vztyčenou, obdržíme v délce // 6/J rychlost bodu n při otáčení této tečny kolem bodu #, . Sestrojíme-li pak bodern n kolmici no k přímce <26#, obdržíme na normále křivky Pt v bodu at sestrojené bod o jakožto hledaný střed křivosti.
+Abychom algebraicky stanovili poloměr křivosti a o = Q , vyplývající z této konstrukce, vypočtěme si délky T a # ze zvolené délky f* a poloze bodu al Příslušného úhlu l.
+*, Bod m jest průsečík normály elliptické křivky Pl s osou í, /,
+XL. ﻿14 Z pravoúhlého trojúhelníka kna^ jest patrno, že
+T =------......                              (\\
+tang l
+a z podobných  trojúhelníků slk^kt  sa^l plyne,  poněvadž  ^'al=n^ = r, označíme-li délku síaí písmenem n,
+x  _     n-\-n čili
+— ^S±tí......              (2)
+Z podobných trojúhelníků ^^/fc a L«*#, vyskytujících se při konstrukci délky n 4n = | , plyne dále
+a z toho
+rx
+Dosadíme-li do tohoto vzorce za x hodnotu z rovnice (2), obdržíme
+•-?
+a vložíme-li sem za r hodnotu z rovnice (1), obdržíme
+Přímka X bodem *n rovnoběžně k tečně T vedená stanoví na stopě M roviny křivky průsečné P délku rj = n5n"". Poněvadž úhel
+jest, jak z trojúhelníka ////' patrno, úhel
+označíme-li  úhel,  který tečna  7i° tvoří s přímkou sls\ ,  písmenem qp, jest, jak z pravoúhlého trojúhelníka n*nW plyne,
+cos kterou lze vzhledem k rovnici (3) psáti ve formě
+/
+^ tang *). . cos (í. -f- g)
+/r \
+*) Označíme li / průsečík tečny T se spojnicí j, /, a ř' průsečík  tečny 7"" s toutéž přímkou.
+XL. ﻿15
+Se zřetelem k tomu, že normála křivky elliptické P, v bodu a^ sestrojená úhel příslušných průvodičů rozpoluje a že délky
+mfižeme bezprostředné souditi, že úsek r/', který bude přímka X' na stopě M roviny křivky P určovati, bude rovný úseku 77,*) a proto bod V zároveň průsečíkem 5« přímek X, X', jak se to již z té okolnosti očekávati dalo, že délka «5«, představující nám rychlost stopy n tečny 7\a rovinné křivky P v průmětně, nutně se ve stopě M roviny této křivky nalézá.
+Odvodíme-li  dále,  jak   předem   naznačeno,   poloměr   křivosti   #, o = o , obdržíme z délky n&n v pravoúhelném trojúhelníku ;/5«6;/, ve kterém se úhel
+// n
+vyskytuje, délku odvěsny jeho
+aneb pomocí vzorce (5)
+6;/ = n 5;/. cos qp = 77. cos g1,
+. cos
+*D/|— ,7. tang2*, cos (A + g) '
+Z  podobných   trojúhelníků  aon,   an*n   pak  plyne,   označíme-li  délku an--v. a určíme-li jeho délku z pravoúhlého trojúhelníka
+x-*                 /i
+;/  t> j /                    *;  ** j í        C1
+. sn
+a dosadíme-li sem hodnotu za ;/ 6// ze vzorce (6), obdržíme konečně po malé redukci
+q =
+cos qp . cos tt>L
+V tomto  vzorci   nahradíme ještě n  délkou  am = v   z  trojúhelníka ve kterém, jak snadno lze dovoditi, úhel
+m sl at = w = 90° — (i + g) dle vztahu
+z čehož plyne
+w    _ cos g)
+v        sin to        cos
+cos g)
+cos qp
+cos (i + f )'
+Dosadíme-li  tuto  hodnotu  za n  do vzorce (7),  obdržíme konečně  pro Poloměr křivosti
+v
+*) V obr. 5. konstrukce přímky A""' vynechána
+XL. ﻿16
+Obdrželi jsme tím pro poloměr křivosti křivky elliptické Pl známý výraz vyjádřený délkou příslušné normály v a úhlem >t, který tato normála svírá s oběma průvodiči.
+8. Přistupme nyní k průsečnici dvou obecných ploch rotačních, jichž osy jsou rovnoběžný. Zvolíme-li opět průmětnu kolmo k rovnoběžným osám obou ploch, sestrojme body průsečnice jejich pomocí rovin rovnoběžných s průmětnou. Tečnu v jednom z bodů těchto sestrojíme jako dříve pomocí ploch kuželových, kteréž se ploch rotačních dotýkají. Při sestrojení středu křivosti nutno však vedle konstrukce uvedené v předchozím případě přihlížeti ještě ku křivosti meridianů obou ploch rotačních v příslušném bodu průsečném.
+V obrazci 6. proveden případ, kdy jedna z ploch jest kuželovou a druhá obecnou plochou rotační, jejíž meridianem jest libovolná křivka M. Osy ploch těchto mají své průměty prvé v bodech Olt O\, hlavní meridiany mají své průměty druhé v křivce M^, resp. v přímce M\, kteráž protíná průmět O'n v druhém průmětu středu s' plochy kuželové. Pomocná rovina R rovnoběžná s průmětnou prvou, mající svůj průmět druhý v přímce R^\\ XI.(L^ protíná tyto plochy v kružnicích K a K', protínajících se ve dvou bodech průsečnice Py z nichž jeden a mějme na zřeteli.
+Sestrojujíce tečnu 7\a, sestrojíme dle křivky K ke ploše rotační dotyčnou plochu kuželovou o středu JT, a předpokládejme, že rovina pomocná se stejnoměrně pohybuje a v příslušných přímkách ploch kuželových sa, s'a určuje rychlosti a k a a k1. (V obr. 6. jsou za body k a k' zvoleny stopy přímek s a a s'a.) Sestrojíme-li v těchto bodech k a k' rovnoběžky T a T' k tečnám sestrojeným ku křivkám K a K' v bodu a, obdržíme v jich průsečíku bod w, který jakožto stopa určuje s bodem at tečny Tf k průmětu Pl průsečnice obou ploch.
+Sestrojujíce střed křivosti, hledíme jednak ku křivosti křivky A"", jinak ku křivosti meridianů M. Vzhledem ku křivosti prvé odvodíme rychlost //4//' bodu ;/, vedeme-li bodem # rovnoběžku #4# s přímkou j, #,, kteráž protíná tečnu, sestrojenou v bodu at ku křivce K^, v bodu /. Pak spustíme k spojnici bodu sl a Ol kolmici k*n s bodu k, kteráž přímku ni v bodu 4# protíná, jímž prochází přímka X, která by s obdobně sestrojenou přímkou X vzhledem k druhé ploše (kuželové) určovala bod 5«, kdyby rotační plocha prvá byla kuželovou.
+Vzhledem ku křivosti meridianů v bodu a se však tato přímka X pošine do nové polohy 1X, kterou obdržíme, když s bodu b^, v němž křivka K hlavní meridian M protíná, se zřetelem k středu křivosti o této křivky spustíme kolmici k přímce spojující bod r2""*) s bodem o, kteráž přímku c^c J_ /;ar« protíná v bodu V, který stanoví rychlost c^c bodu r2 při otáčení tečny ^afa kol bodu A,. Z rychlosti bodu c^ stanovíme rychlost <raV, jakou se pohybuje bod spadající s bodem tímto v průmětné první, když bodem V vedeme
+hlavního  meridianů  M,  v bodu  *a  sestrojené.
+*) Bod L:, jest průsečík tečny s osou Xl .„.
+XI, ﻿17
+rovnoběžku k tečně ^2r2. Přeneseme-li pak délku r2V od bodu *n na prodlouženou přímku ;/4«, obdržíme bod 4//"", kterým pak prochází přímka 'A' || X.
+Určíme-li dále rychlost w4//' vzhledem k rotační ploše kuželové tím, že vedeme ///' || s\k' až protne tečnu al/\ sestrojenou ku křivce AT, v bodu a^, a spustíme s bodu n kolmici n*n' k spojnici bodu s\ s bodem /', vedeme pak bodem 4;/, ve kterém přímka ;/4//' se protíná s přímkou s\l't rovnoběžku k přímce ?ik' a obdržíme tak přímku X'.
+Přímky 1X a X' protínají se pak v bodu 5#, určujícím s bodem n rychlost n bn bodu tohoto jakožto tečnu 7*» k stopě N plochy rozvinutelné tečen křivky průsečné P. Rovnoběžka 5//6// vedená bodem 5;/ k tečně T protne přímku //•« J_7\a v bodu tí//, a kolmice spuštěná s bodu n k spojnici afn protíná pak normálu, sestrojenou v bodu av křivky 1\, ve středu křivosti lo křivky této. Ze středu křivosti lo průmětu tohoto lze pak způsobem napřed uvedeným odvoditi poloměr křivosti křivky P samé. Že konstrukce tato správná jest, lze dovoditi na zvláštním případě, tak jako bylo ve článku předcházejícím ukázáno.
+II. Zásad geometrie kinematické lze užiti také při úloze: Stanoviti body křivky vratu rozvinutelné plochy obalové tečných rovin společných dvěma křivkám.
+Úlohu tuto lze řešiti také pomocí novější geometrie arciť konstrukcí složitější.
+Předpokládejme, že jedna z křivek určujících plochu obalovou společných rovin tečných jest křivkou prostorovou a druhá křivkou rovinnou.
+Sestrojujíce nějakou přímku této plochy rozvinutelné, sestrojíme, jak známo, v libovolném bodě a křivky prostorové A tečnu T a průsečíkem p této tečny s rovinou křivky rovinné B vedeme tečnu T' k této křivce. Dotyčný bod b tečny této určuje pak s bodem a přímku oné plochy rozvinutelné.
+Známe-li křivost obou křivek A a B v bodech a a L, můžeme sestrojiti příslušný bod v křivky vratu této plochy rozvinutelné následovně.
+Bod v křivky vratu sestrojíme jakožto průsečík přímky ab s její nekonečně blízkou polohou, a myslíme si, že přímka tato přechází z polohy původní do nekonečně blízké otočením kolem bodu vratu, jehož rychlost při pohybu jest tedy rovna nulle.
+Zvolíme-li rychlost a la bodu a v tečně T, můžeme určiti i rychlost bodu b v tečně T a tím i vyhledati onen bod v křivky vratu. Z rychlosti u 'tf v tečně T a středu křivosti o křivky A v bodu a sestrojíme v jeho příslušné oskulační rovině rychlost plp bodu /, v němž tečna T protíná rovinu křivky B při otáčení tečny této kol bodu a, vedouce p l/> _[_ T a spustíce a *P _L o la. Z rychlosti této p lp odvodíme si rychlost p *p, kterou se pohybuje bod spadající s bodem / tečny T v průsečnici P uvedené již roviny oskulační bodu a s rovinou křivky B, vedeme-li přímku V2/II ^> kteráž Přímku P v bodu */> protíná.
+Rozpravy: Ročn. V. Tř. II.
+XL. ﻿18
+Z rychlosti této odvodíme rychlost /3/, kterou se pohybuje bod spadající s bodem p jakožto bod tečny T\ otáčející se v rovině křivky B kolem svého bodu dotyčného tím, že sestrojíme přímky p*p J_ T' a V3/II T1 v bodu *p se protínající. Z rychlosti této p*p a známého středu křivosti o' křivky B odvodíme rychlost b *b bodu b v tečné T\ vederne-li přímku o'lb _L.b*p, kteráž protíná tuto tečnu v bodu *b.
+Sestrojíme-li dále bodem /; přímku &*6\\ala a *b*b\\ab, pak spojnice průsečíku ""b těchto přímek s.bodem la protíná přímku ctb v hledaném bodu v křivky vratu plochy rozvinutelné.
+10. Křivost plochy rozvinuté Inc.
+Předpokládejme, že jsme způsobem uvedeným ve článku předcházejícím sestrojili přímku P obecné plochy rozvinutelné, určené dvěma křivkami A a B, a zároveň určili příslušný bod .$• její křivky vratu, jejž pokládáme za střed plochy kuželové, oskulující plochu rozvinutelnou dle přímky P.
+Každá rovina protíná obé tyto se oskulující plochy rozvinutelné v křivkách, kteréž se oskulují v bodu, v němž rovina protíná přímku P. Proto vyšetřujíce křivost obecné plochy rozvinutelné, můžeme se obmeziti na stanoveni křivosti plochy kuželové oskulační, kterou určíme si středem jejím s a jednou z křivek A a B, ku př. A.
+Kdybychom měli určiti křivost libovolné rovinné průsečnice s touto plochou kuželovou, použijeme konstrukce uvedené ve článku 2., abychom odvodili její poloměr křivosti ze známého poloměru křivosti dané křivky A .
+Povšimněme si ještě souvislosti křivosti rovinných průsečnic procházejících týmž bodem plochy kuželové.
+a) Předpokládejme, že křivka A jest normalnou průsečnicí plochy kuželové, t. j. její rovina obsahuje normálu N, sestrojenou ku př. v bodu a přímky P k ploše kuželové, a chceme stanoviti křivost průsečnice B s rovinou, procházející tečnou Ta, která jest sestrojena v bodu a ku křivce A. Z daného poloměru křivosti o křivky A v bodu a lze odvoditi, pro zvolenou rychlost T = a v bodu a v tečně Ta, velikost kolmého zrychlení jt — strojeného na základě vzorce
+se-
+Při odvozování středu křivosti průsečnice B třeba si povšimnouti, že rychlost T bodu a v tečné zůstává táž a že kolmé zrychlení fť = as' pro tuto křivku odvodíme, vedouce bodem s rovnoběžku s s' k přímce P, kteráž normálu N' křivky B v bodu a sestrojenou protíná v bodu z'.
+Nazveme-li g> odchylku, kterou tvoří normály, N a N\ a která nám udává odchylku roviny křivky B od roviny křivky A , pnk máme pro zrychlení při křivce B
+COS ty
+XL. ﻿19
+Z rychlosti T bodu a a z kolmého jeho zrychlení mého vzorce poloměr křivosti křivky B
+obdržíme dle zná-
+T                 T
+n — —7- = — cos q = o cos op . fi           fi
+Obdrželi jsme zde známý vzorec pro odvození poloměru křivosti řezu šikmého z řezu normalného, platného dle theoremu Mtwsnťerova arciť nejen pro plochy bodů parabolických, nýbrž i pro plochy vůbec.
+b) Předpokládejme, že křivka A jest hlavní normalnou průsečnicí (t. j. kolmou k přímce A) procházející bodem a a B libovolnou průsečnicí normalnou týmž bodem vedenou.
+Abychom stanovili poloměr křivosti (/' křivky B, uvažme, že kolmé zrychlení /< bodu a této křivky příslušící zůstane totéž jako při průsečnici A , kdežto rychlost T' bodu a v tečně Ta ku křivce B jest závislá na rychlosti T téhož bodu v tečně sestrojené ku křivce A vzorcem
+cos
+kde V značí odchylku rovin obou průsečnic normalných.
+Dle známého vzorce plyne tedy pro poloměr křivosti křivky B
+COS
+cos
+Jest patrno, že zde přicházíme k výrazu, který také vyplývá ze známého vzorce Euler&va pro poloměry křivosti řezů normalných v bodu parabolickém nějaké plochy.
+XL. ﻿* ﻿B. PROCHÁZKA: UŽITÍ KINEMATIKY v GEOMETRII NOVĚJŠÍ ETC.
+Tab. I.
+. va] B Fro.házk
+Rozpravy České Akadeir^ Ročník V Inda II č.40. ﻿* ﻿B. PROCHÁZKA: UŽITÍ KINEMATIKY v GEOMETRII NOVĚJŠÍ ETC.
+Tab.
+Obr.
+•
+urh Fi-.sJrvvpja.-e
+•     ravy České Akademie. Ročník V Třída D :. 40. ﻿* ﻿B. PROCHÁZKA: UŽITÍ KINEMATIKY v GEOMETRII NOVĚJŠÍ ETC.
+Tab.m.      l
+
+K :  irugwa]
+
+. Česko /                                       •   ;!  • -iC. ﻿* ﻿B. PROCHÁZKA: UŽITÍ KINEMATIKY v GEOMETRII NOVĚJŠÍ ETC.
+Tab. IV.
+•„
+,
+*
+•-.
+v
+A      l
+:
+
+40. ﻿*"

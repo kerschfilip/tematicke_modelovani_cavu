@@ -1,0 +1,240 @@
+"","x"
+"1"," ﻿ROČNÍK III.
+TŘÍDA II.
+ČÍSLO 17.
+O transformaci orthogonalních geodetických souřadnic na ellipsoidu.
+Podává Dr. V. Láska.
+Předloženo dne  Ií3.  dubna  181)4.
+Anačí-li « azimut geodetické křivky v začátečním bodě A orthogonalních souřadnic, a dále a' azimut v libovolném bodě /?, dále 7"" a / poloměry rovnoběžníků pro body A a B, pak platí vztah
+sin «.' = — sin
+Elementarný differencialný trojúhelník dává dále
+/ d\ = ds sin a' ,
+(1)
+(l?)
+kdež  d).  rozdíl   poledníku   bodů B a   .4 B a  ds jich  vzdálenost   vyznačuje. Zároveň máme
+kdež í/ď jest oblouk ellipsy poledníkové. Tím obdržíme
+ds — + -—=
+ída
+a podobně
+T sin a,
+Značí-li u kolmici z bodu B na rovník, pak jest Dále platí pro ellipsu
+_ ~
+a cos fí
+— ^  sin «
+(4) (5)
+('•>) (7)
+.
+VI — ^* sin""/?
+při čemž jest a velkou  poloosou,  e výstředností   ellipsy   poledníkové, t-t pak zeměpisnou šířkou bodu B, takže bude dle rovnic ((3), (7), (S)
+(l— ^2 sin XVII. ﻿Pro orthogonalní souřadnice platí vzhledem k úsečkám a dále pro bod A
+rr> ____
+a cos B
+Ví—
+kdež jest B zeměpisnou šířkou bodu A, takže obdržíme
+ds = — a V l — e* \ l — e* sin'2 B
+{cos V — cos27>}'
+l — e*
+V rovnici (I) položme
+(cos2/? — cos2/>]'
+a dále
+sin V = i (l— cos
+17 =
+2 — e* '
+pak bude
+Zde položme a zároveň načež obdržíme
+kdež položeno a dále
+dn •=. c •
+(l—/*
+m = TI cos z « = rj sin
+2«
+l —m
+Poněvadž q jest blízké jednotce, pišme
+.             2 c         d z
+~ d4_w)i i -\-~~
+a rozviňme v řadu, pak bude
+:;:) Viz: ^ pojednáno.
+(H) (IH)*)
+(10) (11) (12) (13)
+(14)
+(15) (16)
+(17)
+Zeitschrift fiir Vermessungswesen IHSi, p. 121, kdež o stejném problému
+XVII. ﻿Prvý integrál dává přímo
+V druhém položme načež bude
+dz
+Zde máme
+= ~ (l — </) |sin 2dp — 2
+tak že obdržíme
+í
+Budiž nyní pro pak musí býti i
+1-?) (sin 2Jp — 2 /?== B        1 = 0,
+(19)
+Značí-li   /?' zeměpisnou   šířku  nullového   bodu  ordinaty,   pak   bude  pro /?' ,    Jp = J (i' a zároveň
+A (l - ,/) | sin 2 . //?' - 2 ///?'! + . . .
+(20)
+takže bude
+aneb
+V praxi  přichází  ale  ponejvíce  opačná  úloha,   totiž   ze známého x vy-počísti /l f. Pišme tedy
+pak bude
+1 -íf —      A?          |      r>       2    [      n      3    |                                                       Í9^\
+kdež
+^ = + -J-'
+^1
+A
+3   '
+r>              _|_
+7)3 ~
+a tak dále.
+XVII ﻿Dosazením příslušných hodnot obdržíme hodnoty, které nejsou tak přehledné jako uvedené vztahy. Pro výpočet odporučuje se tedy pochod, jak byl námi stanoven.
+Přistupme nyní k rovnici (II). Zde položíme především
+1/1           o   -\'l""       Í      •     Ú    O                                           /»1O\
+r, = — a ] l — fm \l — e* smz />                             (2o)
+a dále
+sin .tf = ^ sin B ,                                          (24)
+čímž rovnice (II) přejde v následující
+«•«•*'-«.                          (25)
+ds = c, • — -.-. (l —
+sn
+Poněvadž jest vždy B blízké k <^,  bude i v blízké k jednotce   a  proto
+položíme                                     i      «t _   .1     '
+""   — «   ,
+aneb
+dv                 d z
+a dále
+načež bude
+l — e* sin2 />'
+= ^-^-=í' + '/^2)-^
+jest v logarithmické úpravě
+takže ^ a $ vždy tak voliti musíme, aby
+B>f. Rozvinutím v řadu obdržíme dále
+takže bude
+s — sn = c \ •------
+ivr^~
+Zde položíme pak bude
+= sin w ,
+f V
+J
+w
+f \
+J
+z*dz
+-=-[~ 3!a s'n ^ w — [ sin 2 w -\- l w .
+(26)
+(27)
+(29) (30)
+(31)
+(32)
+(34)
+XVII. ﻿Je-li dále
+pak obdržíme
+s — s0 = C0 w -f- C^ sin 2 w -f- č74 sin 4 w -|- ...                  (36)
+Položíme-li zde L=fif  a  dále {J = f, pak musí býti j = 0, tedy i J0 = 0, a zároveň bude
+j = C0 w' -\- C\ sin 2 ze/' -j- 6""4 sin 4 w' + • • • ,                    (37)
+kdež
+(38)
+sin w =
+srn f
+značí, při tom jest ale v koefficientech
+a z rovnice (37) a (38) w' a s tím i veličinu /?. Neboť jest
+sin jí = cos w' sin f . Tím odvodili jsme z orthogonalních souřadnic x a ^ zeměpisnou šířku
+Přistupme nyní ku stanovení zeměpisné délky.
+V rovnici (III) položme
+načež bude
+»t=sT^^?""                     (39)
+Výpočet   provádíme   zde  indirektně   dle   methody Besselovy.   Obdržíme totiž z rovnice (22)
+r.neb
+(40) (41) (42)
+(43)
+(44) (46)
+dl = - \1 — c*   ,_____- (l — e* sinV)~ i ,
+aneb položíme-li
+a rozvedeme-li v řadu
+l — w* = L*
+j y-
+- vo    .    -   ., >
+1 — C sin2 B )
+Zde bude v logarithmické úpravě
+položme dále
+sin B cos /? = sin O , XVII. ﻿načež obdržíme
+di = -f- \ l — e* d i
++ l''sm'/?[]_^7s.n,/?J- + ...
+Zde máme především
+r       cos*d dti          _ r            dti
+'• ] l — siň^^Tn2^ Z "" J T+cos2#tg20  ' aneb položírne-li
+(46)
+?/ = tg ti
+du
+a tedy, je-li dále
+podobně bude
+tg tf = tg 0 . cos B ,
+sec B
+(48)
+(49)
+(50) (51)
+tg=»cos^)
+*=^s{
+du
+(l -f w
++""t^^y
+du________cos2 ^
+/2 /^/-kC^  /?^""               cir»4  A1
+cos
+sn
+«"" cos2 ^) '
+(52)
+aneb
+A _L ^ .7 C0b ^^_____          _ l____* __    _L_           - l _
+""^ ""         cín* A7    ""   ""    čin* /?    \  í 1  _i_ ,/«Y<ř     •     frr4  /?   \   r
+sin4/?
+(l + ?'2 cos2
+Nyní jest ale
+2""1
+du
+_       li r-
+|S                    ""
+takže bude
+tak obdržíme
+K určení konstanty položme pak bude pro
+(53) (54)
+(65) (56)
+jt = f ,        A «= O , XVII. ﻿
+tedy i takže máme
+;. = -f VT^^ 10 + e* J sin2// + -~ K sin4// + ... ,
+kdež všude na místě B (i' položiti dlužno.
+K illustraci počítejme příklad Ncllftv ve výše udaném pojednání.
+B = 50° .        x = 225.000 m ,       / = 145.000 /// . Nell nalezl pomocí velice komplikovaných vzorců (viz 1. c. p. 430)
+f = 52° l' 21""8292 , /? = 52° O' 13""6616 . Pro námi uvedené vzorce jest především
+log r, = log ^-^-r, = 7-5248321-85 — 10 ,
+log 2^ = 6-8039127-22; veličiny ty jsou stálé.
+Dále počítáme
+m = 77 cos 2 B ,        ;/ = rt sin 2 B , 2«                               2/«
+tak/e bude
+a? = [6-8041651-
+číslo v závorce značí logarithmus. Položme
+(57)
+'rt=9""-fs
+x
+[(V804 1 652J J
+pak bude Máme tedy
+5', = 2°    ť    23""096
+/f ^ = 2°    ť    21""818 Shoda jest v mezích logarithmického počtu úplná.
+Při porovnání s Ncllovým výpočtem jest náš způsob daleko kratší. Co se výpočtu týče, tu nutno podotknouti, že výraz
+nelze dosti přesně logarithmicky vyčísliti, proto volíme řadu
+(l
+/ \m —
+V
+m -o
+(58)
+XVII. ﻿kdež
+\ogM= 9-0377843-113 — 10 .
+Totéž platí pro rovnici (38), kterou nelze pro B = /?' logarithmicky upotřebiti. Tu položíme především
+Wo = 0? —ftV2rtiJ7.                                  (ftí))
+kterážto   hodnota as pro veškeré potřeby dostačí.   Eventuelně  počítáme pak
+Toho vzorce nebude as nikdy v praxi zapotřebí. Pak můžeme položiti
+kdež
+načež bude přibližně
+c == Ví— e'2 (l —
+^- l   .
+a přesněji možno dle vzorce ((>0) počítati. Konstantní logarithmy jsou zde
+log a Ví—^ = 6-8031892-840 , Log ?"" = 5-9144261-332.
+(60)"

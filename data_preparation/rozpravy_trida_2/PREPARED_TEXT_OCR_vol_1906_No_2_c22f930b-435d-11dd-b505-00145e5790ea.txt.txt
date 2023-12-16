@@ -1,0 +1,1220 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+symmetrických soustavách čísel větě Sturmově.
+
+
+Napsal
+
+
+Petr.
+
+
+(Předloženo dne 19. ledna 1906.)
+
+
+Jak známo, stanoví signatura kvadratické formy
+
+
+počtu změn znaménkových řadě hlavních subdeterminantů determinantu
+
+
+aik «,/. «^-;
+
+
+př. řadě této
+
+
+""^2 rl' ''i
+
+
+Řada tato však neudává počet změn znaménkových tom případě, když zmizí několik jejích sousedních členů. Této vadě odpomáhá při určování signatury větou Gundelfingerovou,*) dle které lze, není-li pořadí čísel rt, rs, vždy tak voliti, nezmizí dva sousední členy příslušné řadě.
+
+
+Nalezl jsem však, každá řada (K) udává přesně signaturu kvadratické formy, zmizí libovolný počet členů; stačí každému členu, který vymizí, přiděliti znaménko jednoho jeho hlavních subdeterminantů nejvyššího stupně nully různého; vymizí-li pak všecky jeho sub-determinanty hlavní tudíž všecky jeho elementy) přisouditi jest řadě (k) znaménko kladné.
+
+
+Praktický význam tohoto výsledku jest ten, netřeba vyhýbati při hledání signatury subdeterminantům, které vymizí (jak činí větou
+
+
+Journal fůr reine und ang. Mathematik, sv. 91. str. 235.
+
+
+Rozpravy: Roč. XV. Tř. II.
+
+
+II. ﻿Gundelfingerovou); naopak, chceme-li sobě počet zjednodušiti, spíše budeme vyhledávati. Platí př., také řada čísel nully různých
+
+
+A„\
+
+
+kde /j, />2,..... značí stupně jednotlivých hlavních subdeterminantů,
+
+
+udává signaturu, jestliže APk jest hlavním subdeterminantem jednoho hlavních subdeterminantů stupně lvA/,í,l, který všemi subdeter-minanty stupně vyššího nežli menšího nežli //, rovný jest nulle. Theoretický význam spočívá pak tom, určování signatur nemáme toliko jedinou řadu bezpečnou, nýbrž současně řad udávajících nám pro signaturu stejná čísla. Vzhledem pak této okolnosti různé věty jich důkazy zjednodušují. své práci nezabýval jsem však formami kvadratickými, nýbrž systémy čísel:
+
+
+
+
+
+""•/* ---- .....
+
+
+závislých dvou indexech takových, a^. #/,/. Těchto čísel může býti neobmezený počet, avšak předpokládal jsem, příslušný systém jest určité konečné hodnosti j., determinant symmetrický utvo-
+
+
+
+
+
+řený těchto čísel jest rovný nulle, když stupeň jeho jest větší nežli však jsou některé determinanty n-tého stupně nully různý. Pak řada hlavních subdeterminantů (k}, která končí takovým determinantem ;/-tého stupně nully různým anebo která jej obsahuje jako hlavní sub-determinant, dává počtem změn znaménkových číslo, které též označovati můžeme jako signaturu systému au- (anebo též jako signaturu determinantu A„t atd.).
+
+
+Předsevzal jsem pak provésti odvození funkcí Sturmových základě takovýchto systémů. Jak známo odvozují Sturmovy funkce jednak původním zcela elementárným způsobem, jednak pomocí zákona setrvačnosti kvadratických forem. Zvláště pak zákon setrvačnosti kvadratických forem vede nás jednoduše tvarům obecným pro Sturmovy výrazy. Přirozeně jest zajisté možno nezávisle tomto zákonu tytéž výsledky odvoditi. jsem pokusil zabýval přímo signaturou koefficientů rozvoji výrazu
+
+
+při čemž jsem kladl
+
+
+=1,2,
+
+
+vyšetřování ukázalo, případech nejobecnějších určení této signatury jest snadné nepohodlnější nežli oklikou přes zákon setrvačnosti. Toto vyšetření signatury pak stane ještě jednodušším, připustí úvahy spojitostní podobné těm, které opírá původní Sturmova methoda.
+
+
+II. ﻿I.
+
+
+Mějmež symmetrický determinant
+
+
+(1)
+
+
+fl	.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro krátkost budeme označovati tento determinant pomocí indexů hlavní diagonály výrazem
+
+
+(l, ..... »).
+
+
+Podobně budeme označovati všecky subdeterminanty hlavní; t.j. subdeterminanty, při nichž elementy hlavní diagonále jsou také elementy hlavní diagonály daném determinantu. Budeme př. psáti:
+
+
+(l,
+
+
+Sestavme řadu hlavních subdeterminantů daného determinantu tak, každý člen této řady jest subdeterminantem členu následujícího tak stupně členů této řady při každém dalším členu jednotku vzrůstají, při čemž končíme determinantem daným začínáme Dostaneme tak řadu takového tvaru
+
+
+(2) fa), fa, r2), fa, r2, rs\ fa, r2, r3, ..... r„),
+
+
+kde rlt r2, ..... jsou různá čísla, jež nehledě pořádku, rovnají
+
+
+číslům ...... Vezmeme pak úvahu znaménka členů této řady.
+
+
+Při tom budeme přisuzovati znaménko takovému členu, jenž nulle rovná tímto způsobem. Vymizí-li člen fa, r%, ...... TU) zároveň
+
+
+všechny jeho subdeterminanty hlavní prvního, druhého, ..... u-tého řádu,
+
+
+jestliže teprve subdeterminanty řádu -j- nejsou vesměs rovny nulle (při tom ovšem -j- <^k*\ dáváme členu fa, r2, rL) znaménko, jež součet hlavních subdeterminantů řádu -j- toho členu. Kdyby však tento součet, jejž značiti budeme ^f^, byl rovný nulle, budeme říditi znaménkem čísla ^f\ Přisuzujeme tudíž členu fa, r2, rk) znaménko prvního členu, různého nully této řady
+
+
+tom případe, -\- vyrozumíváme subdeterminantem /(--tého řádu determinantu (r,, r„,.....r;.) kladnou jedničku.
+
+
+
+
+
+II. ﻿fa, r*.. .»), 5}*),
+
+
+
+
+
+Poslední člen řady právě napsané jest rovný kladné jedničce (dle poznámky svrchu učiněné) jest tudíž jistě jeden člen řady nully různý.
+
+
+Přisoudíme-li pak takovýmto způsobem každému členu určité znaménko, můžeme vysloviti tuto větu:
+
+
+Věta Počet změn znaménkových řadě
+
+
+(2) fa), (rít ra), fa, rít rz, rn]
+
+
+jest nezávislý pořadí čísel rlt r2, r„. permutace j\, ... r,t čísel jest jakákoliv, počet změn znaménkových řadě (2) jest vždy týž.
+
+
+důkazu této věty postačí dokázati, dvě řady
+
+
+/A* •*• •T' •»-•, l1* (1' •*•/
+
+
+-1) lrj,1> i/i> '2/i '/l. '»>••• '/—li '/A l/u '2' r/l
+
+
+(3) fa, >*, •>'«);
+
+
+^/-/\/\/
+
+
+J'* **/ ^*7 lil/* '/*/
+
+
+1/5 vil 2/í ~t~
+
+
+jež liší pouze jediném členu /-j- 1-vém), dávají stejný počet změn znaménkových, neboť mezi jakékoliv dvě řady
+
+
+fa), fa. >z)> (r15 r2, r3), fa, r2l /-„)
+
+
+lze vždy vsunout jisté pořadí řad tak, aby jedna těch řad svých sousedních lišila pouze jednom členu.**)
+
+
+Pro řady (3) pak, není-li žádný člen jich rovný nulle, jest důkaz zcela snadný; jest totiž dle známé věty determinantní často užívané
+
+
+Tento výrok lze ještě zjednodušiti; nevymizí-li totiž všecky hlavní subdeter-minanty -vého řádu jsou-li všecky subdeterminanty hlavní řádu nižšího rovny nulle, všecky subdeterminanty hlavní řádu -f-1 mají stejné znaménko, jak později seznáme.
+
+
+**) Při řadách př.
+
+
+(1), (l, 2), (l, 3), (l, 4), (l, 5),
+
+
+(3), (2, 3), (2, 4), (2, 5), (1.
+
+
+utváří ono pořadí řad takto
+
+
+(1), (l, 2), (l, 3), (l, 4), (l, 5);
+
+
+(2), (l, 2). (l, 3), (l, 4), (l, 5);
+
+
+(2), (2, 3), (I, 3), (l, 4j, (l, 5);
+
+
+(3). (2, 3), (l, 3), (l, 4), (l, 5);
+
+
+(3), (2, 3;, (2, 4), (l, 4), (l,
+
+
+(3), (2, 3), (2, 4), (2, 5), (l, 5).
+
+
+﻿--
+
+
+r/_0 rfl
+
+
+kde a/,/4-1 jest minor determinantu (r:, r2, 77+1) patřící prvku této identity plyne ihned, (rn r2, 77—1*7) (rx, r2,
+
+
+mají stejné znaménko, mají-li stejné znaménko (rn rz,
+
+
+TV— (rn r2, ?7+i) odtud snadno lze usouditi, řady (3) mají stejný počet znamének.
+
+
+Abychom totéž dokázali případě obecném, kdy libovolný počet členů řad (3) rovná nulle, vezměme úvahu místo determinantu (1) tento determinant
+
+
+-M,
+
+
+23'
+
+
+
+
+
+Označíme jej (l, ... n\c analogicky vyznačím jeho hlavní sub-determinanty příponou Všecky možné rovnice
+
+
+kde r,, r2, 1'k jest čísel různých čísel mají levé strany, jež nejsou identicky rovny nulle; neboť jistě levé straně vyskytuje člen x'\ Vyskytují pak mezi kořeny těchto všech rovnic jednak kořeny rovné nulle, jednak kořeny negativné konečně jistý omezený počet kořenů kladných. Budiž nejmenší hodnota kladná, jež mezi oněmi kořeny vyskytuje, každý positivní kořen rovnice (/) (rlt r2. 77.; jakékoliv) jest větší anebo rovný číslu položme
+
+
+Pak členy řad
+
+
+
+
+
+ví)
+
+
+jsou vesměs nully různý mají tudíž dle toho, jsme právě dokázali, stejný počet změn znaménkových.
+
+
+Avšak znaménko čísla nully různého (rlt r2, r/,).r shoduje znaménkem, jež svrchu vylíčeným předpisem přičítáme subdeterminantu (r\\ ^2> *""*)» když tento snbdeterminant jest nulle rovný, neboť je-li
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II. ﻿jest
+
+
+(rn
+
+
+
+
+
+pak jest kladné menší než kterýkoliv kořen rovnice (rlt /-2 ... rk).* tedy (;-j, r2, n-).r znaménko čísla .S^r Mají tudíž řady (3) stejný počet změn znaménkových každém případě, stanovíme-li jenom znaménko každého členu dle přijatého způsobu. Tím jest věta uvedená dokázána. Lze však snadno ukázati, vymizí-li determinantu symmetrickém všecky hlavní subdeterminanty prvního, druhého, ,u-tého řádu, vymizí současně vůbec všecky subdeterminanty ... fi-tého řádu. Jsou-li pak těchto okolností dva hlavní subdeterminanty řádu -f- nully různé
+
+
+jest, jak známo,*) platný tento vztah
+
+
+s2,
+
+
+kde pravé straně jest čtverec subdeterminantu majícího elementy sloupců slt s2, Sk-it-i řádků rl, ... ;'/._„ _i. Jsou tudíž dva libovolné subdeterminanty hlavní, které nezmizí stejného znaménka, pakliže subdeterminanty stupňů vyšších vesměs rovny jsou nulle. Následkem toho lze větu dokázanou tom směru doplniti, členu (r^, ř2, 77), který všemi svými hlavními subdeterminanty řádu {.i jest rovný nulle, přisuzuje znaménko, kteréhokoliv subdeterminantu hlavního řádu -j- nully různého. Jsou-li pak všecky elementy determinantu (V15 r2, rL) rovny nulle, přisuzuje znaménko -[-.
+
+
+Nazývati pak budu počet změn znaménkových řadě (2), řídě pojmenováním Frobenia poněkud jiném významu zavedeným, signaturou systému čísel au, případě signa-
+
+
+turou determinantu znamenal.
+
+
+
+
+
+II.
+
+
+jakož již úvodě jsem po-
+
+
+Používati budu následujícím této známé věty:
+
+
+Věta II. Jestliže determinant (l, ... >z)jest nully různý, můžeme zvoliti pořádek indexů rlt r2l tak, řadě
+
+
+fa). fa> >s)» fa» r'^ nevymizí současně dva sousední členy. Je-lipaknullouně-
+
+
+Viz př. Cesáro, Elem. Lehrbuch alg. Anal. str. 32.
+
+
+II.
+
+
+﻿který člen této řady, oba sousední mají znaménka protivná.*) této věty věty plyne snadno následující:
+
+
+Veta III. Jsou-li determinantu (1) a,i, celistvé racio-nálné funkce proměnné
+
+
+aik Ha, (x)
+
+
+nevymizí -li determinant tento pro žádnou hodnotu pro niž
+
+
+
+
+
+řada (2) pro každé* tohoto intervallu (A, stejný počet změn znaménkových. Označme, abychom dokázali, všecky hodnoty, jež odpovídají kořenům všech rovnic
+
+
+jež spadají intervallu {A,
+
+
+xii -i' XN\ označení indexů nechť již tak voleno, jest
+
+
+buďtež dvě hodnoty, pro něž platí xi-\
+
+
+Dokážeme, pro pro poskytuje řada (2) vždy tentýž počet změn znaménkových. Zvolíme indexy r:, r^, r,t tak, aby žádné dva sousední členy řady
+
+
+(m)
+
+
+•*•' •»'/> l^l» ^*S^*=*/i VI' ^2> P»)X
+
+
+nebyly rovny nulle, což dle věty právě citované jest vždy možno, jelikož poslední člen jest nully různý. Avšak stejnolehlé členy řad
+
+
+mohou míti jenom tenkrát znaménko různé, rovná-li příslušný člen řady (m) nulle, ale tom případě znaménku těch členů nezávisí počet změn znaménkových jednotlivých řadách, jelikož oba sousední členy mají pak vždy znaménka protivná.
+
+
+Mají tudíž řady (;//), (n] stejný počet změn znaménkových; tedy každá jakkoliv zvolená řada hlavních subdeterminantů pro jf^lj, xi,
+
+
+Viz Gundelfinger, loco cit.; Weberova Algebra, vyd., str. 261.
+
+
+II. ﻿d, ,	a		4-	
+
+
+a	22	-i-	
+
+
+				
+
+
+				
+
+
+fl,A .	a	«2	_U	
+
+
+stejný počet změn znaménkových, určujeme znaménka jednotlivých členů svrchu vyloženým způsobem. Tím jest důkaz věty proveden.
+
+
+této věty lze učiniti důsledek následující: determinantu (1) můžeme vždy přičítati prvkům jedné řádky stejné násobky stejnolehlých členů řádky jiné, hodnota determinantu nezmění. Provedeme-li analogickou změnu sloupci tak, aby výsledný determinant byl symmetrický, signatura výsledného determinantu bude táž jako původního.
+
+
+Přičteme-li př. druhému řádku řádek prvý násobený druhému sloupci sloupec prvý rovněž násobený dostaneme determinantu (1) determinant
+
+
+(p}
+
+
+Tento determinant nezávisí vůbec jest tudíž dle věty právě dokázané signatura němu příslušná táž, zvolíme jakkoliv; zvo-líme-li dostaneme však determinant (1). Jest tedy signatura patřící determinantu (p) signatura determinantu (1) táž.
+
+
+Poznámka. Tento výsledek souvisí velmi úzce zákonem setrvačnosti forem kvadratických. Determinant (1) patří formě
+
+
+2-j- #„;/.y«2.
+
+
+Determinant (/>) patří formě kvadratické, která této vznikne substitucí
+
+
+Označíme-li signaturu patřící determinantu (1) též jako signaturu kvadratické formy (^), vidíme, signatura kvadratické formy jest nezávislá substituci tvaru (r). Poněvadž dle věty (I) jest nezávislá permutaci proměnných xv, x%, poněvadž očividně jest nezávislá substitucích lineárných tvaru ar,-=: p,-jr/, vidíme, jest signatura formy kvadratické invariantní vůči jakékoliv lineární substituci.
+
+
+Výsledky právě odvozené ostatně připouštějí rozšíření snadné pro obecnější případ, jsou polynomy několika proměnných, čímž však, jelikož nesouvisí nikterak účelem práce, nechci zabývati.
+
+
+II. ﻿III.
+
+
+Buďtež dány dva systémy hodnot
+
+
+alk bn, bk,
+
+
+Označme pak
+
+
+
+
+
+ari
+
+
+
+
+
+
+
+
+írk
+
+
+
+
+
+učiňme tyto předpoklady
+
+
+Všecky determinanty stupně vyššího než
+
+
+fc, r,/)1,
+
+
+všecky determinanty stupně vyššího než
+
+
+(r/, rs', o-)"" />/
+
+
+jsou rovny nulle, zvolíme čísla rt' mezi čísly
+
+
+jakkoliv, naproti tomu nechť jsou některé determinanty, pro něž některé determinanty, pro něž různý nully. Při tom nechť jest
+
+
+-j- ;//.
+
+
+Tento předpoklad vyjadřuje se, jak známo, stručně tak, systém etik jest hodnosti systém L/* hodnosti
+
+
+Nechť pak jest možno sestaviti čísla ... dvě skupiny
+
+
+tak, aby oba determinanty
+
+
+(/'i, r2, /v,)1, (r„
+
+
+byly různý nully buďtež čísla nebyly řadách
+
+
+r,n hned tak volena, aby
+
+
+II. ﻿10
+
+
+VlJ \rH '2/ Vit '2»
+
+
+faj i)11, (7',/4-i, 2)n> dva sousední členy rovny nulle. Determinant
+
+
+
+
+
+
+
+
+2>« 2,7 -L/, r2'"" 3/r 4-7;
+
+
+»J, .TI Sil »*iíi~*'*
+
+
+.~2»z 3.7 r2»/ 4,7 4-7,
+
+
+ířj., ř/jj S(, t*ía 6/í
+
+
+«2>« 4,y -y2nt—5/y
+
+
+aí»íi •5^.iíi) *Ji*í
+
+
+N1'
+
+
+
+
+
+y'2m -}-
+
+
+ftm -4- ^""-•tf^+A
+
+
+nechť jest pro každé rovné nebo větší nežli různý nully; při tom
+
+
+čísla jj, í2,.....j„ shodují nehledě pořádku čísly r2, »•„
+
+
+čísla ^„4.1, Í//+2......Jw jsou pořadí rovna číslům
+
+
+Následkem posledního předpokladu dle věty III řada
+
+
+pro každé kladné x^\ stejný počet změn znaménkových tudíž chtějíce určiti tento počet můžeme zvoliti jakékoliv číslo Buďtež všechny kořeny všech rovnic
+
+
+
+
+
+=0,
+
+
+obsaženy konečném systému hodnot
+
+
+budiž číslo větší než každé těchto čísel. Položme řadě (f] Pak znaménka různých členů této řady budou dána znaménkem koefficientů nejvyšších mocnin čísla tyto koefficienty shodují pak řadě čísly
+
+
+fa' r2> ''s)'.' ... fa, r2, ... r,,)1,
+
+
+fa, r2J r„)J. (r„ 2)n, /V)1- (r« 4-2 ... r*,)11,
+
+
+r2,
+
+
+)1, fa>
+
+
+„}1. (rn fa, r2,
+
+
+pokud tato čísla nully jsou různá. Ale dle předpokladů nemohou dvě sousední těchto čísel býti nullou víme, jeli jedno číslo rovno nulle,
+
+
+II. ﻿11
+
+
+sousední mají protivná znaménka určuje tudíž řada právě napsaná počtem změn znaménkových (vynecháme-li čísla rovná nulle) počet změn znaménkových řady (/), anebo
+
+
+Ale (/') jest právě tolik změn znaménkových, kolik jich mají řady (s) dohromady; řady tyto však určují signatury čísel a,-/,, L//, dle věty řada pak (/) určuje, položíme-li signaturu dik -\-bik, marné tudíž daných supposic tuto rovnost'
+
+
+signt. dik -|- signt. blk signt. («,/,-(- bík), ... ?«.
+
+
+IV.
+
+
+Zabývati budeme nyní součiniteli rozvoji dle klesajících mocnin proměnné výrazu
+
+
+
+
+
+
+
+
+
+
+
+(*)
+
+
+Položíme pak
+
+
+Cí>
+
+
+-t- -y=r
+
+
+
+
+
+Budeme pak předpokládati, jsou čísla «1? «2, různá |t, různá nully při tom připustíme pro tato čísla komplexní hodnoty podmínkou, při reálném jest též |x.- reálné jestliže jest komplexní, jest mezi čísly jedno číslo «*-, jež jest komplexně sdružené, při čemž jsou zároveň Lx.. L*' čísla komplexní sdružená.
+
+
+Pak jsou patrně čísla c2, cs, vesměs čísla reálná. Vyjádříme-li pomocí dostaneme vztah
+
+
+
+
+
+Determinant
+
+
+(l,
+
+
+lze psáti ihned jako součin dvou determinantů
+
+
+	^2 ^""
+
+
+
+
+
+	íJ+^ -.^
+
+
+Si, I2) ...- Ž«	1, ...
+
+
+
+
+
+1,/a,,""""""1	«,—», «2»-i, a,/'-1
+
+
+II.
+
+
+zavedeme-li označení
+
+
+^(oj, «2, ««)2 («* «/)2,
+
+
+jest
+
+
+(*) (l, ^(alf «,,... «„)2.
+
+
+Podobně dostaneme
+
+
+(rx, r2, /•„) z/(alf «2, «„)2 [5(«1? «21 «„)]2,
+
+
+kde vS(«1. «2, «„) jest symmetrická funkce čísel «j, «„. Specielně pak jest
+
+
+Konečně ihned jest patrno, jest identicky (rí} r2, /'„ =0.
+
+
+Systém čísel ^^1=^4.^ jest tudíž hodnosti daných předpokladů. Mimo tento systém zavedeme ještě systém rozvojem výrazu
+
+
+Učiníme-li obdobné předpoklady pro ^x,, jako svrchu pro |^., «x-dostaneme systém čísel ť/» hodnosti/; mimo učiníme tento předpoklad. Budiž
+
+
+(c)
+
+
+/=!, ./;
+
+
+při čemž žádné čísel nechť není rovno některému čísel /3/.
+
+
+Pak, užijeme-li označení odstavce předcházejícího (kde pro vyznačení determinantů koefficientů užívali jsme značky pro vyznačení determinantu koefficientů ba, značky můžeme tvrditi dle (6) (L'), oba determinanty
+
+
+(l, ... n)1, ni)l\ jsou nully různý. Rovněž determinant
+
+
+(l, ... «i)J (viz str. 10. vztah («».
+
+
+jest různý nully pro každé větší nebo rovné Neboť tento determinant dostaneme rozvoje výrazu
+
+
+II. ﻿13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rovná tudíž tento determinant výrazu
+
+
+lili l«i?i O2- ^(P""I P/)2 **—n(mt—
+
+
+čehož základě supposic uvedené tvrzení plyne.
+
+
+zřetelem pak tomu, všechny předpoklady odstavce předcházejícího jsou splněny, můžeme psáti
+
+
+signatura d+k -j- signatura signatuře (ct+k -\- dt-
+
+
+Budeme tento výsledek psáti také tomto tvaru signatura
+
+
+***
+
+
+signatura --"" -=-
+
+
+
+
+
++...]
+
+
+
+
+
+signt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+•!•
+
+
+
+
+
+Odvození jest vázáno nerovniny (c). Toto omezení však jest zbytečné. Neboť opětným použitím tohoto výsledku zjednáme snadno.
+
+
+_A_ -j- _J?_ signat.
+
+
+
+
+
+[l* ***
+
+
+-f- signat.
+
+
+«/,
+
+
+signatura
+
+
+při čemž první znaménko součtové vztahuje všecky reálné hodnoty «/, druhé pak znaménko součtové páry komplexních sdružených čísel ctk) toho plyne ihned, pro platnost rovnice (d) netřeba, splněny byly nerovniny (c).
+
+
+Abychom tudíž ustanovili signaturu výrazu (a), stačí ustanoviti signatury výrazu
+
+
+fťj Tyto signatury jsou pak dány počtem změn znaménkových řadách
+
+
+-fis* ^i^(ai «2)2
+
+
+II. ﻿14
+
+
+První řada jednu anebo žádnou změnu znaménkovou dle toho, je-li záporné kladné; druhá jednu změnu znaménkovou, jsou-li rovněž L2) čísla komplexní sdružená. tak máme tuto větu:
+
+
+Signatura výrazu
+
+
+
+
+
+
+
+
+němž čísla a/, jsou vesměs čísla různá němž každému páru hodnot komplexních L/., «/, nacházíse pár hodnot komplexních sdružených L//, jest součtem počtu párů čísel «L, a/,- komplexních sdružených počtu záporných příslušných reálným «/,.
+
+
+této věty snadno dostaneme různé Sturmovy funkce. Tak označme
+
+
+«/'-|- ""2*
+
+
+položme nejprve Š// máme větu: Signatura čísel aik—Si+k nám udává, kolik jest mezi čísly KI) «2, párů čísel komplexních. Položíme-li dále «j, «2, «„, dostáváme, signatura čísel a,-;, .$•/+/•— nám udává počet párů čísel komplexních zvětšený počet čísel reálných negativných číslech ix1} «2, «„. Položíme-li
+
+
+
+
+
+
+
+
+""1'
+
+
+
+
+
+bude signatura funkcí «z-/t x,- rovna počtu páru čísel komplexních mezi čísly alt zvětšenému počet reálných čísel a/, větších nežli Stanovíme-li tuto signaturu řady determinantů
+
+
+
+
+
+*»! ""S
+
+
+dostaneme řadu původních funkcí Sturmových, patřících výrazu «2) «„); násobíme-li členy řady výrazem (Jf «!) (^T «2) «„), bude prvním místě tento výraz, místě druhém bude jeho derivace, dále rozvineme-li determinanty známým způsobem, obdržíme funkce Sturmovy tvaru, jejž jim dal Sylvester. Zvolíme-li konečně
+
+
+S"" S"" C	\, ^_1
+
+
+	S„-i,S„,...S2,t-2
+
+
+obdržíme čísla
+
+
+A'—«/,,
+
+
+í,- /,_i, jichž signatura jest rovna signa-
+
+
+II. ﻿15
+
+
+túře čísel «#• Dostaneme opětně řadu funkcí Sturmových tvaru, který obyčejně odvozuje použitím forem kvadratických Stur-movy funkce.
+
+
+
+
+
+Výsledky odstavce předcházejícího lze zevšeobecniti hledáním signa tury, jež patří výrazu
+
+
+t=l, fi.
+
+
+pro tyto výrazy platí vztah, jsou-li čísla fi/, čísla vesměs různá,
+
+
+\i=l, ... ,u; \k—l, ...
+
+
+jak stejně jako analogický vztah odstavci předcházejícího lze dokázati. Následkem tohoto vztahu ustanovíme snadno signaturu výrazu (é) signatur výrazů jednak tvaru
+
+
+*\ř ...-*—-,
+
+
+---- S----
+
+
+kde L0, L,«_i čísla vesměs reálná; jednak tvaru
+
+
+
+
+
+=11 bl;«—
+
+
+F^T«-T« ^_„v«~r (jzr^yj tCjj uiJ
+
+
+
+
+
+
+
+
+
+
+
+_(_
+
+
+S~2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kde «1; jsou čísla komplexní konjugovaná rovněž čísla |u-, Šzk\ 0,1, ... ;«—1.
+
+
+Při výpočtu signatur těchto výrazů pomocí řad tvaru (2) jest nejdůležitější člen poslední; neboť tento nás poučí, použijeme-li věty (III.) tom, kterých číslech signatura závisí. Nejprve lze tak ukázati, signatura nemění, položíme-li -f- rozvineme-li řadu dle
+
+
+II. ﻿16
+
+
+klesajících mocností jest tudíž signatura patřící (/) rovna signatuře patřící
+
+
+_Sq____(_ _]_
+
+
+pak jest dána řadou, jejíž poslední Člen jest determinant
+
+
+tn—li S»«— •••
+
+
+L„;
+
+
+
+
+
+
+
+
+---
+
+
+,«(»/ -1)
+
+
+Determinant tento nezávisí L,„_i, L,„_2, nezávisí tudíž nich též signatura můžeme tudíž položiti L„, |,«_2 volíme-li ostatně vhodně řadu hlavních subdeterminantů, dostaneme členy těchto číslech vůbec nezávislé. Máme pak při sudém řadu
+
+
+____
+
+
+
+
+
+bfl
+
+
+tedy celku ----- změn znaménkových; při lichém pak /;/ obdržíme řadu
+
+
+
+
+
+tudíž----- —'- změn znaménkových, jestliže kladné —5-
+
+
+změn,
+
+
+jestliže záporné.
+
+
+pak tkne posledního členu řady určující signaturu výrazu (g) snadným počtem seznáme, jest rovný, nehledíme-li numerickému činiteli ÍiQ*Šaom(at U*Y'""*- Můžeme tudíž zvoliti čísla |n, Li,„_i, libovolně, rovněž komplexním číslům L10, můžeme přisouditi jakékoliv hodnoty, jenom když |10 L20 jest různé nully. Volíme tato čísla tak. aby výraz (g) byl rovný výrazu
+
+
+_-_4_ ..+
+
+
+c-2»/ ^2;« -j-
+
+
+Pak ~c3 =L2,„ ř2,« determinant (l, ... redukuje determinant 2w-tého stupně, jehož členy vedlejší diagonále jsou vesměs rovny jedné, levo diagonály vesměs rovny nulle. Příslušná řada dává změn znaménkových.
+
+
+Máme tudíž větu: Signatura výrazu (é] jest dána číslem
+
+
+
+
+
+udává nám počet negativných |/0 patřících reálné lichému zmenšen počet kladných |z0 patřících rovněž reálnému «,- lichému ;//,.
+
+
+II. ﻿17
+
+
+VI.
+
+
+Výsledky odstavce předcházejícího lze ještě poněkud rozšířiti. Nejprve povšimneme okolnosti, signatura výrazu (e) lineárnou substitucí, která nemění tvar výrazu toho (ca, není rovno nulle),
+
+
+
+
+
+determinantu bc^O nemění, jak nás okamžitě poučuje věta signaturu tuto určující zcela snadný počet. zřetelem tomu lze pojem signatury rozšířiti pro řady tvaru
+
+
+c-n c-v zs™-^. -K>*-K-hy-
+
+
+požadavkem, aby pro tyto řady signatura zůstávala nezměněna lineární substitucí kladném determinantu. Avšak užijemeli výraz
+
+
+C_,„ i5'"" -j- C-.,„ 2Z'""-'í -{- L<, 4""
+
+
+•substituce (//) volené tak žádné čísel ca; nebylo rovno nulle, dostane mnohočlen před znaménkem součtovým tvar
+
+
+kde číslo totéž znaménko jako číslo L•_,„ Přispívá pak tento
+
+
+výraz celkové signatuře obnosem jestliže jest sudé; jestliže pak
+
+
+
+
+
+//i jest liché, obnosem —-— kde -|- jestliže C-,,,, jest kladné,
+
+
+jestliže c—m jest záporné.
+
+
+Jest jasno, vztah (ti) platný zůstává pro pojem signatury takto rozšířený. Polynom ovšem jenom jednom sčítanců smí vyskytovati.
+
+
+VII.
+
+
+Signatura racionálně funkce vyjádřena jest pomocí determinantů '/• koefficientů f/-j-*. Tyto pak jsou dány jako jednoduché funkce čísel a,-. Jak takové determinanty upraví, aby nich vyskytovaly koeficienty a/,, />/,, koeťficienty polynomech vyskytujících jmenovateli čitateli racionálně funkce
+
+
+*>«z""-\-bi s""-1 H-^-T^-4-^
+
+
+II. ﻿18
+
+
+jest známo.*) Při této úpravě vznikají determinantů c,• ./• determinanty a/,, bk, avšak dvakrát vyššího stupně. Chci poukázati jednoduchý způsob, jak takové determinanty proměňovati, aniž bychom zvyšovali jich stupeň. Při tom stačí přeměniti, abychom dostali řadu určující signaturu, jediný determinant determinant hodnosti n-té (předpokládáme, oba polynomy čitateli jmenovateli nemají společné míry O). Zvolíme tomu determinant nejjednodušší hodnosti, totiž
+
+
+
+
+
+c±, cH.
+
+
+-J-
+
+
+Tento determinant lze přeměniti pomocí vztahů
+
+
+ci, -f- ~\-\-&tCk 2-\- -\~ (ik />/. /•=
+
+
+Přičtemež tému sloupci násobenému <70 sloupec 1-vý násobený et1, sloupec 2-hý násobený a^, sloupec prvý násobený a,•_ dostaneme sloupci /-tem tyto elementy
+
+
+:.,
+
+
+
+
+
+Přičteme nyní /.'-ternu řádku násobenému řádek 1-vý násobený aít řádek 2-hý násobený a.2, řádek prvý násobený a,. _1% obdržíme jakožto element řádku /ír-tém sloupci tem
+
+
+//,--j.X' 4""
+
+
+kde
+
+
+Jest patrno výrazů napsaných, yJ/,/ jest symmetrické yí/,, AU, což plyne ostatně také toho, přeměna determinantu
+
+
+Viz př. Hurwitz, Math. Annalen, sv. 46, str. 281.
+
+
+II. ﻿19
+
+
+dala stejně vzhledem sloupcům řádkům Poněvadž pak determi nant zůstal symmetrický, udává dle věty str. determinant
+
+
+Altl A,, AHU
+
+
+kterákoliv řada jeho hlavních subdeterminantů znaménky svými (stáno-víme-li dle předpisu odstavce 1.) signaturu zlomku (/). Jest obvyklý tvar resultantu racionnlných funkcí celistvých
+
+
+jak němu dospíváme methodou Bézoutovou.
+
+
+výsledku tomuto lze připojiti poznámku, opírající to, re-sultant ten nemění, zaměníme-li b/, :rr ;/) jestliže současně dáme všem b>, (anebo všem n/,) opačné označení. Jest tedy
+
+
+sií>nt.
+
+
+Vztah tento nás poučuje, můžeme signaturu podílu dvou racio-nalných funkcí ustanoviti postupným dělením, přicházíme tak větě Sturmově původním tvaru. Položíme
+
+
+/(*) t/l (*)
+
+
+./i (x) —f, (-r),
+
+
+(v\ (r\__/"" íV*1
+
+
+V-1 7:i \~}J& \-1) \*Ji
+
+
+f,- (.i-) (/,. (x\f,- (x). /',. (x) Konst.
+
+
+Pak jest
+
+
+_/_(_L)
+
+
+signt.,/, (.t-) siKnt. ('l;| '1= signt ,/,(*•) signt. ^(í-Vj- sig L./2
+
+
+signt. </, (.r) signt. ^(.r) signt. qr(x\ kde signaturu jednotlivých {)odílň určiti jest pravidlem odstavce (VI).
+
+
+II.
+
+
+

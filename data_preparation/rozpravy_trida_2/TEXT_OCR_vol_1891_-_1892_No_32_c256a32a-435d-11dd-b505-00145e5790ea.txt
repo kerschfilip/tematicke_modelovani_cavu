@@ -1,0 +1,600 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ   AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMÉNÍ V PRAZE.
+ROČNÍK I.
+TŘÍDA II.
+ČÍSLO \\±
+POZNÁMKA
+7
+THEORII INTERPOLACE.
+NAPSAL
+M.   LERCH.
+PŘEDLOŽENO DNE r». LEDNA is;»-_>,
+^V     yv^*; -^ v-* %J
+***3$> •   •*
+ž^r> •••-'-• ^ ^ í^ >
+0          -K7ř
+-
+-
+
+V 1'RAZE.
+NÁKLADHM ČKSKÉ AKADEMII- CÍSAŘE FRANTIŠKA JOSEFA
+PRO Yl':nV, SLOVESNOST A UMĚNÍ. ﻿TtsKHM J. OTTY v PKAKE. ﻿1. Budiž
+* -
+-f- . . . -f- tf„_
+libovolná  celistvá   funkce   stupně   //,./-„, x{ , ,/Vg ,. a utvořme podíl determinantů
+(1)
+/'
+/•    r   ~
+•'o -f/o   ••••
+xn    pak   libovolné veličiny
+1    r     T   ~         í*
+' O '' O    * ' '   ' O
+1,7*      /y*     —               .y    i
+«'   |    '      \        •••«*!
+•          •
+l .rh .r/,2... xf
+Násobímeli sloupce determinantu v čitateli po řadě čísly <?„, tf„_i, řř„_j, ... a (/dečtemeli výsledky od sloupce posledního, zbude determinant
+1       -y        sp    '2               ~>    h        '///'""           /l      T     K   — l   •                           /7          l    7*    ''
+'•'O'1   O     »*••*•               »''(»•   O                   l      »                                              ««--«*' O        '
+kde jsme se omezili na vyjádření prvního řádku. Odtud pak obdržíme
+n     li '   í                            N           V
+t      l     f*         />»                         •»       l     -^——         »        /•*
+^'  °'     '  '••••//'1       ^J   '7""
+W — a
+...«
+i     „       ~   2       r  /i
+- 5 **o ' ao   >•••*!
+Jednotlivé   členy   posledního   součtu   jsou   celistvé   souměrné   úkony   veličin ./•«, x. , x„ , . . . ./•/,, jak brzv ukážeme.
+•        • *                        j                    *
+Rozvinemeli čitatele podlé prvků posledního sloupce a vyjádřímeli jmenovatele rozdílovým součinem, obdržíme po zkrácení
+./'| )  (./'n
++
+F (.»-,)
+-i-
+,
+T / k.
+••
+-0) (a-/i — ÍT,) . . . (r/, — -Oi -i) z čehož plyne jednoduchým výpočtem vztah
+l WP§ « •''] • • • • •''/»     1 1
+— l (-^A » !Í>i i • • • -ř'/i — l I
+který sloužiti muže k rekurrentnímu stanovení funkcí 1</,. Máme tu postupně
+F
+V
+*» ﻿Volímeli F(x) = xn , bude tu postupně
+O
+=n
+obecně
+- v v
+— * — 2
+— O , l , 2
+*
+
+čili explicite vyjádřeno
+\t
+l./-,./,*--- 'i
+y»       Qr»      —                   />•
+'* O '' O     '  '  • tf O
+H
+.r/, ./•/,'•------11//1
+	1 T, /* 2 J l'-|l**ffc •••**	o'1
+•	l t * i * * l ...^	. //
+	1 r/ TI ^ 1 I ./ /í c*//J . . . «^	V1
+v^
+m       •/•   '<((    >•    fí i                 /v»   ř""t
+7j -'o      r l      •••«*•
+i
+Vzorec tento dlužno považovati za zobecnění elementárně rovnice
+>» •'
+o
+O
+X
+O
+n — l
+. » •   2 r      l           T n
+0         """"l         ' ' • '  l
+Veličina (5) v právo je patrně  celistvá souměrná funkce  veličin ,rrt ,.r, ,...;/•/,, rozměru ;/ — // ,   a totéž platí následovně  o výrazu (2),   který tedy lze psáti :
+( 2*)
+'0 , .r, , . . .
+1\  Z rovnice (4) máme
+\ /
+O'o — *i) y/« Cro
+1 (^1 5 ^íž)     l     (^0        *
+a
+a
+<*!, — n--h)
+••••*•
+Násobímeli tyto rovnice po řadě l , ./•„ — r, , . . . (.r0 — xv ) (x0 — ocz) . . . (.r0 — XH _ i ) , . . . a sečtemeli výsledky až k // = in , obdržíme
+(r0 — arj Fl (.rt , a?a) + (ar0 — a;,)
+i                      • . •          „ — X\) Cro — ^2) • • • (^o - xm     \
+\~ \*^*o — 3'i) (xtí      X*) . . . \.Ty •   • xmj rm (xo , X} , . . . xm) .
+Jelikož při odvození vzorce (4) nepotřebovali jsme předpokládati, že /M./) je celistvá funkce, nýbrž může F(x) ve vzorci (1) znamenati zcela libovolnou funkci, platí také vzorce (1), (4), («) zcela identicky, a máme takto z («) pro libovolnou funkci f(x) Newtonův či Gauss ftv interpolační vzorec
+f(x) =f(xl) + (x — xí)/l (xl,x,í)-}-(x — xl)(x — xtl}ftl (x^x(1,x3}
+-}- (X    — Xt ) (X — Xq) (X        X3 ) /3 (Xi , Xtl , #3 , X4) — (- ..........
+— p (X - Xt ) (X - X^ ) . . . (X        Xm — l J J m   - 1 (^i > X% , . . . Xm ) (X        X^ J (X        Xq) . . . (X      • Xm) Jm \X i %\ > Xt^ , . . . Xm) ,
+který   zobecňuje   známý   t.   zv.  vzorec  Taylorév%   jenž  odtud   vznikne  pro
+(6)
+X
+m • ﻿5
+Poslední člen (x — #,)...(# — xm} fm (x , .r, , .r„ , . . . xm) = Rm se při interpolaci vynechává (poněvadž právě neznáme hodnotu funkce f(x) pro libovolné místo) a zove se zbytkem interpolačním. Jedná se o sblížené udání chyby, jaké se dopustíme vynecháním zbytku Rm .
+K tomu  účelu  užijeme  následující d&lešité vety. Utvořme funkce rozdílové
+(x) ,     . A r (x] = F (x) — F (x — S) ,      A* F ix) = /l F (x) — A F (x
+. . . AkF(x] = A*-* F(x] — ,/*-i F(x — f) , . . . ,
+kde <2- je reálná veličina kladná neb záporná. Pak zní míněná věta následovně: M i žil i   reálná   spojitá   funkce   reálné  proměnné  J: (x)   na   n -\- l    mi stec Ji «„,«,,... «.n , pak lze ustanoviti dosti malé L tak, aby též n-tá funkce rozdílová /"" F(x] zmizela na jednom místě uvniír interval l u (rc0,«,,... «„) .*)
+Této věty užijme nyní při determinantu
+l z z'-         ~M  ft^ 1 * *    .». *   j \~>j
+1/y*    y +*              yfl     Ý  i 'Y* i
+»*/    \Ms         •   •   •  iC'        /    l «A/ /
+A \                                                     JS (>-\ -----      l  ,f    ,.   í!         v n fi f \
+\ L»/                                                                   Vy                ii'i''l...-A'i/(.íyii
+ÍP» O.'  '. , . ./' ""/""(.r   '
+tento jest reálnou funkcí proměnné ^' a mizí na n-\-\ místech: x, .r,, x„,... xn ; musí tedy uvnitř intervallu omfezeného největší a nejmenší z právě psaných veličin existovati hodnota z, pro niž .•4nF(s) = 0, t. j. pro niž
+00   O   ...     O     ;/!i» ./»/U)
+0;
+l X  X*  ...   X*~l   Xn       f(X)
+r,./-,8___i-,""-1.*-,'1    f(x})
+1^»     /y>    2                 /y»    W -----  l     >»    W
+** njn    • • • ** ;r        «* n
+řešením dle .-lnf(z) plyne odtud rovnice
+l x x'2 ... xn~ ' f(x)
+Ir   /• -       r "" — 1 ** i •' i   •••.',
+l .r
+o
+l   • •
+./ • ,r
+2
+n
+1   r    r  -
+*  •* ř/ '< 72
+čili dle (l):
+Jn \t* j
+takže zbytek v řadě ((>) zní
+•
+i
+^
+(,ť — J
+.
+W ! L
+l t>«
+^) Najisto platí veta pro nekonečné malá 5, jsouli derivace a/, ku //-té včetně konečný a spojitý.
+IÍIJ7 ﻿(8)
+Vzorec (7) vyjádřen ve tvaru explicitním dle (3) přejde v následující
+/(*•)                   _
+A*   ) (
+J n
+(/v»____    /*     l       í W     _____  1""     l              (ff*      ——   't*     \
+•«/! ; . \ i* |          ** 2/ ' * * V    l               M
+______/&)______
+\         /                 \
+•      •••••••••••
+->*
+*
+n
+•                        nr
+• • •    i/
+W
+který   není   nic jiného   než  známý interpolaČni vzorce Lagrangcítv  s  udáním zbytku.
+Z toho plyne zároveň, že interpolace Newtonova a Lagrangeova jsou stejně přesný, majíce vždy týž zbytek; jsoutě v podstatě totožný a liší se pouze formálně.
+Předpokládámeli, že funkce f(p) a její prvých ;/ derivac jsou spojitý na mezeře (#, x\ ,#2,... x„), pak plyne z okolnosti, že determinant /*""(«) mizí na n místech #,#,,....*'«, že též w-tá derivace jeho zmizí na určitém místě z řečené mezery;*) z toho obdržíme podobně jako výše vzorec
+/«
+n\
+Zbytky Lagrangeova prokladu a též prokladu obecnějšího ustanovil na základě počtu integrálního poprvé pan Hermite.***)
+3. Lagrangeův vzorec interpolační byl zobecněn panem Hermitem na uvedeném místě, a po té způsobem elementarným bez udání zbytku panem F. Gomes Teixeirou.***) Neli k týmž, tož aspoň k analogickým vzorcům bychom dospěli následujícím způsobem. Utvořme determinant
+1~       ,-*2         ^3                        r*n             f   (*A
+z    **        «        • • •       ""         J \"")
+1/y»        /y* *í  J\
+O
+(A-)
+2
+2
+1O Q      2
+* _/        1
+W
+' í    .'   o
+'/*(*,)
+/W 'f
+*) Srovnej H. A. Schuar/, Dcmonstration élémentaire ďune propriété fondcimentale děs fonctions interpolaires. Atti della K. Accademia delle Scienze di Torino, vol. XVII, IH82. Aneb: (iesammelte math. Abhandlun^en, II. l Jel. (Berlin, J. Sprinter, ISÍiu) p. ,*i()7.
+: :) Journal fůr die reine  und angeuandle Mathematik, sv. 84.
+'-::;:'::')   Mémoires  de la Societě royale   dc Sciences   de   Liege,   2.   řada,   X. sv.    Courso de Analyse infinitesimal, I, 2. vyd., str. 206.
+668 ﻿jenž vznikne z determinantu (A) tím, že se určitý počet řádků nahradí derivacemi prvými, druhými atd. řádků ostatních. Vyskytnou se takto v determinantu v posledním sloupci prvky /(#, )./'(>,) ,. - •/(V|~1)Ori) ;/(#«) »/'(#«)» yi^-1)^) ;... a součet indexů '',-)-'^ ~h ••• bude roven ». Předpoklá-dámeli, že derivace funkce f(s) jsou v intervallu (x, #, , rr2 ...) spojité až po //-tou, pak je z determinantu patrno, že /<' (s) mizí na z = x jednoduše, 1ia s = %! «,-násobně, na z = x,, «t*flásobné, atd., takže známe celkem ;/-f- l míst míliových, z nichž některá se kupí v mnohonásobná. Z toho pak plyne, že 7/(M)(~) zmizí aspoň na jednom místě z uvažovaného intervallu, z čehož se obdrží rozvinutím ;/-té derivace determinantu (A') rovnice:
+1/y*       /v-*           /v""»
+tX/      »*/              tAV
+IQ             .1
+/v*       /y*     •*      .•v*    <J
+•A/ *       *// •           tA/ l
+l        l      l
+01       C\              fc>             <>
+V  ?        k  T    -
+J         ^W   «*   |      • /   *A/ l
+l 2',, ^r,,
+xn—l	/(*)	
+X n""1	/(./:,)	
+- l).r,»-	V C'',)	• •
+. •         •         • 4*  * — J •   o	/W	
+•         •        •	•                •                •	
+I                        M                 1                                               *t
+/•v*     /y»^            /y»O                                     .'Tt
+tA/      tA/                   tAV               *    •    •                   tA/
+1/yt       /v»     X       /y»     tJ                                      /y»     W
+»A/ |     *A/ l            t^/ *             •     •     •                      lA/ l
+9 ^   o ~ a             ^  w — l
+-—    »A/       fj   tA/  •         •     •     •     f t    \*    l
+1/y»       /y»     1>       /y*     J • ' i>   i< i *          »*yO
+W
+n\
+ktf.rýžto vzorec právě obsahuje míněné zobecnění interpolace Lagrangeovy, takže zbývá pouze rozvinouti levou stranu, aby se obdržely hotové vzorce, což pro nedostatek času pomíjíme.
+Uvedeme zde ještě poznámku, která nám přišla na mysl před pěti lety při studiu citované práce pana Hermitea. Týž uvádí ve svém pojednání vzorec, jejž lze takto psáti:
+' (-u) 4. ř/,2 (//) p
+(//) /*"" (o; + /O *'(*) (a;
+»
+/i) +
+kde   </>, , </>2 , . . . ř/J2A-  jsou  výrazy  závislé  pouze   na  // ,   nezávislé   na  povaze tunkce /''(#)> a zbytek A^- zmizí,  klademeli za J^x) polynom stupně 2 k.
+Jedná se o tvar funkcí 0, které se obdrží specialisováním funkce F\ volíme právě za l1"" polynom stupně 2/', aby Rk odpadlo z rovnice. Zname-námeli . 1 F(x) = F(x -\- //)
+mme rovnce
+- : l
+V — k -{- l
+669 ﻿8
+Vyloučímeli / těchto rovnic veličiny l^(k '• l)
+obdržíme
+(10*)
+VI     //''
+^(*)-I ,,
+//•M
+/ /••' (x)
+r '--- 1 A-     1
+V
+'
+r
+.-     1 A-     -2
+//•""(*)-S
+r        1
+rl
+//•' rl
+A*
+X- !
+AA- - 1
+1)!
+'
+.)
+•     i):
+•        *        •        •
+./y^'*)(.i-)
+L!
+
+O
+Z tohoto determinantu lze vypočísti AF(x) jako lincarnou homogení funkci veličin /-''(.r), /«"""" (JF) ,... /«'(*) (x) ,Ff (x -\- //),... /''<*> (ar + //), právě tak jak udává vzorec (10) a proto obdržíme identifikací koefficientů hodnoty veličin '/'.
+Vše tedy záleží na stanovení determinantu
+o
+h_
+l!
+2!
+3!
+.
+2!
++ 1
+31
+4!
+""       >&!
+_i*±i_
+••(^'+1J!
+*«*
+?+2)!(/t + 3)! K jeho vyčíslení vede studium determinantu na pohled speciálního
+(11)
+k\
+//
+l!
+2!
+JČ k\
+- ,
+o
+('/'--!)!       2!
+3!
+2A-
+0*
+který lze psáti při označení C» =
+,,,       (a
+takto:
+v/7-- ﻿kde symbol />'///* značí «tou derivaci funkce W, tedy
+= /? ( /? — 1) . . . ({i — a -f- 1) ///»-« ,
+a zvláště
+Tento determinant se však obdrží z vvrazu
+u
+X
+/;T*   ' A*-f... AL-
+l                          '   -                                          k
+r
+•*
+A- -
+o
+substitucí
+•Asf          -        .     .    .
+/
+o
+bude Tí^~
+A     *      —   *     •     •     .
+nutém výrazu  Ck *ís (x0 , h -f-
+T 2A-
+•   i
+i
+sí/V
+//; klademeli tedy
+2A-
+ď/n    ... X k
+2A-
+= 0,1,2,. . . A-
+se součiniteli   při f
+v rozvi-
+,//-["" f 2 »•••/* -f- ^A) - Poněvadž ale
+[J
+př = l ,2,3,...
+l    ,   —   ,   O   ,   .   .   . \
+•>   S               / '
+-^  » *' t • • •         /
+musí každý člen v rozvinutém výrazu této funkce obsahovati jakožto činitele jeden člen rozvinutého součinu // (LH — L/>•) , jenž jest rozměru l-\-2-\-...-\-& — l . Tudíž náleží člen o součinu L/"" l L§*""""*•••L** k členům stupně nejnižšího a obdrží se, když se tento člen ze součinu // (Jja — f/v) s náležitým zná-
+měním vyjme a znásobí veličinou,  již z ostatních činitelů   obdržíme substitucí s i = L2 = . . . = LA- = O .   Obdržíme tak
+A-(A--l)
+o
+1)1
+(— 1)
+čili
+(11*)
+O
+(
+,. A-
+M
+Determinant ./ jest linearnou funkcí veličin aa, jejíž členové přejdou v rňznc
+jr k + a členy funkce .-/„ substitucí  aa =                ;   z toho   plyne,   že  determinant J
+(Á.- -[- m) l
+Rozpravy.  Ročn.  I. Ti    II. Č. :«.                                                                                S
+671 ﻿10
+obdržíme,   když v rozvinuté funkci (11*) nahradíme veličiny x0k + a veličinami (k -\- «)! an .   Nacházíme takto vzorec
+(12)
+h a°      1!	2!      '	//fr ""      >&!
+""'       2!	3!	••(^+1)1
+r> i	hk -|- 2	//**
+(k + 1) '	(L + 2)! '	'•    (2^)!
+(-1)
+i
+l! 21... (*—!)!
+*!(*-!-1)1... (2*)!
+-frr) !«„
+Hodnota determinantu (H)a) se obdrží, klademeli zde
+k — a
+-y
+r!
+takže rovnice (I0a) zní
+i
+<7 ==
+f ) (**-*)!*
+Jí
+o,
+z čehož následuje porovnáním s (10)
+(2 X')'-
+
+Klademeli ve vzorci (10) x-\-/ť za #, —//' za //, vznikne
+z   čehož   plyne   '/'«(//)
+'* 4. „
+ted>-
+máme dosazením do posledních výsledků jednak
+
+= (- 1)"" + ' *. (A)
+jednak ale obdržíme též následující vzorec arithmetický :
+2/é
+(7
+! = (-»)• (!)(«*-»)!
+čili elegantněji vyjádřeno:
+
+
+•••C) ﻿11
+Vzorec ten lze též vyjádřiti větou, že součinitel při x"" v rozvinuté a spořádané funkci
+iá hodnotu  ( — !)*(,)•
+Vyjádřímeli součinitele tohoto integrálem
+(0)
+obdržíme substitucí x
+vzorec
+(13')
+l
+sináA""
+—• l   v   l i
+t
+o
+4.   Taň  l var Bendixson   ve své zajímavé práci   Extension a 1'infini   de la formule ďinterpolation do Gauss*) užil identity
+l
+l
+X
+a,
+X
+a
+o
+) (.C • — <7, ) . . . (X
+(*-«
+(X---- tf0) (X----(1, ) . . . (X---- <7„)
+(ff___St  \ (9 ____ /y    t           ( f ___  /»
+**          'O * V*              J /  ' * '  \~'
+následujícím způsobem: Značili /("") funkci mající uvnitř jistého oboru omezeného čarou .S' povahu funkce celistvé, a neležíli na čáře .S"" žádný z bodu <70 ... tf„, #, kde aspoň x leží uvnitř oboru (i""), pak násobme poslední identitu /""(-) '/^ a integrujme podél .S'; tím obdržíme rovnici
+(14)
+kde
+f(s)
+Al (x —
+-f-
+^2 (x
+— <*,)..- (x
+(x
+dz
+n
+(jr — í/0) (z — 0,) . . . (f —
+
+]     f  (.r 2 ni J   (x;
+ae   x
+a„)
+x
+snadno ukážeme, že vzorec (14) splývá se vzorcem Newtonovým (l V), jestliže všecka místa a9 , <?, , . . . an , .ť leží uvnitř (^) . Neboť za této podmínky integrály Av, I\n jsou spojité funkce veličin <f0 ,//,,... an , j; , které se mohou uvnitř (S) libovolně pohybovati. Poněvadž ale
+f(s)
+(
+r
+;:) Acta mathematica, sv. í).
+073 ﻿1°
+K  v*
+mamě
+Av (a
+v    \
+""4-1
+o
+kromě toho jest A0 (a0) =f(a0), a odtud soudíme, že bude
+""
+\  __    /•   /                        \
+Vzorec interpolační (fi) resp. (14) redukuje funkci f(x) na funkci celistvou; můžeme ale též utvořiti obecnější vzorec interpolační, kde se interpolovaná funkce nahradí výrazem racionalným lomeným. Tento obecnější vzorec interpolační bude generalisovati theorém Laurentův právě tak jako vzorec (6) zobecňuje větu Taylorovu.
+Mějme v rovině věnec (S) omezený dvěma uzavřenýma čarama, vnitřní „S"",, a vnější St ; f(s) bud jednoznačná funkce mající na (S) povahu funkce celistvé a znamenejte! bv , b^ , b.A ,... místa položená mimo (S), jinak libovolná, ^o ' a\ > a*t ' • • Pa^ body zcela libovolné, z nichž žádný neleží na čáře «S*t. Tu pak bude
+•
+dz
+— x
+(S)
+kde   integrál  je vzat   v   kladném   směru   po okraji oboru (S)   a tedy   sestává ze dvou částí:
+/(*)
+
+) dz
+) dz
+n
+s,
+V prvém integrálu  nahradme
+
+l
+X
+2 ni
+z
+X
+X
+výrazem   (a),   v němž  pišme
+místo <?0 al . .., v druhém pak užijme vzorce
+(ft
+l
+l
+X
+bl        (x - - b^) (x
++
+(x
+\      \      '  *  *
+(x
+... (x
+i obdržíme tak hledaný vzorec interpolační
+(15)   f(x)
+(X — rtr,
+(a?
++ /V+
+(a;
+kde položeno
+Av =
+/W
+(
+
+<J74 ﻿13
+R
+m, n
+ívt
+tni  J
+/-*
+(s —
+l     f (a; — a,) (a; — a,
+'lni J  (s — «,)(L—- <*«]
+\
+;r
+(a? — L, ) (át
+(
+
+...(*
+. . . ář
+dz
+a;
+a;
+Máli /("") povahu funkce celistvé také uvnitř čáry Si}, zmizí patrně všecka takže vzorce (lf)t lze s výhodou užiti pouze při funkcích, jež mají uvnitř místa zvláštní. Jestliže dále funkce /(^) má sice uvnitř S0 místa zvláštní, ale máli ve všech bodech zevně S0 (a jeli konečná pro z = oo) povahu funkce celistvé, bude patrně Av = A„ = A^ = . . . = O , takže celistvá čásť pravé strany se redukuje na konstantu. Nejdůležitější částí interpolačního problému jest ovšem vhodná volba veličin #, b, tak aby zbytek Rm,n byl co možná malý.
+Leží  na snadě,  jak třeba  voliti   veličiny tf, b  v počtu nekonečném,   tak aby   ve   vzorci   (15)   bylo          lim         Rm,n = O ,    t.  j.   abychom   obdrželi
+m — co , n= co
+pro f(x) nekonečnou řadu, která právě zobecňuje větu Laurentovu;  tím není ovšem řečeno, že by úkol ten byl vždy možným. Ukážeme to na příkladě, kde
+
+a
+v
+v
+A,
+qv , <7~2'
+qn'    v , . . .
+b.
+n
+při čemž q značí komplexní veličinu absolutně menší jedné.
+Za čáry aby   body
+volme kružnice
+o
+r
+,); podmínka, í\ ,   tedy
+v
+vv   ležely   mimo   rnezikruží,   vyžaduje q r^   . Volímeli kromě toho \ v  < /', , pak také žádný z bodů a neleží
+na kružnici vS\ .   Zbytek Rm,n zní v našem případě
+m, n
+M n
+.'     .,-.~n
+____   /*«
+**/
++
+
+l — 4""      fis} dz
+A          |»         /     V*""*   '    **"" ***
+7      - r I    — '
+a tedy přejde pro m
+oo , ;/
+oo  ve tvar
+CXD
+.
+111«
+675 ﻿Následkem toho máme vztah:
+u
+Tl = *\
+oo
+n = — oo
+kde jsme po příkladu Schendelově*) užili označení
+qn
+— V) i X l
+.
+a = l
+...(x—
+a pak zcela obecně
+fl=r,
+i    \n -(- l K     1
+Vzorec (16) zde nastupuje na místo theorému Laurentova, který zde tedy nemá analogie v pravém slova smyslu, poněvadž integrál (10) nedovedeme obecně vyčísliti. Volme jakožto příklad
+f(>) = log
+r
+r
+*
+tato funkce jest jednoznačná v komplexní rovině (z] opatřené řezem (— r...r)\ pomyslná část? její jest na severním břehu o — 2rc /' větší, než na jižním. Volíme pak r0 = r-\-ti, a v integrálu (l(i) možno nahraditi cestu integrační čarou, jež obíhá řez (— r...;-) a těsně k němu přiléhá. Obdržíme tak jakožto hodnotu levé strany (1tí) v našem případě výraz
+rr1-?""-^
+11
+— r
+-l l — a""
+— \                 •*       V
+- X
+
+znamenámeli tedy k vůli přehledu
+00
+máme z (16), uvážímeli, že zde A0
+O, vztah
+(17)
+
+z
+x
+log
+X
+,  _, ••
+oo
+:':) Journal fiir die reine und angewandte Mathematik sv. S4.   Srovnej též naši studii o Schendelově zobecnění mocninových řad. (Věstník Č. Ak. čís. 3.)
+676 ﻿kde
+C
+^n
+«     \«— l   l
+V)     1   l°g
+/a =: l        o
+V »1 •
+cíli
+(17-)
+— r
+a sice  vztah   dokázaný   za podmínek /-< a?
+r
+677 ﻿*"

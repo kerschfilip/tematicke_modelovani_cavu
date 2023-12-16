@@ -1,0 +1,407 @@
+"","x"
+"1"," ﻿ROČNÍK VII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+součtu celých lomené arithmetické posloupnosti
+
+
+druhého stupně jeho souvislosti počtem tříd záporného diskriminantu
+
+
+Sdílí
+
+
+(Předloženo dne 17. ledna 1898.)
+
+
+theorii Gaussových součtů dokazuje vzorec
+
+
+2a'»«.-ri
+
+
+kterém značí kladné liché číslo celistvé, kladnou hodnotu odmocniny libovolné číslo celistvé nesoudělné ;/.
+
+
+Budeme potřebovati hodnotu tohoto součtu případě obecnějším
+
+
+sice
+
+
+kde sice hoví předešlým podmínkám, ale exponentu čitatel nového činitele fi.
+
+
+Toto celistvé číslo buď libovolné, znamenejme ř/„ jeho největšího dělitele společného číslem Znamenáme-li ještě
+
+
+bude platit vzorec
+
+
+Rozpravy: Ročn. VII. Tř. II.
+
+
+VIL ﻿(i)
+
+
+který sloužit základ následujících úvah. Béží nám nové vyjádření součtu
+
+
+němž arithmetická funkce (x) týž význam jako našich článcích předešlých. Funkce pro všecka nahrazena může býti řadou
+
+
+
+
+
+(2)
+
+
+=*-1+S
+
+
+sin
+
+
+pomocí níž obdrží náš součet tvaru nekonečné řady
+
+
+«—i «—i sin -l—
+
+
+
+
+
+čili
+
+
+Zde součet
+
+
+
+
+
+(a)
+
+
+sin
+
+
+o-O
+
+
+
+
+
+
+
+
+jakožto imaginarná část' výrazu
+
+
+vyčíslí pomocí vzorce (1), sice jest výraz (a) roven pomyslné části veličiny
+
+
+zde značí největšího společného dělitele čísel dále
+
+
+VII. ﻿Podle toho obdržíme tedy výsledek
+
+
+kde
+
+
+
+
+
+
+
+
+
+
+
+Tuto řadu rozštěpme několik jiných, sice každá nových řad obsahovati členy, nichž jest jeden týž dělitelů čísla tím obdrží
+
+
+
+
+
+zde vnější součet vztahuje všem dělitelům čísla ;/, při čemž dd' Aby imaginárná čásť přehledně dala vyjádřiti, znamenejme
+
+
+
+
+
+(3a) dále
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4),
+
+
+je-li (mód. 4).
+
+
+Pak bude
+
+
+aneb vyméníme-lí roli liter
+
+
+jest
+
+
+(4)
+
+
+Zde součet
+
+
+dal sice velmi jednoduše vyjádřiti tvaru hotovém, mně jest však tato forma výsledku milejší.
+
+
+VII. tohoto vzorce základního hodlám nyní vyvinouti některé výsledky ryze arithmetické.
+
+
+Nejprve volím zde bude pak dle rovnic (3a) (3b)
+
+
+(O, pro EEE (mód. 4), ale případě (mód. bude
+
+
+takže výraz
+
+
+co,
+
+
+lze vyjádřiti číslem d),
+
+
+
+
+
+kde symbol 6Y(—d) předešlých článcích vyložený význam počtu třid kvadratických forem kladných primitivních, náležejících danému diskriminantu
+
+
+Dle toho bude, ježto pro
+
+
+
+
+
+
+
+
+(5)
+
+
+[;;/, čísla nesoudělná, liché kladné, (mód. 4)].
+
+
+Volme nyní kladné číslo znamenejme q'2 největšího čtvercového dělitele čísla Veličiny
+
+
+stanou celistvými, je-li číslo celistvé, poněvadž jsou nesoudělná. tomu ale dostačí jest zároveň nevyhnutelno, aby obsahovalo činitele kde Hodnoty pro něž
+
+
+celistvé, jsou tedy ... pouze pro tyto hodnoty výraz
+
+
+VII. ﻿E*
+
+
+liší Legendreových celků
+
+
+sice jest menší; bude lze rovnici (5) psáti
+
+
+
+
+
+
+
+
+*(*=•) ^+5 (Ť)L ""<-*
+
+
+aneb což totéž jest
+
+
+""s (e;r) ==?L
+
+
+[M, kladná nesoudělná, q""L největší čtercový dělitel lichého čísla dělitelé čísla sice EEE (mód. 4)].
+
+
+Je-li zvláště součin kmenných čísel tvaru -\- nebude míti dělitelů tvaru <tf (mód. 4), takže zbude
+
+
+Ía2m\
+
+
+V^ry =~2~
+
+
+Pro ;// obdržíme (5*) výsledek arithmeticky zajímavější. Rozdíl
+
+
+násobený číslem podá zv. kvadratický zbytek dle modulu Klademe-li
+
+
+totiž číslo pro něž existuje řešení shody
+
+
+,r2 (mód. n).
+
+
+Značí-li (^, počet řešení této shody, bude číslo vytvořeno (/^, různými hodnotami řady tedy obdržíme místě (5*) rovnici
+
+
+liché kladné, největší čtvercový dělitel dělitelé tvaru 3).
+
+
+VII. ﻿Tak pro jest dále tři dělitele tvaru totiž 15, 75. jest pak (—3) (—15) (—75)
+
+
+rl5 r75 Pravá strana tedy bude míti hodnotu
+
+
+75.35 75.2 75.2 2300. Čtverce čísel jedné dávají při dělení číslem zbytky
+
+
+16, 25, 36, 49, 64, 25, 46, 69, 19, 46, 31, 64, 24, 61, 25, 66, 34, 51, 25, 54, 34, 16, 61, 49, 39, 31, 25, 21,
+
+
+další opakují opačném pořádku jich součet tedy obnáší
+
+
+1150 2300. Volme nyní vzorci (4) zde bude opět pro (mód.
+
+
+(?/
+
+
+zbývají pouze členy dělitelů </~3 pocházející,
+
+
+pro něž
+
+
+
+
+
+tedy
+
+
+což hodnotu
+
+
+Avšak
+
+
+tedy
+
+
+VII. ﻿Tudíž bude
+
+
+
+
+
+(7)
+
+
+kde dělitelé jsou opět tvaru 4«-|-3. Avšak výraz \~r) m^zl'j
+
+
+tvaru S/čitll., může tedy býti nully různý pouze pro poněvadž hodnoty tvaru neexistují.
+
+
+Výsledek (7) lze tedy psáti takto:
+
+
+Pro ;;/ plyne odtud, součet absolutně nejmenších zbytků modulo čtverců l2, 22, 32, l)2 není záporný, rovná veličině
+
+
+2*2— Cl(—d) (řř mód. 8).
+
+
+Součet ten tedy nullou, nemá-li dělitelů tvaru -j-
+
+
+Konečně položme rovnici (4) Zde obdržíme pro (mód. 4).
+
+
+tedy
+
+
+takž<
+
+
+při čemž
+
+
+Pro </si3 (mód. pak
+
+
+
+
+
+což oddělením členů sudým lichým obdrží tvar konečný
+
+
+VII. ﻿tudíž
+
+
+<ř,
+
+
+
+
+
+i*.*--;
+
+
+'•'•{""'
+
+
+s-*J', ""*•'?•>•
+
+
+což dosazení hodnoty
+
+
+obdrží tvar
+
+
+Dle toho bude výsledek (4) tomto případě zníti
+
+
+.1(2 -(-f-)) ^^-l l-(-§-
+
+
+(8).
+
+
+kde tíř3 probíhá veškery dělitele čísla sice dřj ť/3 (mód.
+
+
+VII."

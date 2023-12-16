@@ -1,0 +1,333 @@
+"","x"
+"1"," ﻿ROČNÍK XX.
+TŘÍDA II.
+ČÍSLO 25.
+O kongruencích parabol   jež připouštějí systém aol ploch normálných.
+Napsal
+Josef Klobouček,
+professor reálky Karlínské. Předloženo   dne   16.  června 1911.
+V následující úvaze pokusil jsem se o rozbor všeobecných rovnic, týkajících se kongruencí parabol, jež Dopouštějí oo1 ploch normálných.
+K úvaze této veden jsem byl Ribaucour-ovými cyklickými systémy, hledaje, bylo-li by možno pojmy ty rozšířiti na kuželosečky vůbec. Po něvadž průběhem počtu naskytují se mnohé obtíže, omezil jsem se na případ nejjednodušší, to jest na kongruence parabol.
+O kongruencích křivek, zvláště rovinných normálných k oo1 plochám, pojednáno bylo mnohými autory. Normálným kongruencím kuželosečko vým a zvláště parabolickým nebyla věnována větší pozornost.
+Velmi jednoduchý způsob, kterým lze vyjádřiti parabolu bud jako element, nebo kterýkoliv bod její jistými souřadnicemi v prostoru, umožňuje vyšetřiti plochy vytvořené ohnisky, resp. vrcholy všech křivek.
+Omezil jsem se na všeobecné případy a přihlédl pro stručnost jen k plochám fokálním.
+Část I. stanoví všeobecný podmínečný systém rovnic, II. pojednává o fokální ploše, III. o kongruencích, jichž fokální plocha redukuje se na, křivku resp. bod; v poslední, IV. části poukázal jsem k některým kongruencím, jichž základní rovnice podmínečné dají se snadno integrovati.
+I.
+Souřadnice kteréhokoliv bodu libovolné kuželosečky v prostoru můžeme takto stanoviti.
+Vytkněme pravoúhlé souřadnice (x y z) ohniska, směr (L 17 L) osy a směr (L' i/ L') řídicí přímky, vzdálenost p ohniska od přímky řídicí a excentricitu číselnou e.
+K o zprávy Roč. XX. Tř. II. Cis. 25.                                                                               l
+XXV. ﻿Zavedeme-li ještě úhel <p, který svírá průvodič libovolného bodu křivky z ohniska vedený se směrem (| v) L) jakožto parametr, jest:
+(1)
+X = x -\- p c
+Y — y -f- p e
+l + c cos
+COS
+C COS ffJ
+Z = z + pc-
+cos
+-f- c cos
+píšíce zkráceně místo cos L pouze L atd., při čemž současně jest V L2 = l, V |'2 = l, V L L' = 0. Vzdálenost p lze vzíti kladně v kladném smyslu (| ^ g), tedy ^> > O a podobně i <? > 0. O případech zvláštních p — O, e > 0; p = oo, c = O, z nichž prvý vede na křivky zvrhlé, druhý na kružnici v případě, že součin p e jest konečný, jednati nebudeme. Omezíme se v následujícím jen na křivky parabolické t. j. c = 1. Zavedouce nový parametr /„ rovnicí
+obdržíme pro souřadnice bodu paraboly rovnice
+2AÉ' — A* L   atd.
+jelikož však
+jest souřadnice vrcholu paraboly, platí konečně: (2)                            X = x' + p A L' — -L- A* |    atd.
+Uvažujíce systém oo2 křivek parabolických v prostoru, volme x', p, |, l' jakožto funkce dvou neodvisle proměnných u, v a hledejme systém oo'"" parabol, jež připouštějí lineárný systém ploch normálných. Systém takový jmenujme systém parabolický obdobně k cyklickému systému Ribaucour-ovu.
+Proveďme známý počet; stanovme funkce
+XXV. ﻿a utvořme rovnici
+Poněvadž jest
+— = Sx'- 4
+3 u        3 u
+a podobně -%—, jest
+berouce v úvahu současně, že
+a podobně i pro derivace dle v. Dále nalezneme,
+ar
+tf_
+T
+lil -4- V r li- «o
+3 7í    '   ^J      3 u
+*' \
+y
+Dosadíme-li tyto hodnoty do rovnice (3), obdržíme vzhledem k parametru A rovnici 4. stupně, která musí býti identicky vyplněna, má-li daný systém parabolický připouštěti oo1 ploch normálných. Odtud tedy plynou po redukci podmínky:
+XXV. ﻿čili
+(""•') (m/)
+zavádějíce při tom jednodušeji znaky:
+?v         ;          3v      ;
+Není-li rovnice vzhledem k A identicky vyplněna, existují obecně 4*) plochy normálně k danému systému parabol; naopak, je-li tento systém normálný k 5 různým plochám, jest pak normálný k oo1 plochám.
+Rovnice předešlé můžeme snadno transformovati na rovnice, v nichž se vyskytují souřadnice ohniska, uvážíme-li, že platí
+x  =
+Derivováním a sečtením odvodíme pro znaky:
+*) Darboux,  díl II.,  str.  272,   uvádí   pro  křivky   rovinné   stupně w.   číslo p = 3 m (m — 1), jež ve zvláštních případech připouští redukce.
+XXV. ﻿pořadem hodnoty:
+«* S*
+kde opět platí symbolicky:
+* ~aY = a'      š/ T^ == fl''      ^ y*T
+Tím obdržíme po příslušné redukci rovnice:
+(v.)
+jimž musí kterákoliv kongruence parabol normálných  k oo1 plochám vyhověti.
+II.
+Předchozímu systému rovnic lze theoreticky snadno vyhověti, neboť prvé dvě rovnice praví, že výrazy:
+du + 2j fidv),      2jd dít + 2jb dv
+jsou totální differenciály, pročež můžeme položiti, volivše dvě libovolné funkce <p, ty proměnných u, v,
+XXV. ﻿(5)
+Z rovnic (III.), (IV.) pak plyne řešením
+(6)
+kde platí
+A /   _ _^_2_        r_____L_       r
+'           3 u    c v     ""  3 v  ""9« '
+A"" =
+3 ^>    3 iř; 3 y    3 M
+Rovnice V. dá potom eliminací jistou partiální differenciální rovnici druhého řádu pro p, R = 0. Řešením této rovnice obdržíme parametrickou funkci p vyjádřenou obecně dvěma, do jisté míry libovolnými funkcemi plf QZ> načež vložením do rovnic (5), (6) obdržíme obecné řešení základního systému (L, . . . V.).
+Jest ovšem také možno voliti předem funkci pro parametr a jednu z funkcí <JP neb t/> a druhou určiti z rovnice R = O, která také i vzhledem k těmto funkcím jest druhého řádu, obsahujíc první partiální derivace hodnot A, A', A"".
+Obdržíme tedy řešení daného systému (L, . . .V.) ve tvaru:
+a =
+b =
+(VI.)
+S
+' vy
+a libovolné funkce
+za-
+v němž intervenují libovolné funkce  % vedené rovnicí R = O, jež určuje parametr.
+Nyní lze snadno nalézti další původní veličiny (x y z], (L ,u L), (L' j?' §' určující jednotlivé křivky kongruence.
+XXV. ﻿cx
+7
+(VI'.
+Dle symbolických rovnic (4) platí tedy
+S      3 X 9-------==   ty] ' o U
+Vť 3*
+2j * ~3^"" : = A'
+L3 L            t/;^
+* TŠ"" := VT'
+3 v
+Značme nyní*) (Xt Yx Zj), (X2 Y2 Z2), (X Y Z] cosinusy směrné tečen k čarám v, resp. u a normály plochy, kterou naplní ohniska všech křivek kongruence, a volme současně křivoznačné čáry této plochy ohniskové za systém souřadný (u v).
+Poněvadž dále platí, jak známo, vztahy
+l      9'x —7 ------ = —
+\G   3 v
+resp.
+l r—
+VE
+atd.,
+jest
+(7)
+a tedy i
+Podobně i pro směr (|'
+rz_Y,_4^  ».*n.
+*           it           Oř
+Odtud řešením nabýváme
+(VIL)
+----~- X, a podobně i pro t] L,
+',     atd.
+*; Lnigi Bianchi, Le?ioni di geometria differenziale  1903.  T., pg. 122 etc. **) Z rovnic (VI'.) plyne také: 2Ldx = rfy. Z|'rfAr = .4 ďu + Bdv, LL d
+~=
+Vp
+je-li tedy cis oblouk libovolné čáry fokální plochy a co, co' úhly které svírá tečna této čáry v příslušném bodě se směry (L »7 L) , (i' V S') • platí cos <o . ds = d <f cos ta' . ds — A d u -\- B d v.
+XXV. ﻿Poněvadž oba směry jsou k sobě kolmý, to jest 2j l' l = 0., nalezneme podmínku
+*
+iT       <^      -JŠ*T       Zi      ^
+v1 ""~ •-- v1 --       ~
+nebo upravíme-li: (VIII). EG — E (<?<?
+i L _ % 4)2 = o. *)
+S       3 |           ^       3 |
+L' -r — resp. /, l' — — . Za tou příčinou vzpo-
+meňme, že platí**)
+3 u
+9^2
+3 u 3X
+V G
+l
+-^TX*'
+D
+zr
+-         <
+3u '      VE         i
+Upravením příslušných výsledků dostaneme
+-=-     l      \ /""-^r
+3w
+i
+l
+G    3
+G        GYE    3
+a podobně
+'t
+A      3
+3 »   VE ""    V G   3 v   VG
+ya_   i
+(IX.) VI
+3VG
+*)  Srovnej rovnici (VII'.). **)  Srovnej Bianchi L, str.  123.
+XXV ﻿Rovnice (VIII.), (IX.) jsou základní rovnice, které váží funkce <f, il>, p s veličinami E, G, D, D"" fokální plochy.
+Připojme ještě výrazy, které stanoví směry (L"" 17"" Š"") normály k rovinám jednotlivých křivek:
+a t. d.
+Dle toho tedy také platí:
+<PI	92	
+VE A	VG B	
+VE	VG	
+\/!    *i2 + *	V1	<)P22 -f B2
+l1            E		G
+V1-^-^ V^1?
+VE G
+a jest tedy možno také poslední členy v rovnicích (IX.) nahraditi jednoduššími výrazy:
+resp. -r-=
+Veličiny E, G, D, D"". ovšem hoví současně rovnicím:*) DD""         9/1
+= '
+(X.)
+= 0,
+Rovnicím (VIII.), (IX.), (X.) lze pro libovolně zvolené funkce qp a i"" obecně vyhověti, neboť rovnice R — O určí parametr jakožto funkci dvou funkcí QV Q2, jež intervenujíce v rovnicích (VIII.), (IX.) činí celý systém řešitelným vzhledem k šesti neznámým E, G, D, D"", QL, p2. **) Funkce Q!, Q2 IZG skutečně považovati za dvě nové neodvislé proměnné vzhledem k ostatním veličinám E, G, D, D"", jelikož rovnice R = O jest neodvislá od těchto veličin. Jsou-li veličiny glt QZ funkcemi jiných funkcí, lze funkce
+*)  Bianchi, Lczioni ctc.   L, pg.   122. **)  Jordán, Cours ďAnalyse.   III.
+XXV. ﻿10
+tyto zavésti jako nové proměnné a určiti i ostatní neznámé veličiny jakožto funkce těchto proměnných. Orthogonálné souřadnice x, y, z libovolného bodu plochy fokální určí se pak jakožto tři neodvislá řešení Lap!ace-ovy rovnice tvaru:
+3 v
+l    3J^ j? !T~3~z7~
+c1 U
+.!L A® = o..i
+3 u    3 v
+Naopak nelze však každou plochu pokládati za plochu fokální jisté normálně kongruence parabolické; plochy tyto tvoří jistou kategorii ploch, neboť z rovnic (VIII.), (IX.) a R — O lze obecně vyloučiti veličiny rp, ty a p, tedy také současně obě funkce plt Q2, čímž obdržíme jistou vazbu mezí veličinami E, G, D, D"", kteráž připojena k rovnicím (X.) definuje zcela určitou kategorii ploch.
+Vytkneme-li jednu plochu fokální, tedy i určité E, G, D, D"", obdržíme z rovnic předchozích celý systém konfokálních kongruencí; lze na příklad při jistých hodnotách q>, TÍ> konstruovati systémy parabolické souosé a konfokální o různých parametrických funkcích takové, že roviny jednotlivých křivek se nemění. Jest tedy obecně možno daný systém parabolický o fokální ploše tak deformovati, a sice nekonečně mnoha způsoby, že osy, ohniska a roviny křivek zůstávají nezměněny.
+Podobně pro určitou pevnou parametrickou funkci a pevnou funkci tp lze určiti různé funkce ty téže kategorie hovící daným rovnicím (VIII.), (IX.) a R = 0. Jest tedy také obecně možno prostou rotací rovin kolem os jednotlivých křivek odvoditi z daného systému opět systém parabolický; atd.
+III.
+Fokální plocha může se ve zvláštním případě redukovati na křivku; pak ovšem souřadnice ohniska (x y z) jsou funkcemi téhož parametru u, na př. oblouku fokální čáry.
+Z rovnic (L, . . ., V.) odst. I. odvodíme podmínečné rovnice pro tento případ, položíme-li:
+pak obdržíme rovnice: (I"".)
+(II"".)
+v.
+*)  Bianchi, Lezioni ctc.  L, pg.  139.
+XXV ﻿11
+(III"".)
+(IV.) (V.)
+V těchto rovnicích jakožto druhou neodvisle proměnnou v volme arcus úhlu, který svírá rovina vedená osou paraboly a tečnou čáry fokální v ohnisku s rovinou oskulační téže křivky.
+Rovnicím (L"", . . .V"".) vyhovíme jen těmito dvěma případy:
+Bud jest:
+načež vyplývá:
+Nebo:
+pak ale jest, položíme-li:
+V a' = V « = O,
+parametr p libovolnou funkcí funkce ^ (u, v), tedy:
+Značíme-li nyní hodnotami (^ Yt Zj) , (X2 Y2 Z2) , (X Y Z) cosinusy směrné tečny, hlavní normály a binormály čáry fokální, platí patrně, znamenáme-li úhel tečny a osy paraboly & (u) a úhel řídicí přímky a tečny &l (u),
+L*! + t] \\ + $Zi -cos®, (8)                                 L X2 + r; Y2 + § Z2 = srn 0 cos v,
+LX + iiY-\-LZ= sin & sin v; a podobně i
+Z rovnic těchto plyne zase řešením:
+(XI.)
+=  cos
+' = A\ cos ®j + X 2 sin 0j cos vl + X Sř'w ®! sin vv atd. ;
+XXV. ﻿12
+Z podmínky:
+obdržíme po úpravě:
+(XII.)                     cos (»! — v) +
+. COtg ®j = 0.
+Veličiny Xj . . ., -X""2 . . ., X ... jsou funkcemi oblouku fokální čáry a poněvadž platí vzorce Frenet-ovy:
+nalezneme:
+(XIII.)
+SCO K  =------------: S1.
+T '
+cos ®1  a &
+= -^p- atd.,
+sin ®    3 u
+« & sin 0! l (coíg & cos vt— cotg &^ cos v)-------sin (i\ — v) -~    ,
+{} — sin & sin ®! sin (^ — w).
+Je-li V a' ^ V a ^ O, nalezneme tedy, uváživše příslušné podmínky,
+z rovnic (XII.), (XIII.), kladouce mlčky ^j a = cos &> 2j a' = cos ®i' ^e stačí položiti
+9 ®             COS 37
+Vl =v,    ®j = 90° +  ©,         « =
+a poněvadž 2j « Jest jen funkcí proměnné u, musí vždy
+C
+= O a tedy i        = 0;
+při tom však & jest libovolná funkce u, podobně i parametr jest libovolně závislý na u.
+Je-li po druhé  2j a> ~ ^j a — ®>  musí patrně býti ^ = & = 90°; dle (XII.) jest dále:
+tedy
+xxv. ﻿T
+13
+a parametr
+Z předchozího počtu jest patrno, že parabolické systémy o fokální čáře jsou jen zvrhlé a sice tak, že křivky systému položeny jsou jen v oo1 rovinách. Kterákoliv křivka rovinná neb prostorová může býti fokální čarou a sice tak, že křivky systému leží v rovinách normálných a příslušný bod křivky fokální jest společné ohnisko. Jinak řečeno, obalují roviny křivek systému jistou rozvinutelnou plochu, která jest polární plochou fokální čáry. Systém konfokálních parabol, které položeny jsou v jedné rovině tečné této polární plochy, můžeme libovolně voliti, jak ukazuje poslední formule. Systémy v ostatních rovinách jsou však již du
+vázány.    Neboť
+r
+značí   úhel   dvou  soumezných  oskulačních  rovin
+fokální křivky a výraz pro funkci tí> naznačuje tedy, že systém konfokálních parabol kotálející rovinou, v němž jest položen po polární ploše fokální čáry, jest neproměnný.
+- = const., -=- = O, jest
+Přejde-li fo"" ální Čára v kružnici, t. j. je-li příslušný systém parabolický rotační. Podobně i v případě, kdy jest stále ' - = 0, -- = O a &, p, jsou libovolné funkce u, při čemž, jak odvozeno, současně &t = 90° + &, obdržíme systém rotační. Osa rotace jest fokální přímka. Systém tento tedy obdržíme, volíme-li v rovině libovolný systém oo1 parabol, jichž ohniska leží na téže přímce a otáčíme-li tento systém rovinný kol této přímky.
+Ve zvláštním případě můžeme kombinováním obou případů, kterými lze vyhověti systému rovnic (I""., . . .V"".), odvoditi parabolický systém translační, kolmý ke směru translace; osa rotace ubíhá zde pak do nekonečna.
+Přihlédněme konečně i k případu, kdy se fokální čára redukuje na bod. Případ tento může se vyvoditi z předchozích úvah a sice tím, že volíme za křivku fokální nejprve libovolnou sférickou čáru a pak přejdeme k limitě pro ten případ, že poloměr kulové plochy jest nekonečně malý.
+Jelikož polární plocha sférické Čáry jest plocha kuželová a výraz
+l -=- při této limitaci vymizí, lze konfokální systémy parabolické a nor-
+málné odvoditi opět jako systémy rotační, vzniklé otáčením oo1 kon-fokálních parabol v téže rovině kol osy, která prochází ohniskem a leží ve společné rovině.
+Širší případ tohoto jest ten, že dáme této rovině obalovati libovolnou kuželovou plochu, jejíž vrchol leží ve společném ohnisku.
+XXV. ﻿14
+Jest patrno, že také každý systém, jehož fokální plochou jest plocha kulová, lze limitací převésti na systém konfokální.
+Přihlédneme-li obecně k rovnicím (L, . . ., V.) nebo (I""., . . . V.""), vidíme, že se redukují na rovnici (I.) resp. (!"".), které vyhovíme, učiníme-li
+(I'"".)
+(V'"".)
+Volme ohnisko za počátek souřadnic a hodnoty L, TJ jakožto parametry u, v; potom bude
+poněvadž ale
+
+obdržíme,  znamenajíce   (L"" ?/' g"")   cosinusy směrné  normály  k  rovinám jednotlivých křivek,
+(XIV.)
+^ M2 — ""tč,   r/' = —       - \ T— ~w^— ""^ .
+Volíme-li směr osy paraboly u, v, jest poloha roviny její při libovolně zvolené funkci ť> (u v) dána rovnicemi (XIV.), parametr pak rovnicí (V'"".); jest třeba ovšem vzíti zřetel k tomu, že levé strany těchto rovnic jsou pravé zlomky.
+Povšimneme-li si dále, že základní rovnice (3) pro A redukuje se v tomto případě na tvar
+a že, aby rovnice tato byla identicky vyplněna, stačí položiti prvý faktor na roven nulle, což dává jen jednu podmínku pro systém parabolický, lze říci, že kterýkoliv systém oo2 konfokálních parabol kolmých jen k jediné ploše připouští hned celý systém oč1 ploch normálných.*)
+Vytknutím této jediné plochy vytkneme zcela určitý systém parabolický při daném ohnisku, a sice určitý jak co do polohy rovin jednotlivých křivek tak i co do funkce parametrické. Ze však lze konstruovati systémy parabolické o dané poloze rovin, však různé parametrické funkci, jak praví předchozí rovnice (V'"".), snadno lze nahlédnouti třeba tím,
+*)  Mohlo by se dokázati také opačnou cestou,  to jest za východištč vzíti danou  normálnou  plochu;  k vůli jednoduchosti omezujeme se na hořejší /působ.
+XXV. ﻿15
+sestrojíme-1 i na př.  k danému systému systém podobný, jehož středem podobnosti jest ohnisko.
+Dle toho jest patrno, pokládáme-li bod za kouli o nekonečně malém poloměru, že systém oo2 konfokálních parabol procházejících jedním bodem jest systém parabolický normálný; vysvítá ihned, že jest to systém rotační, podobně jako konfokální systém, jehož jednou plochou normálnou jest koule nebo rovina. Osa rotace jest tu vždy spojnice ohniska se středem koule resp. normála k rovině. Jakožto první normálnou plochu možno voliti libovolnou křivku, jako plochu degenerovanou. Jednotlivé paraboly kongruence protínají tuto křivku a dotýkají se příslušných normál této křivky.
+IV.
+V následujícím chceme krátce poukázati na jistou kategorii systémů parabolických, která připouští snadnou integraci základního systému rovnic (L, . . ., V.).
+Řešme systém tento tak, aby současně
+K tomu stačí, aby
+(9)
+v*
+kde <JP   jest   libovolná   funkce   hodnot   u, v a. ty  jest   libovolnou   funkcí funkce <p; ty' znáči její derivaci dle tf>. Z rovnice (III.) plyne potom
+při čemž funkce p plyne z rovnice (IV.) dosazením, takže majíce současně zřetel k (9), nalezneme
+l
+ty'\'p'
+Zbývá nyní vyhověti poslední rovnici (V.) a stanoviti funkci pro -p. Opětným dosazením seznáme, že pro p platí podmínka
+(9')
+c'M
+XXV. ﻿16
+čili
+P=P(V). Položme nyní, zvolíce dvě nové funkce M (9), N (<jp) funkce <p
+Vp
+pak bude míti systém [L, . . ., V.] řešení ve tvaru
+(XV.)                             a' = M . rfl,       6' = M . <?,;
+S « =N .n,   J] 0 = A7 . f^,
+při čemž parametrická funkce P (qp) hoví lineární rovnici
+P'— P .M N +1=0.
+Z rovnice (VII'.) vyplývá, že pro toto řešení základního systému [I., ... V.] směr (L"" y"" g"") jest kolmý ke směru (X Y Z), to jest, že roviny jednotlivých křivek této kongruence procházejí příslušnými normálami fokální plochy.
+Rovnice (VIII.), (IX.) odst. II. dají se pak psáti ve tvaru
+(XVI.)                 E G — (E ^ + G <tf) (l + M-} _ O,
+a připomeneme-li, že odtud
+píše se první rovnice (IX.)
+jM.   3   /^i2   .    9V^ ,   _J_J_      ^-       .   D    l 9/1 =     2    9w V L         G y""1"" 2M   3w   1 + Ař2 ""'"" L   V
+čili po úpravě
+D    l — MŽ
+Ví
+
+a druhá    \N— (l-
+= «•
+XXV. ﻿17
+Vyloučíce případ q> = konst, vyhovíme""oběma těmto rovnicím (XVII.), učiníme-li bučí na př.
+nebo
+= °> Ti ^ 0.
+D""        D
+~~ 7                '    ]       f/>1        '
+
+V prvém případě jsou všecky veličiny (i parametrická funkce P) systému (XV.) funkcemi jen veličiny u a roviny jednotlivých parabol procházejí současně tečnami čáry v dle rovnic (7). Poněvadž jest dále
+-=r- = —   —, jest rz hlavní poloměr křivosti fokální plochy čáry v funkcí h            ?2
+též jen veličiny w. Této podmínce vyhovují jak známo plochy*) vytvořené libovolnou rovinnou křivkou tak, že rovina její kotálí se po libovolné rozvinutelné ploše. Zvláštním případem těchto ploch jsou plochy rotační a kolmé plochy válcové.
+V druhém případě mohou býti plochy fokální jen koule nebo rovina.
+Dle toho lze také vytvořiti systémy parabolické této kategorie. V rovině volíme jakýkoliv neproměnný systém oo1 parabol a dáme ji ko-táleti po libovolné rozvinutelné ploše. Je-li tento systém zvolených parabol konfokální, obdržíme parabolický systém o fokální čáře atd., jak v odstavci III. bylo ukázáno.
+Jest patrno, že tento známý způsob vytvoření systému oo2 libovolných křivek normálných k oo1 plochám jest všeobecný, a je tím karak-terisován, že křivky těchto systémů položeny jsou v oo1 rovinách; jsou to jaksi zvrhlé systémy.
+V druhém případě jest fokální plochou plocha kulová nebo rovina; funkce <p určí se pak z rovnice (XVI.), položíme-li za E = l, G — sin2 u. Rovinu jakožto fokální bylo by třeba zvlášť vyšetřiti, což vzhledem ke všeobecnosti úvah zde obsažených pomineme — ponechávajíce úkol ten jinam.
+Uvažujeme-li kongruence shodných parabol, to jest platí-li />= konst.
+3<b       dfi a tedy -^— = -5*- = O, obdržíme týž systém rovnic (XV.). Dle toho jsou
+o U          o V
+normálně kongruence shodných parabol jen takové, že roviny jednotlivých křivek obsahují příslušné normály fokální plochy — tedy kongruence poslední kategorie.
+Sem náleží také systémy parabolické,  jichž osy jsou téhož směru.
+Položíme-li podmínku, aby normály fokální plochy byly současně osami příslušných parabol, jest:
+*) Mongeovy plochy „moulures"".
+Rozpravy:   Roč. XX. Tt   II. Čís. 25.
+XXV ﻿18
+D       D""
+Dosazením  nalezneme  opět  podmínku -=- = —TT- ,   tedy  zase jen
+h,           Cr
+kouli nebo rovinu. Funkce, dle níž se mění poloha řídicí přímky nebo stopy roviny paraboly na tečné rovině kulové plochy, dána jest stejnou rovnicí jako hořejší funkce <p. Tento případ bylo by možno vhodnou
+záměnou odvoditi z rovnic (XV.); stačilo by zaměniti znaky 2j a a 2j a> > resp. 2j b a V b' a položiti M = 0.
+Jest patrné, že systém rovnic [I'., . . ., V'.] platící pro vrcholy jest celkem téže povahy jako systém [I., . . .,V] platící pro ohniska parabol, a že by bylo možno obdobné úvahy vyvinouti i pro vrcholy."

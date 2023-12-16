@@ -1,0 +1,773 @@
+"","x"
+"1"," ﻿ROČNÍK VI.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+počtu reálných kořenů rovnice algebraické
+
+
+mezích daných.
+
+
+Napsal
+
+
+Ph. Dr. Karel Petr,
+
+
+učitel gymnasia Přerově. Předloženo dne 23. ledna 1897.
+
+
+
+
+
+práci této řešen jest úkol: Kolik kořenů rovnice dané jest obsaženo řadě čísel reálných mezi čísly
+
+
+Tento úkol, jak známo, řešen poprvé Sturmem*}> který sestavil řetěz funkcí proměnné majících vlastnost', počet kořenů rovnice dané obsažených řadě čísel reálných mezích rovnal počtu změn znaménkových řetězu při dosažení vzniklých zmenšenému počet změn znaménkových vzniklých při substituci
+
+
+Zmíněný právě řetěz funkcí Sturmových zjedná postupným dělením, jakobychom hledali největší společnou míru mnohočlenů f(x), f'(x), kde f(x) jest rovnice daná, f'(x) derivace její levé strany.
+
+
+Způsob tudíž, který nás vede sestavení řady Sturmovy, jest zcela elementárný vyhovoval úplně, kdyby většině případů postupné dělení nás nevedlo číslům příliš velikým, které pak dokončení řetězu téměř nemožným činí.
+
+
+této příčiny činěny byly pokusy nahraditi řadu funkcí Sturmových řadou jinou, mající sice základní vlastnosti, ktcrč dovolují určiti počet kořenů reálných mezích daných, stejné, která však ohledu posledně zmíněném poskytovala výsledky jednodušší.
+
+
+Zvláště pozoruhodný jsou tomto směru dvě práce: Sylvtsirova**) Hcnnitcova ***).
+
+
+Sturm, Mémoire sur résolution děs équations numeriques. Mém. 1'acad. Paris. 1835. VI. Důkaz své slavné poučky předložil Sturm již 1829 pařížské akademii.
+
+
+**) Philosophical Magazíne 1839. prosinci.
+
+
+'**) Hermite, Remarques sur théoreme Sturm. Comptes rendus l'Ač. 36. 1853.
+
+
+Rozpravy: Ročn. VI. Tř. II. VIII.
+
+
+VIII. ﻿Sylvestrova řada význam spíše theoretický; základě jejím odvodil Borchardt*) tuto poučku velmi elegantní:
+
+
+Rovnice daná tolik párů kořenů komplexních, kolik jest řadě čísel
+
+
+Jo>
+
+
+
+
+
+změn znaménkových. Při tom značí součet ^-tých mocnin kořenů dané rovnice.
+
+
+Hcrmiteovy vývody opírají větu theorie forem kvadratických nazývanou dle Sylvestra zákonem setrvačnosti forem kvadratických. Cestou, kterou Hermite řešil Sturmův problém, lze mnohem snáze přijíti cíli při skutečném výpočtu počtu kořenů daných mezích.
+
+
+Práce moje založena jest poučce odvozené Borchardtem věty Sylvestrovy. Opírajíce můžeme velmi snadno sestrojiti řadu jinou, Borchardtově řadě podobnou, které stejně jednoduchým způsobem odvodíme řadu funkcí řešících Sturmův problém.
+
+
+Výhoda, kterou tento způsob bude míti před způsobem, který udává Hermite, bude spočívati tom, ihned bezprostředně onu řadu funkcí pro rovnici libovolného stupně bude možno napsat.
+
+
+Rovnice, kterou budeme předpokládati tvaru
+
+
+(1.) x"" -j- ízt x'~~ -\- a., ""~2 -)-...-(-
+
+
+tolik párů kořenů komplexních dle věty Borchardtovy, kolik řadě
+
+
+(2.) A,........,
+
+
+jest změn znaménkových; čísla jsou stanovena odstavci předcházejícím.
+
+
+Dosaďme rovnici (1.) čtverec: |2. Obdržíme rovnici
+
+
+(3.) l?* p-2 ?>*-* +.......-f
+
+
+stupně 2^-tého, která bude míti, jak snadno poznáme kořenů komplexních
+
+
+(4.) 2(»),
+
+
+kde jest počet kořenů negativných, 2(> počet kořenů komplexních rovnice (L).
+
+
+Řada (2.) pro rovnici (3.) sestrojená bude míti členů. Dříve, nežli napíšeme, připomeňme následující. Značí-li «,, «.,, «3, ....«„ kořeny rovnice (1.), jsou kořeny rovnice (3.).
+
+
+Journal Mathématiques pures appliquées. XII. 1845.
+
+
+Vlil. ﻿Součet L-tých mocnin kořenů rovnice (3.) označme s'k. Jest pak ihned patrno, s\, jakož s':}, /f), /2*-t-i jsou rovny nulle. Mimo plyne
+
+
+---- —J()' ---- ""Ji, ---- ^J2, 2'"" ---- •*»/.
+
+
+Nehledíme-li tudíž numerickým činitelům, které nerozhodují našem případě, jest řada (2.) pro naši rovnici:
+
+
+J,„ J,,
+
+
+
+
+
+(5.)
+
+
+Jo.
+
+
+Ji,
+
+
+OSO
+
+
+Ji, í;? J2,
+
+
+
+
+
+Ji, J3,
+
+
+
+
+
+Cleny jednotlivé této řady dají snadno vyjádřiti jakožto součiny determinant, jichž prvky jsou vesměs nully rozdílné. Uvažujme místo případu všeobecného pro jednoduchosť výraz X7, (což však nikterak všeobecnosti důkazu újmu není); obdržíme ihned záměnou řádek sloupců:
+
+
+J,, J2, Ss, -V,, S*, <7,
+
+
+
+
+
+°o> ^aj ""81
+
+
+
+
+
+ť?, tf, <?,
+
+
+
+
+
+Označíme-li
+
+
+(6.)
+
+
+Ji,
+
+
+J«, Jl» J2> J;{
+
+
+s-> J;í
+
+
+Jž> Ja>
+
+
+J.S, J4, J.5
+
+
+VIII. podržíme-li označení odstavci (1.) užité, můžeme psáti řadu (5.): P'\ Ař/o, P't Ař/i. /:t P*1n P'\ =Pi9*> ........ P'zm p,nq,„,
+
+
+(7.) P'2>n qm, ...... .p''in
+
+
+Kolik této řadě jest změn znaménkových, tolik rovnice (3.) párů kořenů komplexních, nebo dle (4.) tolik rovnice (1.) kořenů negativných komplexních.
+
+
+Utvořme poměry dvou sobě následujících členů řady (7.)*). Tyto poměry jsou
+
+
+(8) P.'.1 .... _._?«
+
+
+<1\ /*2 ?«-!
+
+
+Počet změn znaménkových (7.) jest patrné rovný počtu členů záporných řadě poměrů (8.). Tento počet dle zvoleného označení jest -\- 2(). Avšak dle věty Borchardtovy jest řadě
+
+
+
+
+
+členů záporných, tudíž řadě
+
+
+jest -(- členů záporných.
+
+
+Výsledek, který jsme obdrželi, takto vyjádřiti: Kolik jest řadě
+
+
+(9-)
+
+
+
+
+
+
+
+
+•ÍH, ^""« í2«—
+
+
+změn znaménkových, tolik daná rovnice (1.) obsahuje kořenů záporných párů kořenů komplexních čehož zase plyne ihned: Kolik jest řadě
+
+
+změn znaménkových, tolik rovnice (1.) kořenů kladných párů kořenů komplexních.
+
+
+
+
+
+Abychom vypočetli, kolik kořenů rovnice (1.) jest obsaženo mezích libovolných, zaveďme rovnice této -\- vypočtěme pro trans-
+
+
+případe obecném, který máme mysli, jsou členy řady (7.) vesmčs nully rozdílné.
+
+
+VIII. ﻿formovanou rovnici řadu (9.). Počet změn znaménkových jest pak rovný počtu kořenů negativných zvětšenému počet párů kořenů komplexních rovnici transformované, počet zmíněný nám udává: Kolik jest kořenů rovnici (1.) menších než párů kořenů komplexních.
+
+
+Způsobem stejným lze určiti počet kořenů menších než zvětšený počet kořenů komplexních.
+
+
+Rozdíl pak obou těchto počtů nám udává, kolik jest obsaženo kořenů reálných mezi čísly
+
+
+Vypočteme řadu (9.) pro rovnici transformovanou pomocí substituce -|- Touto substitucí dostaneme rovnici, jejíž každý kořen bude menší než kořen příslušný rovnice (L). Bude tedy, označíme-li <7()) <?n (72, součty kořenové rovnici transformované
+
+
+Užijeme-li této identity výrazu pro obdržíme snadno
+
+
+s2—Asít s:i—As2, s/—As/— J3As2, í4— As%, s/+i~—Asi J3—^""a, sí—As:í, As4, si+2—AS/+I
+
+
+L—As/, s/+2—Asi+i s.2ž—i—As2i—
+
+
+-^3 4-1
+
+
+~*' •••• Si+2
+
+
+••• $21 S/—i, _|_ -|_ S2'—l
+
+
+
+
+
+Slt S.2,
+
+
+_|_ /__-\\lAl S'^ ^3' J/-f
+
+
+Mnohočlen právě uvedený lze, jak známo nauky determinantech, psáti jako jediný determinant tak obdržíme:
+
+
+<;/
+
+
+°0> •*!> ..... ->/—l
+
+
+**\ -^2 .....
+
+
+^21 -^3) .....
+
+
+""l -^3) -^4) -^5 .....
+
+
+A1, s/, +1, .... VIII. ﻿Píšeme-li tomto determinantu místo sestrojíme-li takové formě řadu (9.), zjednáme řadu funkcí.
+
+
+(10.:
+
+
+
+
+
+J,,
+
+
+
+
+
+-f«-l
+
+
+f""
+
+
+3K, -'11 l.....->2«—l
+
+
+majících vlastnost řetězu funkcí Sturmových. Dosadíme-li řady oné jednou podruhé obdržíme druhém případě tolik změn znaménkových méně, kolik jest reálných kořenů mezi
+
+
+Řada Borchardtova (2.) řada mnou odvozená (9.) dají pokládati jakožto speciální případy řady (10.). Dosadímc-li dostaneme řadu (9.), dosadíme-li oo, řadu (2.).
+
+
+
+
+
+Poučky odstavcích předcházejících odvozené, jakkoliv zamlouvají svojí jednoduchou formou, nehodí přece praktickému použití, jelikož funkcích (10.) nevyskytují koěfficienty dané rovnice, kteréžto obyčejně nám jsou známy bezprostředně. Musili bychom dříve vypočísti moc-ninové součty kořenů J0, s1, pomocí koěfficientů a.2, kterážto práce byla zvlášť zdlouhavá.
+
+
+Než výrazy (10.) dají přeměniti snadno jiné, kterých vyskytují místo mocninových součtů kořenů zcela jednoduché funkce koěfficientů.
+
+
+Způsob, jakým zjednodušení provésti, ukážeme nejprve členu řady (9.) qt.
+
+
+zjednodušení použijeme známých relací Newtonových
+
+
+""f
+
+
+-j- a,J3
+
+
+tfj j(B_1 -j- «*,_iJi -f- '««•»
+
+
+Jestliže m^>n, jsou ovšem užijeme výraze zjednodušeném. výraze pro
+
+
+
+
+
+čehož však po-
+
+
+
+
+
+Sít—: VIII. ﻿méime zřeteli L-tý sloupec. Přičtěme tomu sloupci: sloupec prvý násobený a,k—\ druhý ct-k—2
+
+
+(k—\)-vý~*
+
+
+obdržíme uživše relací Newtonových L-tcm sloupci:
+
+
+—kdk
+
+
+—(k -\- -t-1 a-kSi
+
+
+—(k-\- 2}ak 2—a>k \s\—aks-i
+
+
+—(k -|- 3)<7L 3—«x- -ts\—ak iS2—dkSz
+
+
+—(k -)- \)ak -i- /—i tf* z—2-íi— .... —ak i-sv—2—<ř*Jf—i
+
+
+Uvedše takovéhoi stavu každý sloupec determinantu pokročíme dále. Výpočet provedeme pro element determinantu ^-tém sloupci, /-tem řádku. Přičteme řádku z-tému: řádek prvý násobený at—\
+
+
+druhý a-i~2
+
+
+(ř—l)-vý
+
+
+Obdržíme pak jakožto element determinantu >L-tém sloupci, z-tém řádku výraz:
+
+
+-j-/—!)#L-[.,-._i t-2(si k-\-i—20J
+
+
+,-_3(j2 -f- «!^ «—3rt2)
+
+
+,--4(^3 2""—4as)
+
+
+aA(j/-i a^Si-z -f-«2Ji-3 .+^a/_i).
+
+
+Tento výraz užitím relací Newtonových ihned mění jednodušší: (11.) [(L .-.i ^-f-ř—3)«* í-2al +......
+
+
+.....-f- (L—z' -f- 3)^ 1^-2 -)- (^—* l)«^/_i]
+
+
+výraze uzávorkovaném jsou numerické koěfficienty absolutní hodnoty rovny rozdílu přípon koěfficientů příslušném členu vyskytujících, jest okamžitě patrno, je-li i—l, několik členů posledních znaménko záporné ruší členy předcházejícími příslušnými. Vyskytují tudíž, jestliže i~k-\-r^ jen členy výraze (11.),
+
+
+které mají číselné součinitele čísla: -|- i—l, -j- i—3,.....r-J-1;
+
+
+člen totiž (r—\}ak r-\ak ruší členem posledním —(r—\}akďk r—\- Jest tedy závorce členů (které neruší)
+
+
+VIII. ﻿Jestliže !<L, obsahuje (11.) členu Výraz tudíž (11.) členu tolik, kolik jednotek menší čísel jestliže pak /rzL, i~k členů.
+
+
+případe speciálním bude lépe patrno bud' př. :=: ^=. pak jest (11.):
+
+
+Lze tedy výraz (11.) psáti tvaru
+
+
+1—1
+
+
+kde -)- -}- L—l, jest menší čísel
+
+
+Označíme-li prvek determinantu <?/ k-íém sloupci z-tém řádku: —Aki, vidíme výrazu, který jsme obdrželi,
+
+
+Aki Aik
+
+
+způsobu pak, kterým zjednodušení dalo, jest patrno, An, A12, A22, .... pro všechny členy řady (9.) jsou totožný.
+
+
+Obdržíme tak místo (9.) řadu (provederne-li snadné zjednodušení příčině znaménka):
+
+
+(12.)
+
+
+-""
+
+
+^iD -""líi ^la
+
+
+
+
+
+""18í -^22' ^123 •^ISí ^23' ""88
+
+
+^ll> ^12> -""18) A"" ""l ^22) ""881 ""8*
+
+
+
+
+
+'""Í8> ^33)
+
+
+
+
+
++1111 •f*2») S*1) -t*""""
+
+
+aneb píšeme-li místo ^4n, AÍ2, příslušné výrazy koefficientech rovnice
+
+
+Z2, 3í?3 -j- ^2^1
+
+
+(12'.)
+
+
+(-1)""
+
+
+3a3
+
+
+íZ4 -)- ťřgťz, 5«5 -j- 3a^al -j- <at3íj;2
+
+
+................
+
+
+-f- 2^3ízt ...........
+
+
+
+
+
+n—2)aua2
+
+
+na„
+
+
+-f- )«„ •-)- («— *«« -f- 2)a„ -f- na„ ia{
+
+
+2~)a„a2
+
+
+determinantech těchto třeba klásti a„+i #„_f2 ....=
+
+
+VIII. ﻿5.
+
+
+Způsobem zcela stejným lze vykonati zjednodušení řadě funkcí (10.).
+
+
+Provedení tohoto zjednodušení jest tom, bylo řečeno, tak pocho-
+
+
+itelno netřeba tom šířiti. Obdržíme tuto řadu funkcí formě
+
+
+
+
+
+
+
+
+(13.)
+
+
+kde:
+
+
+
+
+
+-f- (n—]
+
+
+
+
+
+;/,
+
+
+
+
+
+-4-
+
+
+
+
+
+Aki,
+
+
+
+
+
+A.,.ž 3«, «2«i, 4íí4 2rt,«n ^24 5«s 3*^,
+
+
+^/2„ -f- l)ťř„ l)«„rtj všeobecně pro i^jLk: Aik )«« *-i (ž' ^—3)^. k-ifii k—S)ai t.-3a2
+
+
+Zvlášť vytkneme ještě poslední člen řady (13.):
+
+
+—As« —-A*—1>
+
+
+(44___1 ""\/y
+
+
+ct-j, ^rL jyw-j, •'^l ''^22' •*•**•__Ij
+
+
+O^/T
+
+
+U^X —)— ťřg^T —)— «g, (^/Z oj""^) ^14> ^245
+
+
+Jest však: -j- V)a„
+
+
+o\x«
+
+
+^I2j« ""l ""/""« ~T~ ^<2« 1^1
+
+
+A„^í _(_ redukuje tudíž tento poslední člen součin:
+
+
+___/l ___
+
+
+(14.) (-:......
+
+
+kterýžto součin však jest totožný determinantem
+
+
+
+
+
+VIII. ﻿10
+
+
+Determinant tento snadnou redukcí změní rovněž součin:
+
+
+
+
+
+^0> ^1>
+
+
+
+
+
+••*
+
+
+kde jest diskriminant dané rovnice (L).
+
+
+Jest tedy poslední člen řady (13.) )""/(#) kdež A*) Jest strana rovnice (1. Zároveň zjednali jsme jednoduchý výraz pro diskriminant, jakožto funkci koěfficientů dané rovnice; jest třetí činitel součinu (14.
+
+
+Výsledek dosažený můžeme vyslovili takto:
+
+
+Řada subdeterminantů hlavních determinantu
+
+
+Allt A2l
+
+
+3,\—AM
+
+
+-a^x-^-a^ (n—3)as, —AÍ4:,
+
+
+An—\, An—1,
+
+
+—A„-
+
+
+*-*+..-{-an, 0.an, —AlM+i,— jest řada funkcí majících vlastnost řetězu funkcí Stur-mo vých.
+
+
+determinantu právě napsaném jsou prvé čtyři subdeterrninanty odděleny tečkovanými čarami. Determinant celý, jak jsme již ukázali, jest rovný součinu levé strany rovnice dané její diskriminanty násobené (—1)"".
+
+
+Jakožto příklad zvolíme všeobecnou rovnici stupně třetího čtvrtého. Pro rovnici stupně třetího jest řada (13.):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-\- et^x -\- a%, a2, 3a3
+
+
+2<?2
+
+
+s-f«1 24-a2 -\-as)
+
+
+anebo rozvineme-li determinanty:
+
+
+7^^) -j- S^a,, -j-
+
+
+Pro rovnici stupně 4-tého dostaneme podobně řadu:
+
+
+
+
+
+
+
+
+—a1
+
+
+VIII. ﻿l, -j- a^t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Píšeme-li této řadě a.A 4«, /i, obdržíme řetěz funkcí Sturmových pro rovnici
+
+
+C«f.) -r4 -f- 4cur -f- 3(í
+
+
+snadno tomto tvaru:
+
+
+(«.) —x, ax, a2x*—ajix*—fi^x -(- 3«3, (^r4 -(- 4a^r -(- 3/3)(/Í3—a4).
+
+
+tohoto řetězu ihned patrno, pro /33>«4 jsou všechny kořeny rovnice (m] komplexní.
+
+
+Jestliže /33<;a4, jsou dva kořeny reálné, dva komplexní. Klademe-H tomto případě řady (;/) jednou oo, podruhé -(- kde jest číslo nekonečně malé, poznáme ihned, rovnice (»/) tolik kořenů positivných, kolik řadě čísel: jest změn znaménkových.
+
+
+VIII. ﻿*"

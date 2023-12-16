@@ -1,0 +1,211 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+TŘÍDA II.
+ČÍSLO 35.
+O některých konstantách z theorie harmonických řad.
+Sdílí
+M.  L e r c h,
+professor na universitě ve Fribourgu švýcarském.
+(Předloženo dne 20. května 1899.)
+1. Riemannova funkce definovaná řadou
+jest jednoznačná v celé rovině komplexní  proměnné  s,   i  má  tam   pouze jediné   místo   zvláštní,   a   sice   pól   stupně   prvního   s n= l,   takže   rozdíl
+L (s) — - - je   celistvá  funkce  transcendentní.   O této funkci dokázal
+o          J_
+Riemann zajímavou reciprocitu
+(1)
+2(27t)s-1 sin
+vlastnost to, jaká se před tím již vyskytla při útvarech podobného druhu studovaných Malmsténem, Schlómilchem a Lipschitzem.*) Logarithmickým derivováním plyne z rovnice (1)
+7 (s)
+<l—s)
+s*
+(1—4
+značí-li nám ty (u] výraz —    ,       .
+-/   (u)
+*) Viz o tom naši rozpravu Základové theorie Malmsténovských řad.
+Rozpravy:   Ročn. VIII.  Tř. II.  Č. 35.         XXXV.                                            l ﻿Veličina L í -^-) nullou  není, jak  lze výpočtem zjistiti, a proto ob-
+držíme z poslední rovnice pro s = -^-
+Dosadíme-li sem nyní hodnotu
+= — C— 21og2,
+při čemž  C značí známou konstantu Eulerovu též Mascheroniovou zvanou,. obdržíme
+(2)
+C-+^r
+Rovnici té lze uděliti jiný tvar, jímž nabude zajímavosti formálně po-jiné stránce, užíje-li se okolnosti, že platí identicky
+^fj
+?^--2 čili, což totéž jest
+r1   &*r
+00
+_v (-i)""-1
+rovnice tato podá derivováním
+log v
+a odtud pro j =: —:
+V 2 log 2
+l— j2~
+«(4).
+Dosadíme-li sem tedy hodnotu z (2) za výraz
+XXXV.
+y v ﻿f(4)
+•   L
+obdržíme
+(3,     4J(-1^ = -^
+(!)[<
+kterýžto výsledek lze též psáti
+log 2       log 3        log 4        log 5
+o 7^ ""71T ""vT""
+1                            1                            1
+/•oa\                               l-------=r -j-----;^=r-------—;
+v3 '                                      V 2         V 3          \ 4
+V 5
+«       ,i
+4""-V2log2
+Že   lze těchto vzorců užiti k vypočtení čísla C, leží na bíledni, ježto lze obě řady v rovnici (3a) přicházející přeměniti na řady s rychlejší kon-
+vergencí, a   co   se   tkne   vzorce   (2),   tu   lze k výpočtu hodnot L í — )   a L'  í -^- )
+užiti vzorce
+(4)
+kde R (», í) jest hodnota jednoznačné transcendenty definované řadou
+(5)                  '           R(w,*) = ^   (w]_v)s  -
+Difierencujeme-li rovnici (4), máme
+načež se
+veličiny R (*i    2 ) a ^ (*> ""2"")   stanoví pomocí známého
+roz-
+voje semikonvergentního.*)
+2.   Funkce  R(w,s)  definovaná  rovnicí (5) připouští v případe í < l jednoduché  rozvinutí  trigonometrické  vůči   proměnné w vzaté i intervallu
+*) III. ročník Rozprav Č. Akademie, číslo 28.
+XXXV.                                           l* ﻿O < w < l, které jest zvláštním případem známého vztahu Lipschitzova a bylo po té zvláště vytčeno Kinkelinem a později znovu objasněno na to Hur-witzem*), i zní jak následuje:
+(6)
+Znamenejme nyní literou D číslo kladné neb záporné, které jest hlavním diskriminantem, a literou z/ označme jeho prostou hodnotu. Užívajíce Legendreova znaménka
+(T)
+tak, jak je byl v souhlasu s Jacobiem definitivně upravil Kronecker, položme v rovnici (6) zí> = — , násobme Í-T-)  a sečtěme výsledky pro
+1.
+Poněvadž řada (5) a rozvoj (6) nikdy současně nekonvergují, dlužno stanoviti součet
+jiným způsobem, než při současné transformaci výrazu (6).
+Uvažujme  nejprve   součet (7) pro hodnoty -y > l, při nichž řada (5) jest jak známo konvergentní. Zde bude
+A— \
+— -j \~k)
+-   n
+a klademe-li
+a součet obdrží tvar
+čili při označení**)
+'
+l    n      l    v\ \Z/     '       /
+vJ = n, bude     —   =   .-.,
+*) Literární udání nalezne čtenář v úvodu do Zákl. theorie Malmst. řad.   Práce Kinkelinova vyšla v programe průmyslové školy Basilejské z r. 1861—2.
+**) O těchto výrazech jednáno v našich rozpravách arithmetických z ročníku VII.
+XXXV. ﻿(8)
+/>
+Výraz tento zůstane roven součtu (7) pro všechna í bez rozdílu a tedy též pro hodnoty í, které náležejí intervallu (O ... 1). Pro tyto pak obdržíme z rovnice (6)
+sin
+Jest pak dle známých vět algebraicko-arithmetických jeden ze součtů
+' D \ \ h /
+A— l
+cos
+sm
+nullou a součet zbývající rovná se
+a  sice   mizí   první  součet,   je-li  D < O,   a  druhý  v případě D > 0.    Kla-deme-li tudíž
+(9) obdržíme
+^ (A s) =
+sm
+cos
+s TC
+it
+v případě D^> O,
+sin
+2 ?# /z JT
+a tudíž zní náš výsledek, dříve již Kinkelinem a Hurwitzem odvozený
+oo -s)       ----                 V^
+-zL-iféA (A s) 2j
+čili
+(10)       (-TT— }' p (A -O — m^— F(I—S') A (A J) ^( A i — 4
+Z rovnice této plyne logarithmickým derivováním
+XXXV. ﻿Kdyby nyní P f /?, — j bylo nullou, musilo by též P' ÍD, --„- ) := 0. Kdyby  pak  PW i D, —— ) byla nejnižší od nully různá derivace, ob-
+&   /
+drželi bychom z rovnice (10) w-násobným derivováním a substitucí s — —
+patrně
+-srMAT^-^KTMAT)
+a odtud, ježto
+rovnici
+takže by »/ bylo sudé. Derivuje-li se (m -f- l)kráte, obdrží se pak
+a odtud (lla)    2
+
+^
+/>(•«) f n _L } V   ' 2 /
+(-4)
+(A 4)
+= (m + 1)
+,    '   2
+(A f)
+Předpokládejme   však,   že  již P ÍZ?, — j^O, takže ;;/=: O, i máme
+pak z (11) pro j =: —
+""(AT)  '(^
+2 JT          / l \
++iog-^-*(4).
+XXXV. ﻿TV            i     -^   (D. S)                     ,    3T                S Tt
+Ježto  pak          —í. jest   buď — cot —=— neb
+^ i l X-/. o )                             i-                    ^
+7T                   J 7T
+— taň-—-, jak
+jest D > O neb Z? < O, máme .patrně
+'(A4)   .
+— ------<;cfn
+—   2  sgn.
+a tedy vyjde
+(12)
+8 7T       ,      3T
+sgn.
+Ve zvláštním případě D = — 4 plyne odtud na př.
+(13) 2.
+log 3        log 5        log?        log 9
+yiF     v~š~     Y~Ť~     V^~
+V3
+3. O funkci P(D,s) je známo, že ji lze psáti jako součin
+______l
+/ l - -
+P '    Ps
+vztahující se ke všem číslům kmenným /=i2, 3, 5, 7, 11, . . .
+Součin   ten   konverguje   absolutně pro j>l, a logarithmickým derivováním obdržíme
+P'(D,s)   _
+log/
+p
+Smíme-li   zde   připustiti   též   hodnoty  s < l, a zejména s=—t ob-
+m
+držíme tedy v posledním případě podle vzorce (12)
+!°g/      _i         ^       -       «
+(14)
+r             n
+- — C— -^ sgn. D.
+7T
+Předpokládáme-li  tuto   rovnici za správnou, což jest pravděpodobné, můžeme z ní odvoditi důsledky velmi zajímavé.
+Klademe-li
+XXXV. ﻿2y — — C— log 8 n-----— sgn. D ,
+a uvažujeme-li pouze kmenná čísla /, jež nepřevyšují danou kladnou veličinu x, plyne z rovnice (14)
+log/
+p
+log V ^ + V .
+při čemž znaménko ^ naznačuje, že se levá strana pro nekonečně rostoucí x blíží tétéž veličině jako strana pravá (v našem případě stálá).  Jest však
+(T)
+log/
+Z>\ log/
+log/
+log/
+a ježto řada
+konverguje absolutně, máme
+S
+— A
+p        rxp
+log/ P
+log ""\!
+při čemž ^4 zůstává v konečných mezích nezávislých na D.
+Znamenáme-li pak literou d veškery kmenné činitele z D,  jichž jest počet konečný, a znamenáme-li
+bude pro
+= v
+log/
+Jest však dle známé věty Mertensovy
+lo
+/L*      /
+kde neznámá veličina d jest obsažena mezi — 2 a 2, a tedy bude
+(15)
+y/
+Tato rovnice stanoví součet (15) až na chybu menší než jadřuje okolnost, že kmenná čísla /, pro něž
+, a vy-
+XXXV. ﻿mají převahu nad čísly kmennými, pro něž
+S výsledky těmito zdají se býti v souhlasu úvahy rovněž ne pevně založené, které uveřejnil p. Ern. Cesáro ve svém článku Sulla distribiizione dci numeri primi obsaženém ve zprávách akademie Neapolské z r. 1896, a které vztahujíce se ku případu zvláštnímu D = — 4 obírají se výrazy poněkud jinými, jimž vzorec (15) může sloužiti za pramen odvození.
+XXXV. ﻿*"

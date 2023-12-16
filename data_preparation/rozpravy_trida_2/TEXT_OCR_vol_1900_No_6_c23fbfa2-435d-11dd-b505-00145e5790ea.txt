@@ -1,0 +1,474 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+TŘÍDA II.
+ČÍSLO 6.
+O novém druhu analytických výrazů, jež se vyskytují v theorii jistých integrálů,
+Sdílí M. Lerch.
+(Předloženo 20. prosince 1899.'
+1. Na konci svojí rozpravy »Z počtu integrálního*, zejména pak v rozpravě »Úvahy z počtu integrálního**) a nejnověji v časopise Acta mathe-inatica**) zabýval jsem se integrálem
+(1)
+x* d x
+It cos —
+G
+Řady tam uvedené měly tu vlastnost, že konvergovaly toliko pro komplexní hodnoty veličiny <?, což se zdálo souviseti s větou o nemožnosti funkcí s dvěma reálnými periodama, nalézajícíma se v poměru irracionalném. Upraví-li se však tyto řady zcela jednoduchou transformací, zjednáme si výrazy, jež konvergují též pro reálné hodnoty 6, pokud s je komplexní, předpokládá-li se kladná reálná veličina w v mezích (O ... 1).
+V první z uvedených rozprav dokázána základní vlastnost funkce Z, a sice pro reálné o > l ; píšeme-li na dále L (s) na místě L (w, s. G), vyjádří se řečená vlastnost rovnicí
+*) Rozprav č. A. TI. třídy ročník V., číslo 23.
+**) Sur quelques intégrales définies ayant rapports avec les fonctions elliptiques; svazek 22.
+Rozpravy: Ročn. IX. Tř. II. Č. 6.
+VI. ﻿(2)
+sin
+sn
+Abychom jí rozuměli, třeba řešiti otázku, pro které hodnoty s integrál (1) konverguje'. Jsou to patrně hodnoty, jichž reálná část jest obsažena mezi — l a l -j- <?; tyto hodnoty proměnné s v geometrickém znázornění odpovídají bodům nekonečného pásu (— l . . . . l -\- <?), omezeného rovnoběžkami s osou pomyslnou vedenými body — l a l -f- G ; v tomto pásu chová se funkce L (s) pravidelně a lze v něm umístiti celé kontinuum bodů s, pro něž také í -f- l přísluší do pásu.
+Vztah (2) lze psáti po dělení na sin
+s it
+sm
+n   a  po  užití
+vztahu
+s n             s -\- l
+COt--------------COt ------------- Tt
+G                         G
+S TI                S -f- l
+sm------. sin -----!-----n
+G                  G
+n
+sm
+ve tvaru následujícím:
+sin
+sin --
+6
+w
+sin
+— L (s) +-------V- L(* + !)+ - ,        ^
+*             „:* + l                     *(«/ + !)
+sin —!— n G
+Tt                          S Tt
+-------rr- COt------
+COt
+.   .
+S -f- 1
+TI
+Nahradíme-li na pravé straně veličinu l
+w
+——j-  výrazem —      _^     -j- l, bude lze výsledek upraviti takto:
++
+sm
+j1 7T
+\                      S Tt	(7(W-f-l)                 (7 > n              ^ f + l	; )JT               J Tt
+\                   a Jí sm ---- G                          (		
+•í ""T"" 1 cm —           — TT	ff(W-[-l)    C0t        (7        *	G               G
+znamenáme-li tedy
+VI. ﻿.    1t
+sm
+(3)
+EV \
+F(t) =
+.    s n sin-----
+r f \
+L (s)
+n                      .Sít
+cot
+<y (w-f- 1)             a
+obdržíme vztah náš ve tvaru
+(2a)                          w F(s] + F(s +1) = — cot s*
+0            G
+Druhá základní vlastnost funkce L spočívala ve vztahu
+(4)
+,   .     s n
+n ws~l sin-----
+. sin — sin s n
+G
+jenž po zavedení funkce F obdrží tvar rovněž jednodušší:
+n w*
+sin sít
+Z rovnic (2a) a (4a) vyvodíme nyní přímo analytické vyjádření funkce .F(j) Především kladfrie v rovnici (2a)   s — m za s, a násobme — (— w)m ; v rovnici tak vzniklé
+(— l)""1""1 wm~l F(s — m—l) — (— l}mwmF(s — m) m _ 1  n         m — s
+G         '           G
+položme m =: l, 2, 3, . . . n a sečtěme výsledky; i vyjde
+F (s) =
+w
+n          m — s
+------COt ----------------- Tt
+G                   G
+Rada  na pravé  straně stojící   bude konvergentní,  jakmile s není reálné a je-li   | w | < 1. Proto musí existovati též
+lim (— w)H F(s — n) =r <p (s),
+i bude
+(5)
+m — s
+Dosadíme-li tento výraz do rovnice (2a), obdržíme
+VI. ﻿(6a)                                W9>(*) + f>(f + i;=0;
+dosadíme-li hodnotu (5) do rovnice (4a), ukáže se výsledek
+(6b)
+,                             ,
+«]P (ď) —- (jp (J -f- ») = —r-
+sin s n
+z něhož máme kladouce s -\- v G za s
+(jp (s -f v G] — <jp (j -f i; -f- l G] —  -"" ;
+sin (j-j- v ff) « ' a odtud plyne sečtením pro v — O, l, 2, . . . n — l:
+(j) = <p (J + « <7)
+í
+4-
+sin (ď -|- v tf) «
+Pokud   j w \ <C l,   bude lze při kladném G a při komplexním s prodloužiti řadu do nekonečna, z čehož plyne existence limity
+lim qp (s ~f- «
+načež
+(7)
+sin (j -|- v (?) n '
+dosadíme-li tento výraz do rovnic (6a) a (6b), vyjde (8)
+) w ty (s) -\-$(s-\-l)= O, l     ty (s)— ty (s -f o) — 0.
+Z rovnic těchto plyne
+ty' (s -4- 1)        4-' (»        t// (^ -f g)
+# (j + 1)           ^ (-yj        ty (s -{-G) '
+předpokládá-li se, že ty jest od  nully různo. Funkce analytická
+má tedy dvě reálné periody l a (?,   a musí tedy   při   irracionalném G býti konstantou, takže bude
+ty (x} — cea x.
+Rovnice (8) pak poskytnou
+VI. ﻿(w H- <?<*) c e°x --- O, (c*"" — 1) c eax ~ O;
+je-li # *5 O, bude vůči podmínce <s > O veličina ^"" — 1 od nully různou a tedy c e""x := O, t. j. L = O, z čehož by následovalo ^ (jr) = 0.
+Je-li však a — O, bude nutně zf -|- ca = w -[-1 od nully různo, ježto jsme předpokládali | w \ < l, a tedy musí opět c — 0.
+Rovnice (8) tedy nelze splniti jinou jednoznačnou funkcí analytickou než ty (s) — O; vůči tomuto výsledku nabýváme z rovnic (7) a (5) hledaného vyjádření funkce F ve tvaru
+(9)
+'«=^
++ ->~   L <-
+<> 7i>     «>J m=l
+COt
+Vztah tento, jejž lze psáti
+(9a)
+w sin
+(? (w -f- 1 )
+cot
+it sin
+s n
+sn
+cot
+;;/ —.
+n
+dokázán byl za podmínek   | w | < l, G > l, z nichž druhá pochází odtud že základní vztah  (2) byl odvozen při její platnosti.
+Má-li integrál (1) existovati, musí v celém integračním oboru (O___oo)
+veličiny
+l -)- x"", zv2 -}- 2 ít/ x cos-----[- r2
+býti od nully různý;   o prvé to   zajištěno tím,   že G  není  ryze   pomyslné, druhá veličina pak by zmizela pro hodnoty x tvaru
+x = — zv e °  ;
+hodnoty a této rovnici pro reálná kladná x hovící jsou v případě reálného kladného iv dány rovnicí
+— -
+zv
+= ± i, ± 3, + s, . . .),
+i dlužno vyloučiti hodnoty G, pro něž tato možnost nastane. Poněvadž původně bylo O < -- < l, dlužno předpokládati,   že reálná část veličiny -zůstává mezi —l a 1.
+VI. ﻿Proto jsme v našem vzorci (9a) nuceni předpokládati <? > l (ježto chceme míti G reálné), an by po případě za nedodržení této podmínky integrál L znamenal zcela jinou funkci.
+Při irracionalném G pouze jeden člen na pravé straně stane se nekonečným pro s — O, a sice je to začáteční člen « = O první řady; převeďme jej na levou stranu, a u výsledku
+(9b)
+přejděme k mezím pro í z= 0; vyjde tak vzorec
+ffW    .,:.   *     T'tn\         10S
+	w	S TI	W	sin	n G	L (s) m cot -	W*
+G ( >	«; + !) V(	cot G 4 ws + no	n sin -1    1   <		S Tt G		sin sít m — í   ^\
+^J V sin (s -\-nG]n			|	^	w]		G          n)
+(10)
+= lim
+,        ,
+-- (—
+!    a v
+COt
+při čemž znamenáno
+Proti obyčeji přicházejí na pravých stranách rovnic (9b) a (10) za znamením součtu 27 dva ukazovatelé součtoví man; má se tím naznačiti, že v prvním členu se má klásti za n každá z hodnot n = l, 2, 3, . . . jen jednou, podobně ve členu druhém za m, ale že bude po případě nutno jisté členy (m) spojiti s určitými členy («), aby se mezní přechod dal provésti.
+2. Nežli provedeme mezní přechod na pravé straně rovnice (10), ukažme, že existují veličiny irracionalné G (> 1), pro něž obě řady
+00                                                                          03
+y__^!__ — V (-
+*J.    sin n G n        G   L^ /
+cot
+které vzniknou z pravé strany (10) prostým dosazením s = O, jsou konvergentní;   a  sice   mají   tuto   vlastnost  veškery  reálné veličiny algebraické (?, t. j. takové, které jsou kořeny rovnic algebraických s celistvými součiniteli. Buď na př. G reálný kořen rovnice nepřevodné stupně x > l,
+(x) = aQ
+x*
+-f . . . + a* = O,
+VI. ﻿a buďte <?!, tf2, . . . <7„_i ostatní kořeny této rovnice. Výraz
+— a0 m"" -J- a^ m* — 1 n -j- a2 m'- ~2 n* -f- . . . . -f~ a* n*
+bude číslo celistvé kladné neb záporné, ale od nully různé, značí-li w, n jakákoli čísla celistvá; prostá hodnota jeho bude tedy nanejméně jednotkou a z toho plyne nerovnost
+l
+m\ (       m\      (          m\
+l---------) ( <ya--------)------(e*-i---------)
+1        * / \ '        n J         v               n /
+-----    n    *»* — l
+Je-li ^ c1 — m = & malá veličina, bude při dosti velikém « výraz
+m\ /       m\      (          m\
+Í----------) ( <*2---------)-------( ff*_i----------)
+1        n J \        n J        \            n J
+míti hodnotu
+která se velmi málo liší od veličiny
+znamenáme-li její hodnotu
+bude tedy platit nerovnost
+l n G — m. l ^
+<jp
+l         l    l
+. n
+K—l      '
+Znamenáme-li pak s jakoukoli malou veličinu kladnou, ale stálou, bude pro dosti veliká n veličina ^ absolutně menší než 6, a tedy tím spíše *)
+(11)                             \n* — m | >
+při čemž G značí veličinu   | <p' (<?) | -j- f.
+Není-li pak veličina n G — m velmi malá, bude nerovnost (11) tím spíše splněna, je-li jen číslo n dosti veliké.
+Následovně bude lze ke každému algebraickému číslu G stupně x určiti konstantu G tak, že pro všecka celistvá čísla w, «, z nichž druhé n převyšuje určitou mez, bude platit nerovnost (11.)
+*) Viz o této větě Bachmann, Vorlesungen uber die Nátur der Irrationalzahlen.
+VI. ﻿Z nerovnosti té plyne též, je-li m =: l n o -f- 0 l celistvé číslo veličině n G nejblíže ležící, že bude
+>sin
+a tedy budou členové řady
+Su,n n sin n o
+sm;/ a n
+od jistého místa počínaje absolutné menší než členové řady
+ví           «>""""
+sin
+která za podmínky zc> < l  konverguje, a sice stejně rychle jako řada
+V n*   i
+Tím dokázáno, že za podmínky    | zv \ < l  prvá z našich řad
+sin n G n
+konverguje absolutně, značí-li G číslo algebraické irracionalné,   a   podobně se to ukáže o řadě druhé:
+3. Je-li G číslo transcendentní, t. j. takové, že nehoví žádné rovnici algebraické s celistvými součiniteli*), není mi známo, může-li také v tomto případě jedna neb druhá z našich řad konvergovati. Můžeme však nalézti transcendentní hodnoty ff, pro něž řady ty divergují tím způsobem, že členové jich, příslušní k jisté řadě hodnot n rostou přes všecky meze.
+Tuto vlastnost mají na příklad veličiny tvaru
+(12)
+T
+*) Takými jsou na př. čísla e a n. O prvním to dokázal p. Her m i té ve své slavné práci Sur la fonction exponentielle, jejíž výsledky přivedly Lindemanna na důkaz transcendentnosti čísla n.
+VI. ﻿ve kterých c0 značí libovolné číslo celistvé, g celistvé kladné číslo větší jedné a Ln c2, c3, . . . čísla z řady O, l, 2, ... L•—1; při tom jsou dále ,""u ř*2> í*3> • • • celistvá kladná čísla určená tak, aby platily nerovnosti:
+O
+*
+
+v nichž  rlt  r2,   r3, . . .  značí   nekonečnou   řadu   kladných   ryzích   zlomků, ubývajících do nekonečna, t. j.
+v + i, lim rv — 0.
+Volíme-li zde na příklad
+bude zbytek
+«,                                 L«• + !                   Lr+2
+ď,, = HG — m =----~-----------------^—
+/T/',. _l_1          '         /->-"",.    l    1    -T-*
+kladná veličina, která jest menší než
+kterýžto zlomek dle učiněných supposic jest menší než veličina
+t. j. bude
+Následovně bude
+O < d\. < r""
+sin no TI | — sin d1,. n <^ r"" TT , a tedy člen naší řady příslušný k uvažované hodnotě n
+sin UG jt
+bude absolutně větší než veličina
+l   / wn V ^  V   rv J   *
+která roste zároveň  s v  přes všecky meze.   Hodnoty G  tvaru (12) vedou tedy k řadám divergentním;   totéž platí o veličinách tf, jež z hodnot (12)
+VI. ﻿10
+vzniknou přičtením racionalného čísla s jmenovatelem gk (k — l, 2, 3, 4,. . .), jak snadno se přesvědčíme.
+4. Po této přípravě přistupme k stanovení sdružení členů m a n ve výrazu (10), o něrnž učiněna výše zmínka. Proveďme sdružení to pro součet
+(13)
+W                       \     l              \m     *             L.     m K   \ ----:----------------\- (--- W)""  ---- COt -------- ) .
+sm n a n                      G            G   J
+Buď Q veličina kladná, jež nepřevyšuje polovinu, jinak libovolná; čísla n, pro něž absolutně nejmenší zbytek veličiny n G převyšuje neb rovná se Q, znamenejme n""; čísla n, pro něž platí opak, znamenejme n'.
+Ke každému číslu (kladnému a celistvému) n' přísluší kladné celistvé číslo m1', tak aby rozdíl n' G — m' = #• byl absolutně menší veličiny p. Touto podmínkou jest souhrn párů čísel celistvých a kladných m' a n' úplné charakterisován.
+Žádné dva páry čísel (m', n'} nemají jeden prvek společný. Neb je-li dáno n', jest m' jednoznačně určeno; naopak odpovídá danému m' pouze jedno n', a sice podmínkou
+m
+— n
+Vyloučíme-li   z řady přirozených čísel l, 2, 3, ...   veškera čísla   m' zbudou čísla, jež znamenati chceme m"" '. Pro tato bude absolutně nejmenší
+m""                                Q
+zbytek veličiny - - buď  větší  než — , aneb bude roven tomuto číslu.
+Z definice čísel m"" a n"" plyne, že řady
+w"""" a
+l  V1 /        N n         m"" n
+. — -, — ,   — z i (— WY cot
+sm«'ffír         G  &Jv                     G
+konvergují absolutně, i zbývá jen vyšetřiti součet párů
+(13.)            v ( .""7   + (- „r - «*—).
+Li \   sm n G n                    G           G    )
+Nahradíme-li zde n G jeho hodnotou m1 - •- fr, bude
+/     HN ,   .                       m' n                         & it
+sm n G n -^ ( — l )"""" sin >T n, cot - ^ — cot --- ,
+G                         G
+a obecný člen součtu (13a) obdrží tvar
+(14)
+sin §• n
+VI. ﻿11
+Poněvadž
+n
+, a cf > l, bude dle vzorce
+7T COt W 3T — ---
+2«
+v  — u'
+veličina
+absolutně menší než
+Itx                             •«
+# JT           l
+— cot--------------—
+G               G              &7t
+1     *
+-Y
+* L
+2      '
+kterážto veličina je nezávislá na m', rí'. Podobnou vlastnost má rozdíl
+l
+sin 9- n         # a tedy bude lze veličinu (14) psáti takto :
+kde c& jest obsaženo ve stálých mezích. Řada
+konverguje absolutně, taktéž řada
+poněvadž veličinu
+lze psáti ve tvaru zv&> log w, O <C -^- < l.
+9
+Součet (13) lze tedy rozložiti ve tři absolutně konvergentní výrazy
+(13*)
+,             /        ^""
+---:-----77--------------7 , (----»T     Cot----------
+sm«   o it        6 í*l^                       G
+,   v^ /       w""''7           /        N f  l         m' Jt\
++ 7, ( —-----T---------h (— ^)    — cot-------   .
+1  Li \  sin « G n              'G          G   /
+Zbývá ještě dokázati, že mezní výraz na pravé straně rovnice (10) splývá se součtem (13). Při tom předpokládáme, že veličina s je ryze pomyslná a kladná, i znamenáme ji /L. Bude pak dle známé věty Darbouxov>
+VI. ﻿12
+/(/l) -/(O) =!.•/ (zU
+
+platit nerovnost
+sin (í*  G - \- i |) a         sin «"" <? TT
+lo     7L'                             JT COS
+L   sin (n"" <7 -]- i IJ TT           sin2 («"" <7 -)- z
+pomocí této a na základě nerovností
+| sin (n"" G -\- i Lj) -n \ > | sin n"" a n \ . cos z |t :r, | cos (/z"" (7 -|- z |x) TT | < cos z |t ^r
+shledáme, že bude rozdíl
+^J   sin (/z"" G -f z |) JT absolutně menší než veličina
+sin n   G
+cos
+čímž dokázáno, že
+Podobně se dokáže platnost vzorce lim V (— w)""'"" cot
+f = O ^^""*
+;«   — z
+takže zbývá jen vyšetřiti limitu výrazu
+I
+^      ,         ""        -          --
+sin («'a + z í) TT              '     a              (7
+K tomu cíli nám podá zmíněná věta Darbouxova
+I/            w*'"" + 'L                                            l                /«' --- z |        \ .     ,   ,-----,      . ...         4- (- WY — COt------------— Tt } \ sin («' o- -|- z |)«                 ;     (7                 (7           /
+V^'            i       /       zť'a                      ,1         ^/7r\         .     .. .
+— í—:—?--------[-(-w)-'—cot-  .-) =L09(6),
+[         \   Sin W   <7 «                               (7                 (77
+VI. ﻿13
+při čemž znamenáno
+sn
+tf,)*  \ !L) ar   /
+sin'
+n
+
+Tu jest pak jako výše %' cr = ;«' -|- 0-, -   - := «'
+, tedy
+sm
+IV                          71 COS ("" —— l L  ) 7f    \
+sm
+— n
+Volíme-li veličinu Q, která sloužila k stanovení párů m', n', dosti malou, bude nám lze učiniti #-}-řLj absolutně menší než jistá veličina malá. Pak bude
+l                         l
+sn
+3T COS
+f-
+sn
+B
+. sin
+při čemž A, B, C značí veličiny nacházející se ve stálých mezích. Obdržíme tak pro naši veličinu <p (|1) výraz
+log «; -
+C]
+log w
+Výraz obsažený v závorce | j   po dosazení hodnoty
+zv& + '^ - l -f (í> + / řj log ze; + Z? . («• + i é)2,
+kde Z? zůstává   v  konečných   mezích,   obdrží   tvar  nD^   kterážto veličina zůstává ve stálých mezích, a tedy
+9, &) = (- 1)-' w* [w* + 'tt (A log iv - B] + čT-f AJ ;
+VI. ﻿14
+Tato veličina jest absolutně menší než jistá konstanta násobená wm', a je tedy členem řady absolutně konvergentní. Odtud je zřejmo, že též součet výrazů (15) současně s | bliží se nulle, a že tedy platí
+wn ° +' i             ,          ,1         m —
+———-----r~n^------r (— w)    — cot -
+sin t n G -\- 1L) n                'G                G
+\^ (      wn ""                  .1        m re \
+= TJ ( —-—;--------h (— w)   - cot-------) •
+** \  sin 11 G n                'G           G    /
+Tím dokázáno, že pravá strana rovnice (10) má za hodnotu součet (13). Následovně máme rovnici
+(16)
+G W               71
+—— sm —
+7T""                     G
+log x d x
+W X COS-------1- X2} (l -h Xa}
+G
+log w
+Tí
+m, n = l, 2, 3, 4, ...
+ze které je zřejmo, že náš součet (13) jest funkcí analytickou reálné proměnné G.
+Pravá strana rovnice (16) liší se ode všech druhů výrazů v analysi dosud užívaných. Jednak postrádá smyslu pro všecka racionálna <?, tedy pro soustavu hodnot všehustě rozložených, jednak přejde aspoň za jistých rovněž všehustě rozložených hodnot transcendentních v určitou hodnotu jen při vhodném sdružení ukazovatelů m a n, a způsob tohoto sdružení závisí na hodnotě a na povaz^ arithmetické proměnné G.
+Avšak vzdor tomu, že zevnější tvar a sestavení výrazu do tak značné míry závisí na arithmetické povaze argumentu, jest vnitřní analytická povaha jeho hodnoty zcela jednoduchou.
+Rovněž co se tkne proměnné w narážíme zde na překvapující zvláštnosti. Je-li G algebraické číslo irracionalné, je pravá strana (16) součtem dvou mocninových řad, z nichž jedna obsahuje celistvé mocnosti veličiny w, druhá celistvé mocnosti veličiny ze/7; je-li však G transcendentní veličina jistého druhu, ztrácí se tu povaha (od sebe neodvislých) řad mocninových úplně; obě řady dostávají se do závislosti, ve které jednotlivé členy zachovají sice povahu mocnin, ale řady o sobě vzaty divergují.
+Vyšetříme ještě pravou stranu rovnice (10) pro případ racionalného tf, aby se poznalo, jaký výraz doplňuje pravou stranu na úplnou definici funkce.
+Daná hodnota G budiž
+ff = ^-.   Í<7>1)
+ví. ﻿15
+kde />, q jsou celistvá kladná čísla nesoudělná. V řadách
+sn
+03
+—, T L(-•*• o*.
+m — s
+stane se nekonečně mnoho členů nekonečně velikými pro s =: 0.   Jsou to členy, jež příslušejí hodnotám n = q, 2 ^, 3 q, . . . resp. m —/, 2/, 3/, .. . Vyloučíme-li je, zbudou členové, jež jsou funkce pravidelné na místě s = O, a jež tam mají hodnotu
+L'(-
+W*""            l         l     t          V
+—------------\- — (— wy
+sin n<3 it           G
+při čemž v součtu se   podrží  pouze   členové   koneční,   t.   j.   smyslu nepostrádající.
+Součet vynechaných členů sestává z výrazů
+(—W)* .W*
+sn s n
+sin s TI        l — ( —
+q V1 /                       g s n               q              q s n            (—
+------ >, — wY* cot -2------—-----L-. cot                     v
+p                 p                 p
+takže součet bude
+/      ws              q               q s Jt   \       (— w
+—.-------------— . cot -^------        v   —
+\ sin í it          p                 p     /   l — (—
+.                       .
+( — wy
+Výraz tento se  na místě  s = O  chová  taktéž   pravidelně  a má tam hodnotu
+log w           ( — zv)*
+Odtud plyne, že rovnice (16)   platí též pro racionálna G — —,
+ř
+podrží-li se  na pravé straně   pouze   členové koneční,   a při-pojí-li se k výsledku výraz
+bude   dlužno   pravou
+log zv l — (— wy         n
+jinými slovy:   Pro racionálně hodnoty  G — — '_ stranu rovnice (16) nahraditi výrazem
+VI. ﻿16
+log w
+— «A>
+*P
+,  9
+n sin —=
+m q
+P
+při čemž   čárky   u znamení   součtu   znamenají,   že   dlužno vynechati členy nekonečné.
+Z výsledku tohoto je zřejmo, jak se tu vyjímá chování funkce w definované rovnicí (16). Pro racionálna G ztrácí se povaha pravé strany jako součtu mocninových řad na dobro, a připojují se členové logarith-mičtí, jichž součet jest
+( — iv)t         lo   w
+Netřeba připomínati, že lze obě řady (16a) vyjádřiti ve tvaru zakončeném, což konečně patrno také z integrálu (16) přímo. Cennější jest poznamenati, že lze výraz (16a) též vyvinouti z obecného (16), klade-li se
+0~         {- |, při  čemž L značí nekonečně ubývající hodnotu irracionalnou.
+5. Součet na pravé straně rovnice (16) dává podnět ke studiu nového druhu výrazů analytických, které na rozdíl od řad obyčejných nazývám dvojicemi řad. Jsou to tři typy součtů, a sice
+V  l    j- f     \
+7    f (n a)
+r f      \
+n -f-f(m) — cot
+G
+- >,
+G      }
+sin n G
+(-ir
+— cot-----
+G                  G
+G sin
+m
+Funkce f(x) má tu hověti podmínce, aby řady
+CO                                                                    00
+J3/(»-h*»),
+•rt     l
+sestrojené   z hodnot funkce f(x)   a  její derivace /' (x]  konvergovaly absolutně a to při každé řadě hodnot veličin i^, í^2, ?^3, . . .,   vzatých z mé-
+zery  ( --- ± . . . -y) .
+Konvergují-li mimo to řady
+VI. ﻿17
+pro « ^ x— l, budou naše součty složeny ze dvou řad konvergentních, jakmile <? značí algebraické číslo stupně ^ x. Takovými jsou na př. dvojice sestrojené pomocí funkce
+/(*)-       ,-       l     ^-4-1       •
+O udaných dvojicích řad lze dokázati, že definují spojité funkce proměnné G, byla-li za základ vzata spojitá funkce fix] [kterážto podmínka jest ostatně nutná k existenci derivace f (x)} a není nesnadno nalézti hodnotu, jíž tato spojitá funkce nabývá na místech racionalných.
+Tak na př. nalezneme, že funkce definovaná dvojicí
+f(ll G) COt // G
+I    r,   ,         mít
+H------/ (m) cot-------
+a ""                   o
+(-m, n — l, 2, 3, . . .)
+pro racionálně hodnoty 0 — — obdrží hodnotu
+n P
+n h n          (/   Ví'  rf.            ni q n
+lW801      — •
+při čemž v součtech 2/ dlužno vynechati členy nekonečné, příslušné k hodnotám ;/ — q, 2 q, 3 q, ____ ; ;// — />, 2 /, 3 /, ---- Co se tkne theorie těchto veličin, dlužno vyčkati, až nám analytická prakse poskytne dostatečný fond zkušenosti, aby se vědělo, v jakém směru se tu třeba ubírati, má-li se dospěti k výsledkům nejen správným, ale také užitečným. Prozatím postačí poukázati k četným i překvapujícím zvláštnostem, jakými se honosí případ zvláštní (16), a vzpomeneme-li si, jakého druhu úvahy k jeho odvození vedly, můžeme s odůvodněnou předtuchou očekávati podobného druhu a snad ještě mnohem zajímavější i cennější výsledky od studia oněch tunkcí, které majíce k rovnoběžníku period l a G vztahy jednoduché a tedy s funkcemi elliptickými souvisejíce, zachovají na rozdíl od těchto pravidelnou povahu analytickou i vůči reálným hodnotám komplexní proměnné G.
+VI.
+ ﻿*"

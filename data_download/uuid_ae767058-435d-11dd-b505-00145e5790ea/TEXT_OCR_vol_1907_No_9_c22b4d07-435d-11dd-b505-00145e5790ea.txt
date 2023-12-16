@@ -1,0 +1,119 @@
+"","x"
+"1"," ﻿ROČNÍK XVI.
+TŘÍDA II.
+ČÍSLO 9.
+O novém odvození řady Lagrangeovy.
+Napsal Dr.  FRANT.  RÁDL.
+(Předloženo  dne  20. března   1907.)
+Rozvoj funkce f (x) dle mocnin jiné libovolné funkce F (x) proveden nejprve od Lagrange — odtud jméno vzniklé řady. Koéfficienty rozvoje stanoveny různými cestami,*) nikde však nebyl stanoven zbytek řady podobně jako u rozvoje Taylorova, ač jest zbytek ten důležitý při vyšetřování konvergence. Nadepsaný odvodil koéfficienty tyto pomocí limitních funkcí, všeobecných jaksi differenciálních poměrů, úplně ana-Irgicky dle řady Taylorovy, avšak výrazu pro zbytek v obecném případě neobdržel. * *)
+Velmi jednoduchým způsobem obdrží se rozvoj Taylorův i se zbytkem integrací. Jest otázka, je-li možná methodu tu upraviti pro řadu Lagran-geovu. V následujícím jest podáno řešení, jímž odvozen i zbytek.
+Aby methoda lip vynikla, řešme nejprve specielní případ, totiž rozvoj
+f (x) dle mocnin Ix.
+ePy
+Je-li při y = f (x) limita y1 = —— =fl (x) = x f (x), označme obráceně
+Cv%
+l
+f                                 f                       f f1 (x)
+\fl (x) dx—f(x) = \ f (x) dx = l—------dx, vynecháme-li konstantu. Jest
+«/                                                                               mJ                                                       W            X
+i                                                                     i                                i
+tedy  \ dt — l----= It, mimo to platí také  \ u v1 dx=uv — \ v u1 dx dle
+částečné  integrace.
+Užitím tohoto vzorce platí tedy, pokládáme-li x za stálou, t za ne-noodvisle proměnnou:
+ti
+J/1 (x + l — O dt = Itf (x + l — t) + \fu (* + l -
+l                                                                     í
+<I                                                                                               <I
+Í/n /„,i      j\ /y jf      vfy_   /-u r*.   i  i      y\   i   l /ni / /    í^r -f- J — t) It dt—      .    /    (#4-1 — ř) -f- \ j     ( éL .                                          •'
+dt ,
+* +   -
+*) Bůrmann,   Mémoires de 1'Institut, tome II, p.  14. —  Puiseux, Lion-uville's Journal   Bd. 15.
+**) O limitních funkcích,  Rozpr. C. Ak. 1907.
+Rozpravy:   Roč. XVI. Tt. II. C. 9.
+IX. ﻿ti
+il
+J/""1
+-«+
+IV/
+3!
+*                                              J
+Uvážíme-li,   že í/1 (* + l — t) dt = / —f(x + l — i) =f(x) —/(l), i                              í
+obdržíme sečtením hořejších rovnic rozvoj  funkce dle mocnin Ix :
+xl
+v     l           '   (« — 1) !
+i
+Abychom mohli dáti tomuto výrazu pro zbytek také jiný tvar, užijme
+x                     x
+známé věty o střední hodnotě \ u v d x — U \ v dx, kde u, v jsou funkce x,
+•)                      •)
+Xt                                            xa
+U  je   hodnota   mezi   největším   a   nejmenším    obnosem,   kterého   na-
+XI
+r                   r   v
+bude u v intervallu x0 . . . A"".   Platí pak též  \  ww^% = \w — d x =
+•j                   «/      %
+-V0                                                  .10
+.V                                    ATI
+C*                                                      f*
+U \ — dx=U\vdx.
+X l
+f        (/   t\""~~l
+Tedy Rn = U \— -- — - dt,    kde   U se  nachází   mezi   hodnotami
+J (n — 1) ! i
+/» (x) a /» (1), tedy C7 = j"" (9> x) a #„ = -^~ J"". (» x), l ^ & ^ — .
+/t'    •                                                           ^V
+V poslední nerovnosti platí znamení svrchní nebo spodní dle toho, je-li x^ž l.
+Nyní hledíme podobným způsobem odvoditi všeobecný rozvoj La-grangeův. Dána funkce / (x) , kterou dlužno rozvésti dle mocnin funkce F (x). Budiž xk jeden z kořenů rovnice F (x) = O, a nechť je dána funkce
+/       \                                 t       f      \            W      J\f                             -W~>      l       <.                                               .      A     .
+9 (x) rovnici \            = F (x) .  .  .  . (A).
+j <p \x) ﻿dlv Je-li y =/ (x), y' = <p (.v) /' (*) =/' (*) - -^
+, označme obráceně i
+r                                   f //                     /  (x)                              i j        «t
+\fl (x) d x — / (x) = \j  (x} dx = \ -—j-— d x. Platí tudíž \ dt = \——,
+l         i
+což dle rovnice (.4) jest = F (i). Též patrně platí \uvldx=uv-— \ u1 v d x. Je-li x stálá, t proměnná, plyne :
+f/n
+«/
+— O
+/1
+- o
+Sečtením těchto rovnic a dosazením za t = x obdržíme, uvážíme-li,
+'p                                                      X
+že platí \ f1 (x + xk — t) dt   =/—/ (x +*» — /) =f (x) — / (xk),   řadu
+J                                  l
+Lagrangeovu i se zbytkem:
+F (x\
+/ w =/ (**) + -^
+x l
+.Y I
+-V I
+Poněvadž však opět platí  \uvdx = U\vdx,  možná dát tomuto
+zbytku  jinou formu.   Možná totiž psát RH =
+dt, kde  U se
+nachází mezi /» (x) a /íř (^), tedy U =f'l(&x}, l
+,   a tudíž
+«!
+s_Li
+-* %
+IX. ﻿Odvození toto jest nezávislé na Taylorově řadě, jejíž důkaz jest specialisací této methody. Stačí totiž místo F (x) položiti x, takže xk = O, <jp (x) = l, a máme obyčejný rozvoj Taylorův.
+Známé jest odvození Taylorovy řady integrováním rovnice differen-
+dn y
+ciální      n  — fn(x] .*) Zavedeme-li místo derivace limity svrchu uvedené, ci x
+obdržíme týmž postupem rozvoj Lagrangeův.
+dny Te-li totiž •   ""     = /""(#), obdržíme integrací
+dxn       '    ••  • •
+X l                                          X l
+f ďly             C                        ífcd v
+\   ,      dx =  l/* (x) dx čili —.----'— = /2=í (x) — / 2=í (xa] ,
+i   // yrn                        )                                               u, TC11—
+,Vo                                              AO
+[(/""—l y ~1 , )t—1 • l ~o.
+.V = .1 o
+Další posloupnou integrací dostaneme:
+____ _  —    / n—'2 ( Y\ ___ r T^ l Y\___T^ ( Y   \~\    / Jí—
+,       __.)            J------\    /          L      \    )                \    0'J   /  —
+l!
+neboť integrační stálá na levé straně vždycky zmizí,   na př. v poslední rovnici iest [y]        =0.
+J                L^    _J   ^ — ^
+Řešíme-li poslední rovnici dle _/"" (x), obdržíme Lagrangeův rozvoj. Položíme-li v něm pro xtí = xk, bude míti týž tvar jako nahoře, při čemž hodnota y značí zbytek Rn. Kdybychom chtěli dostat vhodnou jeho formu, postupovali bychom týmž způsobem jako při Taylorově řadě v citovaném článku. Methoda předešlá vede však k němu daleko pohodlněji.
+*)  Uvedeno na př. v Serret, Diff.- u.   Int.-R,   Bd.  II.  2. 693 sq. V Táboře, dne 12. března 1907."

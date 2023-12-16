@@ -1,0 +1,244 @@
+"","x"
+"1"," ﻿ROČNÍK XV.
+TŘÍDA II.
+ČÍSLO 25.
+O průběhu hraničných čar totální reflexe u dvouosých
+krystallů.
+Napsal Dr. FRANT. ZÁVIŠKA,
+s.  docent češ. univ.  v Praze.
+(Piáce z fysikálního ústavu české university v Praze 1906.) (Předloženo dne 8.  června 1906.)
+Pojednání toto má býti doplňkem k práci mnou dříve uveřejněné,*) v níž jsem se pokusil stanoviti průběh hraničných čar totální reflexe u dvouosých krystallů za předpokladu, že dva z hlavních indexů lomu se liší velmi nepatrně, takže v prvním přiblížení jest průběh čar takový jako u krystallů jednoosých; vzorce odvozené byly pak verifikovány měřením na aragonitu. Není nesnadno postup tam užitý rozšířiti i na případ docela obecný, omezený pouze předpokladem, že rozdíl indexů lomu jest dosti malý, což ostatně v praksi jest vždy splněno.
+Po stránce mathematické jedná se tu o úlohu tuto: Úhel g> normály lomené vlny v krystallů s normálou rozhrarrí jest stanoven bikvadratickou rovnicí tvaru
+COt
+--
+3
+COt    (f   -~ ířá COt-    <3P     ~ í73  C°t V     ~ a4   —            •     •     •          >
+jejíž koěfficienty závisejí na orientaci rozhraní a roviny dopadu k osám optické symmetrie krystallů a na úhlu dopadovém 0. Rovnice (1) dává kořeny čtyři, z nichž ovšem jen dva odpovídají vlnám lomeným. Možno to nejjednodušeji interpretovati takto. Představime-li si pochod světla obrácený, takže světlo se láme z krystallů do media isotropického, pak patrně do směru odpovídajícího úhlu O lámou se z krystallů vlny dvě; jich úhly dopadové qp jsou dány dvěma kořeny rovnice (1). Současně
+*) Rozpravy Ces. Akati.. II. tř., roč. XI., č. 20, 1902.
+Rozpravy: Roč   XV. Tř.  II. Č. 25.
+XXV. ﻿vznikají odrazem na rozhraní krystallu taktéž dvě vlny, a úhly odrazové těchto vln obdržíme, vezmeme-li druhé dva kořeny rovnice (1) s opačným znamením. Při počátku totální reflexe ta z obou vln dopadajících, pro niž totální reflexe nastává, jde nerušené dále, úhel dopadu a úhel odrazu vyplňují se tedy na 180°, z čehož plyne, že rovnice (1) má dva kořeny stejné. Tím je tedy dána podmínka pro hraničný úhel í>.
+Obecně je tato úloha neřešitelná, poněvadž podmínka, aby rovnice (1) měla dva kořeny stejné, čili, aby její diskriminant vymizel, vede k rovnici stupně dvanáctého v šiti2 3>. Nutno tedy se omeziti na řešení pouze přibližné, k němuž použijeme rozvoje v potenční řady. Jsou-li totiž I\,V^TS
+hlavní rychlosti světla v krystallu, a je li i\
+a hodnoty   tyto   dosadíme   do   onoho   diskriminantu.
+klademe
+«),     ....   .(2) Pokládáme- li   nyní
+veličiny L a rt za neodvisle proměnné, jest patrně sin* 0 — anebo   vzhledem
+F2       l k následujícímu lépe                    , kdež   V značí rychlost světla v isotropi-
+7'22     S!il2 0
+ckém mediu — algebraickou funkcí oněch veličin, definovanou podmínkou, aby diskriminant rovnice (1) vymizel. Jsou-li tedy veličiny fa?/ dosti malé, možno ji rozvinouti v potenční řadu postupující po mocninách těchto proměnných.
+Je-li L i t]  rovno nulle,   přejde   krystall v medium   isotrop.ické,   hra-
+ničný úhel jest jeden a jest dán relací                    — l, čímž jest stanoven
+v<í     sin q>
+absolutní člen řady. Pro L a ?/ od nully rozdílné, máme obecně dva rozdílné hraničně úhly, takže bod L = 0, */ = 0 jest pro uvažovanou funkci bodem singulárním, a nutno tedy nejdříve stanoviti, po jakých mocninách veličin L a rt onen rozvoj bude postupovati. Diskussí nejnižších členů onoho diskriminantu dala by se ona otázka rozhodnouti; my však si úlohu značně zjednodušíme tím, že na místo dvou neodvisle proměnných L a >/ zavedeme pouze jednu pomocí substituce c — my, kdež m pokládáme za konstantu charakterisující určitý krystall. Jeli n>ní m ~ 0, čili v^=-v2 je krystall jednoosý, a oba hraničné úhly jsou dány relacemi
+F2         l
+kdež veličiny « a /j jsou konstanty závislé na orientaci rozhraní a roviny dopadu k optické ose krystallu. Patrně postupuje tu rozvoj  po celistvých mocninách proměnné  >/, z toho lze souditi, že to platí i v případě,  kdy m je od nully rozdílno. Klademe tedy
+XXV. ﻿K vyčíslení koefficientu tohoto rozvoje neužijeme však onoho diskriminantu, poněvadž je to výraz velmi komplikovaný, nýbrž raději rovnice (1). Koefficienty této rovnice závisejí, jak řečeno, na orientaci roviny dopadové a rozhraní k osám optické symrnetrie krystallu. Abychom je stanovili, zvolíme si, jak se obyčejně děje, systém #, y, z pevně spojený s rozhraním a dopadovou rovinou tak, že osa s je normálou rozhraní, osa x padá do průsečné čáry roviny dopadové s rozhraním, osa y je tedy normálou roviny dopadu. Kladně čítáme osu z do krystallu, osu x tak, aby vlnám odraženým i lomeným odpovídala kladná .v (předpokládajíc dopad z isotropického media). Poloha tohoto systému v osách optické symmetrie krystallu x\ j>', s' buď dána schématem
+.v        y
+X              K.              Či..             ((
+y
+Yi        Y2        Ys
+Koefficienty rovnice (1) pak jsou:
+(4)
+— 2
+a  — '> (v 2 v 2
+""l   --- "" V^í     ^3
+a.2 — V2 2 r-3 2 (a, 2 -f «3 -) + v3 2 v, ~ (fa - + ,Í3 2) + z;1 2 z>2 -
+2)
+s
+• • (5)
+J/2 Í/H80   IT2'
+-,   2 ,
+r?.   2 J_ -,   2\ ,,   2  l J_ ^1        ,    ^   Jh   j
+Zavedeme-li nyní sem proměnnou i] pomocí vztahů (2) a (3), při čemž v rozvoji (3) podržíme konečný počet členů, jak právě toho přesnost počtu vyžaduje, je patrno, že koefficienty a0 . . a± jsou racionálno celistvé funkce proměnné f/, a z rovnice (1) pak plyne, že col (p možno pokládati za algebraickou funkci argumentu //, takže lze ji také rozvinouti v potenční řadu.
+l* XXV. ﻿Patrně obdržíme takové rozvoje čtyři, a nyní volíme koěfficienty A^ A2 . . . v řadě (3) tak, aby tyto rozvoje resp. jich první členy souhlasily.
+Provedeme-li tedy počet a dosadíme-li   do rovnice (1), obdržíme po zkrácení v2* novou rovnici tvaru
+I)Q cot^ fp 4~ b^ cot3 (p 4~ b., cot"" fp -\- ba cot fp 4~ b± — 0, kdež             /;0 — l — ij («32 4- /J3 2) -f ;//1] (/i32 -f }•/) — /// i^ p'3 a
+- 2 -
+- (l + A, r] + J, r/2 -f . . . .) [2 -
+Jsou tedy koěfficienty bl a /;3 řádu >h b.A a <^4 řádu >/2, takže možno klásti
+Zavedeme-li   konečně   ještě   k   vůli  jednoduchosti  x — cot (p,   a   po-držíme-li v rozvoji (3) prvních (n -\- 1) členů, zní rovnice (1)
+-f ^22 ?; + . . .-f- ^2, „ + ! »ý"") -f x rj2 (^32 -f- ^ 33 »/ -f- . . -L Í3I
+Rozvoj se děje nyní podle známých method. Je-li r/ =: 0, má tato rovnice čtyřnásobný kořen x = 0, pro ?? velmi malá má tedy ta rovnice čtyři kořeny x taktéž velmi malé, jež se dají rozvinouti v potenční řadu tvaru
+X — V0 l/-""-'  -j- Vl 1J-""'   -f V% »/•""* -j- . .              7^0 ^ 0  ........   (6),
+kdež veličiny /í0, /ij, ;u2 . . jsou kladné racionálně a tvoří řadu rostoucí. Abychom rozvoj provedli, klademe x = v i/ !'°, pro t/=:0 plyne pak z rozvoje (6), že jest í'=r7/0, a tedy od nully rozdílno. Dosadíme-li tedy za x do rovnice (l'), nutno /i0 voliti tak, aby rt = 0 odpovídala aspoň jedna nenullová hodnota v. Snadno se přesvědčíme, že podmínku tu splňuje
+XXV. ﻿> jest A- — L'r/> a po dosazení do rov-
+pouze [IQ •=. \. Klademe-li tedy */ nice (l') obdržíme, zkrátíce r/4,
+V2f
+Je-li nyní  >/ .— 0, obdržíme pro ?>0  rovnici tvaru
+z níž plynou čtyři obecně rozdílné kořeny v0 odpovídající čtyřem rozvojům proměnné T. Kořeny tyto jsou patrně v10, 7'20 a — t',0, — v20. Při počátku totální reflexe mají dva z nich splynouti, je tedy buď z'10 = — z>1()— 0, aneb vlo=v20. První podmínka vede k rovnici $42~0, z níž plyne
+druhá podmínka vyžaduje, aby L212 — 4/!>4.2, čili aby l [2 ^ + K 2 -f A 2) - »/ (A * -i- ?l »;] = ^ ^
+Tato druhá rovnice jest patrně obecně nesplnitelná, zbývá tedy pouze rovnice (7). To souhlasí i s tím, co bylo dříve řečeno o významu kořenů rovnice (1). Kořeny z']0, í'20 odpovídající patrně vlnám v krystallu dopadajícím, kořeny — vld, — z>20 vlnám odraženým, při počátku totální reflexe vlna dopadající splyne s vlnou odraženou, jest tedy v10 zz — z/10 — 0. Zároveň patrno, že v tomto přiblížení jest x — coiy —$, vlna, pro niž to.tální reflexe nastává, jde rozhraním, úchylku mezi paprskem a příslušnou vlnou tedy zanedbáváme. Řešením rovnice (7) obdržíme konečně
+= in
+i, 2) ± V
+(7')
+máme tedy pro .4,   dvě obecně  rozdílné hodnoty, jak má i býti.
+Jde-li nyní o stanovení dalších členů v rozvoji (3), rozvineme opět v z rovnice (lv) v potenční řadu, při čemž ovšem nutno nyní klásti b^ ~0. Je-li í/ ~ 0, má tato rovnice dva kořeny míliové, o rozvoj těchto v potenční řadu právě se jedná. Značí-li tedy vn nejnižší mocninu ?/ v oné řadě, klademe opět v^zvtj'1'"", a určíme VQ tak, aby pro rt rr 0 bylo z<y — íc'0 od nully rozdílno. Snadná úvaha vede k tomu, že opět vyhovuje i»0 — l, a dosadíme-li tedy V^wrf do rovnice (l""), obdržíme po zkrácení
+xxv. ﻿Dosadíme-li »/ = 0, máme rovnici pro ec'0
+podmínka,   aby   tato   rovnice   měla   dva   kořeny   stejné,   vede   k   relaci ^32a — 4Z>21 L43, z níž vypočteme
+A   —_______'-""*   l _\   l * 8                                        i;
+Tím je tedy stanoveno sin 0 až na veličiny řádu í/3, což jest přesnost ve valné většině případů docela dostačující. Další počet stěžuje se tím, že společný kořen rovnice (8) w0 jest obecně od nully rozdílný, nutno tedy substitucí zv =: zv'-\-tv0 rovnici (!'"") transformovati tak, aby měla dva kořeny míliové, a ty zase rozvineme v řadu týmž postupem jako dříve.
+Pokud se týče přesnosti, jaké tím dosaženo, uvažme toto: Pozorovací chyby při měření hraničných úhlů totální reflexe v nejpříznivějším případě jsou asi kol 0*1 minuty; předpokládáme-li tedy, že <Z> obnáší asi 60°, nutno sin <2> stanoviti přesně až na jednu jednotku pátého místa desetinného. To tedy vyžaduje, aby rt3 bylo řádu 10~5, čili ?; asi 2'10~2. Z rovnice v32 = z'%'-(l— í^) plyne pak
+2        /V 2 _ ,y 2                                          y   __ jy
+3            2         ví-       ví  i-,    v            o        3          S
+AT 2     '»   C)'1 PrlDlizne í/ z= l                 ,
+značí-li A7!, A^, N3 hlavní indexy lomu krystallu. Vzhledem k tomu, že N% mívá hodnoty kol 16, je patrno, že difterence hlavních indexů lomu nesmí býti větší než T6 10~2, nesmí tedy obnášeti více než asi dvě jednotky druhého místa desetinného, což ve valné většině případů je splněno.
+Při tomto přiblížení jest dále .Y =: coty — zv(> //, výpočtem z rovnice (8) obdržíme snadno
+W° ~~    ~ 2Ai  ^ ~~ V [«j2-\-/Jt2j — 7«(í 2~-f-T;X2)] -f-47w/jta  ""~ ~         ~"" 2)
+lomená   normála   nejde   tedy   rozhraním,   nýbrž   uchyluje   se z něj  o úhel řádu i].
+Vzorům odvozeným dáme nyní vhodnější tvar. Jak známo, má každá z hraničných čar totální reflexe jedno maximum a jedno minimum, takže máme celkem čtyři význačné hodnoty hraničného úhlu, z nichž tři odpovídají třem hlavním indexům lomu a nastanou tehdy, když průsek roviny dopadové s rozhraním, t. j, osa x, padne do jedné z hlavních rovin optické symmetrie krystallu, je-li tedy buď KÍ —M, nebo /it =0, nebo •yí — 0, jak patrno z (2).
+XXV. ﻿Oznacímc-li tyto hodnoty hraničného úhlu $|} 0|t $8, platí
+v _ ^1
+v~ N '
+kdež iV značí index lomu isotropického media Poněvadž jest N3 > N2 > ./VÍ est i 3>3 ^> 02 ^> íDj. Odpovídá tedy větší z obou maxim úhlu 3>3, menší z obou minim úhlu <L15 která z obou středních zbývajících hodnot odpovídá úhlu </>2, nelze pouhým pozorováním hraničných úhlů rozhodnouti; jedná-li se však pouze o průběh hraničných čar, jest lhostejno, kterou z obou těchto hodnot zvolíme za 02. To souvisí s tím, že vlnoplocha Fresnelova není svým rovinným řezem určena jednoznačně, nýbrž lze nad ním sestrojiti vlnoplochy dvě, jež se od sebe liší hodnotou oné střední rychlosti v2. Uhly Ot a 03 neleží obecně na téže čáře; v dalším budeme nazývati tu čáru, na níž leží d>3, vnější, tu čáru, na níž leží (řj, vnitřní.
+Která z hodnot At ve výrazu (7') odpovídá čáře vnitřní, a která čáře vnější, to lze snadno rozhodnouti. Dosadíme-li tam totiž a{ =: 0, obdržíme pro ^í1 hodnoty ;// a —/^2, z nichž první odpovídá kladné hodnotě odmocniny, druhá záporné.
+Z rovnice
+V
+Z',2    sin2®
+= =l-\-m rt =
+plyne <2> ~tf>j, kladnou hodnotou odmocniny je tedy určena čára vnitřní, zápornou vnější. Jest zajímavo, jak i tu se jeví dvojznačnost ve stanovení <Z>2.
+Dosadíme-li totiž /3j = 0, jest výraz pod odmocninou v (7') roven (mY\z — ((i2)- Jeli tedy W7i2—^i2^^) Pak kladné hodnotě odmocniny v (7') odpovídá ^/j =: 7//j>: 2—e^2, záporné 0; úhel C&2 leží na čáře vnitřní. Je-li však my12 — «12<^0, jest tomu právě naopak, úhel 3>2 leží na čáře vnější.
+Dosavadní úvahy byly učiněny za předpokladu, že číslo m jest mírné, že tedy veličiny L a í? jsou téhož řádu. Není-li tato podmínka splněna, je-li tedy na př. rt velmi malé proti s, jak je tomu u aragonitu, užijeme rozvoje v potenční řadu postupující po mocninách »/, pokládajíce e za stálé. Je-li t; = 0, přejde krystall v jednoosý, a oba hraničně úhly dají se lehce stanoviti, poněvadž rovnice (1) rozpadne se ve dvě kvadratické. Tím jsou tedy dány absolutní členy oněch rozvojů, členy další stanovíme touž cestou jako nahoře.
+Veličiny «,, /Ít, y1 ve vzorci (/') se vyskytující jsou směrové kosinusy osy x, t. j. průsečné čáry roviny dopadové s rozhraním, v osách optické symmetrie x\y, -', veličiny «3, /J3, y3 směrové kosinusy osy s, t. j. normály rozhraní. Abychom je vyjádřili vhodným způsobem, definujeme napřed
+XXV. ﻿orientaci rozhraní i roviny dopadové. Azimut roviny dopadu budeme čítati od té roviny, v níž leží <3>2. Průsečnou přímku této roviny dopadu s rozhraním označme O/Z, patrné jí prochází i rovina x z. Libovolná rovina dopadová jest pak stanovena úhlem í>, jejž svírá s OU. Orientaci rozhraní stanovíme úhlem t/', jejž osa optické symmetrie z' s O//, pak úhlem co, jejž svírá rovina x' z' s rovinou jdoucí normálou rozhraní a OII. Pak jest
+«j ~ cos $• sin ty ~\- sin f> cos t/1 sni o>                /i, m sin & cos co
+«3 — — cos i/1 cos o                                         /13 — sin co
+;;, ~ cos f> cos i'1 — sin & sin 4 sin m n/3 m j/Ví i/.' cos G)
+Úhel, jejž svírá ta rovina dopadová, v níž leží CD1? s O U, označme í>12, podobně 9-23 nechť značí úhel, jejž svírá OU s rovinou dopadovoti, v níž leží <X>3.
+Měření těchto dvou úhlů stačí ku stanovení 4' a K), tedy k stanoven í orientace rozhraní v osách krystalit]. V prvním případě máme totiž at — 0, v druhém yí = 0, je tedy
+cos T>, g sin 4' -f- sin #j 2 cos 4 sin co — 0
+cos f>23 cos ť — sin #23 sin ti' sin o = 0, z nichž plyne
+^-ů'12     .   .(9).
+Se zřetelem k rovnicím (9) možno ještě výrazy pro ccl a yl psáti ve formě
+Sl'1l1l>     •   /o.         .,
+ccl rr    .         SÍH (ř^-j 2 — O)                 yt
+íiířfi-jj                                        '
+Vzorce odvozené stvrdíme nyní na několika málo měřeních. Měření vhodných dosud mnoho není. Souvislá měření průběhu hraničného úhlu u šikmého řezu krystallem dvouosým za účelem srovnání s theorií provedl jedině W, K o h l r atisch,*) theoretické úval.y jeho však, jak později ukázal Liebisch,**) nebyly správné. Srovnání se vzorci zde odvozenými jest stíženo tím, že měření provedeno bylo na krystalit! kyseliny vinné, jež jeví nejsilnější dvojlorn ze všech krystallů xnámých, takže, chceme-li zaručiti ve výpočtu jednu jednotku pátého místa desetinného, nutno jíti až k veličinám řádu ř/4, čímž ovšem počet silně se stíží.
+*> \V. Kohlrausch, Wied. Ann.  7, pag. 427; 1879. **) Th. Liebisch, Physik. Krystallographie, pag. 427.
+XXV. ﻿V dalším užijeme měření, jež na četných látkách provedl Viola.*) Účelem jich bylo optické určení minerálů, jednalo se tedy jednak o stanovení hlavních indexů lomu krystallu, jednak o polohu os Fresnelova elli-psoidu vzhledem k některé přirozené stěně krystallu. Dle toho, co řečeno dříve, je patrno, že nejlépe se k tomu hodí methoda totální reflexe. Stačí patrně, má-li krystall, jejž chceme určiti, jedinou plochu světlo dosti dobře odrážející, tu zvolíme za rozhraní, a pozorujeme průběh hraničného úhlu. Jeho extrémní hodnoty udávají nám hlavní indexy lomu, měříme-li dále vzájemné azimuty dopadových rovin, v nichž tyto extrémní hodnoty leží, můžeme pomocí rovnic (9'j stanoviti orientaci os optické symmetrie k oné ploše. Eventuelní dvojznačnost ve hodnotě pro střední index lomu odstraníme pozorováním polarisace hraničně čáry, jak ukázal Viola.**)
+Při měření samém však naskytují se obtíže, o nichž nutno se zmíniti. Extrémní hodnoty hraničného úhlu možno sice stanoviti velrni přesně, však určení jich vzájemné polohy není možno provésti s toutéž přesností, poněvadž v okolí těchto extremních hodnot hraničný úhel se mění velmi nepatrně, a změna v poloze roviny dopadu i o několik stupňů nemá na velikost hraničného úhlu značného vlivu. S tím souvisí někdy dosti veliká nepřesnost ve stanovení úhlů co a 4', zvláště tehdy, je-li &12 nebo #23 blízké nulle nebo 90, poněvadž ve vzorcích (9'j intervenuje tg resp. cot. K docílení větší přesnosti užil Viola methody grafické; měřil totiž hraničný úhel pro různé polohy roviny dopadové, pak znázornil si jeho průběh graficky, a z toho hleděl odečísti polohy extrémních hodnot. Tím ovšem docílil hodnot přesnějších, ale jeho tvrzení, že poloha extrémních hodnot je tím stanovena správně až na 1°, není nikterak pravdivé, což lze souditi z toho, že některé z jeho hodnot jsou v odporu i se vzorci (9'), jež jsou odvozeny na základě přesné theorie Fresnelovy.
+Měření hraničného úhlu samého jest ovšem daleko přesnější. Viola užil precisního totálního refraktometru Abbe-Pulfrichova, jehož vertikální kruh, na kterém se hraničný úhel odčítá, byl opatřen mikrometrem dovolujícím odečísti až 5"". Chyby pozorovací i v nejpříznivějším případě, kdy totiž rnčřen hraničný úhel mezi vzduchem a skleněnou polokoulí (jež tu slouží za medium isotropické), obnášely asi 15"", a lze očekávati, že při měření na krystallech, kdy mezi krystallem a onou polokoulí se nachází vrstva kapaliny, se ještě zvýší; celkem tedy lze je odhadovati na několik desetin minuty.
+Za první příklad ku srovnání theorie s měřením budiž uvedeno měření, jež provedl Viola***) na pcriklimi s Kramkogln v Solnohradsku.
+Průběh hraničného úhlu, jež byl měřen ve světle natriovém, jest udán v následující tabulce, kdež & značí azimuty dopadových rovin ode-
+*) C   Viola, Zs. f. Krystallographie,   sv. 31 a 32, na mnoha místech. *!) C. Viola, 1. c. 3L pag. 40 a 33, pag.  113. ***) C. Viola, 1. c. sv. 32, pag. 329.
+XXV. ﻿10
+ctěné na horizontálním kruhu stroje;   extrémní hodnoty   hraničného úhlu, jakož i azimuty příslušných dopadových rovin jsou pak zvlášť   vyznačeny
+e-	Čára vnitřní		Cárá vnější	
+o»	<L21=54°      14'	48""	54°        16'	36""
+10	10	54	15	6
+18	—		022 — 54""       15	0
+20	5	49	15	0
+30	3	12	15	12
+40	1	18	15	30
+50	Oj = 54         0	18	16	0
+60	1	48	16	24
+70	4	0	17	6
+80	7	6	17	48
+90	9	42	19	12
+100	11	54	21	42
+110	13	18	24	42
+120	13	54	28	12
+130	14	6	30	12
+137	—		<Z>3 = 54          30	35
+140	14	18	30	30
+150	14	30	29	24
+160	14	42	26	30
+170	14	48	21	30
+Z hodnot označených í>21 a ^22 odpovídá jedna střední hlavní rychlosti, která však to jest, jest pro výpočet hraničného úhlu, jak již řečeno, lhostejno. Supponujme tedy napřed, že jest to <Z>21, což ostatně měřením na jiné stěně krystallu se také ukázalo. Pak jest 0^ = ^50°, 7%3 = 137°, a ze vzorců (9') plyne ť> =r: — 48° 30', ca = 71^33'. Pro stanovení veličin s a ? rnáme rovnice
+jež se dají po zavedení hraničných úhlů uvésti na tvar
+-f-Og              _ sin(®3 — 0>2)<
+C   ..   —
+sn       —
+sn
+z  nichž po  dosazení plyne e — 0,006119,  r, = 0,006557, m~ — = 0,9332.
+»/
+Poněvadž veličiny L2 a í/2 jsou řádu asi 4 10~5, což při hodnotách hraničného úhlu kol 54° odpovídá asi třem desetinám minuty, a poněvadž vzhledem k tomu, co bylo řečeno dříve, většího souhlasu než na několik
+XXV. ﻿11
+desetin minuty očekávati nelze, možno je zanedbati. Pak máme jednoduše
+l
+čili   vzhledem   k   relaci
+v
+—: sin 0„  také
+sut
+sn
+A 2
+(U)
+veličina A{  jest dána rovnici  (/).
+Podle tohoto vzorce jest v následujícím propočítán průběh hranič-ného úhlu, a výsledek srovnán s měřením, a sice napřed pro vnitřní čáru, pak pro čáru vnější. V prvním sloupci značí ř> azimuty dopadové roviny měřené od polohy íř>21, v druhém sloupci jsou hodnoty měřené pro vnitřní čáru, v třetím hodnoty vypočtené, konečně /l značí differenci mezi hodnotou měřenou a vypočtenou; analogicky jsou uspořádány v dalších sloupcích hodnoty odpovídající čáře vnější. Poněvadž většího souhlasu než na několik desetin minuty nelze očekávati, vyjádřeny měřené i vypočtené hodnoty pro 0 taktéž v desetinách minuty.
+•	Vnitřní  čára			Vnější čára		
+	<l> měřené     cř> vypočtené         J			$ měřené     á> vypočtené         -J		
+0°	54°   148'	54°   148'         0-0'		54°   166'	54°   17-2'	-0-6'
+10	109	11 9       - 1-0		15-1	15'0	+ 01
+20	5-8	7-1        - 13		150	15-1	- 01
+30    :	32	3-5	— 03	15-2	15-3	— 01
+40	1-3	1-1	+ 0'2	155	155	00
+50	03	03	o-o	16-0	157	+ 0-3
+60    1	1-8	1-1	+ 0'7	164	16 1	+ 0-3
+70	40	33	+ 0-7	17-1	160	+ 0-5
+80	7-1	6'3	+ 08	17-8	177	+ 01
+90	97	95	+ 0-2	192	19-1	+ 01
+100	11-9	11-7	+ 0-2	21.7	220	— 0-3
+110	133	12-8	+ 0-5	247	255	— 08
+120	139	135	+ 0-4	282	28-2	00
+130	14-1	139	+ 0-2	302	301	+ 01
+140	14-3	14'1	+ 02	30-5	305	00
+150	14-5	14-7	— 02	294	291	+ 0-3
+160	14-7	147	00	26-5	265	o-o
+170	14-8	148	o-o	215	21-5	o-o
+XXV. ﻿Souhlas je tedy celkem dosti dobrý; značnější difference vyskytují se pouze u vnitřní čáry právě na těch místech, kde hraničný úhel rychle se mění, a daly by se snadno vyložiti chybami ve stanovení polohy d>21, jež zvláště v tomto případu bylo velmi obtížné, poněvadž, jak z průběhu vnitřní čáry lze viděti, hraničný úhel v intervallu od ?>~/76?° do &~iSO° se vůbec nemění.
+Volíme-li nyní CE>22 za hodnotu odpovídající střední rychlosti, jest •9-jg — 32®^ #32 ~ 7/P°, z čehož vypočteme pomocí rovnic (9') fy ~—30'5*. 03=: 7(9-7°; z rovnic (10) pak plyne B = 0,006204, >,= 0,006474, m ~ 0;9582, Počet dává tyto výsledky.
+•	Vnitřní čára		VnčjM čára		
+	</> měřené     <P vypočtené          J		í> měřené	<í> vypočtené         _/	
+— 18°	54°   14-8' 10-9	540   14-1'   + 07' 11-6       -0-7	54°   16-6' 151	54°   17-5' 151	— 0-9' 00
+2	5'8	7'1       - 1-3	15-0	150	00
+12	32	35       - 03	15-2	151	+ 01
+22 32	1-3 0-3	1-1     +02 03           00	15-5 160	15-2 156	+ 0-3 4- 0-4
+42 52 62	1-8 4-0 7-1	11     -f 07 32     -f 0'8 6-2     -f 09	16'4 171 178	15'8 164 173	4- 0-6 + 07 -f 0-5
+72	97	91      -;-• 0'6	19-2	191	4- 01
+82	11-9	11-3     -;-0'6	21 7	219	- 0-2
+92	13-3	12-5     +0-8	24-7	25-3	— 06
+102 112 122	13-9 14-1 14-3	135     + 0-4 136      - 05 13 8     + 0'5	282 302 30-5	275 29-3 30-5	+ 07 4- 09 00
+132	145	140     -f- 0-5	29-4	29-3	+ 01
+142	147	141     4- 0-6	26-5	26-2	+ 0'3
+152	14-8	14-2     4- °'6	21-5	220	— 0-5
+Souhlas i tu je tedy dosti dobrý, ovšem poněkud menší než v případě předešlém, což se dá vyložiti tím, že pozdějším měřením se ukázalo, že úhel <2>22 neodpovídá střednímu indexu lomu, takže poloha jeho pro stanovení orientace os pružnosti krystallu nemá významu a ovšem také nestanovena s takovou přesností jako í>21. Ale přece je patrno, že i tato supposice vystihuje průběh hraničných čar dosti dobře.
+XXV.
+, ﻿Větší přesnosti v určení orientace rozhraní lze dosíci, leží-li v rozhraní optická osa. Pak totiž i/1 značí úhel optické osy s osou nejmenší optické pružnosti, jenž dá se vypočísti z hlavních indexů lomu krystallu pomocí vzorce
+\» v
+.   .(12)
+takže možno kontrollovat hodnotu pro ť1 vypočtenou pomocí rovnic (9) a po případě korrigovat azimuty jednotlivých extrémních hodnot. Podobný postup provedl Viola při anorthitu z Vesuvu. *) Průběh měření je udán v následující tabulce; í> značí opět azimuty dopadových rovin odečtené na horizontálním kruhu stroje.
+9	Čára vnitřní		Cárá vnější	
+0°	56°                45'	45""	56°                55'	35""
+13'25	0>2 - 56       52	50	<2>2 — 56       52	50
+15	51	33	54	35
+30	47	10	57                    0	23
+45	42	48	5	0
+60	37	55	8	15
+75	33	0	9	43
+85	—		3>3 — 57         V	58
+90	29	5	9	35
+105	26	45	9	48
+115	Ofj = 56      26	15	—	
+120	26	28	6	55
+135	28	33	4	35
+150	33	33	2	13
+165	39	45	56                  58	35
+Je tedy patrně f>1:, =r 101 '75°, řh,3 — 71'75°, z čehož plyne pomocí rovnic (9') </—51'5°, cj=152°. Dále jest ť = 0,01022, i; r= 0,006446, tedy ?//— 1,5865. Z rovnice (12) plyne pak ť1 = 51'50; souhlasí tedy obě hodnoty pro i'1 velmi dobře. Provedeme-li počet opět až na veličiny řádu »/2, obdržíme
+"") C. Viola, I. c, sv. 31., pag. 490.
+XXV. ﻿14
+&	Čára vnitřní			Čára vnější		
+	<ř měřené	$ vypočtené        J		* měřené	tf> vypočtené	j
+-13-25°	56°   45-6'	' •  • 56°   46-3'	- 07'	56°   55-6'	56°   562'	— 06'
+1 75	51-6	52-3	— 0-7	54-6 |           53-6		+ 1-0
+1675	47-2	47.9	--07	57      04	57      00	-\- 04
+31-75	428	43-1	— 03	5-0	49	-f 01
+46-75	379	38-2	— 03	8-3	88	- 05
+61-75	33-0	33-1	- 01	9-7	9-6	-f 0-1
+76-75	29-1	292	- o-i	96	90	+ 0-6
+91-75	26-7	268	- 01	98	9'3	+ 0-5
+106-75	26-5	263	-f- 0-2	69	7-5	-0-6
+121-75	28-5	28'4	-f 01	46	5-4	- 0 8
+136-75	33'5	33-5	-f 00	2-2                2-8		— 0-6
+151-75	397	39-1  i -f 0 6		57    58-6 j 57    59'6		- 10
+I v tomto případě je tedy celkem souhlas dosti dobrý; lepšího souhlasu těchto měření, jež byla konána za účelem zcela jiným, očekávati nelze. Jak daleko však možno tato měření pokládati za stvrzení Fresnelovy theorie, na základě jíž uvedené vzorce byly odvozeny, jest jiná otázka; patrno, že by bylo radno provésti nová měření u krystallů silněji dvouosých, u nichž ostatně i chyby ve stanovení vzájemných azimutu extrémních hodnot hraničného úhlu nejsou tak značné. Ta okolnost, že výrazy pro koěfficienty u í/3, ?;4. . . v rozvoji pro sin 0 jsou komplikované, by odpadla, kdyby orientace rozhraní byla vhodným způsobem volena, na př. kdyby rozhraní bylo kolmé k rovině optické symmetrie x s, takže by bylo oo — í>. Otázka ta je tím zajímavější, že theorie Fresnelova v obecném případě u krystallů dvouosých dosud potvrzena nebyla, ne-hledíme-li k dříve uvedené práci W. Kohlrausche, jež však nemá theoretického podkladu, jednak i proto, že, jak prof. Koláček*) ukázal, možno odvoditi theorii dvojlomu obecnější než jest Fresnelova, jež nepředpokládá existenci rovin symmetrie, což pro krystally soustavy mono-klinické a triklinické by mohlo býti splněno.
+*) F. Koláček,  Sitzungsb   d. Kónig. bohm. Ges   d. Wissen. 56,   pag. 43, 1897.
+XXV."

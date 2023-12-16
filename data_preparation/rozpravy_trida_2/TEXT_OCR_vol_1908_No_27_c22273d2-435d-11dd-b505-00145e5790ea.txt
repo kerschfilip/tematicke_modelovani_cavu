@@ -1,0 +1,178 @@
+"","x"
+"1"," ﻿ROČNÍK XVII.
+TŘÍDA  II.
+ČÍSLO -27.
+Grupa kollineací prostorové křivky bikva-dratické prvého druhu.
+X a psal
+Dr. B. Bydžovský.
+Předloženo dne 6. března 190S.
+III. Skupiny  kovariantní a skupiny  obecné.
+a) Křivky a plocha kovariantní.
+1. Užijemc-li kollineací grupy G.^ na libovolný bod prostoru, obdržíme skupinu \\'l bodu pro G32 invariantní; je otázka, jak dalece platí pro tuto skupinu vlastnosti odvozené pro skupinu na křivce C.3')
+K tomu cíli je třeba řešiti především základní úlohu: Xalé/.ti všechny bikvadratické křivky s danou kovariantní.
+Každá tato křivka musí míti ^ křivkou C společný polárný tetraedr. I mají její rovnice nutně tvar
+O                               (1)
+(1}
+čímž je zároveň již zajištěna invariant nost pro /N.   l'žijeme-li na (1) některé transformace v /s neobsazené, na př.   (11), obdržíme:
+čímž jsou určeny koeťťicii-nty
+3-')   Hylo l)y  nio/iT) (loinní.vati  se,  /<_•   tyto vlastnosti  se  nexnu-iu-ně   přenášejí na   liiiovolnon  skujiinu.   ])rosloni.  \'   jiřijiaii'.''  rov-innř  kn\-ky  kubické,   je/  se  repro 'iiikujc  ,i;ni])ou   1S kollineaei,  skutečně ka/díi  sk:i]iin.i   roviny  má   tyté/ vlastnost; jako  libovolná  skupina  na  dané  křivce.
+Rozpravy:    Riv. XVII. Tr.  II. Č. -7.                                                                     j
+XXVII. ﻿Užijeme-li podobně ještě dvou transformací, jež  s předchozí  a navzájem nepřísluší do téže g16, na př.   (10) a  (01), obdržíme:
+3 ^12-^4"" T  ^
+Svazek ploch, určený plochami   (1),   (2'): obsahuje vedle kuželů (1),   (2') ještě ty, jež obdržíme pro
+t. j.
+(4)
+Mají-li  rovnice   (1)   a   (2')   vyjadřovati  bikvadratickou  křivku   invariantní pro G32, musí  (3) = (3') a  (4) = (4') t. j.
+'3^23__        ""3632.
+L1.
+tyto dvě rovnice jsou identicky vyplněny. Mimo to
+ílg    031   l   ^3~ 032        ^4^13
+Obě tyto podmínky jsou identické; upraveny mají tvar:
+""2      i     J^JT    ,      ""4-   __  ^ 023           031           012
+Nabýváme tím výsledku: křivka vyjádřená rovnicemi (1), (2') je kovariantní s křivkou C, je-li vyplněna podmínka (5). Z toho následuje, že existuje oo1 křivek bikvadratických kovariantních s danou. Koěfíici-enty a2, a3, a4 musí tedy se dáti vyjádřiti na základě dvou homogenních parametrů. Píšeme-li hořejší vztah ve tvaru pythagorejské rovnice
+je ihned patrno, že lze položiti:
+XXVII. ﻿Jsou  tedy všechny křivky  bikvadratické,  kovariantní  s  C,  dány rovnicemi:
+(12__,,2\ Ye    v 2   i   9 A u Ye    r 2 4- ÍA2 -4- u2^
+i iv              M>   i   T   ^""12     2       l     """"""        r^             11  *  3               \            l     r^   /
+:     O         |
+i' = o}
+Tyto křivky neprotínají ani původní C, ani sebe navzájem. Neboť 8 průsečíků, které by tak vznikly, musily by býti invariantní pro G32; avšak na bikvadratické křivce neexistuje skupina 8-bodová, jež by mela tuto vlastnost.
+O každé z nalezených křivek platí doslova totéž, co o křivce C. Mimo jiné leží osmitečné body každé z nich známým způsobem na osách záporných involucí. Z toho však následuje:
+Geometrické místo osmitečných bodů všech křivek systému (6), do něhot pro A:/n = (\ L32— v L12): V el3 náleží také křivka C, jsou dvacet čtyři přímky spojující po osmi protější hrany polárného ietraedru; tyto přímky jsou osami involucí, jimiž se tyto křivky reprodukují.36}
+2. Vrcholy všech těchto křivek leží ve stěnách pól. tetraedru, tvoříce v každé z nich rovinnou křivku st. 4-ho, jak vysvítá z věty, kterou ihned dokážeme:
+Systém křivek (0) vyplňuje plochu stupně čtvrtého.
+Z rovnic  (1) a  (2') plyne:
+<z2 : a3 : «4 = e3, (e3í x^ x32 — x.2z #42) : e3l (x3- *,2 — č32 x? x.22} : (e32 xf — e3lx3*) Do-adíme-li do podmínky  (5), nabudeme rovnice
+p    P    (P    v 2 v 2__r'2r2<l24-^    p    (r 2 rz •__en X 2 X *} 4- (p     r4__p    r 4V2 — O
+e\i e23 \e3l Xl    X3         XZ    X* l      l   612 ^31 \X3   X4        ^32^1   A2 l ^T {632. X2   ----e3l X3 )    — U
+Po zkrácení faktoru  (e32x.f—č3i#34) vychází rovnice hledané plochy ejs e<& C3i xL + e^ x^ + esl xj> + é?12 xL = O3T)                    (7)
+Tato plocha dle předchozího obsahuje osy všech involucí záporných, celkem 24 přímky. Avšak z tvaru její rovnice je patrno, že obsahuje csl-kem přímek 48, totiž
+«12 ^23 «31 *l4   +  C23 -^   =   °                                     «31 ^3*  +  ^12 *4*   =  °
+což je 10 přímek, které procházejí čtyřmi body na hraně x{ = O, x.2 = O
+36)   Analogie se syzygetickým svazkem kubických křivek v rovině vystupuje zde velmi jasně. Neboť i v tomto případě paprsky, na nichž leží sextaktické body, jsou  osami  involucí,  jimiž se křivky reprodukují.   - -  Tuto větu  — jak jsem dodatečně shledal — \   jiném spojení uvádí  Kluywcr. V. pozn.  37.
+37)  Affinitou převedeme ji na  tvar xf + xL + x33 + x^ — 0.    O  této   ploše v souvislosti s jinými plochami st. 4-ho jedná Schur 1. c. (v. pozn. 9) str. 292 násl. Nalézá rovněž 48 jejích přímek.  Konfiguraci tu blíže nesleduje. —  Že tato plocha je kovariant dané křivky C, poznal Kluywcr: ,,Concerning thc twisted biquadratic"" Anier.   Jour.   l!)   (319—328),   str.   323.   Vyjadřuje  ji  jako  kombinantu  dvou ploch svazku 2 st.
+l* XXVII. ﻿a čtyřmi na hraně .v3 = 0, x4 = O; a tak dále pro ostatní hrany, celkem 48. Poněvadž mezi nimi jsou osy a /bývající paprsky jsou pouze ostatní spojnice průseků os s hranami pól. tetraedru, je ihned dokázáno, že těchto 48 paprsku je toto/no se skupinou stejného počtu paprsku, kterou jsme podrobně projednali výše (I. 9. 12.).
+Odtud se udávají dvě věty: jedna, která vyslovuje, že hořejší plocha, kterou budeme nazývati P, obsahuje 48 přímek známých vzájemných vlastností; druhá, která vyslovuje další důležitou vlastnost projednané skupiny •18 paprsku: tato skupina leží na plose stupně čtvrtého (která je jí úplně určena).
+Kovariantnost plochy P s křivkou C vyjadřuje pak věta: Plocha P je invariantní pro transformace grupy G32;3í<) bodv plochy jsou sestaveny ve skupiny 32-bodové, jimž přísluší všechny vlastnosti skupin, o nichž jsme jednali v kap. II.
+Tato vlastnost je pro plochu charakteristická] neboť shledáme v dalším, že jiné skupiny 32-bodové,^ležící mimo tuto plochu, nemají všech uvedených vlastností.
+Budeme nazývati plochu P základní plochou kovariantní. Jest další důležitou vlastností plochy P, že je základní plochou kovariantní ještě pro jeden systém bikvadratických čar. Příslušné osy involucí v počtu '24 tvoří druhou součást známé konfigurace 48 paprsků.39). I jsou oba systémy křivek v úzkém v/tahu; není nám však možno zajímavý tento vztah blíže sledovati.
+b)   S/:npiny obecné.
+1. A"" předchozím jsme nalezli x- skupin 32-bodových, jež mají naprosto tytéž vlastnosti jako skupiny na dané C. Také podskupiny těchto skupin, pokud leží na téže kovariantní křivce, mají vlastnosti, platící pro podskupiny na C.
+Přejdeme-li k libovolnému bodu prostoru, jenž neleží na P, nabudeme užitím íírupy (i.}., a jejích podgrup skupin, jich/ vlastnosti chceme nyní zkmimati. Opouští nás zde ovšem pomůcka, které jsme dříve užív;>ii: Ábelův theorém pro elliptické integrály; za to můžeme se dáli vésti analogií s výsledky diíve nalezenými.
+l>vobereme v následuiícím znovu podgrupy transformací a postavíme vedle sebe skupiny obecné a skupinv ležící na ploše P; tyto budeme proti Miiřm nazývati zvláštními.
+i'. Vzhledem k centrálným involucím leží skupina (L,.>) na (14 pa-pr-cích, jež po 16 procházejí vždy jedním vrcholem pól. tetraedru. Kdežto
+3B) Grupa transformací plochy P oi)sa'nnje l .'>:><> kollinr.H í. jal< nalc/l Sťiiur i Khiywer. -— l"" Khivuera. jsou uvedeny ještě některé zajímavé vlastnosti této plochy.
+:í!l) ('o/ uvádím i)c/. diika/ii. je/to se to vymyká rámci této práce. Odtud vy-svílá souměrnost seskupení těchto ])a|irsku. V. j)o/n. 18.
+XXVII. ﻿v případe, kdy skupina leží na P, každých těchto 10 paprsku náleží témuž kuželi druhého stupně (tomu, jenž z vrcholu pól. tetraedru promítá příslušnou kovariantní křivku), není tomu tak v případe obecném. Kdyby tomu tak bylo, znamenalo by to, že celá skupina leží na bikvadraticke křivce, jež by byla invariantní pro G.,., — a tedy by skupina, proti předpokladu, ležela na P.
+Y/hledem ke kladným involucím nejeví se rozdíl mezi skupinami obecnými a zvláštními.
+'.'>. Podgrupa /4 dala na křivce C vznik větě o konjugováných te-traedrech. Tato věta zůstává - - i se svými specialisacemi — v neomezené platnosti pro všechny kovariantní křivky. Jest otázka, jak dalece platí pro libovolně položené skupiny (z'4).
+Každé dva kužele
+a.2 x.,- -f- <7:? x:f = O Ď3 #32 + b± x4- =• O
+(1)
+protínají se v křivce 4. st., jež je pro iv invariantní a má s křivkou C společný pól. tetraedr. Zároveň jsou rovnicemi (1) vyjádřeny všechny bikvadraticke křivky těchto vlastností. Dvěma obecně položenými body je určena jediná; z toho následuje: dvěma obecně položenými čtveřinami (í'4) je určena jediná bikvadratická křivka, která je pro Í4 invariantní, majíc s C společný pól. tetraedr. Tato křivka má grupu transformací G'.,.,, jež obsahuje invariantní podgrupu i± i^ í'4. Z toho plyne, že i na každé této křivce věta o konjugovaných tetraedrech platí zcela neomezeně. Zvolíme-li tedy na takové křivce dvě čtveřiny (í'4) a spojíme je dle věty II. b) 4.a), nabudeme třetí čtveřiny, jež leží zase na křivce. Ale dvěma libovolnými čtveřinami je určena jediná křivka bikvadratická, i následuje z toho:
+Každé dvě čtveřiny (í'4) v prostoru libovolné ležící jsou konjugované s třetí dle vety II. b) 4.a). Tvto tři čtveřiny leží na bikvadraticke křivce.
+A dále: Zvolí mc-li dvě čtveřinv zcela libovolné a pf i pojíme k nim třetí, -jež s prvními dvěma leží na téže křivce bikvadraticke, obdržíme spojením těchto tří dle vety II.b} :> čtvrtou, jež leží na téže křivce.
+4. Zbývá nyní ještě rozhodnouti, zdali zůstává věta o čtyřech konjugovaných čtveřinách v platnosti, i když zvolíme libovolné tři čtveřiny.
+Užijeme označení jako v kap. II. (b) 4). Dle něho roviny a a a"", a // b"", a c c"", a ď d"" protnou se v jednom bodu čtvrté čtveřiny. Avšak tyto body protnou se mimo to v bodě a. I mají tyto čtyři roviny společnou přímku. Tuto okolnost vyjádříme analyticky. Označíme souřadnice bodu a : .v;; bodu a' : v», bodu a"" : ~;; bodu b, c, d atd. týmiž písmeny, ovšem s příslušnými změnami znamének (dle tabulky transformací I. 3.). ﻿6
+Roviny a a' a"" atd. mají rovnice: L   L   L   l
+»1   ^2   = :»   '4 ""K      V      Y      \
+\\  Vo  V3   V4
+2t   2.,   23   24
+a rt"" rf"":      ^j'3'  Lt + .4.,13'  ^., + .43(:J)   Í3 + ,44(3)  |4 — O
+kde .4»()>) jsou minory, jež od minoru -4,ř(°)se liší vždy jen znaménky při jednotlivých souřadnicích. Ježto ony čtyři roviny mají míti společnou přímku, musí kterýkoliv minor st. :ího determinantu
+vymizeti.
+Vyjádřeme vymizení jednoho z nich:
+27^.4^ .4,*1) .43<2' místo něhož lze psáti:
+O40)
+Po jednoduché úpravě obdržíme
+2 24 — >4 22 )  (y3 ^4 — \'4 zs)  (y3 ^2 — r2 L3 -i) (ví -4— v4 -J + -v32 (y, z*—y4 zz) j 22) + A-42 ( v2 rt — rx 2.,) (y3 z., — y.,
+
+Zcela stejně bychom uvažovali roviny
+7         /    7 //         77/        //         7        '     J""         7        //     ]f
+bab, ob a, oc a, oc   d .
+Postupem zcela týmž došli  bychom ke vztahu:
+4 23 — >'3 24)   (V2 23 +  )';. Z2) (V2 ?4 +  V4 2,)   +  -V,2    r    ^   — V
+4
+.M -2/
+z.-> — v.> ^J   (\4 c
+:!+V3rl)   (3'2.~;5
+-V4 +   To
+Koěfficienty v obou těchto rovnicích jsou formálně různé; jich rovnost by tedy znamenala vztah mezi y: a zl, který je vyloučen, ježto můžeme, jak bylo ukázáno, vždy dvě čtveriny voliti libovolně. I jsou obě podmínky podstatně různé; geometricky značí dvě plochy 2. stupně,
+0  nichž lze snadno dokázati,  že procházejí oběma čtveřinami   (TJ),   (L>),
+1   je  bod   .YJ a třídy i celá příslušná   čtveřina   vázána  podmínkou,   že   má ležeti na křivce bikvadratické   určené   čtveřinami   (vť),   (zi).  Ježto v tom
+40)  Jak / výsledku bude patrno, stáři vyinixení jedinéiio k lomu, aby všechny vymizely.
+XXVII. ﻿případě je věta o sdružených čtveřinách jistě vyplněna (jak vyjadřuje věta uvedená v odstavci !>.), je patrno, že podmínky (2), (3) jsou pro existenci příslušného vztahu nejen nutné, nýbrž že také stačí. I lze vysloviti výsledek naší úvahy takto:
+Čtyři čtveřiny (i4) konjugované ve smvslu vety II. b) 3. leží nutné na hihvadratické křivce invariantní pro ir Lze tedy z těchto Čtyř dvé voliti zcela libovolně, třetí je omezena na bikvadratickou křivku prvými dvěma určenou; čtvrtá je ovšem prvými třemi zcela stanovena.
+;"">. K podgrupám c, připíná se úvaha zcela obdobná předchozí. Příslušné věty o kónjugováných čtveřinách mají neomezenou platnost na všedi kovariantních křivkách.
+Dvěma čtveřinami (c4] v obecné poloze je určena jediná křivka bikvadratická, jež pro r, je invariantní. Její grupa transformací obsahuje podgrupu c4; i platí na ní rovněž věty o konjugovaných čtveřinách. Z toho následuje mimo jiné (jako v případě předchozím), že platnost věty o třech konjugovaných čtveřinách je všeobecná; k tomu budeme míti příležitost se vrátiti.
+Pro tři libovolné čtveřiny postupujeme potom analyticky zcela tak, jako v předchozím případě, tak že je zbytečno, výpočet znovu opakovati.41) Jako výsledek obdržíme zde zase dvě kvadratické podmínky pro Xi, jež vyzmičují dvě plochy druhého stupně pro c4 invariantní a procházející body yi, Zi.
+I vyslovíme větu:
+Ctvři čtveřiny (c4) konjugované ve sinvslu ret v II. b) / leží nutné na bikvadratické křivce invariantní pro c4. Lze tcdv z těchto čtvř dvě voliti zcela libovolné, atd. (jako věta uvedená v očist. k).
+H. Na výsledek poslední úvahv lze pohlížeti ~ obecnějšího hlediska. Je-li dána libovolná kvaternárně cyklická kollineace v prostoru (jež ovšem není ani planárná ani osová,42) existuje nekonečně mnoho bikvadratickýcb křivek pro ni invariantních.
+Vzhledem k tomu je pak ihned patrno, že věty platící o čtveřinách (f,) platí o každém kvaternárně cyklickém prostoru, tedy: tři čtveřiny tohoto prostoru, ležící na téže křivce, dávají vznik jediné čtvrté', dvé libovolné čtveřiny vhodné spojované čtvcřinč třetí atd. Z toho se pak ihned udává velmi jednoduché řešení úlohy pro tento prostor základní. Ježto kollineace je určena pěti dvojicemi sdružených bodu, je kollineace kvaternárně cyklická určena jednoznačně jednou čtveřinou a další dvojicí sdružených bodu (těchto (5 bodu je zcela libovolných); nastává úloha z těchto daných elementu sestrojiti celý prostor. K tomu cíli doplníme danou dvojici na čtveřinu dle věty U. b) S. /;). Hudiž dána čtveřina ď, //, c', ď a dvojice a, b;
+41)  Tento výpočet  by   formálně stai  se   téměř  lotoxným s  předchozím,  kdybychom  samodružný   telraedr  podgnipy cí v/ali  7.í\  souřadný. *-) \.   Keye,   Geometrie d.   I.a»e   II..  str.   100,   :{.  vyd. ﻿roviny a  b' a, a' c d, a' ď c, b' c c, b' ď b, c ď a mají se protínati v jediném bodu.   l stanovíme prusek  /;?, rovin ď b'a, b'ď b, c ď a.
+Také roviny a b' b, a' c a, a ď d, b' c d, b' ď c, c' ď b protínají se v jediném bodu. Určíme prusek ;//._, rovin a' b' b, ač a, c' ď b. Pak roviny (1'd'ni^ //r';//,, b'ď 111^ ])rotnou se v bodě c, roviny a c m\, a'ď m.,, b'c' ni., protnou se v bodě d.
+Tím je nalezena celá čtvcřina. Z obou čtvcřin l/.e sestrojovati nekonečně mnoho čtveřin, jež s nimi leží na téže bikvadratieké křivce. Je-li tedy dán libovolný bod této křivky, lze ihned lineárně sestrojiti celou čtveřinu, clo níž náleží.
+Jakmile jsou pak známy dvě čtveřiny a tedy křivka jimi určená, lze sestrojiti čtveřinu příslušnou libovolnému bodu mimo křivku takto: nazveme-li tento bod ířt, l/.e sestrojiti velmi jednoduše k němá bod r,, jenž s ním je sdružen v osové involuci, vzniklé dvojím opětováním dané kollineace. Tato involuce je dostatečně určena řadou dvojic na sestrojené křivce; jak se v tom případě involuce doplňuje, je známo. Pak určíme (v. II. b) S b) průsek rovin ď />'</,, c ďu\, a d' c\\ nazveme jej a""; podobné prusek rovin a' ď a^ b' c' a{, a' // c}, nazveme jej c"". Je Si?"" sdružen zmíněnou involuci. Užijeme-li na čtveřiny ď, b', c , ď\ a\, /;,. r,, d{, a"", b"", c"", d"" věty o sdružených čtveřinách, můžeme ze (54 rovin, jež v té větě intervenuji, sestrojiti l (i, totiž po čtyřech rovinách známými paprsky: a^ci"", a^c"", c}a"", cvc"". Každé tyto čtyři roviny obsahují všechny čtyři body čtvrté čtveřiny, jež je s předchozími třemi konjugována; označme je d.2b.,c.,((.,. Ty jsou tedv předchozími Mi rovinami více než dostatečně určeny. Tím však jsme nabyli dvou čtveřin a, //, c', ď; <7.2, b.,, c.,, d., takových, že na křivce jimi určené leží bod a; i l/.e ihned sestrojiti celou čtveřinu, do které náleží.43)
+K vůli úplnosti budiž připomenuto, že v prostoru kvaternárně cyklickém platí také věty k předchozím duálně, ježto prostor reciproký k danému cyklickému je zase cyklický. Mimo jiné tedy ze čtveřiny sdružených rovin a další dvojice lze sestrojovati další roviny prostoru.44)
+7.  Co bylo řečeno o skupinách í-bodových a 8-bodových na křivce C, platí zcela neomezeně pro skupiny v obecné poloze, což je ihned patrno z toho, že lze danými skupinami vždy položiti bikvadnitické. křivky   pro příslušné podgrupy invariantní.
+8.   Pro  podgrupy   st.   l()-ho   vysvitnou   jisté   vztahy,   které   jednak rozliší zcela určitě dvojí druh skupin bodových, totiž obecných a zvláštních, jednak nám podají další charakteristické znaky skupin obecných.
+4:!) Tím je doplněna po dule/ité stránce základní práce Schroeter: , l'ei>er cyklischprojcctive Punktquadrupcl in /\vei kollincami Kanincn"". Malh. Ann. I5d. 'JO. str. -2.'U násl.
+4I) Zbývalo by pnnvsti dukax, x.e také v prostoru mimo kovarianlní kři\ kv je vztah konjugovaných čtveřin charakteristický pro podgrupyjV| a c,. Tento důkaz .se mi podařil jen s jistým omezením (skoro samozřejmým); proto jej neuvádím.
+XXVII. ﻿Pro určitou glfi existují (II. d) '!.) dvě invariantní plochy '2. st., procházející křivkou C. Jedna z nich obsahuje čtyři hnmy jednoho, druhá čtyři hrany druhého tetraedru os involucí, které do g,,. náležejí. Totéž ovsem platí pro každou kovariantní křivku bikvadratickou, tak že nabudeme oo1 dvojic ploch'druhého stupně pro gV, invariantních.45) Po dvou protínají se v jedné křivce kovariantní, vždy oč1 mají společné čtyři přímky. Z toho plyne, že tyto plochy tvoří dva svazky; base těchto svazku tvoří vždy čtyři osy involucí záporných.
+Z toho následuje: libovolným bodem prostoru m procházejí dře plochv pro danou L,,, invariantní. Tyto se protnou v křivce bikvadratické, jež je pro Lli; invariantní a obsahuje tedy celou skupinu (?„,), do které bod m náleží. Druhá skupina (g,,,), která tvoří s prvou celou skupinu ^-bodovou, leží podobně na bikvadratické křivce pro g1(. invariantní. Tak tedy celá skupina W-bodová leží na dvojici bikvadratických křivek, z nichž každá o sobě je invariantní pro gir> a obě navzájem pro celou grupu G.,.,.
+Každá tato kiivka protne všech osm os záporných involucí v g1P> obsažených v Hi bodech, které po osmi tvoří dvě skupiny IGbodové. Tyto body tedy jsou pro křivku body osmitečnými (vrcholy to nemohou býti, ježto křivka má polárný tetraeder T a její vrcholy leží v jeho stěnách). Ježto tutéž úvahu lze provésti pro všechny tři podgrupy g](;, nabýváme větv, pro grupu f/.?2 základní:
+Charakteristická poloha skupinv dvaatřiceti bodu, jí: dává vznik <*rupa G. K, jeví se v tom. že lze tuto skupinu trojím způsobem umístiti na dvojicích křivek bikvadratickvch. Každá tato dvojice je pro G.^ invariantní a protíná základní plochu kovariantní v bodech, jež pro křivky jsou osmi-tcčnými. Zvláštní skupina je pak charakterizována tím, že pro ni všech šest křivek s pivní v jedinou, jež ovšem leží na zmíněné ploše.
+Z předchozí věty pak ihned plyne: obecná skupina promítá se z vrcholu pól. tetraedru šestnácti paprsk v (odst. '2.)\ těchto 16 paprsku po osmi náleží témuž kužcli druhého stupně. V případě skupinv zvláštní oba kužele splvnou.
+Další důsledek: ježto každá skupina (g1(i) leží na křivce bikvadratické, je pro ni zachována platnost věty, platné pro skupiny zvláštní (II. d) _.):
+Bodv skupinv (g,,;) lze trojím způsobem seskupiti ve čtveřinv konju-gované.
+0. Naproti tomu skupiny (g'1(i) ?' obecném případě neleží na křivce bikvddratické. Neboť křivka bikvadratická
+by musila býti invariantní pro g',,.; bud' by tedy všechny plochy napsaného svazku musilv míti tutéž vlastnost, nebo by každá plocha byl.i invariantní alespoň pro 2S (což musí býti, jak lze snadno ukázati) a pak by plochy
+Ta Uč   KluywLT  (1.  c.   3'J^)  nalézá  oo1 Voskových  jiloch.
+XXVII. ﻿10
+])o čtyřech byly v g'l(i navzájem sdruženy. Tím by ve svazku nastala cyklická projektivnost, jejíž dva dvojné elementy by nám podávaly plochy invariantní pro g'lf>. Ale takové plochy neexistují. Neboť má-li plocha '1. st. býti invariantní pro /4, musí míti tvar
+al .v/2 + (J.2 .v,- + rt., .V;,3 + «, .v4- = 0.
+Má-li býti vedle toho invariantní ještě pro některou cyklickou kollineaci, jež v g'1(. přichází, jsou tím určeny další dva koěfficienty (a plocha je invariantní pro jistou g1(1). Poněvadž pak záporné involuce v b'ifi °bsažené nevzniknou z cyklických pouhou změnou znamének, musily by koěfficienty napsané plochy vyhověti ještě dalším (a sice dvěma) podmínkám, aby plocha, byla invariantní pro g'1(i, a to není možné.
+Neexistuje tedy křivka invariantní pro g',,,; proto vlastnosti, jež přísluší skupinám (g'1(;) v případě zvláštním (II. d] 3.), nepřísluší jim obecně.
+10. Skupinu (G:5o) lze i v obecné poloze umístiti na určitém počtu rovin, z nichž každá obsahuje čtyři body. Budeme postupovati zcela tak, jako v případě zvláštním; hned předem pak vyslovíme větu samozřejmou: každá rovina případu obecného platí i v poloze zvláštní. Z toho následuje, že stačí jen zkoušeti, zdali roviny případu zvláštního existují i v případě obecném. Mimo jiné je také jasno, že v téže rovině mohou ležeti vždy jen dva body kladné a dva body záporné (nazveme-li i zde kladnými resp. zápornými body, jež odpovídají stejně nazvaným bodům křivky).
+Spočítáme na základě toho, kolik rovin hledaných j rochází libovolným bodem skupiny xv : x., : .v:5 : .v,; označíme jej (00). Spojíme-li jej s bodem, jenž z něho vznikne užitím kladné involuce, obdržíme týž počet rovin, jako v případě zvláštním. Neboť tyto dva. body a libovolný bod záporný vždy leží v některé podgrupě (gl(i), jak lze snadno uvážiti; v téže podgrupé pak leží (v poloze zvláštní) i čtvrtý bod, jenž s nimi je v téže rovině. Avšak tato podgrupa i v případě obecném je umístěna na bi-kvadratické křivce, na níž tedy zůstává Ábelův theorém v platnosti a příslušné čtyři body tedy skutečně v téže rovině. Vzhledem k involucím (;;/, 11) prochází tedy každým bodem rovin: 3 x O == 18.
+Spojujeme-li bod (00) s jinými body, uvažme, že bod (00) a bod (;;/, ;/), kde ;;/, // nejsou čísla současně sudá, leží v jediné podgrupě g,fi. I mohou nastati dva případy:
+a] bod [?;/', n'], který s body (00), (ni, ;/) spojujeme, náleží do téže podgrupy g]r>. V případě zvláštním i příslušný čtvrtý bod náleží do téže podgrupy. To zůstává v platnosti i v poloze obecné, ježto skupina (g,,() je položena na bikvadratické křivce. Vzhledem k tomu obdržíme pro danou g,,., l X 4 == l (> rovin. Podgrupy g1(i jsou tři, ledy :• x 1<> =- 48 rovin.
+/;) bod [;;/';/'] nenáleží s oběma kladnými body do téže skupiny (glfi). To však znamená, že čísla /;/', ;/' nejsou leže parity jako ;;/, ;/; v poloze zvláštní pak čtvrtý bod příslušné roviny je [;;/"", n""\ lakový, že čísla ;;/"", ;/"" jsou zase jiné parity než dvojice?;/, ;/ i dvojice ;;/', ;/'. Na př. jsou-li
+X XVII. ﻿11
+m, n prvé liché, druhé sudé, a m' , n prvé sudé, druhé liché, jsou m"" , n"" čísla lichá. V případu obecném to znamená: je-li bod 0(0): xl : X2 ' x3 : #4, pak souřadnice zbývajících tří bodu mají nutné tvar (v. tabulku)
+X., : a xv    : b .v4    : c x3
+x% : a x4  : b' xl  : c' x2
+.T4 : a"" x? : b"" x.2 : c"" x{ .
+Mají-li tyto čtyři body ležeti v téže rovině, musí identicky vymizeti determinant
+Že pak tento determinant obecné nemůže bvti roven mílie, je ihned patrno. Dosadíme-li za a, b, c atd. příslušné hodnoty, vyjde rozvinutím tohoto determinantu známá rovnice plochy P.46)
+Z předchozího tedy vychází na jevo, že v rovině určené třemi body obecné skupiny (G-3.->), z nichž čiva jsou kladné a jeden záporný, jen tehdy leží čtvrtý bod téže skupiny, když zvolené tři body leží v téže skupině í/16). Každým bodem tedy prochází rovin:
+3 X G + 3 x 16 = GG. Nabýváme konečného výsledku: Body obecné skupinv   (G3.2) lze  umístiti  po čtyřech na -- - — '•     =528
+rovinách; v poloze zvláštní stoupne tento počet na  912.
+11. Skupina obecná lisí se od zvláštní také počtem způsobu, jak rozvrhnouti skupinu na konjugované čtveřinv. Připomeneme zase samozřejmou vetu: způsob platící v poloze obecné musí platiti také v případě zvláštním.
+Vzhledem k tomu je pak ihned patrno, že pokud se tvče podgntpv i4, je toto rozvržení možno jen trojím způsobeni, ndanvin pod^rupanii g16. (II. d) 2.).
+Vzhledem k podgrupě c^ lze jisté rozvrhnouti skupinu jedním /působeni, udaným příslušnou podgrupou g1(i. Lze-li to učiniti ještě jiuvm /líusobem, bylo by to možno jen tak, že by dvě čtveřiny [c4] kladné, které, nenáleží do žádné skupiny osmibodové, se daly sjíojiti s podobnými dvěma čtveřinami zápornými (II. f) :>.). Pak by však musily tyto Čtyři čtveřiny ležeti na jediné křivce bikvadratické. Ježto již prvními dvěma čtveřinami je tato křivka dokonale určena, není pravděpodobno, že by obsahovala jcvsté druhé dvě
+•'"")  Souvisí   to s   tím,   /r  l/o  výra/
+,   4      i      v 4      i      ,-  4      i      ,,   4
+11    T x••   -T- -v 3   i- .v , vyjádřiti několikerým /.pusobom doirrniiiumtom čtyřřádkovým. V. Schur, 1. c. str. iMl,"").
+XXV II. ﻿12
+Provedeme počtem určitý případ podgrupy (00) (10) (20) (30).
+Stanovme plochy druhého stupně pro tuto podgupu invariantní. Tato plocha může míti -- což se ukáže užitím (20) -- dvojí tvar
+/>        -V""   «•    __—    /7        Y   *""        L -.    /7        -V   2    __L_    /í        -i-    —    __l        *)   /7         V       V      —l__      '    ťi        -V       -V       -—   O
+11     l       l         l**     2       I         i'l *  'l       i         14 *4     ~T~   •^  tíi o-Ví  ^\.>     j     —  li oj ,v-> -vj   — ""
+Druhý tvar obsahuje jen čtyři homogenní koéfficienty, z nichž dva budou určeny transformací (10), i zbudou jen dva homogenní koéfficienty. Ježto chceme položiti plochu dvěma čtveřinami, nepřichází druhý tvar k platnosti. Z prvého pak obdržíme dva systémy ploch invariantních pro c4:
+-   2 Í7:J4 .V3 .V4  = O
+-  2 fl,0 .v, .Vo == O
+Oběma kladnými čtveřinami b<jdu, o nichž nahoře byla řeč, je určena jedna plocha každého systému. Obě tyto plochy se protínají v invariantní křivce, oněmi čtveřinami určené; běží o to, zda muže tato křivka obsahovati ještě další čtveřinu (ovšem zápornou).
+Budiž jeden bod jedné kladné čtveřiny  v;, pak platí  vztahy:
+i2,- >'22) + a» (Y-» va8 -y, -) — 2 «u y, A'S - O
+Záporné čtveřiny, ])říslušné k r4, jsou čtyři; obdržíme je, užijeme-li na yi všech záporných transformací. Označíme-li body tak, jako jsme označili transformace, jsou tyto čtveřiny:
+[00] [10] [20] [30] ; [02] [12] [22] [32] [01] [U] [21] [31]  ; [03] [13] [23] [33].
+Žádný z bodu [m, n], ni i n sudé, neleží na křivce. Neboť užijeme-li tabulky transformací a napíšeme, že některv tento bod leží na obou plochách, obdržíme vztahy totožné s hořejšími až na to, že bud při v3 y4, nebo při 3^ y2 se změní znaménko, tak že je patrno, že bod leží na jedné nebo na druhé ploše, ale nikdy na obou. Bylo by to možno jen, kdyby «12 = O, a?A =•- 0; ale tím by odpadl jeden koéfficient, což z důvodů nahoře uvedených není přípustná. Z napsaných čtveřin tedy dvě prvé jsou vyloučeny. Na křivce leží vedle čtveřiny (00) (10) (20) (30) ještě jedna kladná čtveřina, která neobsahuje bodu (02), (22). Obsahuje tedy jistě dva body, k nimž příslušné záporné (t. j. vzniklé z nich involucí [00]) obsahují druhé dvě čtveřiny záporné. Ale vzhledem k jednomu z těch bodů lze provésti
+XXVII. ﻿13
+úvahu zřela takovou, jakou jsme provedli s bodem y» vzhledem k rovnicím (1).
+Neobsahuje tedy křivka více čtveřin než dvě a konfigurace kon-jugovaných čtveřin je nemožná.
+Z toho vyplývá výsledek: Rozvržení obecné sknpinv v konjugované čtveřiny je charakteristický znak pod grup g,,.. Toto rozvržení je možné ;> -|~ 6 — 9 způsoby.
+12. V přehledu lze nyní rozdíl mezi skupinami obecnými a zvláštními vystihnouti takto: všechny skupinv (G^) v prostoru tvoří mnohost třetí mocnosti. Všechny její elementy vv znáčů jí se jistými vlastnostmi; existuje pak oo- takových, jež se jeví oproti ostatním jdko singulární (obdoba se singularitami křivek nebo ploch je dosti blízka) a oč1 takových, jez se jeví oproti ostatním jako degenerované (totiž vrcholy a osmitečné body křivek kovariantních) ,47)
+'•j \iasuiosti křivky C u s ni souvisící uspořádání elementu v prostoru má ovsem svnj původ \- lom, že C' je normální křivku rodu l v prostoru třírozměrném. Není pochybnosti, že by se výsledky /de nalezené daly ro/síriti na prostor obecný. — Y rovině připínají se úvahy /cela obdobné ku křivce .'{. st. rodu 1: nabude se tím řady vět, částečně nových, částečné známých, jichž- pravý kořen tím teprve vysvítá. (Jsou to zvláště věty, jež uvádí jakožto Kuppenny Durěge: ,,Die ebenen Curven '•\. O."" str. 2S(i násl.) Mimo jiné dojde se ku větě o třech sdružených trojicích, /cel-obdobné naši větě o čtyřech sdružených čtveřinácU. Tuto větu jsem nale/1 také syntheticky, v. můj článek: ..Podrobnosti k theoni ternárně cyklické kollineace'' Výr. /]>r;iva refdky \- Kladně liMKi/7. Sku]iiny, k nimž /de docliá/íme, jsou ]Sbodo\-é, ]c jich co- a mají všecimy tytéž vlastnosti; existuje ovsem co1 degenerovaných skupin. V. ostatně můj článek ,.() jisté .unipi- osmnácti kollineací"" \- ('as. ]iro pěst. matu. ii tys. roč. XXXVIII.
+XXY1I. ﻿*"

@@ -1,0 +1,153 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+TŘÍDA II.
+ČÍSLO 37.
+Poznámky
+o některých integrálech z theorie funkce gamma
+Podává
+M.   L e r c h,
+professor na universitě ve Fribourgu švýcarském.
+(Předloženo dne 20. května 1899.)
+Ve   své   rozpravě   Další   studie   v   oboru   Malmsténovských řad dokázali jsme vzorec
+iogr(« + »)
+— v) — 2n log u -(- 2 u — 2 log \2 TT
+L      l
+-f-
+=--------\ log (l — 2 <? -2*» cos 2 t- JT -f *- **») -
+o
+Dosaďme v právo ?/,r za x a užijme vztahu
+03
+-log (l —2e-2*X3tcos2vx-\- *-*""**) =2^] r-2 i bude
+log r(« -f v) r(ii+\ — v) — 2u log » -f 2* — 2 log V ^t7
+cc
+ÍL>                                                         ^~
+l 4-A""
+cos 2 nv TT
+2   yi   cos ""2 11 v TI   ('
+71   n       l              ^
+Buď « veličina kladná,  i násobme na obou stranách c~au du a integrujme od nully do nekonečna; obdržíme
+Rozpravy   Ročn. VIII.   Tř. II.   Č. 37.       XXXVII.                                           l ﻿00                                                                                                                                                                                                      CO
+c                                                                                                                          i*
+\ t~** log r(« -{- z;) r(u -4- l — z;) </« — 2 \ f-a"" u log u
+2
+d U -\-------s
+'     a2
+log 2 TT         2  Y1     cos 'Z n vit    ('
+r         i              </*
+j    a -4- 2 « .v n       \-\-x""
+Jest však po rozkladu ve zlomky částečné
+_____!______         l_______l
+a-\- 2 n x TI       l -{- .r2        a* -f- A
+«2^2      l --j- x'~        l -4- .r2
+a tedy
+f              l                     ř/A-                        «                Tt
+J    rt + 2«.ra       l -4- .r-  "" '   a2-f-4«2»2   ' T
+f         a -\-2uxJt        l                  2 ""I
+.' ,lim, Lloí; -- S ----- T log (1 + 'V""J J
+2 MÍT
+Jest však
+..      f         a-\-2u.v7t         l  .      ,     |     ,, l
+lim     log---------------------— log (l -f A"")
+AT = OO L                        a                          L                               J
+= lim log
+-l- 2 « A
+takže tedy
+C           l________dx
+\                  !       O                           11**
+]    a -j- 2 n x n      l -\- x~
+log a =. log
+nit
+2 na
+l o
+a následovně bude pravá strana rovnice (a) zníti cos 2nvit
+cos í nvTt,             L n TI
+-3—---------5----5- lOg   ------------
+, L             A   11 ~ ** -              ^*               >->
+Užije-li se ještě vzorce
+oč                                                                           cc
+V   ť~ """" U log ?/ í/21 ~ 1)    \
+-* du~D
+XXXVII. ﻿z něhož plyne, znamená-li nám C=—•'""""(l) známou konstantu Eulerovu,
+C,-
+log u du zn
+— log a — 6*4-1
+obdržíme výsledek
+(1)
+i e~a"" log F(u f v) F(u -f l — z-) du
+C -{- log a         log 2
+—.__o        i      s       |
+4 cos 1 nvn
+log
+cos í
+Ve vzorci tomto klaďme ^ = O a užijme rovnic
+-j- 1) =
+co
+u r(«) ,    l ť- « « iog w ^ w —
+log a
+načež se objeví výsledek jednodušší
+CO
+f         « i      i-. / >                6* -1- log 2««          6
+\ ť-a« log r(«) ť/« —------—-^
+J                                                                             <L a
+(2)
+— log
+/•Jj   2«(«2-f 4«2?r2) Položíme-li za základ výpočtu integrálu (1) vzorec následující
+log T W =       (.r -
+obdržíme
+l r- "" "" log r(u -f z;) F(« -f l — v]
+du
+X
+S
+l
+<
+XXXVII. ﻿Obrátíme-li v posledním  integrálu pořad integrační,   bude lze provésti integraci dle u i objeví se výsledek
+í   <lt   \(*-        1
+J    ~[\a2    ' a
+l
+l --
+porovnáme-li jej s hodnotou (1), máme vztah
+oč
+i* r cíl-T'}f + e'f      i      _
+]  L       cl—l           a-\-f~~
+d
+I;
+9 _
+(3)
+a      _f\ dt
+a    e*—\             a2              l    t
+4 cos 2 nvTC   ,        2 n T
+_   C ~\- log a    ,    log 2 JT    ,   Y1     •____.---.
+— — 2---------*-------------------------r Zj —T~\—'A—<>—— log
+n.""                          n.                *-*      n.* -4~ 4- n<* -rr-         &
+COS 2 MV7C
+Integruje-li se dle v od nully do jedné, vyjde
+(4)
+L a      e'__l         tiaA
+4- log «         log v 2 JT
+Volíme-li zvláště a n: 2, obdržíme
+(5)        \ r_^________i___]
+1  L e>—\        í(/+2)  J
+- = 61— loe ^.
+Užijme ještě rozvoje
+2                         2
++ Ě-7^W
+dle něhož jest 2
+a tedy
+XXXVII. ﻿dt
+w-1
+čili
+= log 2 — log (x -f- 2) -f V — arctg -~~ •
+1  ^J    nn              2 na
+ti -1
+Píšeme-li 2xn za x a přejdeme-li k limitě pro x ~ oo, obdržíme
+cc
+(6)                         C — lim l — log x -}- V-------arctg — l •
+r - _ l                    ••    // TI              n  \
+n - l
+Differencuje-li se rovnice (3) dle v, obdrží se výsledek jednodušší
+co
+f   ťr</ — ft1 J "" ^T7^!
+. log
+2 a TT
+sin 2m>7r
+XXXVII. ﻿*"

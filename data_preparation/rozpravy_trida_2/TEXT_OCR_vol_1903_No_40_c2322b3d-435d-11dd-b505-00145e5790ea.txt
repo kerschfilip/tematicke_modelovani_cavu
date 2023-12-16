@@ -1,0 +1,244 @@
+"","x"
+"1"," ﻿ROČNÍK XII.
+TŘÍDA II.
+ČÍSLO 40.
+Konstrukce tečny, normály
+a poloměru zakřivení křivek normálových
+čili Mannheimových dané křivky.
+Podává Prof.   Dr.   Antonín   Sucharda   v   Brně.
+(Se 14 obrazci na 3 tabulkách.)
+Předloženo dne 30. října 1903.
+Výtvarný zákon křivek, o něž tu jde, a jež nazývám křivkami normálovými, jest následující: Budtež v rovině libovolné dvě křivky A a L a pevný bod o. Normála libovolného bodu a křivky A protínej křivku B v bodě b. Na přímku, která spojuje pevný bod o s bodem b, přenesme od bodu b úsek bm — k ba, při čemž A značí libovolný číselný koefficient. Bod m naplňuje křivku M, jejíž tečna, normála a kružnice oskulační mají se stanoviti.
+1. Konstrukce tečny a normály.
+Předpokládejme napřed případ Azíl, tudíž &m = óa (obr. 1.). Pokud se týče stanovení tečny (a normály), možná křivku B nahraditi její tečnou Tb v bodě b.
+Kdekoli tu řeč o promítání, rozumějme orthogonalné v průmětnu X\\ která splývej s nákresnou.
+Budiž a středem zakřivení v bodě a křivky A, kterou pokládejme za průmět prostorové křivky A'. Bod a' křivky A', jehož průmětem jest a, mysleme si nad rovinou XY a Ta = ac budiž průmětem tečny 7>, bod c její stopou. Normály (aba . . . .) křivky A jsou průměty normál (ab'a? . . . .) k promítací ploše A křivky A podél této křivky. Místem normál a'b'cť jest plocha mnohosměrek N, která promítací rovinu tečny Tb, obsažené v průmětně, protíná v křivce, již nazveme N.
+._
+Rozpravy: Roč. XII. Tř. II. Č. 40.
+xxxx. ﻿Plochy Jí dotýká se podél její plošné přímky a'b' hyperbolický paraboloid (Jí), určený přímkou a'c, promítkou Za bodu « a rovinou XY jako rovinou řídící. Myslíme-li v průmětné přímku 6d\*ac,pak de aa, jest bod e stopou tečny TV, která v bodě b' dotýká se křivky N. Avšak přímky jako o'b'mr rovnoběžné s průmětnou naplňují jinou plochu mimo-směrek C, jež má promítku Z0, křivku N a rovinu XY útvary řídícími. Této plochy dotýká se podél plošné přímky ob'm hyperbolický paraboloid (C), jehož řídícími útvary jsou tečna TV, promítka Z0 a rovina XY. Stopou jeho v rovině XY jest přímka oe, druhá pak plošná přímka, příslušná bodu m' má průmět mn rovnoběžný s bc\ bod n ve stopě oe položený jest jejím bodem stopním. Přímka nr rovnoběžná s mo je tudíž stopou tečné roviny k paraboloidu (C) v bodě m.
+Kružnice jako am, jejichž středy jsou v bodech b . . . . lze pokládati za průměty kružnic a m', ... ležících v rovinách osnovy XY. Kružnice a'm't . . . protínajíce křivku A' a svými středy naplňujíce křivku N, vytvořují plochu D. Této se podle kružnice a' m' dotýká plocha kuželová kruhová šikmá (D), jejíž středovou přímkou jest b'e a střed v bodě v', jehož průmětem je bod c.
+Plošná přímka m'v této plochy kuželové, příslušná bodu m' , protíná rovinu XY v bodě g přímky eg s bm rovnoběžné, g jest tedy stopou její. Kolmice vztýčená v průmětně XY bodem g ku přímce eg je tedy stopou tečné roviny v bodě m' ku ploše (D), a bod /, v němž kolmice ta protíná se s přímkou nr, jest stopou žádané tečny ke křivce M' v bodě m', tudíž přímka fm žádanou tečnou křivky M v bodě m.
+Konstrukci, tuto, již podává obr.  I., zjednodušíme takto:
+Prodloužíme příslušné čáry, až obdrží se body i, r, /.
+Pak jest zajisté
+avšak
+mp : np — (bc : ec) — mo :gt
+(2.)
+Z 1. a 2. následuje však, že nr~=.gt, a z toho jde na jevo, že ng \\ rt.
+Učiníme-li tedy bodem p rovnoběžku k mo a bodem c kolmici ku mo, čímž vznikne bod g, bude /\,cpq podobný a stejnolehlý s A^/, Pro m jako střed podobnosti, pročež bude bod q na tečně mf. Z čehož následuje tato prostá konstrukce tečny v bodě m (obr. 2.) :
+Učiň tečnu ač a bodem m rovnoběžku s Tb. Tuto protíná co v bodě p, jímž sestroj rovnoběžku ku mo a protni kolmicí ku mo z bodu c. Prů-sečným bodem q prochází tečna bodu m.
+Z výsledku obdrženého je zjevno, že konstrukce tečny nezávisí na poloměru zakřivení dané křivky A.
+Konstrukce dá se ještě dále zjednodušiti (viz obr. 3.).
+XXXX. ﻿Označme úseky cp — a, co =: <L, bm — c, bo — d^ cq = r,cw — s, uv ~ n, uo~t.
+Z podobnosti  /\^opm a  /\ocb jde
+a : b__c \ d,
+a  z podobnosti /\qpc a  /\zuoc
+z úměrnosti úseků způsobených paprsky mq, mp, mo na příčkách qw
+tudíž                                  c:d=u\t,
+z čehož plyne, že mv\\bu.
+Vraťme se ještě jednou k bodu a (viz obr. 4.). Tečna Ta křivky A protíná TI, v bodě c. Přímka mc protíná v bodě u kolmici ou ku om, bodem u prochází přímka ub rovnoběžná, jakož jsme ukázali, s tečnou křivky M v bodě m.
+Kolmice z bodu b k um spuštěná protne uo v bodě h, a jest třetí výškou trojúhelníka umh, jehož dvě výšky jsou mo, ub. Z toho však plyne, že třetí strana mh tohoto trojúhelníka jest kolmá k jeho výšce ub a tedy normálou křivky M v bodě m.
+Takto nabyli jsme velice jednoduchých konstrukcí tečny a normály v libovolném bodě Mannheimovy křivky M, ovšem pro případ A=:l.
+2. Pro případ, že A^l, naplňuje hledanou křivku, označme ji M*, bod #2*, pro který platí bm^^kba, kdežto původní křivku M naplňovaly body m, pro něž bylo bm = ba. (Viz obr. 5.)
+Vznikají takto tři křivky, totiž B, M a. M* (křivka B, jakož víme, může se nahraditi tečnou Ta), jimiž způsobují se na pohyblivé přímce om* úseky, které jsou v stálém poměru. Lze tudíž ku stanovení normály v bodě m* užiti způsobu, jejž pro tento případ poroučí Mannheim ve svých krásných »Principes et développements de Geometrie Cinématique* p. 16, a který záleží po malé úpravě v následujícím: Sestroj v bodě b normálu bg ku přímce 7$, v bodě m normálu mh ku křivce M\ g a h jsou body, v nichž tyto normály protínají kolmici vztýčenou v bodě o ku přímce ob\ na přímce gh zvolený bod k* tak, že
+určuje s bodem m* žádanou normálu m*k*. Konstrukci uvedenou lze provésti tak, že učiníme napřed b\* \\oh, potom h\ \\ gb, dále mjf\jf\\m\ a konečně z l""5* rovnoběžku k bg\ ta protne ok v žádaném bodě k*.
+xxxx.
+l* ﻿Ukážeme nyní, kterak tato konstrukce dá se zjednodušiti. Poněvadž
+/    a    <^mcb — <3^hbg,    jest tudíž                                             cb : bm = ~bg : gh     .   .
+Podle konstrukce je však
+bm : mm* =r gh : hh *, .
+N>gh, .   . (a) -(1)
+(2)
+cb : bm : mm ~ bg. gh : hh,
+lz.e tudíž psáti
+z čehož ihned
+cb : bm* — ^-:
+z toho pak vzhledem k rovnosti
+<iLmbc =
+následuje, že
+Z výsledků a) /3) následuje však, že též
+»T rv  ]     /
+tudíž
+i poznáváme, že jest
+cmm
+mcm   :=
+J_
+Tudíž: konstrukce normály v bodě m* jest pro případ A^l zcela táž jako pro A:= l:
+Učiň bodem o kolmici ku om*, kolmice bodem b ku cm* sestrojená protíná kolmici prvnějšívbodě h*\ tímto bode m prochází žádaná normála bodu m*. Rovněž je patrno, že přímka u*b (obr. 5.) je rovnoběžná s tečnou bodu m*.
+Profesor ďO ca g ne, jemuž jsem byl sdělil konstrukci tečny, platnou pro libovolné A a odvozenou na základě deskriptivní geometrie v tomto pojednání, překvapil mne v krátce na to sdělením, kterak lze obdržeti konstrukci normály. Konstrukce tato platí jen pro A=l a zní takto (obr. 6.): Maje ab—bm, tečnu ca křivky A v bodě a, tečnu cb křivky B v bodě b a pevný bod o, učiň og_\_ob, bg J_cb, potom gp^_ab, konečně přenes gp =gk na kolmici og, hm jest hledaná normála.
+Konstrukci tuto pověříme, uvedeme-li ji v souhlas s naší konstrukcí normály, vyloženou v odst. 1. (obr. 6). Vizme totiž obrazec cbma, složený z /\cba a výseče abm^ jakož i obrazec bghp^ složený z /\bgp a výseče pgh.
+xxxx. ﻿Smíšenočaré ty obrazce jsou si geometricky podobny a modulem jest poměr cb : bg, také patrno. že obrazec poslednější jest k prvnějšímu o pravý úhel otočen. Ku příčce cm obrazu prvního je však homologická příčka bh obrazu druhého, pročež musí býti bh^_cm^ to však jest právě konstrukce normály námi odvozená v odst. 1. (obr. 4.).
+3. Konstrukce středu zakřivení, když /l~l, a křivka B jest přímkou.
+Vycházejme od ďOcagne-ovy konstrukce normály provedené v obr. 6. Zakládajíce se úvahami, vykonanými již v odst. 1. při odvozování konstrukce tečny, připomeňme zase, že kdekoli tu mluví se o průmětu, rozumíme pravoúhlý do průmětny XY, která sjednocuje se s rovinou nákresny.
+Bod a (viz obr. 7.) jest středem zakřivení v bodě a křivky A, kterou pokládáme za průmět prostorové křivky A'. Bod «', jehož průmětem jest a, mysleme si nad průmětnou. Tečna bodu a' jest TV, Ta její průmět a v něm na přímce Tb stopní bod c tečny Ta-.
+Normály abu křivky A jsou, jakž také již víme, průměty normál a'b' k promítací ploše A křivky A' podél této křivky. Normály a'b' naplňují •plochu mimosměrek IV, která promítací rovinu přímky Tb v průmětně obsažené protíná v křivce N body b' naplněné. Bod e, který volíme kdekoli na přímce 7^, je stopou přímky TV, která se v bodě bf dotýká křivky TV.
+V průmětně obsaženou křivku M pokládejme za průmět prostorové křivky M\ bod o za průmět kolmice O k průmětně; tyto dva útvary spolu s řídící rovinou XY určují plochu mimosměrek C, která také obsahuje křivku N a naplněna jest přímkami plošným C' . . . ., jejichž průměty jsou C (obm=iC). Plochy C dotýká se podél plošné přímky C' hyperbolický paraboloid (C), jehož řídícími přímkami jsou O a tečna TV křivky N, majíc stopu v bodě e a řídící rovinou XY. Přímka oe jest stopou tohoto paraboloidu (C). Učiníme-li bodem ;;/ rovnoběžku k T/, , až protne oe v bodě w, bude n stopou přímky druhé soustavy, jež náleží bodu m paraboloidu (C), přímka on jest tedy stopou tohoto paraboloidu, rovnoběžka z n ku om tedy stopou tečné roviny v bodě m' ku (C). Ježto pak průmět tečny křivky M' v bodě m známe, třeba jen určiti průsečík jeho f s posledně jmenovanou rovnoběžkou, a obdržený bod / bude stopou tečny Tmr v bodě m' ke křivce M'.
+Sledujíce konstrukci dále, poznáváme přímku bg-^D jako průmět přímky D\ která bodem b' křivky AT procházejíc, jest k její rovině kolmá. Přímky //.... protínajíce v bodech //,... křivku N, naplňují plochu válcovou D kolmou k rovině křivky N. Této plochy válcové dotýká se podél přímky D' tečná rovina, jejíž stopou jest bodem e sestrojená rovnoběžka s D, jelikož bod e jest stopním bodem tečny TV.
+xxxx. ﻿Přímka og' = E' mající průmět v og-^E jest s XY rovnoběžná a kolmá ku C', i protíná se s ní v jistém bodě přímky O. Jakož pak přímky C' naplňují známou plochu mimosměrek C, tak i přímky E' k nim kolmé naplňují jinou plochu mimosměrek E. Tato plocha protíná se s plochou válcovou D v křivce bodem g' procházející. Plochy C podél přímky C' dotýká se uvedený již paraboloid (C), plochy E dotýká se podle přímky E' hyperbolický paraboloid (E), mající s ním společnou řídící přímku O, řídící rovinu XY a s ním shodný, avšak kol osy O o pravý úhel otočený. Stopou tohoto paraboloidu jest přímka bodem o procházející, kolmá ku oe. Přímky druhé soustavy paraboloidu (C) jsou rovnoběžný s promítací rovinou tečny 7},, přímky druhé soustavy paraboloidu E jsou k rovině této kolmý, i jest kolmice hi ku Tj, již průmětem plošné jeho přímky druhé soustavě náležité a bodem ti procházející, stopou pak této přímky jest bod z, v němž hi proniká stopu řečeného paraboloidu, rovnoběžka bodem i ku oh je tudíž stopou tečné roviny v bodě ti k tomuto paraboloidu. Plošná jeho přímka druhé soustavy bodu g příslušná má průmět gb a stopní bod k. Rovnoběžka bodem k ku oh je tudíž stopou tečné roviny paraboloidu (E) v bodě g' a bod / ležící na této stopě a na kolmici v bodě e ku 7), vztýčené jest stopou tečny v bodě g' ke křivce naplněné body g'.
+Vizme dále přímky bp a gp. Jsou to průměty k sobě kolmých různo-běžek F', G' s XY rovnoběžných. Přímky f1' body svými b' naplňujíce křivku N skýtají plochu mimosměrek F, jejímiž řídícími útvary jsou přímka A J_XY, jejímž průmětem jest bod «, křivka N a rovina XY Přímky G' naplňují plochu mimosměrek G, jejímiž útvary řídícími jsou rovina XY a křivka body g naplněná; každá plošná přímka gep' jest kolmá k oné plošné přímce plochy F, která s ní je v téže rovině osnovy XY.
+Mějme na mysli tečnu v bodě p' ke křivce (pr . . .) bodem tím procházející, v níž plochy F a G se protínají. Podle plošné přímky F' dotýká se plochy F hyperbolický paraboloid (F), určený přímkou A, tečnou b'e a průmětnou jako útvary řídícími. Jeho stopou jest přímka ecc. Tečna 7/ v bodě p' křivky příslušné ovšem obsažena jest v rovině, jež se paroboloidu (F) v bodě p' dotýká. Sestrojíme-li v průmětně rovnoběžku bodem / ku přímce be, bude průsečný její bod q se stopou ea stopním bodem plošné přímky druhé soustavy paraboloidu (F), která přísluší k bodu p\ a rovnoběžka z q ku ba. bude stopou této roviny tečné. V této rovině obsažená tečna 7/ zároveň náleží tečné rovině plochy G v bodě X, nebo, což totéž, tečné rovině v bodě p' k hyperbolickému paraboloidu (G), který se plochy G dotýká podél plošné její přímky p'g'. Plochu (G) a její rovinu tečnou netřeba sestrojovati, jakož brzy poznáme.
+Kružnice totiž ph, ... lze pokládati za průměty kruhových křivek p'h'. . . ležících v rovinách osnovy XY. Křivky tyto svými středy naplňují křivku složenou z bodů g\ jejíž tečnou v bodě g jest g'l^ a protínají
+xxxx. ﻿křivku (/'... .), jejíž tečna 7/ jest obsažena v rovině tečné bodu pf plochy (F). Plochy H těmito kružnicemi naplněné dotýká se podél kruhové křivky p'ti plocha kuželová (H) kruhová šikmá, jejíž středovou přímkou jest přímka gl. Poněvadž přímka F jest v bodě p' tečnou kruhového oblouku p'ti a poněvadž dále tečna 7/ prve řečená v bodu p' se dotýkající křivky (/>'... .) je v bodě tom tečnou plochy H a tedy ovšem i plochy kuželové (H), jest rovina tečná v bodě p' k paraboloidu (F) také tečnou rovinou plochy (H) a střed kuželové plochy (H) ovšem jest v bodě, v němž přímka gl protíná tečnou tu rovinu.
+Učiníme-li tedy bodem / rovnoběžku s přímkou gp, bude bod i, ve kterém protne rovnoběžku vedenou bodem q ku přímce pb, stopou bodu/' příslušné plošné přímky kuželové plochy (H); přímka tato svým pronikem se středovou přímkou gl určuje střed této plochy kuželové, který netřeba sestrojovati.
+Opíšeme-li nyní kol středu / oblouk kruhový tu, bod u vytknouce na Ik, obdržíme tak bod u, který jest stopou plošné přímky kuželové ploše (H) náležité a bodem ti procházející. Přímka uj_\_lu jest pak stopou tečné roviny kuželové plochy H v bodě k', kdež ij \ \ ok dává stopu tečné roviny v bodě ti k hyperbolickému paraboloidu (E). Jest tudíž bod j stopou tečny TV v bodě ti ke křivce (ti ...) = //.
+Stanovíme-li nyní bod, ve kterém se normála mk protíná se sou-meznou, obdržíme žádaný střed zakřivení G. Avšak normály jako mh křivky M lze pokládati za průměty plošných přímek m'ti plochy mimosměrek J, určené křivkami M', H a rovinou ^TKjako útvary řídícími, bod G jest pak průmětem bodu, ve kterém se promítací rovina plošné přímky m'ti dotýká plochy J. Plochy této však dotýká se podél m ti hyperbolický paraboloid (J), určený tečnami Tm-, TV a rovinou XY jako útvary řídícími. Učiníme-li nyní/z/|| mh tak, aby bylo spolu kv_\_iv, budou přímky m'f, ti v a rovina XY určovati hyperbolický parabolod (J') rovnostranný, který se plochy J také podél přímky m'ti dotýká a k řešení úkolu našeho zvláště se hodí. Přímka totiž fv protíná se s přímkou mh již v žádaném bodu G.
+Konstrukce středu zakřivení jest tedy tato: Vycházejíce v obr. 8. od známé konstrukce normály, která sem z obr. 6. byla přenesena, volme bod e na 7),, učiňme pq\\T/,, q na přímce ecc, n na přímce oe, potom ok^_oe, /«_L T),, bod i na přímce ok, dále ku \ \ oh, el_\_ TI,, lt\\gpt lť^.lu (oblouk tu souhlasného směru s obloukem ph}\ uj _\_ lu, při čemž ji \ \ ok, dále/z/1| mh a spolu v/t_[_ mh, potom nf\\ mo a zároveň mf _\_mh; přímka/z; protíná mh v hledaném středu zakřivení G.
+Zasluhuje býti připomenuto ke konstrukci právě vyložené, že bod L, jehož se tu užilo, netřeba voliti zrovna v tečně 7$, nýbrž kdekoli jinde na tečně Ta křivky A. Tím nejen že se konstrukce zjednoduší, ježto takto volba bodu e zůstává v naší moci a sestrojení čar ca, bd, de se uspoří (sr. obr. 8), ale konstrukce naše umožní pak i sestrojení středu křivosti
+xxxx. ﻿v případě,   kdy  7a \ \ 7/,,  a tudíž c jest v nekonečnu, v kterémžto případe by konstrukce původní (obr. 7.) nedala se provésti.
+4.  Konstrukce  středu   zakřivení,   když A—l,   avšak B jest libovolná křivka, mající střed zakřivení (i příslušný k bodu b.
+Je-li B' (obr. 9.) křivkou, jejímž středem křivosti bodu b' příslušným jest bod /J', naplňují přímky jako b'g plochu mimosměrek, které se podél přímky b'g' dotýká hyperbolický paraboloid (P), jehož stopou jest 7/i, učiníme li pak^z^H 7$ a wl\\gb, jest toto wl stopou tečné roviny k tomuto paraboloidu v bodě g', ježto pak rovnoběžka bodem k ku o'tí jest stopou tečné roviny paraboloidu (E) v bodě g', jest / stopou tečny v bodě g ku křivce body g naplněné. Přímka g l jest místem středů kružnic jako p'h
+Plochy těmito kružnicemi naplněné dotýká se podél kružnice p'li plocha kuželová, kruhová, šikmá (H), jejíž přímkou středovou jest g l. Této plochy dotýká se v bodě p' tečná rovina v tomto bodě k hyperbolickému paraboloidů (F). Učiníme-li pq\\ T&, jest q obsažené v ea stopou plošné přímky p'q tohoto paraboloidu, a tedy rovnoběžka qt bodem q ku ba stopou tečné roviny oné. Učiníme-li pak It_\_qt, jest oblouk tu ze středu / opsaný stopou kuželové plochy (H). Kolmice v bodě u ku l u je pak stopou tečné roviny v bodě h ku ploše kuželové (H), ježto pak ij\\ oh je v tomže bodě stopou hyperbolického paraboloidu (E), jest bod j, v němž se tyto stopy sekou, stopou tečny v bodě h ku křivce naplněné body //, načež známá z obr. 7. a v obr. 9. zřejmá konstrukce vede přes body v a / k žádanému bodu G.
+Konstrukce tato ještě dále se zjednoduší vzhledem k úvaze pag. 11., podle níž lze c přeložiti do libovolného bodu přímky ca. Viz obr. 10., který srovnán s obr. 9. nevyžaduje dalšího vysvětlení.
+5.  Konstrukce středu zakřivení, když A^l  a B jest křivkou, jejímž středem zakřivení v bodě b jest bod  /3.  —  Výklad  kinematický:
+Budiž r poloměr a a střed křivosti křivky A v bodě a, (j a /j mějtež obdobný význam vzhledem k bodu b křivky B. Je-li ač rychlost dotyčného bodu a křivky A v příslušné tečně «L= Ta, obdržíme rychlost ku Ta kolmou, cg, s kterou se otáčí bod c tečny Ta kolem bodu a, sestrojíme-li průsečík g kolmice v bodě a ku ca s kolmicí v bodě c ku ač. Rychlost, s kterou se pohybuje bod b poloměru bfi v příslušné tečně 7^, jest bd\\ ač, při čemž d připadá do přímky ca; rychlost tedy, s kterou se příslušný bod tečny 7* pohybuje po této tečně, jest be, při čemž ed^_bd. Z toho následuje, že rychlost cc* ku cb kolmá, s kterou se otáčí bod c tečny Ti, kolem bodu b, obdrží se, sestrojíme-li průsečík L* kolmice bodem b ku přímce efi s kolmicí v bodě c ku tečně Tb. (Obr. 11.)
+xxxx. ﻿S bodem c splývající průsečík tečny 7* s tečnou T* pohybuje se po tečně Ta rychlostí cc"", kterou obdržíme, učiníce c^c"" \ \ Té, bod však tečny Ta do bodu c padající pohybuje se po tečně Tb rychlostí ck, které nabudeme, učiníce gk \ \ ca. Je-li / čtvrtým rohem rovnoběžníka c""ckl, značí cl směr i velikost rychlosti, s kterou se bod c pohybuje, je tedy cl tečnou křivky vytvořené bodem c*)
+Rychlost, s jakou se bod c přímky cm pohybuje po tečně Tb, jest cp, při čemž Ip \\crn.
+Jakož bylo již pověděno, třeba bodem b vésti kolmici ku cm a kde tato protíná kolmici v bodě o ku o m vztýčenou, jest bod <&, jímž prochází normála Nm:=inh v bodě m ku křivce M vztýčená. Kolmice T„, = mf k m' v bodě ;// sestrojená jest žádanou tečnou křivky vyšetřované. Poněvadž bod &, v němž přímka om protíná tečnu 7$, po této se šine rychlostí L<?, jest rychlost pohybu bodu m po rovnoběžce s Tb rovna mn, při tom značí u pronik této rovnoběžky s přímkou oe, dále pak jest mf rychlost, s kterou se bod m šine po tečně 7j„, při čemž nf\\ om. Další vysvětlení poskytne nárn geometrie deskriptivní.
+Pokládáme-li v průmětně obsaženou křivku M za průmět prostorové křivky M\ jejíž tečna v m' měj průmět mf a v bodě / svoji stopu, bod o za průmět kolmice O k průmětně, spolu pak za průmět bodu o', který s body b', c a m' jest v stejné výši nad průmětnou, budou přímkami m'b'd, .... vyjádřeny s XY rovnoběžné plošné přímky C', . . . ., jež naplňují plochu konoidu C, určenou útvary O, M, XY, jíž se dotýká podle přímky C' hyperbolický paraboloid (C), jehož stopou jest přímka oen.
+Podobně budou přímky m'c=D' s průmětnou rovnoběžné naplňovati plochu mimosměrek D, jejíž útvary řídícími jsou průmětna XY, prostorová křivka M' a v promítací rovině tečny Tb obsažená křivka, naplněná body c\ jejížto tečna bodu c' příslušná má stopu p. Plochy této dotýká se podél přímky D' hyperbolický paraboloid (D) určený průmětnou jako řídící rovinou a přímkami c'p, mq ku promítací rovině přímky Tb rovnoběžnými a obsaženými v tečných rovinách bodů m' a c' ku ploše D; při tom jest fq \ \ cm. Stopou tohoto paraboloidu (D) v průmětně jest přímka /></.
+Konečně i přímky E'^b'Ii s XY rovnoběžné a stále kolmé ku příslušným plošným přímkám plochy mimosměrek D určují plochu mimosměrek E, které se dotýká podél E' plocha mimosmérek (E) určená tečnou ~b'e křivky B, řídící rovinou XY a tím, že plošné její přímky jsou stále kolrny ku plošným přímkám paraboloidu (D). Jest tedy i tato plocha (E) jako geometrické místo kolmic jednotlivými body přímky b'e vedených ku
+*) Přímka cl podle Mannheima, Geometrie cinématique, p. 497 No. 11 jest kolmá ku přímce «ff, při čemž fiyjjfa, y$±_bp. Učiníme-Ii tedy bodem c kolmici ku přímce aí a protneme-li ji pak rovnoběžkou v bodě c* ku Tt, nabudeme také bodu /. (Obr. 12.)
+xxxx. ﻿10
+plošným přímkám paraboloidu (D) a jako ony s XY rovnoběžných, tolikéž paraboloidem hyperbolickým. Krom toho naplňují jednotlivými body přímky O k příslušným přímkám paraboloidu (C) kolmé a k rovině XY rovnoběžné přímky F'-^o'ti nový hyperbolický paraboloid (F).
+Plošné přímky L'...., Ff. . .. pronikají se v bodech //.... křivky //, jejíž tečnou jest průsečnice tečných rovin v bodě k' k paraboloidům (E) a (F). Kolmice bodem o v průmětně ku přímce on sestrojená jest stopou paraboloidu (F), bod i této stopy, pro nějž jest hi_\_Tb, jest pak stopou plošné přímky tohoto paraboloidu bodem h' procházející; tudíž jest přímka ij\\F stopou tečné roviny v bodě h' k tomu paraboloidu.
+Pokud se týče tečné roviny v tomto bodě k paraboloidu (E), suďme takto: Tečná tato rovina určena jest oběma, plošnými přímkami, které bodem tím procházejí, z nichž jednou, s XY rovnoběžnou, jest E'. Je-li r rozpojovacím bodem úsečky eb a stanovíme-li na spojnici hr bod h* tak, aby bylo hr=.rJc*', jest bod /!*, stopou přímky, která jde body/z', r. Přímka //""=/z4"",? J_ / & (při tom / je v průsečíku přímek/^ mc a qu — um) jest stopou roviny jdoucí bodem h' a plošnou přímkou první soustavy, příslušnou bodu r'\ ježto pak přímka ez_[_pq jest stopní přímkou paraboloidu (E), sluší průsečík z přímek H, J^ez míti za stopu plošné přímky druhé soustavy paraboloidu (E), která bodem h' prochází. Stopa tečné roviny řečeného paraboloidu v bodě h' prochází tedy bodem z a je s přímkou E rovnoběžná. Body, v němž protíná přímku 27, je tudíž stopou tečny ku křivce H v bodě k'. Učiníš-li konečně z h rovnoběžku a z j kolmici ku Tmj obdržíš v jejich průsečíku bod v, jehož spojnice s / protíná Nm v bodě (?, což je žádaný střed zakřivení, jakož netřeba dále dokazovati.
+Konstrukce středu zakřivení v bodě m pro případ nejobecnější, když totiž A jest libovolné a když A a B jsou jakékoli rovinné křivky, jejichž středy zakřivení pro tento bod jsou resp. a, fi, je tedy tato:
+Maje body známého významu: a b c o m h a p e nf (viz obr. 11. a obr. 12.) a jejich spojnice, zejména učiň pyj_a6, yd\\ Tť, cc* J_T/, (c* na přímce bodem b ku efi kolmé). Potom bod / na přímce bodem c'1' ku Ti, rovnoběžné, potom fq || mc, q na mn. Tím nabudeme též bodu t a rozpůlením úsečky mq bodu u. Učiňme nyní er=-rb, pak krk* tak, aby žřzirA*, potom bodem /z* kolmici ku tu a bodem e kolmici ku pq. Průsečíkem přímek těchto vznikne bod z.
+Učiňme dále bodem o přímku K_\_on a bodem k přímku LJ_Tí, čímž nabudeme bodu i\ přímka M\\F a jdoucí bodem i protíná přímku N\\E a jdoucí bodem s v bodě j. Sestrojíš-li ještě bodem j přímku O\\Nm a bodem h přímku P\\K, obdržíš bod v, jehož spojnice s / protíná N„, v žádaném středu zakřivení G
+xxxx. ﻿11
+Z konstrukce této, která svědčí případu nejobecnějšímu, snadně ovšem se obdrží konstrukce jednodušší, platná pro případ A=:l, jakož i pro případ, kdy B jest přímkou. V tomto posledním případě třeba jen místo /3 voliti bod úběžný na přímce bodem b ku Tb kolmé.
+6. Odvoďme nyní výraz pro poloměr zakřivení z jeho konstrukce dané v obr. 10.
+Označíme v obr. 10. jednotlivé úsečky následovně:
+libovolně vytčenou délku eb=.a,
+poloměr zakřivení křivky A v bodě «, totiž aa — r, »             •»           »        B      »         b,    »       bfi — Q,
+délku polárné normály        (pro pól o] křivky M v bodě m . . . mh = A', »          >        subnormaly   ( »       »   o]      »        M        »       m ...   ok—S,
+průvodič křivky M pro bod m .  . . om — P, »            »         B    »       »      b .  . .   ob =/,
+délku polárné normály        (pro pól o) křivky B v bodě   b . . .  bg = v, >          >        subnormaly   ( »       »    <?)       »        .5         >        L .  . .   o g r= <7,
+»     normály v bodě # ke křivce ^4 mezi křivkami A a 5, totiž   ab~n.
+Konečně nazveme úsek tečny v bodě a ku křivce A mezi tímto bodem a tečnou Tb ac — t a délku bc — k.
+Volíme-li bod #2 počátkem soustavy pravoúhlé, mn za — X, kolmici k mn o běhu gb za -)- F, vychází
+rovnice přímky
+nf.   .   .V = í-
+pr
+•mf .   .   . y := —
+pročež
+—      ^J^J^l v2
+z čehož po krátké redukci, povážíme-li, že P2 -f- S2 = N2, vychází
+—.     aN mf = — v
+xxxx. ﻿12
+Volme dále počátkem soustavy bod /ž, směr a běh souřadných os tak jako prve. Určíme-li nyní souřadnice bodů e, p, «, rovnici přímky au, pak souřadnice bodů q, /, j a v, nabýváme
+hv =
+aV
+vpN ' načež z /\fma ^ /\vha plyne pro hledaný poloměr zakřivení
+(2)
+(3)
+Při tom jest
+v=p\*?- ('-.
+Z relací (3), (4), vychází na jevo, že libovolně vytčená délka eb — a z výsledku vymizí, a že tedy konstrukce na její volbě jest nezávislá, jakož jsme již předem byli tvrdili zakládajíce se úvahami prostorovými (pag. 10).
+7. Abychom pověřili jednak konstrukci, jednak výraz pro poloměr zakřivení na ní založený, učiňme úvahy následující:
+Jsou-li A a L dvě přímky rovnoběžné (viz obr. 13.) ve vzdálenosti P—p a mimo ně pevný bod o jako pól, vede zákon výtvarný, který v pojednání tom se předpokládá, ku konchoidě Nikomedově.
+Konstrukce poloměru zakřivení, vážená z konstrukce obecné, dané v předešlém, jest následující:
+Maje přímky H\\ B a body a, b, o, m, vytkni na ab bod h tak, aby ohLom, pak jest mh normálou konchoidy v bodě m; učiň dále oenLB, při čemž mn\\B; učiníš-li pak mf ±. mh a spolu nf\ \om, jest mf tečnou konchoidy v bodě m.
+Sestroj pak tj±.om, bod j jest na on; je-li potom jv\\mh a spolu hv\.mh, protíná přímka fv normálu křivky v žádaném středu zakřivení 0.
+Vyjádříme-li konstrukci tuto počtem, předpokládajíce označení, jehož bylo užito v odst. 6., poznáme, po některých redukcích pro poloměr zakřivení výraz
+J\    —    ^~ r^
+Výraz úplně souhlasí s oním, jejž odvozuje Machovec*) vycházeje od výtvarného zákona konchoid obyčejných.
+*) Zobrazení  tečen   a středů   křivosti  křivek  na   základě   nové   methody. 1833, pag. 103.
+xxxx. ﻿13
+Avšak formule, kterou jsme v rovnicích (3), (4) odst. 6. uvedli, a která týká se výtvarného zákona obecnějšího, dá se i přímo pověřiti.
+Považme totiž, že pro případ konchoidy Nikomedovy musí býti lim (íinoo a ovšem též lim (r—P-\-p) — <x>, kromě toho pak, že musí tu býti <? = vS, a konečně, že zde lim /z=oo a lim L=oo.
+n                              t
+Poněvadž tu  <L;#&:=:<L«=      , jest lim sin«=: lim -.- = l, vychází
+^                                                     K
+tudíž
+čili, ježto
+tedy
+V—— Pp~ —
+a proto konečně
+jako prve.
+Učiníme-li   B   kružnicí    o    poloměru   Q,   A   kružnicí    o   poloměru r=.Q-\-P — /, bude křivka vzniklá Pascalovou závitnicí.
+V   tomto   případě  jest   zase  G = S, dále   S2 — 4Q2 — p2,   lim f—ao a lim ^zioo, a protože tu <L>=— -, a   lim — =i l, vychází z rovnice (4)
+L                              ns
+Poněvadž však 52 = 4p2 — p2, jest  v2 =/>2+ S2 = 4()2; y = 2p, jest
+tudíž
+ale dle relace («) jest tedy konečně
+pN*
+xxxx. ﻿14
+jako nejjednodušší relace pro poloměr zakřivení závitnice Pascalovy. Z této vychází následující jednodušší konstrukce středu zakřivení (srv. obr. 14.): Maje kružnice A a. B, pak body a, b, o, m, učiň ""ob^Tm, ^d\\hó, md=.me, hf^hg. Sestrojíš-li nad průměrem eg polokružnici a v ní tětivu ek =. m/i, jest pravoúhlý průmět el této tětivy do eg roven poloměru zakřivení, který přísluší závitnici v bodě m.
+8. Určeme nyní formuli pro poloměr zakřivení, která vychází počtářsky z konstrukce v obr. 11. sestrojené a platné pro nejobecnější případ zákona výtvarného. Zavedeme-li obdobné určení jednotlivých délek, jako se stalo v odst. 6., vychází následující:
+Pro bod c jako počátek soustavy, có=-\-X, cc* = — F, plyne, určíme-li souřadnice bodů m, n, /,
+-r      k(        ^     N mf — —(r—n) .
+r              v
+(5)
+a ze souřadnic bodů /, p, q, t, u plynou   pak   záporné převratné hodnoty ^ a <&1 směrnic přímek pq a fu, totiž
+vk(v-\~XGcoscí](r~ n)    nS(r — n)    vksina.
+— — -- -—-r-^ —  — --- (osina — r-v -\-A6cosa —         Apyrcosa             Aprcosa     Qrcosa
+COS K
+_      v -\-A.6cosu—
+— ;/)    nS(r—\n    vksina,
+- — — -^ -- ——ň -- (ostnu— r-4-H) éApyrcosa           iKprcosa
+cos a
+Učiníme-li dále h počátkem soustavy, směr a běh souřadných os ponechávajíce týž jako dosud, a stanovíme-li souřadnice bodů r, &*, e a rovnice přímek
+— 2A(J cos a
+P                                                ~\
+— 2v = ^ . l x -j- 2A/» cosa-\ — (r—n} \
+[k          l
+x-\-   Kpcosa-\ — (r— n) l ,
+z nichž plynou souřadnice bodu z, a z těch a ze souřadnic bodu / konečně souřadnice bodu j, dostáváme délku
+<        ^ —-(r—n}
+r
+V - —JJŤ
+vpN
+•   •   -(6)
+xxxx. ﻿15
+Z podobnosti [\mfG a /\hv6 následuje pak
+N. k-(r-n)  .   N
+k .             N  . k.                  V
+— (r—n)  •-----—(r—n)   •   ----—
+r v              v       r v               vpN
+- --            m
+-----   ^ A 72      l      T7 '         '       '       '    \    /
+při čemž
+.....       •,
+cíli, dosadíme li za JT/, j// a ježto sinu = —,   casct — —
+Q         k
+Rovnice (3) a (4) vyjadřují žádaný poloměr zakřivení R pro uvažovaný případ nejobecnější.
+Zavedeme-li A~l, vycházejí výsledky naprosto shodné se vzorci (3) a (4) odst. 6.
+Připomenutí. Jako jsme v tomto odstavci tím, že za křivku A zvolena byla rovnoběžka s přímkou B, nabyli k o n choi dy Nikomedovy a volbou kružnice s B soustředné závitnice Pascalovy, tak můžeme, předpokládáme-li na místě B křivku libovolnou F, na místě A však křivku k ní equidistantní, nabyti výtvarným zákonem uvažovaným konchoidy o libovolné základně F.
+Obr. 9. nebo 10. podává tedy konstrukci poloměru zakřivení konchoidy o libovolné basi, a vzorec (3) a (4) v odst. 6. skýtá výraz počtářský pro příslušný poloměr zakřivení.
+Jest na jevě, že tu vždy vystačíme s hodnotou A^rl, pro kterouž oba vzorce vedou k formuli jediné.
+Konchoidy zde připomenuté tvoří jen jednu třídu křivek, podléhajících obecnějšímu zákonu výtvarnému, který učinil jsem v pojednání předloženém východiskem svých úvah, a který obsahuje křivky, jež jsem si dovolil nazvati křivkami Mannheimovými, abych uctil slavného toho geometra, který, proponovav mi svého času úkol, jejž jsem řešil v Rozpravách
+*) Pečlivý výpočet této formule vděčím výbornému svému asistentu, p. Bedřichu Šalamonovi, nyní prof. české realky Novoměstské v Praze, který se svědomitostí hodnou plného uznání podjal se zdlouhavé práce, kontrolovati tak moji formuli (4) v pag. 12.
+xxxx, ﻿16
+čís. 5. této slavné třídy, stal se tak nepřímo původem zákona obecnějšího křivek v tomto pojednání uvažovaných.
+Pokud při těchto křivkách jest Ta různoběžno s 7/, a A—l, slouží k sestrojení poloměru zakřivení dvě konstrukce různé, totiž konstrukce, obr. 9. nebo 10. odvozená a konstrukce, odvozená pro A^l, kterou lze nepatrnou úpravou přizpůsobiti též pro A = l. Při A^l platí pouze konstrukce, daná obrazem 11. nebo 12.
+Česká akademie v
+xxxx. ﻿DR.SUCHARDA: KONSTRUKCE TEČNY, NORMÁLY A POLOMĚRU...
+Tab.I.
+Sestrojil O' Soch-mía
+Rozpraw České ALidnroie. Tndail. Roč.M.Čis.^0. ﻿* ﻿DR.SUCHARDA: KONSTRUKCE TEČNY, NORMÁLY A POLOMĚRU...
+Tab.ll.
+A
+Ta/
+• S
+9
+A
+Th
+10
+-M
+ElestrcM1 Hr Sucharda
+Iáí-h.Farřt/ v Praze.
+Rozpravy České Akademie. TřídaII Roč.XE.ČÉtó. ﻿* ﻿DR.SUCHARDA: KONSTRUKCE TEČNY, NORMÁLY A POLOMĚRU.
+Tab.fll.
+12
+ff
+13
+n        ..«•
+,A
+'k r
+K
+N
+j M
+\C
+B ﻿fc
+.v \ •:••'•:.•:"

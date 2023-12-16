@@ -1,0 +1,116 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+
+ROČNÍK II.
+TŘÍDA  II.
+ČÍSLO 5
+POZNÁMKA
+O JISTÝCH DETERMINANTECH
+SESTROJENÝCH
+Z FUNKCÍ ELLIPTICKÝCH.
+NAPSAL
+M.   L.ERCH.
+PŘEDLOŽENO   DNE  11.  ŘÍJNA  18í>2.
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ.
+1893. ﻿TISKEM   J.   OTTY   V PRAZE ﻿K tomu ovšem třeba ještě dokázati, že míliova místa determinantu (1) jsou jednoduchá. Kdyby skutečné ?/„ bylo míliové místo dvojnásobné, musila b na místě u,, též mizeti funkce
+(»)
+a následkem toho by bylo lze determinant (2) psáti
+</> (?/, //„) =
+
+/•M -
+< i
+—U
+při čemž jsme vytkli pouze «-tou řádku jako representanta všech ostatních. Tento determinant ale začíná svůj rozvoj mocností (ft— 7/„)w + 1, a tedy by byl identicky nullou, poněvadž elliptická funkce stupně ;/ nemůže míti míliové místo stupně // -f- l . Jsou tudíž nullová místa funkce D (K) vesměs jednoduchá, a tedy vzorec (;"")) sj)rávným.
+Jako zajímavou okolnost* dlužno vytknouti, že podíly
+(«,//„)
+*(//•   •//„)
+1     ""
+,7 S
+jsou funkce o řf-násobném pólu a //-násobném místě nullovém, takže jich ;/-té odmocniny jsou funkce jednoznačné, které dlužno považovati za zobecnění funkcí Jacobiových.
+Jedná se ještě o stanovení   konstanty A.    Rozvoj   determinantu </'(//,//_„) začíná členem
+výraz (4) pak členem
+A
+a tedy musí
+A
+«1
+z čehož následuje (4*)       </>(//,//.„) =
+(
+;/
+/>'(//„) - c'
+(u — w,.)    „
+""     ""
+r<í*(u    -//„)
+Vytkněme nyní některé zvláštní případy.
+1) Pro ti = ""2   máme zde jedinou funkci /(//)   stupně druhého   o pólech
+a\ > ""a \ vzorec (ú) podá
+/'(*)
+a
+<'„)
+V. ﻿iiiuíte/, (//) ,/, (//),.. .fn—\(ií) lineárně ncodvislé funkce elliptické stupně // o společných pólech a ])criodách :?(.>, :><,/.  Uvažujme determinant
+D (n} =
+/.'(»)   -   /,""("")   ..../,""-""(*)
+0-1)
+/•„-l («)./""._,(»), .../'„_,»
+a znamenejme ?/0 , ?/,, ;/(i,... míliova jeho místa. Pomocí libovolného z nich//,, sestrojme determinant
+(2)     '/' (*, «„) =
+./l ("")     —    ./i (""«)     ,    /i ' (»/.)     .    /l"" («;.)     ,
+/„_!()/) — /„_!(>,,) ,/V-l("".») ,/""„_!(//„),
+-2)
+)
+(«g
+Determinant   tento  jest   elliptickou   funkcí   stupně ;/   o týchž   pólech .. an, jako funkce fa (u), a zmizí ve stupni w-tém na místě ?/,<.
+Z toho plyne
+(3)
+n u
+,,
+o>
+kde w jest veličina tvaru ;;/ co -|- ;;/a/, v němž m,m' značí čísla celistvá, načež
+bude
+(U , 7//t)  =
+(7n (U----- í/„ )
+_______________^2 // u
+kde í? = ;// r/ -|- ///V/' odpovídá polouperiodě w.
+Dále jest   determinant   (1)   elliptickou   funkcí   stupně   ;/-   o   //-násobných
+2'afí-4-2oí pólech #,, ^2 ,... an, a o místech míliových tvaru                     , takže bude
+/C
+(5)
+D (u) =
+ff (nu —
+rsn (u
+n (u
+. . . (Tn (u — ﻿...           v,,.                              ,.v.        a^--an
+dále značili //„ ,//,, ?/,2 , ;/., veličiny -          - ,
+-{-a., -
+(„
+a. -4-
+-|- w -|- w', veta (4*) poskytne
+f(u) -/K) = | />„) . fe - 4) *(*,
+- V
+Při tom
+'/o
+O,
+71
+Jako důležitý výsledek dlužno uvésti, že podíly
+- - sT\
+v>'""
+jádriti funkcemi
+2
+w — //0) —
+/>.)    l
+kde [*' zároveň  s n   probíhá   čísla   1,2,.'>.   Výsledek   ten   kryje se   s redukcí elliptických integrálů na tvar normalný.
+2) V případě ;i =. "".} máme dvě funkce stupně třetího f(n) ,g(u) o pólech (7Í , a i, a3 , a při  tom vzorce
+«(3 u
+""
+(// ---- (l,)   ff (//
+C
+kdo //„  značí veličiny
+l
+;*
+»' = O, l , á,
+a tf,, jest druhořadá polouperioda ;// /; -\- ui\{.
+Nalezené zde výsledky dlužno považovati za zobecnění vzorců, jež uvedeny ve spise »Formelu und Lehrsátzc /um Gcbrauche der elliptischen Functioncn. Nach Vorlesungen und Aufzeichnungen děs Ilerrn Prof. K. Weierstrass bear-beitet und herausgegeben voň „11. A. Schwarz (Góttingen 1.S.S2)* str. 1(5 a násl., zejména vzorec (G) na str. 19.
+V. ﻿*"

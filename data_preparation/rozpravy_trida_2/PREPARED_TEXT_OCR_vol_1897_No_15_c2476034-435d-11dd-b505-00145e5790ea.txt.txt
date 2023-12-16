@@ -1,0 +1,2180 @@
+"","x"
+"1"," ﻿ROČNÍK VI.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 15.
+
+
+Příspěvek
+
+
+
+
+
+strojení oskulačních hyperboloidů plochám zborceným.
+
+
+Napsal
+
+
+Bedřich Procházka,
+
+
+docent české vysoké škole technické.
+
+
+tabulkou.)
+
+
+Předloženo dne ledna 1897.
+
+
+Zabývaje kinematickou geometrií, shledal jsem, lze mnohé úlohy deskriptivní geometrie základě oné discipliny řešiti značně jednoduššími konstrukcemi. Povzbuzen byv znamenitými pracemi pana professora Eduarda Weyra pana professora Josefa Solína »Strojení oskulačních hyperboloidů plochám sborceným*,*) snažil jsem při řešení této úlohy užiti týchž zásad, kterých jsem při jiných svých pracích vycházel, shledal, zde lze cíli dospěti případnými konstrukcemi, lišícími konstrukcí professorem Mannheimem uvedených taktéž kinematickou geometrií odůvodněných.**)
+
+
+Řešení moje opírá strojení zvláštních ploch zborcených, základě dvou křivek kinematicky vytvořených pro technickou praxi důležitých, mezi něž lze počítati hyperbolický paraboloid, hyperboloid jednoplochý, zborcené plochy šroubové plochu Frézierova cylindroidu.
+
+
+»Construction der Osculationshyperboloide windschiefer Flá-chenc prof. Eduarda Weyra, uveřejněno zprávách zasedání Vídeňské Akademie, třídy mathematicko-přírodovčdecké, ročn. 1880., str. >Úber die Lonstruction der Osculationshyperboloide windschiefen Flá-cnen« prof. Josefa Solína, uveřejněno zprávách zasedání královské české Společnosti nauk, třídy mathematicko-přírodovědecké, ročn. 1883., str. 11. strojeni oskulačních hyperboloidů plochám zborcenými prof. Eduarda eyra, uveřejněno rozpravách České Akademie císaře Františka Josefa pro vědy, slovesnost umění, třídy II., ročn. V., číslo
+
+
+»Cours geometrie descriptive 1'école polytechnique< Prof. Mannheima, vyd., 1886, str. 461.
+
+
+Rořn VI., Tř. II. 15.
+
+
+XV. ﻿Dokladem pro správnost zde uvedených konstrukcí bylo, dospěl jsem pomocným větám, kteréž úplně souhlasí větami, nichž nahoře uvedené práce zakládají. konstrukcí těch věta Eulerova křivosti ploch vyplynula, lze považovati také potvrzení jejich správnosti.
+
+
+Přímka pohybující dvou mimoběžkách protínající bodech resp. pohybuje tak, body tyto přímkách resp. šinou určitými danými rychlostmi aa' resp. bb'. (Obr. 1.). Jest známo, vytvoří takto určeným pohybem přímky hyperbolický paraboloid, jehož křivostí budeme zabývati.
+
+
+Případ Zvolme především případ ten, kdy přímka Pjest takové poloze, kolmo protíná obě určující mimoběžky takto určený hyperbolický paraboloid jest rovnostranným.
+
+
+laj příčinou zjednodušení předpokládejme, průmět bb\ rychlosti bodu přímce roviny tečné (určené přímkami jest roven rychlosti aa' bodu přímce takto vytvořený rovnostranný hyperbolický paraboloid jednu rovinu řídící rovinu kolmou přímce druhou rovinu rovnoběžnou kolmou rovině tečné proto bod jest jeho vrcholem.
+
+
+Majíce odvoditi střed křivosti normálného řezu tohoto hyperbolického paraboloidu, procházejícího bodem tvořícího libovolný úhel rovinou normálného řezu obsahujícího přímku (tudíž kolmého přímce P), předpokládejme, přímka nekonečně málo pošíne přijde polohy 1P. (Obr. 2.). Tento pohyb přímky můžeme rozložiti dva současné pohyby.
+
+
+Jedním těchto pohybů jest posouvnutí směru přímky které dáno délkou aa^-^b1^ (značí-li průsečník přímky přímkou 1b1 průmět průsečníku přímky přímkou roviny tečné Ta) kterým dospěje přímka polohy 1Pl 161, která jest zároveň průmětem přímky 1P. Druhým pohybem jest otočení přímky kolem bodu polohy 1P1 polohy nekonečně malý úhel (obr. 2.), při kterém bod vykoná nekonečně malý oblouk lbí lb.
+
+
+Nechť protíná rovina nějakého řezu normálného, normálu hyperbolického paraboloidu obsahujícího, rovinu tečnou přímce a2a, kteráž tvoří přímkou úhel qp. Přímka íbl ÍP1 určuje přímce úsečku a2a přímka protíná rovinu normálného řezu, přímkou procházejícího, bodu 3a, který obdržíme průsečíku přímky přímkou Va||iVa.
+
+
+Označíme-li velikost rychlostí aa', bb' resp. předpokládáme-li, přemístění přímky polohy stalo nekonečně krátké době lze vyjádřiti ostatní obrazci vyznačené délky těmito veličinami va, vb, jakož délkou úsečky úhly následovně:
+
+
+XV. ﻿a1 zz: V„T, blb zz: vhr; pravoúhlého trojúhelníka lbl
+
+
+*b\ rVv,2 -v..2; trojúhelníka pravoúhlého
+
+
+•VÍ
+
+
+trojúhelníka pravoúhlého ala2a:
+
+
+tang vur tang trojúhelníka pravoúhlého 3a:
+
+
+____. ___r_ Vnt2 \/~~
+
+
+zz: tang -~— t-62 t;(l2 tang 93; trojúhelníka cfia&a konečně:
+
+
+1).
+
+
+cos cos
+
+
+Kružnice, dotýkající přímky bodu procházející bodem jest oskulační kružnicí řezu normálného (přímkou procházejícího), jejíž průměr zz: 2Q, totožný normálou N„, omezíme kolmicí, vztyčenou bodu přímce 3aa. konstrukce této patrno, učiníme-li 3al _[_ Na,
+
+
+zz: ^al (ok al) zz: 2a3a(2(j 2a3a) dosadíce nahoře (vzorce 1.) vypočtené hodnoty této rovnice obdržíme
+
+
+
+
+
+vu2 tang (2,Q------~ii t'*2 —t'""2 tan& ^)-
+
+
+cos 'gp
+
+
+Krátíme-li tuto rovnici veličinou uvážíme-li, nekonečně malá
+
+
+veličina
+
+
+mizí proti veličině 2y, obdržíme rovnici
+
+
+Va\/
+
+
+20-j t-6-
+
+
+cos
+
+
+
+
+
+Va* tang qp,
+
+
+níž plyne pro poloměr oskulační kružnice výraz:
+
+
+
+
+
+cos 2qp tang
+
+
+který budeme psáti formě:
+
+
+
+
+
+cos 2<p
+
+
+vtl2
+
+
+2).
+
+
+tang
+
+
+Vrátíme-li nyní obrazu shledáme, výraz —""— značí nám
+
+
+cosqp
+
+
+délku na"" rychlost, jakou pohybuje bod spadající bodem přímce při pouhém pošinutí přímky
+
+
+XV. podobnosti trojúhelníků W"", a'\'lf plyne úměra:
+
+
+a""a'"" a'a"" b/b' a'V, kterou můžeme vzhledem vzorcům psáti formě:
+
+
+a""a'""\ v.t tang VV^ř? níž plyne, výraz:
+
+
+W—*1
+
+
+tang a""a""
+
+
+3).
+
+
+Značí nám tedy výraz
+
+
+
+
+
+tang<]p, jak podobnosti nahoře
+
+
+uvedených trojúhelníků plyne, rychlost a""a'"", jakou pohybuje bod a"" při otáčení přímky polohy 1PÍ polohy rovině normálného řezu procházejícího přímkou
+
+
+Vzhledem tomu lze tudíž psáti výraz 2.) pro poloměr křivosti
+
+
+^72 f_______
+
+
+formě: —==- anebo, označíme-li rychlosti aa""'. a""a'"" zkrátka v'. „""
+
+
+
+
+
+resp. v"", tvaru:
+
+
+2v'
+
+
+4)-
+
+
+Lze tudíž vysloviti větu: Poloměr křivosti libovolného normálného řezu rovná dvojmoci rychlosti aa"" </, jakou pohybuje průsečík přímky přímkou při šinutí oné přímky přímce této, lomené dvojnásobnou rychlostí «""«'"" —u"", jakou při otáčení přímky bod a"" otáčí.
+
+
+základě této věty sestrojíme střed křivosti nějakého normálného řezu, když vedeme bodem přímku a"" protínající přímku bodě a"", kterém sestrojíme přímku a""a'"", protínající přímku nl>' bodě a'"", učiníce «""a/F—2ffl'V"" 2u"", spustíme bodu «/r kolmici přímce aa/K, kteráž normálu JV„ středu křivosti protíná.
+
+
+Závislost poloměru křivosti řezu normálného odchylce lze vyjádřiti známým vzorcem Kulérovým, jehož odvození však ponecháme případě nejobecnějším, kdy plocha zborcená dvěma křivkami určena bude.
+
+
+Poznámka. Abychom právě uvedenou konstrukci středu křivosti normálného řezu, obsahujícího přímku />, odůvodnili způsobem uvedeným panem professorem Eduardem Weyrem velmi zajímavém článku: Zusatz zuř Abhandlung: Ein Beitrag zuř Translations Be-wegung,*) pokládejme nekonečně malou délku 2asa (obr. 2.) dráhu vykonanou vlivem nějaké síly stálé, udělující bodu současně přímce rychlosti pohybujícímu, kolmé zrychlení
+
+
+Zprávy zasedání královské české Společnosti nauk, ročn. 1895., XXVIII.
+
+
+XV. ﻿Dle známého vzorce mechaniky rovná vychýlení bodu dráhy
+
+
+tak zrychlení
+
+
+zřetelem předposlednímu vzorců 1.)
+
+
+v«2 v(<2 tang konečně dle vzorce
+
+
+4')
+
+
+tak výraz 4). pro poloměr křivosti normálného řezu lze uvésti formu
+
+
+,.'2
+
+
+
+
+
+
+
+
+užitou článku nahoře citovaném.
+
+
+Dodatek. Kdybychom měli stanoviti střed křivosti libovolného řezu šikmého, procházejícího přímkou Z), předpokládejme, rovina tohoto řezu protne přímku bodu (obr. 2.), takže úhel tvoří. Dráhu 2a5a průsečíku rovině šikmého řezu při otáčení přímky vypočteme trojúhelníka 2«3«5a, kterém úhel 2a3a5a úhlu 90°-|-a rovná, pomocí věty sinusové úměry:
+
+
+*a^= sin (90° -j- sin (180° 90° a), kterou lze uvésti na. formu:
+
+
+2a5a 2a3a cos (cos cos -\- sin sin ca).
+
+
+Dělíme-li člen úměry cos uvážíme-li, pro nekonečné malý úhel součin tang sin členu této úměry naproti cos mizí, obdržíme této úměry:
+
+
+cos
+
+
+Označíme-li rychlost, jakou bod dráze 2a5a nekonečné malém čase pohybuje v'"", můžeme položiti
+
+
+«2a5 «""'. klademe-li dle úvah dřívějších
+
+
+lze psáti
+
+
+v'""
+
+
+COS
+
+
+5.)
+
+
+Sestrojujíce obr. dle tohoto vzorce rychlost v""' a""ay, vedeme bodem a'"" rovnoběžku a""av přímce a'a"", kteráž určuje přímce a""ar, úhel přímkou a""a!"" tvořící, bod av.
+
+
+Přímka a""«K však není kolmá přímce proto, abychom mohli užiti konstrukce středu křivosti uvedené pro řezy normálně, sestrojíme
+
+
+XV. rovině šikmého řezu bodu a"" kolmici a"" la"" přímce^ omezíme přímkou rtK1rtK||-D. Délka a"" 1a1^, kterou V"" označíme, jak píyne pravoúhlého trojúhelníka a""af""la^^ němž úhel vyskytující a""a""^ay~s jest úhlem roviny šikmého řezu rovinou řezu normálného (přímkou procházejícího), lze vyjádřiti vzorcem
+
+
+ďW= čili V""
+
+
+COS COS
+
+
+Sestrojujíce základě rychlosti aa"" bodu přímce rych losti a"" lay V"", jakou zároveň bod ten této přímky vybočuje, střed křivosti šikmého řezu procházejícího přímkou Z>, tak jako střed křivosti řezu normálného touž přímku obsahujícího, učiňme
+
+
+spusťme bodu a"" kolmici a"" přímce avavl kteráž normálu AT'„ šikmého řezu protíná jeho středu křivosti o'.
+
+
+Ježto pak obdržíme pro poloměr křivosti tohoto řezu výraz:
+
+
+
+
+
+COSL
+
+
+t/2
+
+
+cos
+
+
+bude vzhledem vzorci 4., pro poloměr křivosti příslušného řezu nor málného,
+
+
+(»'—(> cos
+
+
+takže, jak tohoto vzorce patrno, obdržíme také střed křivosti řezu šikmého, jestliže střed křivosti orthogonálně přemítneme roviny tohoto řezu, čímž jest odvozena konstrukce věta Meusnierova, platící pro plochy vůbec, pro tuto plochu hyperbolického paraboloidu, kineticky vytvořenou
+
+
+Kdybychom znali křivost šikmého řezu procházející přímkou J), naopak odvodíme rychlosti V"" rychlost v"" a""a'"", sestrojíme bodem *aK rovinu rovnoběžnou rovinou tečnou T„, kteráž protíná přímku a""a'"" bodu a'"".
+
+
+Vezměme nyní případ Ib), kdy přímky jsou opět kolmý přímce avšak průmět lb\ rychlosti bb' není roven rychlosti aa', tak přímkou vytvořený rovnostranný hyperboloid druhou rovinu řídící rovinu rovnoběžnou přímkou rovině tečné nakloněnou. (Obr. 3.)
+
+
+Majíce stanoviti křivost normálného řezu, procházejícího bodem protínajícího rovinu tečnou přímce /), která tvoří přímkou úhel qp» předpokládáme opět, přímka nekonečně málo pošine přijde polohy 1P. (Obr. 4.)
+
+
+XV. ﻿Pohyb přímky rozložíme opět dva:
+
+
+pohyb otáčení kol bodu němž přímka 1«161 protíná přímku úhel nekonečně malý stotožní přímkou íaíbí= íPít kterou průmět přímky pokládati můžeme,
+
+
+druhý současný pohyb otáčení kol bodu polohy 1P1 polohy nekonečně malý úhel
+
+
+Přímka jest protn ita přímkou 1P1 bodu 2'í přímka */> protíná rovinu normálného řezu, procházejícího přímkou />, bodu 3a, který obdržíme průsečíku přímky přímkou 2a'An_\_Ta.
+
+
+Nazveme-li opět rychlosti aaf resp. tv, předpokládáme-li, pošinutí přímky polohy stalo nekonečně krátké době lze vyjádřiti obrazci vyznačené délky těmito veličinami v„, jakož délkou úsečky úhly /3, jest úhel, který tvoří přímka rovinou T„) následovně:
+
+
+
+
+
+lichoběžníka
+
+
+li> u/, plyne
+
+
+COS/J
+
+
+trojúhelníka pravoúhlého b1}) 1bí vyplývá íbí sin sin trojúhelníka ala dle sinusové věty:
+
+
+7-5- _-T- sincp sin
+
+
+cos
+
+
+
+
+
+cos -i- /i)
+
+
+trojúhelníka pravoúhlého l<ií tang -iS
+
+
+cos/3
+
+
+trojúhelníka aWa'.
+
+
+-%=-ia sni (90°+ /J) __^
+
+
+sin (90° /j) cos (qp -f- p)'
+
+
+pravoúhlého trojúhelníka 1a2a3a:
+
+
+sin y,!,. siny. cos/3
+
+
+(i. tang t1,, «?«.
+
+
+
+
+
+cos(9-f/SI)
+
+
+cos /3. sin sin
+
+
+
+
+
+6.).
+
+
+cos (g? -(-
+
+
+Kružnice, dotýkající přímky bodn^a procházející bodem jest oskulační kružnicí řezu normálného (přímkou procházejícího), jejíž průměr 2<j, totožný normálou .Va, omezíme opět kolmicí, vztyčenou bodu přímce 3a«. konstrukce této patrno, učiníme-li 3al_\_N„,
+
+
+a2a 3ať (ak «/) a2«3 (2p a2a3).
+
+
+XV. ﻿Dosadíme-li této rovnice hodnoty hořejších rovnic 6.), obdržíme
+
+
+w08.r2.cos
+
+
+sin cos
+
+
+sin v„y6.T2 sin cos sin <p\ ~ď~ ~^Š(9
+
+
+cos (<p -f-
+
+
+Krátíme-li rovnici tuto veličinou uvážíme-li, výraz vav/,r2 sin cos /3. sin
+
+
+proti zmizí, obdržíme v„2.cos2/3
+
+
+cos /J)
+
+
+fuV6t:2 sin cos /3. sin
+
+
+cos (<jp -j- jí)
+
+
+čehož plyne pro poloměr křivosti normálného řezu výraz
+
+
+v„2.cos/3 cos (<jp -j- /3)
+
+
+cos2((jp -f- /3) 2f« t?«. sin cos/3. sin
+
+
+kterýž uvedeme následní formu, předpokládáme-li, lim tudíž lim cos/3
+
+
+
+
+
+cos
+
+
+t/„t;6 tang qp. sin
+
+
+Vrátíme-li obr. 3., shledáme, výraz rovnici vy-
+
+
+cosqp
+
+
+skytující jest délkou aa"" přímce /}, určující rychlost bodu přímce této při pošinutí přímky výraz
+
+
+vn. vb. tang sin
+
+
+
+
+
+jest roven délce a""a!"", značí rychlost v"" bodu a"" při otáčení přímky polohy xPj kolem bodu polohy Rychlost tuto v"" a'V"" (obr. 3.) obdržíme, promítneme-li bod roviny obsahující bod rovnoběžné rovinou (A7, P); obdržený průmět b./ určuje bodem průmět přímky a'b'. Promítneme-li bod této roviny, obdržíme bod ž>2, tak
+
+
+Přímka P2' protíná rovinu normálného řezu (DN„) bodu a'"", který jest_zároveň průsečíkem této přímky přímkou a""a'"" Ta. Délka tato <i""a""f jest, jak této konstrukce patrno, rychlostí v"", jejíž hodnotu vypočteme podobných trojúhelníků a'b2'b2 a'a""a'"", nichž plyne úměra
+
+
+
+
+
+níž vyplývá, položíme-li:
+
+
+a'b9
+
+
+jakož jak pravoúhlého trojúhelníka b'b^b patrno:
+
+
+sin
+
+
+XV. pravoúhlého trojúhelníka aa'a'
+
+
+a'a"" aaf tang tang <p:
+
+
+jak bylo dokázati.
+
+
+Dosadíme-li tyto rychlosti u"" vzorce 7., obdržíme pro poloměr křivosti výraz:
+
+
+Vzhledem uvedeným pomocným konstrukcím obdržíme poloměr křivosti normálného řezu, procházejícího přímkou takto:
+
+
+Bodem vedeme přímku a"" rovnoběžně přímce T3, bodu a"", němž přímka ona přímku protíná, sestrojíme přímku a""a'""J_T« protneme přímkou, spojující bod průmětem l>2' bodu roviny procházející bodem rovnoběžné rovinou (PNtl\ bodu a""' Konečně učiníme tak jako článku
+
+
+spustíme bodu a"" přímce aaTír kolmici, kteráž protíná normálu hledaném středu křivosti
+
+
+Jest patrno, vzhledem shodě konstrukce středu křivosti tomto případu Ib), případem la) (článek 1.), bude konstrukce poloměru křivosti šikmého řezu, procházejícího přímkou poloměru křivosti příslušného řezu normálného táž jako případě la).
+
+
+Znajíce nyní strojení středu křivosti řezu normálného tomto případě (Ib), můžeme vrátiti stanovení křivosti řezu normálného případě (článek 1.), procházejícího bodem nebo libovolným bodem dřímky (Obr. 5.).*)
+
+
+Rovina řezu normálného, libovolným bodem procházejícího, protíná rovinu tečnou T(, určenou přímkou přímkou C=cc' druhé soustavy
+
+
+(ar Ve' bc)'
+
+
+hyperbolického paraboloidu l—— -==-!, přímce kteráž přímkou
+
+
+C/C
+
+
+tvoří úhel q>. Veďme bodem přímku c'c"" odvoďme tak jako případu Ib) (článek 2.) průmět b'2 bodu roviny, procházející bodem rovnoběžné rovině (PN^). (Nc jest normála plochy hyperbolického paraboloidu bodu c). tím účelem průsečíkem b"" přímky c'c"" přímkou bb"" cc' vedeme přímku b""b'2 rovnoběžně norrfUle Nc, kteráž protíná přímku b'b\2 b""b, bodu b'2, jakožto hledaném průmětu bodu b'. Spojnice bodu b\2 bodem c', jakožto průmět přímky roviny procházející
+
+
+Obr. jest totožný obr. veškeré konstrukce provedené obou těchto obrazech shodují.
+
+
+XV. ﻿10
+
+
+bodem rovnoběžné rovinou (NCP\ protíná přímkou c'Y"" jako obou případech la) Ib) bodu c'"", omezujícím rychlost v"" c'Y"". základe této rychlosti rychlosti cc"" sestrojíme potom střed křivosti řezu normálného, přímkou procházejícího, jako bylo dříve uvedeno.
+
+
+témuž bodu c!"" byli bychom dospěli, kdybychom byli bodě c"" vztyčili kolmici c""Y"" rovině (nebo vedli jím rovnoběžku A7„), kteráž protíná přímku abf (obr. 5.) bodu V"". Promítneme-li přímkou Y""c'"" bod V"", přímce příslušející roviny procházející bodem rovnoběžné rovinou (/'X), obdržíme bod totožný bodem c'"".
+
+
+Kdybychom této konstrukce chtěli užiti pro libovolný normálný řez šikmý přímce procházející bodem (obr. 6.), vedli bychom bodem přímku b"" která protne přímku níž onen normálný řez seče rovinu tečnou bodu tom bodu vedeme přímku ^'Wj.T,,, protne přímku bodu V/"", kterým vedeme lb'""b""r Tato přímka protíná přímkou W"" N,, bodu l'"", kterýž omezuje rychlost v"" //'//"" bodu b"" při otáčení přímky níž rychlosti bychom sestrojili uvedeným způsobem střed křivosti nornálného řezu procházejícího bodem
+
+
+Týmž způsobem můžeme určiti křivost řezu normálného šikmého přímce procházejícího libovolným jejím bodem případě Ib) článku uvedeném (ob. 7.)*).
+
+
+Nechť rovina normálného řezu protíná rovinu tečnou Tc, určenou přímkou přímkou druhé soustavy C=cc' (bodem procházející
+
+
+
+
+
+přímce a'b' bod
+
+
+a'cf -==— ___ určující) přímce Veďme
+
+
+u(s
+
+
+bodem přímku c'c"" odvodíme tak jako článku průmět b'2 bodu roviny procházející bodem rovnoběžné rovinou (PN,). (Nc jest normála hyperbolického paraboloidu bodu c.) tím účelem veďme průsečíkem b"" přímky cc"" přímkou cc' přímku b""b'2 rovnoběžné normále N,, kteráž přímku 6'6'2 bb"" protíná hledaném průmětu 6'2 bodu b'. Přímka L/2c' totožná průmětem přímky roviny procházející bodem rovnoběžné rovinou (PNC\ protíná přímku c""c'"" bodu c'"", který omezuje rychlost v"" c.""c'"", kteréž rychlosti cc"" střed křivosti známým způsobem sestrojíme.
+
+
+témuž bodu c'"" dospějeme také (obr. 7.), když bodem <•"" sestrojíme přímku rovnoběžnou přímkou b'b"", kteráž protíná přímku aflť bodu V"". Vedeme-li pak bodem c"" přímku rovnoběžnou N,. bodem V"" přímku VY"" cc', protínají tyto přímky hledaném bodu c'"".
+
+
+Kdybychom chtěli této konstrukce užiti pro řez normálný, šikmý přímce bodem procházející, vedli bychom bodem přímku b'b"" která protne přímku níž onen normálný řez protíná rovinu
+
+
+Obr. shoduje úplně obrazem
+
+
+﻿11
+
+
+tečnou T,, bodu l"". (Obr. 8.) tomto bodu vedeme přímku W"" b2b'*\ protne přímku a'V bodu W"", kterým vedeme přímku W""b'""\\Wt protínající přímku W"" \\Nh bodu //"", kterýž rychlost w"" V'V"" určuje.
+
+
+Přistupme nyní příkladu obecnějšímu, kdy přímky Jlt hyperbolický paraboloid určující, nestojí kolmo přímce rozeznávejme opět dva případy jako dříve.
+
+
+prvém případě Ha) předpokládejme, rychlosti a', přímkách jsou takové, průmět Pl'^a'6'1 roviny tečné jest rovnoběžný přímkou (Obr. 9.) Lze dokázati, jako případech la) Ib) isme učinili (článek 2.) základ* předpokládání nekonečně malého pošinutí přímky možno pohyb tento rozložiti nekonečně malý pohyb posouvání současný nekonečně malý pohyb rotační. (Obr. 10.)
+
+
+Budiž úhel přímky přímkou alas_\_P, rovině ležící, úhel, který průmět /?j 1Z»1 přímky blb roviny přímkou bb2 téže rovině ležící,
+
+
+Dráha Ia8, kterou přímka směru kolmém této přímce posouvne polohy 1P1 1Ď1 dospěje, jest rovna 1a. cos Otočení přímky polohy 1P1 děje úhel při čemž bod íbl proběhne nekonečně malý oblouk 1Ž»1 &t.
+
+
+Nechť rovina řezu normálného, bodem procházejícího, protíná rovinu tečnou přímce 2«, kteráž tvoří přímkou \i^a_±_P úhel <p. Přímka 161, totožná průmětem 1Pl přímky roviny T0, určuje přímce úsečku přímka protíná rovinu uvažovaného normálného řezu bodě 3a, který obdržíme průsečíku přímky přímkou 2a3a\\N„.
+
+
+Označíme-li velikost rychlosti ««', v,t resp. i-b předpokládáme-li, přemístění přímky polohy stalo nekonečně krátké době lze vyjádřiti ostatní obraze 10. označené délky těmito veličinami y„, ué, jakož délkou úsečky úhly <p, následovně:
+
+
+1<7
+
+
+P6:= i-,,r pravoúhlého trojúhelníka vyplývá,
+
+
+vyjádříme-li pravoúhlého trojúhelníka íbl délku 1b1 výrazem
+
+
+
+
+
+cos
+
+
+němž délku bb2, rovnou délce nlnst vypočteny pravoúhlého trojúhelníka ala Ia3
+
+
+bb.2 V/3 la. cos
+
+
+Bod jest průmět bodu roviny procházející bodem rovnoběžně rovinou (/'.Va).
+
+
+XV. ﻿12
+
+
+obdržíme
+
+
+vzhledem rovnicím 9.)
+
+
+cos
+
+
+10.)
+
+
+Vt> v,,
+
+
+cos ---
+
+
+cos
+
+
+Dále plyne trojúhelníka lb± ty,
+
+
+ty~ty9 tang
+
+
+Jelikož 161 rovná součtu Ia3 -\- Va3 -}- tyt, kterém nekonečně malé úsečky 2a3 íbl proti konečné délce Ia3 mizí, lze položiti předcházejícím výraze pro tanga
+
+
+
+
+
+takže obdržíme:
+
+
+
+
+
+kterýž výraz můžeme vzhledem vzorci 10. psáti
+
+
+1/2 COS
+
+
+tanga v/------— .... 11.)
+
+
+cos
+
+
+obr. 10. zároveň patrno, úsečka
+
+
+Ia3 Ía3 a^a sin 1a3 tang <jp
+
+
+nebo položíme-li
+
+
+Jag cos
+
+
+(sin cos tang qp) t-tf (sin cos tang <p) 12.) Konečně pravoúhlého trojúhelníka (obr. 10.) patrno,
+
+
+2a3a la*a tanga vzhledem vzorcům 11. 12.
+
+
+
+
+
+(sin cos tang <p) f;62 —vlt
+
+
+
+
+
+COS
+
+
+cos
+
+
+13.)
+
+
+
+
+
+Vrátíme-li obr. 9., jest patrno, výraz
+
+
+(sin cos tang 9)) a"", kterou délku přímka a'a"" přímce určuje, výraz
+
+
+cos2x -TT-j/-
+
+
+—aT cos
+
+
+kterou délku rovnou délce b'.A obr. máme vyznačenu.
+
+
+XV. ﻿13
+
+
+Můžeme proto psáti rovnici 13. formě
+
+
+____________________7,""
+
+
+t/O ""O
+
+
+^=.
+
+
+
+
+
+nebo
+
+
+
+
+
+Veličina —--2— značí dle poznámky článku polovici kolmého
+
+
+
+
+
+zrychlení //, kteréž lze vyjádřiti dle vzorce 4') rychlostí v"" kterou průsečík a"" přímky rovině normálného řezu při otáčení pohybuje, čímž obdržíme výraz
+
+
+
+
+
+a'3b'3, kteráž přímce a""a
+
+
+(obr. 9.) obdržíme, když bodem délku hledanou
+
+
+jehož základě rychlost v"" a'a'
+
+
+vedeme přímku a'af
+
+
+omezuje.
+
+
+Dle vzorce (článek pak obdržíme střed křivosti řezu normálného, průsečíku normály N,t kolmicí, spuštěnou bodu «"" přímku aalv (bod aiy obdržíme, když učiníme «""a/K— 2a""a""').
+
+
+Jest patrno, konstrukci této jest obsaženo také řešení: stanoviti poloměr křivosti řezu normálného kolmého bodu přímce. přímce a'3 la'""\\Na (obr. 9.) určuje přímka a'a'"" a'3b'3 délku ď^čť', kteréž jakožto rychlosti sestrojení křivosti užijeme známým způsobem.
+
+
+Poznámka. Kdyby naopak byla dána křivost řez\i normálného (nebo nějakého jiného řezu normálného) plochy hyperbolického paraboloidu, rychlost aa\ (aa""} tečně Tri křivce tohoto řezu rychlost c,, přímce 7?, můžeme opačným způsobem sestrojiti křivost každého jiného řezu normálného neb šikmého, jakož vyhledati přímku povrchovou druhé soustavy, procházející bodem plochy hyperbolického paraboloidu.
+
+
+Při řešení této úlohy třeba jen odvoditi poloměru křivosti daného řezu kolmého (šikmého) dle vzorce (článek 1.) rychlost lv"" «'3 (v"" a""a'""} vésti bodem W'(«'"") rovnoběžku přímce i'3 ^'3, kteráž protíná přímku a"" bodu kterým prochází přímka druhé soustavy hyperbolického paraboloidu.
+
+
+Stanovíce křivost nějakého normálného řezu, procházejícího libovolným bodem přímky (obr. 9.) protínajícího rovinu tečnou přímce sestrojíme především druhou bodem procházející přírfUtu povrchovou cc' l)'c' bc) hyperbolického paraboloidu nahoře uvedeným způsobem kineticky vytvořeného. Potom veďme bodem přímku c'c"" jakož přímku V/"" a'3 b'3; průsečíku c"" přímky c'c"" přímkou sestrojme přímku c""V"" protne přímku V"" bodu V"". Tuto přímku V"" dle článku promítneme nyní roviny procházející bodem rovno-
+
+
+XV. ﻿14
+
+
+běžné rovinou (PNC). (Za tím účelem vedeme bodem V"" kolmici V""/"" této- rovině, tedy rovnoběžně přímkou, spojující bod průsečíkem <•'. přímky c'c"" přímkou 62^'s -^""-O Vedeme-li dále c""cf""\\Nc, jest průsečík c'"" přímek W"", c'V"" hledaným průmětem bodu V"", který omezuje délku c'V"" představující rychlost -v,"" pro sestrojení středu křivosti uvažovaného řezu normálného.
+
+
+Není-li druhém případě lib) přímka a'^ rovnoběžná (obr. li.) přímkou stanovíme křivost libovolného řezu normálného, protínajícího rovinu tečnou přímce následním způsobem Předpokládajíce, při vytvořování hyperbolického paraboloidu přímkou pohybuje bod rychlostí na' přímce bod přímce rychlostí W/, sestrojíme rovině tečné bodem přímku rovnoběžnou přímkou /', kteráž protíná přímku «V3 bodu a'3, omezujícím rychlost ««'.p jakou přímka posouvá.
+
+
+Promítneme-li bod roviny obsahující bod kolmé přímce držíme bod č/3 průsečnice 1b.ií této roviny rovinou protíná přímku n'«'.. bodu 1b3. Sestrojíme-li přímky lb;i 2b';í Na, ž>'32</3 kolmo rovině (PX„], tyto protínají lbs ll>'.d bodu 2b'3, určujícím bodem Ib3 rychlost bodu při otáčení přímky kolem bodu Průsečíkem přímky přímkou a"" sestrojíme přímku a'V""_J_ T., kteráž protíná přímku a"" a's 2//;i bodu «'"", omezujícím délku a"" a""', udávající rychlost í/', která nám rychlostí -v' aa"" poslouží sestrojení středu křivosti řezu normálného.
+
+
+Abychom sestrojili střed křivosti libovolného řezu normálného šikmého přímce procházejícího libovolným bodem přímky této, př. onoho, který protíná rovinu tečnou Tť, určenou přímkou přímkou
+
+
+C=cc'( =-=-•, přímce vedeme bodem přímku
+
+
+
+
+
+
+
+
+kteráž přímku bodu c"" protíná. Bodem c"" vedeme přímku c"" protínající přímku V"" a'3 ~b\ bodu l<-""\ kterým vedeme přímku V"" <•'"" rovnoběžnou přímkou bc'3) spojující bod průsečíkem <-'3 přímky <•""<• přímkou lb\l's. Přímka V"" V"" protíná pak přímku c'V""|| ATC bodu <•""', který bodem <•"" určuje rychlost c"" pro sestrojení středu křivosti příslušného řezu normálného procházejícího bodem
+
+
+Poznámka. Kdyby naopak byla dána křivost nějakého řezu normálného plochy hyperbolického paraboloidu, rychlost aa"" tečně křivce tohoto řezu rychlost bb' přímce /?, můžeme opačným způsobem sestrojiti přímku povrchovou druhé soustavy procházející bodem "", jakož křivost každého jiného řezu normálného.
+
+
+stanovení středu křivosti šikmého řezu procházejícího př. přímkou užijeme přímo konstrukce, uvedené dodatku článku Vedeme «'"" V""_LZ) (obr. 11.) rovině procházející bodem rovno-
+
+
+běžné rovinou (P^Va) a'"" V"" nichž střed křivosti sestrojíme.
+
+
+potom jest a"" V"" v"" m""
+
+
+XV. ﻿15
+
+
+dalším pojednáme případu III., kdy jedním útvarů lineár-ých jest křivka, pak výtvarný zákon plochy zborcené jest následující: Přímka pohybuje křivce přímce takže průsečíky její resP- těcnto křivkách pohybují stejnoměrně určitými rychlostmi.
+
+
+Budiž rychlost, jakou pohybuje bod křivce kterou příčinou zjednodušení myslíme rovinnou, dána tečně křivce délkou aa'.
+
+
+Rychlost bodu přímce budiž Mimo předpokládejme, poloměr křivosti křivky příslušný bodu jest QA-
+
+
+Především předpokládejme, přímka Pjest kolmá rovině křivky přímce zároveň, průmět ab\\\P (případ lila). (Obr. 12.)
+
+
+Majíce odvoditi střed křivosti normálného řezu plochy zborcené takto vytvořené, procházejícího bodem tvořícího rovinou obsahující křivku úhel protínajícího rovinu tečnou T„, bodu plochy zborcené sestrojenou, přímce aa', předpokládejme, přímka tak, jako jsme případě la) předpokládali nekonečně málo pošine (obr. 13.) přijde polohy 1P. Přímka poloze protíná křivku bodě přímku bodě 1b. Pohyb přímky můžeme rozložiti opět jako případech dřívějších pohyb posuvný, jímž přijde přímka polohy 1bí ÍPÍJ kterou pokládati můžeme průmět polohy roviny dále pohyb otáčení polohy 1P1 polohy úhel při němž bod vytvořuje dráhu bod dráhu lbí taktéž rovině Tř, kolmou.
+
+
+Rovina řezu normálného, jehož křivost hledáme, protíná přímku *Pt bodě přímku bodu 3a, který obdržíme průsečíku této přímky přímkou Na.
+
+
+Nazveme-li rychlosti na' bb' vfl předpokládáme-li, přemístění přímky polohy stalo nekonečně krátké době pak lze vyjádřiti obrazci 13. vyznačené délky těmito veličinami v„t iv,, jakož délkou úsečky úhly následovně:
+
+
+:=;
+
+
+trojúhelníka pravoúhlého blb 1i1 patrno,
+
+
+lichoběžníka lb^ patrno,
+
+
+1/>, la'
+
+
+tang
+
+
+jelikož proti délce lb^ mizí, lze psáti
+
+
+obrazu 13. dále patrno,
+
+
+lna tang rfl tang qp.
+
+
+XV. ﻿16
+
+
+Dále zřejmo,
+
+
+3a3 tang kterého vztahu plyne
+
+
+
+
+
+
+
+
+1a1a 3«3 rz: VJT. tang Vť— v., tang Dělíme-li rovnici tuto veličinou T2, obdržíme
+
+
+
+
+
+Dle poznámky článku uvedené jest však
+
+
+takže lze psáti
+
+
+
+
+
+c"" tang
+
+
+
+
+
+~„T~""
+
+
+..... 14.).
+
+
+Rychlost tuto sestrojíme (obr. 12.), když bodem la' vedeme rovnoběžku V"" a'V protne přímku a"" a'"" bodě «'"", který omezuje rychlost a"" a""' 1v"", níž známým způsobem sestrojíme poloměr křivosti řezu normálného.
+
+
+Promítneme-li bod roviny P^Va, obdržíme bod 1^2, který spojen bodem určuje přímku Ib2 \\ařbf proto, sestrojujíce přímku VtV"", můžeme také bodem vésti rovnoběžku přímce lb.2.
+
+
+Konstrukce této můžeme zároveň použiti stanovení druhé hlavní tečny (tečny inflexní) bodem procházející. Tato přímka, jak konstrukce patrno, procházeti bude průsečíkem n1^ přímky a""' přímkou a'l\\\F.
+
+
+Jak patrno, jest tato konstrukce druhé hlavní tečny úplně totožná sestrojením přímky druhé soustavy hyperbolického paraboloidu, určeného křivkou stupně, oskulující křivku bodu přímkou (Poznámka článku 5.) Proto tento hyperbolický paraboloid, dotýkající se, jak patrno, původní plochy sborcené dle přímky oskuluje tuto plochu bodu čímž dokázána věta:
+
+
+Dotýká-li hyperbolický paraboloid plochy zborcené podél přímky pronikají-li tyto plochy rovinu, vedenou bodem této přímky křivkách, jež tom bodě oskulují, tomto bodě obě plochy oskulují.
+
+
+Věta tato obsažena jest větě, již odůvodnili pan prof. Eduard Weyr pan prof. Solín svých, již úvodu citovaných, článcích elegantním způsobem ryze geometrickým použili konstrukci oskulačního hyperboloidu ploch zborcených určených třemi křivkami.
+
+
+Dodatek. Jakožto příklad sestrojíme oskulační hyperboloid šikmému šroubu, kterýž vytvoří přímkou P=ap, protínající šroubovici
+
+
+XV. ﻿17
+
+
+osu bodech resp. />, jež stejnoměrné těchto útvarech uvají, takže rychlost, kterou pohybuje bod ose rovná chlosti, kterou bod směru této osy vystupuje.
+
+
+Budiž základní kružnicí šroubovice Předpokládáme-li, bod pohybuje kružnici rychlostí rovnou poloměru této kružnice (vyznačenou tečně sestrojené bodu kružnici sou-vasně posouvá směru osy rychlostí a2a pak úhlopříčna aaf oravoúhelníka a1aa>2a nám představuje rychlost jakou pohybuje bod šroubovici. Rychlost pak zároveň představuje rychlost pp' 2a, kterou bod posouvá ose
+
+
+Pokládejme známé, oskulační rovina šroubovice bodu jest určena přímkou aa' poloměrem základní kružnice, jakož poloměr
+
+
+křivosti šroubovice rovná výrazu
+
+
+cos
+
+
+»-, kterém vy-
+
+
+skytující úhel jest úhel, jejž pravoúhlém trojúhelníku jeho strany svírají.*)
+
+
+známé křivosti šroubovice bodu rychlosti aa' lze odvoditi dle článku rychlost u"" a"", kterou pohybuje bod přímce a'a"" as, když bodu spustíme přímce oaf kolmici, kteráž př''mku a"" bodu a"" protíná pak úsečku aa"" bodem a'"" rozpolíme.
+
+
+Konstrukcí tou jest vyhověno známému vzorci:
+
+
+
+
+
+
+
+
+něhož plyne, položíme-li, jak pravoúhlého trojúhelníka patrno,
+
+
+COS
+
+
+COS
+
+
+
+
+
+Abychom stanovili křivost normálného řezu tohoto šroubu šikmého, procházejícího přímkou aa', použijeme křivosti kružnice oskulační křivky šroubové bodu kterou můžeme pokládati oskulační kružnici šikmého řezu této plochy, procházejícího touž přímkou aa.
+
+
+tím účelem, jak uvedeno dodatku článku 1., sestrojíme bodu přímku kolmou rovině tečné T„, bodu ploše šroubové určené (kteráž jest stanovena různob' ':ami aa' ap) protneme bodu rovinou, kteráž bodem a"" procházejíc jest rovnoběžná touto rovinou tečnou.
+
+
+Výsledky tyto však lze také ryze kinematicky odůvodniti pomocí konstrukcí ""vedených článku: »Příspevek užití kinematiky geometrii novější deskriptivní«, uveřejněném »Rozpravách České Akademie*, II. třídy, ročníku V., čís. 40., článku 2., str.
+
+
+XV. ﻿18
+
+
+Abychom tuto konstrukci vykonali, vedVne bodem roviné tečné přímku a'w rovnoběžnou přímce vyhledejme její stopu roviné, obsahující základní kružnici tím, bodem sestrojíme přímku Vwljas, kteráž přímku a'n stopě protíná. Přímka jest pak stopou roviny tečné rovině kružnice Spustí mé- bodu stopě této kolmici lamt kteráž protíná bodu pak přímka a'm jest přímkou největšího spádu roviny tečné vzhledem rovině, obsahující základní kružnici A"". Kolmice lal, spuštěná bodu této přímce má! jest patrně normálou roviny tečné T^, protínajíc bodu
+
+
+Proto přímka \\lla bude žádanou normálou rovině Ta, sestrojenou bodu a'.
+
+
+Sestrojíce dále průsečík roviny, procházející bodem a'"" rovnoběžné rovinou tečnou T„, normálou «'Ar, vedeme bodem a'"" přímce rovnoběžku a1"" kteráž normálu a'k protíná žádaném bodu
+
+
+Ježto toho bude dalším konstrukcím potřebí, odvodVne délku a'k ea, jak této konstrukce vyplývá.
+
+
+pravoúhlého trojúhelníka aa' jest patrno, 1aa> ala tang tang
+
+
+Označíme-li i'0 délku úsečky úhel 1a, rovnající úhlu sevřenému přímkou poloměrem základní kružnici, pak plyne pravoúhlého trojúhelníka na'
+
+
+Vjta' cot cot nebo vzhledem předcházející rovnici:
+
+
+tang cot
+
+
+pravoúhlého trojúhelníka VÍM plyne dále, jak lze snadno dovoditi
+
+
+tang
+
+
+
+
+
+tang
+
+
+-+- tang 2<? Konečně pravoúhlého trojúhelníka 1aa' vyplývá,
+
+
+tang
+
+
+Vtang -|- tang 2ff -\- podobnosti trojúhelníků a"" VZH? pak plyne,
+
+
+a'/t:«V""= 1*0:^0, nebo zavedeme-li dřívější označení
+
+
+»:«"" A:r0,
+
+
+čili vzhledem předcházejícím odvozeným hodnotám:
+
+
+rtang rtang
+
+
+Vtang2L tang 2ff tang
+
+
+XV. ﻿19
+
+
+úměry pak vypočteme:
+
+
+
+
+
+tang
+
+
+tang tang 2<7 Abychom nyní pomocí této délky sestrojili tečnu inflexní šroubu šikmého bodu vedeme, dle tohoto článku (7.) bodem rovnoběžku liaiv přímce, spojující bod průmětem p"" bodu přímky pp"", sestrojené kolmo rovině bodu rovnoběžně přímkou Průmět p"" obdržíme, vedeme-li bodem rovnoběžku přímkou a7, kteráž normále pp"" určuje délku
+
+
+1^=15+*
+
+
+jak vyplývá shodnosti trojúhelníků
+
+
+pp'p"" laa'l.
+
+
+Přímka ka^ pak protíná přímku bodu a/F, který bodem určuje inflexní tečnu tomto bodu šroubu šikmého. Vzdálenost bodu aiv bodu stanovíme základě podobnosti trojúhelníků
+
+
+a'kafl' pp""a
+
+
+měrou
+
+
+aiv'. :pp"".
+
+
+Píšeme-li a'k, pp' označení resp. položíme-li, jak trojúhelníka pravoúhelného aps plyne,
+
+
+
+
+
+cose
+
+
+vypočtené hodnoty, obdržíme:
+
+
+___ rtang
+
+
+a'alv ---- &------------
+
+
+tang -\- tang 2tf -|-
+
+
+níž plyne
+
+
+tang
+
+
+cos Vtang -f-
+
+
+cos tang
+
+
+Abychom blíže stanovili polohu inflexní tečny «a/F, určíme průmět její roviny základní kružnice A'. tím účelem spojíme bod průmětem bodu aiv této roviny (ležícím přímce lan).
+
+
+pravoúhelného lichoběžníka a'afl/'h1a mimo patrno, délka
+
+
+a'a/rcos nebo vzhledem předcházející rovnici
+
+
+tang
+
+
+tangff
+
+
+Průmět inflexní tečny aiv protíná poloměr sg_\_ základní kružnice bodu jehož vzdálenost středu kružnice této stanovíme podobnosti trojúhelníka
+
+
+asi laa pomocí úměry
+
+
+
+
+
+XV.
+
+
+﻿20
+
+
+již lze uvésti dosazení odvozených hodnot formu kteréž plyne
+
+
+-—. tang
+
+
+si' ==. >•: —------------—
+
+
+tang
+
+
+tang tang
+
+
+Jak tohoto výrazu pro patrno, jest poloha bodu závislá jen konstantních veličinách nikoli však poloměru kružnice tudíž šroubovici, vytvořené některým bodem přímky povrchové P=np šroubu šikmého.
+
+
+Jest tedy délka pro všecky šroubovice této plochy konstantní, proto průměty všech inflexních tečen, jednotlivých bodech přímky sestrojené, procházejí bodem čili tečny inflexní samy protínají přímku kteráž, procházejíc bodem ?', jest kolmá rovině kružnice tudíž rovnoběžná osou šroubovice.
+
+
+Všecky inflexní tečny, bodech přímky šroubu šikmého sestrojené, protínajíce tři nekonečně blízké přímky povrchové této plochy, určují lační hyperboloid, kterýž přímku obsahuje.*)
+
+
+Tak jako tomto všech jiných případech kinematického vytvoření plochy zborcené pomocí určující křivky přímky lze užiti stanovení křivosti normálných řezů bodu «., jakož určení druhé hlavní tečny této plochy, hyperbolického paraboloidu (určeného křivkou, kteráž křivku bodu obsahuje, přímkou />), který plochy původní podle přímky dotýká bodu oskuluje. Druhá hlavní tečna bodu původní ploše příslušící, stotožňuje pak vždy přímkou povrchovou soustavy pomocného hyperbolického paraboloidu, již dovedeme dle článků každém případě sestrojiti.
+
+
+Přikročme konečně případu obecnému (IV.), kdy plocha zborcená, kinematicky vytvořená, určena jest dvěma křivkami.
+
+
+Pohybují-li body nichž přímka povrchová protíná křivky resp. lí, těchto křivkách rychlostmi aa' resp. l>b', pak lze určiti křivost každého řezu normálného šikmého, procházejícího bodem plochy zborcené, jakož tomuto bodu příslušnou druhou hlavní tečnu, pomocí hyperbolického paraboloidu určeného křivkou stupně, která křivku oskuluje bodu tečnou křivce bodu l>\ který dotýkaje plochy původní podle přímky oskuluje tuto bodu
+
+
+Konstrukci tuto provedeme pro ten případ, kdy obě křivky Ji, které příčinou zjednodušení rovinnými zvolíme, nalézají rovinách
+
+
+Mannheim: >Cours cle geometrie descriptive 1'école poly-technique«, vycl. 1886, str. 381. Dr. Christian Wiener: »Lehrbuch iler darstellenden Geometrie*, 1887, díl str. 560.
+
+
+XV. ﻿21
+
+
+kolmých přímce poněvadž tento případ lze uvésti všecky obecnější případy určení plochy zborcené.
+
+
+základě daných rychlostí an' v,, 66', jež tečnách resp. křivkám resp. sestrojíme, základě rychlosti, známé křivosti křivky bodu odvozené, v"" N((
+
+
+(A\ Va*
+
+
+dle vzorce
+
+
+sestrojíme (obr. 14.) dle článku přímku a'"" rovnoběžně přímkou, spojující bod průmětem 62' bodu roviny, obsahující bod rovnoběžně rovinou (PN^. Křivost libovolného řezu normálného, normálou N.t procházejícího, úhel <jp rovinou křivky tvořícího rovinou tečnou přímce protínajícího (jak bylo článku uvedeno), určíme, když průsekem a"" přímky přímkou a'a"" vedeme přímku rovnoběžnou normálou Na, kteráž přímku a"" protíná bodu a"". základě rychlostí aa"" a""a'"" sestrojíme pak známým způsobem střed křivosti uvažovaného řezu normálného, kterýž jest středem křivosti nejen pro plochu pomocného hyperbolického paraboloidu, nýbrž pro původní plochu zborcenou. Taktéž jest patrno, přímka spojující průsečík a/K, přímky laf a'"" přímkou a"", bodem jest povrchovou přímkou druhé soustavy pomocného hyperbolického paraboloidu zároveň bodu příslušnou druhou hlavní tečnou původní plochy zborcené.
+
+
+Při této příležitosti ukážeme, konstrukcí touto docílené poloměry křivosti jednotlivých řezů normálných bodu vyhovují známé Kulérově relaci.
+
+
+obrazu 14. patrno, jak jsme také článku rovnici 13. dokázali,
+
+
+tang
+
+
+
+
+
+
+
+
+níž veličina lva nám značí výraz v/, cos němž úhel přímky roviny vyznačuje.
+
+
+Píšeme-li tomto vzorci dle vzorců poznámce, článku připojené,
+
+
+l()
+
+
+obdržíme
+
+
+
+
+
+a*fj"" ---_____ --------
+
+
+yatang(jp
+
+
+Ježto, jak pravoúhlého trojúhelníka a"" plyne,
+
+
+
+
+
+cos
+
+
+XV. ﻿22
+
+
+obdržíme, vložíce hodnotu tuto předložené rovnice, rovnici
+
+
+t>„» Yv^-W
+
+
+-=-.--------o— -x--------v* tangy----------7-------->
+
+
+^cos
+
+
+cos kterou násobením výrazem ——L— uvedeme tvar:
+
+
+cos*qp--------
+
+
+
+
+
+
+
+
+
+
+
+sin cos
+
+
+14.)
+
+
+Zavedtoe ještě tohoto vzorce úhel jejž tvoří druhá hlavní tečna títa^ tečnou Ta.
+
+
+Jak obrazu 14. patrno, jest trojúhelníku aa' aiy alvď aa'. tang va. tang ... 15.) podobnosti trojúhelníků aiva' a'b2b2' plyne úměra:
+
+
+které lze položiti:
+
+
+a/řV b2',
+
+
+—L— ařb2' ž»2 Vt;,2 čímž obdržíme tvaru:
+
+
+níž pak plyne:
+
+
+2<> VV— iw«> Srovnáme-li tuto rovnici hořejší (15.), obdržíme rovnici:
+
+
+va* tang ~~2Ó~ 2__i Ť~>
+
+
+níž vyplývá, výraz
+
+
+V^2—^J""
+
+
+tang
+
+
+Dosadíme-li tuto hodnotu rovnice 14., obdržíme tuto tvaru
+
+
+sin cos
+
+
+---
+
+
+cos
+
+
+---- 16.),
+
+
+tang
+
+
+jíž jest vyjádřen vztah poloměru křivosti nějakého řezu normálného úhlu jeho roviny rovinou křivky kolmou přímce
+
+
+Položíce této rovnici:
+
+
+
+
+
+
+
+
+obdržíme tvaru:
+
+
+1191 sin cos
+
+
+—o- cos 2<p-------x--------^-----21 17.)
+
+
+lra tang
+
+
+XV. ﻿23
+
+
+kterýž jest, jak následujícím dokážeme, polární rovnicí hyperboly pro pól ležící středu jejím pro osu polární kolmou jedné asymptotě, jejíž druhá asymptota tvoří osou úhel
+
+
+Abychom dokázali, transformujeme tuto rovnici, zvolíce při témže pólu novou osu polární přímku X', která rozpoluje úhel obou asymptot, němž normálný řez poloměru vyskytuje [obr. 15.). Nazveme-li úhel, který tvoří obě asymptoty, němž normálný řez poloměru nevyskytuje, pak úhel, který nová osa tvoří původní, rovná
+
+
+Jak obrazu 15. patrno, provedeme nahoře zmíněnou transformaci, klademe-li úhel rovnice 17. rovný jemu úhel qp' při čemž zároveň úhel úhel jemu rovný 90° položíme, tudíž tang
+
+
+iak snadno lze dokázati, výraz —---------.—. Obdržíme tedy transformaci
+
+
+tang
+
+
+této rovnici:
+
+
+tang
+
+
+cos
+
+
+sin (g/ cos ((fr
+
+
+l—tang2A'
+
+
+kterou vyjádření funkcí
+
+
+cos (<p' sin (<jp'
+
+
+rozdílu úhlů 99' funkcemi úhlu <p' konečně lze uvésti tvar:
+
+
+(l—tang
+
+
+cos
+
+
+l—tang2A
+
+
+-siny .-..18.)
+
+
+tang Rovnice tato jest skutečně polární rovnicí hyperboly, jejíž poloosa
+
+
+
+
+
+reálná jest rovna T>* imaginární —TTT0, —tang tang2A
+
+
+tang Položivše opačně:
+
+
+<>' «,' obdržíme rovnici:
+
+
+
+
+
+
+
+
+—tang2A)
+
+
+COS
+
+
+tang sin 2<jp',
+
+
+tang2A
+
+
+úplně shodnou Kulérovým vzorcem pro křivost obecné plochy nějakém jejím bodě, které značí výrazy
+
+
+
+
+
+------------------------------------------ *|------------------------------------------
+
+
+tang 2A) tang <^,
+
+
+poloměry křivosti hlavních řezů.
+
+
+10. těchto úvahách můžeme konec přistoupiti strojení oskulačního hyperboloidu ploše zborcené určené třemi křivkami.
+
+
+XV. ﻿24
+
+
+Předpokládejme tři křivky určující plochu zborcenou, jejíž jedna přímek povrchových protíná bodech Sestrojíce dále tečny Ta, Th, těmto křivkám, předpokládejme, přímka nekonečně málo pošine. Zvolíme-li rychlost aa' jednoho bodů př. bodu tečně Ta, můžeme následním způsobem stanoviti rychlost druhých dvou bodů příslušných tečnách.
+
+
+Přímkou mysleme rovinu, procházející bodem (tedy obsahující také přímku otáčející kolem této přímky tak, průsečík tečny touto rovinou, spadající bodem <i, pohyboval rychlostí dříve zvolenou aa'. Při otáčení této roviny pohybuje její průsečík tečnou Tb, spadající bodem určitou rychlostí bb't kterou stanovíme, když bodem vedeme přímku blb\\ T,t tuto přímku přímkou protneme bodu 1b. Rovina, položená tímto bodem rovnoběžně rovině fi, protíná pak tečnu TI, bodě //, omezujícím hledanou rychlost bbf bodu této tečně.
+
+
+Abychom také stanovili rychlost cc' bodu tečně při pošinutí přímky mysleme si, rovina procházející přímkou bod obsahující, otáčí tak, její průsečík tečnou T)>, spadající bodem pohybuje rychlostí právě stanovenou bb'; pak určuje tato rovina také tečně rychlost cc', kterou stanovíme stejným způsobem jako předcházejícím případě rychlost bb' bodu
+
+
+Hyperbolický paraboloid, určený kinematicky křivkou, která křivku bodu oskuluje, který obsahuje přímku Tf, při týchž rychlostech aa' bb' tečnách resp. 71/,, dotýká původní plochy dle přímky oskuluje bodu tudíž křivost tomto bodu společnou, její povrchová přímka soustavy jest druhou hlavní tečnou bodě tím účelem provede konstrukce, naznačená článku
+
+
+(Stejně bychom také užili stanovení pomocného hyperbolického paraboloidu místě tečny T,, tečny Tc).
+
+
+Bude arciť nutno předem odvoditi křivosti křivky jejíž oskulační rovina bude obecně šikmá ploše zborcené, určené křivkami /?, (7, křivost řezu normálného, což lze však snadno provésti základě dodatku připojeného článku
+
+
+Podobně můžeme určiti druhé hlavní tečny plochy zborcené, určené křivkami bodech pomocí příslušných hyperbolických paraboloidů tak stanoviti tři povrchové přímky oskulačního hyperboloidu podle přímky kteréž jej tudíž určují.
+
+
+XV. ﻿(Pokračování předloženo dne března 1897.)-
+
+
+Poněvadž plochy zborcené, tomto pojednání uvedeným způsobem vytvořené, určeny jsou jen dvěma křivkami, možno přistoupiti řešení problému: táno vit oskulační hyperboloid zborcené ploše, dané třemi řídící křivkami, nichž dvě jsou nekonečně blízké*, němž pan prof. Eduard Weyr již roce 1882. druhém sjezdu lékařů přírodozpytců českých pojednal jejž znova podal své nejnovější již nahoře*) uvedené práci velmi jednoduchým ryze geometrickým způsobem.
+
+
+Dvě nekonečné blízké křivky mysleme dány tím, jest vytknuta plocha 77, níž nalézají; každá přímka protínající jest tedy tečnou této plochy, čímž zborcená plocha určena tímto způsobem:
+
+
+dané ploše jest dána libovolná křivka mimo prostoru libovolná křivka tečná rovina plochy 77, sestrojená bodě křivky protíná křivku bodě spojnice jest pak povrchovou přímkou zborcené plochy, jejíž oskulační hyperboloid máme sestrojiti.
+
+
+11. Uvažujme tak jako citovaném článku pana prof. Eduarda Weyra nejprve speciální případ, kdy plocha jest kuželem druhého stupně vrcholu křivka kuželosečkou přímkou.
+
+
+Protíná-li rovina tečná T„, bodu křivky ploše kuželové sestrojená, přímku bodě jest přímka P=ab přímkou určené plochy zborcené, dle níž máme této ploše sestrojiti oskulační hyperboloid.
+
+
+Přejde-li tečná rovina polohy nekonečně blízké, otáčejíc kolem přímky plochy kuželové 77, bodem procházející, postoupí bod dotyčný křivce bod přímce Předpokládajíce, otočení toto dalo rovnoměrně, můžeme stanoviti rychlost bodu křivce jakož rychlost bodu přímce
+
+
+Vyjděme však zvolené rychlosti bodu křivce odvoďme rychlost otočení roviny tečné pak vyplývající rychlost bodu přímce
+
+
+strojení oskulačních hyperboloidů plochám zborceným* prof. Eduarda Weyra uveřejněno Rozpravách České Akademie, tř. ročn. 1896., čís.
+
+
+XV. ﻿26
+
+
+Otočení tečné roviny kol přímky jest závislo pro zvolenou rychlost aa' tečné křivky poloměru křivosti křivky této. Neboť při postupování bodu rychlostí tečné otáčí tato rychlostí úhlovou, kterou vyjádříme rychlostí ua, jakou bod tečny 7', (aa' va) otáčí.
+
+
+Je-li poloměr křivosti křivky bodu rovný pak jest úhlová rychlost qp, kterou poloměr bodu příslušící otáčí,
+
+
+Ježto tečna otáčí touž úhlovou rychlostí bude rychlost bodu tečny této rovna dle vzorce
+
+
+vu<p ..... 2.) tohoto předcházejícího vzorce (1.) plyne,
+
+
+Dle článku jest rychlost
+
+
+
+
+
+bodu při otáčení tečny rovna kolmému zrychlení bodu nebo dvojnásobné rychlosti v"", které sestrojíme, když vztýčíce bodu kolmici a"" tečně T„, spustíme bodu kolmici aa"" přímce oa\ kteráž prvou kolmici bodu a"" protíná. rychlosti
+
+
+kterou otáčí bod tečny !T„, odvodíme rychlost otáčení roviny Ta, když bodem a"" vedeme rovinu rovnoběžnou této rovině, kteráž protíná přímku a'am kolmou rovině bodem procházející bodu a,'"" určujícím rychlost aa'"" *tv jakou bod roviny otáčí.
+
+
+Rychlost vt>'y kterou otáčí bod roviny bodem spadající, lze stanoviti následujícím způsobem:
+
+
+Jsou-li ani kolmice spuštěné bodů přímce pak rychlost vbf vyplývá úměry
+
+
+1va' amt
+
+
+níž plyne, vyjádříme-li úsečku ara, pravoúhlého trojúhelníka aam, němž vyskytující úhel afam označíme
+
+
+sin sin
+
+
+sin
+
+
+Rychlost tuto vbr bb' sestrojíme přímce přímku nb' na'"".
+
+
+3.)
+
+
+vedeme-li
+
+
+XV. ﻿27
+
+
+rychlosti této «»' odvodíme rychlost
+
+
+617',
+
+
+i-terou pohybuje průsečík roviny tečné přímkou této přímce, tím bodem vedeme rovinu rovnoběžnou rovinou Ta, kteráž protíná přímku bodu l"".
+
+
+Určením této rychlosti vf, bodu přímce jest kinematické vytvoření plochy zborcené, jakožto určené křivkou přímkou úplné stanoveno můžeme nyní sestrojiti známým způsobem (dle článku 7.) druhou inflexní tečnu bodu příslušnou této ploše zborcené.
+
+
+Dle článku promítneme bod b"" přímky A7a bodem procházející, čímž obdržíme bod stotožňující bodem již dříve určeným.
+
+
+Bodem «/F, rozpolujícím délku a""' (dle článku 1.) vedeme pak rovnoběžku a^i přímce ob' (dle dodatku článku 7.), kteráž protíná přímku a'i\\P\ bodu ?', určujícím bodem druhou inflexní tečnu tohoto bodu.
+
+
+Stanovíme-li tuto délku a'/, shledáváme,
+
+
+daiv bb', nebo píšeme-li
+
+
+dosadíme-li úměry úměru
+
+
+
+
+
+v,!,
+
+
+Va- vb', vzorci vypočtenou hodnotu, obdržíme této
+
+
+
+
+
+-rr va< sin
+
+
+Nazveme-li tf> úhel, který tvoří přímka přímkou <S, pak lze délku vyjádřiti pravoúhlého trojúhelníka abn
+
+
+sin sin ií> dosadíme-li tuto hodnotu hořejší úměry, obdržíme ní:
+
+
+-7-. vft sin
+
+
+sin
+
+
+trojúhelníka aa' kterýž přímky «S, a'k=*+i tvoří, jest však patrno, výraz
+
+
+Sin
+
+
+ak,
+
+
+takže
+
+
+sin i/;
+
+
+a'i— ak.
+
+
+
+
+
+XV. ﻿28
+
+
+Jest tedy druhá inflexní tečna zborcené plochy bodu přímkou harmonickou přímce vzhledem přímce tečně Z1,,, čímž jest zároveň věta Dupinova kinematicky odůvodněna.
+
+
+Abychom sestrojili dále oskulační hyperboloid uvažované ploše zborcené podle přímky jest třeba sestrojiti ještě druhou inflexní tečnu libovolném bodě této přímky, př. bodě
+
+
+Tečná rovina oodu bude určena přímkou přímkou ro'
+
+
+protínající spojnici bodů l"" poměru rovném poměru
+
+
+
+
+
+Vedeme-]
+
+
+dále bodem přímku c'e"" a'a/F, která protíná spojnici bodů arí/l>"" bodu r"", pak představuje délka c'c"" rychlost v?' příslušnou bodu níž náleží rychlost vj. Ježto však není přímka c'c"" kolmá cc', promítněme bod c"" přímky cV"" rovnoběžné normálou řezu šikmého, němž rovina bodů c', c"" plochu zborcenou protíná, tím bodu c"" spustíme kolmici c'V"" přímku cV"".
+
+
+Takto určeným bodem c'"" vedeme rovině tečné rovnoběžnou rovinu, kteráž protíná přímku c'c/r, rovnoběžnou normálou plochy zborcené bodu bodu c/F. Délka c'c/K pak představuje rychlost lcc"" příslušnou řezu normálnému plochy zborcené, přímkou cc' procházejícímu, němuž též rychlost cc' náleží.
+
+
+Jest patrno, jsme mohli bodu o/K docíliti také přímo tím, bychom byli bodem c'' vedli rovině rovinu rovnoběžnou, kteráž přímku c'c/K A"" bodu c/K protíná.
+
+
+Potom promítneme (dle dodatku článku 7.) bod dopřímky bbc' bodem procházející. Bodem c/F pak sestrojíme přímku C/FCF|| cbj, kteráž protíná přímku c'cF||P bodě CF, kterýž bodem určuje inflexní tečnu plochy zborcené bodem procházející.
+
+
+Tato inflexní tečna CCF určuje pak dříve určenou inflexní tečnou J5=aí bodu sestrojenou přímkou hyperpoloid, plochu zborcenou dle přímky oskulující.
+
+
+12. Předpokládejme dále obecnější případ, kdy zborce ocha jest určena přímkami, kteréž dotýkaj plochy kužel ové podle libovolné křivky rovinné protínají zároveň libovolnou křivku
+
+
+Jako článku předcházejícím určíme přímku zvoleným bodem křivky procházející křivku bodu protínající při zvolené rychlosti zz: aa' bodu křivce stanovíme rychlost bb' bodu křivce této stanovené rychlosti v/, křivosti křivky bodě odvodíme tak jako pro bod (článek předcházející) rychlost v"".
+
+
+Tím určíme tuto plochu zborcenou jakožto plochu zborcenou, vytvořenou pohybem přímky kteráž protíná křivky bodech, pohybujících těchto křivkách určitými rychlostmi v,, (článek 8.).
+
+
+XV. ﻿29
+
+
+lest patrno, určíme inflexní tečnu plochy této bodu pomocí
+
+
+rbolického paraboloidu určeného křivkou oskulující bodu křivku
+
+
+čnou křivky bodu Pravé tak stanovíme inflexní tečnu plochy
+
+
+bodu užitím hyperbolického paraboloidu, určeného křivkou osku-
+
+
+luiící křivku bodě tečnou křivky bode
+
+
+určení oskulačního hyperboloidu dle přímky sestrojíme ještě inflexní tečnu jednom bodě přímky
+
+
+Při konstrukci inflexních tečen bodech obdrželi jsme při
+
+
+zvolené rychlosti v,,' ostatní rychlosti v"" a'a"", bb' vb"" b'b"",
+
+
+jichž užijeme odvození inflexní tečny bodu následním způsobem:
+
+
+Délku cc', spojující zvolený bod bodem přímky ab\ kterýž
+
+
+
+
+
+dělí a'b' poměru rovném poměru -=—, pokládejme rychlost délku
+
+
+L/C
+
+
+čV7, spojující bod c"" přímky a""6"", který dělí délku a""b"" poměru
+
+
+
+
+
+taktéž rovném poměru -y— rychlost lv"", příslušící řezu šikmému, jehož
+
+
+rovina jest body c', c"" určena.
+
+
+rychlosti lv"" určíme rychlost yc"", příslušnou řezu normálnému plochy procházejícímu přímku cc', tím, bodě sestrojenou přímku c'cly rovnoběžnou normále N,. plochy zborcené bodu protneme rovinou procházející bodem c"" rovnoběžnou tečnou rovinou (článek 11.) bodě c/K.
+
+
+Pak promítneme bod přímky bbcf normálou bodem c/F vedeme přímku C/KCK||C&/, kteráž protíná přímku c'cy\\ bodu CF, určujícím bodem hledanou inflexní tečnu bodu
+
+
+Tato inflexní tečna oněmi dvěma, bodech určenými, stanoví oskulační hyperboloid.
+
+
+13. řešení tohoto problému máme také již řešení obecné úlohy: Sestrojiti oskulační hyperboloid plochy zborcené vy-
+
+
+tvořené přímkou, která pohybujíc dotýká libovolné plochy dle dané křivky protíná libovolnou křivku Řešení toto jest úplně shodné tím, kdy křivka jest dána ploše kuželové (článek předcházející), jenom přímka kuželové plochy procházející bodern nahrazena zde bude přímkou plochy rozvinutelné, obsahující roviny tečné plochy sestrojené bodech křivky
+
+
+14. Týmž způsobem lze řešiti problém, který pan professor Eduard Weyr článku již několikrát citovaného pojednání*) řeší velmi elegantním způsobem ryze geometricky:
+
+
+Sestrojiti oskulační hyperboloid ploše zborcené, určené přímkami, které, dotýkajíce sedanéhohyperboloiduJI dle jeho povrchové přím kyyJ, protínají libovolnou křivku
+
+
+strojení oskulačních hyperboloidů. Rozpravy České Akademie, třída, ročník 1896, číslo
+
+
+XV. ﻿30
+
+
+Předpokládejme, hyperboloid jest určen vedle přímky přímkami 2A; pak sestrojíme nějakou přímku nahoře uvedené plochy když libovolném bodě přímky sestrojíme rovinu tečnou plochy stanovíme průsečík této roviny křivkou /?, který bodem přímku určuje.
+
+
+Rovina tečná bodu určena jest přímkou přímkou soustavy kteráž procházejíc bodem přímky protíná. Pohybuje-li tato rovina tečná tak, průsečík její přímkou pohybuj rychlostí 2a2a' této přímce, určíme rychlost lala průsečíku roviny přímkou pomocí stanovíme rychlost aa, kterou dotyčný bod roviny tečné přímce pohybuje. stanovení těchto rychlostí aa' lze užiti konstrukce, kteráž byla vykonána článku 10. při sestrojování oskulačního hyperboloidu určeného obecně třemi křivkami
+
+
+zvolené rychlosti kterou pohybuje bod přímce odvodíme dle článku 11. rychlost />&' —wé, kterou pohybuje průsečík křivce dané křivosti křivky odvodíme rychlost v,"".
+
+
+Tím jest tento problém opět převeden sestrojení oskulačního hyperboloidu článku 12., kdy plocha zborcená jest vytvořena přímkou protínající přímku křivku takže průsečíky pohybují známou rychlostí.
+
+
+15. Sestrojení oskulačního hyperboloidu ploše-zborcené určené dvěma křivkami plochou jíž její přímky dotýkají.
+
+
+Uvažujme nejprve speciální případ, kdy plocha Fjest plochou kuželovou stupně útvary přímkami.
+
+
+Sestrojujíce jednu povrchových přímek této plochy, určíme libovolným bodem přímky přímkou rovinu, kteráž protíná plochu kuželovou křivce které bodem vedeme tečnu protínající zároveň přímku bodu
+
+
+Souhrnem bodů dotyčných ... přímek této plochy P.. plochou kuželovou jest určena jistá křivka obecně prostorová plochy této.
+
+
+Sestrojujíce oskulační hyperboloid dle přímky této ploše zborcené, budeme potřebovati tečny křivce bodu kterou sestrojíme následním způsobem:
+
+
+Mysleme si, rovina určená přímkou určitou rychlostí otáčí, př. aby bod pohyboval rychlostí cc' kolmou této rovině; pak pohybuje dotyčný bod přímce povrchové plochy kuželové bod tento obsahující, určitou rychlostí cc"". Rychlost tuto sestrojíme, když sestrojíme bodem rovinu rovnoběžnou rovinou PJB, kteráž přímku protíná bodě c"".
+
+
+Zároveň také průsečík téže roviny PJi přímkou pohybuje jistou rychlostí aa"", kterou obdržíme, když sestrojíme přímku _\_PB
+
+
+XV. ﻿31
+
+
+přímkou bodu pak vedeme tímto bodem rovinu Pr° be2nou rovinou PB, kteráž přímku bodu a"" protíná.
+
+
+Přímka při tomto otáčení roviny PB, procházející pohybujícím A-m dotýkající zároveň průsečnice plochou kuželovou také pohybuje. Tím bod dotyčný této křivce pošine.
+
+
+Abychom stanovili rychlost cc'"" tohoto pohybu bodu přímce čeme kterou rychlostí bod vychyluje rovině přímky jakožto tečny křivky bodu
+
+
+Sestrojme přímku aa'""j_ rovině omezme rovinou bodem a"" nrocházející rovnoběžnou tečnou rovinou P7. Tato rovina určuje přímce na"" rychlost aa"" bodu při vychýlení přímky Spustíme-li nyní středu křivosti křivky přímce ca""' kolmici, protíná tato přímku bodu c'"", určujícím rychlost cc""', kterou pohybuje bod dotyčný křivce
+
+
+Úhlopříčna cc/K rovnoběžníka rychlostí cc""c/Kc""' udává pak rychlost bodu dotyčného tudíž směr hledané tečny křivky
+
+
+Dle věty Dupinovy, kterou jsme kinematicky odůvodnili či. 11., jest přímka harmonicky sdružená přímkou Pvzhledem přímce tečně wjv křivky druhou inflexní tečnou zborcené plochy, určené přímkami plochou Tato inflexní tečna určuje pak přímkami žádanou plochu oskulačního hyperboloidu.
+
+
+Kdyby místo přímek byly dány dvé křivky, pak třeba, abychom, sestrojujíce oskulační hyperboloid plochy zborcené, určené těmito křivkami plochou kuželovou rychlostem aa"" cc/K stanovili dle článku 10. rychlost bodu tečně křivky tomto bodu sestrojené při pohybu přímky
+
+
+Pak máme vše dáno, abychom pomocí konstrukcí uvedených článku sestrojili další dvě inflexní tečny této plochy zborcené, kteréž stanovenou inflexní tečnou bodu určují oskulační hyperboloid dle přímky
+
+
+16. Vezměme úvahu problém obecnější:
+
+
+Stanoviti oskulační hyperboloid, když plocha jest libovolnou plochou.
+
+
+Rovina pomocná, procházející přímkou 7?, protíná přímku bodě plochu křivce (7, níž sestrojíme bodem tečnu jakožto přímku
+
+
+Dle křivky mysleme sestrojenu plochu rozvinutelnou obalovou tečných rovin plochy sestrojme přímku této plochy procházející bodem němž přímka plochy dotýká.
+
+
+Znajíce tuto přímku, pokračujme dalším jako článku předcházejícím stanovíme tečnu cciv křivce dle níž plocha zborcená plochy dotýká.
+
+
+Abychom stanovili druhou inflexní tečnu bodu určíme povrchovou přímku plochy rozvinutelné obalové rovin tečných, dotýkají-
+
+
+XV. ﻿32
+
+
+cích dle křivky plochy níž jest přímka cclv sdružena vzhledem indikatrixe bodu plochy
+
+
+přímce harmonicky sdružená přímka vzhledem přímka^ ccly sdruženým tečnám vzhledem oběma plochám: ploše zborcené jest inflexní tečnou plochy zborcené bodě Tato přímka přímkami určuje oskulační hyperboloid.
+
+
+Kdyby plocha byla určena dvěma křivkami plochou přímky byly tečnami sestrojenými bodech nichž přímka ony křivky protíná, pak třeba stanoviti pomocí rychlosti na"" ccf* rychlost hl,' přímce dle článku 10. sestrojiti potom dle článku inflexní tečny plochy zborcené bodech
+
+
+17. Přikročme str eníosk lační hyperboloid ploše zborcené určené přímkami, které dotýkají dané plochy dle jisté křivky mimo ještě druhé plochy
+
+
+Některou přímek této plochy zborcené sestrojíme, sestrojíme-li bodu křivky rovinu tečnou určíce průsečnici této roviny plochou /"") sestrojíme bodu této křivce tečnu jakožto přímku
+
+
+Předpokládejme nejprve, plochy TlaFjsou plochami kuželovými.
+
+
+Podle Dupinova theoremu stanovíme druhou inflexní tečnu pro bod jakožto harmonicky sdruženou přímku přímce vzhledem přímce (článek 10.).
+
+
+Mysleme si, rovina Ta, bodu plochy kuželové dotýkající, otáčí kol přímky /6', tak bod dotyčný postupuje tečně křivky rychlostí aď. Pak můžeme rychlost otáčení roviny tečné T,ř vyjádřiti rychlostí a'a"" bodu «', kterou dostaneme známým způsobem křivosti křivky tím spustíme bodu spojnici středu křivosti křivky bodem kolmici ««"", kteráž přímku a'a"" bodu a"" protíná.
+
+
+rychlosti a'a"", kterou pohybuje bod při pohybu tečny T„, odvodíme rychlost otáčení a'a'"" roviny tečné T,, kol přímky *S', když bodě vztýčíme rovině kolmici a'a'"" bodem a"" vedeme rovinu rovnoběžnou rovinou tečnou Ta, kteráž přímku a'a'"" bodu ď"" protíná.
+
+
+ustanovené rychlosti a'a'"" určíme rychlost průsečíku roviny tečné přímkou povrchovou plochy kuželové (bodem <•, němž přímka křivky dotýká, procházející), když bodem vedeme rovině přímku <-g \\ria bodem vedeme přímku ger\\oafnt kteráž protíná přímku ccr _1_ Tř( bodu <•'. Pak vedeme bodem <•' rovinu rovnoběžnou rovinou tečnou T«, kteráž protíná přímku bodu c"", jenž rychlost c.c"" bodu přímce určuje.
+
+
+Přímka při tomto otáčení roviny T„, procházejíc pohybujícím bodem dotýkajíc zároveň průsečnice plochou kuželovou také pohybuje. Tím pošinuje bod této křivce. Abychom stanovili rychlost re'"" tohoto pohybu bodu určeme, kterou rychlostí bod vychyluje rovině přímky jakožto tečny křivky bodě c..
+
+
+XV. ﻿33
+
+
+Sestrojme přímku aa'""_\_P rovině omezme rovinou bodem
+
+
+procházející rovnoběžnou_s tečnou rovinou Te=PV. Tato rovina
+
+
+čuje přímce aa'"" rychlost aar"" bodu při vychýlení přímky Spu-
+
+
+tírne-H nyní středu křivosti křivky přímce ca'"" kolmici, protíná
+
+
+tato přímku bodu c'"", určujícím rychlost cc'"", kterou pohybuje bod
+
+
+dotyčný křivce
+
+
+Úhlopříčna cciy rovnoběžníka rychlosti cc""crycr"" udává pak rychlost hodu dotyčného tudíž směr hledané tečny rl\ křivky dle níž uvažovaná plocha zborcená plochy kuželové dotýká.
+
+
+Obdrževše nyní tuto tečnu cc/y křivce stanovíme inflexní tečnu bodu když sestrojíme přímce harmonicky sdruženou přímku vzhledem přímkám c.cly
+
+
+úplnému určení oskulačního hyperboloidu dle přímky obsahujícímu inflexní tečny užijeme nyní výhodně konstrukce, kterou pan professor Eduard Weyr několikráte již citovaném pojednám'*) uvádí.
+
+
+Uvažme, roviny tečné, sestrojené bodech nekonečně blízkém bodu křivky ploše zborcené protínající vrcholu plochy kuželové 77, dotýkají oskulačního hyperboloidu. toho jde, že'polární rovina bodu stanovená vzhledem oskulačnímu hyperboloidu, prochází tečnou křivky sestrojenou bodě
+
+
+Vedeme-li vrcholem plošným přímkám oskulačního hyperboloidu transversálu, obdržíme snadno bod řečené polární roviny čímž jest tato rovina stanovena.
+
+
+Pomocí roviny obdržíme přímky další plošnou přímku oskulačního hyperboloidu.
+
+
+Křivka stupně Alt která ležíc rovině křivky prochází stopami přímek této rovině křivku bodu oskuluje, bude úplně určena náleží oskulačnímu hyperboloidu, který přímkami určuje.
+
+
+Kdyby body sjednotily, byla stopa roviny rovině křivky tečnou křivky Alt tato opět úplně stanovena.
+
+
+Konstrukce křivky provede nejjednodušším způsobem, po-jmeme-li stopu kollineárnou křivku křivce zvolíce bod střed kollineace předpokládajíce, osa kollineace prochází tímto středem. Body ř/j írn kollineárně příslušné bodům jsou křivce kol-lineárné přímky uvx^ protínají bodě osy^ollineárné.
+
+
+Tímto způsobem určený hyperboloid oskulační lze vytvořiti projek-tivnými svazky rovin osách jichž sdružené roviny procházejí týmž bodem kuželosečky
+
+
+strojení oskulačních hyperboloidů plochám zborceným*. Rozpravy České Akademie, ročník V., článek 4., str.
+
+
+XV. ﻿34
+
+
+18. Konečně vezměme úvahu obecný problém:
+
+
+Libovolná plocha křivka mimo libovolná
+
+
+plocha Z7, nechť stanoví způsobem nahoře uvedeným zborcenou plochu, jejíž oskulační hyperboloid jde.
+
+
+Řešení tohoto problému jest úplně totožné řešením předcházejícím článku, jenom přímky kuželových ploch bodem resp. procházející, nahradíme přímkami ploch rozvinutelných, obalujících roviny tečné ploch resp. sestrojené dle křivek základě přímky sestrojíme jako článku 11. inflexní tečnu bodu
+
+
+Dle článku 16. sestrojíme pak inflexní tečnu bodu
+
+
+Oskulační hyperboloid lze pak sestrojiti pomocí těchto přímek základě konstrukce pana professora Eduarda Weyra, předcházejícím článku uvedené.
+
+
+19. Zabývejme dále sestrojením oskulačního hyperboloid plochy zborcené určené lineárným útvarem dvěma plochami. Přímky této plochy zborcené protínajíce libovolný útvar dotýkají dvou ploch
+
+
+Vezměme nejprve případ jednoduchý, kdy útvar jest přímkou obě plochy plochami kuželovými.
+
+
+Sestrojujíce některou přímek povrchových této plochy, položme ploše kuželové libovolnou rovinu tečnou, plochy této dle přímky dotýkající, která protíná přímku bodě plochu křivce Tečna bodu křivce sestrojená této křivky bodu dotýkající protínající přímku bodě jest řídící přímkou plochy zborcené.
+
+
+Předpokládejme, rovina tečná T/,, plochy kuželové dle přímky dotýkající, jistou rychlostí otáčí. Potom bod přímce pohybuje určitou rychlostí aaf, kterou dle článku 15. sestrojíme. Taktéž dle téhož článku odvodíme rychlost cc""' bodu přímce tím tečnu křivky dle níž plocha zborcená plochy kuželové dotýká, konečně sestrojíme pomocí přímky tečny Tc, základě rychlostí cc/K inflexní tečnu bodu (článek L).
+
+
+Inflexní tečnu bodu sestrojíme dle Dupinovy věty přímek (přímka plochy kuželové -T, bodem procházející) tak, jak bylo článku 15. vykonáno.
+
+
+úplnému sestrojení oskulačního hyperboloidu schází sestrojiti ještě inflexní tečnu bodu
+
+
+rychlosti aa' cc/í7, kterými pohybují body resp. přímkách Tc, stanovíme dle článku 10. rychlost kterou pohybuje bod přímce
+
+
+Avšak přímka při svém pohybu dotýká plochy kuželové 7í, proto bod jakožto dotyčný pohybuje přímce určitou rychlostí
+
+
+XV. ﻿35
+
+
+Abychom tuto rychlost stanovili, položme přímkami po-nou rovinu, která plochy protíná křivkách jichž již určená přímka bodech bac dotýká.
+
+
+Znajíce rychlost aa', kterou bod přímce pohybuje, můžeme 'mou konstrukcí (dle článku 15.) pomocí křivosti křivky bodu docíliti hlosti ^""^ kterou bod dotyčný přímce pohybuje. rychlosti aa' odvodíme rychlost aa"", kolmou přímce když přímku aa""J_ omezíme přímkou a'a"" Kolmice středu křivosti křivky přímce ba"" spuštěná protne přímku bodě b"", rychlost bb"" určujícím. Úhlopříčna rovnoběžníka rychlostí bb'b'""b"" jest pak výslední rychlostí bodu tudíž tečnou křivky dle níž plocha zborcená kuželové plochy dotýká.
+
+
+základě věty Dupinovy sestrojíme bodu příslušnou inflexní tečnu jakožto harmonicky sdruženou přímce vzhledem přímce Ttj. Tato inflexní tečna oněmi dvěma bodech sestrojenými určuje žádaný oskulační hyperboloid.
+
+
+Kdyby přímka byla nahrazena křivkou, zůstala veškera konstrukce nezměněna, jenom bylo třeba konstrukci inflexní tečny bodu nahraditi konstrukcí uvedenou článku pro ten případ, kdy plocha zborcená jest určena křivkou přímkou našem případě Tc] příslušnými rychlostmi (aa' cc/r) těchto útvarech.
+
+
+20. Uvažujme nyní případ obecný, kdy plocha zborcená určena jest dvěma libovolnými plochami křivkou
+
+
+Vezměme zde nejprve případ jednodušší, kdy útvar jest přímkou.
+
+
+Sestrojujíce přímky povrchové takto určené plochy zborcené, veďme přímkou libovolnou rovinu, která protíná plochy křivkách nimž sestrojená společná tečna, dotýkající jich bodech <•• protínající přímku bodu jest jednou přímkou žádanou.
+
+
+Podle křivek mysleme sestrojeny plochy rozvinutelné jakožto obalové plochy rovin tečných sestrojených plochám vytkněme zvlášť ony přímky těchto dvou ploch, které body procházejí.
+
+
+Přímka pohybujíc se, bude protínati vedle přímky také tyto dvě přímky proto, zvolíme-li rychlost na', kterou bod přímky přímce můžeme dle článku 10. stanoviti rychlosti bbf cc', kterými body přímkách pohybují.
+
+
+Při pohybu přímky pohybují však žárová^ její dotyčné body křivkách Rychlosti tyto bb"" cc"" stanovíme pomocí rychlosti aa' křivostí křivek resp. bodech resp. způsobem uvedeným předcházejícím článku při stanovení rychlosti bb"" bodu
+
+
+Zjychlostí bb' bb"" cc, cc"" sestrojené rovnoběžníky poskytují úhlo-příčny bb""' c7"" jakožto tečny křivkám resp. dle nichž plocha zborcená ploch resp. dotýká.
+
+
+XV. ﻿36
+
+
+základe stanovených tečen Th, přímek (jež tak jak bylo článku 16. vyznačeno, jsou body bac procházejícími přímkami ploch rozvinutelných obalující roviny tečné, dotýkající ploch resp. dle křivek resp. sestrojíme dle Dupinovy věty inflexní tečny plochy zborcené bodech základě rychlostí aa' />//"" přímkách resp. stanovíme dle článku inflexní tečnu příslušící bodu která prvými dvěma určuje oskulační hyperboloid dle přímky sestrojený ploše zborcené, určené přímkou libovolnými plochám;
+
+
+Byl-li útvar křivkou, změní jen konstrukce inflexní tečn, bodu tak, jak bylo podobném případě předcházejícím článku n;; značeno.
+
+
+21. Konečně vezměme nejobecnější případ určení oskulač ního hyperboloidu ploše zborcené, určené třemi plochami, jichž přímky její zároveň dotýkají.
+
+
+Uvažujme nejprve případ jednodušší, kdy jsou plochy plochami kuželovými.
+
+
+Abychom sestrojili některou přímek plochy zborcené, sestrojírm ploše kuželové rovinu tečnou, která dotýkajíc této plochy dle určiti přímky protíná druhé dvě plochy kuželové křivkách resp. (': těmto dvěma křivkám společná tečna, těchto bodech bac dotýkající přímku bodu protínající, jest přímkou plochy zborcené.
+
+
+Předpokládejme, ona pomocná rovina tečná otáčí určitou rychlostí, pak body pohybují přímkách náležejících plochám kuželovým resp. body těmito procházejících, rychlostmi bb' (•<•', jež lze sestrojiti známými již konstrukcemi, předcházejících článcích více-kráte uvedenými. těchto stanovených rychlostí bb' ccf lze pak dle článku 10. určiti rychlost aa' bodu přímce plochy kuželové
+
+
+rychlosti aa' křivosti křivek stanovíme rychlosti bb"", c,c"" dotyčných bodů resp. křivkách při pohybu přímky (dle článku 15.).
+
+
+těchto dříve stanovených rychlostí bb' sestrojíme tečny '!/. křivkám dle nichž plocha zborcená dotýká plochy resp. Pomocí těchto tečen sestrojíme pak dle článku 15. inflexní tečny bodech bac.
+
+
+Abychom také inflexní tečnu bodu sestrojili, uvažme, bod jakožto dotyčný bod plochou nejenom pohybuje přímce rychlostí aa', nýbrž pošinuje přímce rychlostí aa"", kterou následním způsobem stanovíme:
+
+
+Přímkou plochy kuželové myslíme rovinu, která plochu protíná křivce jež přímky dotýká bodu rychlosti bodu přímce lze pak sestrojiti dle článku 15. rychlost aa"" bodu přímce
+
+
+XV. ﻿37
+
+
+LJhlopříčna aa'"" rovnoběžníka aa'a'""a"" jest tečnou křivce Jie níž plocha zborcená plochy dotýká, pomocí níž sestrojíme in-fl xní tečnu bodu která oněmi dvěma bodech již sestroje-vmi určuj6 oskulační hyperboloid.
+
+
+Kdyby dvě ploch kuželových byly nahrazeny obecnými plochami, pak můžeme při stanovení oskulačního hyperboloidu právě tak pokračovati jako článku předcházejícím, považujíce plochu kuželovou plochu kuželovou Při konstrukci inflexních tečen bodech budou přímky ploch kuželových nahrazeny přímkami U', ploch roz-vinutelných jakožto obalových rovin tečných dotýkajících ploch dle křivek resp.
+
+
+22. Sestrojení oskulačního hyperboloidu ploše zborcené určené přímkami, dotýkajícími tří libovolných ploch
+
+
+
+
+
+Abychom nějakou přímku této plochy zborcené sestrojili, sestrojme dvě pomocné plochy zborcené. Přímky prvé těchto dvou ploch jsou rovnoběžné jistou rovinou dotýkají ploch přímky druhé plochy jsou rovnoběžný touže rovinou dotýkají ploch Tyto pomocné plochy zborcené dotýkají plochy určitých křivkách které protínají bodech, nichž sestrojené přímky, příslušící prvé pomocné ploše zborcené jsou zároveň přímkami druhé plochy pomocné tudíž dotýkajíce všech tří ploch jsou žádanými přímkami plochy zborcené určené těmito plochami.
+
+
+Sestrojujíce oskulační hyperboloid dle jedné takto určené přímky pokračujeme následovně:
+
+
+Rovina rovnoběžná onou rovinou procházející přímkou protíná plochy křivkách dle nichž myslíme sestrojeny plochy rozvinutelné, obalové rovin tečných sestrojených těmto plochám. Pak náležejí bodům těchto plochách rozvinutelných přímky
+
+
+Při pohybu přímky šine tato přímkách můžeme dle článku 10. stanoviti rychlosti aa, bbf rr, kterými body těchto přímkách pohybují.
+
+
+Při tom zároveň body tyto přímce pošinují rychlostmi aa"", bb"" c/', kteréž takto stanovíme:
+
+
+Abychom nejprve stanovili rychlost bb"", mysleme^si rovinu, určenou přímkou přímkou li, kteráž zároveň plochy bodu dotýká. Při pohybu této roviny tečné pohybuje bod přímce rychlostí ««', zároveň vychyluje rovině křivky přímky jakožto tečny bodu křivce této sestrojené, určitou rychlostí aa'"". Stanovíce tuto rychlost, veďme přímku aa'""_\_ rovině křivky omezme rovinou bodem procházející rovnoběžnou rovinou PR. Spustíme-li nyní
+
+
+XV. ﻿38
+
+
+středu křivosti křivky kolmici přímce ba'""t protne tato přímku bodě l"" určujícím rychlost bb"", kterou bod dotyčný křivce />' pohybuje.
+
+
+Úhlopříčna bbfl/ rovnoběžníka rychlosti bb'bfl/b"" udává pak výslednou rychlost bodu tudíž tečnu křivky dle níž dotýká ploch zborcená plochy />.
+
+
+Pomocí věty Dupinovy sestrojíme pak inflexní tečnu plochy zbo -cené bodu (dle článku 16.).
+
+
+Stejnou konstrukcí docílíme rychlostí aa"" cc"" tudíž tečn* Tf, křivkám resp. dle nichž plocha zborcená dotyk plochy resp. J1, jakož inflexní tečny bodech
+
+
+Těmito třemi inflexními tečnami bodech sestrojenýu: určen jest pak hyperboloid oskulující dle přímky plochu zborcenou určen* třemi plochami
+
+
+XV. OCHÁZKA:STROJEINÍ OSKULAČNÍCH HYPERBOLOIDŮ PLOCHÁM SBORCENÝM
+
+
+
+
+
+Rozpravy České Akademie. Třída RočníkVI. 15. ﻿*"

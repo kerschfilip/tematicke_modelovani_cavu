@@ -1,0 +1,786 @@
+"","x"
+"1"," ﻿ROZPRAVY
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VĚDY, SLOVESNOST A UMĚNÍ V PRAZE.
+ROČNÍK II.
+TŘÍDA  II.
+ČÍSLO 12.
+O IISTÉ NESPOJITÉ FUNKCI
+NAPSAL
+EDUARD   WEYR
+PŘEDLOŽENO   DNE -JO.  LEDNA   1898
+
+>  ^
+•w*
+I     l
+• % •
+V PRAZE.
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+PRO VftDY, SLOVESNOST A UMĚNÍ.
+1893- ﻿FISKICM J. OTTY v PKAZII. ﻿1. V této úvaze sestrojuji funkci reálné proměnné x, konečnou pro všecka ar, spojitou pro všecky irracionalné argumenty, pro racionalné však jen vzhledem ke kladným přírustům argumentu spojitou, vzhledem k záporným přetržitou. Funkce takové lze pomocí Hankel-ova t. zv. principu kondensace singularit snadno sestrojiti,*) arci ve tvaru nekonečných řad; avšak funkce 9(2), o niž půjde, nabývá zajímavosti tím, že lze její hodnotu jakož i rozdíl <j (x—0) — <jp(#) pro každý racionálny argument vyčísliti v zakončeném tvaru pomocí elemen-tarných výrazů.
+Funkci tu definujeme řadou, k níž dojdeme, hledímc-li odvoditi Cauchy-<yf\\ včtu o funkci /' vyjádřenou vzorcem
+r(x) F(X-\- ----*}... v      *)
+pomocí formule Wttfrsfrass-ovyt   podávající   rozklad   této funkce za kmenové faktory.
+Značíce literou /• libovolné kladné  celistvé číslo,   snadno nahlédneme,   že funkce F(x) a součin
+r
+
+mají táž nekonečna, takže—jelikož reciproká hodnota funkce F(x) jest funkcí celistvou — podíl z obou funkcí jest tvaru i'G(x), kde G(x) značí celistvou funkci. Vyjádííme-li veškery tyto funkce F pomocí Weierstrass-<svy formule (v. Hcrmiíc, Cours ďAnalyse de la Faculté děs Sciences, & Ed. p. 114)
+00
+T  ~\
+tAs   •
+n)
+C
+X \
+n
+maníc
+(k - 1) C
+,G (x) ___
+k — l    oo
+nn
++ r —
+— k
+kn
+oo
+n
++                     !         X — l ;/ — l ---------- e      n
+n
+5l:) V. Dini) Fondamenti per la teorica delle funzioni di variabili reali, Pisa 1HTS, P« 180 a G. Cantor, Ober ein neues und allgemeines Condensationsprincip der Singularitáten voň Functionen, Math. Annalen, t. XIX. p. 588.
+r
+XU ﻿Zaveďme do každého z k součinu, jež se v čitateli vyskytují, na místo čísla ;/ číslo pv pomocí rovnosti
+pv = k n -f- v — k~\-\ \
+pak pv nabývá hodnot r -f- l, »• -|- l -)- k, P -|- l -}- 2L,... shodných s r -|- l dle modulu L, a poslední rovnici lze psáti
+* —
+aneb
+,,G (x)
+(k — l) C    11   U		k A +	L — r — 1
+3                                          f V	1		/
+k		1 Í~l — •""	+                                              X — 1 fj
+		.	PV                   /'        Pr
+v (K         I) (,      -m— m-      -r m-	r	11 u |JM	,                               •L A                           x - • 1             x-\~v -~ k
+a		j	'v                   v   v *         PV + k — v — 1
+kdež na právo by stačilo vzíti r od O do k — 2, jelikož při v = k— l  vnitřní
+/     x^~-  /      \
+součin patrně 96 rovná 1.   Logarithmické derivování ukazuje ihned, že —-—— jest stálou; nazveme li ji a, máme
+k — l
+•=S51
+^     (pt.)
+l
+pr-\-k-—v--\
+a
+G (x) = ax -\- a
+kde #,  značí opět stálou. Tím nabýváme formule
+aneb, píšíce kx místo X,
+0)
+k — i
+Stálá  #,   vychází,   položímc-li
+a F(x] se blíží -=-,   blíží-li   se
+k
+Eultr-ové formuli ihned
+<c = O  a   uvážíme-li,   že   podíl   hodnot   F(kx) x   mílie;   tím   obdržíme   vzhledem   k   známé
+k — l
+(2 ÍT
+k
+l
+Stálou <7 pak obdržíme, píšeme-li x-\--r na místě #, čímž plyne
+(2)
+XII ﻿a dělením  obou formulí (1) a (2)
+log k .
+Máme tedy
+A-—l
+což jest Cetí/c/iyova. formule.
+Pro další úvahu jest však   zajímavým   dvojí tvar,   v němž jsme   stálou a obdrželi a který vede k rovnici
+*=
+- = 0  (pí
+\
+A
+l
+V
+1
+Uvážíme-li, že
+— /„ = — k n — v
+k — l == k — v — l     (mód. k) ,
+jest patrné, že k — * — l jest nejmenší kladný zbytek čísla a že tedy lze poslední rovnici psáti
+00   í 1               l log k — V-------------:-----
+Oi l ;/         « + ;/o
+zde »0 značí   nejmenší kladný zbytek  čísla —;/ (mód. /r),   tedy hodnotu de finovanou takto:
+/. celistvé číslo.
+— ;/ -j- A L = «0 ,        O < //„ < k ,
+2. Označme literou x libovolnou kladnou hodnotu a utvořme řadu
+00
+(4)
+* 0*0= S
+j_
+;/
+i
+v níž ntí značí nejmenší kladný zbytek čísla — n (mód. x\   definovaný tedy:
+— n -4- /. x —
+o
+O <I ;/0 <
+/. celistvé číslo.
+v
+Rada   ta   konverguje  stejnoměrně  v   každém   intervallu   kladnými   hodnotami uzavřeném, neboť patrně
+n -f- n0 < ;/ a tedy
+l          l
+n-\- x
+Hodnota y(x) jest patrně kladna.
+Kdybychom pro záporná x = —y obdobně definovali qp (x) hořejší řadou, tedy kladli
+'0 ,        O < ;/0 < x
+— n —   x =
+XII. ﻿— n -f- ly = n0 ,        O <[ >/0 </ ,
+t. j.
+tu by patrně
+pročež se obmezírne na kladné hodnoty proměnné.
+Funkce (f (x) rovnicí (4) definovaná jest ona, o níž pojednáme.
+platí
+3.   Snadno lze přímo stvrditi   známý nám již výsledek,   že pro celistvá
+(k) = log k .
+O a
+Pro x = \  patrně #0 =
+Pro x = 2 , 3 , 4 ,.. . lze ale psáti
+l        l
+f*       i l        l
+(f (x) =
+
+
+.
+'
+*•
+Označíme-li
+
+
+součet prvních ;/ řádku, tu patrně máme
+1    4-        4-   1         (\ -4-  1    4-'2   + ---+nx~( l+^+'""
+čili
+4-
+1+4-+...+4
+log
+nx -f- l
+a tedy
+jako nahoře.
+lim 5„ = log x ,
+= oo
+4. Obdobně lze řadu qp (a?) vyčísliti i)omocí uzavřeného výrazu pro každé racionálně x.
+Budiž nejprve x = — ,   kde / , q  značí nesoudělná kladná celistvá čísla,
+Y
+a / <C </ • Položme posloupně
+A = i
+A.
+n
+o
+o
+3 + ».""' ,
+XII. ﻿kde /., ,/.2 , . . . Ap-i jsou celistvá čísla tak stanovená, by platily nerovnosti
+a
+kde
+""P
+Pak posloupně platí
+
+,
+/ + 2
+a
+0 ' atd.
+J    4-___
+I^-1
+•p-
+Výraz ten lze psáti
+1)?
+1   log,)-1
+q   b )    P
+i   •     i
+r T-
+P
+9
+a tedy
+""} = (l ~ l
+'l '        ^              '*!   í x         v   ~          ""2   ^                                        ,   v
+l_____L^-j + r^J_____L—"") 4.... 4./JL___*
+•        •••••••••••••••••»•••••*••••••••
+Oxnačíme-li opět literou vS""„ součet prvních ;/ řádků, máme
+1.1,         ,  J^_^
+;//      p
+9 (l .\       l      i____L___L       '          ]
+-p va.^a.H-f""1""2.4-31^
+•    ••     •••••**•••
+i
+
+Xll. ﻿8
+ve kterémž   tvaru   lze   ihned   vyčísliti   jelit)   limitu   pro lim (id//ss-ovy funkce l/' (Werke, t.  i 11. p.   1 53):
+= oo   za pomoci
+/ x * (x} =
+dx
+..     /.      .       l
+= lim l km /• --
+\         x-
+\
+l
+x     2
+
+kde celistvé kladné číslo k roste do nekonečna.   Máme totiž, značíce napořád literou  C konstantu Eulerovu,
+lim
+1	,     1
+l	1 *+*
+1		1
+r r       i 1111     lev ;/	log // 1	
+t>             /.	A   1 ,        • • •         ;. ••4-1                     --+-* — 9                                            '/	
+1
+
+1
+/ p \ a tedy pro lim >SM t. i. q j        l   výraz
+V (7 J
+M
+J_
+P
+čili, vzhledem  ku 6"" = —
+Avšak  Gauss 1. c. ukázal, že lze rozdíl  '/'"" (a;) — ?/''(0) vyjádřiti   v zakončeném tvaru pro každé racionálně x; jest tedy i </ í       )  stanoveno   v zakon-
+V <1 J čeném tvaru a sice pomocí logarithmu a goniometrických výrazů.
+Formuli (5) lze dáti explicitnější tvar pomocí Lcgendre-av* symbolu E (x\ značícího největší celistvé číslo obsažené v x .
+Dle definiční rovnice čísla /.
+o
+(v)
+O < «0<"">
+/
+,    (*>= l ,2,..,/— 1),
+máme totiž
+
+a tedy
+
+1
+v /        v
+čímž
+s/'
+XII ﻿5.   Mějme   nyní  za  druhé x =
+
+,  a
+>> q   buďte   opět   dvě   celistvá
+nesoudělná čísla.  Položíme-li
+— 1
+*
+- »
+""
+.  ,
+•              •
+g
+kde /., — l , f.p = q a celistvá   čísla /.,2 . . . . lp __ i   jsou   tak  stanovena,   že  plat
+O < <
+O < ;/0"" < -?- , . . . ,
+tu nalezneme právě tak jako nahoře, že
+Zde arci j některé z čísel 7.2 , . .   , /.^ -1   může   míti  hodnotu </ ,  což  však na platnosti této formule ničeho nemění, jelikož i pak
+lim
+n = oo
+/.
+'• + (7
+l + (n
+— lo<r ;/ l
+9         )
+l
+lim
+l - log »)
+Vzhledem k
+O
+mamě
+při ;/0"") — () máme tedy /.„ = E ( -?-\ ,   kdežto  při ;/0<"">  > O  máme
+'-v = l -[- /i l        l. Abysme oba případy jedním výrazem vystihli, uvažme, že
+\P ) v prvním případě máme
+rq P
+V (l
+v druhém, kdy        není celistvým číslem, platí patrně
+P
+P
+XII ﻿10
+tak že v obou případech platí
+Není obtížné ukázati, že tato formule platí i v případě,  kdy tedy pro každá dví celistvá nesoudělná čísla p 9 q rovnici
+a maníc
+(8)
+M
+6. Přistupme nyní k vyšetření spojitosti naší funkce
+l              l
+oo
+*+*,
+— n -\- l x = //„ ,         O < ;/0 < ^ ,
+a sice nejprve vzhledem ku kladným přírůstům t argumentu x.
+Zvolme kladné celistvé číslo A"" libovolně a označme A nejmenší hodnotu rozdílu x — ;/0 pro n = l , 2 , . . . N ; patrně ti > O .   Vzhledem k rovnosti
+— w -f~ '• (^ ~(~ *) == wo ~h ^ 6 supponujme, že platí nerovnost
+A * < a? -(- fc    čili    (/. — l ) fc < x
+//
+„
+od ;/ = l až do A7 ; k tomu stačí, předpokládáme-li   že
+Avšak /
+.            ""    i™ ^'n
+•
+x
+, tedy supponujme, že
+x
+•                               v ,              v
+jest   menši než
+a k tomu postačí, aby platilo
+dx
+Pak patrně máme
+N
+= L
+n --l
+a vzhledem k
+N
+í 1		
+n	n	- n0 -f- A «
+N
+? (*) = z]
+n = l
+	+ *»	i* v	1 1	1
+\                                                                     '		w = l	n	A x
++ A'N ,
+kde
+""A/ značí zbytky našich řad, máme
+N
+i
+q (X + *) —
+XII. ﻿11
+toho soudíme, že
+.
+,v
+n —
+Buď nyní j/ libovolná kladná hodnota.   Zvolme N tak velkým, aby
+ti                                       TI
+i    ^^    •>                                                                      Q
+O                                    O
+což vzhledem k stejnoměrné konvergenci řady q> (x) jest vždy možným; zvolme t takové,  aby bylo t < -^-—  a aby též platila nerovnost
+dále
+x
+N      /   1    X
+s i)
+W = 1    v
+t. j.    *<
+r/x
+N
+3   -i*
+n     l «
+Pak platí pro všecka <• hovící těmto dvěma rovnostem patrně
+(a;
+</ (o?) < i/ ,
+čímž   dokázána   spojitost  funkce (f (x)   vzhledem   ku kladným   přirůstám a to pro každý argument x .
+7. Vezměme nyní v úvahu záporné přiríisty — f, a předpokládejme nejprve,  že x jest hodnota (iracionálna,   Pak patrně n0 není nikdy nulloii;   dále
+Vzhledem k x > «0 ,   t ^
+soudíme, že
+*^         ""c  ^^  //|j
+Volivše   kladné číslo  celistvé A^ opět libovolně,   předpokládejme,   že pro l , 2 , ... JV stále platí
+,        t.   J.        é ^s ~T~    j
+A
+ku kterému cíli stačí supponovati <• < <V, , značíme-li <V,   nejmenší z hodnot - ° od n = l  do ;/ = /V.   Za této supposice patrně máme
+AT
+l
+a jelikož
+
+XII. ﻿12
+máme dále
+
+q (x — í)   — (p (x) =
+jíV - T(í
+
+Máme tedy — předpokládajíce
+2
+N \         / \   ^ ^é   V1 í  l
+r, (a? — *) — r, (*)   < —   2j  I-
+* «rri v ""
+Označme 17 opět   libovolnou  kladnou hodnotu,   a volme A^ tak   velkým,  aby
+9
+jak Ajr, tak iCg číselně byly menší než — ,   pak  volme  t  tak,   aby  platily
+o
+nerovnosti
+< <vi ,
+//a;
+řf-LV
+rU J
+6
+i máme pak patrně
+(f(x — t) — g (x) < ti ,
+čímž spojitost funkce <y (x) též pro záporné přírůsty argumentu dokázána, arci jen pro irracionalné hodnoty x .
+P
+Budiž konečně x hodnotou racionalnou — ; p. q dvě celistvá nesoudělná
+q
+čísla. Napišme
+x = n   ,        O
+n
+x ,
+— // -)- X (o; — t) = ;/0 — l é , a připomeňme si nejdříve, že ;/0 = O při w = í. a; , tedy při
+n = p , 2/ , 3/,...
+a resp.
+Y       V
+načež
+— n-\-l (x — s) = — AÉ ,        — n-}-(k-\-\) (x — s) — x — (A -(- 1) ř. . Volivše A^ opět libovolně, předpokládejme, že stálé ;/0 —). t>(), nabývá-li ;/
+hodnot  l ,.. . N) vyjma násobky čísla/; k tomu stačí předpokládati
+?l —T— 71
+je-li íV   nejmenší z příslušných hodnot   ;/0,   čili předpokládati ———— « < A , k čemu stačí, aby
+N+X    ...       .          a*
+i          .,
+x
+x
+t.
+Xll ﻿13
+Předpokládejme dále, že pro // == p , 2/ , 3/> . . . »', p , kde r, /» jest největší nádobek / obsažený v A7, máme stále x — Q-\- ')*><) čili (rq-\- !)*<#, t. j. předpokládejme
+*<
+"",7+1
+/a těchto dvou supposic patrně máme
+
+n
+l
+""
+*
+n
+(Ji
+l
+zde součet 2/ se vztahuje k hodnotám ;/ = l , 2 ,... N nedělitelným číslem /, a součet 2'"" k hodnotám u =p , 2/ , . .. ^ / .   Píšeme-li
+l
+g)
+//         /. (x —
+(x) = V
+- -
+-   1)
+""{J
+u
+M «í
+obdržíme odečtením
+qp (a; — *)
+V
+I
+V
+^J
+
+a; (x -
+""1	i		--} + //) i ,	
+Í*H	h*— (A-	f 1)' 1		
+A
+Volme   nejprve   /V tak velkým,  aby jak 7^v tak Á3'^  byly číselně menší 5
+3
+by hovělo nerovnostem
+než  .: , značíce literou r/ libovolnou kladnou hodnotu; napotom volme ř tak.
+»', (J •       l                X(X- • é)
+i ;.
+l
+3 '
+Aby třetí nerovnost, t. j.
+(ar -
+x
+(}
+byla vyplněna, stačí, aby
+3
+ÍC
+, aby
+<;
+XII ﻿14
+Pro všecka
+dosti malá, že hoví všem třem nerovnostem,   máme  patrně
+qp (x) — q (X — s)
+3
+'/                - —   /    t
+0* 17       V1     l
+~*~       j    ^
+o          ^< l r/5
+v — l        •
+kde ff, a', o-"" značí hodnoty v mezích — l a -f- l Položme nyní
+i r = l
+5« - S  ~,
+r =: l
+í	•/	+ 1	/v^	(••	?H	-i)	é
+			tf^r l				
+i.
+p
+a uvažme, že vzhledem k
+r+i=
+./     l     1 —   VP+X v-     -f- l — -
+fl?
+mamě
+S
+- :1
+l
+x
+Z toho patrno, že pro dosti malé s rozdíl q> (x) — <y (x — í) se liší o libo-
+volně malou hodnotu od - '- ((7- (- rr'      rr"")   - Sn .   Avšak S0 závisí na »',  a toto
+O
+číslo opět na hodnotě r/; zvolivše rt dosti malým, nabývá /, libovolně velkýcli hodnot, z čehož patrno, že pro dosti malé * rozdíl q> (x) — qp (x — t) se liší libovolně málo od —lim S0, t. j. od
+, U-
+é-1 í'/
+l   >
+Máme tedy
+OO
+lim [<p (a?) — g) (a; —«) ] = —
+l
+čímž dokázáno, že funkce g (ÍT) pro každou racionalnou hodnotu a? jest vzhledem k záporným přírustům argumentu přetržitou a to takovým způsobem, že hodnoty qp (x — e) mají pro lim e = O limitu, totiž
+
+OO
+l
+qp (x — 0) = qp (x) -\-
+v }
+Velikost  průtrže  zde se jevící lze snadno v zakončeném  tvaru vyčísliti, jelikož (viz Časopis  pro pěstování mathematiky a  fysiky,   sv. XXL,  str.  177)
+00
+\
+:
+''(O),
+XII. ﻿15
+tedy
+Pro liché q máme tedy (Gauss, 1. c.)
+95 (
+'
+1
+— log
+«)
+cos
+-j-cos
+4    —-
+log j 2 — 2 cos
+4n
+log j 2 — 2 cos
+— 2 cos -
+2a
+a pro sudé ^ platí:
+
+/
+7T
+q -         cotg
+(ff—1)*
+-|-cos
+cos
+2 — 2 cos —  |-l-cos
+q)                í
+log ( 2 — 2 cos fc~2)* | — log 2
+* log (2 -
+o z cos
+r)+
+Poněvadž pro každé x jak qp (a? -|- e) tak </ (a? — «) mají pro lim f = O limity, jest funkce <j (ar) , ač jest v každém sebe menším intervallu přetržitou, integrace schopnou, jakož dokázal obecné pan G Darhoux v Mémoire sur les fonctions discontinues, Annales de 1'Ecole Normále sup., L>. Série t. IV., p. ÍM).
+8. Zakončíme nynější úvahu o funkci </ (x) tím, že dáme řadě ji definující pomocí symbolu E tvar explicitnější.
+Bud x nejprve číslem celistvým, a položme
+;/ — l Z=Q (mód. x) ,        O 5j (; < x ;
+pak z
+>
+soudíme, že
+l (mód. x) ,        O
+« — l < #
+
+Avšak vzhledem ku n   - l
+soudíme, že
+-f- ii x. kde patrně u značí A l---------|
+\     x     )
+-PŤ1)-
+čímž nalézáme pro celistvé
+co
+p
+Budiž za druhé .r racionálno a sice — , p a q celistvá nesoudélná čísla
+XII. ﻿16
+Položivše
+t. j.
+máme
+nq
+nq s= n[} q (mód. /) ,
+a soudíme právě tak, jako v předchozím případě, že
+z čehož
+0 = flj -j- flj /J | .
+i v
+X
+Máme  tedy   pro racionálně x = —   formuli
+00
+(a?) =
+l
+(
+n
+i
+'7
+zahrnující   předchozí formuli  jako   specialný případ příslušný hodnotě g Je-li konečně x hodnotou irracionalnou, soudíme z rovnice
+— n --1 x = n0 ,        O < »„
+ze
+buď platí 1 = E (H-\ , aneb
+l
++*(Ť)
+Položme
+•r-   )
+ř>o,
+i máme v prvním případě
+i      (n        \
+= — H-\-X\        — «=   —
+v*    /
+tedy   výsledek   nemožný,   pročež   nastává jen případ druhý,   tak   že pro irra-cionalné x platí formule
+oo
+I tuto formuli   lze pokládati   za specialný   případ předchozí formule, příslušný hodnotě ^=00.
+9. Budiž mi dopřáno poukázati při této příležitosti k tomu, že lze Eulerovu konstantu definovanou rovnicí
+C= lim
+M -: 00
+
+snadno vyjádřiti pomocí limit obdobných výrazu.
+XII. ﻿17
+K tomu cíli poznamenejme, že, nahradíme-li log (n -\- 1) součtem
+, patrně máme
+9                o
+log y + log '9 + . . . + loj
+oo
+C
+*lr-*í
+i
+Vezmeme-li nyní v úvahu limitu
+L = lim
+n - - oč
+v níž tf , ^   značí  dvé   dané   hodnoty, tu především snadno shledáme,  že  jest tato limita konečná a určitá.  Pišme totiž L ve tvaru
+00
+L =
+l
+;/
+a máme ihned
+bL —
+00
+n —
+*
+(* -«)
+//
++ (« - 1) b\
+v
+Rada po pravé straně konverguje   — arci za supposice, že a      (n      1) b po « = l , 2 , . . . nevymizí — a jest tedy L určité konečríč"" číslo.   Označíme-li
+součet této řady vS"" , máme pro konstantu Eulerovu výraz
+Zvolíme-li za a a b čísla racionálna, lze součet 5 vyčísliti, jakož jsem po-
+v
+drobně ukázal ve článku * Stanovení součtu jistých nekonečných řad«, Čas. pro pčstov. matli, a fys., XXI., prováděje myšlénku panem Appcll-zm vyslovenou ; pak tedy jest konstanta Eulerova vyjádřena limitou L a známým konečným výrazem. Na př. při a — l , b — 2 máme
+00
+l
+00
+l
+co
+9   V
+*•  ^J
+n =
+J.I
+2 //
+*> 1()cr •>
+-    •'& -
+-)
+a tedy
+L
+2 log 2
+'2 lim
+n -: oč
+Volíme-li c? = 2 , /; = ;>, máme (viz 1. c.)
+-í ^YS— 3 log 3) + 8
+*   \ O                        /         « —
+Kozpravy. Kočn   II. Tř. II. Č   1U2.
+Km
+l
+2
+l
+1
+XII. ﻿18
+Než výrazy pro Eulerovu konstantu   lze ještě rozhojniti. Označme //„ ra-cionalnou funkci indexu ;/ , a hleďme v limite
+L — lim
+n = oo
+..-{- un — Á log (;/ -f- l ) J
+stanoviti hodnotu P. na indexu n nezávislou takovým   způsobem,   aby L bylo určitou konečnou hodnotou. Pak patrně musí též
+L
+00
+s
+n
+býti konečná určitá hodnota, a to také stačí. Avšak, aby tato řada konvergo-
+vala,  musí obecný člen její n„
+býti lomenou funkcí indexu n , jejíž čitatel
+jest alespoň o dvě jednotky ve stupni nižší než jmenovatel, z čehož jde, že rozvoj hodnoty //„ dle klesajících mocností indexu jest tvaru
+a,
+Značí-li tedy
+,5 — 1
+n
+libovolnou ryze lomenou funkci indexu ;/, jejíž čitatel však jest zrovna o jed notku v stupni nižší než jmenovatel, máme rovnici
+
+n ~ J
+*
+čímž Kulérová konstanta  C vyjádřena  limitou L a součtem   / , -\un
+^J l
+Tento součet lze ale vždy vyčísliti, kdykoli má rovnice
+« i
+*
+vesměs reálné racionálně a různé kořeny, aneb též kořeny dvojné celistvé aneb různící se o --— od celistvých čísel, jakož z citovaného pojednání patrno. V těchto
+M
+případech jest tedy C vyjádřeno limitou L a známým zakončeným výrazem.
+XII. ﻿Sur une fonction discontinue.
+Dans cette notě je construis une fonction g (x) de la variable réelle x, con-tinue pour toutcs les valeurs irrationnelles de #, qui, pour les valeurs ration-nelles n'est continue que relativement aux accroissements positifs de #, et discontinue relativement aux accroissements ncgatifs. On trouve aisément de telles fonctions á 1'aide ďune méthode donnée par Hankcl*) et généralisée par M. G, Cantor;**} notre fonction cepcndant présente quelque intérét en ce qiťon peut 1'évaluer, pour tout argument rationnel x, á 1'aide de fonctions élémentatres souš formě finie, et qu'on peut, ďune maniere analogue, évaluer ]a différence </ (x — O) — qp (x) .
+On parvient a cette fonction, si l'on cherche de déduire la formule de Cauchy rclative a la fonction /"""", qui généralise une formule analogue due a /;>//řV, en faisant usage de la formule de M. Wcierstrass, qui exprime l : F(x) souš formě ďun produit de facteurs primaires.
+En cffet, /• étant un entier positif, on voit de suitě que le quotient de r(x) par le produit
+r
+est de la formě ÍG(X) , G désignant une fonction entiére, ce qui donne
+A'— l     OČ
+nn
+X
+r
+G (x)
+\
+-k+k* -x\r~k\
+_____L                 kn
+kn             C               l
+oo
+n
+71-1
+_    1
+fL     ' H
+n
+(   est la constante ďEuler. Si l'on pose
+/>,. = /-;/-|-r--/*+ 1   ,
+::) Dini\ Fondamenti par la tt-orica clelle ťunzioni cli variabili rcali, Pisa JíST»S, p. l;!5.
+•*• *'-                                                        • ^ •
+'•') Cr\ Cantor, Uber ein neues und alli;emeines Condensationsprincip der Sin^ularitáten voň Punctioncn, Math. Ann. XIX. pa^ r>ss.
+XII. ﻿1'entier />,. prend les valcurs »• -\- \ ,   »• -f- 1 -j- /•,   r -\- \ -|- 2 /',... et l'on a
+•G
+c
+(k-   \)C
+""2
+k     \
+x - - 1
+e
+x -f- y   - k
+!    A'       'V --- l
+La dérivée logarithmique de ce produit est la constanle
+A-     l
+l
+1
+ďoů
+G (x) = ax-\- a i ,
+ť-tant  une nouvelle constante. Metlant kx a la pláce de x, il vicnt
+et cominc on trouve facilement a = log /* , on a pour le logarithme néperien
+de tout entier positiť /' l'expression
+*--!
+V
+i
++
+rr
+qu'on peut écrire
+
+log Ir = V l— —
+l ;/
+;/0 désignant le résidu minimum positif de — // , mód. /'.
+Soit niaintenant .r une quantité positive quelconque, et posons
+ro
+l
+71         l
+ou //() est déftni analoguement  j>ai
+( ) < //0 < a: ,
+/. entier ;
+la fonction </ (x) jouira děs propriétés mentionnées ci-dessus.
+Si 1'on designe par />, </ deux nombres entiers positifs et premiers entre eux, on trouve
+• (f) = ""*
+désignant la fonction  '      *   A_lLl_./ c^ /i(a?) le plus grand entier con-
+(l tÁ/
+tenu dansrr. Comnie la diftérence  'l'(x) — '/''(<>)» Pour toute valcur rationelle
+XII. ﻿21
+de x,   peut étre  évaluée souš formě finie á 1'aide   ďune formule   donnée par Gauss, '/ (        )  se trouve exprimée de la méme maniére.   On trouve de plus
+lim
+p
+/
+ďoíi l'on conclut, ďaprés un théoréme de M. Darboux*} que la fonction <j (x) est intégrable.
+La notě est terminée par cette remarque, qiťon peut obtenir la constante ďEuler a 1'aide de la limite trés-générale
+= lim í//. -f- 7/0 -f-.    . un — /. l o"";,
+-                     '*                 O
+oíi //« designe une fonction rationelle řractionnaire de n , assujettie á cette con-dition que le degré de son dénominateur surpasse ďune unité celui du nomi-nateur, et que les racines du dénominateur soient toutes ínégales et rationelles. En effet, ayant
+<ui
+u
+u
+00
+a
+,
+l
+on trouve, si l'on prend  /.
+L-
+la somme á droite pouvant étre évaluée, selon une remarque de M. App<. //,*•) en termes finis.
+''; Darboux, Mémoire sur les fonctions discontinues, Ann. de 1'Ec. normále sup., *2. série IV, p. ÍJO.
+*) Appell, Sur quelques applications de la fonction P(x) et ďune autre fonction trans-cendante, Comptes Rendus, t. LXXXVI, p. ííoo.
+Rozpravy.   Ročn.  II.  Tř. II.  Č.
+3
+XII. ﻿*"

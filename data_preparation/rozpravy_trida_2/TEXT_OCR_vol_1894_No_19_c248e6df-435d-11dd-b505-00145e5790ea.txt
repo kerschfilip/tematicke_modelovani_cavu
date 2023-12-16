@@ -1,0 +1,73 @@
+"","x"
+"1"," ﻿ROČNÍK III.
+TŘÍDA II.
+ČÍSLO 19.
+Kinetický způsob sestrojování tečen a středů křivosti křivek 2. stupně.
+Napsal Bedřich Procházka
+Předloženo  dne   1.   května
+r
+Účelem této práce jest zužitkovati základní věty geometrie kinetické ke konstrukci tečen a oskulačních kružnic ku křivkám 2. stupně daným pěti body. Co se tkne konstrukce tečen, možno ji pokládati za applikaci známých již vět,*) avšak s principem, na jehož základě sestrojujeme kružnice oskulační, nesetkali jsme se posud nikde v literatuře.
+1. Sestrojení tečny ku křivce 2. stupně.
+Předpokládajíce, že křivka 2. stupně K jest určena pěti body a že jde o tečnu v jednom z nich, pokládáme dva z těchto bodů za středy !j a <2s projektivných svazků, určených třemi družinami paprskovými 1A*A, !/>a/> a *C*C, jež stanoveny jsou ostatními třemi danými body a,b,c křivky K.
+Abychom sestrojili co nejvýhodněji tečnu v bodu a křivky K, protněme svazek ls přímkou ^P~~^At svazek 2j přímkou *P^ A.
+Vzniklé tím řady bodové  la
+*a ^b V ... na přímkách lPt -P jsou
+perspektivné; sdruženými body řad dány jsou paprsky  'L *L=*/?,  Íc9c---Ct...
+jistého svazku s.
+Užívajíce těchto svazků, mohli bychom sestrojiti celou křivku K, kteráž obsahujíc daných pět bodů dotýká se ve středech lsa *s paprsků 1G a u/s odpovídajících paprskům ""G a V*', jež se stotožnují s přímkou ls <2j. Tečny 1G a V*' procházejí středem s.
+Tečnu T v bodě a křivky A. 2. stupně sestrojíme ustanovíce směr, kterýmž se pohybuje bod a za vytvořování křivky. Předpokládejme, že bodu a příslušící paprsek A svazku s otáčí se určitou rychlostí, vyjádřenou rychlostí a t bodu a kolmou k tomuto paprsku. Zvolíce tuto rychlost jakkoli, odvodíme rychlost a*n, kterou se pohybuje bod a v přímce '/* tím, že vedeme bodem / přímku R || ^4,**j kteráž protíná přímku 1P v bodě '//.
+Táž rovnoběžka A* určuje na přímce *P z týchž důvodů rychlost a*u, kterou se pohybuje bod a v přímce 1A~~ *P.
+'•'•'-) »Lchrbuch der Kinematik* voň Dr. L. Burmester, I. Band, 1. Lieferung, 1SSS, pag. .r)0. **) Tamtéž, pag. <»1.
+XIX ﻿2
+Úhlopříčka av rovnoběžníka, sestrojeného z obou rychlostí alu a aliet určuje směr pohybu průseku a a tudíž i tečnu T. *)
+Konstrukce tečny záleží tedy v tom, že sestrojíme libovolnou rovnoběžku R s přímkou A a nad vzniklými úsečkami alu a a*u rovnoběžník, jehož druhá úhlopříčka av jest tečnou žádanou.
+Také však můžeme sestrojiti libovolnou rovnoběžku A' s přímkou 1A, kteráž protíná paprsek A v bodě /, paprsek >1A v bodě '// a přenésti délku '/// na opačnou stranu bodu ';/, čímž obdržíme bod v tečny T.
+Ze konstrukce tato nalézá potvrzení svého i v novější geometrii, patrno z harmonické polohy přímek }A, ZA, A, T.
+2. Sestrojení středu křivosti v bodn křivky 2. stupně.
+Znajíce směr i rychlost pohybu průseku a paprsků 1A a *At můžeme kinetickým způsobem sestrojiti i střed křivosti křivky 2. stupni* uvedeným způsobem vytvořené.
+Pohybuje-li se nějaký bod a v křivce kruhové O o poloměru « stálou rychlostí w, jest rychlost úhlová g, kterou se otáčí poloměr a tudíž i tečna T v bodě a této křivky:
+Známe-li v jistém bodě a libovolné křivky K poloměr křivosti, t. j. poloměr f> příslušné kružnice oskulační (2, jakož i stálou rychlost w, kterou se bod ten pohybuje na křivce, můžeme dle vzorce (1) stanoviti úhlovou rychlost otáčení q jeho tečny T. Je-li však dána rychlost M bodu a a rychlost otáčení jeho tečny, lze naopak stanoviti poloměr křivosti «.
+Dejme tomu, že bod a křivky K má v tečně T vyznačenou rychlost « = av, a že rychlost otáčení tečny této dána jest rychlostí rs =. vq J_ T bodu jejího v\ pak jest úhlová rychlost otáčení r/ tečny dle vzorce (1):
+(2)
+Dosadíce  hodnotu  za </  z tohoto vzorce  do  rovnice   (1),   obdržíme pro poloměr křivosti křivky K v bodě a výraz:
+na jehož základě sestrojíme střed křivosti O křivky K jakožto průsek normály A7, v bodu a ku křivce této sestrojené, s kolmicí, spuštěnou s bodu v na přímku aq.
+3. Střed křivosti O, příslušící bodu a křivky K, lze také stanoviti způsobem kinetickým jakožto okamžitý střed otáčení příslušné tečny 7', kteráž se současně rychlostí av v sobě pošinuje a jejíž bod v se rychlostí vq J_ i otáčí.
+Za tím účelem musíme znáti směr pohybu jejích dvou bodů. Směry ty ustanovíme pro bod dotyčný a a pro bod v. Poněvadž rychlost otáčení bodu a
+*) Tamtéž na str. 57 uvedená konstrukce na základe kolmých rychlostí vede k témuž cíli.
+XIX ﻿3
+rovná se nulle,*) bude směr pohybu bodu a dán tečnou T. Směr výsledného pohybu bodu ?', šinoucího se v tečně T rychlostí ví'= av a otáčejícího se rychlostí vq, bude určen úhlopříčkou v k rovnoběžníka qvlk. Kolmice ao J_ &v a vo .L vk protínají se v okamžitém středu otáčení jakožto středu o křivosti. Zároveň patrno, že jest vo také kolmá ku přímce aq, a můžeme ji také na tomto základě sestrojiti jako dříve.
+4. Výsledku tohoto, odvozeného pro libovolnou křivku, itzijcm ku stáno-Vítů středu, křivosti křivky 2. stupnč urccnc pČti body.
+Jak jsme poznali, jest nám k tomu znáti rychlost pohybu bodu dotyčného v příslušné tečně a rychlost otáčení této tečny.
+Rychlost pohybu bodu dotyčného umíme dle článku 1. sestrojiti co do směru i co do velikosti; zbývá nám tudíž jen stanoviti rychlost otáčení jeho tečny.
+Předpokládajíce opět, že jest křivka 2. stupně dána pěti body, postupujeme jako ve článku 1.: zvolíme dva z těchto bodů za středy ]s'2s projektiv-ných svazků, jež protneme přímkami *A }P, 1A-—*P a sestrojíme střed s pomocného svazku třetího.
+Abychom tečnu T v bodě a sestrojili, užijme druhé konstrukce uvedené ve článku 1.; rovnoběžku A s přímkou 1A neveďme však jakkoli, nýbrž sestrojme ji bodem /, v němžto paprsek A seče přímku 1s aj; jest-li u průsečík dotčené rovnoběžky s přímkou *A, učiňme uv = — ?</>, čímž stanoveny směr a rychlost a v bodu a, pohybujícího se v tečně T.
+Pohybuje li se bod a v křivce, bude se paprsek A otáčeti kol středu j, tečna T kol bodu a tak, že body / a v se budou pošinovati v přímce A' stejnou rychlostí v protivných směrech.
+Jelikož rychlost otáčení paprsku A jest dána rychlostí av = M bodu a v tečně 7] lze určiti i rychlost bodu / v přímce A a tím rychlost bodu v v téže přímce.
+Z rychlosti av bodu á v tečně T se pohybujícího odvodíme si paprskem sv rychlost /;// bodu p v přímce T || T\ z rychlosti pm bodu/ v přímce T odvodíme pak rychlost jeho p n v přímce A\ sestrojíce bodem m přímku um || A. Jelikož se bod v pohybuje v přímce A' touž rychlostí jako bod /, avšak ve směru protivném, obdržíme, sestrojíce vr=—/;/, rychlost vr bodui' ve směru přímky A'**) Z rychlosti této odvodíme rychlost otáčení vq bodu tečny /"" (kolem bodu //i, když kolmici, v bodě v k tečně T vztyčenou, omezíme přímkou, vedenou bodem r rovnoběžně s přímkou T.
+*) Tamtéž, pag. 'JI.
+:;::;:/ Že uvedené konstrukce středu křivosti lze užiti jen tehdy, když přímka A' vedena bodem />, plyne z důvodu následního:
+Při pohybu bodu a v tečně T točí se přímky A, *A, a.-l a proto i přímka A' okolo bodu /». Bod // jakožto průsek točících se přímek A' a 2-J pohybuje se — vzhledem k podobnosti trojúhelníků ls*sa a p-sti —ve směru rovnoběžném s přímkou T.
+Toto šinutí bodu // ve směru tečny nijak nemění naši konstrukci středu křivosti, která by vsak přestala býti správnou, kdybychom přímku A' vedli jiným bodem přímky A.
+XIX. ﻿Znajíce rychlost otáčení (T = vg bodu v tečny T a rychlost postupnou ca = av bodu a v tečně, sestrojíme dle článku 2. střed křivosti o křivky K jakožto průsek kolmice, vztyčené v bodu v ku přímce tig, s normálou N^ sestrojenou v bodě a této křivky.
+5. Reciprokými úsudky přicházím* ku kinetickému způsobu konstrukce dotyčných bodu a středu křivosti křivek 2. třídy.
+Sestrojení bodu dotyčného kfivky 2. třídy.
+Předpokládejme, že jest křivka '2. třídy K určena svými pěti tečnami. Dvě z daných tečen pokládejme za spojnice 1S a *S projektivných řad bodových, určených třemi družinami bodovými ía V, 'L *b a V V, jež stanoveny jsou ostatními třemi danými tečnami A, /?, C křivky K.
+Abychom také zde sestrojili co nejvýhodněji dotyčný bod / tečny A s křivkou K, promítněme řadu 1S s bodu }p V, řadu ~S s bodu 2/~ ta. Vzniklé tím svazky VI V> '6\ . ., *A*fi*C... o středech '/ a ""p jsou perspektivné; sdruženými paprsky svazku dány jsou body '/> *B~ b, *C*C--- c,. . -jisté řady bodové i"".
+Užívajíce těchto řad mohli bychom sestrojiti celou křivku K, kteráž, dotýkajíc se daných pěti tečen, obsahuje body ^ a *f, odpovídající bodům *g a '/ stotožňujícím se průsekem / spojnic *S a <2S. Body *g a ""/ určují přímku .S.
+Dotyčný bod / tečny A s křivkou 2. třídy K sestrojíme jakožto okamžitý střed otáčení přímky A za vytvořování křivky. Předpokládejme, že bod průsečný a paprsku 1A s přímkou .V se pohybuje určitou rychlostí až v této přímce. Zvolíce tuto rychlost jakkoli, odvodíme rychlost, kterou se otáčí paprsek 1A bodem a procházející kolem bodu '/» jestliže stanovíme rychlost otáčení alt jeho bodu a omezíce přímku ah J_ 1A přímkou zh || VI. Z rychlosti bodu a tohoto paprsku odvodíme rychlost lai jeho bodu la tím, že kolmici lai v bodě la vztyčenou omezíme přímkou h*p. Tím také známe již rychlost bodu la přímky A, která se stotožňuje co do polohy s přímkou 1A, ačkoliv se stáčí kol dosud neznámého bodu t. Zrovna tak určíme rychlost *aj bodu 2# této přímky A, když kolmici *aj v bodě <2a k tečně A vztyčenou omezíme přímkou ía/i.
+Průsek přímky ij s přímkou A jest oním bodem této přímky, jemuž náleží rychlost otáčení rovná nulle, kterýž jest tedy jakožto její okamžitý střed otáčení jejím dotyčným bodem /. Konstrukcí touto však docílíme nejen bodu dotyčného, nýbrž i rychlosti otáčení tečny A kol tohoto bodu. Rychlost ta jest vyjádřena buď: rychlostí otáčení lat bodu la, buď rychlostí *aj bodu >2a aneb rychlostí al bodu a, kterou obdržíme, jestliže kolmici v bodu a ku přímce A vztyčenou omezíme přímkou ij.
+Z konstrukce této zároveň patrno, že sestrojujíce rychlost *aj můžeme na místě přímky lah vésti přímku ia, určující v přímce *ak _L A bod k a učiniti pak *aj= — *ak.
+V podstatě stejnou bude konstrukce bodu dotyčného /, jestliže místo rychlosti otáčení bodů a, \i a *a přímky A užijeme rychlosti, kterou se po-
+XIX. ﻿hybují v přímkách rovnoběžných, libovolně body těmito vedených. Zvlášť jednoduchou stane se tato druhá konstrukce bodu dotyčného, jestliže body a, *a vedeme přímky A', 1R rovnoběžně s přímkou *S, a za rychlost bodu a v přímce R zvolíme délku as, kterou přímka ""S v přímce K určuje.
+Sestrojíme-li bodem *a přímku A?' || 1S\ kteráž přímku P~~pa v bodě ;// protíná, a učiníme-li *an = — *aw, pak přímka V^-pn protíná tečnu A v bodu hledaném /.
+Užívajíce této druhé konstrukce bodu dotyčného vidíme, že když se tečna A pohybuje, zůstávají přímky !5 a ""S stálými, přímky P a V se však otáčejí tak, že body m a n se pohybují v přímce R' stejnou avšak protivnou rychlostí.
+Ze konstrukci tuto potvrzuje i novější geometrie, patrno z harmonické polohy bodů *a *aat.
+6. Sestrojení středu křivosti křivky 2. třídy.
+Znajíce bod dotyčný / tečny A a její rychlost otáčení, můžeme kineticky sestrojiti i střed křivosti křivky 2. třídy uvedeným způsobem vytvořené.
+Jak ze článku 2. patrno, bude nám sestrojiti ještě rychlost, kterou se po-šinuje bod dotyčný / v tečně A, jelikož rychlost otáčení této přímky již známe.
+Otáčí-li se tečna A kol bodu /, bude se také tento bod šinouti, jakož i bod a v přímce A. S pohybem tím však souvisí otáčení paprsků jimi procházejících V a P, kteréž se děje tak, jak jsme v předcházejícím článku poznali, že jejich průseky ;/ a m s přímkou R' se pohybují stejnou rychlostí, avšak v protivných směrech.
+Ze známé rychlosti otáčení al bodu a přímky A odvodíme rychlost ar bodu průsečného a šinoucího se v přímce »$"".
+S pohybem bodu a v přímce „V souvisí otáčení paprsku P a tudíž i rychlost mu bodu ;;/ v přímce R\ Rychlost tuto obdržíme, jestliže, odvodivše si pomocí přímky rs || P rychlost as, kterou se bod a pohybuje v přímce A* (bodem a ku přímce 1S rovnoběžné vedené), protneme přímkou ps přímku A"" v bodě u.
+Jelikož rychlost bodu ;i, t. j. ?/?'——;////, možno určiti i rychlost /Ir, kterou se pohybuje bod / v přímce A'"" || 1S tím, že tuto rovnoběžku omezíme paprskem vp. Scstrojíme-li konečně bodem .r rovnoběžku P s přímkou /', odetne nám tato na tečně A úsečku /r, představující rychlost bodu / v této přímce.
+Na základě známé rychlosti otáčení tečny A a sestrojené rychlosti šinutí jejího bodu dotyčného / sestrojíme střed křivosti způsobem uvedeným ve článku 2.
+XIX. ﻿*"

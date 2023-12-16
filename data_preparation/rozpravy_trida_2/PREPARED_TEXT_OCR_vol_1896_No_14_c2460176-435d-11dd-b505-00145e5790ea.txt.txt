@@ -1,0 +1,3551 @@
+"","x"
+"1"," ﻿ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO 14.
+
+
+Různé výsledky theorii funkce gamma.
+
+
+Sdílí Lerch. Předloženo dne 28. února 189G.
+
+
+
+
+
+poslední naší práci*) vyskytla příležitostí odvození vzorce
+
+
+(1) log sin .e~<íuxni
+
+
+něhož zde chceme vyložiti některé důsledky.
+
+
+Nejprve udělme tvar poněkud přehlednější
+
+
+
+
+
+log sin
+
+
+
+
+
+něho/ použitím substituce lze obdržeti vzorec následující
+
+
+(2a)
+
+
+
+
+
+log sin cos 2x7i)un
+
+
+
+
+
+smun r'(w)~l
+
+
+log r'(l)+ cot;/7r-f
+
+
+/X//)
+
+
+Sur differentiation ďune classe séries trigonométriques (Annales scientifiques 1'Ecole Normále Supérieure, 3™e série, tome XII, 1895). Před tím předložil Hermite akademii véd čásf dopisu obsahující hlavní kusy. Český výklad bude uveřejněn Věstníku.
+
+
+Rozpravy. Ročn. Tř. II.
+
+
+XIV. ﻿dosadímeli sem 2z, vyjde tvar
+
+
+(2b)
+
+
+
+
+
+
+
+
+\ogcoszyr.cos2uzfidz
+
+
+
+
+
+sin
+
+
+___ íos
+
+
+Tuto rovnici lze psáti
+
+
+2?tn log cos cos
+
+
+cot
+
+
+cot
+
+
+přetvořili pak levá strana částečnou integrací, obdrží vzorec
+
+
+(3)
+
+
+(sin
+
+
+sin C2uzn) taň
+
+
+sin lín
+
+
+sin
+
+
+jeho základě chceme nanovo dokázati rovnici, kterou jsme dříve jiným způsobem vyvinuli str. 55. naší rozpravy »DalU studie oboru Malm-sténavských řad**}
+
+
+Znamenámeli levou stranu F(it) vůli pohodlí prvý člen levé straně literami /""(»), bude existovati rozvoj trigonometrický
+
+
+
+
+
+F(u) (tv sin
+
+
+platný podmínky němž součinitelé jsou dáni vzorcem
+
+
+
+
+
+f(u) sin
+
+
+čili
+
+
+
+
+
+•=. /(//) sin
+
+
+sin sin run
+
+
+
+
+
+
+
+
+tyto součinitele nám právě běží. máme nejprve
+
+
+/(«) sin taň sin (sin sin %uzn)
+
+
+Rozprav Ak. II. třídy ročník III., číslo 28.
+
+
+XIV.
+
+
+chceme tento integrál stanoviti nejprve případě bude
+
+
+sin sin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sin sin
+
+
+sin sin -4-
+
+
+
+
+
+takže nacházíme výraz
+
+
+
+
+
+f/(») sin *«»</« 1)""2 Cí—jI—-f-
+
+
+jejž třeba ješté přetvořiti. tím účelem vložme sem sin2L7r hodnotu y(l—cos2^r^), čímž náš výraz, uvažovaný integrál
+
+
+
+
+
+!/(//) sin
+
+
+
+
+
+vyjadřující, obdrží tvar
+
+
+cos
+
+
+
+
+
+
+
+
+
+
+
+První integrál hodnotu
+
+
+druhé dva přetvořme substitucemi r-\-(2z 2x, resp. 2-cr 2ff, načež spojme jediný; obdržíme tak
+
+
+r+J
+
+
+*+l
+
+
+/oi --- i** __Inrr
+
+
+---
+
+
+
+
+
+cos
+
+
+zbývá jen vhodným způsobem upraviti integrál
+
+
+
+
+
+sin sin vun
+
+
+
+
+
+
+
+
+XIV. ﻿aby obdržela veličina tvaru zakončeném. tomu cíli položme
+
+
+
+
+
+
+
+
+(b) sin
+
+
+
+
+
+
+
+
+takže hledaný integrál splývá krajní hodnotou
+
+
+lim
+
+
+Patrně máme
+
+
+
+
+
+^y^(v-\)un(^
+
+
+tyto integrály přetvořme substitucemi resp. -f- čímž vzniknou tvary
+
+
+y-l
+
+
+
+
+
+------TT COS
+
+
+známým ^způsobem možno tyto integrály sloučiti tvar
+
+
+í/ÍC
+
+
+y—l
+
+
+
+
+
+COS
+
+
+
+
+
+němž přechod krajní hodnotě snadný. Neboť máme
+
+
+cos
+
+
+
+
+
+kde g>(#) jest ustavičně konečné, dle toho bude
+
+
+y+l y+1
+
+
+~9—
+
+
+
+
+
+cos 2a:^ log
+
+
+takže vychází
+
+
+v-\ ~2~4
+
+
+
+
+
+lim -i- *=o
+
+
+
+
+
+—!Og-*
+
+
+čili
+
+
+y—l
+
+
+
+
+
+
+
+
+
+
+
+Q~- \smnns\\\viin log
+
+
+cos
+
+
+
+
+
+XIV.
+
+
+﻿Dosadímeli nyní vzorce
+
+
+Cly ---
+
+
+hodnotu právě nalezenou výraz (a) Jr. obdržíme
+
+
+bude
+
+
+
+
+
+din dí„ log
+
+
+
+
+
+náš rozvoj bude zníti
+
+
+
+
+
+F(ii) sin -\- log sin -j-
+
+
+takže zbývá pouze ještě určiti konstantu al. tomu cíli vložme sem rovnici tak získané
+
+
+vyjadřme ^""(-j) pomocí pravé strany rovnice (3), jež
+
+
+log r'(l) log
+
+
+zároveň vyčísleme řadu pravé straně; vyčíslení její podaří pomocí identity
+
+
+
+
+
+kterou lze psáti
+
+
+níž plyne
+
+
+Nekonečný součin tento určí podle vzorce
+
+
+fl(-í)
+
+
+sin
+
+
+hodnotu takže vychází
+
+
+
+
+
+•'+i
+
+
+xiv. ﻿máme tedy log log log takže náš rozvoj bude ko-
+
+
+
+
+
+nečně zníti
+
+
+F(u] log sin -f- log j—-j- sin -f-
+
+
+tak doká/áno prostředky počtu integrálnímu nejvlastnějšími, mezích <^u existuje rozvoj
+
+
+(4)
+
+
+sin
+
+
+COS
+
+
+l°g sin -j-
+
+
+tí-~ —l—
+
+
+Způsob vyčíslení konstanty #,, který jsme právě vyložili, jest něco rychlejší než způsob přímý, který tím ale nikterak nepozbývá zajímavosti. Podržímeli totéž označení F(s) f(z) jako předešlém odstavci, obdržíme nejprve pro integrál
+
+
+(«) sin í///
+
+
+vyraz
+
+
+čili
+
+
+sin cos
+
+
+taň
+
+
+
+
+
+
+
+
+sin2^^
+
+
+U^tan(a^ -í~-^
+
+
+
+
+
+bude třeba zavésti výraz
+
+
+sin «?r A^t taň -J--------------j—
+
+
+
+
+
+
+
+
+aby vypočetl integrál jest nejprve
+
+
+lim l-l
+
+
+taň log cos
+
+
+
+
+
+výraz
+
+
+sma5 ~^~-
+
+
+XIV. ﻿i-l
+
+
+
+
+
+------75- COS 2X71-------,
+
+
+
+
+
+lze uvésti tvar
+
+
+takže nacházíme pro integrál následující vyjádření
+
+
+
+
+
+T~~
+
+
+-i—-r log cos
+
+
+4-4-1
+
+
+cos 2#*r------.
+
+
+i-*
+
+
+
+
+
+cos2a;7r--;
+
+
+Zde položme upravme výraz jak následuje
+
+
+sindn
+
+
+Ari,,,^ -log --I0g(l— -logí
+
+
+
+
+
+odtud patrné, bude
+
+
+«7, lim log -p- lim log -f~ cos 2a?^
+
+
+1=^ á=0
+
+
+Veličina dle toho dána výrazem
+
+
+log -L- lim log -\- cos 2xn
+
+
+
+
+
+sm*U7i-----.
+
+
+
+
+
+Píšeli poslední integrál tvaru
+
+
+
+
+
+lim
+
+
+sm2U7i——=—Y Úl__ \——
+
+
+
+
+
+
+
+
+í/7/
+
+
+-rr lim log cos 2ua
+
+
+2<5
+
+
+vychází bezprostředné výsledek
+
+
+log
+
+
+Vyjádřímeli součinitele trigonometrického rozvoje (4) jiným způsobem, vyskytnou někdy zajímavé tvary integrální. Hledejme př. integrál
+
+
+
+
+
+sin --1J- sin
+
+
+r(u)
+
+
+tím způsobem, jej pomocí výrazu
+
+
+
+
+
+[cos cos (n~\-\} un\ ť/log F(u)
+
+
+XIV.
+
+
+částečnou integrací uvedeme tvar
+
+
+
+
+
+
+
+
+log F(u) sin
+
+
+:„=:(» —l)ff
+
+
+znamenámeli
+
+
+obdržíme
+
+
+-j- log r(ii) sin -\-
+
+
+log r(u) sin
+
+
+sin
+
+
+bude tedy potřebí znáti pouze integrály AK. obdrží pomocí vzorce Cauchyova
+
+
+
+
+
+výraz je'zvláště jednoduchý případě sudého pro lichá pak bude
+
+
+4»=
+
+
+Dosadímeli integrálu obdržíme výraz
+
+
+(5) t±l( *'- -LL_)
+
+
+""t ""* }e*""—l lii+Í T^fl?)
+
+
+Integrál tento podaří vyčísliti pomocí vzorce
+
+
+
+
+
+
+
+
+jenž vznikne známého vzorce Binetova derivováním dle tomu cíli upravme integrál (5) jak následuje
+
+
+
+
+
+í<:
+
+
+g""
+
+
+
+
+
+'""
+
+
+
+
+
+
+
+
+
+
+
+(**+*f)(*""-l)
+
+
+f______x
+
+
+(žrt *«)(f
+
+
+1)'
+
+
+
+
+
+XIV.
+
+
+Zavedemeli posledních dvou integrálech gx, resp. g'x jako integrační proměnné, vyčíslímeli integrál první, obdržíme výraz
+
+
+
+
+
+js___„ f______xdx_____
+
+
+(l+x*)(ee*»
+
+
+ffg>xn
+
+
+
+
+
+jenž dle citovaného vzorce hodnotu
+
+
+Cř^) í^"""" (»<L"") —i-----1— —r~r
+
+
+Volímeli zde g=2n -\- vychází
+
+
+Z,2„
+
+
+čemž možno pomocí vzorce (4) přímo přesvědčiti. Kdybychom podobným způsobem hledali integrál
+
+
+
+
+
+
+
+
+obdrželi bychom vzorec
+
+
+který již Hermite poukázal.*)
+
+
+Nejjednodušší přímé jeho odvození plyne ovšem pomocí identity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+poněvadž při
+
+
+
+
+
+Vzorec (2a) vybízí svojí formou studiu integrálu
+
+
+log sin sin
+
+
+Rozprav II. třídy ročník III., číb. 28.
+
+
+XIV. ﻿10
+
+
+jejž znamenejme </>(#). Jeho vyčíslení podaří použitím týchž pomůcek jako při integrálu (1). Pomocí vzorce
+
+
+
+
+
+cos 2nxn
+
+
+logsm.r;r log (0<*<l)i
+
+
+«-j
+
+
+
+
+
+obdržíme nejprve
+
+
+ofi COS(1 —2*)«II
+
+
+log sin sin log .------
+
+
+
+
+
+
+
+
+2»*
+
+
+
+
+
+l)n COS(K—
+
+
+
+
+
+cos
+
+
+
+
+
+pokud značí kladnou reálnou veličinu. této rovnici pravá strana konverguje stejnoměrně vůči všem reálným <?, její limita pro obdrží pouhým dosazením hodnoty máme tedy
+
+
+
+
+
+COS ?/7ir ----
+
+
+log sin sin log
+
+
+
+
+
+
+
+
+2nn Znamenámeli vůli stručnosti
+
+
+1)M cos?/» l)n u-\-n~
+
+
+obdržíme
+
+
+cos
+
+
+
+
+
+log
+
+
+Užijeli rovnic
+
+
+""""
+
+
+jakož vztahu Legendreova
+
+
+XIV. ﻿11
+
+
+obdržíme
+
+
+log sin sin -\-
+
+
+sinv
+
+
+
+
+
+„un (u\
+
+
+—------sin-8 -s-y( -s-)
+
+
+\2J
+
+
+cos
+
+
+log
+
+
+cos
+
+
+sin
+
+
+Pomocí substituce lze levé straně uděliti tvar
+
+
+
+
+
+(u*)
+
+
+
+
+
+log cos sin 2sun ds-{-
+
+
+Ín2
+
+
+sin
+
+
+Násobímeli tento výraz veličinou přetvořímeli jej částečnou integrací, obdržíme
+
+
+(7)
+
+
+
+
+
+(cos Vznít cos taň
+
+
+sin'J
+
+
+cos -f- sin
+
+
+
+
+
+sins
+
+
+Znamenejme prvý člen levé strany f(u), celou levou stranu pak F(u) stanovme koefficienty rozvoje trigonometrického
+
+
+
+
+
+/?(«) ,.+
+
+
+
+
+
+cos
+
+
+pokusme vyčíslení integrálů
+
+
+
+
+
+
+
+
+cos
+
+
+
+
+
+
+
+
+sin2-^-Poněvadž A(//) =/(u)--------------, bude nám nejprve stanoviti integrály
+
+
+
+
+
+«7V /^(w) cos
+
+
+Užijemeli tvaru (7), obdržíme případě především
+
+
+XIV. ﻿12
+
+
+kterýžto výraz lze uvésti tvar
+
+
+±zdz
+
+
+cos
+
+
+
+
+
+provedouli dvou posledních integrálů substituce 2x. resp. -f- obdrží
+
+
+(a)
+
+
+
+
+
+—5—fylooa
+
+
+
+
+
+
+
+
+ť/JJ
+
+
+------TT COS
+
+
+
+
+
+Zbývá ještě vyčísliti integrál
+
+
+sin2 «""
+
+
+cos vun
+
+
+
+
+
+ten pišme především tvaru
+
+
+cos vun cos (v-\- cos V)un
+
+
+aneb což totéž jest
+
+
+
+
+
+
+
+
+
+
+
+lim
+
+
+
+
+
+COS COS -f- COS
+
+
+
+
+
+Substitucemi -f- 2x, \)u vznikne odtud krátké redukci
+
+
+v-f
+
+
+
+
+
+lim
+
+
+-„- cos 2#7r----------^ cos 2xn-----
+
+
+
+
+
+
+
+
+cos
+
+
+y-\.
+
+
+čímž dospíváme výsledku
+
+
+
+
+
+cos vun
+
+
+
+
+
+
+
+
+XIV.
+
+
+
+
+
+Dosadímeli výrazu
+
+
+
+
+
+
+
+
+=J>-2]-^r
+
+
+cos
+
+
+hodnotu (a) nalezený právě výraz druhý integrál, obdržíme
+
+
+1)""
+
+
+^_____L______Ificr_______
+
+
+lug
+
+
+
+
+
+čili
+
+
+zbývá jen určiti ještě <:,. Pro první konstantu máme
+
+
+
+
+
+
+
+
+Psin2'
+
+
+y^du~ \—^
+
+
+
+
+
+poněvadž jak snadno shledáme
+
+
+vychází což ostatně také lze dokázati substitucí hodnoty rovnice
+
+
+F(u) -|- cos -|- cos 3un-\-c& cos 5un-\-
+
+
+Řada tato konverguje absolutně proto také stejnoměrně místě obdržíme
+
+
+^W= ťl+^3+^ ""-
+
+
+poněvadž ^(0) =0, vychází
+
+
+
+
+
+čili
+
+
+
+
+
+
+
+
+témuž výsledku bychom ovšem také dospěli přímo. Úvahami předešlými dokázán vzorec
+
+
+-//i\
+
+
+(1) log cos -\- sin -\- sin2 -----
+
+
+(8)
+
+
+cos""
+
+
+
+
+
+platný podmínky
+
+
+xiv. ﻿14
+
+
+Derivujemeli obě strany, obdržíme podmínky log —----F9 (1) sin -|- cos -\- sin (u)
+
+
+(9)
+
+
+sma——
+
+
+
+
+
+COSJ
+
+
+'•m
+
+
+Pro výraz
+
+
+
+
+
+
+
+
+ií»
+
+
+hodnotu
+
+
+čili (10)
+
+
+(-1)""
+
+
+
+
+
+•••»»*', l,JF,»..^
+
+
+Volímeli tedy rovnici (9) •=•, obdržíme vzhledem známé okolnosti
+
+
+(u)
+
+
+
+
+
+log *'- 1)« log----^f—
+
+
+i)2
+
+
+čímž pro neznámou dosud své arithmetické povahy konstantu <r2 docíleno nového vyjádření.
+
+
+Pravou stranu lze psáti také následujícím způsobem poněkud přehlednějším
+
+
+
+
+
+Vzorec (2a) článku pišme
+
+
+
+
+
+(u] log sin cos
+
+
+při čemž *(») znamená výraz ... s'n
+
+
+rif]
+
+
+xiv. ﻿15
+
+
+integrálu <b(u) vložme s\nxn obdržíme
+
+
+
+
+
+c/> (u) cos are sin
+
+
+aneb rozvedemeli cosinus
+
+
+
+
+
+\vvsdz
+
+
+f/> (u) cos cos (2u are sin
+
+
+
+
+
+
+
+
+-f- cos are sin
+
+
+
+
+
+Vzpomeňme nyní známých vzorců*) cos are sin
+
+
+(2)
+
+
+sin (&u are sin
+
+
+kterých užito označení
+
+
+!}(«•-
+
+
+,... 2),
+
+
+mimo Č70(//) H0(u) 2u.
+
+
+Vyjádřímeli funkce cos (2» are sin sin are sin vyskytující integrálech řadami (2), obdržíme
+
+
+
+
+
+</>(») cos G,, (u) -\- sin (u),
+
+
+
+
+
+kterémžto výraze znamenáno
+
+
+*v'&-----
+
+
+*«» ------ --------7-—- ^—nz^----- X>!
+
+
+
+
+
+-T-T- ----.-------- T^T----riTT
+
+
+ř)l Ví__z* C**""!""*}'J Ví—z*
+
+
+
+
+
+Součinitelé těchto Maclaurinovských rozvojů stanoví nejsnáze základě diffe-rencialné rovnice
+
+
+**)/' xy> -|_
+
+
+jíž hoví funkce sin (2« are sin cos are sin a).
+
+
+XIV. ﻿16
+
+
+Tyto integrály přetvořme substitucí čímž vzniknou výrazy
+
+
+_j__L(1
+
+
+(2H-i)i
+
+
+'i°g-
+
+
+které lze vyčísliti základě vzorce
+
+
+němž i/>(s) ""fvT' Jen^ °^>(^r^1 vzorce Kulérová (jj
+
+
+derivováním. Tím způsobem docílíme výrazů uhlazenějších
+
+
+(2.4.6...2r)« takže hledaný náš rozvoj zní
+
+
+(4)
+
+
+sm;
+
+
+cos
+
+
+
+
+
+...
+
+
+-3-5 -.2r
+
+
+Konvergence obou řad pravé straně není rychlejší než konvergence řady tedy může rozvoj tento míti cenu pouze theoretickou.
+
+
+Podobného druhu rozvoje obdržíme vzorce
+
+
+(5)
+
+
+r(s) (,) _/?(«,
+
+
+
+
+
+'T^J' (Iog i)'
+
+
+platného pro všecka komplexní jichž reálná čásť kladnou.
+
+
+XIV. ﻿17
+
+
+vzorci tom symboly (s) R(a,s) znamenají jednoznačné funkce definované prvky analytickými
+
+
+jež konvergují ovšem pouze při podmínce Reál.
+
+
+Zavedemeli integrálu (5) proměnnou l—x o*, přetvoří následující
+
+
+,*-i dx.
+
+
+Tento výraz lze rozvinouti řadu, užijclt binominalního rozvoje funkce (l—x)a~i, jenž poskytne řadu
+
+
+1-n— *V-i
+
+
+x)___V iv-i
+
+
+
+
+
+
+
+
+řada tato konverguje pro krajní hodnotu jeli reálná čásť veličiny větší jedné. této supposice jest konvergence řady celém oboru (O... stejnoměrná integrál obdrží integrováním všech členů řady; tak vznikne
+
+
+rovnice
+
+
+
+
+
+J^__/.. r\a
+
+
+~li—'----(loS i—x)
+
+
+
+
+
+Rozvoj tento nabude významu, podařili získati přehlednější zákon jeho součinitelů, dovedemeli zakončené formě vyčísliti integrály
+
+
+Poslední integrál lze také psáti
+
+
+
+
+
+J„=\ (l-e-*)»-te-
+
+
+Kladcmeli pak
+
+
+c-uxxs-^
+
+
+
+
+
+dx,
+
+
+definujemeli operaci rovnicí
+
+
+-*/("") =/(«+ 0-/W-
+
+
+Rozpravy. Ročník Třída II.
+
+
+XIV. ﻿18
+
+
+obdržíme našem případě
+
+
+
+
+
+
+
+
+""***-*
+
+
+<*•/(») =;+1
+
+
+
+
+
+obecně
+
+
+e~uxx*~{
+
+
+poněvadž našem případě
+
+
+tedy
+
+
+fXD
+
+
+(-ixFo-r-v
+
+
+vychází'dle (b1)
+
+
+ífo*\ f__\\n r(s] (dn X~s)
+
+
+dosazení této hodnoty součinitele obecného členu rozvoji (a) vyjádření levé strany jeho výrazem (5) obdrží řečený rozvoj tvar
+
+
+(6)
+
+
+Pomocí výrazu
+
+
+-A'(«,J)= M.^-Ur}..!.
+
+
+n^l
+
+
+plynoucího (b) (b2), bude nám lze rozhodnouti konvergenci řady (0) jiných případech, kdy reálná čásť proměnné není kladnou.
+
+
+Nechť jest číslo celistvé kladné tak volené, aby reálná čásť veličiny s-\-k byla kladnou. Pak stačí uvážiti, řada
+
+
+
+
+
+konverguje stejnoměrně oboru (O... 1); násobili pak výrazem
+
+
+jehož integrál konečný, bude dovoleno integrovati členech, obdrží řada konvergentní, která splývá řadou (G), byloli vyloučeno prvých
+
+
+XIV. ﻿19
+
+
+členů. Následovně řada (6) konverguje pro všecky hodnoty proměnné Jak řečeno, předpokládá tu, reálná čásť veličiny jest větší jedné.
+
+
+rovnice (6) obdržíme zároveň rozvoj funkce (s), klademeli užijemeli rovnic
+
+
+máme tak
+
+
+(7) (2--
+
+
+
+
+
+kterážto řada konverguje pro všecka Odtud vychází, rozvoj mocninový
+
+
+
+
+
+(8) (2' ř(s) 1)*
+
+
+
+
+
+součinitele hodnotu
+
+
+čili
+
+
+22.
+
+
+rovnice (G) obdržíme rozvoje funkcí gamma, volímeli jednou klademeli druhé derivaci 5=0. Neboť jest
+
+
+log tedy vychází vzhledem zřejmé okolnosti, /ín~l -'- l)""""1
+
+
+
+
+
+(0) -TMI =r(1)+
+
+
+(io) iog ř*7*1 ^/J""~' '°8 a')*='
+
+
+M^l
+
+
+III.
+
+
+funkci Y"" ukázal Gauss*) lze vyčísliti tvaru zakončeném, jakmile argument hodnotu racionalnou. Totéž lze ukázati týmiž
+
+
+III. svazek sebraných spisů, str. 157. Český referát vySel Časopise pro pěst. math. fys., sv. XXL, str. 1(>G, péra Ed. Weyra.
+
+
+XIV. ﻿20
+
+
+prostředky elementarnými funkci (1) <b(w,x):
+
+
+Položme racionálně zlomky jmenovateli utvořme součet
+
+
+(2)
+
+
+
+
+
+kde číslo celistvé. Nahradímcli jednotlivé výrazy tf> příslušnými řadami, vznikne tvar
+
+
+této řade zaveďme summační příponu n-=.a-\-qv, vyjde tak
+
+
+pro kteroužto řadu logaritlimickou známe hodnotu
+
+
+
+
+
+(3)
+
+
+předeslavše, uvažme, výraz
+
+
+kterém značí jedno čísel 1,2,3,...^, velmi zjednoduší, nahradili něm výrazem (2). Neboť tak obdrží nejprve
+
+
+Iknjri
+
+
+laxní
+
+
+-(o-fi)
+
+
+ježto součet
+
+
+-(*-/«)
+
+
+vždy nullou mimo T=/<, kterémžto případe pak hodnotu vychází i___-•
+
+
+-lil
+
+
+(4)
+
+
+Vyjádřímeli levou stranu pomocí vzorce (3), obdržíme hledaný výsledek
+
+
+[kpni Zni
+
+
+log
+
+
+
+
+
+kterémžto vzorci může míti hodnoty ,2,3,...?.
+
+
+XIV. ﻿21
+
+
+Transcendenta </>, níž první argument číslem racionalným, redukována tímto vzorcem součet členů logarithmických, jichž násobitelé jsou odmocniny jednotky.
+
+
+tohoto vzorce lze vyvinouti výsledek Gaussův; postup přímý jest nicméně jednodušší. Tak bychom obdrželi sledováním téhož postupu jako předešle nejprve rovnici
+
+
+(5)
+
+
+r'(—) —/t:7L- tkni
+
+
+-77ÍV-r/(1)==2j -l) log (l-*
+
+
+(^r)
+
+
+platnou pro případě lze tento výraz upraviti jak následuje
+
+
+----/~""(1) log 2-----TT- cot
+
+
+7-1
+
+
+log sin
+
+
+aneb též, užijeli rovnice
+
+
+•7-1
+
+
+
+
+
+LTT
+
+
+sin-----—
+
+
+
+
+
+,//^\ /i7riV^ 2ku.n
+
+
+(1) log 2(7 cot cos log
+
+
+
+
+
+sin
+
+
+IV.
+
+
+Mnohé vlastnosti útvarů theorii funkce gamma vyskytujících souvisejí vlastnostmi nekonečné řady
+
+
+
+
+
+níž jsme při různých příležitostech byli setkali. Zde hodláme podati některá nová její vyjádření. Vycházejme integrálu
+
+
+(1)
+
+
+K*""1 —S*""1
+
+
+""J ~(l-fš)*'
+
+
+němž jest kladná veličina reálná, veličina kladnou část reálnou. Dosadímeli sem
+
+
+
+
+
+l-}-x
+
+
+XIV. ﻿22
+
+
+obdržíme výraz
+
+
+
+
+
+J+""""
+
+
+7/* ___ „Na ___
+
+
+r__
+
+
+------ ~f-------j------^-----
+
+
++1)
+
+
+
+
+
+klademeli ""*~— vyjde
+
+
+(9) ""*""' f(« +1-""*)*-1-**•'./...
+
+
+•F+iř.) i-* *••
+
+
+Jiný způsob vyjádření útvaru obdrží, jestliže rozkladu
+
+
+Ít'+'-;Lr'-''-+j^
+
+
+
+
+
+přetvoří prvý člen substitucí n-\-\ í', tak vznikne nejprve
+
+
+(3) J<={
+
+
+čili (3*)
+
+
+
+
+
+
+
+
+u*-1 r^-1
+
+
+7—r~^- -.—
+
+
+0+i)a
+
+
+vzorci (3) druhý integrál závorce hodnotu
+
+
+W!__L_l
+
+
+-6J.U •+«-l/1
+
+
+prvý lze rozvinouti řadu, užijeli rozvoje
+
+
+
+
+
+takto udělí tvar
+
+
+čili provedení integrace
+
+
+XIV. ﻿Tento výraz lze psáti
+
+
+
+
+
+\.u ~\-\)a~n \\* l)~w
+
+
+«_« n^r ""^
+
+
+___i__ .VC1,
+
+
+výraz závorce hodnotu log?/, tedy vzorci (3) uzávorkovaný výraz lze psáti
+
+
++!)*•""
+
+
+
+
+
+^r^r=r) ;r+«""-~r)
+
+
+Veličina závorce může býti psána
+
+
+m-í
+
+
+tedy hodnotu cot konečný výsledek tedy zní
+
+
+ua~~l (4) /=*«-»>.- (log cot TT)
+
+
+(*+ Jiný rozvoj integrálu poskytne vzorec (1), nahradili něm výraz
+
+
+řadou
+
+
+jejíž stejnoměrná konvergence vyžaduje, aby bylo menší jedné. Tím způsobem obdržíme nejprve
+
+
+
+
+
+
+
+
+-xv dx\
+
+
+integrál obecném členu vyskytující převede substitucí následující
+
+
+7^~l o;'1-1 -xv
+
+
+v^0\
+
+
+v-i -----
+
+
+i+.
+
+
+jehož hodnota jest
+
+
+Bude tudíž (5)
+
+
+r'(>.+>) r>(,+p-\ r(«+») r(,+ J""
+
+
+XIV. ﻿kterýžto výsledek lze také psáti
+
+
+Odtud obdrží forma nová, užijeli vzorce
+
+
+
+
+
+'(a-\-v)
+
+
+Neboť bude patrně řada
+
+
+
+
+
+
+
+
+?<-
+
+
+
+
+
+míti hodnotu
+
+
+
+
+
+1)- -ÍÍ5ÍL a:""- log <tx
+
+
+aneb provedemeli sčítání znamením integračním
+
+
+
+
+
+u""-1 log
+
+
+
+
+
+Substitucí —-y—— vychází tohoto integrálu výraz
+
+
+ua~~
+
+
+čili
+
+
+e~' z*-1 \ogzdz log(«
+
+
+
+
+
+e~z s""-^
+
+
+
+
+
+(u+l)° Pomocí tohoto výsledku máme vzorce (5*)
+
+
+(6) (,. i\«
+
+
+Porovnámeli tento výsledek vzorcem (4), plyne
+
+
+w-./
+
+
+r'i ^~r^ (""jnrrj iv* IT+T+Trř
+
+
+
+
+
+rr»4-ii
+
+
+cot
+
+
+
+
+
+
+
+
+XIV. ﻿25
+
+
+Píšemeli zde -|- objeví tvar elegantnější
+
+
+r'(»/+
+
+
+S***W ^""^
+
+
+*""______---- r.X— „W-4-* 4>n
+
+
+konvergenci levé strany nutno, aby konvergence strany pravé vyžaduje takže máme nutnou podmínku
+
+
+(7°)
+
+
+
+
+
+Ostatní podmínky, jež vyžadovalo odvození, mohou odpadnouti, ježto běží funkce analytické.
+
+
+vzorci tomto klaďme ťr—21""*, kde jest kladná veličina reálná,
+
+
+log menší než --. Pak budou konvergenční podmínky splněny levá strana
+
+
+bude zníti
+
+
+-Ivo
+
+
+předpokládali pak ()<#*< bude lze dle vzorce (4) IV. článku naší rozpravy Další studie oboru Malmsténovských řad« vyjádřiti vzorcem
+
+
+--Lg fj'
+
+
+
+
+
+
+
+
+kde součtu dlužno vynechati člen Podle vzorce (7) musí tento výraz splynouti veličinou
+
+
+log(l—^2«í""r)
+
+
+,.,,(,-
+
+
+tedy máme rovnici
+
+
+
+
+
+(8)
+
+
+
+
+
+
+
+
+2«""r— l)'"".
+
+
+rovnice opět lze uvolniti podmínky existenční ten způsob, třeba toliko splniti nerovnosti ^2""""t Reál. první vyžaduje, aby bod ležel uvnitř křivky, jejíž rovnice zní
+
+
+*""L cos T/TT;
+
+
+mimo musí býti
+
+
+XIV. ﻿26
+
+
+Užijemeli známého vzorce
+
+
+
+
+
+vypadne rovnice (8) konstanta -T'(l), poněvadž pravé straně vyskytne součinu veličinou
+
+
+
+
+
+,!«(!-*)* (,•.«
+
+
+která rovná jedné. Rovnici (8) lze tedy psáti
+
+
+(8*)
+
+
+log
+
+
+
+
+
+
+
+
+(l-x) (X~
+
+
+*,/
+
+
+Tento vzorec upravme vložením 2w^, l—#, výsledek
+
+
+differencujme «-kráte vůči klaďme obdržíme tak především
+
+
+
+
+
+(a) L•„ (//—1)1 kde položeno
+
+
+Zavedemeli opět rozdílový symbol z/, definovaný rovnicí
+
+
+=/(* !)—/(*).
+
+
+obdržíme tedy
+
+
+7~) s>XZ ,,Z ___ \tn ----- rýn
+
+
+Xx_ J-* \tH/
+
+
+
+
+
+odtud
+
+
+Z:=0
+
+
+Pravá strana vzorce (a) bude tedy zníti
+
+
+Abychom vyjádřili levou stranu, vzpomeňme známé věty, celistvá racionálna funkce (x), která pro všecka celistvá kladná splývá součtem
+
+
+(x) ... l)m XIV. ﻿27
+
+
+dána jest intervallu
+
+
+rozvoji následujícími:
+
+
+
+
+
+«/«
+
+
+(*) (2,,)!
+
+
+sin
+
+
+při tom Bfl značí ^-té číslo Bernouilliovo. Znamenámeli tedy
+
+
+bude
+
+
+
+
+
+(*-!)!
+
+
+
+
+
+rovnice (a) poskytne
+
+
+
+
+
+Pro vymizí pravá strana, tedy bude
+
+
+Sn~\ (x) (^)
+
+
+takže vychází
+
+
+(10) S„^(x)
+
+
+této rovnici klaďme podle známé věty bude
+
+
+«""
+
+
+derivujme vůči klaďme
+
+
+tedy máme pro čísla Bernouilliova výraz
+
+
+(u)
+
+
+kde z/'""^'1 slouží zkrácení symbolu /J™_0xn
+
+
+Ježto součinitel při mocninovém rozvoji funkce
+
+
+jest (x) máme identitu
+
+
+XIV. ﻿28
+
+
+kde (x) pravou stranu lze psáti
+
+
+
+
+
+$,(
+
+
+
+
+
+
+
+
+dle známého vzorce
+
+
+f,ZX -----
+
+
+
+
+
+hodnotu
+
+
+máme tedy
+
+
+
+
+
+-Lřr
+
+
+čili substituci
+
+
+(12*)
+
+
+
+
+
+základního vzorce (4a) str. rozpravy Další studie oboru Malmsténovských řaď-, vzorce
+
+
+
+
+
+
+
+
+němž čárka znamení součtu znamená, vynechati rušivý člen podmínky znějí 0<^«<1, ()<<#< byla odvozena trigono-
+
+
+f+i
+
+
+metrická řada pro funkci \-~- sin jež verifikována či. přítomné rozpravy. téhož vzorce lze odvoditi ještě jiné speciální výsledky funkci gamma nesoucí. Volímeli př. -„- vychází
+
+
+f-.„,-v (-!)•_
+
+
+«"" ~2""
+
+
+
+
+
+
+
+
+XIV. ﻿29 Řadu levé straně lze psáti
+
+
+kteréhožto tvaru vysvitá, hodnota této řady jest
+
+
+
+
+
+tedy máme rovnici
+
+
+(a)
+
+
+-TÍ1) f(i)J
+
+
+
+
+
+
+
+
+Porovnámeli této rovnici části pomyslné, obdržíme vzorec
+
+
+2*+ rr-c^-) r-Q
+
+
+---
+
+
+2*+ rr-c-
+
+
+(2) 7r-f- log-^r-j— rsm2L7'7r —TI ---
+
+
+S2^ IrC71 r()J
+
+
+
+
+
+C7!1) r(|)
+
+
+platný podmínky
+
+
+Porovnámeli rovnici (a) části reálné, obdržíme nejprve
+
+
+cos »>*[*( +-) (y)] log (i)
+
+
+pomocí vzorce Legendi eova (v) log -f~ -(- vychází odtud
+
+
+/0\ »vn *VT) r'(""~«~) „//1A
+
+
+(3) s'""2 n,.T- cos ""o ••>/> ^r(l)-^g2^
+
+
+tfj l""~2~~/
+
+
+
+
+
+Násobímeli rovnici (a) evai porovnámeli části reálné, obdržíme rovnici fv\
+
+
+
+
+
+v-{-1
+
+
+T*V T*UJ
+
+
+~T~
+
+
+(v) cos -\- log —--J—
+
+
+
+
+
+fa__
+
+
+-|- cos log —^-7—
+
+
+
+
+
+---- COS
+
+
+XIV. ﻿30
+
+
+Isolujeli řady člen druhé části, jehož hodnota zní cos log užijemeli opětně vztahu Legendreova, obdržíme výsledek
+
+
+(4)
+
+
+sm*
+
+
+
+
+
+/•(»)
+
+
+cos'
+
+
+
+
+
+r(L±i)
+
+
+sin
+
+
+
+
+
+Sečtemeli výsledky (3) (4), objeví vzorec jednodušší, platný podmínky <|v
+
+
+sin -4- sin8 [log (1)
+
+
+r(J)
+
+
+[Oj
+
+
+-----l cos
+
+
+Naproti tomu poskytne odečtení výsledků (3) (4) rovnici
+
+
+F<rr)'
+
+
+(C)
+
+
+
+
+
+-------- Sin 7>7T
+
+
+cos' [log«-r(l)+. A^l' l—S—l
+
+
+log l)""10^!1 —«) .cos»í/w.
+
+
+
+
+
+Dosadímeli rovnice (5) v=2iv^ rovnice (6) 2w—l, vychází, řada
+
+
+log log l------- cos (w)
+
+
+
+
+
+součet
+
+
+(w) sin ZL^ -f- sin2
+
+
+
+
+
+pro _-,
+
+
+sin2 |~log (1) pro -g- !js
+
+
+Jinými slovy «•//#/ intcrvallu íe/ ///?// rozvoj:
+
+
+r""ť
+
+
+-ň-sin2w»-f sin2 log —T'(l)+-—^
+
+
+
+
+
+
+
+
+log log cos
+
+
+
+
+
+
+
+
+XIV. ﻿31
+
+
+Vzorec tento obdrží také přímo rovnice naší
+
+
+
+
+
+(8)
+
+
+\)vn log
+
+
+Iog2*r— T'(l) sin
+
+
+cos vnt
+
+
+násobili 2siii7>ír, provcdeli levo jednoduchá redukce, takže vzorec (7) nepodává vlastně nic nového; však jest jeho odvození jednodušší než rovnice (8).
+
+
+Vzorec (8) lze ostatně také odvoditi jako důsledek rovnice (a). Násobí-meli totiž rovnici (a) výrazem cv:ti porovnámeli části pomyslné, plyne
+
+
+=-----^ cos log
+
+
+srn
+
+
+
+
+
+zbývá pouze druhé části řady isolovati člen mající hodnotu sin log aby obdržela rovnice (8). Užijemeli vzorce
+
+
+log
+
+
+
+
+
+pro («2 ;/2 obdržíme
+
+
+tedy
+
+
+
+
+
+S./- ~~^íjcos2""wn
+
+
+
+
+
+""2"" T1^3 *x^ 2^~zjr cos
+
+
+
+
+
+
+
+
+takže nacházíme vzorec
+
+
+
+
+
+
+
+
+
+
+
+2^-** cos
+
+
+
+
+
+
+
+
+(w\
+
+
+log^ r;(i)
+
+
+log -[- sin -\- sin2 log
+
+
+Rozborem povahy funkce t?3 (?^ ix) pro nekonečné malá bychom shledali, integrál (9) existuje pouze pro hodnoty položené uvnitř čtverce,
+
+
+XIV. ﻿32
+
+
+~~-~ ovšem též uvnitř čtverců, jež vzniknou substitucemi ,...).
+
+
+jehož vrcholy jsou ~-~
+
+
+Ví.
+
+
+integrálu Cauchyova
+
+
+(1)
+
+
+obdržíme nový výraz, užijemeli variace integrační cesty, jaká dle základní věty Cauchyovy integraci komplexním oboru připouští. Znamenejme tím účelem
+
+
+uvažujme integrál
+
+
+vzatý podél obvodu rovnoběžníka, jehož vrcholy jsou ^V/} M-\-Ni\ kde J/je kladná veličina reálná (2# -f- 77, při čemž jest kladné číslo celistvé. Poněvadž strana ... Ni) obsahuje póly funkce /(#), jež jsou vesměs tvaru 'Žkni ,...«), dlužno podél strany ... A""/) odchýliti cesty přímočaré, sice odchýlíme dovnitř rovnoběžníka; ustanovíme, cesta integrační odpovídající straně skládati úseků přímočarých poloukruhů malého poloměru opsaných kol středů 2kni (L=1,2,...*) obrácených dovnitř rovnoběžníka; poloukruh ten znamenejme (L,«), takže zvolená část (Q...1VÍ) cesty integrační bude sestávati přímočarých úseků tvaru (%kni-\- -\- */) poloukruhů následujícím pořádku
+
+
+(O...2íri «*),(!, i),(2»/+í/...4ír/ «i)i (2,*). (4^/+ ...6»ř «/),(3,e)i ••.(«,«)! (2«wí +«/'... (2«+ w/') Integrál podle toho skládá částí
+
+
+-A/
+
+
+j/M.
+
+
+dále částí přímočarých, pocházejících složky (O... Ni\ jichž součet jest
+
+
+«*/-«/ «)»/-«/ (2» l)»/
+
+
+
+
+
+konečně částí vypadajících poloukruhy (k, é).
+
+
+!»/—•/
+
+
+
+
+
+XIV. ﻿Značili pól funkce f(x) (x0) příslušné residuum její, bude hodnota integrálu f(x) vzatého podél půlkruhu bodu odpovídajícího
+
+
+obnášeti
+
+
+kde (ř) jest veličina, která zároveň klesá pod každou mez. Pro pól 2Lnt však residuum K.(xQ) hodnotu
+
+
+odtud vychází, integrály vzaté podél poloukruhu (k, dají dohromady výraz
+
+
+kde (É) význam podobný jako předešle. Hodnota našeho integrálu tedy bude
+
+
+—M+NÍ
+
+
+J=\ f(x) f(x)
+
+
+
+
+
+lni—
+
+
+S(x}ctx+\f(x)dx
+
+
+
+
+
+(/(x)
+
+
+Avšak integrál rovná nulle, poněvadž funkce f(x) uvnitř rovnoběžníka uvažovaného chová pravidelně.
+
+
+Přejdemeli rovnici poslední limitě pro vyjde
+
+
+
+
+
+/O) f(x Ni) /(- iy)
+
+
+
+
+
+
+
+
+S^tS gLka**i /(*» idy— ----oi----i «***t
+
+
+
+
+
+kde litery val. princ, značí, dlužno integrálu sobě neexistujícího vzíti zv. hlavní hodnotu známém smyslu Cauchyovském (valeur principále).
+
+
+této rovnici přejděme limitě pro oo, obdržíme
+
+
+(a) f(x) f(x -\- Ni) val. princ. /(*»
+
+
+—oo
+
+
+
+
+
+Rozpravy. Ročn. Tř. II.
+
+
+XIV.
+
+
+﻿34
+
+
+První integrál právo
+
+
+(b)
+
+
+
+
+
+
+
+
+pro nekonečně rostoucí blíží nulle, takže obdržíme
+
+
+(c)
+
+
+
+
+
+/(*)
+
+
+
+
+
+cx>
+
+
+
+
+
+val- Princ-
+
+
+
+
+
+
+
+
+Volímeli kladnou reálnou hodnotu, porovnámeli části reálné obou stranách, nahradivše levou stranu její hodnotou log.T(rt), obdržíme
+
+
+
+
+
+cos 2kaň
+
+
+(2« -f- \)n
+
+
+sin —j-)/
+
+
+val. princ. ------;—j—-------5- cos
+
+
+*""^
+
+
+
+
+
+posledním integrálu rozdělme cestu dvě části ... ... 2nn -J- :r), čímž obcfrží hodnotu A-\-B, kde
+
+
+frsin(tf j)jr ~|_^Z
+
+
+sin 4-7
+
+
+
+
+
+
+
+
+sin(0 y)/
+
+
+—T~ -------ň cos
+
+
+cín
+
+
+sílí ~7*
+
+
+Poslední integrál lze psáti (§•+!)«
+
+
+-------- J------(a cos/
+
+
+sin
+
+
+val. princ, čímž výraz
+
+
+log F(a) lim
+
+
+COS ___
+
+
+
+
+
+obdrží tvar
+
+
+
+
+
+/•»
+
+
+log T(rt) val. princ.
+
+
+sin -s-
+
+
+-j- lim j-jj- log -[-
+
+
+=©o
+
+
+při čemž předpokládá, není celistvé.
+
+
+XIV.
+
+
+cos/
+
+
+
+
+
+cos 2kaň ﻿35
+
+
+Dosadímeli sem hodnotu
+
+
+/""(>)
+
+
+máme
+
+
+log (log (i))
+
+
+cos
+
+
+2/ť
+
+
+
+
+
+sin
+
+
+
+
+
+sin(<ř -j)y
+
+
+val. princ. —----------(a cosy
+
+
+sin
+
+
+případě
+
+
+jest však
+
+
+tedy
+
+
+
+
+
+2/&
+
+
+
+
+
+log
+
+
+(2)
+
+
+log r(a) (l) log yši
+
+
+
+
+
+•/wv""
+
+
+sin -5-y
+
+
+
+
+
+
+
+
+frsin(a—2)/
+
+
+val. princ. \----------«----------(a cos
+
+
+2siny^
+
+
+Dosadímeli sem zvláště vyjde
+
+
+
+
+
+
+
+
+(3) iog»—r(i)=sf(i-
+
+
+cos/)
+
+
+
+
+
+val. princ.
+
+
+cosy
+
+
+
+
+
+odečtemeli poloviční hodnotu obou stran příslušných stran rovnice předešlé, obdržíme
+
+
+_______
+
+
+ÍA\ írv Nl/sin<url fT/ sin («— 2)^
+
+
+(4) log (íi) \/- val. princ. («—ffj ^osy-------——j------
+
+
+2sm
+
+
+
+
+
+Při vzorcích (2) (4) musí býti
+
+
+Porovnámeli (c) části pomyslné, obdržíme
+
+
+.5,
+
+
+smžkan
+
+
+
+
+
+val. princ.
+
+
+cos {)y sin
+
+
+-\-(a sin
+
+
+
+
+
+XIV.
+
+
+﻿36
+
+
+Pro máme však
+
+
+sin Kaň
+
+
+
+
+
+
+
+
+sin
+
+
+__n
+
+
+tedy plyne
+
+
+
+
+
+cos -»)y------------------ sin
+
+
+
+
+
+cos
+
+
+sin
+
+
+Máme tedy rovnici platnou podmínek
+
+
+*/#
+
+
+(5)
+
+
+val. princ.
+
+
+siná;
+
+
+Volímeli zde -g-, obdržíme
+
+
+
+
+
+
+
+
+—í— ~0""
+
+
+COS •*""
+
+
+čili
+
+
+(6)
+
+
+
+
+
+
+
+
+í/a; val. princ. taň .-----=
+
+
+
+
+
+Rozložímeli tento integrál části
+
+
+obdržíme
+
+
+poněvadž
+
+
+*+l
+
+
+
+
+
+val. princ.
+
+
+~~x~*
+
+
+
+
+
+val. princ. taň
+
+
+val. princ. taň
+
+
+Následovně máme místě (6)
+
+
+
+
+
+/""*' ^T\
+
+
+(6a) val. princ. -7^- taň </# =----^-;
+
+
+xiv. ﻿37
+
+
+výsledek ten lze přímo verifikovati takto: Znamenámeli
+
+
+
+
+
+r'(x)
+
+
+val. princ. taň
+
+
+
+
+
+obdržíme substitucí
+
+
+r'(l—a?)
+
+
+val. princ. —l-—^ tgxn dx;
+
+
+sečtením obou tvaru vzhledem známé relaci
+
+
+•=. cot
+
+
+plyne
+
+
+_r(*)_
+
+
+f(x)
+
+
+2,7
+
+
+
+
+
+
+
+
+
+
+
+tedy =------
+
+
+Rozpravy. Roín. li. II.
+
+
+XIV ﻿*"

@@ -1,0 +1,57 @@
+---
+title: "Analýza vstupních dat - Report"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("data_exploration.R") # cesta ke skriptu
+library(gridExtra)
+```
+
+# Přehled dostupnosti dat 
+
+### _Rozpravy_ I. třídy
+```{r přehled ročníků rozpravy 1, echo=FALSE, message=FALSE, warning=FALSE}
+table_summary1
+```
+
+### _Rozpravy_ II. třídy
+```{r přehled ročníků rozpravy 2, echo=FALSE, message=FALSE, warning=FALSE}
+table_summary2
+```
+
+### _Rozpravy_ III. třídy
+```{r přehled ročníků rozpravy 3, echo=FALSE, message=FALSE, warning=FALSE}
+table_summary3
+```
+
+### Souhrn _Rozprav_ všech tříd
+```{r přehled ročníků shrnutí, echo=FALSE, message=FALSE, warning=FALSE}
+full_summary_table
+```
+
+## Porovnání počtu vydaných svazků (čísel) v jednotlivých letech
+```{r přehled počtu čísel, echo=FALSE}
+issues_graph1
+issues_graph2
+issues_graph3
+grid.arrange(issues_graph1, issues_graph2, issues_graph3, ncol = 3)
+```
+
+## Porovnání počtu publikovaných stran v jednotlivých letech
+```{r přehled počtu stran, echo=FALSE}
+page_graph1
+page_graph2
+page_graph3
+grid.arrange(page_graph1, page_graph2, page_graph3, ncol = 3)
+```
+## Porovnání počtu svazků i stran v jednotlivých letech
+```{r kombinovaný graf, echo=FALSE}
+grid.arrange(combined_graph1, combined_graph3, ncol = 2)
+combined_graph2
+```
+

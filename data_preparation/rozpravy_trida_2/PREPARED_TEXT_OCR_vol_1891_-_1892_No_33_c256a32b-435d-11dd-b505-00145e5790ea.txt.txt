@@ -1,0 +1,494 @@
+"","x"
+"1"," ﻿ROZPRAVY
+
+
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ PRAZE.
+
+
+ROČNÍK
+
+
+TŘÍDA
+
+
+CISIX)
+
+
+HLAVNI VĚTĚ
+
+
+THEORIE
+
+
+FUNKCÍ VYTVOŘUJÍCÍCH.
+
+
+NAPSAL
+
+
+LERCH.
+
+
+%-.
+
+
+PŘEDLOŽENO DNE *,. LEDNA 1S92.
+
+
+PRAZE.
+
+
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ.
+
+
+1892. ﻿TISKKM Oxrv PKA/B, ﻿Některé úkoly počtu integrálního dají pohodlně řešiti pomocí zv. funkcí vytvořujících (fonction génératrice), jež zavedl Abel\ nazývá tak funkce f(x) hovící rovnici
+
+
+
+
+
+-ax
+
+
+
+
+
+užívání této methody však vyžaduje důkaz vety, jistých okolností určující* funkci (a) přísluší jediná funkce vytvořující f(x). Provésti tento důkaz jest účelem následující úvahy odstavci předeslána věta nauky funkcích reálné proměnné, kterou jiným způsobem dokázal Weitrstrtus spisech Berlínské akademie současně Rnngc svých universitních přednáškách 1885, nichž podán stručný výtah časopise Acta mathema-tica, sv.
+
+
+Tuto methodu vytvořujících funkcí měli jsme mysli při poznámce pod čarou, již jsme učinili při své práci Mittheilungen aus der Integralrechnung.*)
+
+
+Budiž f(x) libovolná konečná spojitá funkce reálné proměnné obsažené určité mezeře (#.../>); pak lze sestrojiti řadu celistvých funkcí racionalných
+
+
+(x) (x)
+
+
+které celém intervallu stejnoměrně rostoucím hodnotě f(x) blíží, výraz
+
+
+lim (x)
+
+
+
+
+
+konverguje stejnoměrně rovná se/(.r).
+
+
+Dfikaz. Volme klesající řadu kladných konstant
+
+
+
+
+
+lim (Vn
+
+
+Intervall (a... rozdělme dílů rovných, nazveme bod, jehož souřadnice jsou
+
+
+s(b
+
+
+a-\-
+
+
+
+
+
+
+
+
+-—J
+
+
+:;:) Monatshefte fiir Mathematik und Physik, roČ.
+
+
+
+
+
+681 ﻿Tím obdržíme křivce y=f(x) znázorňující průběh naší funkce r-\- bodů A^9AítA^t...Ar. Lomená čára (složená přímých délek AsAs+\) bude celkem málo lišiti čáry y=f(x), jeli dosti veliké, rozdíl mezi funkcí f(x) mezi funkcí (x) znázorněnou touto čarou bude veskrz menší než daná veličina. Kterémukoli číslu řady ,2,3,... můžeme pak ustanoviti číslo tak, aby tímto způsobem vzniklá funkce r/> (x)
+
+
+již znamenáme nyní <y„ (x) lišila f(x) veličinu menší než aby celém intervallu ... ti)
+
+
+Zároveň ale znamenáme ///„ nejmenší hodnot pro něž tento případ nastane.
+
+
+Intervall (a... rozšiřme obou stranách délku uvažujme nadále intervall ... -\-~ částech (/;... -\- nově připojených funkce qin (x) není ještě definována. Volme tedy první části (.r) (fn (a), druhé c/n (x) <y>, (b) Pak bude g>» (#) funkcí konečnou spojitou celém intervallu (<? «...L-)-«), jež znázorněna lomenou čarou. tedy tato funkce dle známých vlastností funkcí Dirichletovských vyjádřiti řadou
+
+
+rv-\
+
+
+
+
+
+<7,.() COS j-v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+která konverguje stejnoměrně oboru (a... b). Následkem stejnoměrnosti konvergence naší řady můžeme ustanoviti číslo*) ;//'„ tak, aby součet
+
+
+
+
+
+<7V(W) COS
+
+
+
+
+
+a~\-
+
+
+
+
+
+'71
+
+
+celém oboru ... byl absolutně menší než -L-, takže pak rozdíl mezi
+
+
+
+
+
+(tn(%) funkcí analytickou
+
+
+m'n-1
+
+
+a-\-
+
+
+COS -:-------------r-1-
+
+
+(X)
+
+
+bude menší než tedy pro všecka mezery /;)
+
+
+
+
+
+Funkci gentní:
+
+
+rozvinouti dle pravidla Taylorova řadu stále konver-
+
+
+
+
+
+sice volíme w'M opět nejmenší číslo hovící naší podmínce.
+
+
+682 ﻿která tedy rovněž konverguje stejnoměrně mezeře Znamenejme nyní m""n nejmenší číslo vlastnosti, zbytek
+
+
+
+
+
+
+
+
+celém intervallu menší než -L-, položme
+
+
+
+
+
+(2)
+
+
+Pak bude
+
+
+(x)
+
+
+
+
+
+tedy
+
+
+Volímeli řade funkcí tvaru (2)
+
+
+(20
+
+
+\f(x)-Rn(x) 1,2,3,..., sestrojíme tím způsobem zákonitou řadu
+
+
+AJ, (x) (x) ,R3(x),...
+
+
+jež mají vlastnost, Rn(x) f(x) liší veličinu menší než w-tý člen řady (1), dn. Tím věta dokázána.
+
+
+II. Buď nyní/""(«) funkce konečná spojitá, daná celém intervallu ... oč) nechť existuje pro všecka převyšující jistou mez, integrál
+
+
+
+
+
+(3)
+
+
+c~axf(x) (f(a)
+
+
+
+
+
+Pak sluje dle Abcl-a. f(x) funkcí vytvořující (fonction génératrice) úkon kdežto (a) sluje funkcí určující (fonction determinante) úkon f(x).
+
+
+
+
+
+dané funkci vytvořující existuje jediná určující, patrno. Platí však lež důležitá věta:
+
+
+Dané funkci určující q>(a) muže odpovídati nanejvýš jedna funkce (x), která vytvořuje.
+
+
+Kdyby totiž existovala ještě funkce (x) hovící rovnici (3),
+
+
+
+
+
+
+
+
+(x)
+
+
+(a)
+
+
+
+
+
+pak bychom obdrželi odečtením obou rovnic
+
+
+
+
+
+\f(x) -/, (*)]
+
+
+683 ﻿Avšak
+
+
+konečná spojitá funkce oboru (O... oo), dokážeme, pro takovou nemůže integrál
+
+
+
+
+
+pro všecka zmizeti. Zavedemeli proměnnou sledující
+
+
+přejde integrál ná-
+
+
+
+
+
+němž dokázati, nemizí pro všecka převyšující jistou mez. Funkce (/—) (s) spojitou všech bodech mezery ... 1), nanejvýše bude bod činiti výminku. Bude nám tedy dokázati nemožnost rovnice
+
+
+(4)
+
+
+(x)
+
+
+předpokládané pro všecka převyšující jistou mez. Omezíme dokázati vetu pouze pro ten případ, existuje veličina pro
+
+
+
+
+
+lim y(x)
+
+
+(5)
+
+
+Volímeli pak xcy(x) %(x), zaměnímeli a-{-c, přejde (4)
+
+
+(4')
+
+
+J'a
+
+
+
+
+
+kde funkce %(x) spojitou celém oboru Pak existuje celistvá funkce
+
+
+která %(x) liší veličinu, jež celém oboru (0...1) menší než předepsaná veličina bude
+
+
+l(x)-R(x)
+
+
+vzorce (47) plyne, ano -f-
+
+
+
+
+
+J'a+r=
+
+
+
+
+
+
+
+
+684 ﻿tedy
+
+
+
+
+
+
+
+
+
+
+
+[R(x)
+
+
+
+
+
+
+
+
+
+
+
+odtud dle poslední nerovnosti:
+
+
+
+
+
+
+
+
+a—\
+
+
+(x)
+
+
+
+
+
+Integrál pravé straně nezávisí plyne odtud, integrál
+
+
+volbě funkce R(x) tedy
+
+
+a~iť(x)dx
+
+
+
+
+
+
+
+
+menší než libovolná veličina kladná, což vyžaduje, aby zmizel. Ano
+
+
+funkce kladná, musí býti nullou, (x) Odtud plyne, též
+
+
+funkce i/' (#) identicky nullou věta dokázána.
+
+
+Pozn. Dlužno podotčíti, supposice (í>) obmezuje všeobecnou platnosť
+
+
+
+
+
+naší vety jisté míry. Žádajíc, aby lim L*Y(*) aby lim c~cx (x)
+
+
+
+
+
+dovolila podmínka provésti důkaz pouze pro ony funkce f(x), (x), jichž rozdíl stane zároveň nanejvýš tak nekonečným, jako jistá funkce exponenciální.
+
+
+Obdržímeli tedy někdy vztan
+
+
+
+
+
+
+
+
+e~atfl(x)dx
+
+
+
+
+
+platný pro všecka dostatečně veliká, budeme jen tehdy moci souditi rovnost
+
+
+jeli lze určiti kladnou veličinu tak, aby
+
+
+lim
+
+
+
+
+
+685 ﻿*"

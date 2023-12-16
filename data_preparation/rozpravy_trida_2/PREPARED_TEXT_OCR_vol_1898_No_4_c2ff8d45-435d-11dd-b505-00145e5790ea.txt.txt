@@ -1,0 +1,905 @@
+"","x"
+"1"," ﻿ROČNÍK VIL
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+počtu tříd
+
+
+kvadratických forem záporného diskriminantu.
+
+
+Sdílí
+
+
+JSfl. L»ereh,
+
+
+professor universitě Fribourgu švýcarském.
+
+
+(Předloženo 18. prosince 1897.)
+
+
+Výraz ax*-\-Lxy-\-cy2t němž .v, značí proměnné, pak -č»sla celistvá, sluje kvadratickou formou proměnných .r, Theorie čísel obírá hlavně vlastnostmi součinitelů které formu úplné definují vůli stručnosti znamená forma též jednoduše takto (V*, c).
+
+
+Výraz l)~ 4ac nazývá diskriminantem formy «7, chceme uvažovati formy, jichž diskriminant číslo záporné <4, takže
+
+
+Podrobíme-li proměnné .r, lineárně substituci, jejíž koěfficienty jsou čísla celistvá determinant kladná jednotka
+
+
+
+
+
+vznikne (#, />, forma nová •-(- a?' /y' -|- formy (a, (a'i ^'i r/j takto spolu související slují rovnomocnými (ekvivalentní). Poněvadž formy určitou formou rovnomocné jsou také vespolek rovno-mocny, shrnujeme veškery kvadratické formy vespolek rovnomocné určitou třídu forem kvadratických.
+
+
+Formy tétéž třídy mají stejný diskriminant; naopak ale dvě formy téhož diskriminantu mohou náležeti třídám různým. však dokázána věta, počet třid kvadratických forem příslušných danému diskriminantu jest konečný. následujícím omezujeme formy záporného diskriminantu z/, znamenati chceme literou (zJ] počet třid oněch forem, kterých součinitelé jsou kladná čísla; formy slují kladné. Třídy ostatní jsou stejném počtu jejich formy obdrží řečených foren? obrácením znamení všech tří součinitelů.
+
+
+Rozpravy: Ročn. VII. Tř. II.
+
+
+IV.
+
+
+﻿Kladná forma (at fr, <•) záporného diskriminantu nazývá redukovanou, jestliže součinitelé její hoví následujícím podmínkám
+
+
+^<*^c-Vypočteme-li rovnice
+
+
+x'2 -|- xij -f- #21=
+
+
+poměr---- co, obdržíme dvě veličiny, nichž jedna pomyslnou čásť
+
+
+kladnou,
+
+
+
+
+
+nazývati budeme kořenem formy (T, />, c).
+
+
+Při daném diskriminantu přísluší naopak danému číslu nanejvýš
+
+
+jedna soustava koefíicientů (a, c); následkem toho bod, který rovině
+
+
+komplexní proměnné representuje kořen co, representuje také jednoznačně kladnou formu (<7, známého diskti-minantu. Je-li forma (a, č>, redukovanou, bude veličina »~(-\~iy patrně toho tvaru, platí podmínky
+
+
+
+
+
+znamená, kořen redukované formy znázorněn jest bodem náležejícím obrazci Q.V^VQj (obr. omezenému kruhovým
+
+
+obloukem
+
+
+opsaným poloměrem
+
+
+
+
+
+Obr.
+
+
+jedna kol nullového bodu roviny (03), dále přímkami probíhajícími souběžně kladnou osou pomyslnou oblouku Art nekonečna, kteréžto přímky svém prodloužení obsahují body
+
+
+resp. tedy uvažovaný obrazec Q.V1ATQ1 křivočarý trojúhelník, jehož
+
+
+
+
+
+vrcholy jsou body -j- H"" ""ó""
+
+
+
+
+
+rozdělíme ještě oblouk dvě části ATX bodem takže náš obrazec bude čtyřúhelníkem křivočarým vrcholech e', ooi'; nazveme jej základním čtyřúhelníkem.
+
+
+IV. ﻿Kořeny redukovaných forem kvadratických jsou tedy obsaženy základním čtyřúhelníku obrazci pravá polovice toho čtyřúhelníka stínována).
+
+
+Substitucí
+
+
+přejde kořen «==-- kořen 03'=: -'— formy rovnomocné (a', l', <•'); sice jest
+
+
+«G/-f
+
+
+—-------r~;—r~
+
+
+
+
+
+naopak odtud vypočte
+
+
+
+
+
+kde opět
+
+
+Probíhá-li čtyřúhelník základní, proběhne veličina co' jiný čtyřúhelník severní polovici roviny položený; ten pak úplně charakterisuje substituci
+
+
+
+
+
+Veškerým linearným substitucím odpovídají takto křivočaré čtyř-úhelníky, které podél svých stran pojí jeden druhému zaplní jednoduše bez mezer celou severní polovici roviny (co).
+
+
+Levá polovice našeho čtyřúhelníka obrazec QN^L přetvoří
+
+
+
+
+
+----- křivočarý trojúhelník L'RN, jehož vrcholy jsou
+
+
+
+
+
+substitucí 03'
+
+
+jehož strana oblouk kruhový středu Trojúhelník tento připojen pravé polovici obrazce základního XQÍ doplní jej čtyřúhelník A//7ťQj vrcholech oo/, který možno taktéž považovati základní čtyřúhelník, možno jeho základe zavésti jiný způsob redukce forem.
+
+
+Nazveme-li souhlasu zavedeným názvoslovím dvě veličiny co' rovnomocnými, které vespolek souvisejí rovnicí tvaru
+
+
+(a> celistvá čísla, —1),
+
+
+rovnomocnými, pak platí věta, každý bod severní polovici roviny (co) jest rovnomocný jedním bodem základního čtyřúhelníka, jenž sluje jeho repraesentantem (zástupcem). Rovněž každý bod kterémkoli výše zmíněných čtyřúhelníku svého zástupce.
+
+
+IV. tím souvisí okolnost, každá kvadratická forma záporného diskriminantu rovnomocnou jednou formou redukovanou. Dvě formy redukované jsou vespolek rovnomocny jen tehdy, náležejí-li jejich kořenů zástupci obvodu čtyřúhelníka QA\ ATQX. Neboť body obvodě tohoto obrazce jsou dvou rovnomocny, kdežto každé dva body uvnitř něho ležící jsou vespolek body obvodě různomocny. sice odpovídají body strany bodům vztahem o/= 01+l, kdežto body stran
+
+
+iVj spolu souvisejí podle substituce
+
+
+
+
+
+
+
+
+Body strany lze ještě odstraniti tím, definice forem redukovaných upraví takto
+
+
+
+
+
+Kořeny náležející stranám .V, náležejí formám, nichž všechny ostatní formy redukované mají své kořeny mimo A^. Poněvadž každý bod strany A"" rovnomocny jedním bodem strany col5 stačí omeziti stranu A""; tudíž možno upraviti definici forem redukovaných případě «~c tak, předpokládá 0^6^/7, takže definitivní úprava pojmu forem jednoznačně redukovaných zní takto Forma («, />, sluje jednoznačně redukovaná, je-li buď
+
+
+
+
+
+aneb
+
+
+Pak každá forma kvadratická záporného diskriminantu rovnomocná je-
+
+
+dinou formou redukovanou, každá třída obsahuje jednu pouze jednn formu redukovanou. Počet třid kvadratických forem daného záporného diskriminantu rovná podle toho počtu forem jednoznačně redukovaných.
+
+
+předeslavše uvažujme rovině (o) křivočarý trojúhelník (obr. omezený přímkami půlkruhem opsaným poloměrem jedna kol středu o=l. Obrazec ten nazveme jej sestává tří křivo-čarých čtyřúhelníků II, III, nichž obrazci vždy jedna půle (na př. Ib) jest stínována. obrazci počítejme strany
+
+
+celou kladnou osu pomyslnou, nikoli však půlkruh stranu
+
+
+
+
+
+
+
+
+Obr.
+
+
+3/2
+
+
+IV. ﻿»A***
+
+
+
+
+
+Každý bod stra^X oo/) jest rovnomocný jedním bodem strany *')> naopak týž poměr vládne mezi L"" -f- oot), takže každý bod strany obrazci třikráte zastoupen totéž platí
+
+
+bodech uvnitř obrazce ležících, výjimkou čar .V, .V, ly.
+
+
+Čáry jsou oblouky kružnic majících poloměry rovné jedné svoje středy místech resp.
+
+
+Čáry jsou přímky ooz), -f~ °°0> probíhající oboru rovooběžně osou pomyslnou průseků oblouků
+
+
+jež odpovídají hodnotám «-|-
+
+
+Čáry AT' jsou vespolek rovnomocný, rovněž čáry /v. Body čáry body čáry jsou tedy obrazci zastoupeny dvakráte. Naproti tomu tam vůbec není zastoupen bod poněvadž jako bod čáry obrazce vyloučen poněvadž také bod -f- obrazce vyloučen, bod zastoupen pouze jednou.
+
+
+Poněvadž půlkruh rozpadá tři části rovnomocné stranami PXXP, každý bod jeho mimo s-j-l) zastoupen uvnitř SI.
+
+
+předeslavše, provedhie všech forem (a, diskriminantu výbor forem, majících své kořeny oboru forem těch bude vždy
+
+
+záporné, tedy pišme tvaru
+
+
+ljcy-{-cy* [a, c], b^~Q. Forma [a, />, jest pojata výboru, je-li tedy její kořen
+
+
+
+
+
+takový, platí podmínky
+
+
+0<:|<2, (L—l)2-t-i?2> Tato kriteria vyjádří podmínkami mezi koěfficienty
+
+
+
+
+
+výboru jsou obsaženy též formy výjimečné (singulární), jichž kořeny odpovídají bodům čarách ATAT', PPf\ vyznačíme tak, nim nepočítáme bod tedy budou podrobeny podmínkám pro čáru
+
+
+(X) 0<Í<J, Ě*+l'
+
+
+dále pro body čáry A""
+
+
+IV. ﻿pak pro body
+
+
+konečně pro body l""
+
+
+ř=i,»,> VST
+
+
+Výjimečné formy výboru budou tedy charakterisovány následujícími podmínkami
+
+
+
+
+
+(P) z/>3«2;
+
+
+formách Ar' /•"" netřeba šířiti, poněvadž jsou předešlými rovno-mocny.
+
+
+Ustanovme počet forem Tyto jsou charakterisovány neurčitou rovnicí druhého stupně
+
+
+4ac podmínkou ^<C\ -^-,
+
+
+
+
+
+neznámých Klademe-li ""=d, problém totožný stanovením počtu rozkladů
+
+
+(2) dd't
+
+
+nichž kladná celistvá čísla podrobena podmínkám
+
+
+«J-j-<y' (mód. 4),
+
+
+Počet těchto rozkladů znamenejme Dle toho existuje /j(^) forem Formy obdržíme řešením rovnice
+
+
+""3
+
+
+Klademe-li -|- ď', převede problém následující (3) z/:=dN()', ti-\- d'^20 (mód. 4), z/.
+
+
+(4)
+
+
+Počet těchto rozkladů znamenejme
+
+
+Počet všech výjimečných forem tedy 2/i(zf)
+
+
+Číslo fi(d)-\~fi(d)—fdd) lze vyjádřiti poněkud jiným způsobem.
+
+
+Rozklady (2) (3) doplňují rozklady
+
+
+z/zzdó', -}- í__0 (mód. 4),
+
+
+vyloučí-li nich jistých případech možný rozklad
+
+
+IV. ﻿Znamenejme literou J(.r) číslo jednu neb míliu, dle toho, je-li celistvé čili nic. Pak počet rozkladů, nichž —-, roven -^- poněvadž číslo
+
+
+tom případě dělitelno čtyřmi.
+
+
+Veličina f(J) pak udává počet rozkladů (4).
+
+
+Předpokládejme nyní, liché, tedy z/~3 (mód. 4). Pak bude každý pár sdružených dělitelů (dď:=z/) hověti shodě ď~O
+
+
+(mód. 4), zbývá tedy další podmínka z/; náš výraz /(z/) «7i y-q~
+
+
+tedy bude roven počtu dělitelů čísla menších než z/; těch jest právě tolik dělitelů větších než )z/; obojí tito dělitelé doplňují veškery dělitele čísla z/, výjimkou dělitele z/, jenž existuje když jest úplným čtvercem. Značí-li nám symbol (z/) počet všech dělitelů čísla z/, bude tedy
+
+
+(J) 2/(z/) 2.7 (V27
+
+
+takže
+
+
+(4*)
+
+
+(mód. 4).
+
+
+Je-li dále dělitelno osmi, nikoli však šestnácti, takže (mód. 16), dvou dělitelů jeden nedělitelný čtyřmi, druhý ano, tedy podmínka -(- (mód. není splnitelná; tudíž
+
+
+(4b) f(4) z/= (mód. 16).
+
+
+Je-li dále číslo liché, takže z/= (mód. 8), bude každý rozklad tvaru
+
+
+podmínka -}- (mód. bude vždy splněna, poněvadž jsou dělitelé lichého čísla tedy mají součet sudý. Zde bude tedy
+
+
+/(z/) -}- \'-o~ rovno počtu dělitelů čísla —-, kteří jsou menší než V-j-»
+
+
+následkem toho
+
+
+(mód. 8).
+
+
+IV. ﻿Konečně buď dělitelné šestnácti; zde budou rozklady tvaru
+
+
+počet jich rovná počtu dělitelů čísla menších než ---- takže
+
+
+
+
+
+vyjde
+
+
+~Á^
+
+
+-J(\z/ z/=0 (mód. 16).
+
+
+výše zavedeném výboru forem (í2) nejsou zahrnuty formy rovno-mocné formou, jejíž kořen jest -(- formě mající .-.ořen jest
+
+
+tedy forma zní a.r2 axy-\-ay*. Taková forma vyskytuje mezi třídami diskriminantu —zl obecně '^(\~o~) krátě.
+
+
+Formy mající kořen jsou typu (n, «), výboru forem přichází krátě.
+
+
+Znamenejme nyní literou ^(z/) počet všech forem výboru (&). Mezi
+
+
+těmi vyskytuje ných; zbytek
+
+
+rozpadá
+
+
+forem kořeni 2/(z/J forem výjimeč-
+
+
+trojic forem rovnomocných, každá těchto trojic zastupuje jednu třídu. těmto třídám pojí třid obsahujících formu (a, a),
+
+
+pak JÍV třid (o, konečně /(^) třid výjimečných. Tedy počet všech třid kvadratických forem diskriminantu bude
+
+
+(J) 2f(J)
+
+
+následovně
+
+
+(5)
+
+
+2J-
+
+
+IV. ﻿veličina J(4) dána rovnicemi (4a) (4d), G(J) značí počet forem boru (íi), počet řešení požadavku
+
+
+Ustanovme nyní tento počet (J). Podmínky tyto lze zahrnouti, požadavkem, aby výraz
+
+
+
+
+
+
+
+
+byl při podmínce 4a>b kladným číslem celistvým; totiž jeho hodnota.
+
+
+ZavedVne literu l>—k\ pak číslo celistvé kladné, podrobené podmínce
+
+
+_:0 (mód. 4),
+
+
+požadavek náš redukuje vyjádření počtu případů, nichž výraz
+
+
+
+
+
+jv; číslem celistvým. Píšeme-li ještě />, máme tedy výsledek: »Symbol O(J) rovná počtu případů, kdy výraz
+
+
+(6)
+
+
+-Av A>0,v<:0; A+v mód. 4/1
+
+
+jest kladné číslo celistvé. Jinak vyjádřeno, (z/) udává počet řešení neurčité rovnice
+
+
+.!""//-(- (o? -j-z/) .7?-}-^ (mód. 4), </,z ...
+
+
+Pomocí tohoto výsledku bude lze stanoviti součty
+
+
+tím účelem uvažme, dle (6) A-V
+
+
+
+
+
+*--\-v (mód. 4)\
+
+
+A>O, v^o
+
+
+Avšak dle známé vlastnosti celků veličiny ,r, které znamenejme (a-), bude
+
+
+
+
+
+
+
+
+IV. ﻿10
+
+
+přibere-li podmínka (mód. 2), která nutná celistvosti výrazu (6).
+
+
+Podle toho vyjde <7')
+
+
+summačními podmínkami
+
+
+v=lt A-fv_0 (mód. dále
+
+
+kde
+
+
+A'= 10, ... ... A'-|-I/EIEO (mód. 4».
+
+
+Výsledky tyto obdrží tvar pro počítání pohodlnější, rozdělí-li členové členů dále klade-li A'= —2/i, odstraní-li členové
+
+
+Tak vyjde
+
+
+kde
+
+
+vz=0(mod. 4.), (A,
+
+
+Dále
+
+
+kde
+
+
+«</}; /3sudé; Užije-li známého vztahu Dirichletova
+
+
+IV. ﻿11
+
+
+vyjde výsledek jednodušší
+
+
+t=l
+
+
+
+
+
+kde
+
+
+-f- sudé;
+
+
+Nyní potřebujeme ještě vyšetřiti součet
+
+
+Podle (4"") jest
+
+
+
+
+
+Avšak vždy
+
+
+
+
+
+tedy
+
+
+Podle vzorce (5) tedy obdrží
+
+
+což dle (7C) zní
+
+
+(8) 3j?F(4k-l)=i%S(4k
+
+
+Í!±V
+
+
+2JEl-
+
+
+
+
+
+IV. ﻿12
+
+
+při čemž podmínky summační znějí
+
+
+(mód. 4). Komplikovanější jest výpočet součtu
+
+
+Pro lichá dle (4C) 2/(4
+
+
+pro •=. liché) pak /(4fc) konečně pro jest dle (4d)
+
+
+uváží-li ještě, vždy
+
+
+obdržíme sečtením výrazů
+
+
+[T]
+
+
+l,3,5,...
+
+
+Podle vzorce (5) tedy
+
+
+Avšak
+
+
+tedy
+
+
+podle (7d) pak
+
+
+
+
+
+IV. ﻿13
+
+
+tedy obdrží
+
+
+i,3,5,...
+
+
+při čemž posledním součtu býti -(- vždy sudé dále
+
+
+/3> 1,2, provedené výpočet pro 10. máme
+
+
+(1) (3) (5) (7) (9) 10, 10) 10,
+
+
+tedy
+
+
+dále
+
+
+konečně
+
+
+tedy součet
+
+
+3L2(v10)4-L20;i V'1Ó)=28;
+
+
+108 120,
+
+
+takže
+
+
+
+
+
+IV. ﻿14
+
+
+čemž nás poučí následující tabulka forem redukovaných
+
+
+
+
+
+
+
+
+(l,
+
+
+(l,
+
+
+(l, 3), (2,
+
+
+(l, 4), (2,
+
+
+(l, 5), (2,
+
+
+(l, 6), (2,
+
+
+(l, 7), (2,
+
+
+(l, 8), (2, 4), (3,
+
+
+(l, 9), (2, 5), (3,
+
+
+(l, 10), (2,
+
+
+Položme nyní vzorci (8) 10; bude
+
+
+
+
+
+dále součtu máme pro
+
+
+A=: 3,7, 11, 15, „/39-3
+
+
+
+
+
+tedy
+
+
+tedy
+
+
+
+
+
+F(4*— 2.2 2.31 60,
+
+
+
+
+
+IV. čemž nás přesvědčí následující tabulka forem redukovaných
+
+
+
+
+
+(l,
+
+
+(l,
+
+
+fl,
+
+
+(l, 4), (2,
+
+
+(l,
+
+
+(l, 6), (2,
+
+
+(l, 7), (3,
+
+
+(l, 8), (2,
+
+
+(l, 9), (3,
+
+
+(l, 10), (2,± 5), (3,
+
+
+Formu (a, příslušnou třídu zoveme primitivní, nemají-li čísla <7, />, společného dělitele; znamenáme-li symbolem počet tříd primitivních diskriminantu bude toto číslo obecné různé (J).
+
+
+Je-li největší společný činitel součinitelů takže &', —r- tvoří formu primitivní, bude
+
+
+d*(a'cf //2),
+
+
+tedy diskriminant obsahuje kvadratického dělitele d2. Čísla /í} tedy splývají pro ony diskriminanty, které nemají kvadratických činitelů.
+
+
+Budiž největší čtverec obsažený jako činitel, tak aby podíl
+
+
+-Q2- -4)
+
+
+měl ještě tvar diskriminantu, takže pro sudá platí
+
+
+z/0 aneb (mód. 16).
+
+
+Tento diskriminant neobsahuje kvadratických dělitelů lichých,
+
+
+sudých pouze nemá-li------•— tvar diskriminantní, takže může ještě
+
+
+býti z/0 délitelno osmi, nikoli však šestnácti.
+
+
+Nyní máme rovnici
+
+
+IV. ﻿16
+
+
+které plyne, obsaženo liché části patrno, kdyby pak odstranění všech společných dělitelů zbylo
+
+
+
+
+
+
+
+
+kde liché, bylo celistvé číslo —-— zbaveno tvaru diskriminant-
+
+
+
+
+
+'j2, což protiví hodnotě b'2 </' <•'.
+
+
+
+
+
+ního, tedy též součin
+
+
+Tudíž celistvé číslo, forma («', //, c') primitivní formou diskriminantu
+
+
+toho plyne, bude (10) /••
+
+
+kde součet vztahuje všem dělitelům čísla
+
+
+Stanovením součtů jako (8) (9) zabýval pan Hermite, užívaje při tom některých svých vzorců theorie funkcí elliptických.*) Nicméně naše výsledky detailech liší výrazů slavného mathematika francouzského neboť pan Hermite uvažoval formy typu -4- -L- y2, jak byl zavedl Gauss Dirichlet, kdežto přítomné práci vzata základ forma obecnější .r2 -j- -[- t/2 příkladu Kroneckcrové. Užívání těchto forem následek jistá zjednodušení theorie, přítomném problému však spíše zdá tvar klassický vésti výsledkům přehlednějším.
+
+
+Formy Gaussovské diskriminantu splývají formami Kroneckerovými diskriminantu b)- --- 4ftc
+
+
+Remarques arithmétiques sur quelques formules theorie děs fonctions elliptiques 'Journal fůr die reine angew. Mathematik, sv. 100). Viz též >Sur quelques conséquences arithmétiques děs formules theorie děs fonctions elliptiques Mélanges mathématiques astronomiques tirés Bulletin 1'Académie Imperiále •de St. Pétersbourg, VI, též Acta math. sv.
+
+
+IV."

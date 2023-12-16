@@ -1,0 +1,105 @@
+"","x"
+"1"," ﻿ROČNÍK XIV.
+TŘÍDA II.
+ČÍSLO   8.
+O stanovení oskulační plochy kulové křivky prostorové.
+Napsal Prof.  Bedřich   Procházka.
+(Předloženo dne 28. ledna 1905.)
+Vhodný prostředek ku stanovení oskulační plochy kulové křivky prostorové řešení této úlohy poskytuje také geometrie kinematická
+1. Střed oskulační plochy kulové v určitém bodě a křivky prostorové K, která jest určena tímto bodem a třemi dalšími nekonečně blízkými body la, 2a, 3a stanovíme jakožto průsečík osy křivosti O bodu a příslu-šící, t. j. kolmice ve středu křivosti ^ k rovině oskulační a la 2a vztýčené, s rovinou x, kolmo ke křivce K v bodě 2a sestrojenou. Poněvadž páry bodů a 1a, la 2a, 2a za určeny jsou tečny 7"", '71, 2T křivky /ť, jest poloha oné roviny x dána polohou tečny 2T. Poloha této tečny jest však závislá na kontingenčním úhlu křivky K v bodě a, jakož i na úhlu oskulačních rovin a la 2a a la 2a sa, který se úhlem kroucení křivky prostorové zove.
+Tečny T, 1T, 2T prostorové křivky K jsou povrchovými přímkami plochy rozvinutelné touto křivkou určené. Tečnami T1T, l T 2T určené roviny T, Jr, totožné s rovinami oskulačními a la 2a, ^a ~a 3a} jsou tečnými rovinami této plochy rozvinutelné, jichž odchylka jest tudíž úhlem kroucení.
+Průsečná křivka R této plochy rozvinutelné s libovolnou rovinou Q obsahuje průsečíky r, lr, 2r této roviny s jejími přímkami povrchovými T, 17', *'L\ Páry bodů r lr, *r2r určeny jsou tečny M, 1M jakožto stopy rovin tečných T, IT plochy roivinutelné v rovině L>.
+Na úhlu těchto tečen M, 1M a tudíž i na křivosti průsečné křivky ^ jest závislý úhel kroucení a tudíž i oskulační plocha kulová.
+Závislost tuto můžeme vystihnouti geometrií kinematickou následovně:
+VIII ﻿Z poloměru křivosti křivky K v bodě a můžeme známým způsobem*) geometrií kinematickou stanoviti rychlost, kterou se bod a pohybuje v tečně T a rychlost, kterou se tato tečna otáčí v rovině oskulační lr. Z poloměru křivosti křivky R sestrojíme si rychlost, kterou se rovina oskulační r otáčí.
+Abychom rychlost otočení tečny T v rovině oskulační T křivky K odvodili, zvolíme v tečně této rychlost a v bodu a a spustíme s bodu tohoto kolmici a u ku přímce s v, spojující střed křivosti s křivky K, v bodě a sestrojený, s bodem v. Potom představuje úsečka v u _J_ T a přímkou a u omezená rychlost, kterou se bod v při otáčení tečny T pohybuje.
+Ku stanovení rychlosti rr"" stopy r tečny T v rovině Q, veďme bodem tímto rovnoběžku k přímce v u, která protíná přímku a u v bodě r\ kterým vedená rovnoběžka r' r"" k tečně T protíná stopu M roviny Q v bodě r"" určujícím rychlost rr"".
+Z rychlosti této rr"" a křivosti křivky R určíme týmž způsobem rychlost otáčení tečny M křivky této jakožto stopy oskulační roviny r a tím i rychlost otáčení této roviny.
+Za tím účelem spojíme střed křivosti s' křivky R s bodem r"" a ve-vederne bodem r kolmici rr'"" k této přímce s' r'. Kolmice rr'"" určuje ve přímce r"" r'"" J_ M rychlost r"" r'"" bodu r"" při otáčení tečny M. Úsečka rr1"" stanoví nám zároveň výslednou rychlost bodu r (jakožto stopy tečny T). Z rychlosti rr""' stanovíme rychlost r riv kolmou k tečně T tím, že omezíme přímku r rlv J_ T v rovině T', určené tečnou T a úsečkou rr'"" ^M', rovnoběžkou r'"" rlv ku přímce T.
+Polohou roviny r' jest vyjádřena rychlost otáčení roviny T a polohou přímky a rlv rychlost otočení přímky tečné T, příslušící k zvolené rychlosti a v, kterou se bod a v tečně této pohybuje.
+Dle uvedené konstrukce středu křivosti pro křivky rovinné protíná rovina x, kolmá k přímce la riv a bodem v vedená, osu oskulační O, křivce K v bodě a příslušící, ve středu o oskulační plochy kulové. Tato rovina x protíná rovinu r' ve přímce y x _J_ la riv, která v bodě x seče průsečnici ta této roviny s rovinou normálnou v, v bodě la ke křivce K sestrojenou a její osu křivosti O obsahující. Tímto bodem x prochází také průsečnice x o roviny x s rovinou v, která jsouc kolmá k přímce 12a osu O protíná v bodě o, jakožto hledaném středu oskulační plochy kulové.
+2. Jakožto příklad k uvedené konstrukci sestrojme oskulační plochu kulovou křivky šroubové ó\
+Jak známo, spadá střed cskulační plochy kulové této křivky v každém bodě jejím v jedno s příslušným středem křivosti, což zde dokázati na základě předcházející konstrukce bude naším úkolem.
+*) >Kinetický   způsob   sestrojování  tečen  a středů   křivosti   křivek 2. stupně.* Napsal B. Procházka, Rozpravy České Akademie, třída II., ročn. III., čís. 19., odst. 3.
+VIII. ﻿3
+Poloměr plochy válcové F, na níž se křivka šroubová 6"" nalézá, označme p, a úhel, který svírají tečny této křivky s rovinou ff kolmou k její ose A, nazveme a. Dále předpokládejme, že jsme způsobem v de-skriptivní geometrii známým sestrojili v některém bodě a křivky šroubové tečnu 71, rovinu oskulační r, hlavní normálu TV, binormalu Bt rovinu nor-malnou v, příslušný střed křivosti s jakož i příslušnou osu křivosti tento bod s obsahující a v rovině v ležící. Za známé pokládejme také, že poloměr křivosti a s =: —*-x- a že souhrnem tečen křivky šroubové určena jest cos Áa
+rozvinutelná   plocha   šroubová,  již každá   rovina   kolmá ku ose A protíná v evolventě R křivky kruhové K, v níž táž rovina plochu válcovou V seče
+Zvolme si za takovou rovinu kolmou ku ose A nějakou rovinu G, jejíž vzdálenost od bodn. a nazveme d. Rovina tato <? bude rovnoběžná s hlavní normálou N a bude protínati osu A v bodě o, tečnu T v bodě r, osu křivosti O v bodě p, binormalu B v bodě g, rovinu oskulační r ve přímce T\ kteráž jest tečnou křivky R v bodě r, jemuž přísluší jakožto střed křivosti evolventy kružnice K bod at, jenž jest orthogonalným průmětem bodu a do roviny G. Úsečka a a^ udává nám zároveň nahoře zmíněnou vzdálenost d.
+Řídíce se konstrukcí předem uvedenou, zvolíme si v tečně T nějakou úsečku av~e za rychlost, kterou se bod a ve šroubovici pohybuje a sestrojíme v bodě v k tečně T kolmici v u, kteráž kolmici spuštěnou bodem a ku spojnici s v v bodě u protíná. Úsečka v u představuje rychlost, kterou se bod v při otáčení tečny pohybuje.
+Tuto rychlost v u můžeme si vypočítati z podobných trojúhelníků a v u a s a v pomocí úměry:
+v u : v a •=. v a: a s,
+z níž, položíce za v a c a   za a s známý výraz pro poloměr křivosti šrou-bovice, obdržíme:
+—__ e2. cos 2a
+Přímka a u protíná zároveň tečnu T' v bodě r', kterýž, dle konstrukce obecné, vzhledem k tomu, že T' jest kolmá ku T, již také jest bodem r'\ a proto jej také takto označíme.
+Z podobných trojúhelníků r r"" a a v u a plyne úměra:
+rr"";vu~ar':av, z níž, dosadíme-li za v u hodnotu z rovnice 1) a za ar hodnotu
+2)
+sin a
+Vlil. ﻿z pravoúhlého trojúhelníka aa^r plynoucí, obdržíme:
+d . e . cos «
+rr"" =.
+QtgU.
+3)
+Spustíme-li nyní bodem r kolmici rr""' ku spojnici bodu r"" s bodem #j, jakožto středem křivosti křivky R, obdržíme v ní stopu roviny lr v rovině 0, určující v kolmici r"" r""' ku tečně T' v bode r"" vztýčené úsečku r"" r""', vyjadřující rychlost, jakou se bod r"" při otáčení tečny T' v rovině <? pohybuje.
+Přímka r r'"" jest stopou roviny lz v rovině G a protíná stopu p q (rovnoběžnou s T'} roviny normálné v v téže rovině v bodě /, který s bodem a určuje průsečnici roviny 1r s rovinou v.
+Tuto rychlost r"" r""' stanovíme z podobných trojúhelníků rr"" r'"" a #! rr"" pomocí úměry:
+r"" r""' : rr"" ~
+z níž vypočítáme, dosadíce   za r r""   hodnotu z předcházející   rovnice (3.) a za al r hodnotu z pravoúhlého trojúhelníka a al r plynoucí
+a.r —
+d
+tg* '
+d. e* cos2 a
+4)
+Úsečka rr'"" udává nám rychlost, kterou se pohybuje bod r ve přímce r"" r'"" při otáčení tečny T v rovině ]r. Z této rychlosti stanovíme si kolmou rychlost téhož bodu, když ku tečně T v bodě r vztýčenou kolmici rrlv (rovnoběžnou s přímkou ať) omezíme přímkou sestrojenou bodem r""' rovnoběžně k tečně T. Spojnice bodů r"" a riy bude, jak z konstrukce bodu rlv patrno, jsouc rovnoběžná s binonnalou B i s osou křivosti 6>, kolmá ku přímce r'"" rlv i přímce r' r"".
+Jsou proto trojúhelníky: r"" r'"" rlv a r r"" rlv pravoúhelnými.
+Z prvého, při jehož vrcholu r'"" se patrně   úhel « vyskytuje,  plyne:
+r"" rlv = r"" r""'. sin a,
+kterýž výraz   po   dosazení  hodnoty  za r"" r'"" z rovnice   předcházející (4) lze uvésti na tvar:
+—r—í„       d . e2
+cos0 a
+5)
+Z druhého pravoúhlého trojúhelníka r r"" rlv, majícího při vrcholu r"" úhel pravý vyplývá pro úsečku rrlv jakožto přeponu:
+rr
+IV
+= TÍrr""*-\-
+r"" rIV2
+VIII. ﻿po dosazení hodnot za úsečky rr"" a r"" rlv z rovnic 3) a 5)
+.IV — _
+d . e . cos
+a -i/ ,        e*    . y l -| -- g Jz
+-N o)
+Rovina x s bodu y kolmo na přímku a rlv spuštěná protíná dle předem uvedené konstrukce osu křivosti O v hledaném středu oskulační plochy kulové.
+Abychom bod ten sestrojili, spustíme s bodu y v rovině IT kolmici y x na přímku a riv, která bude patrně průsečnicí zmíněné roviny x s rovinou IT. Kolmice ta protne přímku 12a, kteráž jest průsečnicí roviny 'r s rovinou v, v bodě x, jímž prochází průsečnice P roviny x a v. Přímka tato P, jelikož obě roviny x a v k rovině Jr kolmo stojí, jest kolmá ku této rovině, a tudíž i ku přímce ta.
+Z podobných trojúhelníků: arrlv a xav plyne úměra:
+ax\av~ar:rr
+IV
+z níž po dosazení hodnot za úsečky a v, ar a rrlv z rovnic 2) a 6) obdržíme:
+----          ř>                        l
+a x == —
+cos
+"" ' \\        <?2
+I          '       /»2
+Kolmice P v bodě x ku přímce a t vztýčená protíná hlavní normálu N v bodě Lr, o kterém máme dokázati, že se se středem křivosti J sto-tožňuje.
+Z pravoúhlého trojúhelníka axz plyne, označíme-li úhel x a z písmenem /3, že přepona jeho
+a z ~
+eosft
+ON
+8)
+Za úsečku a x položíme do tohoto výrazu hodnotu z rovnice předcházející (7) a hodnotu cos fi můžeme si vypočítati z pravoúhlého trojúhelníka rr""rlv, v němž se také úhel /S při vrcholu r vyskytuje, totiž:
+a         rr
+cos 3 —___   ,
+TV   '
+rrlv
+z níž,   dosadíme-li   za  rr""  a  rrlv   hodnoty   z rovnice 3) a 6) plynoucí, obdržíme
+l
+cos /3 =:
+V
+l -\----j sin2 a cos* a
+vin. ﻿Po dosazení  těchto   hodnot za a x a cos /3 do rovnice 8) obdržíme
+W *ť     —           a       i
+COS* «
+t. j. obdržíme známý výraz pro poloměr křivosti šroubovice.
+Proto se bod z stotožňuje s bodem s, čili jinak řečeno, rovina x protíná osu křivosti O v bodě s, kterýž jest, jak bylo dokázati, středem oskulační plochy kulové.
+3. Jest zřejtno, že z této konstrukce oskulační plochy kulové nějaké křivky prostorové zároveň vyplývá, jak by se z daného poloměru křivosti této křivky a daného středu příslušné kulové plochy oskulační sestrojil poloměr křivosti v příslušném bodě křivky, v níž libovolná rovina protíná rozvinutelnou plochu určenou křivkou prostorovou.
+
+VIII."

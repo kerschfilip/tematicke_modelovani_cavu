@@ -1,0 +1,393 @@
+"","x"
+"1"," ﻿ROČNÍK XVII.
+TŘÍDA  II.
+ČÍSLO 37.
+O počtu invariantních útvarů na sobě lineárně
+nezávislých.
+(D r u h é   poje (l n á n í.)
+Napsal K. PETR.
+Předloženo   dne   16.   října   1908.
+V pojednání prvém téhož nadpisu jako toto (Rozpra\y, ročník 17.. č. 17) odvodil jsem výsledky pro počet invariantních útvaru na sobe lineárně nezávislých jako důsledek rady, j^ž zase jest specielním případem řady, která byla předmětem práce „O jednom rozvoji pro algebraické formy,, (Rozpravy, ročník 10., č. 7.).
+Tím docíleno odvození stručné, avšak na druhé straně předpokládány jsou při důkaze pro zmíněný rozvoj poněkud složité věty o derivaci determinantu. Pokoušel jsem se, zda by odvození dosažených výsledku nebylo lze opříti pouze o věty elementární. Podařilo se' mi vskutku dospěti ze základních vět o invariantních útvarech přímo k rozvoji, jenž vcd< snadno ku stanovení hledaného počtu, jak jest v tomto pojednání vyloženo.
+Vývody následující jsou v některých směrech blízky vyšetřování Demytsově, *) jak snad při výkonech vedoucích ku témuž cíli jinak není možné). Tak ku př. Deruyts užívá v § 4!>. 1. c. podobné pomůcky, jako jsou v následujícím t. zv. krajní cl mn-é de finovaní v odstaxci II. a mající pro celou práci fundamentální význam.
+Naproti lomu - - abych jmenoval aspoň dva důležité rozdíly mezi postupem Deruytsovým a postupem tu podaným -- neuží\ám symbolického vyjádřuií íoivm a neopouštím jako to činí IVmvts obor
+*)  Deruyts. Essai ďune  thcorio generále děs formcs algébriqucs.
+Rozpravy    II. li. Roř. XVII. Čís. 37.                                                                                                           l
+XXXVII. ﻿tt-árních forem, kteréžto obě okolnosti jsou značně na úkor přehledností
+a stručnosti.
+V odstavci I., aby docílena byla co možná úplná jasnost', sestavil jsem všecka v násUdujícím potřebná označení, věty a pomůcky. Věty tam uvedené, jak čtenář snadno zjistí, jsov* vskutku elementární, důkazy jich jsou zcela jednoduché.*)
+V odstavci VI. podávám výsledky výpočtu někol'ka redukovaných vytvořujících funkcí v jednodušších případt ch ti-marných forem. Způsob, jakého j/e n při výpočtu redukovaných funkcí z-: suro\ých funkcí (jichžto obecné odvození jsem podal v práci A na sír. 18. a násl.), jakož i výpočet vytvořujících funkcí pro jiné formy z-jména kvatirnár.n \yloziti hodlám při jiné příL ž'tosti.
+I. Označení, předběžné věty a poznámky.
+1. Determinanty značiti budu k vůli stručnosti závorkou obsahující po řadě všecky diagonálně prvky determinantu.   Tak ku př.
+'   fc(i)        t</>       fc(i) i
+*1 '    »g '   s3
+L(/;)     ..(ft)     j.(/í)
+• l   '    So   »   S;{
+Toto označení jest tu výhodné vzhledem ku okolnosti, že se v následujícím vyskytují téměř vesměs determinanty, jichž prvky závisí na dvou indexech. Dolní indexy jsou v některých případt ch vynechávány.
+2. Pokud jinak není vytčeno, běží v následujícím vždy o formy řad proměnných w-árních.
+Formu můžeme upraviti jako součet, kde každý sčítanec jest součin výrazu na proměnných nezávislého a součinu mocnin jednotlivých proměnných; můžeme pak předpokládati, že dva různí sčítanci mají vždy tyto součiny mocnin proměnných různé. Za tohoto předpokladu budeme sčítanci říkati č len f o r m y. Jest tedy člen formy součin dvou činitelů, jeden jest nezávislý na proměnných i bude nazýván stručně k o c f f i-c i e n t členy formy, druhý činitel bude nazýván činitel p r o-m ě n n ý.
+*) Z části jsou tyto věty dokázány jednak v pojednání ,,O počtu . . .'' (Rc/.pr. XVII., č. 17.) jednak ve článku ,,O rovnicích diífcrcnciálních pro invariantní útvary"", Časopis pro p. m. a f. ročník XXXVII., str. 261. a násl. K vůli stručnosti cituje tato pojednání, užívám v náslcd. pro první písmeno .1. pro druhé B.
+XXXVTT. ﻿! '     3. Jestliže   jest na formě řad proměnných derivační operaci tvaru
+, . . . (x(ft))  provésti
+ve které symboly derivační vztahující se ku (AÍI)) jsou v témž stupni jako stupeň formy v (*(ť)), obdržeti můžeme patrně jenom z jediného členu formy výsledek od nully různý a to ze clenu, jehož činit* l proměnn}' jest:
+a dostaneme patrně za výslecLk koefficient toho členu násobený fakto-riellami.
+4.   V následujícím  se   budeme  zabývati   hlavně  dvěma  skupinami torem.    V prvé řadě to bude skupina daných forem ;z-árních.   O koeffi-cientech jejich a, b, c, . . .  učiníme předpoklad, že jsou to parametry, jež však   nemusí býti neodvislé, že však vztahy (algebraické), jež imzi těmi parametry jsou,   jakoukoli lineární substitucí proměnných zůstávají nedotčeny.
+Další skupina, jež bude předmětem našich úvah, jest skupina invariantních útvarů příslušících k danému systému forem (v této skupině jest předcházející skupina ovšem obsažena). Koefficienty A, B, . . . forem této skupiny jsou racionálně a celistvé funkce kcefficientň forem první skupiny. Rovnici vyjadřující vlastnost' invariantní u formy F(A,.\(t)] lze psáti ve tvaru:
+(1)                                  /•' M',.1-'^) - ůw F (A,.\(i>) ,
+kde A' jest táž rač. cel. funkce koefficientň a', b', . . . forem daného systému transformovaných lineární substitucí, jaká jest A čísel a, b, c . . . a kde ů jest determinantem lineární substituce.
+5.   Pro operace polární užívati budu označení
+1 ^               '•s    (i)      l               ^   _(»)      2                                        /•
+3 A;,                      3 JP;                                             o *
+l                                -                                                         n
+O operacích polárních budu předpokládati věty: Věta    J.    Jestliže   pro  formu  /(.v)   ;z- řad   proměnných   ;z-árních (.v(1)), (*(2)), . . . (A("">) jsou platný vztahy 7)12 / = O, D18 / = O, . . . Dln/ = O a
+jestliže stupeň formy v řadě (;v(>)) jest zrf) jest
+/ /r\_/r(D   Y(2)         r(»h tt'i ,, IY\
+l  \X)  —  \Xi  '   X*  > • •  ' X„  l        S (X) >
+kde L (.v) nezávisí již od řady (*(1)).  Zároveň jest při / (.v) od nully různém
+íV! íg it-.        ť = 2, :>, ...;/.
+XXXVII.                                             l* ﻿Důkaz této věty viz v B, str. 203.
+Věta   2.   Provedcme-li   na invariantní útvar operaci polární  (dle proměnných), bude nový útvar rovněž invariantním.
+Věta    3.   l
+H.
+a ^
+kd<% QI — ft — (> a součet   vztahuje se   na.  všecky kombinace j1, f.2, • • • J0
+p-té třídy z čísi l l, 2.....u , lze nahraditi operacemi polárními.   Důkazy
+těchto vět jsou známé a zcela jednoduché, věty 3. lze provésti, vyjádiíme-li dvojím způsobem součin pravoúhelných matic. (Viz Capelli, Matli. Ann., sv. 37., str. 18.)
+6. Lineirní transformací, kterou se řady proměnných transformují, píšeme ve tvaru
+při čemž pokládáme ^ za  riz na sobě nezávislých parametru.
+Pod vahou proměnné xk dle indexu / vyrozumíváme stupeň \ řadě parametru (L<'>) raoionálného výrazu, který dostaneme, vypoěteme-li .v^ pomocí (.v) a (L) řešíce rovnice (2). Tak zjednáme si ihned, že \ aha xk dle indexu k jest — l, dle ostatních indexu jest mília.
+Podobně můžeme definovati váhu koefficientu invariantních útvaru dle jednotlivých indexu. Můžeme však užívati též těchto pravidel ku výpočtu těch \ ah:
+Váha součinu jest rovna součtu vah jednotlivých činitelů.
+Váha každého členu urč tého invariantního útvaru dle každého indexu ]est táž a rovna jest celému číslu ic. Pravidlo toto má základ v definici invariantního útvaru vyjádřené rovnici (1).*)
+1. S lineirní transformací spjata jest úzce operace 4ik, j<-ž má pu-\-odne \-yznam polární operace cíle řad parametrů í|(z)), lze však oj;eraci' tuto ni-závisle na těchto řadách defino\-ati \. iz A str. lo. a násl. íi B str. 2GS. a násl.).
+Provádějíce operaci dik (y pie^e e'iém smyslu) na jakoukoli formu závislou na k< eílicieiitech daného systému forem a na proměnných, jež označíme (.v(í)), i == l, 2, 3 . . . . , provádíme; vlastně operace d\ě; jedna vztahuje se ku koeffici< ntum -- tu označíme 4ih — •; druhou, která vztahuje se ku proměnným, známi nati budi-me symbolem -~Pki> píšíce
+li. sir.  20().
+^^M
+ik
+X XXVI1. ﻿kd.
+*%i.?
+S   v<í)
+,.,,     *1
+c'X]
+Jist tedy PAť jaksi polární operace dle proměnných (.v) vztahující se však ku dolním i n d ° x u m, kdežto operace polární ve vlastním slova smyslu Dik zaměňuje horní indexy.
+Pro invariantní útvary užijeme věty.*)
+Věta   4.    Invariantní útvar F (A, .r(t)) hoví rovnicím
+JikF (A, x®) = O ;    i ^ k,    i, k = l, 2.....u .
+8. Závisí-li   invariantní   útvar   nejvýše   na   n řadách proměnných, l, ""2, . . . n, a je-li v řadě (.v(l)) stupně ic^ pak clen.
+jež  označíme
+II) Wi     (2)0/2
+,("">
+•lvi                          v          /         /•     1    .1            'l          l (U/l       (ZJU/o                   /;)   U7M       11                     /         /
+jehožto proměnný faktor jest x\ x., .. . xn , bude nazýván vedoucím členem. Koefficient tohoto členu budeme nazývati vedoucím koefíic;entem. Za předpokladů učiněných o koefficientech daného systému forem plynou snadno věty tyto o vedoucím členu:
+Věta •"">. Vedoucím koefficientem jest invariantní útvar jednoznačně určen. Pn tom pokládáni'- takové invariantní útvary, jež l'si ?e multiplikativně o mocninu determinantu (x(^}, x{.,2), ... #',""'). jakožto stejné. (Viz A, str. 10.)
+V ě t a G. Jestliže pro invariantní útvarů (A, \(l}) jest splněna ruvirci Di k F (A, .r(ť)) =0, jist pro vedoucí koefficient F tohoto útvaru splněna rovnice Jik F= 0. (Viz A, str. 10.)
+*) Vyplývá z okolnosti, že transformovaný invariantrí útvar rovná se mocnině determinantu j |' násobené výrazem od (s/) ncodvislým. Y B, str. 207. odvodil jsem větu: Aby forma F (A. ,Y<*>) rač. cel. funkce kocfíicientů forem daného systému a dle každého indexu téže váhy byla invariantním útvarem, k tomu mitná a postačující podmínka jest dána rovnicemi
+4\.kF \A,
+= O
+A = 2,3,. ... n .
+Místo   této nutné a postačující podmínky lze psáti podmínku, danou n rov-
+nicemi
+a netřeba ji/, vytýkati. š.c 1-"" má bvti dle každého indexu téže váhy. Xeboť z prvých » — l rovnic jako jednoduchý důsledek věty 1. vyplývá (a) a zároveň zi-j ^ ;,•,:, z = 2, 3, ...;?. / p islcdních w — l rovnic v (/í) v}Tplývá u1*^ ^'i • ' = !• -^ • • • 7'-Z ])osledních » — 2 rovnic a první rovnice v (0} pak následuje ze'3 ^ u'» , «' = = l, 2, 4, . . ;/ atd.; i jest tudíž při rovnicích (/3) splněno samo sebou w^ — wt = .. = Wn. Ba není ani potřeba o F (A,x) })řcdpokládati, že jest isobarická dle jednotlivých indexů; staří to předpokládati, že jest isobarická dle jednoho indexu ku př. dle indexu l a isobaričiiost dle indexu oslalních vy)ilý\'á pak snadno rovněž z i/í) a věty (1). Snn-pcj jiné odvození tohoto výsledku (pí o ternární formy) ve článku W. F r. Mcyei a, (""ber die Erzcugung lincarer tcrnárer Subst. etc., Xachrichten voň der kón. (iescll. d. Wiss. zu Gottingeti, 1008, str. 219 a násl.
+XXXVII. ﻿Věta  7.  Jestliže pro vedoucí koefficieňt V od nully různý o váhách 7L'1( w2, . . . wn dle indexů  l, 2, . . . n jsou splněny rovnice
+^/12 V     O,    z/1:! F= O,    ...    4lnV--Q,
+pak tťj ^ «y / = 2, 3, . . . ;/, a přísluší tomuto koefíicu ntu jeden invariantní útvar závislý toliko na //— l řadách proměnných (*(1)), . . . (.v(""-1)) ve stupních <L'., — u\, u\A — w\,.....wn — n\, (B str. 27ii.)
+9. Konečně jest poznamenati, ž>; invariiiiitní út\-ary daného systému
+forem závislé na v kogredientních řadách (x(1}), (x{'2)), .... (.v(y)) můžeme pokládati za invariantní útvary závislé toliko na (i řadách proměnných,
+ku př. na řadách (.r(1)), (,v(
+; [i < v. Ostatní řady totiž (\{-n+l], . . .
+f.v(v)) můžeme pokládati za koefficienty forem, jež k danému systému přiřadíme; tak ku př. řadu (,v(v)) lze považovati za koefficienty této formy o n— l řadách proměnných (v(1)), (;V(2)). .... (\r(""~1)) kogredientních s (.r(1)),
+(x"". y
+<""
+y;
+Mění-li sa řady (.r(1)), .... (x(ft}) [a tudíž i (v*)] lineární substitucí ('2), kterouž značme zkrátka .v = S (x'}, mění se koefficienty (.v(v)) této formy
+substitucí (.r(r)) = d~l . 27(.v'(v)), kded = ! &}\ .  l nastane změna při růz-
+i   * l
+ném   pojímání   řad (.v(i""+1)).....(.v(v)) jenom potud, že pokládáme-li řady
+ty za koefficienty naznačeným způsobem, při lineární transformaci proměnných se mění řady (.v{^+1)), . . . (x(v}) právě tak, jako kdybychom je pokládali za řady proměnných, nehledě ovšem k tomu, že jest je ještě násobiti d\
+Při invariantním  útvaru F (A, .r(1), . . x(v}) má tudíž ono různé pojímání  řad  (x(í4+l)}, .    . (x(y}}  toliko na  váhu w tohoto  útvaru.
+II.  Definice krajních členů.
+Budiž F (A, x(l}, . . . x(fí)) invariantní útvar příslušný ku danému systému forem. Stupně /'"" v řadách (:v(1)), . . . (x<ft]), na nichž jak pře 1-pokládáme, jedině F závisí, budtež w\, . . . K'fi; budiž konečně p< n.
+Dosadme do F
+(S)
+C.
+O,
+O:    /,•    : l, 2____
+XXXV JI. ﻿Předpokládáme  tudíž provádějíce 5 za různé od nully jenom proměnné obsažené ve čtverečné matici
+x(:\ *<;>,       .    -',
+Provedeme-li   v F substituci  (S), nedostaneme míliu  (za supposicí učiněných  o koefficientech forem daného systému v odst. I. 4. a je-li -jak samo sebou se rozumí — F od nully různo.) To plyne již z té okolnosti, ž-í vedoucí člen
+T/   r(llWl   Y{~]W-               Y((*> 'U'P
+*\          x-i                      *p
+který jest vždy od nully různý, zůstává při (5) nezměněn. Mohou však ještě jiné členy býti od nully různé. Proměnný faktor takového členu má tvar
+^u^ii 3.0 '-W       X(>l)'-i'u   x('}'""-1                    ^'W
+'l              -                      [i                 l                                      a
+Položme pro krátkost
+qi = }-\ i + A- 1 + fa , + • • • • + lpi-
+Cleny nestávající se při (S) milion a mající stejná (qv q.2, . . q () dáme do jedné skupin)"". Ze dvou členů, jež patří clo dvou různých skupin, prvý do skupiny o číslech (q1, q.2, . . . q }, druhý do skupiny o číslech (qv q.2, . . . q'u}, bude nazýván prvý členem vyšším, jestliže z čísel
+pr\-ní, které jest od nully různé, jest kladné. Jestliže první z těchto čísel, jež jest od nully různé, jest záporné, bude první člen členem nižším. Členy, které jsou A* téže skupině, jsou stejné výšky.*)
+Cleny nejnižší bud m e nazývati stručně krajními člen y. Jestliže při formě F (A, .v(1), . . .) existuje toliko jediná skupina členů (ve které se pak nachází vedoucí člen a které přísluší čísla q^ = wlt . . . . g — wit), jsou členové této skupiny krajními Členy. Krajní členy tedy vždy jsou ve formě od nully různé od nully různý.
+Váhy dle indexů 1,2,...^ u koeficientů členu skupiny stanovené čísly (qv q.,, . . . qft) jsoiuc' + qlt w + q.2, . . . w + q , (dle I. <>.). Kdybychom srovnali čle'iy dle těchto čí^el (podobně jako svrchu dle čísel qlt </.,, . . q t),
+*) Pojem výšky tak, jak zde užíván, pochá/í již od YVaringa a má časté použití v algebře. Viz též poznámku v práci ,,O jednom rozvoji. . ."" Rozpravy XVI., č. 7. i str. 22. Též Deruyts používá podobné pomůcky, jakž v úvodu jsem již vytkl.
+XXXVII. ﻿dospěli bychom, jak bezprostředně jasno, ku výsledku: K r a j u í č l o n y j s o u v x li l (í d e m k u v á li á m k o e f f i C i e u t u dle i n d c x u l, l?, . . p rovněž členy n c, j n i ž s í.
+Pro krajní členy invariantních útvaru máme věty:
+V ě t a    S.    K o e f f i c i v n t    .4'    k r a j n í li o    č l e n u    i n v a-r i a n t n í h o   ú t v a r u   li o v í   r o v n i c í m
+412 A' = °>   4ž3 ^ ' = O ,   .....4, _ lf,(.4' = O.
+Provedeme-li operaci Jík, kde i < k jC {i na Člen invariantního útvaru
+F f.-l, .v(1).....v('"")
+f 4 \          A     **( l)
+(4)   .4 *j dostaneme
+(1) /-i
+Jest dvojí věc možná; bud čK n (t) patří ku některé z< skupin čísly (lh< • • • </J charakterisovaných anebo ne})atrí. Xepatíí-li, tu žádný sčítanec součtu (•"")) k takové skupině ve formě dikl; také nepatří. Patií-li (-1) ku skupině o číslech (</,, </.,, . . . i/^) tu ])r\-p.í sčítanec ve (5) patří ku skupině charaktcrisované týmiž cíly (g1, . . <TJ. si ítan< i1 druhý obsahuje \šak členy patřící ke skupině o číslech (qlt . . . qí + l, . . . qk — ] , . . . q^ a tedy ke skupině vyšší. Jsou-li tedy krajní čL-ny v ]' dány součtem LA'.X', jsou krajní čit ny v <dik l' (i < A') dány součtem Z1 ^í/ť ^4') X'; a poněvadž 4ikF — Q (věta 4.), j:>-,t i každé ^/íé,-l' O, jakž bylo t\""rzeno.
+Stejně vyplývá věta:
+V ě t a '•). K o e i říci e n t .-l ' k r a j n í h o č l e n u i n v a-r i a n t n í h o ú t v a r u h o v í r o \ n i e í m
+Specielně je-li (i < n hod těmto rovnicím
+^,1'-  O,    ^,,1'  =0,  ......    ^„-j-l'      0.
+V čta H>. P r o s o u č e t k r a j n í c h č l e n ú v i n v a r i a n t-n í m ú t v a r u 7'"" (.4 , .i(1), . . . .ví/u)), k t e r ý ž t o s o u č e t o / n a-č í m e <V, p latí v 7. t a h y
+12G    o ,   r,,,<'    o,   ...
+o.
+Dokáže se prá\e jako \ctv pí'' -dchá/.< jící. Stačí jenom použiti operaci Jik, kde; k < /, a opírati se o okolnost svrchu vytčenou, ž< krajní členy jsou \vJile4<Mn ku \-áliám ko< íf;ci< ntu dle indexu l, li, ..... ft clím nejnižší.
+XXXV J I. ﻿9
+V ě t a II. i' r o v e d e m e - l i pól á r n í o p e r a c i P n a s o u č c f k r a j n í c li č l e n u i n v a r i a n t n í li o ú t v a r u F, d o Ň t a n e m e b u d' n u l l u, a n e b o s o u č e t k r a j n í c h č l e n ů i n v a r i a n t n í h o ú t v a r u P (l1').
+Vyplývá ihned z okolnosti, že polární operací se dolní indexy a tedy i čísla ql, q>,, . . qfl nemění.
+III.
+Xejprve zabývati se budeme invariantními útvary F (x], závislými n.i (i radách proměnných (.v(1)), . . . (x^) a hovícími rovnicím
+(6)                i\,r   o,   a:!/--    o ......     -i7/ =°-
+Stupeň   formv /•"" (.r) v proměnné řadě (.\(t)) buď icít i =-- l,  2, .... ^.
+Takovéto   rovnice   se  zřetelem  ku  větě  2.  jsou  při  útvarech  inva-
+v. intní'1!! přípustné, aniž by tím byl dotčen předpoklad o koefficientech
+torem  daných  (\-iz s\ rrlm   T.   L).
+O/načme (r (.v) souhrn krajních čli-nu \- F (.v). 1'ak jest dle \'ěty 2. a II. v důsledku ro\-nic ((i) též
+(7)                      /;,, c;     o ,   i),:í(:     o .....   />(t_1.í4^'     o ,
+avšak zarostu dle věty  10.
+(8)                     p12c =o, r,..(; - o .... ^_,,/; - o.
+Z ro\-nic- (7) a věty 1. vyplývá, že j( st G, jež jest formou proměnných čtvercové matice (:}}, děliť Ino zc'rtou (a ne vyšší) mocninou determinantu (x[ , xz , ... .v^*); z rovnic (S) vyplývá podobně, že jest G dělitelno í^-tou (a ne vyšší) mocninou téhož determinantu. Při tom </,, q.-,, . . a^ nechť jsou čísla charakterisující krajní členy. I jest tedy q] = uil, a můžeme psáti
+G(x)       (^•\1), -vf ..... í^^GtW, kde (T^ (.v) /,á\-i<í již jenom na proměnných čtvercové matice
+Xáro\cň jest při /r (.v) od nully různém u1, < u^, Á'       2, ."">, . . . p\ C/, (A) hoví pak rovnicím
+XXXVI l . ﻿10
+A,^,     O, ...... *>„-i,„Gi = 0
+^1 = 0, ...... *%-!,,. ';i =0
+ze kterých jako svrchu následuje
+a při F (x) od nully různém
+HO < ick ;    Á> -    .'i,  í, . . . [i
+a t. cl. Takovýmto způsobem pokračujíce dospějeme po p — l krocích při F (x) od nully různém ku nerovninám
+W\ ^W>^         ^ Wu
+a ku tomuto vyjádření součtu krajních členů
+Glx\    - í*(1)   y{-}            Y(!I]\WI   ír(-}             «WvW|-«*         /w. K'.«-íev»-i y
+<r (#, •       -    l*j     -   *.,    ,    •   •   •   •    Xp   )         (X.-,    ,   .   .   .   .   X;i    )               .   .   .   .   (X^   )                          K ,
+kde V nezávisí již (#(1)), (#(""'). • • • (.v7*1)- Mezi krajními členy jest tu obsažen vedoucí clen.
+Máme  tedy pro I'"" (.r)  rovnost
+/-• (.v) = r; (.v) + A' (X) .
+kde R (.v) obsahuje členy vyšší nežli G (x). Proveďme na /'""(v) -- tormu to vzniklou z F (x) tím, že místo řad (A(I)), (.v(2)), . . . (.v^) zavedli jsme řady (y(1)), ()'(2)), • • • (>'(/ť)) - - operaci
+dostaneme in\-ariantní út\'ar závislý toliko na (x(1)), . . . (x(ft}). Jeho vedoucí člen, jak z významu operací H ihned vysvítá, bude obsažen ve výraze, který dostaneme, provedeme-li na F (y) operaci
+(U
+(33         ?    \ ^i /    3         ?
+^9yf~ ' '^vf ' ' ' 3yJ} /    V ávf ' ' ' ^f
+— W,i      1
+Avšak z okolnosti, /e deri\rační oi)(-rac(   — — — - jsou \"" tomto \ vraže téhox
+c yW
+stupně jako proměnné řady (v(/;)) \'e F (y) \yj)lývá, že F provedena na A' (v) dává   míliu;   neboť 7ť (A')  obsahuje  (v/v.)  \' jiných stupních než F operace
+( - ) (viz  I. 3).   A tak mánv,   bezprostředně
+v 2   k /
+XXXVII. ﻿11
+r [/•• (
+.v)]
+«
+kde a jest celistvé kladné číslo (od nully různé). Nehledě k numerickému faktoru je^t tedy vedoucí člen invariantního útvaru získaného polární operací (9) identický s vedoucím členem invariantního útvaru F (.v) a můžeme tedy psáti
+(10)               /•' (v) -    — l>Wl        ffW""   Wí          ífWfl     uift~1 /. (V) ,
+a           l '2 ...u        L> ... p                          >
+Jest   tudíž za  uvi dt-ných  j>ři-dj)okladu a je-li  /'' (x)  od nully rúziio <v, < h'., ^ . . <. ji'    a   forma F"" (x]  jest formou determinantů
+,-(D
+fin
+ve stupni u1! , ve stupni íL'2
+ve stupni íi1   — u1! .
+V úvahách předcházejících předpokládáno, že F (.v) jest invariantním útvarem daného systému forem. Ve specielním případě muže to býti forma daná sama a z povahy výsledku docíleného v (10), (který představuje identitu), vyplývá, že můžeme přisouditi koefficientům té formy libovolné numerické hodnoty nejsoucí ovšem v odporu s rovnicemi (6), takž--' mnž< mé vysloviti větu:
+Věta
+(1)
+s o u -
+-(ít)
+r m u    F (.v
+t u p n í c h
+h
+s ]i l n ě n y
+r o \- n i c e (<'>), l z e j i p sáti j a k o for m u d e t c r m i n a n t u (11), a ť k o e l í i c i e n t y j » j í j s o u j i n a k zcela lib o v o l n é (p o p ř í j) a d ě i n u m e r i c k é h o d not y). Jestliže j<st F (.\) o d n n l l y r u z u é, jest ír, < ír._> <^ . . . . <^ ?r
+[V.
+Obrátíme se nyní k invariantním útvarům 7; (.v) závislým na p-řadách (.v(1)),  (.v(2)), . . . (.v''"") a splňujícím rovnice
+/V,
+i \' řatlě (A1"") bud a1, (i =- I.L*. .../*); jestliže1 ji-st F (x) od nully různé, jakž chceme předpokládati, jest a\ <, íc., ^ • • • ^ ÍI'M— i» (dle \-ety 12 a j)oznámky I. !>.). Krajním členům formy /'' (.r) nechť přísluší čísla í/j, í/2, . . . </ .
+XXXVIi. ﻿12
+Zabývati se budeme sonetem krajních členň v F (.v); značiti jej budeme opět G (x). Pro G (x} jsou dle věty 10. splněny rovnice
+a zároveň ze supposice (12) o 77 (.v) dle1 \ ěty  11. a 2.
+D12G = o,   />Mr;=o, ..... ^j ^_a G = o .
+Jelikož jest G (;v) formou proměnných čtverečné matice
+v %\  >   .......   xn •
+vyplývá z rovnic  (13)  a věty  ].
+(15)                           G(-r) = (Af , .vf ..... v^)^r;i(_v),
+kde, poně\'adž G (.r) jest   v řadě (.v(1))  stupně cC']T jest řyt < u1,  a  tudíž lži klásti
+G! (.r) nezá\'isí již na proměnných o dolním indexu l, jest tedy formou proměnných obsažených v obdélníkové matici
+vf*'                    v**'
+A'.)     ,       .......      A        ,
+a v radě (.v(1)) stupně xr   Z rovnic (14) a věty  l vyplývá však opět kde forma G1 (x) závisí na proměnných čtvercové matice
+a hoví týmž rovnicím jako G (.v) v (I-'5) a (14).   Tudíž dle věty I. a rovnic obdobných  ku  (13)   jest podobně jako svrchu
+/'   i    \            /    (-)                     (»)> ^2-----ZL>i —X., f     ,    >
+('\ (*} = (-V- • • • xp>                    '('± (.-v) ;
+O ^_ x., ^ w., — ?ť, ,
+XXXVII. ﻿kde (i., (A')  jest  formou závislou na proměnných obdélníkové matice
+„,(-»                            ..(-)
+Takovýmto způsobeni ru z překážky pokračujíce,  zjednáme si řadu dalších rovnic
+(15""')         G'      (.V)   =   (.V'""-/' ,    ^^-l-Wn-2-^-lf^        (v)
+i          ~*                             II ----l               ./í                                                                                  ti ---- l
+G     . (.v) = (^~1))^-1G/    , (.v),
+,« — l    v                     V     M                                      /( ---- l    V-
+/   '         /     \         /     (/(), WH — t0(t — l + }tl+Xlí + .. + Xp—lT7
+T(4~l    W            v    /<    }                                                                                  '   Xj, X2, . . X/i — l-
+y^,. ,tclt—i nezávisí již od řad  (.v(1)), . . . (x(!l)).
+7. rovnic (15), (15'), (15""), (1*5'"") vyplývá pro s o u č e t  k r a j n í c h č l e n u    f o r m y    F (.v)     h o v í c í    r o v n i c í m    (12)     a    stu p ň u
+ic\,   it'.,.....a'tl   v  ř a d á c h   p r o m e n n ý c h   (.v(1)), (.v(2)).....    (Af//))
+v v r a /
+(2)                  V(."">)W3---- Wl ---- X2
+O ""^ x, ""^ u\ :      O < Xj < íť. — ^'ť_i .      i = 2, •'', . . . » --Čísla <71; </.,, . . . qn odpovídající krajním členům pak jsou í/ = n v — X :      ř == l, 2, . . . i — l ,
+Jelikož pak jsou váhy wt dle indexu /při keetficientu T'x , . . dány \ztahy
+u' -   a1 + iji .        í == l, 2 ...... u
+<v'       řť ,                   /       (u +  l . n + '2t . . . n
+a dle věty 0. jest
+4, ,   Jx             O,      /       1.2, .. .n-    l
+A, ...
+je-^t   V         vedoucím    koefficientem    iorm\""   /            (x\   zá\ islé   toliko
+xla . .                                                                                                 AJ «j., . .
+na (u řadách (.v(1)), . . . (A('"") ve stupních (/j,  q., ..... qu   viz  \c""tu 7.)-   Tato íorma  ho\'í  (dle věty tf.  a \-ety (5.)  ro\-nicím
+XXXVII. ﻿14
+(16)
+7)
+O
+a jest to tudíž forma téhož druhu, jako jsou formy vzaté v úvahu v odsta\ci předcházejícím.    Soucit krajních členů této formy jest dle odst. předch.
+</«>,?| — l
+Utvořme kde
+X„ _  l
+X,-----X(í_l
+
+a /x       x _^ (v) \-znikla z formy /x        (.v) dosazením řad (y(í)) místo (x(t]).
+Dostaneme formu, při níž skupina krajních členů bude se   (nehledě ku kladnému celému numerickému koefficientu u         ) shodovati se sku-
+Xj, . . .
+pinou krajních členů formy F (#).*) Jest tedy
+P
+[f
+xux,, . . . x^-i ux,, . . . x^-
+(V),   +   /',   ÍA)  ,
+kde l'\ (x) hoví týmž rovnicím jako l1' (x) v (l 2) (neboť i jř'"" (x) \ fx         jim
+hoví) a kde krajní členové formy F: (x) jsou vyšší nežli krajní členové formy F (x). Na základě výsledku docíleného pro F (.v) mohli bychom psáti podobný vztah pro Fí (x) a t. d., až bychom tak dospěli po konečném počtu kroků ku tomuto vyjádření formy F (.v)
+S v.v
+O
+Tím vyjádřili jsme formu, pro kterou spině i: v jsou ro\ nice (12), jakožto součet polár forem, pro něž splněny jsou rovnice (6). Rozvoj (17) jest totožný v podstatě s rozvojem odvozeným v pojednání A.
+*)   Příslušný postup myšlenkový jest  ty/.,  jako jest postup  v odstavci před-há/ejícím.   Koefficicnt a         obdržíme provedením operace
+/     ?!
+na   vvra/o
+(l)
+JT)' o'Ir'.....yJT1)
+XXXVII ﻿15 V.
+Postup další shoduje se s postupem užitým v (A) odst. III.   Jenom ta okolnost,   že  lineárně  neodvislým  fk  k       (x)   odpovídají lineárně ne-
+odvislé
+jest zde dle předcházejícího bez dalších pomůcek jasná. Neboť krajní členy výrazů (18) vznikají ze skupiny členů v L k obsahující vedoucí člen, i jsou koefficienty krajních členů ve (18) shodný až na numerický činitel od nully různý s koefiic. vedoucího členu ve /, ^ a nemůže býti (18) rovno nu líc, r.ení-li /, h rovno nulle. Rovněž součet výrazů (18)
+/?!> «2> • • •
+od nully různých s různým, kv k.2, . . . nemůže býti rovný nulle, neboť tu jednotliví sčítanci mají krajní členy patřící do různých skupin (qlt qz, . .) a tudíž součet jest jistě od nully různý. A tak z rovnice (17) téměř bezprostředně v y p l ý v á zde vztah
+(wlt w„ . . . wj^    '    : L (wí — k1,ws — kz> zf^.i — AV_I< v+^i+^ + V
+AI, kt, . . kft — i
+\w w'r+1, • • -'O   •
+O < /^ < Wi ;      O < /e. < w i — w^i,      i ----- 2, 3, . . . f»— l ,
+ze kterého jsme v (A) odvodili výraz pro počet lineárně nezávislých primárních kovariantů (daných stupňů v koefficientech forem daného systému). K výsledku tam uvedenému lze poznamenati, že bez dalších úvah lze jej rozšířiti na případ, kdy formy závisí na proměnných několikera druhu, kteréžto druhy nejsou už kogreidentní. Abych to objasnil, uvažujme systém fore.n závislý jednak na proměnných //-árních, jednak na proměnných ?/'-árnírh. Znamenej ž
+(wlt íťá, . . .wn; u\, i*4 . . -^M>...
+počet funkcí  (rač. cel.)  koeťlickntu daných forem, jež jsou dle indexu i týkajícího   se  prvého  druhu proměnných váhy u^, (i = l, 2, . . . n), jež jsou   dle   indexu  i'   týkajícího   druhého   druhu   proměnných   váhy   i</, (ir = l, 2, ... n') a jež jsou konečně dle koefficientů prvé formy stupně 5, dle koefficientů druhé formy stupně t ....... Symbol rt'12 mějž týž význam
+\zhledein ku číslům (zi>) jako symbol í/12 má ku číslu (w?) [viz poj. (.-l) rovnice — ] a označme pro krátkost
+Pak múžemtí vyslo\-iti tuto \ětu.   Počet primárních kovariantů vzhledem ku oběma druhům proměnných, jež jsou stupňů s, t, ... v koefficientech
+XXXVII. ﻿ir,
+pr\-é, druhé, . . . formy, jež jsou váhy nulito a v radách proměnných prvého
+druhu stupňů wlt rr.,, . . . w ,  v řadách pak proměnných druhého druhu
+'      /         '    . stupňů wl, wz> . . wn, jest
+DD' i,
+VI.  Některé příklady vytvořujících funkcí redukovaných.
+1.  Pro formu uvedenou v A. na str. 8. jako příklad
+A o,    .V..
+3ri> y-2
+jest vytvořující redukovaná funkce dána výrazem
+(l — ď2)   (l — a3)   (l — a3 g*)   (l — a'A rf)   (l — a n L)
+Tento výraz určuje zároveň jednoznačně kompletní systém dané formy. Skládá se kompletní systém ze G útvarů a jsou to
+1.   Invariant stupně druhého v koefficientech,
+2.  invariant stupně třetího v koefficientech,
+3.  kovariant stupně třetího v koeff. a téhož stupně v proměnných,
+4.  kontravariant   stupně   třetího  v  koefficientech   a   téhož   stupně v proměnných,
+5.   daná forma,
+0. invariantní útvar stupně druhého v koefficientech a lineární v proměnných (.v) a lineární v proměnných (/i). Třetí mocnina tohoto invariantního útvaru dá se vyjádřiti racionálně celistvě pomocí pr\ ých pěti invariantních útvarů.*)
+L. Vytvořující   redukovaná   funkce  pro   dvě    t e r n á r n í  k v a-
+d r a t i c k é   f o r m y   jest zlomí k, jeho/to
+čitatel
+a   ji hož
+jmenovatel = (l — a |2) (1 — 6 f2) (l — au |) (l — a- v)-) (l — b-(l — a3) (l -- a- b) (i — ab-) (l — /r5).
+*) Ze nuv.i j)ťvými "") invariantními útvary není algebraické relace, jest bc/.-prcstřcdně jasno. Kovněž tak jest bez potíže patrno, xc čtverec invariantního útvaru (i. nelze vyjádřiti racionálně celistvé pomoci 1.—."">. C) trojmoci 0. inv. útv. p;ik nr/.bytně x výrazu (l!)) vyplývá tvrzení svrchu uvedené.
+XXXVII. ﻿17
+Upraven u   vytvořující  funkci  dostaneme,   násobíme -li   čitatele  a jmenovatele l -f al> g ; tím dostaneme pro čitatele v\raz
+ab- L +  au + a- b*
+\-e jmenovateli místo faktoru  l — ab | bude prostě  l — a- b- |2.
+Označíme značkou (a1 l* , |*' í^ři/) primární invariantní útvar, který jist v kceffirientech pn-ní formy stupně A, v kcefficientcch druhé formy stujMič jt, v proměnných (:v) stupně A' a v proměnných (w) stupně fi'.
+Im-arinntní út\-ary, jež se v kompletním systému dle výrazu dosaženého pro upravenou vytvořující funkci vyskytují, budeme psáti ví dvou skupinách. Do první skupiny dáme inv. útvary, jež odpovídají jmenovateli, do druhé skupiny dáme inv. útvary, jež odpovídají čitateli.
+První skupina jest
+I.  (tř, L-), (b, L2), (^ b-, |2), (a1, »/-), (ab, i?2), (bz, >/-), (a3), (a-b), (ab-), (b3); celkem
+10 inv. útvarů). Druhá skupina jest
+II.   (/r! b'\ š3), (a3 b'\ r;:i), (a- b, Ž 1?), (flĎ2, L »/), (rtĎ, |2 1/), (<í2 Ď3, |2 »/), (a3 b*, L- r/).
+(db'\ !• t]-), (a- b-, Ž if), (a:} b, Š rf); (celkem  10 inv. útvarů).
+Ctvi rce a vůbec jakékoliv součiny dvou invariantních útvaru druhé skupiny dají se vždy racionálně celistvě vyjádřiti pomocí invariantních útvarů nižších stupňů, jakž vyplývá bezprostředně z upravené vytvořující funkce za předpokladu, že invariantní útvary první skupiny jsou na sobě algebraicky nezávislý anebo aspoň, že algebraické vztahy mezi těmito útvary jsou stupně vyššího nežli 6 v koefficientech aspoň jedné kvadratické formy. Tuto okolnost lze snadno zjistiti.
+Cleny, jež jsou v čitateli upravené funkce se znaménkem záporným, poukazují k syzygiím. Tak ku př. člen — a3 &3 |l ^ lze interpretovati jenom tak, že existuje relace tvaru
+a (a- b\ F ii) (a, f») + /i (a3 Ir, f ij) (b, L*) + A (ab, ? *]) (^ b'-, ?) = <> a, /j, A numerické hodnoty
+a podobně tomu jest při ostatních členech.
+Zda mimo 20 útvarů invariantních nahoře vytčených mají dvě kvadratické temární formy ještě jiné invariantní útvary, k tomu by bylo In -ba dalších pomůcek vedle upravené funkce. Touto otázkou -- ostatně již řešenou tím, že jest znám počet forem kompletního systému — nechci se tu zabývati. Jak známo, mají dvě kvadratické formy v kompletním systému 20 invariantních útvarii.
+Rozpravy.  II. tř. Rnč. XVII. Čís. 37.                                                                                    2
+XXXVII. ﻿1S
+3.   Pro   t e r n á r n o u   k u b i c k o u   f o r m u   dostáváme jakožto vytvořující redukovanou  funkci*)  zlomí k,  jehožto
+čitatel = { l + rt12 i/9 + |:! [— a4 + a9 íf — rt7»;« — (al:l + íř15 + a16) r,9' + a43) t,3 + (a44 — a42) »/' + (rt45 + a17 + a41') r^ j +
+a* —  a
+|3 L(«4 + 2 a5 + a7) — (rts + «9 + 2 «10 + a14 + a1-) V' — («n + «10 + 2 a1
++ a1- + o v + (rt14 + 2 i?48 + a17) v; + r [— («s +«») + («i- + «14) í/:
++ (a13 + a14 + a1"") í/'1 — a20 í^; } +
+Jmenovatel zlomku toho jest
+Jmenovatel = (l — a4) (l — a"") (l — a L 17) (l — « |3) (l — a:1 bL:!) (l — a41:!) . (l — a3íj3) (l — a5^3) (l — a*i)«)
+Výraz tento nám dá\-á bezprostředně úplný systém kovariantů a invariantů (t. j. úplný systém invariantních útvarů závislých toliko na jediné anebo na žádné řadě proměnných). Stačí položiti v něm ^ — O a obdržíme jakožto vytvořující redukovanou funkci pro počet kovariantů a invariantů výraz
+_________________i — i?4 g""- + a8 L""_________________
+(l — rt4) (l — ««) (l — «. f1) (l — <r í3) (l — a* !-)   '
+kterýžto  násobíme-li v jmenovateli a čitateli d\ ojel* něm  l + a413 změní se v upravenou vytvořující funkci
+(20)        -._____,______ ' +"".';""'_______________.
+(l----Cl  J  (i----ď)  \t----^' a   )  ( t----d'   fe   )  (J-         ^    b /
+Z tohoto  výsledku  vyplývá ihned, že kubická ternární forma má
+1. invariant stupně 4. v koef ficientech, S, 2 invariant sír pně 0. v koef ficientech. T, .""). kovariant v koeff. stupně 1. a v proměnných 3., /,
+4.  kovariant v koeff. stupně   3. a v pum. st. 3., H,'••
+5.  kovariant v koeff. stupně 8. a v prom. st. 6., Q; tento kovariant nel e (za předpokladu o neodvislosti koeíficientů  formy dané) vyjádřili ve tvaru « T f2 + fi S f H.
+*) S vytvořující funkcí pro ternární kubickou formu /abýval se A. K. For-syth v pojednání ,.An essay towards thc gonerating fonctions of ternarianls"" I.ond. Matli. Soč. Proč.. 29. sv.. ]>. 487—517. (citováno dle Jahrb. fůr Fort. cl. Math. pro rok 1898, str. 92) a podal tu (dle téiiox ,,Jah b. f. Fortschr. d. M.) výpočet až clo jistého stupně úplný (,,bis /u činem gcwissen Grade \ollstandige Aus-fúhrung.)
+XXXVII. ﻿19
+(i. Kovariant v kocfficientech stupně ]2. a v proměnných 9. (rovněž od součinu mezi H, f, S, T lineárně neodvislý).
+Dokážeme-li, že mezi S,T,f,H,Q není algebraického vztahu, dokážeme tím, že uvedených G kovariantu tvoří kompletní systém kovariantů ternární kubické formy a zároveň z výrazu (20) vyplývati bude ihned, že čtverec G. kovariantu jest racionálnou celistvou funkcí S, T, f, H, Q. Důkaz toho jest však snadný. Y(.zmeme-li \ úvahu formu .v3 + y'A + z*, utvoříme-li Hessien a koyariant dle návodu v § 231, Salinou, „Courbes planeš"", dostaneme pro tyto dva kovarianty \-yrazy x y z, x3y3 + y3 z3 + z* x*, odkudž důkaz zmíněn v bez potíže vyplývá.
+Rovněž tak snadno lze z vytvořující funkce téměř vyčísti úplný systém kontra variantů kubické formy. Vytvořující funkci pro počet kontravariantň dostáváme ihned ve tvaru
+l + rt121?""
+l jsou tyto kontravarianty (nehledě ku invariantům 5, 7'):
+3.  kontravariant
+4.  kontravariant o. kontravariant G. kontravariant
+koeff. stupně 3., v proměnných (u) stupně 3., v koeff. stupně 5., v proměnných stupně 15. , v koeff. stupně 4., v proměnných stupně G., v   koeff.   stupně   12.,   v proměnných   stupně 9.;
+čtverec  tohoto pak kontravariantu lze vyjádřiti jakožto racionálnou celistvou  funkcí s mim. koeff. předcházejících  ~> kontravariantu.
+Upravenou redukovanou funkci dostali bychom, kdybychom s\ rchu uvedenou vytvořující funkci násobili v čitateli a jmenovateli (l + a L i?) (l + a1 L3). Neuvádím těchto výsledků, nechtěje tu činiti dalších důsledků pro kompletní systém invariantních útvarů. Že důsledky svrchu vytčené pro kovarianty resp. kontravarianty jsou odjinud dávno známy, netřeba snad ani vytýkati.
+4. Ku stanovení vytvořující funkce pro počet k o m b i n a n t tří b [kvadratických f o r e m jest užitečná poznámka odstavce V. o počtu invariantních útvarů forem závislých na proměnných dvojího druhu. Běží tu totiž v podstatě o vyšetření invariantních útvarů formy
+l>
+závislé na ternární řade (.v) a na binární řadě t.   Hrubá vytvořující funk«; jest zlomek o čítati li
+XXXVII. ﻿a o jmenovateli
+(l — «tj    ') (l — aťrt    ') (l — a
+(l — a/r "")   (l — ""t ~'-ij
+(l — ai   4»jé    l)(l — «<   'J 9r ') (l — aifT ')  (l — « *% Š   ') (l — aíSl""') (l — at-*t) (l—ai   "" L) (l — a |) (l — «rl) (l — a/*|j
+Napřed tuto funkci redukujeme dle proměnných |, ŤJ, ponechávajíce si toliko členy nezávislé na |, 17.   Dostaneme \yraz
+II                        \        l        'i     /'-      l       / 1       1          Pl      I          '' \       l          **    _L   ---   —\
+T ( — r) ^     ^    rt   a ^   a    ^
+a             j — 6 \   / 1            »5   / — •! \   / •*            *i/
+— a i    ) (l — a i?     ) (l — a i
+~'\/i           '   j*- \   / 1           '   _/ \   / 1           •* jí i J
+a)(l — a t ) (l — a t ) (l — či t )
+který  jest ještě redukovati dle proměnné /, při čemž obdržíme zlomek o čitateli, píšeme-li místo a3 stručně b:
+a o jmenovateli
+Upravenou redukovanou funkci získáme, násobírne-li Čitateli: i jmenovatele (l + fr;) (l + bť).
+A tak máme pro čitatel redukované upravené funkce
+— (ft1   +  ft1:J)  ť4
+a pro ]meno\-atel
+( l — 6'2)2  (l — 64) (l — lf>) (l — b t'2) (l — b- 11) (l — b ť]
+XXXVII."

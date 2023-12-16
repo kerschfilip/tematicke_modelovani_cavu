@@ -1,0 +1,513 @@
+"","x"
+"1"," ﻿ROČNÍK VI.
+TŘÍDA II.
+ČÍSLO 24.
+1
+Kterak lze sestrojiti tečny ke křivkám intensitním ploch translačních vůbec
+a kuželosečkových zvlášť.
+Napsal
+Dr. Antonín Sucharda,
+profcssor c. k. české realky Pražské.
+(S 20 obrazci.)
+Předloženo dne 19. března 1897.
+1. Libovolná křivka B, vytvořujíc plochu translační,*) pohybuje se tak, že všechny její body vykonávají dráhy shodné s danou- křivkou A; U jest tvořící, A řídící křivkou při tomto pohybu translačním. Každým bodem a plochy vytvořené procházejí dvě křivky, z nichž jedna, A„, jest shodná a stejnolehlá s řídící křivkou A (křivky soustavy první) druhá, Ba s tvořící křivkou B (křivky soustavy druhé).
+Budiž řídící křivkou .4 kružnice o poloměru /L*, tvořící křivkou libovolná rovinná křivka B.
+Sestrojme tečnu intensitní křivky J této plochy translační v libovolném bodě K. Za tím účelem vyjděme od thcoremu Dupinova: Tečna ku křivce, podle níž dotýká se plocha různosměrek (plocha rozvinutelná) libovolné plochy jiné jest harmonicky sdružena s příslušnou povrchovou přímkou plochy různosměrek vzhledem k inflekčním tečnám plochy oné.
+Jde tedy předem o stanovení inflekčních tečen nebo, což totéž, asymptot indicatricc bodu a.
+Jndicatrix tato jest kuželosečka o středu a v tečné rovině toho bodu obsažená, jejímiž průvodiči jsou délky p,, pro něž jest
+?,-= V7572/,'........................... (i).
+Při tom značí 7ť, poloměr křivosti normalného řezu, jenž prochází příslušným průvodičem, tečnou to plochy v bodě «, h libovolnou délku stálou.
+*) Prof. Tilšer užíval názvu »plocha posouvání*.
+Rozpravy:  Ročn   VI., Tř. II. Č.  24.           XXIV.                                                              l ﻿Poloměr p, určiti lze užitím theoremu Mcusnierova z poloměru křivosti šikmého řezu.
+Známe-li tedy poloměry křivosti tří rovinných proniků plochy P, jejichž roviny jdou různými tečnami bodu <r, lze sestrojením kolmic, známých z toho theoremu, obdržeti příslušná tři lííy relací pak (1) délky p, jim přináležející. Tím určena jest indicatrix a tedy i její asymptoty.
+V případě námi uvažovaném, kde P jest řečená svrchu plocha trans-lační, dvě z takých tří rovin snadně se obdrží. Jsou to roviny známých křivek ^1„, BH bodem a procházejících. Poloměr R kružnice A:l a poloměr křivosti křivky J>,t v bodě a jsou poloměry křivosti rs šikmých řezů jimi representovaných. Meusnierovou konstrukcí a relací (1) obdržeti lze z nich délky V a 2p, z nichž prvou sluší vnésti do tečny 1T (v bodě a ke kružnici Aa), druhou do tečny 27' (v bodě a ku křivce -B«). Zbývá vyhledati ještě třetí poloměr 3Q. Na místě způsobu na theoremu Meusnierově založeného, jenž by potřetí nevedl již ke konstrukci tak jednoduché, připomeňme si větu následující:
+Každá tečná rovina libovolné plochy protíná se soumeznou tečnou rovinou v průměru indicatrice, který jest sdružen směru, určenému volbou onoho bodu soumezného.*)
+Z toho následuje: Přímka, v níž protíná se tečná rovina bodu fi křivky Btl plochy P s tečnou rovinou v soumezném bodě lft této křivky, jest průměrem indicatrice, k němuž sdruženým průměrem jest tečna v bodě ft ke křivce B.
+Je však známo, že tečné roviny plochy translační v bodech křivky tvořící obalují plochu válcovou, jejíž povrchové přímky jsou rovnoběžný s tečnami křivek první soustavy v bodech, v nichž tyto křivky protínají křivku tvořící. Z toho jde, že se rovina tečná v bodě « s rovinou tečnou v soumezném bodě 1« protíná ve známé nám tečně 1T plochy uvažované. I poznáváme, že při ploše té a patrně při každé ploše translační vůbec tečny 1T a ~T v libovolném bodě n ku křivkám obou soustav tudy jdoucích sestrojené tvoří dvojici sdružených průměrů indicatrice.**) Máme-li tedy tyto tečny a připomeneme-li si, že právě na ně prve vneseny byly délky a lt — '(>, fi 2t — 2p, poznáváme, že již i délky řečených průměrů sdružených jsou známy. Nyní snadno najdeme asymptoty. Je-li bod a hyperbolickým bodem plochy (obr. 1.), asymptota U jest rovnoběžná se spojnicí Ič2č, asymptota V tuto spojnici rozpoluje: Tečná rovina T„ obecně jest různoběžna s první průmětnou, ale vztahy zde vyjádřené, jsouce promětny, vedou i k prvním průmětům žádaných asymptot, tedy tečen inflekčních.
+Vraťme se nyní k theoremu Dupinovu. Ten vyžaduje ještě příslušnou povrchovou přímku /' plochy různosměrek, určené tečnými rovinami podél intensitní křivky ./„ bodem n procházející. Všechny ty roviny jsou od pa-
+*) Salmon Fiedler, Analytische Geometrie d. R. II. Th. 3. Aufl. pag. 14. **) Sr. Lie, Ober Minimalfláchen, Mathem. Annalen, Bd. 8.
+XXIV. ﻿prsku světelného >S stejně odchýleny, i tvoří roviny s nimi rovnoběžné a jedním jeho bodem fi procházející plochu kuželovou kruhovou přímou, jíž tía jest osou. Promítneme-li tuto osu orthogonalně do jednotlivých rovin, obdržíme povrchové přímky této plochy kuželové. S jednou z nich jest rovnoběžná hledaná přímka P.
+\v
+Majíce konečně v rovině T„ přímky U, T, /', obdržíme hledanou tečnu Ta křivky ./, následující konstrukcí jednoduchou (obr. 2.). Učiňme lj' || U, čímž vzniknou průsečíky q r, pak učiňme qt = — qr, i jest at žádaná tečna. Srovnáme-li s obr. L, lze konstrukci řečenou nahraditi tím, že učiníme r ~t — {t t.
+2. Obraťme se nyní k zevrubnému vyšetřování těchto souvislostí při ploše P, vzniklé translací centrické kuželosečky; na příklad volme e 11 i p s u.
+Řídící křivka budiž kruhová A3 o poloměru K v rovině A'l"", první to rovině souřadné, její střed c v ose )', tvořící ellipsa B„ v druhé rovině souřadné XZ, její střed .s na řídící kružnici .4., určen buď odchylkou r příslušného poloměru od osy X. Hlavní její osa budiž od osy AT odchýlena
+0  úhel a.
+V bodě <7, jehož normála jest od hlavní osy ellipsy odchýlena o úhel i/.-, sestrojena normála N~tl plochy P. Kódem a procházejí dvě křivky plochy translační, kružnice Aa o středu p, shodná a stejnolehlá s řídící As a tvořící ellipsa Ba.
+První obraz A7/1 normály jest ^1p1 H^i^ (sr. obr. 3.) jeť alpí rovno poloměru R kružnice řídící, druhý obraz A72"" jest normalný ku čáře /V',
+1  vnesme naň «2/2 =: r, kteréžto r značiž poloměr křivosti ellipsy B„ v bodě a. Body i> a / jsou středy   křivosti   dvou   šikmých   řezů   plochy   P   bodem « procházejících  v  tomto   bodě,   kružnice totiž Aa a ellipsy   Btl.    Dle  theo-remu Meusnierova sluší v bodech [> a f sestrojiti normály k rovinám řečených křivek.
+Normály tyto protínají se s normálou Xa ve středech křivosti obou příslušných řezů normalných. Normála v bodě p k rovině kružnice A„ seče normálu AT„ v bodě ;/, jehož první obraz splývá s pít normála v bodě / k ro-
+XXIV. ﻿vině ellipsy /»„ má druhý obraz svého proniku /' s normálou .V„ v tečce /2 první obraz // tedy v X^1 na příslušné ordinale.
+Jsou tudíž i>\ /',' již prvními obrazy středů křivosti oněch dvou nor-malných řezů a proto úsečky rrt pí, //«i prvními obrazy délek l/f 2/i>, jimiž značíme příslušné poloměry křivosti.
+Podle (1) jest  IQ — Vl2i.2h, 2Q~ Y*E.2h, pročež
+V: V = 'A':2/?, a poněvadž                       fl\l'\ '• f'\(l\ — 1^ '• 2^> konečně
+(2)-
+Uvažme nyní, že tečné roviny v bodech ellipsy Ji(t jsou vesměs rovnoběžný s povrchovými přímkami plochy válcové, která se plochy translační podél této křivky dotýká, tudíž s tečnou 7"", kruhové křivky .-l, v bode * nebo s přímkou T„ s ní rovnoběžnou a počátkem o procházející. Lze tedy s nirni rovnoběžné roviny všechny proložiti touto přímkou Ttl. Libovolným jejím bodem j mysleme si přímku #/ rovnoběžnou s paprskem světelným <S a promítejme ji orthogonálně do těchto rovin.
+Všechny promítky bodu n přímky fy, zvoleného v rovině D, jež bodem o jde kolmo ku T,n budou v této rovině obsaženy; paty jejich vytvoří kruhovou křivku />, jejímž průměrem bude no. Z toho plyne: Průměty /""* přímky 6^ tvoří plochu kuželovou kruhovou šikmou, tak řečenou ortho^onalnou, kruhové její řezy kolmý jsou jedny ku fy, druhé ku T„. Tato plocha kuželová A jest řídící plochy mimosměrck, určené přímkami l*.
+3. Tažme se dále po řídící kuželové ploše B, určené tečnami in-flekčními.
+XXIV. ﻿Vzpomeňme tu předem, že v každé tečné rovině jsou tečny 1T *T a na nich délky ^ 2(>, i hleďme poměr IQ : -y vyjádřiti veličinami li, r, r, tf-|-t/'v bod a translační plochy P určujícími.
+Z rovnice (2) víme, že  *(> : ^ zz V al p\ : Vf\*tlt jest však f<ip\ — I* a položíme-li pro krátkost
+//            V cos z                                                  ,„,
+*-f^ = JIS Jest fiai =    _.,..................(3)
+takže horní úměru lze psáti, násobíme-li ještě 3. a 4. člen /', takto:
+V/&CMZ...............(4).
+Pokládejme   nyní   zase   tečnu  Y{, za osu   svazku rovin, rovnoběžných s tečnými rovinami plochy P v jednotlivých bodech a ellipsy Bn*) Každá z nich protne rovinu ellipsy v přímce rovnoběžné s tečnou '''/],. Vneseme-li na  T„ od bodu o jednou pro vždy délku oj — JlYcosr, délku to stálou pro určité  1>, vnášíme-li pak vždy na přímky z bodu o vycházející a s tečnami bodů   a   rovnoběžné   od   bodu o   proměnlivou délku ok zz \ RTC cos %,   každému    bodu   a   příslušný   úhel   %   při-4.                   sužujíce,   obdržíme   tak   pevný   bod   j
+v   přímce   T0  a určitou křivku  C body k vytvořenou v rovinč XZ ellipsy Jí.
+Podle   úvahy  v   odstavci    1.   vykonané    jest   přímka    U0 \\ jk   (obr.   4.) rovnoběžná   s  jednou   inflekční tečnou, přímka   T'„,  jdoucí  bodem o  a úsečku jk   rozpolující,   rovnoběžná   s   druhou inflekční tečnou onoho bodu křivky  />', jehož tečna  Ta jest rovnoběžná s ok. Hledejme geometrické místo bodu k. Každému polárnému úhlu (pzz;^-Jí přísluší průvodič
+(J ZZ    V   Jtí CO.S' 1.....................(5),
+jestli tedy % zz rp — /? vložíme  za % do rovnice (8), obdržíme ihned
+(r zz M' sin (p........(6)
+jako polárnou rovnici křivky bodem k vytvořené.
+Zavedemc-li za proměnlivý poloměr křivosti známou hodnotu
+obdržíme, poněvadž ,»• zz ()í  cos qrt
+nb sec rp. pak o. zz               —
+l/   / 8     l       - 4-        ""'
+1>-
+a tg qp, -    —| cotg (G
+*i Sr. obr. 4 , kde/ počátek n zvolen ve stícdti « ellipsy fl.
+XXIV. ﻿rovnici (9) ve tvaru
+a*b*Rsin <p
+Q  —
+(<p — G)
+r     o      i        7i>        .     '>   /                  \1 t           ...............^       /»
+[a -f- & cofy- (qp — <7)]i> který v soustavě souřadné pravoúhlé, když pól jest počátkem a osa polárná osou úseček, zní
+cosGa[«2(z — x tg G)~ + I2(at> + z tg G)2]3 — aWWz2.....(7).
+Ponechávajíce si zevrubné ohledání křivky (7) na dobu pozdější, povšimněme si zafím jen, že jest stupně šestého, že má v počátku o bod dvojný a že ji přímky jím procházející protínají každá ještě ve dvou reálných a ve dvou imaginarných bodech dle o souměrných.
+Podle toho jest kuželová plocha z přímek jk o středu j složená, stupně šestého. S jejími přímkami povrchovými jsou rovnoběžný inflekční tečny U, avšak též inflekční tečny V, neboť rovina jok protíná křivku (' též v bodě A', pro který jest ok' — — ok. Jesti tedy v rovině té mimo povrchovou přímku jk též povrchová přímka jk\ nutně s V0 rovnoběžná, i poznáváme z toho:
+Povrchovými přímkami kuželové plochy šestého stupně o středu j a řídící křivce (l dány jsou rovnoběžky ke všem inflekčním tečnám plochy P v bodech ellipsy R. Řečená plocha jest tedy řídící kuželovou plochou B plochy určené inflekčními tečnami.
+V každých dvou diametrálně protilehlých bodech aa' ellipsy B má plocha translační rovnoběžné roviny tečné. Tečny 2T 22"" těchto bodů střídavě jsou spolu rovnoběžný, rovněž i přímky Pa a P'a ; z konstrukce v odst. 1. vyložené snadně se pozná, že i délky IQ 2Q při obou bodech jsou stejný, přec však nemožno tvrditi, že tečny Ta T,' intensitních křivek Ju Já jsou též spolu rovnoběžný. Jsou totiž koncové body průměru ellipsy Jí s osou A"" sdruženého parabolickými body plochy translační, i náleží jedna polovina ellipsy jimi zakončená k oblasti hyperbolických, polovina druhá k oblasti elliptických bodů té plochy. Z toho patrno, že je-li bod a hyperbolickým bodem plochy P, jest bod a jemu diametrálně protilehlý, bodem elliptickým. Jsou tedy sdružené poloprůměry IQ 2Q indicatricí v těchto dvou bodech sice stejný a stejnolehlý, jedny však náleží hyperbole, druhé ellipse.
+Kdežto v prvním případě asymptoty jsou reálné, v druhém jsou imaginárně. Avšak i zde tečna Ta', o niž hlavně jde, má s přímkou P a s asyptotami tvořiti harmonickou čtveřinu, jest tedy průměrem ku P sdruženým. Abychom ji pro případ poslednější obdrželi, řešme úkol následující:
+Hyperbola i ellipsa mějte společné dva sdružené poloprůmčry ly -'(> i co polohy i co délky se týče. Má se k dalšímu P v obou křivkách nalézti sdružený T.
+Užitím příbuznosti lze z průměrů sdružených obdržeti osy stejné s nimi délky. Jc-li osa j- — 2.*(j, osa iji=2.'Q, jest rovnice průměru ku //—A/- sdruženého pro případ hyperboly tato:
+XXIV. ﻿y —
+pro případ ellipsy však
+V
+6.
+z čehož vidno, že tvoří tyto dvě přímky s osami harmonickou čtveřinu. Vlastnost tato zůstává v platnosti ovšem i v případě původním. Z toho vysvítá následující konstrukce tečny T pro případ elliptické indicatrice (obr. 6.), byla-li pro hyperbolickou již sestrojena (obr. 5.): Vycházeje od tečny T„ v obr. 5. sestrojené, učiň v obraze tom bca\\afl, načež v obr. 6. sestroj bco' — —boa; <iaf jest již žádanou zde tečnou TJ.
+Úkol, stanoviti průměr T ku průměru P sdružený vedl tedy ku dvěma různým výsledkům dle toho, šlo-li o hyperbolický nebo o cllip-tický bod plochy P. Výsledky ty snadně uvedeme ve spojení s křivkou (\ připomeneme-li si toto: Roviny svazku T0 jsou rovnoběžný s tečnými rovinami v bodech a ku ploše P7 a to každá se dvěma, s jednou, jejíž dotyčný bod jest
+hyperbolický, a s druhou, jejíž dotyčný bod jest elliptický. Stopy rovin svazku v rovině XX křivky C jsou rovnoběžný s tečnami 2T ellipsy J!(l v bodech n. Každá taková stopa .V protíná křivku C v šesti bodech, z nichž však jen čtyři jsou reálné a to dva s bodem o splývající, druhé dva dle něho souměrné k //, a dva imaginárně x x', tolikéž dle něho souměrné. Body k k' jsou stopami povrchových přímek kuželové plochy B rovnoběžných s imaginarnými asymptotami indicatricí, z nichž jedna jest hyperbolou a druhá ellipsou. Myslíme-li si ještě plochu kuželovou orthogo-nalnou A o středu j a její průsečnou kuželosečku E s rovinou A'Z, bude tato procházeti vždy bodem o a stopou .V protínati se pak ještě v jediném jen bodě JT, stopním to bodě povrchové přímky P plochy kužele ortho-gonalncho. Sestrojímc-li nyní v přímce A' bod t tak, aby bylo
+(J;JSxt) = — l a bod ť tak, aby bylo
+(xx' nť) = —l,
+obdržíme stopy t ť tečen 7„ '/;/, jež do přímky AT spadají. Hledíce k obr. 5. a 6., poznáváme, že třeba jen t nalézti, načež ť obdrží se, učinímc-li sť — —#t.
+Body t a // tvoří v rovině A'Z stopu F k u ž e l o v é plochy^' o stře duj, která jest řídící plochy mimosměrek Q, složené z tečen T k u křivkám i n t e n s i t n í m plochy P v bodech ellipsy li..'
+Majíce sestrojiti v jednotlivých bodech ellipsy />„ tečny k příslušným křivkám intensitním ./„, pokračujme tedy způsobem následujícím:
+XXIV. ﻿Do tečny T0 vnesme délku oj~líVcos r, načež v roviné XZ ellipsy B„ sestrojme křivku C z její polárné rovnice (6.). Pak bodem j proložme S/1| S. Paprsek Sj proniká rovinu D v bodě n; úsečka 110 jest průměrem kružnice D, v níž kuželová plocha A proniká rovinu D. Plocha tato rovinu ellipsy fí seče v kuželosečce E bodem o procházející. Paprsky svazku <> pronikají (l ve dvou reálných bodech k k' dle o souměrných, ve dvou s bodem o splývajících bodech reálných a ve dvou též dle o souměrných bodech imaginarných x x', kuželosečku K v jediném reálném bodě ir. Na-jdeme-li k němu čtvrtý harmonický / /' dle každé z uvedených dvojic, obdržíme tak body, náležející křivce F. V této křivce rovinu XZ protíná řídící kuželová plocha C plochy mimosměrek Q.
+Jsou-li křivky (• a K sestrojeny, snadno tedy určíme povrchové přímky kuželové plochy C, jež obsaženy jsou v libovolné rovině svazku. Rovno-
+běžky k nim procházející body n resp. a', jejichž tečné roviny jsou s touto rovinou rovnoběžný, jsou žádanými tečnami T,t T„'.
+Víme již, že, jc-li bod a hyperbolický, jest příslušná přímka Tlt\\jtt jc-li elliptický, že jest Ta' \\jť, a že jest o/' = — ot, postačí tedy k sestrojení reálná část křivky (1.
+4. Křivku (J na základě rovnice (9) v rovině XZ sestrojíme jak následuje (obr. 7.)*): Narýsujeme evolutu E kuželosečky B„ a nad délkou ob — li v ose A' obsaženou, pomocnou kružnici F. Učinímc-li ještě oďQ af t. j. poloměru křivosti křivky B, dt;J_X, o//J_of/, bod/y a souměrný s ním dle o bod </ náleží již křivce hledané. (Konstrukce první.)
+*) Ol>razy  bodů   v   konstrukci   uvedených  obvyklým   indexem   2 jsou opatřeny.
+XXIV. ﻿Při této konstrukci předpokládáme, že kolmice <h s kružnicí F se protíná. Neprotíná-li, konstrukce pozmění se takto (viz obr. 11.)*). Učiň on rovno a rovnobčžno poloměru křivosti kuželosečky B, ah J_ A', oblouk kruhový bc. nad ob jako průměrem, až protne tečnu Tr kružnice F, pak od i oa, o/l zz oč; bod d a souměrný s ním '/'jsou body žádané křivky. (Konstrukce druhá.)
+Ohledejme zevrubněji křivku  C na základě její rovnice (7).
+V odst. 3. bylo již pověděno, že jest stupně šestého, že má v počátku o bod dvojný a že jest dle něho souměrná. K tomu sluší dodati, že osa A' značí sjednocené tečny dvojného bodu. Vyšetřujeme-li v okolí tohoto bodu a této tečny způsobem Cramerovým,**) seznáme, že souvislost křivky (.' s dvojnou tečnou v bodě dvojném illustruje se souvislostí křivky
+./•"" [a2 ty 2<7 -f b*]3 cos «tf — ft*b4Jí*z* — O
+(8)
+s touto tečnou. Z rovnice (S) poznáváme, že mají obě větve křivky <' v počátku bod obratový, společnou tečnou obratovou že jest osa A.
+o                              Pokud jest   a2 tg 2G-\- b2 > o,
+a případ ten platí zde bez výjimky, obě ty větve jsou reálny. Křivka má dva   imaginárně trojnásobné   body   v  úběžných X\              bodech ellipsy Rs.
+\„---~^j*-                  Směrnice   asymptot   ellipsy
+._!_._A     B„ jest
+/             K                       ,     /      l         N        ntqa-^T  Ut
+t</ (u -4- G] — —_   ——. a -+- ib tg G
+""/;                        Touž směrnici mají dvakrát
+po třech splývající asymptoty obou imaginarných trojnásobných úběžných bodů křivky C\ jak pohledem na levou stranu rovnice (7) se pozná. Řečené asymptoty procházejí dvojným bodem v počátku. V každém z bodů trojnásobných všechny tři větve se dotýkají sjednocené asymptoty. Tato má tam s křivkou čtyři splývající body společné, tečna obratová v počátku v šesti bodech splývajících křivku (.' seče.
+V případech, kdy <r=:o nebo 90°, křivka C stává se dvakrát normálně souměrnou. Nejjednoduššího tvaru nabývá, když k jedné z uvedených právě podmínek přistoupí ještě a = l> — >•. Tehdy pro 6 — 0 rovnice křivky jest
+*) Obrazy bodu v konstrukci uvedených obvyklým indexem 2 jsou opatřeny. **) CJebsch-Lindemann, Vorlcsungcn uber Geometrie, I. Rd., pag. 326 a 331.
+XXIV. ﻿10
+(*2-f z2)3— >-V = 0;.............(9.)
+tvořící křivkou na místě ellipsy B jest kružnice (sr. (^ v obr. 13.).
+Ohledejme nyní křivku C pro případ, že jest tvořící křivkou B, hyperbola na místě ellipsy.
+Klademe-li hlavní osu hyperboly do stejnojmenné osy ellipsy a za-chováme-li i stejné označení a počátek v bodě o, její rovnice polárná shoduje se zase s rovnicí (6), podle níž křivku způsobem na konci předešlého odstavce uvedeným možno sestrojiti. Rovnice její v soustavě souřadné pravoúhlé, vólena-li tato jako při rovnici (7), jest
+co* ""(7 \<r (z — x ty <)2 — l*(c -f z ty <y)2 ]3 — ,WR*z* .... (10).
+I tato křivka (• jest stupně šestého a má dva trojnásobné body úbčžné v líbezných bodech hyperboly Ha. Ze tří větví, jež se v každém z bodů úbčžných příslušné, počátkem procházející, asymptoty dotýkají, jen jedna jest reálná.
+Vyšetřujíce její průběh v okolí počátku způsobem Cramerovým, obdržíme křivku, která v okolí toho bodu ji může zastupovati, dánu rovnicí
+.7-°(«2 ty- G — l/2)''' co.s ""(7 — o4//l/ií222 = O
+Z rovnice té poznáváme nejen, že dvojný bod v počátku složen jest ze dvou obratových o ose A' jako tečně společné, nýbrž i, že pro fi^ty -G — Ir ""^ <> křivka v okolí tohoto bodu jest reálná, resp. ima^inarná, tak že v případě poslednějším počátek jest bodem osamělým.
+XXIV. ﻿11
+Případ   první, jehož podmínka jinak zní tg a > — ,   ukazuje   obr. 8.,
+fT
+případ druhý vyjádřen jest obr. 9.
+Zajímavý jest případ přechodný ty G — — .   (obr. 10.)
+Tehdy jedna asymptota hyperboly 1> sjednocuje se s osou A'. Rovnice křivky (J jest pak
+(11).
+10.
+Křivka rozpadá se tu ve vlastní křivku čtvrtého stupně a v osu A"" jako přímku dvojnou. Křivka čtvrtého stupně má v nekonečnu jediný reálný bod trojnásobný v úběžném bodě asymptoty hyperboly B s osou X nesjednocené, s touto asymptotou jako trojnásobnou. Jen jedna větev bodu trojnásobného jest reálná. Čtvrtý bod úbčžný jest v ose X.
+Připomenouti sluší ještě případy G — 90°, G — 0.
+Křivky C v obou případech jsou dvakrát normálně souměrný. Prvnější vyjadřuje obr. (11.). Křivka prochází počátkem, majíc tam známý již zvláštní bod dvojný, v případě druhém bod tento jest osamělý. Ostatní reálná část křivky podobá se hyperbole o lateralné ose X.
+Zbývá posouditi křivku <\ když tvořící křivka 1> plochy translační jest parabol a.*)
+Osa této paraboly v rovině X'/ obsažené budiž o úhel G od osy X odchýlena, ostatní označení ponecháno .jako prve.
+*) Místo lt„ klademe v dalším /?.
+XXIV. ﻿Rovnici křivky (l v soustavě souřadné pravoúhlé obdržíme z rovnice (7) pro ellipsu platné, kladouce
+v tvaru
+(12) (13),
+cos (]a(t/ — .».' t</ a)1' — p*R*y* — O.......
+jejž psáti lze ve formě
+[cos ;!<7 (z — .r ty a}:' — ;>/.'-1 |>MN '""'o- (.: — ./• fy o)a -1- jtltz] — O .  .  .  (14),
+z níž jde na jevo, že se zde křivka C rozpadá ve dvě dle bodu o souměrné křivky (J C' stupně třetího (obr. 12.). Každá z nich má v počátku o bod obratový s osou A"" jako příslušnou tečnou, v nekonečnu bod obratový s tečnou v přímce úběžné. Vratové body splývají s úběžným bodem paraboly. Že v případě tomto křivka (• stupně šestého ve dvě křivky 3. stupně se rozpadá, má příčinu v následujícím:
+Když lí jest kuželosečkou centrickou, každý paprsek svazku o v rovině XZ obsažený jest rovnobéžen se dvěma tečnami kuželosečky 1>, s tečnou v hyperbolickém a s tečnou v diametrálně protilehlém, elliptickém bodě translační plochy P. Proto má křivka <' mimo dvojný bod <> v každém paprsku takovém ještě čtyři body, dva reálné a dva imaginárně; je-li však 1) parabolou, nemá rovnoběžných tečen, a proto jest každý paprsek svazku o rovnoběžen vždy jen s jedinou její tečnou, buď v hyperbolickém nebo v elliptickém bodě. Křivka f' protíná se paprskem tím mimo v počátku ještě jen ve dvou bodech, reálných nebo imaginarných, i jest křivkou ?>. stupně. Scstrojujeme-íi ji známou z odst. 4. konstrukcí, při níž dosud
+XXIV. ﻿13
+nebylo třeba dbáti znaménka poloměrů křivosti R a r, obdržíme zároveň obě křivky 3. stupně G'C"", jak je podává rovnice (14), z těch však dané parabole B jen jedna přísluší,*) druhá však parabole B' plochy P, při které k elliptickým resp. hyperbolickým bodům paraboly B stejnolehlými jsou hyperbolické resp. elliptické.
+Kdežto  v  případech,   kdy Ji jest  centrickou kuželosečkou,  vystačiti lze při všech křivkách soustavy Jí s jedinou  křivkou r'6. stupně, vyhovuje
+12.
+xdc  jedné   polovině   plochy P křivka <\   druhé křivka f""  3. stupně.    Tím odůvodněno, proč  jednáme o obou zároveň.**)    Poloviny ty od sebe jsou
+*) Která, poznáme, sestrojujíce jednotlivé body křivky C stupně 6. z její polárné rovnice (6) a vycházejíce při tom jen od hyperbolických bodů na parabole.
+**) V odst.   7.  poznáme jiný  důvod,  pro  který  radno obě křivky zároveň bráti v úvahu.
+XXIV. ﻿14
+odděleny  oněmi   dvěma  parabolami li,  které   náležejí ku křivce parabolických bodů plochy P, každá tvoříce singularitu cnictrop zvanou.*)
+Zvláštní zmínky zaslouží tu případ, kdy G — 0.
+Tehdy rovnice (20) zní
+z(z* + pK) = 0..............(15.).
+Křivky 1C 2C skládají se tu každá z osy X, prvá pak ze dvou reálných, druhá ze dvou imaginarných s ní rovnoběžek.
+V tom případě jsou totiž všechny body paraboly /> hyperbolické nebo všechny elliptické; proto křivku C všechny paprsky svazku o sekou v bodech reálných, nebo všechny v imaginarných, a tomu hoví rovnice (18).
+Je-li (7 rz —-, rovnice křivek C jest x3
+— O,
+což značí kubickou parabolu.
+5. Závěrem úvah o křivce C budiž odvození konstrukce tečny v obecném bodě jejím.
+Staniž se to na základě zákona výtvarného, v odst. 4 vyloženého, a to způsobem tím, že konstruktivním čarám, potřebným k sestrojení této křivky, po příkladě Machovcově přisoudíme význam prostorový. Vycházejme předem od první konstrukce bodů křivky (7, jež provedena jest v obr. 13. tab. I. (sr. odst. 4.).
+Tečkami d2 . . . zobrazené body d vyplňují prostorovou křivku Z>, jejímž průmětem jest radiála**) křivky />.,.
+Tečnou křivky D v bodě d budiž přímka Td = dh, Ji2 stopníkem jejím, d2h2 tedy tečnou radiály. Sestrojení této tečny bude odvozeno níže. Křivka D s přímkou 0_\_XZ, v tečce o2 zobrazenou, a s průmětnou XZ jako útvary řídícími, určuje přímý konoid D, jehož povrchové přímky A zobrazují se čarami o2d2 . . . Přímky B čarami d2e2 zobrazené s XZ rovnoběžné určují plochu válcovou E, jejíž řídící křivkou jest D. Tato plocha protíná promítací válcovou plochu T, zobrazenou kružnicí F2, v křivce E, určené body e, jejíž tečnou v bodě e jest přímka Tet čarou e2>2 zobrazená, společná tečné rovině deh plochy E a tečné rovině plochy F v bodě e. Při tom jest /2 příslušným stopníkem. Kruhový oblouk e.2g2 lze míti za obraz rovnoběžky Kt rotačního hyperboloidu H, jehož osou jest O a jenž vzniká otočením přímky Tet y.> pak za obraz bodu křivky fr, v níž se H proniká konoidem D', který s D jest shodný ale kol osy O o pravý úhel pootočen, maje povrchové přímky C, zobrazené čarami n2y.2 ....
+Konoidu D dotýká se podél přímky A hyperbolický paraboloid (D), jehož řídícími útvary jsou přímka O, tečna Td a rovina A'Z, konoidu D'
+*) Sr. mé pojednání »Uber die Singularitáten einer Gattung voň Riickungsfláchen 4. Ordnung*. Sitzungsber. d. kais. Akad. d. Wissensch   Bd. XCVII. Abth. II. 1888.
+**) Název tento zavádí Houel ve svém »Cours de Calcul infinitésimal«, T. II. p. 269.
+XXIV. ﻿podle přímky C hyperbolický paraboloid (D'). o.2h2 jest stopnicí paraboloidu (D), O2l2_[_o2h2 stopnicí paraboloidu (D') ; při tom učiněn A°2#2^2 ~^ A°2 ^2^2- Tečná rovina v bodě gk paraboloidu (D') má stopnici I2m2 \\ o2g2.
+Učiníme-li ze středu o2 kruhový oblouk i^ tak, aby byl <^C/2°2^2 == = •^.<i2°^2í bude y2k2 obrazem povrchové přímky D hyperboloidu H téže jako přímka Te soustavy, k2 bude jejím stopníkem, čára A'2wt2 J_o2^2 pak stopnicí tečné roviny v bodě g ku H ; m2 jest tudíž stopníkem tečny v bodě // ku křivce G, pročež <j2>n2 žádaná tečna T2g čáry ('2.
+Vycházejíce od konstruktivných čar, k sestrojení bodu <j., křivky ( '2 sloužících, sestrojíme tedy tečnu 71/ takto: Učiňme d.2h2 jako ku d2 pří-
+kružnice F2, potom h2i2
+dále
+učiníme-li ještě I2m2 \\ o2<j2,
+slušnou tečnu radiály, a v c2 tečnu T2""
+A°2<72^2 ~ A<Wa Jakož i A 0*02 'a ^ ^V»2 J-^2W2> Jest í/2'""2 žádaná tečna jT^.
+V případě druhé konstrukce bodu </2 křivky (72 (sr. odst. 4.) úvaha k sestrojení tečny vedoucí poněkud se pozmění.
+Pominouce příslušných prostorových vztahů, uveďme jen, že konstrukce sama, vycházíme-li zase od konstruktivných čar, jichž k sestrojení bodu d.2 křivky (J2 zde bylo zapotřebí, vystrojí se (sr. obr. 9.) jak následuje :
+Učiňme tečnu a2e2 k radiále v a2, potom e$fa podobné a stejnolehlé s I2c2 dle o2 jako středu podobnosti, pak tečnu f2g2 k fle2 v/2; učiníme-li dále /\o2d2h.2 ^ ^o2c.2e2 jakož i /\o2d2l2 ^J A °2a2^2> konečně I2m2 \\o2d.2 a h2»i.2 _l_o2ř/2, jest m2d2 žádanou tečnou T2d čáry ^2-*)
+6. Obraťme se k vyšetřování křivky F.
+Užijeme-li soustavy polárné a označíme-li QI ().2 průvodiče bodů reálných, v nichž paprsek středu o, který se s polem sjednocuje, seče křivku 6', Q3 průvodič bodu, v němž seče kuželosečku Ey konečně Q průvodič příslušného bodu hledané křivky í\ bude
+Qi —
+z čehož, poněvadž y.> = — QI , vychází
+Je-li                Ax2 -f ^-2 -f a3 4- Ar
+rovnicí**) kuželosečky /?, bude, položíme-li
+(16). (17)
+*) Ve příčině konstrukce tečny k radiále sr. mé pojednání »Kterak sestrojí se normála a střed křivosti k radiále libovolné křivky rovinné, jež v »Rozpravách« těchto následuje.
+**) Rovnice této kuželosečky E, v niž, se s rovinou X Z protíná orthogonalnč kuželová plocha A, zní takto:
+A^ COST x' -f- #* slin xz -f- (^„5 — ťj t) COST z~ -\~ R\ cosx (l -(- A% tg r) cos*i x
+-f B^RVčot^z — o......     (20).
+Při tom A* //,(. značí směrnici 1. resp. 2. průmětu světelného paprsku, t úhel v odst. 2. uvedený. V dalších úvahách přestaneme zatím na horním kratším označení, ježto až na dvě výjimky, o nichž později bude promluveno, zvláštní hodnoty součinitelů nemají na výsledek podstatného vlivu.
+XXIV. ﻿16
+x — Q cos <p, z zr Q sin <]p, D cos <p -)- ./L sin <p
+________                   _   QgN
+A cos *q> -\- B sin <p cos <p -f- C sin 2<p
+Dosadíme-li tuto hodnotu za ()3, za QÍ 2 pak hodnotu pro (>2 z rovnice (6')plynoucí, obdržíme po náležité redukci polárnou rovnici křivky /"", z níž, pokládajíce polárnou osu A"" za příslušnou osu souřadnou a pól za počátek souřadné soustavy pravoúhlé, známou substitucí nabudeme rovnice v soustavě pravoúhlé:
+cos 3ff( Dx ~\-Ez)[n2(z—u1 tg *?) 2~1~^2 (x-\-z fy (?)2] •> + a2 />2 líz (Ave2 -j- /í jcr2 -j- 6'z2) r=
+-O.........(19)
+čili        '     cos tí<?(/)&• -(- Ez)2[a2(z — x ty <?)2 + 62 (,# -]-• 2 fy a)2]3 —
+při čemž pokaždé horní znamení svědčí ellipse, dolní hyperbole jako křivce B. Křivka F jest stupně osmého, v počátku má bod šestinásobný o třikráte dvou splývajících tečnách. Jednou z nich jest osa A"", druhé dvě dány jsouce rovnicí
+jsou reálné různé, reálné splývající nebo imaginárně, je-li křivka E hyperbolou, parabolou ellipsou, jsouť s asymptotami hyperboly nebo ellipsy B, po případě s osou paraboly, rovnoběžný. Každá z řečených tří tečen seče křivku F v počátku o v osmi bodech splývajících. Křivka jest sama sobě křivkou involučně homologickou, bod šestinásobný majíc středem homo-logie, úběžnou přímku osou homologie. Obr. 14., tab. I.
+Křivka má v nekonečnu dva body vratové a jeden dvojnásobný. Tento jest na tečně kuželosečky E v počátku o, body vratové jsou v úběž-ných bodech kuželosečky B; společnou jim tečnou vratovou jest přímka úběžná. Tečny bodu dvojnásobného, ovšem spolu rovnoběžné, protínají v bodě tom křivku každá ve čtyřech bodech splývajících, z čehož patrno, že každá z obou větví bodem tím procházejících má v něm bod obratový.
+Vyšetřujme nyní šestinásobný bod v počátku.
+Hledíce k tomu, že zde jest především osa A"" tečnou dvojnásobnou, vyšetřujme způsobem Cramerovým napřed vzhledem k této tečně. Křivka, která v okolí bodu počátečného může křivku F nahraditi, pokud jde jen o větve osy X se dotýkající, má rovnici
+«>!l«a(a*tg*a±b*)W—«-lblli*AY=0.......(23.),
+z níž poznáváme, že obě větve křivky /% jež se osy A' dotýkají, tvoří zde bod samotyčný.
+Druhý člen rovnicového dvojčlenu (23) vždy jest kladný; pokud také první jest kladný, samotyčný bod utvořen jest reálnými větvemi. To stává se při horním znamení, tedy:
+Když křivka B jest ellipsou, samotyčný tento bod křivky F jest utvořen vždy větvemi reálnými, bez ohledu k jakosti kuželosečky E (obr. 13).
+XXIV. ﻿17
+čili
+Je-li křivka Ji hyperbolou, rozhoduje o tom ta okolnost, zda jest a3tg a— &2 = o,
+^   &
+ta a ^~-----
+9       _-,     n
+Význam této podmínky   poznáme z přechodného případu t(j G =     ,
+který dí, že tvořící hyperbola B., má jednu asymptotu s osou A' splývající. Tehdy v rovnici (21) platí spodní znaménko a rovnice nabývá tvaru následného :
+„V- (Ds+EzY^ (n2^ Ir] - Znlj-y — WPz* (A.,'* -f BJL-Z -f &»)*:=: o ... (24), z něhož patrno, že křivka F rozpadá se v osu X jako přímku dvojnou a ve vlastní křivku stupně šestého.*)
+Nyní již zřejmo, že pro n* ty 2<7 — Ir ~^ž o křivka (21) má samotyčný bod <>, složený z větví reálných, resp. imaginarných.
+Geometrický význam těchto nerovností ze srovnání s případem přechodným jde na jevo.
+Vyšetřujme nyní křivku F se zřetelem ku větvím, jež druhé resp. třetí tečny se dotýkají.
+Úvahami předešlým obdobnými poznáme nejprve, že bod n vzhledem k této tečně jest samotyčným, dále pak, že zvláštnosti při něm se vyskytující nejen od kuželosečky />, nýbrž také od E jsou závislé.
+Případy, k nimž tu hleděti dlužno, jsou tyto :
+1.   B i  E jsou ellipsy; 2. B jest hyperbola,  E ellipsa.
+Samotyčný bod, maje za tečnu imaginarnou asymptotu, má větve imaginarné.
+3.  B jest ellipsa, E hyperbola. Větvo, bod samotyčný skládající, jsou reálné.
+4.  B i E jsou hyperboly.  Je-li      -  ^ t</ (K — <>)**)> větve bod samo-
+tyčný skládající jsou reálné resp. imaginarné.
+Geometrický význam této podmínky jde z případu přechodného
+l
+jenž dí, že jest jedna asymptota hyperboly  B s jednou asymptotou hyperboly E rovnoběžná.    Tehdy   rozpadá   se   křivka  F v osu A' jako přímku
+dvojnou
+(z — x t</ a)- — O a ve vlastní křivku 6. stupně
+*) Výsledek ten nepřekvapuje, uvážímc-li, že za dané podmínky (sr. rovn. 17.) od křivky fí tolikéž osa X jako přímka dvojná se odlučuje, a že tato, ježto prochází bodem *, podle výtvarného zákona křivky F sama sobě odpovídajíc, nutné tvoří součást křivky řečené.
+**) Při tom « značí úhel, o nějž řečená svrchu tečna bodu násobného od A'jest odchýlena.
+VI. Tř. II. C. L'5.
+XXIV. ﻿co86a (Dx -)- Ez)a [z(a -f- b tg <y) -j- x (b — a tg <?)]3(« — b ty ,)s(z — x tg «) —a*b*R*z*[(B+ C tg a) x + &]* = <>........(25).
+Křivka tato v nekonečnu má bod vratový a dvojný bod o tečnách rovnoběžných s tečnou hyperboly E v počátku, krom toho jednoduchý bod v druhé asymptotě tvořící hyperboly. V počátku má bod 4násobný, složený ze dvou samotyčných.
+V případě 4. právě uvažovaném mohou však i obě asymptoty hyperboly B býti rovnoběžný s oběma asymptotami hyperboly E. Tehdy se od křivky F odlučují dvě přímky dvojné, rovnoběžky to s asymptotami hyperboly E                    (Ax* -f Bxz -f Cz2)2 = o.
+Vlastní křivka F jest pak stupně čtvrtého, daná rovnicí cos f'G(Dx -f Ez) * (A* -f Ri-z -j- Cz*)(a* — b*fg V):í — nWWz2 = n *). . . (26).
+V následujících dvou případech křivka E jest parabolou. Tehdy má křivka F v počátku čtyřnásobnou tečnu, jež s osou paraboly jest rovnoběžná.**)
+Vyšetřujíce methodou Cramerovou větve této tečny se dotýkající poblíže počátku, seznáme, že má křivka F v počátku dva body vratové jejichž společnou tečnou jest řečená přímka čtyřnásobná.
+Je-li tu 5. B ellipsa, E parabola, vratové body jsou reálné (sr. obr. 15., tab. I. je-li 6. B hyperbola, E parabola, jsou body ty reálné resp. imaginárně dle toho, je-li
+^ («_„).
+V přechodném případě
+--tg (u-a)...............(27)
+křivka F se rozpadá v trojnásobnou přímku
+(z — x tg a)3 — O a v křivku 5. stupně
+cos Ga (Dx -f 722) - [z (a -j- b tg 6) -f .r (b — n tg <?)] ;i (a — b tg G) ;i
+(28).
+Tehdy jest osa paraboly E rovnoběžná s jednou asymptotou hyperboly 7í, a do této asymptoty spadá ona přímka trojnásobná.
+Křivka (28) má v počátku bod trojnásobný, složený z obratového a samotyčného. Tečna obratová jest rovnoběžná s osou paraboly E, tečna
+*) Značí-li U,   V asymptoty hyperboly B,   O její reálnou osu, a je-li OU — <p, tedy X(J = qp -f a,   při  tom tg cp
+.       — B ± Y B* — 4AČ        atq ,   jest   tg (• ± ») = -      ~~      — = ~
+Jixz + Cz2 ,  .    f.    . .        ,    ,  , ——--------------fa —1> tg a), což vloženo
+pročež lze psáti o ""(z — r.tga)""1 — l2(x-\- ztíjo)'1-
+do levé strany rovnice (21) pro dolní znaménko, vede k rovnicím hořejším. **; Tu jest R* — 4 /l C'— o, pročež poslední činitel rovnice (24) jest
+(^a-2-f Rxz -f Cziy =z (z + TiTí :/')4. nebo (z — x ty a) ', značí-li tg u směrnici osy paraboly E.
+XXIV. ﻿19
+bodu samotyčného splývá s osou A'.    O reálnosti resp. imaginarnosti větví bod samotyčný skládajících rozhoduje podmínka
+V přechodném případě
+(29)
+od křivky (28) odlučuje se osa A"" jako přímka dvojná.
+Srovnáním rovnic (27), (29) vychází a — 2ff jako podmínka, aby posledně řečené dvě degenerace současně nastaly. Tehdy jest jedna asymptota hyperboly B rovnoběžná s osou paraboly K, druhá splývá s osou A"". Křivka F v případě tom degeneruje ve přímku trojnásobnou, jež splývá s řečenou asymptotou hyperboly 7Í, dále v přímku dvojnásobnou do osy A' spadající, s níž druhá asymptota hyperboly B splývá, a ve vlastní křivku 3. stupně.
+Rovnice křivky degenerují čí jest
+z*(z—xtgcc)3[(Dx+E2)az(a* — bY—a*b4<E2(z—a:tg&)C*] = o.......(30).
+Křivka 3. stupně má v počátku bod obratový, jehož tečna jest s osou paraboly rovnoběžná, v nekonečnu reálný bod dvojný, jehož asymptoty jsou rovnoběžný s tečnou ku parabole K v počátku.
+7. Zbývá uvažovati o křivce F pro případ, že B jest parabolou. Osa paraboly budiž od osy A"" o úhel G odchýlena.
+Rovnice   křivky F plyne z rovnice (21),   vložíme-li do ní, pokud pro
+ellipsu platí, — — p. — =r o   zní takto : a           a
+cos 3a (Dx -f Ez)(z — x tg o)3 ± pfíz (Ax* -f- Bxz -f- Cz2) = o ... (31)'
+Budiž E ellipsou nebo hyperbolou.
+Křivka (31) skládá se ze dvou křivek stupně 4. FF', z nichž první ku křivce (l, druhá k (Jf přísluší (sr. odst. 4.). Každá z těchto křivek má v počátku bod trojnásobný. Jednou tečnou jest osa A', druhé dvě jsou rovnoběžný s asymptotami kuželosečky E. Tečny mají tu s křivkou dotyk stupně 1. V úběžném bodě paraboly B má každá ta křivka bod obratový s přímkou úbčžnou jako příslušnou tečnou a jeden bod jednoduchý, úběžný to bod tečny kuželosečky E v počátku.*) Pro G =: o rovnice (31) nabývá
+tvaru           z[(Dz + Ez)z*±pR(AsB* + Bxz-{-Cg*)] = o].......(32)
+křivka 1F resp. ""F tu degeneruje v osu A"" a v křivku stupně 3. Tato má v počátku bod dvojný, dotýká se přímky úběžné a protíná ji v úběžném bodu tečny ku křivce E v počátku.
+čátku.
+*) Křivky F F'   nejsou o sobě   ccntricky souměrný, ale jedna s druhou dle po-
+XXIV. ﻿20
+Je-li osa paraboly B rovnoběžná s některou asymptotou kuželosečky E, rovnice (31) nabývá tvaru*)
+(z — xtfja)[cos »a(Dx + Ez)(z — xtgG)2±pRz(Bx + Ctf/Gx + (ty]=0....(33) z něhož zjevno, že tu křivka F resp. /"" degeneruje v osu paraboly Jí a ve vlastní křivku 3. stupně. Tato má v počátku bod dvojný, dotýká se přímky úběžné a prochází úbčžným bodem tečny křivky E v počátku.**) Je-li E parabolou, rovnice křivky F rcsp. /*"" jest
+4A co* ""V(/)./;• -f- Ez) (z — x tg G):] ±plíz(2As. -f- Bz)° = O . . . (34).
+Křivka jest každá stupně 4., má v počátku bod trojnásobný, jehož jednou tečnou jest osa A"", kdežto druhé dvě splývají, tvoříce rovnoběžku s osou paraboly E. Zároveň jsou tečnou ve vratovém bodě, jejž skládají druhé dvě větve bodu trojnásobného. V nekonečnu má křivka bod obratový s přímkou úběžnou jako příslušnou tečnou a jednoduchý bod v úběž-ném bodě tečny k parabole E v počátku.
+Pro G ~ o vychází
+z\4A(n,r-\-Ez}z2±pR(2Ax+BzY]=V.......(35),
+tedy degeneruje v osu A' a v křivku 3. stupně.
+Tato má v počátku o bod vratový, dotýká se přímky úbčžné a seče ji krom toho v úběžném bodě tečny v bodě o ku křivce E.
+Jsou-li osy parabol B, E rovnoběžný, jest
+2A
+z — x t(f — z -f -g- a-,
+pročež rovnice (34) jest
+(z — x tg a)2 [4A cos :SG (Dx -f Ez) (z — x t<j G) ± j>B*Iíz\ = O ... (36). Od křivky 7%  resp.  F' odlučuje se tu dvojná přímka s osami parabol rovnoběžná a vlastní křivkou F jest kuželosečka (sr. obr.  12.)f)
+*) Jesti tu, píšeme-li směrnici asymptoty jen s horním znamením,
+t,y a
+— B + Ytí* — 4AO
+2A
+pročež 4x2 + Bxz -\- GV = (z — x tg a) ( Bx -f C tg a x -f Cz), což do (31) vloženo dává (34).
+**) Z odst. 4. zřejmo, že náleží-li k parabole Ba křivka C, náleží k líu' (značí-li a u' diametrálně protilehlé body kružnice 4) křivka C'. K prvé patří F, k druhé F' . Křivkám Ba B,,' přísluší orthogonalnč kuželové plochy A shodné a stejnolehlé, tudíž i shodné a stejnolehlé kuželosečky E, jež lze si mysliti sjednoceny. Vytkneme-li v rovině křivky Ba obě křivky C C', obdržíme zde též FF'. Protíná-li paprsek svazku o křivku C ve dvou bodech reálných, známým způsobem sestrojíme příslušný bod křivky F, protíná-li paprsek křivku C ve dvou bodech imaginarných, seče zároveň C"" ve dvou reálných bodech; těmto přísluší určitý bod křivky l ', jejž snadně sestrojíme: bod s ním dle o centricky souměrný jest bodem křivky F, příslušným k oněm dvéma bodům imaginarným. (Sr. odst. 3.) Lze takto křivek F F' jednu část vždy sestrojiti přímo, druhou užitím centrické souměrnosti. K pohodlnému sestrojení celé křivky F stupně 4. je tedy žádoucno míti nejen křivku C, nýbrž i C', ač tato s plochou, mimosměrek parabole B příslušnou přímé souvislosti nemá.
+t) Na jiných příčinách založený případ, kdy vlastní křivka F jest parabolou sjednán bude koncem odst. 12.
+XXIV. ﻿31
+Ještě uveďme případ ten, kdy kuželosečka K degeneruje ve dvě přímky*). Z těch jedna vždy prochází počátkem. Útvar jí v křivce F stupně 8. přidružený jest, jakož konstruktivným postupem ihned se pozná, dvojná přímka s ní sjednocená. Je-li druhá přímka dána rovnicí
+rovnice další části křivky F jest
+P2 cos fi<? [a2 (z — x tg 0)2 + 62 (x -J- z ty (?) 2J;f — a*b*R ~z~ (.1/j? -p Nz) * — »... (37).
+Tato křivka stupně 6. v počátku má bod čtyřnásobný, složený ze dvou bodů samotyčných. Tečny po dvou splývají. V nekonečnu má dva body vratové o přímce úběžné jako příslušné tečné. (Sr. obr. 17.)**)
+Křivka F, daná rovnicí (21), o jejíchž různých degeneracích bylo v odst. předešlých pojednáno, jest rodu nulla. Jeť stupně 8. a má v po-
+v   ne-
+čátku bod šestinásobný. Ten zastupuje l   9 ) — 15   bodů   dvojných,
+konečnu jsou 2 body vratové a l dvojný, v šestinásobném ještě 3 dvojné, každý z jednoho samotyčného vzešlý, celkem tudíž maximum 21 bodů dvojných. Křivky, v něž se F degenerací rozkládá, tolikéž jsou rodu nulla, jakož v jednotlivých případech na základě singularit tuto odvozených stvrditi možná.
+Budiž nyní ukázáno, kterak lze sestrojiti tečnu křivky F v libovolném bodě t. (Sr. obr.  13.)
+*) O   případě   torn v odstavci 11. ještě bude jednáno.
+**) V předloženém  případě křivka slově čtyroko.   Sr. Dr. Y. J. Studnička, Vyšší mathematika v úlohách.
+XXIV. ﻿22
+Bod tento leží na paprsku N=tn a jest, jak víme z odst 3., harmonicky sdružen s bodem JT, v němž N protíná kuželosečku E, vzhledem k diametrálně protilehlým bodům </ g' křivky C téhož paprsku.
+Tečna Ta křivky C v bodě k, jejíž sestavení jsme v odst. 5. poznali, má s křivkou C ještě soumezný bod l<j společný, jemuž v křivce F přísluší soumczný ku t bod 1f, v křivce E soumezný ku n bod ln.
+Nahradímc-li centricky souměrnou křivku C rovnoběžnými tečnami Tk Tk\ kuželosečku E její tečnou 7'T a sestrojíme-li k nim dle zákona, jímž se křivka F odvodila, příslušnou křivku (F\ musí tato se dotýkati křivky F v bodě t, pročež míti s ní tam společnou tečnu. Avšak křivka (/•') jest (sr. odst. 12.) parabola, procházející body, v nichž Tn seče T,, a Ty a bodem o, její průměry jsou s Tg rovnoběžný. Učiníme-li on || Tg, tn\\ T„, pak op = — on, jest tp žádaná tečna Tt křivky (F) a tudíž i křivky F dané.
+8. Prohlédněme nyní ku ploše mimosměrek Q, určené tečnami inten-sitních křivek v jednotlivých bodech kuželosečky B.
+Budiž tato nejprv křivkou centrickou, tedy ellipsou neb hyperbolou. V odst. 3. poznali jsme, kterak lze obdržeti jednotlivé povrchové přímky plochy Q. Třeba tu v rovině XZ kuželosečky B sestrojiti křivku C, jež pro celou plochu P jest stálá, kuželosečku E a křivku F.
+Na přímce T0 \ \ Ts ve vzdálenosti oj — R Y cos r volený bod j jest středem, křivka F řídící křivkou kuželové plochy C, s níž povrchové přímky plochy O jsou rovnoběžný. Každému bodu kuželosečky Jí náleží jen jediná přímka povrchová a s jednou povrchovou přímkou plochy kuželové C obecně jen jediná povrchová přímka plochy Q jest rovnoběžná.
+Body křivky B si tedy s body úběžné křivky Fa jednoznačně přísluší, spojnice dvou k sobě příslušných jest žádanou přímkou povrchovou. Transformujme plochu Q kollinearně. Středem kollineace budiž bod j, rovina XZ, v níž leží mimo křivku L, již pokládejme zatím za centrickou, ještě C* F, F, budiž rovinou kollineace.
+Určitá rovina F' osnovy XZ jest kollinearná s rovinou úbčžnou a seče kuželovou plochu C v kollinearné ku F& křivce F', tatos-Fjesthonio-
+05 '
+thetická.
+Roviny svazku T0 protínají se rovinami XZ a F' ve shodných a stejnolehlých svazcích přímek. Středy svazků těch jsou body o a o' na přímce T0 v řečených rovinách.
+V libovolném svém bodě a má kuželosečka fí určitou tečnu, v diametrálně protilehlém bodě b tečnu s ní rovnoběžnou. S těmito tečnami jest rovnobčžen jediný paprsek svazku n' v rovině F'. Ten seče křivku F' mimo v počátku o' ještě ve dvou dle něho souměrných bodech m, u. Jeden z těchto určuje s bodem a, druhý s bodem b povrchovou přímku plochy Q' kollinearné s plochou Q, která je geometrickým místem tečen křivek intensitních. Který z bodů m, n sluší bodu a, řídí se dle toho, zda jest na ploše translační bod n bodem hyperbolickým nebo elliptickým.
+XXIV. ﻿23
+Vzpomeňme nyní, že křivka F prochází oběma úběžnými body kuželo. sečky li (odst. 6.). pročež jsou asymptoty křivky li rovnoběžný s oběma průměry křivky F, do oněch společných úběžných bodů směřujícími. Z toho následuje, ježto křivka /*'' jest homothetická s F, že její dva průměry s řečenými homothetické jsou rovnoběžný s asymptotami kuželosečky B, a. z toho zase, že ty splývající úběžné body dva a dva určují pár bodů dle prve řečeného výtvarného zákona k sobě přidružených.
+Je známo, že plocha mimosměrek, určená jednoznačným přiřadčním bodů křivek stupně druhého a osmého, jest stupně 2 -j- 8 = 10tého, když však dvakráte dva k sobě příslušné body splývají, že se stupeň její o 2 sníží.
+Plocha Q' a tedy arci též plocha Qjest stupně  osmého.
+Nyní již zjevno, že plocha Q' v rovině F' nemá než křivku F' stupně osmého a rodu nulla. Z toho následuje, že jest také Q' a ovšem i Q plochou rodu nulla, což ostatně již z existence křivky B na této ploše vysvítá.*)
+Rovina XZ s rovinou F' protínají se v úběžné přímce Ux. V této má křivka /*»' (tam, kde křivka F} dva body vratové o této přímce jako tečně, tedy dvakráte tři body splývající a pak bod dvojný, totožný s úběžným bodem tečny ke kuželosečce E v bodě o. Z oněch tří bodů splývajících vždy jeden jest přidružen úběžnému bodu kuželosečky B a zbývají tedy pokaždé dva; jsou tudíž celkem ještě tři body dvojnásobné v rovině XZ. Každým z nich prochází jedna povrchová přímka plochy Q' a poněvadž bod přidružený též jest v rovině XZ, jsou přímky ty v této rovině. Každá přímka povrchová však jest v jedné tečné rovině translační plochy, pročež musí přímky, o nichž právě bylo jednáno, býti tečnami kuželosečky B. Nyní již snadně jejich polohu určíme. Jsou to dvě dvojnásobné tečny kuželosečky B v jejích bodech úběžných, tudíž přímky s jejími asymptotami splývající, a pak dvě jednoduché tečny této křivky, rovnoběžné s tečnou kuželosečky E v počátku o. Co tu pověděno o ploše Q', beze změny platí i pro plochu Q, poněvadž rovina XZ jest rovinou kollineace.
+Z toho, že jest bod o' šestinásobným bodem křivky F*, následuje, že jím šest povrchových přímek plochy Q' prochází. Uložení jejich poznáme ze zákona výtvarného. V šestinásobném bodě o' má křivka F',
+co
+tři tečny dvojné.  Každá z nich zastupuje jeden z průměrů křivky F'.   Pro-
+v                                                                                          °°
+tíná ji v osmi bodech splývajících. Šest jich připadá na bod o', zbývají tedy pokaždé dva, a z těch každému na kuželosečce B přísluší bod určitý, obsažený v jedné z obou tečen s oným průměrem rovnoběžných. Sestro-jíme-li tečny křivky B rovnoběžné s osou X a s asymptotami kuželosečky Et obdržíme šest bodů dotyčných, a těmi prochází šest povrchových přímek, jež se v bodě o' spolu protínají. Pro plochu Q vychází z toho, že řečenými šesti body prochází šest s tečnou T, rovnoběžných povrchových přímek této plochy.
+*) H. A. Schwarz, Uber die   geradlinigen Fláchen 5. Grades (Crelle's Journal Bd. 67, pag. 23).
+XXIV. ﻿24
+9. Pokusíme se ukázati na základě původního významu této plochy nezbytnost těchto šesti rovnoběžných přímek povrchových. Za tím účelem připomeňme si toto (sr. odst. 1. a 2.):
+Dána tečná rovina T« ku ploše translační v libovolném bodě a cen-trické kuželosečky B, jímž prochází světelný paprsek $„. Jeho průmětem orthogonalným v rovinu T„ jest přímka J\ vedle níž v oné rovině jsou ještě asymptoty U, V indicatrice, tečna T příslušné křivky intensitní a pak přímky * T * T známého významu. První z nich jest rovnoběžná s tečnou TSI druhá jest v průsečnici roviny T s rovinou XZ kuželosečky B. Jest pak
+(T P U F) = - l, jakož i                               (1T 2T U V] = — 1.
+Mysleme si, že se přímka P sjednotí s tečnou 2T. Tehdy T sjednotí, se s přímkou 1T. Poněvadž jest P rovnoběžno s povrchovou přímkou ortho-gonalné kuželové plochy A, zajisté dvakrát nastane případ řečený, jelikož však ku tečně '2T jest v diametrálně protilehlém bodě křivky B tečna rovnoběžná, celkem čtyřikráte bude přímka T rovnoběžná s rl\. Avšak ještě v jiném případě nastane výsledek týž: tenkráte, když inflekční tečny U, V plochy translační spolu splynou. Tehdy totiž, poněvadž též
+(U V P F} = — l   a   P má polohu obecnou,
+přímka T musí se sjednotiti se splývajícími přímkami lr V, avšak tyto splynouce sjednotí se s l'J\ a tak jest zase 7' = 1T. Případ řečený přihází se v parabolickém bodě plochy translační a takové body jsou v kuželosečce B dva.
+Plocha Q má tedy šest povrchových přímek, rovnoběžných s tečnou Tx.
+Na základě původního významu plochy této lze též odvoditi existenci šesti jejích přímek v rovině kuželosečky B obsažených, kterou jsme již v odst. 8. dokázali.
+Tažme se, v kterých případech tečna T, povrchová to přímka plochy O, padne do roviny XZ kuželosečky B.
+Především nastává to tehdy, když přímka P sjednotí se s tečnou 1T. Tehdy se přímka T sjednotí s tečnou *T a padne tudíž do roviny XZ. Hledíce k orthogonalné kuželové ploše A, ihned poznáváme, že se v jednom případě promítá paprsek Sj v přímku 7T„, a to svědčí našemu požadavku) neboť pak přímka P splyne s tečnou V7'. Nastane to dvakrát, ve dvou totiž diametrálně protilehlých bodech kuželosečky B. Nabýváme tak dvou jednoduchých přímek v rovině XZ. Povážíme-li, že roviny, jdoucí přímkou 71 a jednotlivými povrchovými přímkami kuželové plochy A jsou rovnoběžný s tečnými rovinami translační plochy v jednotlivých bodech křivky 7>, a že rovina, do níž se promítá fy tak, že se průmět s 7'„ sjednocuje, jest tečnou rovinou této plochy kuželové podél Tv, poznáváme, že nalezené dvě jednoduché povrchové přímky jsou rovnoběžný s tečnou kuželosečky E
+XXIV. ﻿25
+v počátku o. Jsou to tedy ony dvě přímky, o nichž v odst. 8. zmínka se činí.
+Připomeňme si dále,*) že úběžné body na v^ kuželosečky B jsou parabolickými, zároveň však obyčejnými dvojnými body této plochy. Každá povrchová přímka inflekční plochy kuželové každého z těchto bodů zastupuje splývající asymptoty indicatrice v tečné rovině, která se podél té přímky dotýká plochy translační. Jedna z těch přímek povrchových jest tečnou řídící kuželosečky v onom bodě úbčžném, tedy její asymptotou. Příslušná tomuto bodu přímka P obecně nepadne do řečené asymptoty a tudíž přímka T0 s ní harmonická vzhledem ku splývajícím asymptotám indicatrice s těmito se sjednocuje. Takto nabýváme přesvědčení, že jest v rovině XZ další přímka plochy, sjednocená s asymptotou kuželosečky B. Povážíme-li, že jest tato asymptota mezným případem tečen ve dvou bodech diametrálně protilehlých, soudíme, že sluší řečenou přímku počítati jako dvojnásobnou.
+Obdobně jest vzhledem k druhému úběžnému bodu vx kuželosečky B.
+Poznáváme tedy opět, že má plocha Q v rovině kuželosečky B šest přímek povrchových, vesměs tečen křivky Jí a v takové rozloze, jako v odst. 8. bylo ukázáno.
+Pravili jsme v odst. 3., že obecně žádné dvě tečny křivek intensitních nejsou spolu rovnoběžný, byť to i byly tečny v bodech diametrálně protilehlých, poněvadž, je-li jeden elliptický, druhý jest hyperbolický.
+Z úvah právě ukončených vychází několik výjimek. Zdánlivou onu neshodu vysvětluje známá pravda, že každé dvě centrické kuželosečky v rovinách rovnoběžných mají jeden pár sdružených průměrů střídavě rovnoběžných.**) Jeden z těch dvou párů dán jest tečnami řídící kuželosečky v bodech diametrálně protilehlých, druhým párem jsou ony povrchové přímky, jejichž rovnoběžnost byla zjištěna.
+Vraťme se ještě k řečeným prve šesti rovnoběžným povrchovým přímkám plochy Q. Povšimněme si přímek plochy Q' s nimi kollinearných. Průměry křivky F' rovnoběžné s tečnami ku B v bodech, jimiž tyto přímky
+5D
+procházejí, jsou, jak víme, též tečnami křivky té a to v bodě </; z toho již následuje, že jest každá z těchto šesti přímek zároveň vrcholovou přímkou plochy Q'. Budiž při tom podotčeno, že vrcholy neleží v bodě »>', všem těmto přímkám společném.
+Přejdouce ku ploše Q, poznáváme, že každá ze šesti jejích rovnoběžných površek jest její přímkou vrcholovou, nikoli však hranou. Plocha O krom toho ještě má šest dalších přímek vrcholových.f)
+Pozůstává promluviti o ploše O v případě, když jest li kuželosečkou necentrickou, tedy parabolou. Tehdy jest F' křivkou stupně čtvrtého.
+35
+*) Srv   mé pojednání již citované.
+**) J. de la Gournerie, Traité de geometrie descriptive. 2 Éd. LVI. pag. 72. f) Cremona-Curtze,  Grundzúge  einer allgem. Theorie der OberHáchen, pag. 58.
+XXIV. ﻿26
+Pomníme-li, že s úběžným obratovým bodem této křivky sjednocuje se úběžný bod paraboly 7>', a že přímka úběžná jest společnou zde tečnou, poznáváme, že mají obě křivky dva soumezné úběžné body společné, ?<» '«». Úběžným bodem každé tečny paraboly B prochází tětiva křivky V, která
+00
+ji mimo v trojnásobném bodě o seče v bodě ještě jediném. Tento bod křivky F' jest sdružen vždy s dotyčným bodem řečené tečny. Splynou-li
+ce
+dvě tečny kuželosečky, jejich průsečný bod sluší hledati v společném bodě dotyčném. Z toho následuje, že když tečna paraboly splyne s úběžnou přímkou, průsečík její s touto sluší hledati v úběžnčm bodě na paraboly. Spojnice jeho s bodem o křivku J1' v něm protíná, a poněvadž on spolu jest dotyčným bodem řečené tečny k parabole, patrno, že tyto dva splývající body křivek B a F' jsou body dle známého výtvarného zákona
+co
+spolu sdruženými. Z toho následuje, že jest plocha Q' a tudíž i plocha Q stupně pátého.
+V rovině F' má plocha Q' mimo křivku F' ještě přímku.
+10. Je-li naší úlohou při jednotlivých křivkách soustavy B dané plochy translační, jejíž řídící křivkou jest kružnice As, sestrojovati plochu Q, jejíž povrchové přímky, jsouce tečnami křivek intensitních, mohou svými obrazy přispěti ku přesnějšímu zobrazení křivek intensitních, sluší si předem povšimnouti úvah o křivce C vykonaných, z nichž na jevo vychází, že tato křivka pro všechny křivky soustavy B zůstává táž. Sestrojme ji v druhé průmětně, rovině to rovnoběžné s rovinami křivek 7J, kladouce její střed v počátek soustavy o. Proložíme-li středem o rovnoběžky s jednotlivými tečnami řídící kruhové křivky At a vneseme-li na ně od bodu o délky oj = R V cos T, budou body j v rovině křivky As, tedy v první průmětně, určovati křivku Q2 — /i2 sin rp, pro o jako pól a A'jako osu polárnou; křivka to geometricky podobná křivce C, dané rovnicí 9.
+Jednotlivé body této křivky určují s křivkami F, jež pak v druhé průmětně užitím stálé křivky C a proměnlivé kuželosečky E sestrojíme, řídící kuželové plochy C jednotlivých ploch Q.
+Sem náleží dále, stanoviti předem průsečíky kružnice A s rovinami oněch kuželoseček B, jimž příslušná kuželosečka K jest parabola.
+Budiž Rj prvním obrazem roviny R (obr. 17.) k XY kolmé a bodem s procházející, v níž jest řídící kružnice I) kuželové plochy A, jejíž střed / leží v tečné Ts řídící kružnice AS) od .s jsa vzdálen o js •==. R\ cosv. Kružnice /), určená (sr. odst. 2.) bodem s a pronikem n paprsku Sj s rovinou R jako konci svého průměru, zobrazuje se v 7>3 obrazem třetím při zá-kladnici U^rA = Rt.
+Má-li rovina XZ tvořící kuželosečky plochu A seci v parabole, musí se bodem j procházející rovina B' s X. Z rovnoběžná dotýkati plochy té. Proto musí k přímce U kolmá průsečnice P rovin B' R býti tečnou kružnice D.
+XXIV. ﻿27
+Splnění řečené podmínky vyjadřuje se relací
+R3 zz r
+.............. (38)
+je-li r poloměrem kružnice 7).
+Užitím  rovinné   geom.   analytické   a při   označení v odst. 5. zavedeném nabude tato relace po náležité úpravě tvaru
+z něhož vycházejí vedle dvou hodnot imaginarných, úběžným bodům řídící kružnice svědčících, ještě dvě, při reálném A^. a !>% vždy reálné hodnoty ty r. Poněvadž každé z těchto tangent náleží dva úhly o n se lišící, poznáváme, že čtyřem reálným bodům lj_j . . . *p řídící kružnice As přísluší parabolický pronik orthogonalné kuželové plochy A s rovinou XZ. Křivka jimi se rozpadá ve čtyři oblouky, z nichž dva protilehlé k hyperbolám, druhé dva k ellipsám prohledají.*)
+11. Ohledejme nyní plochu Q v některých případech zvláštních, jež se naskytují při dané translační ploše P.
+Předpokládejme nejprv plochu P vytvořenou translací centrické kuželosečky B po řídící kružnici .l,, po níž střed s křivky se posouvá.
+Řídící kružnice A, jest v rovině XY, kuželosečka .B v rovině XZ. Body, v nichž tečny křivky B jsou rovnoběžný s osou A~ náležejí dvěma parabolickým kružnicím plochy translační, shodným a stejnolehlým s kružnicí As. Obecně tedy v každé kuželosečce soustavy B jsou dva takové body diametrálně protilehlé. Každým z nich prochází tečna příslušné kružnice bodů parabolických. Ta zastupuje splývající inflekční tečny 7} parabolického bodu /.
+Dejme tomu, že orthogonalný průmět P,- světelného paprsku /Sf bodem i procházejícího, do příslušné tečné roviny T, , roviny to parabolické kružnice, sjednocuje se s tečnou 7/.
+Tehdy čtvrtý harmonický paprsek 7] tečna to křivky intensitní, tedy povrchová přímka plochy O, stává se neurčitou, jak známo z nauky o harmonickém dvojpoměru čtyř paprsků ; všechny paprsky svazku i v rovině T,- sluší míti za čtvrté harmonické. Následek toho jest, že celá rovina T/ jest částí plochy O. Poněvadž tak jest i v diametrálně protilehlém bodě /' s rovnoběžnou tečnou rovinou T/, od plochy O odlučuje se dvojice rovin rovnoběžných, od úběžné křivky F^ musí se dvojnásobná přímka odděliti, pročež také řídící plocha kuželová C degeneruje a od
+*) Protneme-li v obr. 17. S,  S., ordinalou 123,   učiníme-li 12 = 14=m, 45 j]^, 46)1^, I2, je-li pak 15 —», 06=rp, 07 = -'"",   08 — >t—p,   09 = M-j-^,   jest  '/>,   V, 11 78,
+3J»,   V, 11 79.
+Podmínečná  rovnice,  která vede jen k  reálným hodnotám úhlu T, rychleji se obdrží, vyjádříme-li podmínku, při které křivka (20) jest parabolou.
+XXIV. ﻿28
+křivky F odlučuje se přímka dvojná. Potvrzení této úvahy snadně dojdeme počtářsky, kladouce z důvodů, jež z obr.  17. hned vysvitnou,
+A* = — cotg r...............(40).
+Dosadíme-li z (40) do rovnice křivky l1] ihned vychází D — O, následkem čehož činitel z2 od levé strany její rovnice se odlučuje. Křivka intensitní bodem / resp. /' procházející, má v něm bod dvojný. Řečená rovina vyplněna jest jeho tečnami ve smyslu širším. Vlastní plocha Q jest zase stupně šestého. V rovině dvojné kuželosečky má 4 přímky; jsou to asymptoty křivky oné, z nich každá platí za dvě. Šestý stupeň plochy obdržíme i přímo, povážíce, že tu vlastní křivka F jest 6. stupně, že prochází úběžnými body kuželosečky B, a že splývající páry bodů jsou body přidružené.
+Jiný případ sem náležející jest ten, kdy jedna asymptota tvořící hyperboly li jest rovnoběžná s jednou asymptotou hyperboly E. Tehdy jedna povrchová přímka orthogonalné kuželové plochy A jest rovnoběžná s onou asymptotou hyperboly B, má tedy paprsek světelný, jdoucí jistým bodem hyperboly B, svůj průmět P do příslušné tečné roviny 1T sjednocený s její asymptotou. Řečený bod jest úběžný bod «« hyperboly B. Avšak úběžné body hyperboly B jsou dvojnými a spolu parabolickými body plochy trans-lační. Proto se v řečené asymptotě sjednocují obě k bodu ua v tečné rovině 2T, příslušné inflekční tečny translační plochy. Zde tedy opět se přímka P sjednocuje se splývajícími asymptotami indicatrice. Toho následkem jest neurčitost tečny T. Všechny přímky tečné roviny 2T (jest určena onou asymptotou a tečnou kružnice Ac v bodě s) lze za čtvrté harmonické pokládati. Tato rovina se od plochy Q odlučuje.
+Vzhledem k tomu, že lze onu asymptotu míti za mezný případ dvou diametrálně protilehlých, sluší onu rovinu čítati dvakrát. Zbývá tedy vlastní plocha Q zase stupně šestého. V rovině křivky B jsou známé dvě rovnoběžné tečny a pak ona asymptota, která dvojným bodem ««, neprochází, jako přímka dvojná. Šestý stupeň této plochy též přímo obdržíme, uvážíce, že tu vlastní křivka F jest stupně šestého, že prochází úběžnými body tvořící kuželosečky a že splývající páry úběžných bodů jsou body sdružené. (Sr. rovn. 25.)
+K tomuto případu druží se onen, kdy obě asymptoty hyperboly tvořící jsou rovnoběžný s oběma asymptotami hyperboly E.
+Co prve bylo pověděno, platí zde dvakráte. Od plochy Q odlučují se tu dvě roviny, z nichž každá platí za dvě, takže vlastní plocha Q jest stupně čtvrtého. Stupeň plochy Q obdržíme též, uvážíce, že tu vlastní křivka F jest čtvrtého stupně, že prochází úběžnými body kuželosečky />' a že splývající páry úběžných bodů jsou body sdružené. (Sr. rovn. 26.)
+Další případ sem náležitý jest ten, kdy s jednou asymptotou hyperboly B jest rovnoběžná osa paraboly K.
+XXIV. ﻿29
+Patrně tu dvé soumezných přímek P padá do jedné asymptoty hyperboly B. To by dle předešlého mělo vésti k odloučení dvojné roviny od plochy Q. Přihlédneme-li k počtářskému posouzení toho případu, shledáme však (sr. rovn. 28.), že od křivky F odlučuje se tu přímka trojnásobná.
+Abychom   neshodu tu vysvětlili, obraťme se ke kollinearné ploše Q',
+určené hyperbolou B a křivkou F' v rovině s ní rovnoběžné. Zde /""   rožce padá se v trojnásobnou přímku, rovnoběžnou s osou paraboly E a v křivku F'r>
+stupně pátého. Tato jest homothetická s křivkou /•'-  obsaženou v rovině B
+cc '
+a danou rovnicí (28). Víme, že má v počátku s' bod trojnásobný, jehož jedna větev má tam bod obratový s tečnou právě v oné odloučené přímce trojnásobné. Tato tečna seče tedy křivku F:' v počátku v pěti splývajících bodech, takže vedle tří průsečných s trojnásobným bodem s' ještě i další dva, diametrálně protilehlé, sem spadají. Avšak s řečenou přímkou je také rovnoběžná jedna asymptota hyperboly B. Máme-li zření k výtvarnému zákonu plochy O', jest patrno, že úběžný bod hyperboly B, k němuž náleží druhá její asymptota, sjednocuje se s úbčžným vratovým bodem křivky 7*1', a tvoře s ním dvojici bodů sdružených, nedává vzniku povrchové přímce; za to však, proložíme-li středem s' křivky F-' rovnoběžku k první asymptotě hyperboly B, ve shodě se zákonem výtvarným seče tato křivku F-' v bodě /, takže řečenému úbčžnému bodu hyperboly příslušná povrchová přímka padá do roviny F'. Tuto přímku sluší tedy od řečené prve trojnásobné přímky na vrub zbylé plochy odpočítati. Vrátíme-li se odtud k původní ploše Q, poznáváme: Od plochy té odlučuje se skutečně jen rovina dvojná, vlastní plocha Q jest stupně šestého. Její úběžná křivka F„ skládá se z přímky a z křivky stupně pátého.
+Šestý stupeň plochy Q jest také ve shodě s tím, že má křivka Fr>' jen jediný úběžný bod s hyperbolou B společný, což při našem zákoně výtvarném nezbytně vede na stupeň šestý, povážíme-li, že ty dva splývající úběžné body jsou body sdružené. V rovině hyperboly B má plocha Q známé dvě povrchové přímky jednoduché a pak onu asymptotu hyperboly jako přímku dvojnou, která s osou paraboly E jest různoběžna.
+K případu tomuto druží se onen, kdy jest jedna asymptota hyperboly B rovnoběžná s osou paraboly, a druhá asymptota padá do roviny kružnice řídící, tedy do osy X.
+Zde ukazuje počet, že odlučuje se (sr. rovn. [30]) od křivky F přímka trojnásobná, rovnoběžná s osou paraboly jako v předešlém případě a dvojná přímka, splývající s osou A"". Zbývá tedy z křivky F jen část F% stupně třetího. Tato křivka však jen úbčžný bod v ose A' ležící má společný a sdružený s jedním bodem hyperboly B, což nasvědčuje tomu, že plocha mimosměrek Q jest tu stupně čtvrtého. Vysvětlení záleží jako v předešlém případě vtom, že má plocha Q mimo křivku třetího stupně ještě jednu povrchovou přímku v nekonečnu. Původní plocha Q degeneruje zde tedy ve dvě roviny dvojné
+XXIV. ﻿30
+jež   asymptotami  hyperboly   B  procházejí,  a   ve  vlastní   plochu Q stupně čtvrtého.
+V rovině hyperboly má plocha známé dvě povrchové přímky jednoduché, jež se jí dotýkají, procházejíce úběžným bodem tečny paraboly K v počátku.
+Zbývá ještě poukázati k degeneraci, která nastává, když paprsek světelný, některým bodem m kuželosečky B procházející, jest kolmý k příslušné rovině tečné. Do této ovšem se nepromítá v přímce, nýdrž v bodě, ale bod ten lze míti za průsečík celého rovinného svazku přímek, jež v jistém smyslu lze všechny pokládati za průměty řečeného paprsku, tedy za přímky P. Shledáváme tedy, že tu P jest neurčito, a následkem toho ovšem i rl\ vyplňujíc svazek přímek, jehož spojnicí jest tečná rovina T(), plochy translační v bodě in. V případě tom křivka intensitní, bodem nt procházející, má zde bod dvojný. Shledáváme zde výsledek týž, jako z počátku tohoto odstavce, ale z příčin docela jiných. Poněvadž, pokud B jest křivka centrická, kterýž případ máme zatím výhradně na zřeteli, k řečené prv tečné rovině má plocha translační ještě jednu rovnoběžnou v bodě »/, který jest v křivce B bodu >u diametrálně protilehlým, zjev prve vyložený při ploše Q nastává dvakrát. Od plochy mimosmčrek odlučují se tedy dvě rovnoběžné roviny a vlastní plocha Q jesti stupně šestého.
+Snadno jest případ ten verifikovati počtářsky.
+Aby byl první průmět paprsku světelného kolmý ku přímce T,, docílí,
+se podmínkou                              A^tgr,.................(41).
+Pak vychází pro součinitele rovnice kuželosečky E (sr. rovn. 40.)
+A — sin r, B — B* sin r, C= O, D ~ E YCOST, E = B*R V cos r načež rovnice křivky F jest (sr. rovn. 26.)
+(42),
+(x -f- řLz)2 [cos c>6 cos T \«2 (z
+\                     *F   /       l                                      L
+sni
+O
+...........(43)
+na důkaz, že zde křivka ta rozpadá v dvojnou přímku k paprsku S kolmou a v křivku šestého stupně, tudíž způsobem, který s řečenou právě degenerací plochy Q se shoduje.*)
+Vzhledem   k   hodnotám   (42)   nabývá v případě uvažovaném rovnice křivky E tvaru
+(./• -f- Bz) (x sin r -\- R VfwTr) = O,
+z něhož patrno, že se tato kuželosečka degeneruje ve dvě přímky, z nichž jedna, 1E, jest k ose A' kolmá, druhá, -/% k paprsku světelnému, zároveň počátkem procházejíc.
+*) Sr. odst. 7.
+XXIV ﻿31
+Jesti totiž v případě tom paprsek Sj kolmý k tečně Tn, pročež tvoří jeho průměty do rovin svazku T0 svazek přímek o středu j, vyplňující rovinu 1A k 7} kolmou. Průmět paprsku Sj do roviny 2A svazku T0 k němu kolmé dán jest bodem j, středem to svazku přímek tuto rovinu vyplňujících, jež v jistém smyslu vesměs za průměty oné přímky lze pokládati. Roviny *A 2A navzájem kolmé zastupují zde zvrhlou plochu orthogonál-ného kužele A a pronikají rovinu XZ v přímkách 1E 2E, kuželosečku E zastupujících. Dvojná přímka, od křivky F se odlučující, s jednou z nich se sjednocuje.
+Zbývající rovnice (43) křivky 6. stupně zasluhuje zvláštního povšimnutí z té příčiny, že tu schází veličina /?, na důkaz, že v případech, kterým svědčí substituce (41), poloměr II řídící kružnice pro křivku F pozbývá významu.
+12. Pohlédněme nyní k degeneracím plochy Q, když kuželosečka /> jest parabolou. Je-li osa paraboly li v rovině řídící kružnice, rovnice (32) resp. (36) ukazuje, že jest vlastní křivka F stupně třetího. Plocha Q' a tedy i Q je tu stupně čtvrtého; sjednocujeť se jeden úbčžný bod křivky F se sdruženým bodem paraboly B. V rovině F' má plocha Q' ještě úběžnou její přímku jako jednu povrchovou, v rovině paraboly />' ještě povrchové přímky dvě; jednou jest tečna paraboly, rovnoběžná s tečnou kuželosečky E v bodě s, druhou úběžná asymptota. Výsledky ty snadno jest applikovati na plochu Q.
+Dále sem náleží případ, kdy jest osa paraboly B rovnoběžná s jednou asymptotou hyperboly E. Tehdy (sr. [33]) vlastní křivka F také jest stupně třetího, a plocha Q z důvodů předešlým obdobných má stupeň čtvrtý.
+V dalším případě, kdy totiž E jest parabolou a její osa s osou paraboly B rovnoběžná, poznáváme z rovnice (36), že vlastní křivka Fa jest kuželosečka. Poněvadž jeden úběžný bod této křivky se sjednocuje s příslušným bodem paraboly B, plocha Q' a tedy i Q jest stupně třetího. Plocha Q' má v rovině paraboly B povrchovou přímku P, tečnu to rovnoběžnou s onou asymptotou hyperboly F', která jest k ose paraboly různo-
+co
+běžná, v rovině pak hyperboly povrchovou přímku Q, jistou to rovnoběžku s osou paraboly. Z výsledků těch snadno jest souditi o ploše Q. Pokud jde o rovinu křivky B zůstávají ovšem beze změny.*)
+*) Bodem b, v němž dotýká se povrchová přímka P paraboly B, prochází dvojná řídící přímka O plochy Q stupně třetího. Určíme-li kterékoli další dvě povrchové přímky A li této plochy, bude lze přímku O obdržeti jako jejich příčku bodem b procházející. Promítneme-li pak přímku O klinogonalně do roviny XZ rovnoběžně s přímkou Tc, obdržíme přímku O.,; tečné roviny v jednotlivých bodech paraboly B ku ploše translační v příslušných tečnách té paraboly se budou promítati, poněvadž pak povrchové přímky plochy Q obsaženy jsou každá v jedné z těchto tečných rovin, třeba jen body, v nichž tečny paraboly li s 04 se protínají, promítnouti zpět do přímky O. Hody tak obdržené každý s příslušným dotyčným dávají přímky povrchové.
+Toť jiný výtvarný zákon plochy uvažované, jehož vedle původního často i s prospěchem užiti lze.
+XXIV. ﻿32
+Jiného snížení stupně plochy Q na stupeň třetí nabudeme, uvážíce především, že snížení pátého stupně na čtvrtý může nastati též kolmostí paprsku světelného k některé tečné rovině (sr. odst. 11.) nebo tím, že se paprsek promítá do splývajících asymptot indicatrice. Sdruží-li se jedna z řečených právě degenerací s jednou z prve vyložených, plocha Q sníží se na stupeň třetí.
+Případ ten skutkem se stane, jestliže parabola J5, jejíž osa jest v rovině řídící kružnice Av, obsahuje bod, jehož tečná rovina translační plochy jest kolmá k paprsku světelnému. (Viz bod a v obr. 20. tab. II.) Tehdy od plochy Q čtvrtého stupně odlučuje se tato rovina tečná jako její součást, a zbývá tu vlastní plocha Q stupně třetího. Že tomu vskutku tak, ukáže se, sestrojíme-li křivku F. Zde jest (viz obr. 19. tab. II.) světelný paprsek S kolmý ku tečně Tx, pročež křivka E degeneruje ve dvě přímky 1H -/-,1, z nichž první jest ku X kolmá a druhá prochází bodem x (sr. konec odstavce 11.). Vlastní křivka F, odvozená užitím křivky C\ jež tu skládá se (sr. rovn. [15]) ze dvou rovnoběžek 1C 2C dle osy A"" souměrných a z této osy, jest parabola o ose A"". Důkaz platný i v obecnějším případě, kdy přímka ""2K k ose X jest nakloněna v úhlu kosém, lze vésti syntheticky takto:
+Křivce F na každém paprsku svazku s náleží jediný bod, příslušnému bodu přímky ~K harmonicky sdružený a pak ještě všechněm společný bod a jakožto harmonicky sdružený s líbezným bodem přímky K; křivka tedy jest kuželosečka. Oběžných bodů nemá leč v průsečíku přímek l(' 2I', pročež jest parabolou o ose s nimi rovnoběžné. Tato, procházejíc body, v nichž 2E s 1C a 2C se protíná a v bodě s majíc tečnu s 2E rovnoběžnou jest dokonale určena.
+Paraboly B a F mají dva sdružené úběžné body splývající, pročež plocha Q jest stupně třetího. Plocha Q jest dle roviny XY normálně souměrná, pročež má v ní svoji křivku dvojnou. Je to dvojná přímka (\ s osami obou parabol nutně rovnoběžná. Jednoduchá řídící přímka V této plochy jest k rovině AT kolmá.
+Uvažovaná translační plocha P má ještě jeden bod téže vlastnosti, jako a, jest to jemu diametrálně protilehlý bod a' v kružnici A.
+Podle paraboly />' bod ten obsahující dotýká se plochy P plocha Q', tolikéž stupně 3. Tato má v rovině AT dvojnou přímku U' a jednoduchou řídící přímku V k rovině XY kolmou. Tyto dvě přímky jsou s přímkami U V souměrný dle středu i kružnice, v níž plocha P rovinu A'}' protíná. Parabola B náleží hyperbolické, L>' elliptické části plochy P, příslušná jí křivka F' jest s F souměrná dle bodu <>, lze všek i zde vystačiti s křivkou /•' jen když na místě bodu j volíme souměrný s ním dle <> bod /.
+Majíce zobraziti tečnu Te příslušné křivky intensitní, sestrojme v c., tečnu <'.>r.2 k parabole B.t (obr. 20.), načež učiňme v obr. 19. oji* \\ <'.,i\, ; jest pak hleděné 7'2 i ./.>/'.>, 7'í||/!//,.
+XXIV. ﻿33
+Jde-li o tečnu v bode <', učiňme podobně v c'2 tečnu c'2?-'2 k parabole #'2 (obr. 20.), potom v obr. 19. o2#2 jj c./r.2' ; bude pak hledané 72C' \\j2'(/2'*) T c/ i / ""'« '
+•M      l/l Úl •
+V obr. 20. zobrazena ještě plocha Q, která se plochy P dotýká podél kružnice A body a a' procházející. Tato plocha jest stupně šestého, poněvadž se tečné roviny v bodech a a a' od plochy stupně osmého odlučují. (Sr. odst. 11.)
+V případě tom křivka 6', tenkráte v rovině XY obsažená, dána jest obrazem 16.; při tom veličina li rovnice (6) značí poloměr křivosti m n kterékoli z parabol B v průsečném bodě s kružnicí A. Křivka E i zde se rozpadá v přímky 1E 2E, z nichž jen první pro vlastní křivku F, v odst. 7. uvedené čtyroko, má význam. Chceme-li obdržeti tečnu Th příslušné křivky intensitní, učiňme v obr. 16. tab. II. oíf1 rovnoběžno s tečnou v 6L ke kružnicí A^ i jest pak r-l\b \\j\fi, 2\ ||./2/2- V obr. 16. ještě jest naznačeno, kterak 1EÍ} jl a j2 se najde. V obou případech tuto uvažovaných (obr. 16. 19., 20.) poloměr R řídící kružnice na křivku F jest bez vlivu. (Sr. závěr odst. 11.)
+Konečně budiž uveden ještě onen případ zvláštní, kdy rovina tvořící kuželosečky B dotýká se řídící kružnice A.
+Tehdy ještě soumezná poloha kuželosečky li spadá do této roviny a tato jest singulární tečnou rovinou plochy P, dotýkajíc se jí podél celé kuželosečky. Je to singularita, Cayleyem cuictrop nazvaná. Kuželosečka B sama tu tvoří část intensitní křivky o světlosti /#, která její rovině přísluší, zároveň jsouc částí křivky parabolických bodů plochy translační. Jiné křivky intensitní neprotínají se s touto kuželosečkou, leč v obou dvojných a obou kuspidalných bodech plochy P, jimiž tato křivka prochází. Další část intensitní křivky světlosti IB s křivkou B však protíná se ještě v oněch dvou bodech, jejichž tečny ke křivce B jsou rovnoběžný s orthogonalným průmětem světelného paprsku do roviny kuželosečky B. V těchto dvou bodech vznikají tedy známé nám již dvojné body křivky intensitní.
+ijf
+V případě tom jest r = — , pročež rovnice (21) křivky jFse zřetelem
+u
+k rovnici (20) nabývá zde tvaru
+z   něhož   patrno,   že   tu   poloměr   R   řídící   kružnice  pozbývá   vlivu   a že křivka   degeneruje  v  jednu   přímku   čtyřnásobnou a ve dvě   dvojnásobné,
+*) Přímek U', \7' (resp. U, V) lze užiti k pohodlnějšímu ještě sestrojení plochy Q', (resp. Q) než jaké skýtá původní zákon výtvarný, známe-li vedle povrchové přímky To', předem dané, jen jedinou ještě površku ./' této plochy. Bodem «', v němž .1' seče rovinu XY, prochází U jako rovnoběžka s osou X, bodem pak, v němž T, s prvním průmětem přímky ./ se proniká, jde kolmice F' ku XY. První obrazy povrchových přímek sekou se v tečce I','. Druhé obrazy povrchových přímek, příslušných bodům paraboly ti' dle XY souměrným, jsou spolu dle Xt souměrný. (Obr. 20.)
+Rozpravy: Ročn. VI. Tř. II. Č. 24.
+XXIV. ﻿34
+z nichž jedna jest v konečnu, rovnoběžná s průmětem světelného paprsku do roviny křivky li, druhá v nekonečnu (ježto místo 8. stupně máme zde jen 6.).
+Poněvadž tu R V cos r = O, střed řídící kuželové plochy C zůstává v bodě o, tudíž v rovině křivky Ft a plocha C proto přechází v rovinu. Veškeré tečny intensitních křivek, z nichž zde plocha Q se skládá, zůstávají v rovině uvažované kuželosečky B.
+18.
+13. Až dosud předpokládali jsme při ploše translační, že rovina tvoříc kuželosečky B jest kolmá k rovině řídící kružnice .1.
+Tažme se, kterak se mají uvažované poměry, když roviny ty svírají spolu úhel y. Za tím účelem předpokládejme řídící kružnici A, která budiž geometrickým místem středů kuželoseček B, v rovině XY se středem v počátku o. Obecnosti nestane se újma, předpokládáme-li, že rovina li kuželosečky Ji protíná rovinu XY v průměru qu s osou A' rovnoběžném. (Obr. 18.)
+V libovolném bode a této plochy sestrojme její normálu Ar„, vytkněme pak střed křivosti ]> kružnice J„, bodem n procházející, a střed křivosti / kuželosečky ]>„, tolikéž tím bodem procházející. Kolmice z těchto bodů k rovinám řečených kuželoseček protínají normálu A^ v bodech // a /', středech to příslušných řezů normalných dle theoremu Meusnierova První obraz normály AT,t i zde jest A7/' 11 xlol a pro /^ platí "",/>, ~ .*.-, o, — //; />t zároveň jest //,. Kolmice z bodu /' k rovině B zobrazuje se kolmicí z /', ku /v/,, a v průseku této s A'"", jest/',. Je-li, ve shodě s označením dosa-
+XXIV. ﻿35
+vad ním, <$. dos — T,  <$; qra r= %,  cíp — 7?, af = r, ap' rr ífít af =: 27?,   \ze psáti především
+ježto pak
+a poněvadž i zde
+konečně
+:2Jí = alp\:fl\,    též
+. 2,,2 — „   „  / . r '
+: 2(> zz RVcosr : Y""Ri
+cos
+tedy touž relaci, jaká odvozena byla v odst. 3. pro případ, že roviny křivek obou soustav translační plochy byly k sobě kolmý.
+Z toho však vychází, že v rovině XZ křivky 6' i F týmiž jako prve rovnicemi dají se vyjádřiti a tedy týmž jako prve způsobem i sestrojiti.
+Poněvadž rovnice kuželosečky E i zde má tvar rovnicí (17) daný*) patrno, že i ostatní úvahy o těchto obecnějších plochách translačních povedou k výsledkům s dosavadními obdobným.
+Otázku o podmínkách, za kterých plocha kuželová orthogonalná A zde protíná se rovinou B tvořící kuželosečky v parabole, lze na základě odst. 10. uvedeném a užitím téhož obrazce (17) zodpovídati. Třeba si jen povšimnouti, že tu rovina B' od roviny XY o úhel y jest odchýlena a tudíž přímka Jí od přímky U o úhel 4u, jehož
+ty (.1 zz tg y sin r.
+Má-li se rovina B s kuželovou plochou A protínati v parabole, musí se přímka R kružnice D dotýkati, a tedy, jak z 3. obrazu patrno, býti zase <737i3 = r, kterážto relace, užijeme-li analytické geometrie rovinné a vypustíme-li činitel ty 2r-j--l, vedoucí k hodnotám pomyslným, vyjadřuje se rovnicí
+ty *r (A. - /?„ ty yj* -f- 2 ty r[2 A„ t,/*y -f 7í„ t<j y -j- A*] -
+z níž vycházejí, obdobně jako onde, dvě různé tangenty, tedy čtyři různé úhly r a proto čtyři různé body s kružnice Ac, dva a dva diametrálně protilehlé, jimž příslušné kuželové plochy orthogonalné rovinou B protínají se v parabole.**)
+Je-li   A ~ o,  t. j. světelný   paprsek rovnoběžný s druhou průmětnou,
+vychází ty r. ^. —        ' - ; plocha   má   tehdy jen dvě orthogonalné kuželové
+*) Konstanty rovnice té arci mají tvar poněkud jiný než v rovnici (20). **) Píšeme-li rovnici (44) ve formě ty '2c -j- M tyt + -V — »-, z níž patrn jest význam veličin M a .V a sestrojíme-li graficky délky M„   .V„, při čemž a libovolnou délku značí, obdržíme  grafickým řešením snadně a ty taž toho i žádaný úhel t.
+XXIV.                                                     3* ﻿36
+plochy A, jež rovinu B v parabolách protínají; je-li A — oo při konečném B, světelný paprsek tedy kolmý k druhé průmětně, jest fy T =: + 2 fy y.
+Zavedeme-li y — 90°, t. j. předpokládáme-li, že roviny křivek různých soustav jsou k sobě kolmý, rovnice (44) nabývá tvaru (39), jak bylo lze předvídati.
+14.   Úvahám,   které v tomto   pojednání   až   dosud   byly   provedeny položili jsme  za  základ  translační  plochu,   která  vznikne   posouváním   se libovolné kuželosečky po kružnici .1. Při tom roviny obou kuželoseček mohou   svírati  úhel   libovolný.    Snažili jsme   se   pak  vyšetřiti, čeho třeba k pohodlnému   sestrojení  tečen  v jednotlivých bodech tvořící kuželosečky k příslušných křivkám intensitním.
+Budiž nyní připomenuto, že výsledky zde uvedené postačí i k řešení předloženého úkolu při translačních plochách obecnějších.
+Předpokládáme-li totiž libovolnou řídící křivku prostorovou F plochy U, jež vznikne translací libovolné kuželosečky, dosavadními úvahami i zde vystačíme.
+Budiž tvořící kuželosečka B, v jejíchž bodech se mají sestrojiti tečny žádané, křivkou centrickou se středem í v bodě řídící křivky prostorové, nebo necentrickou, v kterémž případě se v libovolném bodě s s ní protínej. Tomu bodu přísluší určitá oskulační rovina M prostorové křivky F a určitá oskulační kružnice As jím procházející. Kružnice As a kuželosečka B určují translační plochu P 4. stupně, s níž až dosud jsme se obírali. Poněvadž má kružnice As s křivkou F tři soumezné body společné, plocha P4 plochu U podél kuželosečky B oskuluje, pročež se v bodech té křivky sjednocují ínflekční tečny obou ploch a tedy i tečny v těchto bodech k příslušným křivkám intensitním. Z té příčiny všeliké úvahy o těchto tečnách dosud vykonané v celém rozsahu zůstávají v platnosti.
+Úvahami v odstavcích předešlých vykonanými řešen tedy úkol předložený pro všechny plochy, vzniklé translací kuželosečky vůbec. Rovinu oskulační kružnice bude voliti za rovinu XY, stopu roviny kuželosečky B za osu X souřadné soustavy pravoúhlé. Podle toho pak bude určiti úhel r i délku oj na něm založenou.
+15.   Úvahy, které byly předmětem  tohoto pojednání,   stanoví mutatis mutandis   bezpečnou  cestu   k hromadnému   řešení  předloženého   úkolu i při plochách, vzniklých translací libovolné křivky rovinné-
+V odst. 1. obsaženo ostatně, pokud jde jen o sestrojení jednotlivých tečen, také řešení pro plochu, vzniklou translací libovolné křivky prostorové vůbec. Třeba tam jen kuželosečku ,# nahraditi oskulační kružnicí hybné křivky prostorové v bodě daném.
+Konečně budiž připomenuto, že úvahami o křivce C v tomto pojednání vykonanými připraveny také výsledky, hledící k degeneracím plochy inflekčních tečen v bodech tvořící kuželosečky libovolné plochy translační. O výsledcích těchto pojednati budiž mně zůstaveno.
+XXIV. ﻿ANT.SUCHARDA-.
+KTERAK SESTROJITI TEČNY KU KŘIVKÁM INTENSITNÍM PIOGH TRANSLAČNÍCH ATO.
+14.
+TAB.I.
+15.
+Sestv. Arit Sucharda
+Rozpravy České Akademie: RočníkV^Třída 1.6.2% ﻿ANT. SUCHARDA:   KTERAK SESFROJITI TEČNY KU KŘIVKÁM INTENSITNÍM PLOCH TRANSIACNÍCH ATD.
+16,
+---------o—
+-Ir
+t'f;f,tr. Ant. Sucharda
+20.
+ ﻿*"

@@ -1,0 +1,2930 @@
+"","x"
+"1"," ﻿ROČNÍK VI.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 34.
+
+
+Elektrochemické konstanty některých solí.
+
+
+Podávají Ot. Šule Boh. JVTašek.
+
+
+osmi vyobrazeními.)
+
+
+Předloženo dne 2'2. října 1897.
+
+
+Úvod.
+
+
+Solím jakožto elektrolytům věnováno mnoho pracných studií, týkajících molekulárných neb ekvivalentních vodivostCroztokň vodních, poněvač základě tom lze stanoviti jednak relativní pohyblivosti iontů samotných, jednak určiti stupeň (koěfficient) dissociace elektrolytů pro různá zředění, známa-li mezní hodnota vodivosti. Tato hodnota, jakož relativní pohyblivost iontů představují základní elektrochemické konstanty elektrolytu. Známost těch veličin jest jednak žádoucí pro theorii elektrolytické dissociace, jednak nezbytnou pro celou řadu vyšetřování chemie fysikálné, jako jsou př. úkazy souvisící tlakem osmotickým: zvýšení bodu varu, snížení bodu tuhnutí roztoků, vzájemné zjevy rozpustnosti smíšených roztocích, konstanty affinitní plynoucí měření rychlostí reakčních, vznik sil elektromotorických atd.
+
+
+Základní práce oboru vodivostí elektrických vykonal Kohlrausch, sice vesměs při teplotě 18°. něm zabývali tím předmětem četní vynikající pozorovatelé (Vincentini, Walden, Grotian Wershoven, Bredig, Krannhals j.), jest však zejména uvésti Ostwalda, jehož příkladu ustálilo stanoviti udává'i moleku-lárné neb ekvivalentní vodivosti elektrolytů pro zředění (objem daný počtem litrů chovajících jednu molekulu neb jeden ekvivalent elektrolytu gramech vyjádřený) postupující celistvých mocninách čísla takže
+
+
+jest obecně
+
+
+2-6,
+
+
+kde jest postupně 10, tudíž zředění postupně 32, 64, ... 1024, 2048
+
+
+Rozpravy: Roř. VI. Tř. II. 34.
+
+
+XXXIV. ﻿Ježto jest zředění definované převratnou hodnotou normality roztoku
+
+
+~H'
+
+
+jest:
+
+
+
+
+
+čili pro 10, ... jest pořadí normalt:
+
+
+
+
+
+---- /32» /fit /102-U /20-18
+
+
+Současně zavedl Ostwald vesměs teplotu 23°, která jest oproti teplotě 18° daleko výhodnější, neboť lze parného léta (kdy docílení teploty 18° vyžaduje nepohodlného chlazení) thermostatu regulátorem snadno udržovati. Také Walden něm Bredig své obsáhlé studii*) pohyblivosti iontů, nadepsané »Beitráge zuř Stóchiometrie der lonen-beweglichkeit« vztahuje veškery údaje teplotu 25°. jest tudíž racionální tuto teplotu jednou pro vždy pro údaje eletrochemických konstant přijati jakožto základní.
+
+
+Procházíme-li obsáhlou literaturu elektrických vodivostí chceme-li čerpati jednotlivé elektrochemické konstanty, aby soustavně mohly býti porovnány, narazíme obtíže. Jsouť starší pozorování jednak prováděna při teplotě 18°, jednak vztahují zředění málo vhodná přehledná, postupující namnoze jinak, než dle zákona mocnin. Nad roztoků koncentrovanějších než odpovídá normalitě l/3.2 nelze dopíditi jednoduchých zákonitostí podobných oněm, jaké ovládají roztoky velmi zředěné.
+
+
+Chceme-li tudíž převésti údaje starší literatury teplotu 25° zředění obvyklá vhodná, jest zapotřebí dvou interpolací, nichž ona, kterou přepočítává zředění, jest zvláště nemilá (v. níže), ježto vztahuje argumentu kterýž jest mocninou určitého základu. Také interpolace pro rozmezí teploty není příjemná, ježto koěfficient temperaturní (pro různá zředění různý) nebývá dostatečnou přesností znám. Následkem těch okolností hodnoty přepočtené vzbuzují málo důvěry, hodnoty přímo pozorování plynoucí jsou tudíž velice žádoucí. Leč jiném směru nás literatura začasté neuspokojí. Celá řada solí, často zcela obecných, posud nebyla vůbec měřena, aneb měřen jen velmi nepatrný počet solí (případně jen jedna) jednom společném iontu, tak pohyblivost toho iontu buď jest zcela neznáma, nebo jest jen málo zaručena.
+
+
+Účelem práce této jest aspoň částečně přispčti vyplnění naznačených mezer určením elektrochemických konstant jednotnou methodou při jednotné teplotě 25°.
+
+
+"") redijí, 1894. Zcitschr. phys. Chemie. /.V. 191.
+
+
+XXXIV. ﻿Obecné vztahy.
+
+
+Zde budiž vší stručnosti jen tolik uvedeno, nevyhnutelně potřebí jest úvahu vzíti souvislosti přítomnou prací. Podrobnosti povšechné důležitosti užitku veličin elektrochemických pokud plynou měření elektrických vodivostí sestavil jeden nás*) nedávno souborný referát, němuž zde buď poukázáno. příčiny omezeny budou též citáty literatury míru nejskrovnější, základní věty, kteréž zde nutno opírati, podány budou stručně jen tom rozsahu, pokud jich pro přítomný účel třeba.
+
+
+Koefficient dissociacc. Vodivost molekiťárná (neb ekvivalentní) f.tr, roste zřeďováním roztoku jen jisté hodnotě hraničně 11^, platné pak pro sebe větší zředění:
+
+
+lim
+
+
+Pokud toho krajního zředění není dosaženo, značí poměr obou vodivostí
+
+
+hodnotou svou stupeň koěfficient dissociace. Ten koěfficient jest funkcí zředění, jak blíží hodnota hodnotě ft^, blíží u7, hodnotě -/, kteréž dosahuje pro u7, jest případě krajního zředění, kdy jest dissociace úplná.
+
+
+Zákon Kohlrauschův neodvislé pohyblivosti iontů. Vodivost molekulárná ekvivalentní) binárních elektrolytů jest additivní funkcí dvou veličin, nichž jedna, jest význačná pro kation, druhá, pro anion. Jsou vodivosti pohyblivosti iontů samotných. Výraz toho zákona jest:
+
+
+u7, (a' -l- «')
+
+
+pro libovolné (ale značné, zředění; pro zředění mezní, kdy dissociace jest úplná, platí jednoduše
+
+
+Poo «',
+
+
+kterýmžto základním vztahem spojeny jsou hlavní 'elektrochemické konstanty UM, každého elektrolytu.
+
+
+Ostwaldovo valenční pravidlo. Pro elektrolyty silně dissociované jest rozdíl dvou ekvivalentních vodivostí elektrolytů témž kationtu přímo úměrný valenci aniontu. Ostwald zvolil vodivosti pro 1024 #-, tudíž rozdíl
+
+
+
+
+
+kde
+
+
+když značí valenci aniontu. Některé hodnoty konstanty budou níže uvedeny. Pro soli sodnaté jest zblízka 6'— 10. Pravidla toho výhodou
+
+
+C). Šulc, Stéchiometric pohyblivosti iontů. Věstn. česk. akad. VI. 377.
+
+
+﻿užívá jednoduchému stanovení valence kyseliny cestou elektrochemickou. Stačí změřiti tomu cíli ekvivalentní vodivosti /i3:} /f1(m pro silné disso-ciované soli kyseliny, tedy pro soli lithnaté, sodnaté, draselnaté neb ammonaté.
+
+
+Obecnější výraz horního zákona, odůvodněný Ostwaldem, Wal-denem Bredigem rozsáhlém materiálu pozorovacím
+
+
+jest prakticky rovněž velmi cenný. Při tom značí veličinu, která jest pro veškeré dostatečně silně dissociované elektrolyty stejná, jen zředění závislá; značí pak valenci kationtu, n.2 valenci aniontu. Položíme-li pro krátkost
+
+
+</r,
+
+
+plyne vztah
+
+
+prakticky velmi důležitý, ježto lze jeho základě stanoviti hodnoty mezní vodivosti pro elektrolyty silně dissociované, což jest tím užitečnější, veličina (.IM jest přímému měření nesnadno přístupná, zejména pro rušivé vlivy nečistot vody, které, čím zředění jest větší, tím povážlivější měrou platnosti přicházejí. Zde buď uveden úryvek tabulky pro hodnoty veličiny dr, pokud jich dalších bude užíváno
+
+
+Tab. Hodnoty pro Bredigovu veličinu d7,
+
+
+l>*-2 ^128		'4óG	4l2	""1024
+
+
+8		6	4	3
+
+
+16		12	8	6
+
+
+23		17	12	8
+
+
+4	31	23	16	10
+
+
+5	39	29	21	13
+
+
+6	48	36	25	16
+
+
+Ježto tabulka platí, jak výše podotknuto, jen pro elektrolyty silné dissociované, jest výhodno určení pohyblivosti kationtu voliti soli ani-onty Cl, Br, NO3. C1O3, určení pohyblivosti aniontu pak soli kati-onty Li, Na, NHt, neboť jednak chloridů, bromidů, iódidů, dusičnanů chlórečnanů, jednak solí lithnatých, sodnatých, draselnatých ammo-natých jest dissociace velmi značná. lehkých kovů jednomocných lze mimo síranů užiti. Vzhledem větším podrobnostem nutno odkázati výše zmíněnému referátu. některých pak úchylkách, kde nelze tabulky Bredigovy užiti, stane dále zmínka.
+
+
+XXXIV. ﻿Část cxperimenlálná.
+
+
+Methoda.
+
+
+Pracováno proudem indukčním telefonem, uspořádání, jak methoda Kohlrauschova pozměnami Ostwaldovými ustálila pohodlnou jednoduchou operaci stanovení vodivosti elektrolytů. Vzhledem tomu stačí několika málo slovy některé význačnější podrobnosti zmíniti.
+
+
+Telefon vepjat mezi pohyblivý kontakt můstku rozvětvovací bod proudovodu mezi rheostatem neznámým elektrolytickým odporem. Velmi citlivým pro telefonické minimum osvědčil telefon firmy eso Stockholmu, jenž dovoloval postaviti kontakt drátku můstkovém několik setin centimetru přesně. pravidla neobnášél rozdíl dvou odečtení více než 0'02 cín O04 cm, jen výminečných případech cm. Drát můstkový byl platinový, 100 dlouhý, byl pečlivě prokalibrnván methodou Střou Bar sovou. Opravy kalibru obnášely nanejvýše 0-07 cm.
+
+
+Rheostat skládal dvou soustav odporů, sice odporů odporů 100 íi, celkem tedy 1000 SI. Nominální hodnoty odporu, které vyhotoveny byly Ostwaldově chemicko-fysikální laboratoři Lipsku, zaručeny přesností 1%0) což pro účely stanovení elektrických vodivostí zúplna postačí. Drát, něhož jsou odpory bifilárně vinuty, jest manganinu, slitiny to, která svým nepatrným temperaturním koěfficientem odporovým dovoluje, nebylo třeba přihlížeti nepatrným změnám teploty, jimž rheostat průběhem měření podléhal. Bylť celý přístroj postaven místnosti přízemní, nevytápěné, silnostěnné klenuté, kam nikdy přímý svit sluneční přístupu neměl, takže změny teploty, jež ostatně daly velmi zvolna, omezeny míru pranepatrnou, což ovšem tomu velmi značné přispívalo, thermoregulátor výborně pracoval.
+
+
+Nádobky elektrolytické užívány výhradně tvaru, který navrhl Arrhenius. Mají výhodu, při stejném jinak tvaru připouštějí pohodlně měniti kapacitu prostým oddálením neb sblížením elektrod. Fixování elektrod určité poloze dalo jemnými stavěcími šroubky zapuštěnými ebonitových víček nádobek. Kapacita stanovena vždy roztokem chloridu draselnatého normalitě 50. Chlorid draselnatý tomu účeli zvláště vícekrát byl překrystallován. Užíváno zpravidla jen dvou kapacit. Jedna totiž nádobka zmíněným roztokem naplněná měla odpor okrouhle 13'3 í2, druhá odpor okrouhle 120 poplatinování elektrod místo pouhé kyseliny chlóroplatičité výborně osvědčil roztok, který navrhl Kohlrausch*) zkušenostech, kterých nabyli Lumrner Kurlbaum. Jest směs kyseliny chlóroplatičité, vody 0'008 octanu olovnatého. Roztok
+
+
+Kohlrausch, 1897. Wicd. Ann. tí<>. 615.
+
+
+XXXIV. ﻿ten poskytuje souvislý, krásně sametově černě lesklý povlak elektrod černí platinovou, což uzpůsobuje ostře ohraničené telefonické minimum, takže lze nepatrné odpory (ku př. íi) spolehlivě měřiti, tedy jíti roztokům normalitě lilo. Při malých odporech vůbec jest rozličných okolností třeba dbáti (samoindukce, hustota proudu mezi elektrodami j.), vzhledem čemuž buď poukázáno pojednání právě citovanému.
+
+
+posléze thermostatu týče, bud' podotknuto, docílení stálé teploty užíváno thermoregulátoru navrženého Ostwaldem, plněného lOpro centním roztokem chloridu vápenatého. Lázeň vodní jímala litrů vody, míchání prováděno malou vodní turbinou. Teplota tohoto uspořádání málokdy kolísala 0'1°. Teploměr lázni ponořený byl firmy Wiegand Wiirzburku čís. 2141 yi()° dělený. Nullový bod byl kontrolován methodou Ostwaldovou okolí teploty 25° určena oprava stupnice vzhledem teploměru normálnímu ústavu fysikálního české university (teploměr čís. 10915 firmy Paříži) vzhledem našemu normálnímu teploměru (firma Múller Bonnu). Odečítání teploměru dalo vzdáli malým dalekohledem.
+
+
+prof. trou lov ochotné zapůjčení přístrojů některých volnému použití celou dobu přítomné práce jest tuto vysloviti dík povinný nejvřelejší.
+
+
+Podrobnosti postupu práce.
+
+
+Rozumí samo sebou, čistotě látek věnována péče úzkostlivá. Soli jsou vesměs jednou neb vícekráte překrystallovány, kde možno bylo práškovány, nad kyselinou sírovou ustálení váhy sušeny. výpočtu množství látky, potřebného pro určitou normalitu užito zaokrouhlených hmot molekulárných, které všude níže uvedeny budou. Kde nebylo jich možno užiti, jsou veličiny závorkách uvedeny.
+
+
+Roztoky upravovány zpravidla přímým vážením. Připravováno vždy 100 čni' roztoku. Odměrné baňky tomu použité byly německým říšským technickým ústavem vyměřeny. Konečné adjustování roztoků dalo vždy při teplotě 25°. Jen tam, kde nebylo možno spoléhati určité složení dané soli (následkem značné hygroskopičnosti, neznámého obsahu vody krystal-love j.), byl roztok upraven toliko přibližně pak jeho normalita zjištěna analyticky, bud' titrací neb vážkově, jak při každé látce zvláště bude podotknuto.
+
+
+Ježto při většině látek prováděny dvě řady měření, upravován byl zpravidla roztok dvakráte; každý pak měřen nádobce jiné kapacitě, čímž dosažena přesná kontrola možnost náhodných omylů při pozorování stlačena míru pranepatrnou.
+
+
+Zvláštní péče věnována přípravě čisté vody. Voda dcstillovaná, která byla ruce, vltavské vody upravená, měla vodivost 8.10
+
+
+XXXIV. ﻿až """"*); bylo nutno úpravě roztoků zvláště čistiti, což spojeno bylo obtížemi nemalými, zejména počátku. Obsahujeť vltavská voda nikoli nepatrné množství těkavých látek organických (jak vyplynulo zkušenosti téměř dvouleté), které lze odstraniti toliko usilovným varem manganistanem draselnatým kyselinou sírovou neb hydrátem draselnatým**). Dále ukázalo, srážející páry nesmějí přijíti více styk sklem, má-li býti předestillovavší voda dostatečně malé vodivosti. Jedině chladič platinový, aneb cínový, jež oba stejně dobře působí, osvědčily. mnohých předběžných pokusech destillována voda přístroji dvou varných nádobách, jak navrhli H.C. Mackay. Nádoby jsou skla jennského; baňce vaří voda manganistanem draselnatým kyselinou sírovou, páry vedou odtud křivuli obsahující vodu hydrátem barnatým odtud cínového chladiče. destillaci dvakrát opakované lze tím přístrojem snížiti vodivost vody
+
+
+1-6. fy)
+
+
+Teprve době poslední zdařilo získati jedinou destillaci vodu většině účelů potřebnou. baňku jennského skla kulatým dnem, obsahu 1000 cm:] vpravena pomocí korku trubice čistého cínu, ohnutá tak, aby veškeré přestřikování bylo vyloučeno. Pokračování trubice vbíhá obyčejného chladiče. destillaci bráno 800 cvť vody, níž asi 20^ hydrátu barnatého přičiňováno. Záleží tom, aby destillát zprvu přecházející, 200 cm'A 250 cnr' zavrhl, načež lze vydestillovati 250 cnr' 350 čni'' vody vodivosti
+
+
+2-0 10-6 Arr 3'G i;.
+
+
+Ba, destillujeme-li dostatečně zvolna, můžeme získati edi destillaci vodu vodivosti 1'6 Cl.
+
+
+Podotknuto budiž, nikdy neužíváno úpravě roztoků vody větší vodivosti než =30 l!.
+
+
+
+
+
+Způsob početního zpracování.
+
+
+Ježto české literatuře posud nikde praxi stanovení vodivosti elektrolytů nepromlouvá, budiž zde dovoleno několik slov tomu postupu věnovati. Stanovíme-li nezměněné teploty téže nádobce:
+
+
+Specifická vodivost vztažená sloupec 100 dlouhý průřezu U'01 cnr jest 104kráte menší. Zde vedeny údaje jednotkách, nichž udávají molekulárně vodivosti solí.
+
+
+**) Srovn. Raýman Sulc. Inverse sacharosy vodou. Rozpravy České Akad. tř. II. roč. čís 23. (1896\
+
+
+Jmenovaní, 1897. Zeitschr. phys. Chem. 22. L*;??. Srovn. též: let, Journal phys. Chem. 91.
+
+
+ff) Více podrobností těchto zkušenostech vypsáno Listech Chemických XXI. str. L>;55.
+
+
+XXXI ﻿jednou odpor pro roztok známé vodivosti specifické podruhé odpor pro roztok vodivosti neznámé plyne úměry
+
+
+pro neznámou vodivost
+
+
+
+
+
+----.
+
+
+
+
+
+Roztokem známé vodivosti jest zpravidla roztok chloridu drasel-natého normalitě Y50. Pro ten roztok při teplotě 25° jest specifická vodivost ^25 2'594 10~3. Součin ^ÍA* představuje odporovou kapacitu nádobky.
+
+
+Tak určená specifická vodivost roztoku A,, platná pro zředění násobená tím zředěním vodivost molekulárnou neb ekvivalentní }i„ (ne-opravenou)
+
+
+fťj,
+
+
+Vodivost elektrolytu tím způsobem určená potřebuje obecně řečeno dvou oprav:
+
+
+Vzhledem vodivosti vody, níž roztok pořízen,
+
+
+vzhledem temperatuře, když nebylo stanovení kapacity stanovení odporu provedeno při téže teplotě 25°.
+
+
+Pokud pozorování vodivosti vztahují solím, předpokládáme jednoduché addice vodivosti. Tudíž vodivost vody násobenou zředěním příslušným vodivosti elektrolytu prostě odčítáme. Vodivost výsledná jest
+
+
+n\,
+
+
+Velikost oprav
+
+
+K',
+
+
+pro různé normality různé hodnoty vodivosti vody dává tato tabulka (nutno uvážit, značí tisíce cm3).
+
+
+Tab. II. Opravy vzhledem vodivosti vody: 106.
+
+
+v	1	2	3	4	5	6	7	8	1
+
+
+32	003	006	010	0.13	0-16	0'20	0-23	0-26	0-29
+
+
+64	0-07	014	0-22	0-29	0-36	0-44	0-51	058	0-65
+
+
+128	013	0-26	0'38	0-51	0-64	0-76	0-89	1-02	1-15
+
+
+256	0-26	0-51	0-77	1-02	1-28	1-54	1-79	2-04	2-30
+
+
+512	0-51	1-02	T54	2-05	2-56	308	3.59	4-10	4-61
+
+
+102.	1-02	2-05	3-07	4-10	5-12	6-14	7-11	8-20	9-22
+
+
+2048	2-05 4-10		6-14	8-19	10-2	12-3	14-3	16-4	18-4
+
+
+	i						í i		
+
+
+Vyjádřeno reciprokých jednotkách siemens.
+
+
+XXXIV. ﻿ad Ježto jest vliv teploty vodivost elektrolytů velmi značný, nutno dbáti oprav pro malé rozdíly tepelné. Temperaturní koěfficient vodivosti většiny elektrolytů obnáší pro okrouhle -)~ 0'024, tudíž přes vodivosti. Aby tudíž byla vodivost Y2°/0 správná, nutno zabezpečiti teplotu asi 0°2.
+
+
+Veškerá pozorování jsou převedena teplotu 25'00°. Výkon ten lze provésti různým způsobem. Nejjednodušší postup jest asi tento:
+
+
+Aby ustanovila kapacita nádobky odporu naměřeného při teplotě pro roztok chloridu draselnatého normalitě 1II.Q1 nutno ten odpor násobiti příslušnou teplotě specifickou vodivostí kterou podává připojená tabulka.
+
+
+Tab. III. Vodivosti specifické ""/50 roztoku KCl pro různé teploty:
+
+
+
+
+
+24°5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W.At 2-559	25°0
+
+
+2-566	1
+
+
+2573	2
+
+
+2580	3
+
+
+2.587	4
+
+
+2-594	5
+
+
+103.^ 2-594 2-601 2-608 2-615 2-622 2-629
+
+
+Tabulka sestrojena dle základních pozorování Kohlrauschových, nichž plyne pro roztok chloridu draselnatého normalitě V50
+
+
+2-244 10-3, A,;> 2-594 O-3.
+
+
+Vodivost stanovená potom známou kapacitou platí pro teplotu pokusu. teplotu 25° převede pak jednoduchým vztahem lineárním
+
+
+/'/! ~\~ ^)>
+
+
+kde pro f.2 jest
+
+
+/., —/j.
+
+
+Jednoduchého toho vztahu stejného temperaturního koefficientu
+
+
+0-024
+
+
+lze užiti téměř pro všecky elektrolyty, ježto jde roztoky značně zředěné malé rozmezí teploty okolí 25°.
+
+
+Připojená tabulka dává opravy /»/ ./3z// pro různé vodivosti různé rozdíly dt.
+
+
+XXXIV. ﻿10
+
+
+Tab. IV. Opravy vodivosti molekulárné vzhledem rozdílům teploty
+
+
+
+
+
+F	o-i	0-2	0-3	0-4	05	06	0-7	0-8	0-9
+
+
+10O	0-2	0-5	0-7	10	1-2	T4	1-6	1-9	2-2
+
+
+120	0-3	0-6	0-9 1-2		1-4	1-7	2-0	2-3	2-6
+
+
+140	0-3	0-7	1-0 1-3		1-7	2-0	2-4	27	3-0
+
+
+160	0-4	0-8	1-2 1-5		1-9	2-3	2-7	3-1	3-4
+
+
+180	0-4	09	1-3	1-7	2-2	26	3-0	3'5	3-9
+
+
+200	0-5	i-o	1-4	1-9	2-4	2-9	3-4	3-8	4-3
+
+
+220	0-5	11	1-6	2-1	2-6	3'2	3-7	4'2	4'7
+
+
+240	06	1-2	1-7	23	2-9 3-5		4-1	4-6	52
+
+
+260	0.6	1-2 1-9		2-5	3-1	3-7	4-4 5-0		5-6
+
+
+280	0'7	T3	2-0	2-7	34	4-0	47	5-4	6-0
+
+
+									
+
+
+300	0-7 1-4		2-2 2-9		36	4'3 5'0 5-8			65
+
+
+Nebylo-li možno upraviti roztok, který hodil řady zředění dané celistvými mocninami čísla určena řada vodivostí zprvu pro zředění ruce jsoucí pro jeho násobky čísly 21, 22, rovnic tvaru
+
+
+určeny mocniny příslušné skutečným zředěním roztoků.
+
+
+řadě těchto veličin interpolováno pak lineárně dle rozdílů vodivostí pro argumenty ... čímž získány hodnoty vodivostí platné pro obvyklou stupnici zředění. Interpolace takto naznačená vystačí všech případech. Ona neruší chod differencí řadě vodivostí, který jest pro jednotlivé elektrolyty velmi význačným.
+
+
+Číselné výsledky.
+
+
+Buďtež pořadem uvedeny veškery číselné výsledky měření zprvu beze všeho rozboru.
+
+
+První sloupec udává zředění druhý třetí molekulárné vodivosti pro tato zředění, jak byly dvou neodvislých řadách pokusných nalezeny. Třetí řada dává střed obou měření. Kde proměřena toliko jediná řada, ovšem místo tří řad vodivostí jediná uvedená jest definitivní. sledním sloupci jsou rozdíly Jpv vodivostí molekulárných. Uzávorkované vzorce hmoty molekulárné značí, nebyl roztok základě jich upraven vážením žádané normalitě.
+
+
+XXXÍV. ﻿11
+
+
+Literatura měření vykonaných, níž častěji bude odvoláváno, uvedena buď tuto souborně pro ušetření místa:
+
+
+Kohlrausch, 1879. Wied. Ann. (i.
+
+
+1885. Wied. Ann. 2ti. 161.
+
+
+Ostwald, 1885. Journ. prakt. Chem. 300; ib. -W. 352. 1887. Zeitschr. phys. Chem. 74.
+
+
+Vincentini, 1884. Atti Instit. Veneto (6) ó'. Citováno dle Ostwalda.
+
+
+Vincentini, 1885. Atti Acad. Torino 2D. Citováno dle Ostwalda.
+
+
+Walden, 1887. Zeitschr. phys. Chem. 529.
+
+
+1888. Zeischr. phys. Chemie. 49.
+
+
+Grotian Wershoven, 1883. Wied. Ann. /*. 177. Wers-hoven, 1890. Zeitschr. phys. Chem. />. 481.
+
+
+10. Bredig, 1894. Zeitschr. phys. Chem. l.-l. 191.
+
+
+11. Baur, 1895. Zeitschr. phys. Chem. Jx. 183.
+
+
+12. Franke, 1895. Zeitschr. phys. Chem. tli. 463.
+
+
+Soli lithnaté.
+
+
+solí lithnatých měřeny byly chlorid, iódid, dusičnan, chlórečnan chlóristan, vesměs Ostwaldem (4). Mimo měřen chlorid, iódid síran lithnatý Kohlrauschem (L, 2.), leč při teplotě 18° nesrovnatelných koncentracích.
+
+
+Čís. Bromid lithnatý. (LiBr 87.)
+
+
+
+
+
+
+
+
+
+
+
+128
+
+
+256
+
+
+512
+
+
+1024
+
+
+102-1 104-3 106-5 108-9 1109
+
+
+3-9 2-2 •'*• 2-4
+
+
+-j-
+
+
+Ježto jest bromid lithnatý nad míru hygroskopický, nebylo lze upraviti roztok přímým vážením. Normalita stanovena titrací normálným roztokem dusičnanu stříbrnatého. Nalezeno původní zředění 30""08.
+
+
+Čís. Síran lithnatý. Li2SO4 H,O 128.
+
+
+v			,""•	z/;!-
+
+
+64	172-7	171-0	171
+
+
+128	1 85-4	1843	184-8	\ 130
+
+
+256	193-9	193-9	1939	9-1
+
+
+XXXIV. ﻿12
+
+
+
+
+
+512
+
+
+1024 2048
+
+
+2017 209-4 216-1
+
+
+
+
+
+201-7 209-4 216-1
+
+
+7-8 7-7 6-7
+
+
+Síran lithnatý měřil Kohlraush jednou (1) pro zředění ""O 4-00, podruhé (2.) zředěních TOO 200000 dosažení hodnoty hraničné. Obě řady jeho platí pro teplotu 18°.
+
+
+Čís. Uhličitan lithnatý Li2 CO3 74.
+
+
+
+
+
+
+
+
+128
+
+
+256
+
+
+512
+
+
+I	11
+
+
+143-6	139-2
+
+
+157-8	155-1
+
+
+17T4	167-3
+
+
+178-3	176-6
+
+
+176-7	175-7
+
+
+III
+
+
+174-0 178-3
+
+
+Uhličitan lithnatý skytal nemalých obtíží: nebyloť možno (zejména pro zředění 512) docíliti shodných výsledků.
+
+
+Řada získána preparátu prodajném; řády II. III. preparátu vodou vylouženém, čímž doufali jsme odstraniti soli ostatních kovů alkalických. Nepravidelnosti lze snad přičísti hydrolysi (v. níže rozboru výsledků).
+
+
+Uhličitan lithnatý měřil Vincentini (6.) zředěních 500 1144 při teplotě 18°.
+
+
+Soli ammonaté.
+
+
+Soli tyto byly sice předmětem četných měření, ale nikoliv vhodných srovnatelných koncentracích roztoků. Neváhali jsme tudíž základní soli znovu proměřiti.
+
+
+Čís. Chlorid ammonatý. NH4C1 53'4.
+
+
+
+
+
+
+
+
+128
+
+
+256
+
+
+512
+
+
+1024
+
+
+Druhá uvedených řad jest Bredigova*). Vzhledem tomu, obě řady dosti souhlasí, lze pro potřeby stéchiometrické vzíti obou hodnoty střední.
+
+
+Bredig, 1894. Zeitsch. phys. Chemie. 23. 208.
+
+
+XXXIV.
+
+
+127-4	126-3	1268	
+
+
+131-3	1298	130-5	4- 3-7
+
+
+133-8	132-8	133-3	2-8
+
+
+135-6	135-0	135-3	2-0
+
+
+1372	136-4	136-8	1-5
+
+
+139-2	137-9	138-5	-f- 1-7
+
+
+﻿13
+
+
+Chlorid ammonatý měřil Kohlrausch zprvu (1.) zředěních 0*2 2'0, pak (2.) mezích 0'2 100000. (5., 6.) udal též dvě řady sice pro zředění 900.
+
+
+Čís. Bromid ammonatý. NH4Br=:98.
+
+
+32	1277	128-2	127-9	
+
+
+64	131-5	131-3	131-4	-f 3-5
+
+
+128	134-4	133-8	134-1	2-7
+
+
+256	136-7	135-2	135-9	1-8
+
+
+512	138-9	138-8	138-8	2-9
+
+
+1024	141-4	141-3	141-3	+ 2-5
+
+
+Čís. lódid ammonatý. NHJ 145.
+
+
+32	127-5	126-3	126-9
+
+
+64	1302	128-2	129-2
+
+
+128	132-7	131-3	132-0
+
+
+256	134-1	134-9	134-5
+
+
+512	137-7	135-8	136-8
+
+
+1024	138-9	1387	138-8
+
+
+2-3
+
+
+2-8 2-5 2'3 2'0
+
+
+lódid ammonatý byl bezprostředně před měřením temnu překrystal-lován. Přes mají krystalky nádech žlutavý, leč právě jen znatelný.
+
+
+lódid ammonatý měřil Kohlrausch (1.) koncentracích 0""2 2-0.
+
+
+Čís Dusičnan ammonatý NHtNO3 80.
+
+
+3-0 2-0 2-0 1-6 2-5
+
+
+Dusičnan ammonatý měřil Kohlrausch (1) zředěních 0""25 2-00.
+
+
+Čís. Chlórečnan ammonatý. NH4C1O3 12T4.
+
+
+Sůl tato upravena byla podvojným rozkladem chlórečnanu barnatého síranu ammonatého. Čirý roztok síranu barnatého sfiltrovaný zahuštěn rychle krystallisaci. Dlouho nesmělo býti odpařováno, neboť nastával rozklad, jenž projevoval žlutnutím zápachem chlóru. suché soli bylo nutno ihned upraviti roztok, neboť suchý chlórečnan ammonatý
+
+
+XXXIV.
+
+
+32	122-6	122-4	122-5
+
+
+64	125-6	125-5	125-5
+
+
+128	127-7	127-3	127-5
+
+
+256	129-5	129-5	129-5
+
+
+512	131-3	1306	130-9
+
+
+1024	133-6	133-2	133-4
+
+
+﻿14
+
+
+nedá dlouho bezpečně chovat. Jednou vybuchlo asi suché soli, chované malé lahvičce. Střepiny rozryly povrch stolu, jen zátka lahvičky zůstala neporušená. Vodivost jest nápadně vysoká. Snad přes všechny opatrnosti nelze buď sůl upravit zcela čistou neb zamezit částečnému rozkladu při vysoušení. Nejspolehlivější měření zdála řada tato:
+
+
+
+
+
+
+
+
+128
+
+
+256
+
+
+512
+
+
+126-6 129-3 133-3 138-6 141-4
+
+
+2-7 4-0 5-3
+
+
+2-8
+
+
+roztoku zdá býti chlórečnan ammonatý poměrně stálý. Původní
+
+
+roztok, který vodivosti:
+
+
+stál temnu dní, vykazoval tyto nepatrně zvýšené
+
+
+
+
+
+128
+
+
+127-0 130-0 135-0
+
+
+Čís. Síran ammonatý (NH.4)aSO4 132.
+
+
+211-2 211-2
+
+
+226-8 227-6
+
+
+241-9 241-8
+
+
+2546 265-2
+
+
+32	211-1
+
+
+64	228-4
+
+
+128	241-8
+
+
+256	254-1
+
+
+512	264-3
+
+
+1024	271-2
+
+
+274-3
+
+
+254-3 264-7 272-7
+
+
+16-4 14-2 12-5 10-4 8-0
+
+
+Síran ammonatý měřil Kohlrausch (1.) mezích zředění O'125 2-00.
+
+
+Čís. 10. Síran hlinito-ammo natý. (NHJ3 A12 (SO.,), 24H,O 904'4
+
+
+128 256 512
+
+
+1024 2048
+
+
+377.7 429-6 484-9 551-4 6269 715.6
+
+
+379-8
+
+
+378-7 429:6 486-7 551-4 629-9 715'6
+
+
+-f- 50-9
+
+
+488-5 486-7 57'l
+
+
+64-; 75-5
+
+
+88-7
+
+
+Užitý kamenec ammonatý byl několikráte vody překrystallován. Vyžíhán byv poskytl H'42% kysličníku hlinitého místo theoretického množství 11-29%.
+
+
+Čís. 11. Dichróman ammonatý (NH,).j CraO7 253.
+
+
+217-8
+
+
+224-5
+
+
+XXXIV. ﻿15
+
+
+128
+
+
+256
+
+
+512
+
+
+1024
+
+
+230-1 2327 235-5 239-3
+
+
+5-6 2-6 2-8 3-8
+
+
+Čís. 12. Trich román ammonatý (NHt)2 Cr;jO10 300.
+
+
+Sůl tato rozkládá dle Sieverta (Fehling, Handwórterbuch Chern. II. 672) vodném roztoku dichróman ammonatý kyselinu chrómovou:
+
+
+(NHJ2 Cr. 010 H20 (NilJ2 Crs H.CrO,.
+
+
+Rozklad ten musí projeviti hodnotě elektrické vodivosti. Upraven roztok trichrómanu ammonatého normalitě 1/32. Vodivost jeho bezprostředně přípravě obnášela 421, hodnota oproti vodivosti stejně /ředěného roztoku dichrómanu ammonatého nad míru vysoká, což jedině přítomností kyseliny chrómové vysvětliti dalo. Rozklad výše naznačený jest dokonán, neboť vodivost roztoku více neměnila; obnášelať čase
+
+
+0*0
+
+
+0-5
+
+
+3-0
+
+
+24-0
+
+
+421 423 422 428
+
+
+Tím jest rozklad trichrómanu vodou prokázán elektrochemicky.
+
+
+Soli thallnaté.
+
+
+solí thallia měřil Ostwald (3.) hydroxyd thallnatý, Noy es*) dusičnan halových. základě této jediné soli udal Bredig pohyblivost thallia jakožto kationtu :=: 69'5, kterážto hodnota, jak rozboru výsledků práce, kterou provedl Franke**), prokázáno bude, jest příliš nízká. solí hallových lze toliko chlorid měřiti. Bromid iódid tomu pro svou nepatrnou rozpustnost nehodí. Vyžadujeť iódid obyčejné teploty 16000 vody rozpuštění.
+
+
+Čís. 13. Chlorid thallnatý TlClz=239'5.
+
+
+256 132-9
+
+
+512 136-4 -j- 3-5
+
+
+1024 139-7 3'3
+
+
+2048 141-5 1-8
+
+
+Praeparát tento upraven sražením koncentrovaného roztoku dusičnanu thallnatého vypočteným množstvím roztoku chloridu sodnatého. Rozpust-
+
+
+Noy es, 1890. Zeitschr. phys. Chem. 6'. 247. **) Franke, 1895. Zeitschr. phys. Chem. 1ti. 463.
+
+
+XXXIV. ﻿16
+
+
+nost udávaná literatuře zdá býti příliš značná. Dle Hebberlinga rozpouští 109 vody
+
+
+při 16° 100°
+
+
+0-20 0-26 1-43 T1C1,
+
+
+tudíž při 25° mělo rozpustiti okrouhle 0'30 T1C1 100 vody, čehož nemohlo býti docíleno. Nedalť upraviti roztok normalitě Vi28» který O'1871 látky 100 cm* vody.
+
+
+Čís. 14. Dusičnan thallnatý. NO, 266.
+
+
+
+
+
+
+
+
+128
+
+
+256
+
+
+512
+
+
+1024
+
+
+119-6 125-1 129-3 132-1 134-7 138-0
+
+
+119-6
+
+
+128-6
+
+
+135-1
+
+
+119-6		121-0
+
+
+125-1	-i- 5-5	125-4
+
+
+129-0	3-9	129-0
+
+
+132-1	3-1	130-9
+
+
+134-9	2-8	132-2
+
+
+138-0
+
+
+3-1
+
+
+138-5
+
+
+Náš praeparát pochodil firmy Merck Darmstadte, byl několikráte překrystallován. Pro porovnání uvedena jsou posledním sloupci čísla, která získal (1. c.). Řada naší řadou kříží zředění 128.
+
+
+Čís. 15. Chlórečnan thallnatý T1C1O3 =287-5.
+
+
+32	114-9	114-9	114-9	
+
+
+64	119-6	119-4	119-5	-f- 4-6
+
+
+128	123-2	122-2	122-7	3-2
+
+
+256	125-5	125-7	125-6	2-9
+
+
+512	127-9	128-0	128-0	2-4
+
+
+1024	130-3	130-6	130-4	-f 2-4
+
+
+Chlórečnan thallnatý upraven podvojným rozkladem síranu thallnatého chlórečnanu barnatého.
+
+
+Čís. 16. Síran thallnatý TI, SOt 504.
+
+
+32	192-5	192-2	192-3	
+
+
+64	2150	214-2	214-6	-f 22-3
+
+
+128	234-1	233-1	233-6	19'0
+
+
+256	252-1	2495	2508	17-2
+
+
+512	265-3	262-5	263-9	13-1
+
+
+1024	277-6	274-2	275-9	-f 12-0
+
+
+Čís. 17. Síran halí nato- hli
+
+
+366-3
+
+
+
+
+
+128
+
+
+367-3 422-9
+
+
+HSO 1258'4.
+
+
+366'8
+
+
+422-9 -j- 56""
+
+
+XXXIV. ﻿17
+
+
+58-6 69-5 77-9 90-9
+
+
+Kamenec tento upraven odpařením smíšených roztoků síranu thallna tého hlinitého patřičném poměru krystallisaci.
+
+
+Čís. 18. Uhličitan Tl,CO;i 468.
+
+
+256	4829	480-0	481-5
+
+
+512	551-0	—	551-0
+
+
+1024	628-0	629-7	628-9
+
+
+2048	717-6	722-0	719-8
+
+
+32	142-0	142-9	142-5	
+
+
+64	166-0	168-3	167-5	-f 25-0
+
+
+128	190-6	191-4	191-0	23-5
+
+
+256	213-0	212-2	212-6	21-6
+
+
+512	232-5	—	232-5	19-9
+
+
+1024	249-1	—	249-1	16-6
+
+
+2048	262-3	—	262-3	4- 13-2
+
+
+Soli olovnaté.
+
+
+Vodivost solí olovnatých tudíž pohyblivost olova jakožto iontu jsou dosud téměř neznámy.*) halových solí jest přístupný měření toliko chlorid olovnatý částečně bromid olovnatý.
+
+
+Čís. 19. Chlorid olovnatý PbCL, 277.
+
+
+22-2 19-3 17-1 16-5
+
+
+-j- 14-0
+
+
+
+
+
+Užitý preparát byl dvakrát vroucí vody překrystallován.
+
+
+Čís. 20. Bromid olovnatý PbBr 366.
+
+
+512 241-5
+
+
+1024 259-2 17-7
+
+
+2048 273-0 -j"" 13""
+
+
+Užitý preparát překrystallován byl vroucí vody. Rozpustnost ustanovili jsme dvěma pokusy při 25°. Při teplotě rozpouští 100 cm* středem 152 bromidu olovnatého, čili bromidu potřebuje 655 vody rozpuštění.
+
+
+64	179-7	182-0	180-9
+
+
+128	202-2	204-0	203-1
+
+
+256	221-1	223-8	222-4
+
+
+512	237-5 .	241-5	239-5
+
+
+1024	254-0	258-1	256-0
+
+
+2048	270-2	—	270-0
+
+
+Srovn. Franke, 1895. Zeitschr. phys. Chem H>. 463.
+
+
+Rozpravy: RoČ. VI. Tř. II. 34.
+
+
+XXXIV. ﻿18
+
+
+Čís. 21. Dusičnan olovnatý Pb(NO3)2 330. 198-5
+
+
+64	199-2
+
+
+128	215-8
+
+
+256	229-2
+
+
+512	239-4
+
+
+1024	249-6
+
+
+2048	258-8
+
+
+198-8	
+
+
+215-8	-j- 17-0
+
+
+228-7	12-9
+
+
+239-4	10-7
+
+
+249-4	10-0
+
+
+258-8	+ 9-4
+
+
+228-2
+
+
+2492
+
+
+Preparát překrystallovaný, ostře vysušený.
+
+
+Soli stříbrnaté.
+
+
+Pohyblivost stříbra, jakožto kationtu jest velmi pečlivě vyšetřována. základě práce, kterou provedli rnst*) jest dokonce pohyblivost stříbra 59""l zvolena základní elektrochemickou veličinu pro výpočet pohyblivostí všech ostatních iontů. Přes uveřejněna buďtcž měření dusičnanu stříbrnatém vykonaná, aby přímého porovnání plynul názor, pokud hodnoty shodují hodnotami literatuře uváděnými.
+
+
+Čís. 22. Dusičnan stříbrnatý NO3 167.
+
+
+	I.	II.	lil.	
+
+
+32	110-5	109-5	110-6	
+
+
+64	115-6	115-1	116-0	+
+
+
+128	117-3	118-1	118-9	2-9
+
+
+256	—	—	121-4	2-5
+
+
+512	121-9	121-4	122-9	1-5
+
+
+1024	123-3	123-1	123-9	+ i-o
+
+
+sloupci jsou pro srovnání hodnoty, které našel hlraus ch(l.)ř sloupci hodnoty, jež udali Loeb aNernst (1. c.). Starší měření Kohlrauschovo (1.) vztahuje zředění O"" 143 2'00. Mimo měřil dusičnan stříbrnatý Vincentini (5., 6.) zředěních 413 2200.
+
+
+Čís. 23. Chiórečnan stříbrnatý AgClO3 191'5
+
+
+	I.	II.		
+
+
+32	102-1	101-6	101-8	
+
+
+64	106-9	106-0	106-4	f 4-6
+
+
+128	110-0	110-6	110-3	3-9
+
+
+256	113-9	113-9	113-9	2-4
+
+
+512	116-3	115-8	116-0	2-1
+
+
+1024	117-5	117-4	117-4	f 1-4
+
+
+Jmenovaní, 1888. Zeitschr. phys. Chem. 962.
+
+
+XXXIV. ﻿19
+
+
+Přeprat pocházel firmy Merck Darmstadtu byl před měřením překrystallován. Preparát II. upraven podvojným rozkladem síranu stříbrnatého chlórečnanu barnatého. chlórečnanu stříbrnatém měřili hodnotu hraničně vodivosti Loeb Nernst (1. c.) přímým pozorováním změn koncentrace elektrodách způsobu Hittorfově.
+
+
+Čís. 24. Síran stříbrnatý Ag2SO4 312.
+
+
+128
+
+
+256
+
+
+512
+
+
+1024
+
+
+2048
+
+
+218-2	219-1	218-7
+
+
+239-1	238-1	238-6
+
+
+__	252-2	252-2
+
+
+—	262-1	2622
+
+
+—	268-9	268-9
+
+
+19-9
+
+
+13-6
+
+
+9-9
+
+
+6'8
+
+
+Sůl tato byla před měřením temnu vroucí vody překrystallována. Pro zředění 581 4350 udal vodivosti Vincentini (6.).
+
+
+Soli beryllnaté.
+
+
+Ježto nebyla posud ani jediná beryllnatá sůl měřena, stůjtež zde pozorování, zatím jen dvěma solím vztahují.
+
+
+Čís. 25. Chlorid beryllnatý (BeCl, 4H2O 151'8).
+
+
+12-5 8-7 6-9 5-6 4-9
+
+
+Chlorid beryllnatý byl firmy Jest nad míru hygro-skopický, slabounce nažloutlý. koncentrovaném roztoku bylo možno sulfokyanidem draselnatým odkryti stopu železa, ale tak nepatrnou, právě jen tou reakcí byla znatelná, takže nějaké dělení nebylo ani pomyšlení.
+
+
+stanoven byl roztocích chlór vážkově. Roztok byl původně zředění 78'56, roztok II. zředění rr. 75'80.
+
+
+Čís. 26. Síran beryllnatý (BeSO4 4H3O 177).
+
+
+	I.	II.	
+
+
+64	201-7	202-0	201-9
+
+
+128	214-2	214-6	214-4
+
+
+256	222'8	223-4	223-1
+
+
+512	230-0	230-0	230-0
+
+
+1024	235-7	235-5	235-6
+
+
+2048	239-2	237-9	238-5
+
+
+
+
+
+128 256
+
+
+(146-0) 166-6
+
+
+II.
+
+
+105-7 124-3 145-2 166-8
+
+
+105-7 124-8 145-2 166-7
+
+
+19-1 20-4 21-5
+
+
+XXXIV.
+
+
+﻿20
+
+
+	I.	II.		
+
+
+512	189-9	189-2	189-5	22-8
+
+
+1024	210-1	212-3	211-1	21-6
+
+
+2048	228-6	—	228-6	-j- 17-5
+
+
+roztocích stanovena kyselina sírová vážkově. Roztok byl původně zředění 60""94, roztok II. původně zředění 30'56.
+
+
+Soli kademnaté.
+
+
+Soli kademnaté byly předmětem četných prací; patříť kadmium řady kationtů, které Bredigova pravidla prokazují zřejmé úchylky, čemž rozboru výsledků obšírnější stane zmínka. Grotian aWers-h ven (9.) měřili chlorid, bromid, iódid dusičnan kademnatý, leč pozorování vztahují nevhodná zředění 2000 teplotu 18°. příčiny hlavní soli kadmia koncentracích ostatními měřeními srovnatelných znovu proměřeny.
+
+
+Čís. 27. Chlorid kademnatý (CdCU 2H..O 229).
+
+
+64	143-8	
+
+
+128	165-8	-f- 22-0
+
+
+256	186-0	20-2
+
+
+512	204-2	18-2
+
+
+1024	219-1	14-9
+
+
+2048	230-1	-f 11-0
+
+
+Zředění původního roztoku stanoveno titrací. Obnášelo 82. Chlorid kademnatý měřil též Vincentini (6) sice zředěních 388 2820.
+
+
+Čís. 28. Bromid kademnatý (CdBr2 4H2O 343'2)
+
+
+64	134-0	
+
+
+128	156-2	-f 22-2
+
+
+256	178-2	22-0
+
+
+512	198-2	20-0
+
+
+1024	216-8	17-6
+
+
+2048	231-7	-i- 14-9
+
+
+Zředění původního roztoku stanoveno titrací. Obnášelo 58""40. Při řadách 27. 28., jež jsou jednoduché, byl vždy aspoň jeden roztoků kontrolován opětovanou přípravou kontrolním měřením.
+
+
+Čís. 29. Iódid kademnatý Cdl., 364'8.
+
+
+105-1 103-7 104-4
+
+
+128 128-4 128-5 128'4 24'0
+
+
+XXXIV. ﻿21
+
+
+256	151-1	151-2	151-1	22-7
+
+
+512	174-1	172-9	173-5	22-4
+
+
+1024	1962	194-2	195-2	21-7
+
+
+2048	216-1	216-7	216-4	-f 21-2
+
+
+Preparát náš byl vody prostý, jak jsme analysí přesvědčili. Oba původní roztoky měly zředění 64'30, jež stanoveno titrací.
+
+
+Čís. 30. Sírankademnatý (CdSOt 4H2O 280).
+
+
+	I.	II.		
+
+
+32	1017	—	101-7	
+
+
+64	119-5	119-5	119-5	-j- 17-8
+
+
+128	140-1	138-3	139-2	19-7
+
+
+256	—	158-4	158-4	18-2
+
+
+512	—	178-5	178-5	20-1
+
+
+1024	—	198-2	198-2	19-7
+
+
+2048	—	215-0	215-0	-f 16-8
+
+
+Užitý preparát vody překrystallovaný měl složení CdSOt 2'44 HaO, což blíží soli zpravidla uváděné CdSO4 83H2O. Složení roztoků stanoveno vážkově určením kyseliny sírové. Roztok měl původně zředění 28'79, roztok II. zředění 61/23.
+
+
+Sloučeniny kyanové.
+
+
+Pohyblivost kyanu jakožto aniontu 73""5 (Bredig) řadí kyan výslovně skupinu prvků halových, nejblíže bromu, pro který jest 73'0. Pozoruhodné jsou komplexní kyanidy kovů těžkých; nich těžký kov obvyklými reakcemi dokázati nedá, kyanidy bývají jinak sbarveny (často bezbarvé) než jednodušší sloučeniny dotyčného těžkého kovu, jež zpravidla vyznačují charakteristickým zabarvením velmi sytým, jest dokladem pro samostatnou existenci složitých iontů. Komplexní soli vůbec jsou stránce elektrochemické vděčným předmětem studia. Ježto vodivosti sčítají, máme prostředek posouditi, zda komplexní sloučenině nové shluky ustálily, čili nic, dle toho, rovna-li vodivost součtu vodivostí složek, anebo ruzní-li něho. jsou příčiny elektrochemické konstanty komplexních sloučenin velmi cenné, zbývá posud velmi mnoho studia tomto poli vykonati.
+
+
+Čís. 31. Kyanid rtuťnatý Hg(CN)2 252.
+
+
+jednoduchých kyanidů měřen kyanid draselnatý Kohlrauschem(L), leč jen pro zředění kyanidů kovů těžkých jest měření přístupný jen kyanid rtuťnatý. Užitý preparát byl firmy Kahl-baum, byl několikráte vody překrystallován. Ukázalo se, vodivost
+
+
+XXXIV. ﻿22
+
+
+roztoku časem vzrůstá, takže nemohla býti obvyklá řada provedena. Roztok normalitě Vcu Jev'l tento chod vodivosti časem:
+
+
+Čas O'"" 125
+
+
+15'6 19'4 22-6 26-7
+
+
+Čas 1200'"" 1500 2000 3100
+
+
+,«,.
+
+
+51-8
+
+
+57'6
+
+
+63'
+
+
+103'6
+
+
+Čís. 32. Ferrokyanid draselnatý KtFe(CN)i; 3R,O 422.
+
+
+32	346-3	351-9	349-1		
+
+
+64	389-0	390-2	389-6	4- 40-5	
+
+
+128	430-1	433-2	431-6	42-0	432-4
+
+
+256	477-0	476-1	476-7	45-1	467-8
+
+
+512	523-5	520-8	522-1	45-4	519-6
+
+
+1024	563-5	551-9	557-7	-f 35-6	558-0
+
+
+2048	—	—	—		587-3
+
+
+4096
+
+
+608-8
+
+
+komplexních kyanidů prvém místě mají důležitost kyanidy typu ferrokyanidů ferrikyanidů. Ferrokyanid ferrikyanid draselnatý měřil Walden (7., 8.). Ježto měření začínají teprv pro vysoká moleku-lárná zředění, měřeny oba kyanidy ještě jednou příčinou porovnání kyanidy dalšími. posledním sloupci jsou hodnoty plynoucí měření Walde nových.
+
+
+Ferrokyanovodík H4Fe(CN),. měřil Ostwald (3.).
+
+
+Čís. 33. Ferrikyanid draselnatý K3Fe(CN)6 329.
+
+
+32	318-2	323-4	320-8	
+
+
+64	342-8	348-2	345-5	+ 24-7
+
+
+128	367-9	372-7	370-3	24-8
+
+
+256	393-1	395-6	394-3	24-0
+
+
+512	416-2	418-8	417-5	232
+
+
+1024	435-2	436-9	436-0	18-5
+
+
+2048	—	452-7	452-7	4 16-7
+
+
+Komplexním kyanidům železa obdobě sloučeniny tvoří prvky kobalt, chróm, mangan. bylo tudíž žádoucno tyto sloučeniny přeměřiti. Žel, úkolu tomu vyhověti lze jen části, pro nestálost některých těchto sloučenin.
+
+
+Čís. 34. Kobaltikyanid draselnatý K,Co(CN),. 331'6.
+
+
+322-1 319-7 320'9
+
+
+347-7 346-8 347'2 -4- 26'3
+
+
+XXXIV. ﻿23
+
+
+128	374-0	371-1	372-2	25-5
+
+
+256	396-4	395-7	396-0	24-7
+
+
+512	420-1	418-4	419-2	23-2
+
+
+1024	437-9	438-2	438-1	4- 18'9
+
+
+Kyanid tento upraven rozpouštěním čerstvě sraženého kyanidu kobalt-iiatého teplém nadbytečném roztoku kyanidu draselnatého. odpaření vyloučené krystally rozpuštěny vodě; sůl opětně alkoholem vyloučena znova překrystallována. (Zwenger).
+
+
+Kobaltokyanid draselnatý KtCo(CN)6, sůl obdoba žluté soli krevné získaná účinkem roztoku kyanidu draselnatého kyanid kobaltnatý chlazení ledem, rozkládá rychle vodném roztoku.
+
+
+Čís. 35. Chromí kyanid draselnatý K;!Cr(CN)(, 3253.
+
+
+32	344-0	3460	345-0	
+
+
+64	375-2	377-0	376-1	-f 31-1
+
+
+128	403-0	407-1	405-0	28-9
+
+
+256	428-7	429-3	429-0	24-0
+
+
+512	447-9	445-9	446-9	17-9
+
+
+1024	462-7	463-2	462-9	16-0
+
+
+2048	—	477-0	477-0	-4- 14-1
+
+
+Preparát tento upraven byl kyanidu draselnatého čistého kamence chrómitého r).
+
+
+Ani jeden obou komplexních kyanidů manganu, které odpovídají žluté červené soli krevné, nemohl býti měřen. Manganokyanid draselnatý K4Mn(CN)fl vodou rychle rozkládá; vylučujet' roztoku zelená ssedlina podvojného kyanidu Mn(CN)2 KCN. Manganikyanid draselnatý K,Mn(CN)G rozkládá taktéž rychle vodou. Vylučuje ssedlina hnědá, patrně hydrát manganu. obou případech ukazují elektrické vodivosti, rozklad jest velmi záhy ukončen, neboť odpory těch rozložených roztoků nemění.
+
+
+Měření některých kyanidů jiných solí komplexních bude příležitostně podniknuto. Také některá měření sulfokyanidů jsou již vykonána. Zde buď ještě uvedena vodivost nitroprussidu sodnatého, jenž obyčejně ferro-kyanidům přiřaďuje, vodivost volného nitroprussidovodíku.
+
+
+Čís. 36. Nitroprussid sodnatý Na2Fe(NO) (CN)5 2H,O 297'8.
+
+
+
+
+
+
+
+
+128
+
+
+174-2 184-2 194-0
+
+
+184-2
+
+
+174-2 184-2 194-0
+
+
+•4- 10-0 9-8
+
+
+xxxtv. ﻿""J4
+
+
+256	202 '4	203-8	203-1	9-1
+
+
+512	211-6	208-4	210-0	6-9
+
+
+1024	222'6	220-4	221-5	11-5
+
+
+2048	—	230-4	230-4	-f- 8-9
+
+
+Měření konána dvou zcela různých preparátech. Přes jsou poslední dvě difference poněkud nápadný. Roztoky trpí přímým účinkem světla rozkladeni. Vylučuje modř berlínská roztok stává vodivějším př. roztok normalitě l'r>lí prokazoval vodivosti době
+
+
+
+
+
+
+
+
+220 236 250
+
+
+když stál ostrém světle denním létě). příčiny jest nutno roztoky nitroprussidu sodnatého pracovati pokud možná temnu.
+
+
+Čís. 37. Nitroprussidovodík H,Fe;NO) (CN)5 222'S.
+
+
+Účinkem vypočteného množství dusičnanu stříbrnatého roztok nitroprussidu sodnatého upraven nitroprussid stříbrnatý jakožto objemná ssedlina zarůžovělá, která promyta ještě vlhká vodě rozptýlena byla rozložena temnu proudem plynného sirovodíku. filtrátu sirníku stříbrnatém odstraněn sirovodík proudem vzdušným dlouho proháněným. Roztok nitro-prussidovodíku, který jest skvostně višňově zabarven, ztitrován louhem sod-natým zředěn žádanou normalitu. veškery výkony prováděny pokud bylo lze nepřístupu světla, nutno pohlížeti číslice získané zatím jen jako data pravdě blízká:
+
+
+64	67-6	
+
+
+128	69-5	-f 1-8
+
+
+256	70-3	09
+
+
+512	71-6	1-3
+
+
+1024	72-1	05
+
+
+2048	73-1	4- i-o
+
+
+Zdá se, roztok nitroprussidovodíku tmě drží dosti dlouho nezměněný. Roztok normalitě '(U prokazoval tyto vodivosti různě dlouhých dobách
+
+
+67-6
+
+
+68-0
+
+
+74-0
+
+
+když tmě byl chován. přímém denním světle rychle rozkládá Rozklad nitroprussidu sodnatého nitroprussidovodíku světlem bylo lze velmi snadno exaktně stopovati vzrůstu vodivosti elektrické. Byla
+
+
+XXXIV. ﻿23
+
+
+pohodlná míra pro rychlost těchto pravděpodobné jiných reakcí fotochemických.
+
+
+Posléze buď uvedena zmínka vodivosti třaskavé rtuti. látka representuje příklad organometallických sloučenin, kde dle názorů nedávná platných kov jest přímo uhlík vázán. Je-li původní derivát neelektrclvtem, není příčiny, proč předpokládané konstituce byl substitucí vzniklý derivát elektrolytem. Leč ukazuje, sloučeniny tyto jsou poměrně dobrými elektrolyty, tudíž, aspoň roztoku, nemůžeme předpokládati statickou vazbu kovu jednomu atomů uhlíku.
+
+
+Čís. 38. Rtuť třaskavá. C2N2O2Hg V2H2O 293. Rozpustnost rtuti třaskavé určil nedávno Hollemann*) sice
+
+
+při 12° 0-070 100 OH2, při 49° 0-176
+
+
+aniž udáno bylo, jakému preparátu čísla vztahují. Jeť rtuť třaskavá, jak připraví účinkem alkoholu roztok rtuti kyselině dusičné, bczvodá, horké vody překrystallovaná 1/2 mol. vody krystallové. Pro takovou třaskavou rtuť nalezena rozpustnost středem dvou pokusů:
+
+
+při 25° 0-056 106 cm3 OH2.
+
+
+Nemohly tedy býti měřeny roztoky, kde 512. Udané vodivosti činí nárok toliko prvou approximaci:
+
+
+
+
+
+1024 2048 4096
+
+
+20-6 25-0 32-6
+
+
+pro značně rušivý vliv vody, která tehdy nebyla dobré kvalitě ruce. Přes jest p;itrno, nelze rtuť třaskavou čítati naprostým neelektro-
+
+
+Ivtům.
+
+
+Rozbor výsledků.
+
+
+číselným výsledkům předešlé stati prostě pořadem uvedeným jest připojiti podrobný rozbor něco úvah, materiál číselný mnoze prvý pohled výmluvným jest ukazatelem mnohých nápadných okolností.
+
+
+Předem nutno jest základní elektrochemické konstanty vybrati pře hledně sestaviti. Pro srovnání zařaděny budou výsledkům hodnoty pozorování cizích, vždy údajem literatury.
+
+
+Kef. Chem. Centralblatt, 1896. II. 629.
+
+
+XXXIV. ﻿26
+
+
+První druhý číselný sloupec obsahuje vodivosti ,«3:} f,02l sice tentokráte pro ekvivalentní zředění 1024. Jest příčiny, jen pak jest rozdíl
+
+
+který jest zanesen třetím číselném sloupci, přímo úměrný valenci užité kyseliny, pokud ovšem kation jest toho druhu, sůl jest blízka hranici dissociace. Rozdíly tak jsou zaznamenávány, přímo patrná jest hodnota úměrnostní konstanty platné pro soli dotyčného kationtu.
+
+
+Následuje pak důležitá hodnota hraničně vodivosti //^ sice údaji dvojím. Zprvu, jak plyne tabulky Bredigovy vodivostí i*,,,.,, neb w-,,0 přičtením veličin </10:ít neb d-tl..
+
+
+
+
+
+neb
+
+
+sice jest veličina vesměs odvozena, beze zřetele tomu, solí některých kationtech podmiňujících malou dissociaci, získají tím hodnoty nespolehlivé. Stalo proto, aby úchylky jasně případů nor-málných obrážely. druhé jest veličina odvozena jakožto součet pohyblivostí obou iontů elektrolytu, dle additivního vztahu Kohl-rauschova
+
+
+Při tom přijaty jsou základ následující hodnoty pohyblivostí iontů platné pro teplotu 25"" jak odvodil Bredig*):
+
+
+	n		a'
+
+
+Cl	70-2	Li	39-3
+
+
+Br	73-0	Na	49-2
+
+
+I	72-0	K	70-6
+
+
+N0;i	65-1	NH4	70-4
+
+
+CIO,	59-0	Ag	59-1
+
+
+C10l	(68-8)	TI	69-5
+
+
+SO,	73'5	Be	r
+
+
+CO8	(65'0)	Mg	(58)
+
+
+Cr.0-	(69'7)	Zn	(54)
+
+
+		Cd	(55)
+
+
+		Pb	5
+
+
+Čísla uzávorkovaná jsou nejistá. dalších přehledech značí uzávorkovaná čísla veličiny malou přesností zaručené. Hodnot takových neužito pravidla utvoření středů.
+
+
+dalším sloupci uvedena jest hodnota plynoucí pro pohyblivost kationtu odečtením uvedených hodnot veličiny //^ předním sloupci uvedené.
+
+
+Bredig, 1894. Xcitsrhr. j.hys. Chem. /.V. 191.
+
+
+XXXIV. ﻿27
+
+
+Posléze udán jest koéfficient dissociace «1024 pro zředění 1024. hraničnou hodnotu zvolena data pro pod uvedená.
+
+
+Celý chod vodivostí rostoucím zředěním jasně přehledne grafických znázornění, pro většinu měřených solí pořízených. úsečky jsou zvoleny mocniny čísla '2, jež udávají příslušná zředění
+
+
+pořadnice pak příslušné vodivosti ekvivalentní [i7!. Ježto jsou hodnoty koěfficientu dissociace ccr, dány poměrem vodivostí juz, témuž stálému číslu ÍÍQQ, jsou křivky znázorňující průběh vodivosti (obr. 7.) schopny orientovati nás průběhu dissociace, kteréž příčiny upuštěno pořízení diagrammat představujících zvláště křivky dissociační.
+
+
+Soli lithnaté.
+
+
+Číslo p-A.>			Pí 4	J	I. (póz. i	II. (poč )	a'	«r Literatura	
+
+
+—	LiCi	97'4	108-9	11-5	111-9	iio-o	41-7	97-3"" ,,	(4.)
+
+
+1	LiBr	98-2	110-9	12-7	113-9	112-8	40-9	97-4	—
+
+
+—	Lil	97-4	107-4	10-0	110-4	111-8	38-4	97-3	(4,»
+
+
+—	LiNO8	91-8	102-0	10-2	105-0	104-9	39-9	97-1	(4.)
+
+
+—	LíClOg	85-8	95-2	9-4	98-2	98-8	39-2	97-0	(4.)
+
+
+—	LiC10t	95-2	106-1	10-9	109-1	108-6	40-3	97-3	(4.)
+
+
+2	Vs Li,SOt	85-9	108-1	2.11-1	114-1	113-3	39-8	94-7	—
+
+
+3	V2 CO,,	(70-0)	—	(2.15-5)	(101)*)	104-8	(36)	—	—
+
+
+			C	= 10-8		a' :=	40-0		
+
+
+Soli sodnaté.									
+
+
+—	NaCl	106-6	118-5	11-9	121-5	119-4	51-5	97-5	(4.)
+
+
+—	NaBr	107-9	119-9	12-0	122-9	122-2	49-9	97-6	(4.)
+
+
+—	Nal	105-7	119-1	13-4	122-1	121-2	50-1	97-5	(4.1
+
+
+	Na NO,	101-5	112-7	11-2	115-7	114-3 '	50-6	97-4	(4.)
+
+
+—	NaClO,	95-0	105-3	HV3	108-3	108-2	493	97-2	(4.)
+
+
+—	NaClO,	104-5	116-0	11-5	119-0	118-0	50-2	97-5	(4.)
+
+
+—	'/, Na.SO,	95-6	118-1	2.11-3	124-1	122-7	50-6	95-2	(4.)
+
+
+Na.jCr.,0; 95'0			98-8		(104-8)	118-9	—	—	(2.)
+
+
+			Č	- 11-7	tr 50-3				
+
+
+Id*) zkoumal sodnatých solí různých kyselin organických shledal středem pro konstantu solí sodnatých
+
+
+10-0,
+
+
+Určeno ekvivalentní vodivosti .«„.,„ dle tabulky Hrcdigovy. **) Ost \vald. 188$. /citschr. phys. Chem. 1J. 840.
+
+
+﻿28
+
+
+kteráž hodnota zpravidla volí základ. Zde pro porovnání bude brán zřetel hodnotě, která plyne uvedených vodivostí silně dissociovaných solí sodnatých kyselin minerálných.
+
+
+Soli ammonate.
+
+
+NH4C1 NH4Br NH4I NH4NO3 NH4C1O3 Ya(NH4)2SO Y2(NH4)2Crs	126-8 127-9 126-9 122-5 (126-6) 13-8 1122	138-5 11-7 141-5 141-3 13-4 144-3 139-8 12-9 142-8 133-4 10-9 136-4 (147-4) (138-3) 2.12-2 144-3 (127-7)			140-6 143-4 142-4 135-5 129-4 143-9 140-1	71-3 71-3 70-8 71-3 70-8	97-9 97-9 97-9 97-8 95-8	—
+
+
+12-2					a- 71-1			
+
+
+Soli draselnaté.								
+
+
+KC1	127-3	139-9	12-6	142-9	140-8	72-7	97-9	(4.)
+
+
+KBr	128-7	141-2	12-5	144-2	143-6	71-2	97-9	(4.)
+
+
+KI	128-5	140-7	12'2	143-7	142-6	71'7	97-9	(4.)
+
+
+KNO,	120-1	133-0	12-9	136-0	135-7	70-9	97-8	(4.)
+
+
+KC1O3	115-3	127-2	11-9	130-2	129-6	71-2	97-7	(4-)
+
+
+KC1O4	123-7	137-3	13-6	140-3	139-4	71-5	97-9	(4-)
+
+
+Y2K""SO4	116-2	139-3	2.11-6	145-3	144-1	71-8	95-9	(8.)
+
+
+1/2K2Cr2O7	114-4	121-5	(2.3-5)	(127-5)	140-3		—	(7.)
+
+
+		C	- 12-5		a' —	71-6		
+
+
+Bredig*) dovozuje základě četnějšího pozorovacího materiálu nižší hodnotu této konstanty, totiž
+
+
+10-8.
+
+
+Záleží při tom velmi výběru pozorování.
+
+
+Pro úplnost buďtež soli rubidnaté césnaté uvedeny.
+
+
+RbCl
+
+
+Soli rubidnaté.
+
+
+129-0 141-1 12-1 144-1 134-9 137-9 12-1
+
+
+73-9 69-1
+
+
+71-5
+
+
+97-9 97-8
+
+
+(10.) (11.)
+
+
+Soli césnaté.
+
+
+CsCl 128-6 141-8 13-2 144""8
+
+
+CsClO4 137-5____—_ 140-5
+
+
+13-2
+
+
+Hře 1893. Zeitschr. phys. Chem. f>. 230.
+
+
+
+
+
+74-6 97-9 (10.) 71-7 97-9 (11.) 73-1 ﻿29
+
+
+Soli thallnaté.
+
+
+13		TI Cl	—	139-7	—	142	7	72-5	97-9
+
+
+—		TIBr	—	138-0*)	—	141'	0	(680)	97-9
+
+
+14		TINO.,	119-6	138-0	18-4	141-0		69-0	97-9
+
+
+15		T1C1O,	114-9	130-4	15-5	133-4		74-4	97-7
+
+
+—		T1C1O4	121-3	134-8	13-5	137-8		— (69-0)	97-8
+
+
+16	V-	Tl2SOt	107-3	(139-9)	2.16-3	145	•9	72-4	95-9
+
+
+18	Vo	TLCO,	83-7	131-1	(2.23-7)	137-1		721	95-6
+
+
+(12.)
+
+
+(12.)
+
+
+15-7
+
+
+72-1
+
+
+Hodnota nalezená pro pohyblivost thallia jakožto kationtu jest dosti blízká té, kterou udal Franke**) totiž 71""2.
+
+
+Shrneme ihned úsudky, které možno čerpati vodivostí c-ných iontů solích silně dissociovaných:
+
+
+Chloridy, bromidy, iódidy, dusičnany, chlórečnany chlóristany kovů alkalických Li, Na, jsou při zředění 1024 téměř stejně silně dissociovány. Keěfficiem dissociace pro zředění obnáší okrouhle
+
+
+pro soli:
+
+
+M024
+
+
+97-2 97-5 97-9 97'9 977
+
+
+hrubá tudíž pro veškery soli «1024 =^= 97-5°/0. Něco menší jest dissociace síranů obnášíť
+
+
+pro sírany:
+
+
+
+
+
+94-7
+
+
+95-2
+
+
+95-9
+
+
+uhličitanech dichrómanech stane níže zmínka.
+
+
+Radikál solí ammonatých svou dissociační mohutností řadí zcela řady kovů alkalických, nikoliv však místo, kam svou hmotou NH4 přisluší, jest mezi lithium natrium, nýbrž těsně kaliu. jeví také pohyblivosti ammonia jakožto kationtu, která jest velmi blízka pohyblivosti kalia. Jest snad shodě tím, soli ammonaté reakcemi svými (nerozpustný chlóroplatičitan, silikofluorid) blíže stojí solím draselna-tým, než solím lithnatým neb sodnatým.
+
+
+Veškery jmenované soli, solemi ammonatými sledují Ostwal-dovo valenční pravidlo. Příslušné konstanty jak plynou připojeného sestavení, pohyblivosti kationtu buďtež uvedeny pořadí hmot atomových. Pro porovnání uvedeny jsou pohyblivosti též dle Bredi. ga;
+
+
+	at. hmota	C
+
+
+Li	7	10-8
+
+
+Na	23	11-7
+
+
+K	39	12-5
+
+
+
+
+
+40-0 50-3 71-6
+
+
+a"" (Bredig) 39-8 49-2 70-6
+
+
+Určeno rozdílu mezi vodivostí T1C1 TIBr pro v-_2048.
+
+
+**) Franke, 1895. Zeitschr. phys. Chem. Ifí. 463.
+
+
+XXXIV. ﻿at. hmota (Bredig)
+
+
+12-1 71-5 73'5
+
+
+133 13-2 73-1 73.6
+
+
+NHt [18] 12.2 71-1 70-4
+
+
+Thallium řadí solích thallnatých, kde vystupuje jakožto kov jednomocný, solím kovů alkalických, jak patrno dissociace chloridu, dusičnanu, chlórečnanu chlóristanu, kde jest «10l>t 97'8, dissociace síranu, kde jest cilo2,í 95'9. zachovává thallium věrně svou obo-jakost, dle níž jistými vlastnostmi kloní kovům dvojmocným. Zde jest nápadně vysoká hodnota konstanty která, pokud plyne několika málo ruce jsoucích měření, obnáší 15'7.
+
+
+obdobě mezi thalliem olovem stane ještě zmínka.
+
+
+Hodnota pro pohyblivost thallia udaná Bredigem 69'5 jest rozhodně nízká. Zasluhuje přednost hodnota tuto stanovená
+
+
+72-1,
+
+
+aneb střed této hodnoty pozorování Franke (1. c.)
+
+
+71-5.
+
+
+tak jednoduché poměry poskytují soli kovů těžkých. Zprvu bud' zase pozorovací materiál přehledně sestaven.
+
+
+Soli stříbrnaté.
+
+
+Čís.		Pas	iU1024	4	I. (póz.)	II. (póč.)	a-	Kv
+
+
+22	AgNOa	110-6	123-9	13-3	126-9	124-2	61-8	97-6
+
+
+23	AgClO,	101-8	117-4	15-6	120-4	118-1	61-4	97-5
+
+
+24	1 „Ag^SO,	—	1344	—	140-4	132-6	66-9	95-7
+
+
+Soli olovnaté.
+
+
+
+
+
+VsPbBra
+
+
+V2Pb(NO3)2*) 99-4.
+
+
+135-0 136-5 129-4
+
+
+141-0
+
+
+142-5
+
+
+2.15-0 135-4
+
+
+70-8 69-5 70-3
+
+
+70-2
+
+
+V2BeCl2
+
+
+'2BeSOt
+
+
+
+
+
+
+
+
+y2CdCl2 %CdBr,
+
+
+Y2CdI2
+
+
+Soli beryllnaté.
+
+
+100-9 119-2 18-3 125-2
+
+
+62-4 114-3 2.25-9 124'3
+
+
+Soli kademnaté.
+
+
+71-9 115-0 2.21-5 121-0
+
+
+67-0 115-8 2.24-4 121'8
+
+
+52-2 108-7 2.23-2 114'7
+
+
+59-7 1075 2.23-9 117'5
+
+
+55-0 50-8
+
+
+95-2 91-9
+
+
+50-8 95-0
+
+
+48-8 95-1
+
+
+42-7 94-7
+
+
+44-0 91-5
+
+
+Srovn. Franke, 1895. Zeitschr. phys. Chem. 10. 461.
+
+
+XXXIV. ﻿31
+
+
+Předem jest patrno, soli stříbrnaté, tak značně jsou dissocio-vány, poskytují příliš vysokou hodnotu pro pohyblivost stříbra jakožto kationtu síranu stříbrnatému nehledě) oproti hodnotě 59'1, která plyne přímého měření hraničních hodnot vodivostí (i^ 1-rausch, Loeb Nernst).
+
+
+solí kovů dvojmocných skupiny Be, Mg, Zn, vyskytuji nepravidelnosti již dřívějším pozorovatelům povědomé.
+
+
+týče magnesia proměřil Walden*) velikou řadu solí tohoto kovu. Shledal sice, soli horečnaté zhruba vyhovují valenčnímu pravidlu Ostwaldovu, leč úchylky vyskytující oproti jiným kovům jsou namnoze velmi značné. Rovněž charakteristické pro soli horečnaté považuje Walden nepravidelný chod rozdílových veličin řadách vodivostí »r,. rozdílové veličiny jsou rozdíly dvou sousedních vodivostí
+
+
+dělené vodivostí roztoku koncentrovanějšího. Vzhledem podrobnostem nutno ovšem odkázati pojednání původnímu. pozdější pozorovatelé důvody odchylek těch při magnesiu při jiných kovech dvojmocných (Zn, Cu, Pb, lig) přímo vytkli. Bredig**) zabýval tou otázkou dopodrobna. Vývody nesluší reprodukovati, jen podstatě jich bud* zmínka učiněna. Soli horečnaté mají (dle souboru četných zjevů soudíc) velmi nestejný stupeň dissociace při zředěních 512 neb 1024, proto nemožno užiti vztahu Bredigova ft^ -j- dz,_ Ježto soli horečnaté chovají nápadně obdobně jako kyselé soli sodnaté neb dra-selnaté, jest domnívati složité ionisace roztocích jejich. Pro soli horečnaté dvojmocným aniontem Ač"" tvaru Mg-;Ac'' lze předem domýšleti ionisace čtyry ionty:
+
+
+Mg""'
+
+
+
+
+
+Ar<:
+
+
+
+
+
+kdežto teprv při úplné dissociaci jsou jen dva ionty roztoku převahou
+
+
+Mg"" Ac"".
+
+
+Podobně chlorid horečnatý může poskytnouti trojí ionty Mg"", MgCl. Kxistencí těch složitých iontů vysvětlují anomálie vodivostech. [Srovn. též Franke, c.|.
+
+
+Úvahy tyto přímo 1/e přenésti soli beryllnaté. Předem tomu nasvědčuje neshoda pro pohyblivost beryllia získaných veličin (55'0 50'8), druhé obdoba vodivostí solemi horečnatými. př.:
+
+
+den, 1887. Zeitschr. t"". phys. Chem. 529 **) Hrcdi<í, 1894. Zeitschr. phys. Chem. 13. 200.
+
+
+XXXIV. ﻿BeCL, MgCÍ2
+
+
+201-9 202-4
+
+
+214-4
+
+
+212-4
+
+
+
+
+
+223-1 220-8
+
+
+Píli
+
+
+230-0 227-4
+
+
+235-6 233t)
+
+
+238-5 238-4.
+
+
+Pro magnesium udal dig pohyblivost 58, tři jednotky vyšší než plyne vzorce í^ožt dio->í- Vzhledem tomu, pro beryl-lium plynula hodnota 58. Ježto však první členové přirozené řady prvků, pokud víme, mají jakožto ionty nejmenší pohyblivost, nebude pravdy daleka veličina původní
+
+
+55.
+
+
+Podobně věci mají kadmia. Zde jest patrně hodnota odvozená základě tabulky Bredigovy více jednotek nižší, než plyne dle pravidla Kohlrauschova přímých stanovení mezní vodivosti, podobně, jak již Bredig pro soli měďnaté zinečnaté udal. Pro kadmium nezbývá zatím než přijati hodnotu provisorní (<?• 55) pokud další studia věc ne-objasní.
+
+
+Shoda pro pohyblivosti olova jakožto kationtu jest pozoruhodná, není vyloučena možnost, jest náhodná. Hodnotou tou (a' 70'2) blíží olovo thalliu (a' ""5).
+
+
+Vedle složité ionisace může býti příčinou nepravidelných hodnotách vodivosti hydrolyse. nastupuje nejen solí slabých zásad ale solí silných zásad, kde anion tvoří slabá kyselina. Sem patří především uhličitany. Shields ukázal*) při uhličitanu sodnatém, jak značná může býti hydrolyse:
+
+
+normalita (mol.) hydrolyse
+
+
+0-190 0-094 0-048 0-024
+
+
+2-12 3-17 4.87 7-10
+
+
+Tudíž abnormní hodnoty vodivosti při jiných uhličitanech nepřekvapují.
+
+
+Dichrómany (obr. 8.) jeví nápadně malé vodivosti nápadně malé difference jich. Snad jsou příčiny podobného rázu jeho při uhličitanech. Leč rozdíly mezi hodnotou mezní vodivosti počítanou vzorce fi^ (if, -->- d,,, touž hodnotou určenou additivního vzorce Kohlrauschova, když přijímáme pro anion 1/2Cr2O- pohyblivost dle Brediga 69""7, jsou konstantní:
+
+
+Čís. [i:i2
+
+
+(NH4)2Cr2O7 112-2 KaCriO7 184-4 Na2CraO7 95""0
+
+
+121-5
+
+
+98-8
+
+
+3-8
+
+
+127-2 127-5 104-8
+
+
+(Kohlr.) Diff.
+
+
+140-1 -j- 12-9
+
+
+140-3 12-8
+
+
+118-9 14-1
+
+
+Shields, 1893. Zeitschr. phys. Chem. f>. 177.
+
+
+XXXIV. ﻿33
+
+
+Hodnoty rozdílu jsou nad míru malé. trichrómanech bylo třeba podrobnějšího studia.
+
+
+Kamence jsou nápadný svými stoupajícími rozdíly vodivostech. Srovnávají tom síranem hlinitým chrómitým, pročež
+
+
+řady pro názor předvádíme, kde však vodivosti děním molekulárných.
+
+
+Čís- P64 Pase
+
+
+(NH4),A12(SO4)4 378-7 429'6 486'7
+
+
+T12A12(SO4)4 366-8 4229 481
+
+
+Psi
+
+
+5514
+
+
+Ml024
+
+
+629-9
+
+
+ztahují zře-
+
+
+í'2048 Literát. 715-6
+
+
+551-0 628-9 719-8
+
+
+A12(S04)3 Cr2(S04)3
+
+
+*884
+
+
+í'l92
+
+
+286-8 340-2 378-0 439-2
+
+
+/'TG 399-6
+
+
+508-8
+
+
+Pl536
+
+
+466-2 589-2
+
+
+.U3072
+
+
+534-6 669-6
+
+
+ř'6144
+
+
+601-8
+
+
+718-8
+
+
+(7.) (7.)
+
+
+Okolnost však vzhledem velmi složitým molekulám vysvětliti zavitými poměry dissociace roztocích.
+
+
+Také vodivostem sloučenin kyanových nutno několik slov přičiniti.
+
+
+kyanidu rtuťnatého jest nápadná změna vodivosti časem. Stoupající vodivost nutno připsati buď postupné dissociaci dvou stadiích, která solí rtuťnatých podobně jako solí jiných těžkých kovů dvojmocných předpokládati, aneb změnám přivezeným samotnou skupinou kyanovou isomerie polymerie schopnou.
+
+
+komplexních kyanidech měřených buď toto poznamenáno. ékviva-lentných vodivostí ferrokyanidu draselnatého
+
+
+Pum 152'2
+
+
+P32 108-1
+
+
+plyne rozdíl
+
+
+=44-1,
+
+
+který vzhledem konstantě nalezené pro soli draselnaté ukazuje, ferrokyanovodík jest kyselinou čtyrsytnou.
+
+
+Sloučeniny komplexní obdobě červené soli krevné, kde železo zastoupeno jest kobaltem neb chrómem, ukazují zřetelné trojmocenství příslušných komplexních kyselin kyanových.
+
+
+práce Waldeno vy*) plyne ekvivalentních vodivostí ferrikyanidu draselnatého
+
+
+fi1024 153-0 121-3, rozdíl
+
+
+31*7,
+
+
+Walden, 1887. Zeitschr. phys. Chem. 541.
+
+
+Rozpravy: RoC. VI. Tř. II. 34.
+
+
+XXXIV. naší pak práce jde jevo úplná obdoba kobaltikyanidu draselnatého ferrikyanidem draselnatým, jak patrno vodivostí molekulárných:
+
+
+iU32 iťt64 f*128 í'256 í',512 /*10a4
+
+
+K8Fe(CN')(1 320'8 345'5 370'3 394'3 417'5 436'0
+
+
+K3Co(CN)G 320-9 347'2 372'2 396t) 419'2 438'1,
+
+
+takže stejný úsudek možno přenésti kobaltikyanovodík. Vodivost chrómikyanidu draselnatého jest něco vyšší než vodivost obou právě uvedených Kyanidů komplexních, ale rozdíly vodivostí molekulárných í'102l í/32 jsou zblízka stejné
+
+
+Čís.		""1024 1""
+
+
+33	K3Fe(CN)6	116-2
+
+
+34	K3Co(CN)e	117-2
+
+
+35	K3Cr(CN)6	117-9,
+
+
+jest tudíž chrómikyanovodík kyselinou trojsytnou. není oprávněno vzorce těch kyanidů psáti zdvojené, jako dosud některých učebnicích děje. Vzhledem tomu překvapuje, kobaltikyanid draselnatý prokázal kryostropicky značnou zředěním velice proměnnou molekulárnou de-pressi bodu tuhnutí roztoku vodním
+
+
+koncentrace 0'51 0'9S l'88 °/0
+
+
+mol. depresse 75'9 65'3 59'3
+
+
+kdežto ferrikyanid draselnatý prokazuje depressi moleku lárncu 47'3 |Ost Id, Lehrb. allgem. Chem. 752. (2. vyd.)].
+
+
+Pro nitroprussid sodnatý plyne cestou elektrochemickou ekvivalentních vodivostí
+
+
+,U1024 115'2
+
+
+rozdíl
+
+
+23-1,
+
+
+92-1
+
+
+který prokazuje zřetelně dvojsytnost nitroprussidovodíku. Vzhledem tomu není dovoleno vzorce nitroprussidu zdvojnásobovati jak dříve tam činěno (Stádelcr psal Na4Feí(NO)2(CN)10 4H2O); leč tím není prokázáno, nitroprussidovodík neobsahuje mimo dvou vodíků žádný další vodík substituce kovem schopný shodě chemickými důvody, jež plynou podrobné práce fmann nitroprussidu sodnatém jeho derivátech.
+
+
+Možná jest dokonce pro nitroprussid ten formula
+
+
+
+
+
+(CN)5 Na, NOH.
+
+
+Hofmann, Zeitschr. anorg. Chem. to. 262; ib. //. 278.
+
+
+XXXIV. ﻿35
+
+
+ekvivalentní vodivosti nitroprussidu sodnatého {iío2l 115*2 plyne dle vzorce Bredigova hraničná hodnota j/^ 121 ""2. Ježto jest pro natrium 49'2, plyne pro anion nitroprussidovodíku l/., Fe(NO) (CN)5 hodnota 72§0. Přijmeme-li pro vodík 325, jest mezní hodnota vodivosti pro nitroprussidovodík 397'0, číslo nápadné vysoké, které nevede určení affinitní konstanty.
+
+
+tomu, vodivosti třaskavé rtuti zmíněno bylo, jest ještě poznámku přičiniti. okolnosti, látka dokonce nechová jako neelektrolyt, lze odhodlati definitivnímu zavržení vzorce nitroaceto-nitrilového
+
+
+CHg (N02).
+
+
+přijati pro výchozí látku, jejímž derivátem jest rtuť třaskavá, složení navržené Steinerem*)
+
+
+C^NOH
+
+
+
+
+
+NOH.
+
+
+shodě tím jeví vodivost natriumsubstituovaných nitrovaných uhlovodíků. Hantzsch chul ze**) dokázali, fenylnitromethan existuje dvou isomerických tvarech, sice pravděpodobně
+
+
+CHR CH0 NO,
+
+
+II. (iso)
+
+
+C6H5
+
+
+
+
+
+Tvar druhý vzniká přesmyknutím, kdykoliv účinkem alkoholického natronu připravujeme sloučeninu natriumsubstituovanoii, neboť fenylnitromethan p-bromfenylnitromethan jsou neelektrolyty, jich soli sodnaté vedou dosti značně:
+
+
+fenylisonitromethannatrium 31, 75*8, p-bromfenylisonitromethannatrium 32, 73'6,
+
+
+128, 79-9.
+
+
+shodě tím našli jsme, že, nitroethan jest neelektrolyt. natrium-nitroethan poměrně jest značně vodivý. Molekulárně vodivosti nalezené jsou
+
+
+32, 1024,
+
+
+93-0,
+
+
+kteráž čísla zatím mají nárok jen prvou aproximaci, neboť pocházejí jediného jen pokusu. Přes faktum jest určité: natriumnitroethan jest elektrolytem, jsme nuceni předpokládati, nitroéthanu
+
+
+Srovn. též hol 1896. Berl. Ber. 29. 2415. **) Jmenovaní, 1896. Berl. Ber. 29. 2251.
+
+
+XXXIV.
+
+
+﻿36
+
+
+CH3 CHa NO2 vzniká natrillmsubstituovaná sloučenina přesmyknutí inolekulárného
+
+
+CH, ONa.
+
+
+
+
+
+Patrno toho, jak lákavým studiem jest stanovení vodivostí sloučenin organometallických.
+
+
+Snad podaří budoucnu více takových případů sebrati obecnějších důsledků nich vytěžiti.
+
+
+Praze, dne října 1897.
+
+
+XXXIV.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+﻿OBSAH.
+
+
+Strana
+
+
+Úvod ...................................l
+
+
+Obecné vztahy ............................
+
+
+Část experimentálná .... •.........................5
+
+
+Methoda ...............................5
+
+
+Podrobnosti postupu práce.......................6
+
+
+Způsob početního zpracování.......................7
+
+
+Číselné výsledky.............................10
+
+
+Soli lithnaté •..........................11
+
+
+Soli ammonaté..... .......•..... .......12
+
+
+Soli thallnaté ..................•..........15
+
+
+Soli olovnaté.............................17
+
+
+Soli stříbrnatč .............................18
+
+
+Soli beryllnaté.............................19
+
+
+Soli kademnaté '...........................20
+
+
+Sloučeniny kyanové..........................21
+
+
+Rozbor výsledků...............................25 ﻿*"

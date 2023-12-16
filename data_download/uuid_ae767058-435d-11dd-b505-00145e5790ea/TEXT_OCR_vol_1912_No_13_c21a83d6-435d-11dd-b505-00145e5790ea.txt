@@ -1,0 +1,282 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TŘÍDA II.
+ČÍSLO 13.
+K Joachimsthalovu řešení problému normál.
+Napsal J. Sobotka.
+(S 2 tabulkami)
+(Předloženo dne 18. dubna 1912.)
+1.   V   pojednání   „Zuř   Joachimtshalschen   Lósung   děs   Normalen-problems"" z roku 1895 (Sitzungsberichte der k. bohm.  Gesellschaft der Wissenschaften)  uvádí K. Pelz konstrukci normál, která se zakládá na krásném řešení problému toho od Joachimsthala a která má přednost před jinými pro svoji neobyčejnou jednoduchost a krátkost.   Při tom se aie omezuje Pelz výslovně pouze na ellipsu.   Chceme zde ukázati, že jeho postup řešení možno bezprostředně přenésti na hyperbolu a že se též dá specialisovati pro parabolu.   To učiníme tak, že všechny konstrukce provedeme tím způsobem, že zůstávají v platnosti pro všecky kuželosečky.
+2.  Joachimsthalovo řešení možno vysloviti krátce takto: „Kolmice spuštěné z vrcholu A kuželosečky Z! na normály vedené
+z libovolného bodu P ke kuželosečce protínají ji podruhé ještě v bodech: l, 2, 3, 4, které leží na kružnici c\ všecky takovéto kružnice, které takto přísluší bodům průměru h kuželosečky 27, tvoří svazek kružnic (c). Tomuto svazku přináleží též bodem A jdoucí vrcholová kružnice kuželosečky 27, a jeho potenční přímka t jest tečnou ku 27 v bodě T, ve kterém kolmice z vrcholu A na h protíná podruhé tuto kuželosečku.""
+Poslední důsledek obdržíme ostatně ihned z poučky samé, když hledáme ku středu M kuželosečky 27 a k úběžnému bodu průměru h příslušný kruh v uvedeném svazku.
+3.  Jedná se tudíž při řešení problému normál toliko o to, najíti střed P0 kružnice c, která přísluší k bodu P.  Pelz ukazuje ve svém   pojednání, že,   pohybuje-li  se P po h,   přímka PPQ obaluje parabolu  p,  která  se dotýká přímky h v bode M a pro kterou jest dále bodem M jdoucí centrála hQ uvedeného svazku průměrem.  Jest tudíž třeba pouze vésti tečnu bodem P různou od h ku p, která protíná hQ v bodě P0. To platí jak pro ellipsu, tak také pro hyperbolu.
+Zvolme vrchol A na hlavní ose; pak jsou průsečíky D, D1 přímky / s kružnicemi svazku (c) při reálné ellipse a hyperbole vždy reálné a c jest
+Rozpravy:   Roč. XXI. Th II. č. 13.
+XIII. ﻿pak kružnice určená středem P0 a jdoucí body D, Dv Řada (P) bodů P na h jest s řadou (P0) bodů P0 na h0 v (l, 2) značné příbuznosti; body rozvětvení na hQ jsou střed M kuželosečky L a úběžný bod.
+Je-li kuželosečka 2? ellipsou, pak ji protíná h ve dvou reálných bodech Hv Hz, které tvoří jeden pár bodů v řadě (P), kterému přísluší jeden jediný bod H0 na A0; jest to právě střed onoho kruhu ve svazku (c), který přísluší podle poučky Joachimsthalovy normálám ku 27 vedeným bodem H± nebo H2 a tudíž prochází bodem G, ve kterém rovnoběžka k tečnám ku 2 v bodech H1 a H2 vedená bodem A tuto kuželosečku podruhé protíná. Tento bod G obdržíme jednoduše jako průsečík kuželosečky 27 s rovnoběžkou ku h vedenou vrcholem Alt kterýž jest diametrálně protiležící ku vrcholu A, a bod HQ určíme jakožto střed kruhu, jdoucího body G, D, Dv Přímky HQHV HQHZ jsou dvě další tečny paraboly p. Tato jest nyní více jak dostatečně určena. Tečnu této paraboly bodem P různou od h sestrojuje Pelz pomocí šestistranu Brianchonova tak, že vede bodem P rovnoběžku k jedné z právě nalezených tečen, ku př. HJÍQ, která nechť protne h^ v bodě B; pak jest PP0 || H^B.
+Položíme-li MH1 = d, MHQ = m, plyne z podobnosti trojúhelníků , MPB a trojúhelníků MH^B, MPP0 relace
+MP
+m
+
+Vztahujeme-li parabolu /> k soustavě souřadné, mající počátek v bodu M, pro niž průměr h0 jest osou úseček x a tečna h v koncovém bode M jest osou pořadnic y, pak plyne pro dva libovolné body P a Q na h a pro příslušné body P0, Q0 na hQ z rovnice paraboly y2 = 2 k x relace
+MP„
+MP
+)•
+Ostatně obdržíme tuto relaci také přímo z konstrukce, když sestrojíme tečny ku parabole p zase pomocí věty Brianchonovy stejným způsobem jako prve, jenom že místo bodů Ht, H0, resp. Hz, H0 nyní volíme body Q a Q0.
+4. Právě uvedená relace platí zajisté obecně, bez ohledu na to, je-li kuželosečka 27 ellipsou nebo hyperbolou, tak že konstrukci normál možno provésti pro libovolnou centrální kuželosečku následovně.
+Najdeme body T a D, Dít sestrojíme v bodě T normálu ku 27, která nechť protne přímku h v bodě Q. Rovnoběžku ku DD± jdoucí bodem A protneme podruhé kuželosečkou 2? v bodě L a sestrojíme střed QQ kružnice, jdoucí body L, D a D^; bodem P vedeme pak rovnoběžku ku QQ0, protneme tuto v bodě PH přímkou hQ a vedeme konečně bodem P rovnoběžku ku QBK, která protne přímku h0 v hledaném středu P0 Joachimsthalovy
+XIII. ﻿kružnice. Obdobně morrli bychom protnouti normálu v libovolném bodě T' kuželosečky 2 v bodě Q' přímkou M P a kolmici bodem A k ní vedenou protnouti v bodě L' kuželosečkou 5, dále získati střed Q'Q kruhu ze svazku (c) jdoucího bodem L' a užiti bodů Q', Q'0 místo bodů Q, Q0 jak bylo dříve uvedeno, čímž ale konstrukce pozbude na jednoduchosti.
+Chceme-li užíti Pelzovy konstrukce pro hyperbolu 2 také pro případ, že průměr h neprotíná reálně hyperbolu, můžeme opět vésti bodem At rovnoběžku ku h, protnouti tuto dále v bodě G kuželosečkou 27 a tak sestrojiti střed H0 kružnice jdoucí body G, D, D1 jako při ellipse. Tečny paraboly H0Hít H0H2 jsou zde ovšem imaginárné. Značí-li ale #/, H'.2 koncové body průměru h pro sdruženou hyperbolu ku 2 vzhledem k asymptotám a je-li H'Q symetricky položený bod ku H0 pro střed M, pak jsou zajisté H'Q H\, H'0 H'2 dvě reálné tečny paraboly p. Dále použijeme H\, H'Q respekt. H'2, H'Q ku konstrukci bodu P0 z bodu P právě tak, jako jsme dříve užili bodů Q a Q0. Nebo, použij eme-li přímo bodu H0, což jest podstatně totéž, vedeme bodem P nejprve rovnoběžku ku H0 H'z až protne hQ v bodě BK a pak rovnoběžku ku BK H\, která rovněž pro tíná A0 v bodě P0.
+5. Chceme-li právě uvedenou konstrukci specialisovati též pro parabolu .Z1, vidíme předem, že jak h, tak i h0 jsou rovnoběžný k ose paraboly 27, a že svazek (c) Joachimsthalových kružnic má vrcholovou tečnu s paraboly 27 za potenční přímku. Jest tudíž vrchol S paraboly 27 jedním základním bodem svazku (c) ; druhý základní bod D jest ku bodu S symetricky položen vzhledem ku hQ.
+Úlohou naší bude najíti průměr h0, který přísluší ku h.
+Za tím účelem najděme k libovolnému bodu R na h příslušnou, Joachimsthalovu kružnici. BuoTtež Nlt N2 paty dvou normál nv nz které procházejí bodem R. Vedeme-li bodem 5 kolmou tětivu ku «1, jest tato také tětivou Joachimsthalovy kružnice; rovnoběžka bodem Nl k ose o paraboly protíná tuto tětivu v jejím středu Mv Vedeme-li tudíž bodem M: rovnoběžku g^ ku nlf prochází tato středem R0 hledané kružnice. Dále budiž Ox průsečík přímek nlt o a 0\ průsečík přímek gv o. Značí-li % vzdálenost bodu ATj od vrcholové tečny s a k parametr paraboly 27, pak jest
+Provedeme-li   tutéž   konstrukci   vzhledem   k   normále   nz,   obdržíme   při obdobném označení
+tak že platí
+5 02 = *2 + k;       S 0'2 = 2 *2 + k ,
+A = *2 — x c,      0\ 0'8 = 2 (*2 - Xl) , XIII. ﻿tudíž
+Z toho plyne, že vzdálenost bodu R0 od osy o rovná se dvojnásobné vzdálenosti bodu R. Druhý základní bod D svazku (c) vtudíž obdržíme, když S D učiníme rovno čtyřnásobné vzdálenosti přímky h od osy o. Přímka h0 jest tudíž symetricky položená k o vzhledem ku přímce h.
+Náš důkaz předpokládá, aspoň ve formě, ve které jest podán, že z bodu R vycházejí samé reálné normály k parabole 27. Možno zajisté bod R na h vždy takto voliti, neboť v konečnu ležící průsečík přímky h s evolutou paraboly rozděluje přímku h ve dva polopaprsky tím způsobem, že všecky body jednoho takového polopaprsku předpokládanou vlastnost mají.
+6. Pohybuje-li se bod R po h v řadě bodové (P), pak se pohybuje bod R0 na h0 a popisuje zde ku (P) projektivnou řadu (P0), a jelikož v této projektivnosti odpovídá úběžný, oběma přímkám h, fy, společný bod sám sobě, proto jsou obě řady bodové perspektivné. Sestrojme jejich perspektivný střed.
+Protneme přímku h jednou z isotropických přímek jdoucích ohniskem F paraboly v bodě U. Joachimsthalova kružnice, která tomuto bodu přísluší, rozpadá se ve dvě isotropické přímky, z nichž jedna prochází bodem S a jest k právě zmíněné přímce rovnoběžná; druhá prochází bodem D a jest k ní symetrická vzhledem k přímce hQ. Ona stanoví na h0 bod U0. Spojnice UUQ prochází tudíž středem křivosti K paraboly Z! ve vrcholu 5, protože S K — 2 . F K . Totéž platí vzhledem k průsečíkům U' a U'0 přímky h, resp. hQ s druhou isotropickou přímkou jdoucí ohniskem F a s rovnoběžkou k ní vedenou bodem 5. Prochází tedy U'U'Q také středem křivosti K a jest tudíž bod K středem podobnosti řad bodových (P) a (P0).
+Můžeme ale též jednoduše k tomuto poznatku dospěti, uvažujeme-li libovolnou normálu n paraboly Z, která nechť protíná přímku h v bodě P, osu o v bodě PO,, a jejíž patu označme N. Symetrála tětivy vedené bodem S kolmo k normále n nechť protíná h0 v bodě P0, h v boděP' a osu o v bodě P'„. Jest pak PP' rovno vzdálenosti x bodu N od vrcholové tečny s. Protíná-li P0 P osu o v bodě K', pak jest tudíž K' Pm = x, a jelikož 5 P0) = x + k, proto jest 5 K' = k, a proto splývá bod K' s hlavním středem .zakřivení K.
+Máme-li tudíž sestrojiti normály k parabole z libovolného bodu P její roviny, spojme bod P s bodem K a učiňme PPQ = KP; kružnice opsaná kolem bodu P0 jakožto středu a procházející bodem S jest pak kružnice Joachimsthalova, bodu P příslušná.
+l. Zjednodušení konstrukce problému normál obdržíme, když budeme blíže studovati příbuznost mezi body P roviny kuželosečky 27 a jim příslušejícími středy P0 Joachimsthalových kružnic odvozených vzhledem k hlavnímu vrcholu A kuželosečky.
+XIII. ﻿Popisuje-li P průměr h kuželosečky 27, pak popisuje P0 rovněž průměr h0 kuželosečky 27. V této příbuznosti přísluší tedy přímce h jdoucí středem O kuželosečky 2 jediná přímka h0, jdoucí středem O; obráceně příslušejí přímce h0 dvě přímky h, h' jdoucí středem O.
+Konstrukce přímky h0 z dané h záleží v tom, že protneme 27 kolmicí z bodu A na h v bodě B; pak stojí h0 kolmo na průměru kuželosečky 27 sdruženém ku O B. Je-li obráceně dáno h0, vyhledáme k průměru kuželosečky 27, který stojí kolmo na hQ, jeho sdružený průměr, který protíná 27 v bodech B a B'; pak jsou kolmice ze středu O na. A B a. A B' hledané přímky h a h', příslušící ku přímce hQ, Platí tudíž mezi svazkem (h0) paprsků h0 a mezi svazkem (h) paprsků h, h' příbuznost (l, 2) značná. V této příbuznosti, přísluší hlavní osa O A sama sobě.
+Veďme (obr. 1. Tab. I.) vrcholem A' diametrálně protilehlým k vrcholu A rovnoběžku \ ku h a vrcholem A rovnoběžku h\ ku h''. Značí-li C průsečík přímek h: a h\, tu jest, jelikož A' B || A B', bod B průsečíkem výšek v trojúhelníku A A' C, a kolmice z bodu B na O A prochází bodem C. Pošiňme nyní involuci průměrů kuželosečky 27 rovnoběžně do polohy J tak, že její střed bude v bodě B, protněme .tuto involuci pak hlavní osou O A a promítněme takto povstalou na ní involuci bodovou z bodu C involuci paprskovou J^. Vztahujeme-li obě involuce J a J± pomocí O A perspektivně K sobě, poznáváme, že paprsky každého páru v involuci J stojí kolmo na paprscích jim perspektivně přiřaděného páru v involuci J1 a obráceně, neboť tento vztah platí pro paprskové páry A B, A'B; hlt h\, jakož i pro paprsky rovnoběžné k osám kuželosečky 27. Z toho plyne, že O C stojí kolmo na průměru sdruženém ku OB; jest tudíž h0 = O C .
+Vedeme-li tudíž bodem A' rovnoběžku ku A a bodem B kolmici ku O A a. protnou-li se obě přímky v bodě C, jest O C = h0.
+Pošineme-li nyní paprskovou involuci (h, h') rovnoběžně až její střed splyne s bodem A' do polohy /', vytvoří involuce J' s projektivným k ní svazkem paprskovým (h0) kuželosečku k, protože se nalézá se svazkem (h0) v redukované poloze. Bod O jest také středem kuželosečky k, a jelikož paprsku.O A ve svazku (hQ), mimo O A též kolmý paprsek ku O A přináleží, jsou A a A' rovněž vrcholy pro kuželosečku k.
+Kuželosečka k jest s kuželosečkou 27 podobná a možno ji dostati
+7C
+otočením o -7- do polohy podobně položené s kuželosečkou 27, jestliže pak
+""2
+považujeme dvě hyperboly vždy za podobně položené, když mají rovnoběžné asymptoty. Podobnost kuželoseček k a 27 poznáme, uvažuj eme-li bod B jednou ve vedlejším vrcholu, podruhé v nekonečnu na 27. Je-li 27 ellipsa, pak jest k též ellipsa souosá a podobná se 27; body A, A' jsou pro ellipsu k
+a2
+vedlejší vrcholy, a hlavní poloosa ellipsy k rovná se —, při čemž značí
+jako vždy a, b absolutní délky hlavní a vedlejší poloosy pro 27.
+XIII. ﻿Je-li27 hyperbola, jest k rovněž hyperbola s 2 souosá, jejíž asymptoty jsou kolmé k asymptotám hyperboly 27, a která má body A, A' rovněž za hlavní vrcholy, kdežto absolutní délka vedlejší osy hyperboly k rovná se
+a2 opět -j- . Vzhledem k affinní poloze mezi S a k protínají se tečny v bodě B
+ku Z"" a v bodě C ku k na přímce O A v bodě T', a jelikož jest bod B průsečík výšek v trojúhelníku O T'C, plyne z toho, že jest T'C polára bodu B a BT' polára bodu C vzhledem ku kruhu s opsanému nad A A' jakožto průměrem. Z tohoto důvodu jsou kuželosečky k a 27 polárně reciproké vzhledem ku vrcholové kružnici s.
+Poláru T'B bodu C vzhledem ku s obdržíme též jako sečnu kružnice s a kruhu g opsaného nad O C jako průměrem, z čehož plyne, že g přináleží kruhovému svazku (c) určenému kružnicí s a tečnou v B ku 27; tudíž jest kružnice g též Joachimsthalovou kružnicí. A' C protne 2! podruhé v bode L a k svazku (c) přináležející kruh u, který prochází bodem L, měj U0 za střed; tento bod ležící na hQ přísluší v naší uvažované příbuznosti koncovým bodům U, L/! průměru h. Bod U0 jest vždy reální, i tehdy, jsou-li body U, C/j imaginární.
+8. Naší úlohou nyní bude, sestrojiti přímo bod U0. Budiž (obr. 1.) pa potence bodu L vzhledem k vrcholové kružnici s a pY vzhledem ke kruhu g; první kruh má O za svůj střed, a střed kruhu g označme G0. Platí zajisté
+Pr
+Položíme-li O G0 = r, O U0 = Q, tu plyne z rovnice (1), že
+(1)
+— r
+z čehož obdržíme
+pr
+C ~~ ~J.          jT~
+(2)
+Dále označme d délku poloměru kuželosečky 27,   ležícího na h,  a mysleme si v koncovém bodě U tečnu ku 27; ta nechť protne O A v bodě T;
+pak jest   | OT \ =
+značí-li   <jp  úhel   přímek h  a   O A.   Je-li  27
+d cos <p hyperbola,  která  není přímkou h proťata reálně,  a značí-li d absolutní
+a2
+délku  poloměru  hyperboly  ležícího  na  h,   pak  jest  IOT-, \ = -^--------,
+'                                                      '    '•        •        .        • '        d cos <p
+značí-li J*! průsečík tečny ku hyperbole sdružené ku 27 vzhledem k asymptotám v jednom jejím na h ležícím bodě U* . Z toho plyne pro délku l sečny A 'L z podobnosti trojúhelníka A'L A s trojúhelníkem O UT respekt. O l7^ TI výraz
+XIII. ﻿2 d2 cos <p
+-------------------------------
+kterýžto výraz tudíž platí také pro imaginární d .
+Obdobně nalezneme, položíme-li A'C = l a označíme-li d délku poloměru kuželosečky k, ležícího na h, že platí
+1 = 11^^^.                                          (4)
+Dále budiž 5 druhý průsečík kruhu s s přímkou A 'C; tato protíná kruh g v bodě C a ještě v bodě G.   Jest pak
+pr = L G . L C = (L A' + A' G) (L A' + A' C);
+tudíž
+py — (a cos rp — /) (/ — /) , a s ohledem na rovnice (3) a (4)
+2 (a2 ~ 2 d2) (ď2 — d2} cos2 <p r                              a*
+Obdobně obdržíme
+PO = L A'. L S = — / (— / -f 2 a cos <p), a vzhledem k rovnicím (3) a (4)
+4 d2 (d2 ~ a2} cos2 y
+a dále
+2 [2 ^ ^2 — 0
+Rovnice (2) dává nyní
+Q             2 d2 (d2 — a2}
+r        2 d2 d2 — a2 (d2 + d2)
+Označme <ř vzdálenost onoho bodu H na h od O, jehož příslušný bod HQ splývá na h0 s bodem C, tak že k bodu H příslušící Joachimsthalův kruh v má svůj střed v bodě C. Jelikož O H0 = 2 r, platí vzhledem k dříve odvozenému vztahu (v či. 3.) mezi body P na h a P0 na h0 relace
+XIII. ﻿Q            Aí
+~ŽT ""~d*'
+Srovnáme-li to s rovnicí (5), obdržíme
+O d'l /72 ___. „2 lA-L
+ta a       a  (a
+9. Kružnice v má svůj střed na k a protíná kružnici s orthogonálně. Všecky kružnice v,. . této vlastnosti náležejí planárnímu poli cyklickému; můžeme je zde považovati za cyklometrické zobrazení bodů v prostoru, které se nalézají na rotačním hyperboloidu, pro který jest kružnice .s
+kružnicí zúžení, a jehož přímky jsou skloněny v úhlu — k rovině kuželosečky 27. Kuželosečku k možno považovati za pravoúhlý průmět do roviny kuželosečky 27 rovinného řezu (k) rotačního hyperboloidu, jehož rovina E prochází přímkou O A. Cyklometrické zobrazení roviny E poskytuje právě ono pole cyklické, ke kterému náležejí dříve zmíněné kružnice v , . . Uvažujme nejprve případ, při kterém jest 27, tedy také k ellipsou. Spustíme-li ze středu M některé kružnice přináležející tomu systému kolmici na O A a vedeme-li z paty MQ té kolmice tečnu ke kružnici řečené, která se jí dotkne v bodě Mlt pak jest úhel K — M MQ Mx konstantní vzhledem ku všem kružnicím toho systému. I jest pak, označíme-li R poloměr kružnice v a klademe-li úhel A O M = co,
+s^n a =
+R
+R
+MM„
+a dále jest
+sin* & — •=
+d sin o?
+ď2 — a2
+d2 sin co        d- sinz a
+Zvolíme-li střed orthogonální kružnice ku s v jednom z hlavních vrcholů kuželosečky k, pak jest cos a = —, nost pro 27, a tudíž obdržíme dále
+b                               e
+kuželosečky k, pak jest cos a = —, tedy sin « = —, značí-li e výstřed-
+= — sin- ca
+(7).
+Obdobné vztahy platí též pro ellipsu 27.
+Všecky kružnice w, které jsou proťaty kružnicí s ve dvou diametrálně protilehlých bodech, možno považovati za cyklometrické průměty do roviny kuželosečky 27 oné koule, pro kterou jest s hlavní kružnicí, a ty kruž-
+XIII. ﻿nice z nich, které mají své středy na 2, přináležejí k planárnímu poli cyklů, které jest obrazem roviny obsahující O A, jejíž řez s koulí se promítá ortho-gonálně do 27. Tyto kružnice protínají tudíž O A v konstantním úhlu /3. Je-li N! pata kolmice na O A spuštěné s libovolného bodu N kuželosečky 27 a N0 průsečík přímky O A s kruhem uvažovaného systému, který bod N za svůj střed, platí, označíme-li poloměr tohoto kruhu Rlt
+má
+cos2 /3 =
+d2 sin2 (o
+Zvolíme-li speciálně střed takovéto kružnice w ve vedlejším vrcholu kuželosečky 27,   obdržíme cos /3 = — , pročež platí
+a2~d2       é1 sin'-co
+(8)
+K téže relaci dospějeme i když kružnice w neprotínají A A' reálně. Z rovnic (7) a (8) plyne pak pro průměry kuželoseček 27 a k ležící na téže přímce bodem O vedené následující vztah
+d2 — a2     d2
+(9),
+Jsou-li 27 a k hyperboly, pak nalezneme touž cestou, že kružnice v protínají kružnici s orthogonálně a přímku O A pod konstantním úhlem reálním e. Je-li pro takovou kružnici M' střed, M\ pata kolmice z něho spuštěné na O A a značí-li R' poloměr její, pak jest
+COS- L =
+d'2 sin2 ca
+R'*
+Zvolíme-li střed kružnice v v nekonečnu na k, pak ona degeneruje v průměr kolmý k jedné asymptotě hyperboly k, tedy v asymptotu hyperboly 27,
+a v úběžnou přímku, a nalézáme tedy cos s = —, tak že tudíž platí
+~ sin- o a-
+kterýžto vzorec úplně souhlasí se vzorcem (7). Právě tak obdržíme
+d~ — a2        c- sin- co
+XIII. ﻿10
+kterýžto vzorec souhlasí se vzorcem (8),   když v něm místo b píšeme ib. Z obou posledních vzorců plyne rovnice obdobná rovnici (9)
+10. Rovnici (6) můžeme též přetvořiti v
+Jest tudíž
+* — a2     d2
+d~2.               d2 — a2  ' d2
+a s ohledem na (9) resp. (9') obdržíme pro ellipsu
+#2 —""^2           L2
+a pro hyperbolu
+ď*
+(10)
+(100
+Máme tedy obecně z rovnic  (10) a (10') plynoucí relaci
+(U) a        «
+Z trojúheln ka A 'O C plyne
+2 r : l = sin y : sin ca,
+při čemž co značí úhel přímek h0 a O A .   Dosadíme-li za / hodnotu z rovnice (4), obdržíme
+d2 sin w cos cp
+r —
+a sin oj
+nebo přihlížíme-li k rovnici (11)
+r =
+a ď2 sin op cos
+sin o?
+(12)
+Označíme-li pro libovolný bod P na h a jeho příslušný P0 na h0 délky O P = p, O P0 = pQ, tu plyne ze vztahu mezi body řad bodových (P) a (P0) podle či. 3. výraz
+XIII. ﻿11
+2r
+z kterého plyne vzhledem k rovnici (12)
+2 a sin <p cos <jp
+'O                           n-J.     0„' *,                        f
+sn co
+(13)
+11. Z našich vzorců můžeme odvoditi některé důsledky.
+Z rovnice  (11)  plyne:
+Opisuj e-li bod P kuželosečku (ď) podobně položenou ke kuželosečce k vzhledem ku středu O, která prochází ohnisky kuželosečky 27, opisuje bod P0 kuželosečku k samu.
+A obecně:
+Opisuj e-li bod P kuželosečku podobně položenou, koncentrickou ku k, jejíž délka poloosy ležící na O A jest A, popisuje bod P0 kuželosečku s ní koncentrickou a podobně položenou, pro kterou délka poloosy ležící
+na O A rovná se
+a.
+Z rovnice (13) p^yne:
+Popisuj e-li bodP hyperbolu, která má osy kuželosečky 27 za asymptoty a jejíž délka poloosy rovná se výstředností kuželosečky 27, opisuje bod Po přímku rovnoběžnou k ose O A, která má od ní vzdálenost + a, podle toho ve kterých vrcholových úhlech asymptot leží hyperbola.
+A obecně:
+Popisuje-li bod P hyperbolu, která má osy kuželosečky 27 za asymptoty a jejíž hlavní poloosa má délku m, pak popisuje bod P0 přímku rovnoběžnou
+//   4-1-7,2
+ku O A,   která má od O A vzdálenost rovnou + —-—.
+e2
+Zavedeme-li pro bod P souřadnice x, y,   pro bod P0 pak |, 17 v pravoúhlé soustavě, která má O za počátek a. O A  za. positivní osu x, tu možno rovnici (13) také psáti
+ezi] = 2axy.                                    (14)
+Odvodíme ještě transformační vzorce mezi  souřadnicemi bodů P a P0. K tomu ucelí nalezneme souvislost mezi úhly <JP a o. Rovnice kuželosečky 27 jest
+a rovnice kuželosečky k
+a2 &2 = O,
+a* x-+ b* y* — a* = 0.
+Z toho plynou pro průsečík kuželosečky k s rovnoběžkou y = (x -f a} tg <p, vedenou bodem A' ku h, souřadnice
+XIII. ﻿12
+1    ""
+a2 + b2 tg* rp
+a>
+a2 -f b2 tg2 q> '
+z nichž plyne
+= S(0   '
+(15)
+Obdržíme takto mezi souřadnicemi x, y bodů P a |, 17 bodů P0 další vztah
+z kteréhož plyne vzhledem k rovnici (14)
+a2 x2 — b2 v2
+a e'
+(16)
+Hledané transformační vzorce jsou tudíž
+a2 x2 — b2 y2
+=—*?;
+při čemž jest vzíti v obou posledních rovnicích současně bud hořejší nebo dolejší znamení. Tyto rovnice platí pro případ, že Z! jest ellipsou; kdežto, je-li 27 hyperbolou, musíme všady místo b2 psáti — b'2. Vzorce (14) a (16) možno též psáti
+1Í = ----XV,
+9
+kdež značí Q vzdálenost středu křivosti v bodě (a, 0) a Q' při ellipse vzdálenost středu křivosti ve vedlejším vrcholu (O, b), při hyperbole vzdálenost středu křivosti v bodě (O, b) pro hyperbolu sdruženou ku 27 vzhledem k asymptotám od počátku.
+12. Máme-li specielně při ellipse 27 přímky h dány rovnici a1 x2 — b2 y2 = O, tu splývá hQ s její vedlejší osou. Stanovili jsme zde právě napsanou rovnicí dva průměry ellipsy 27, které jsou kolmý ku stejným sdruženým průměrům a vidíme, že pro body těchto průměrů jest problém normál úlohou kvadratickou. Řešení, ku př. pro průměr ax — by = O, jest podle rovnice (13) následující: Sestrojíme na něm bod H, který má od O A vzdálenost e; pak má bod H0 od téže přímky vzdálenost 2 b; vedeme
+XIII. ﻿13
+rovnoběžku bodem P ku H HQ až k průsečíku B s vedlejší osou; pak určuje rovnoběžka bodem P ku B H bod P0.
+13. Je-li 2 hyperbola a popisuje-li bod P0 přímku, která jest kolmá k jedné z jejích asymptot, tudíž mající rovnici
+resp.
+« l + b 17 - C«,
+a L — b i = C*, popisuje bod P0 dle vzorců (14) a (16) přímky
+a x + by = + C e, resp.
+a x — by = + C e. Obráceně přísluší přímce q
+a x + b y — Gz, resp. q'
+a x — b y — Hz bodů P zase přímka q0
+resp.
+k nim příslušných bodů P0.
+Tím přicházíme ku (l, 2) značné příbuznosti ve svazku rovnoběžek, které jsou kolmý ku jedné asymptotě hyperboly 2 a ku stejné příbuznosti ve svazku, jehož paprsky jsou kolmý ku druhé asymptotě.
+Pro osové úseky xQ, x'0 na. x a. yQ, y'Q na y přímek q resp. q' a příslušné úseky L0, i;0; |'0, ^'0 přímek qQ resp. q'0 obdržíme z rovnic těchto přímek
+xn =
+G4
+xn' =
+L' =
+z kterýchžto rovnic plynou vztahy
+yň =
+fo =
+b
+G4 ""ftě*""'
+n=—
+% =—
+V
+6
+ř2ft
+Vztahy ty vedou k velmi jednoduchým konstrukcím naší příbuznosti; ony dávají tudíž též pohodlné konstrukce pro středy kružnic Joachhnsthalových, z nichž v následujícím některé vytkneme.
+XIII. ﻿14
+14. Z rovnice (13) můžeme nejprv ihned hodnotu /»0, jmenujeme ji p0> pro p = e odvoditi.   Platí tu
+P0 sin a) = 2 a sin (p cos rp,
+z kteréžto rovnice plyne následující konstrukce (obr. 2   Tab.  L):
+Odvodíme průměr h0 příslušný ku h, protneme rovnoběžku h' dodem A' vedenou ku h kružnicí s ještě v bodě S a vedeme bodem S rovnoběžku ku O A, která necht protne h0 v bode P0. Je-li P průsečík přímky h s kružnicí opsanou kol bodu O jako středu a procházející ohnisky kuželosečky 21 , pak jest P0 bod příslušící ku P', abychom tudíž sestrojili ku P příslušný bod P0, tu podle předcházejícího protneme h0 rovnoběžkou vedenou bodem P ku P P0 v bodě B^ a konečně vedeme bodem P rovnoběžku ku P BK, kterážto stanoví na h0 bod P0. Popisuj e-li bod P kružnici x1 + 3'2 = e2, tu popisuje bod P0 kuželosečku, jak se přesvědčíme, když z rovnice této kružnice a z rovnic (14) a (16) eliminujeme x a y, čímž obdržíme
+
+tedy rovnici hledané kuželosečky m, podle toho, je-li 2 ellipsa nebo hyperbola.   Tatáž jest ellipsou, má O A za. jednu osu, její střed má vzdálenost
+— od bodu O a jeden vrchol její jest v bodě A; délka druhé poloosy ellipsy
+z
+m rovná se a.
+Pro rovnostrannou hyperbolu splývá kuželosečka k s kuželosečkou 27; zde jest, s ohledem na dřívější označení, C průsečík výšek v trojúhelníku A A'B takže B a. C leží souměrně vzhledem ku A A'; naše vzorce transformační zní nyní
+xy
+1 =
+a kružnici x""' -\- y2 = e- přísluší přímka L = a.
+Tím zjednoduší se právě podaná konstrukce normál z bodu P ku rovnostranné hyperbole následovně (obr. 2. Tab. I.):
+„Na OP určíme bod P, pro O P — e, vedeme bodem A' rovnoběžku ku O P až ku průsečíku S s kružnicí s, který promítneme kolmo na vrcholovou tečnu v A do bodu P0; načež stanovíme bod P0 na OP0, který přísluší k bodu P z bodů P0 a P jako dříve.""
+2 xv 15. Jinou konstrukci (obr. 3. Tab. II.) bodu P0 dává vzorec rj =-----— .
+Určíme bod E na O A, pro který jest O E = 2 x a vedeme jím rovnoběžku ku spojnici paty kolmice spuštěné z bodu P na osu y se středem křivosti K
+XIII. ﻿15
+kuželosečky 27 příslušejícím k bodu A a dále jejím průsečíkem s osou y rovnoběžku ku O A; tato rovnoběžka protíná hQ v hledaném bodě P0.
+Konstrukce přímky A0 pro ellipsu Z! odvozením bodu C = h0 . h' z affinity mezi 27 a s jest z obrazce patrná; je-li 2 hyperbolou, tu sestrojíme v orthogonálně affinní poloze mezi 27 a souosou hyperbolou rovnoramennou ku kolmici z A na h příslušnou přímku, v jejímž dalším průsečíku s kružnicí s sestrojíme k této tečnu a jejím průsečíkem s OA vedeme k OA kolmici, jež seče h' v bodě C na h0.
+Je-li 27 hyperbolou, pak možno též snadno použíti vzorců (17) ke konstrukci. Zde přicházíme (obr. 4. Tab. II.) snadno k následujícímu důsledku:
+Rozpůlíme bodem Q vzdálenost K P, spojující střed křivosti K bodu A hyperboly 27 s bodem P, vedeme O Q a spustíme s bodu P kolmici na jednu nebo na druhou asymptotu', kolmici tu protneme přímkou O Q v bodě R\ pak Protneme přímku K R přímkou O P v bode Rt a vedeme bodem R± kolmici k uvažované asymptotě', tato kolmice obsahuje již bod P0.
+Neboť podle rovnic (17) možno považovati bod P za dvojný bod involuce na O P, která má v O svůj centrální bod, a pro kterou tvoří bod R^ a průsečík R' přímky OP s rovnoběžkou ku P -R bodem K vedenou jeden pár sdružených bodů. Protíná-li dále rovnoběžka ku O P vedená bodem K přímku P R v bodě R2, pak jest K R2P R' rovnoběžník a tudíž prochází přímka R2 Q bodem R'. V úplném čtyřrohu K R2 R Q jest bod P společný bod dvou protějších stran, druhý pár prostějších stran K Rz, Q R protíná OP v úběžném bodě a v bodě O a třetí pár v bodech R' a R^, protínají tudíž přímky P R, K R' a k nim vedená rovnoběžka bodem Rv osu x v bodech, které vyhovují relaci (17), čímž jest správnost naší konstrukce potvrzena.
+Při parabole možno uvažovati každý směr za kolmý k nekonečně vzdálené asymptotě; učiníme-li to, dospějeme opět k relaci odvozené v či. 6.
+XIII. ﻿* ﻿J, Sobotka:  K Joachimsthalovu řešení problému normál.
+TAB.
+X /|\\.....    \>
+Obr.
+Obr.  2.
+Rozpravy   České   Akademie.     Ročník   XX\.   (1912.)     Třída   II.     Číslo  13. ﻿* ﻿J. Sobotka: K Joachimsthalovu řešení problému normál.
+TAB.
+-7 ! ""v / i / \
+
+A'    E
+O
+/(K)
+Obr.  4.
+Rozpravy   České   Akademie.     Ročník   XXI,   (1912.)     Třída   II.      Číslo 13. ﻿\"

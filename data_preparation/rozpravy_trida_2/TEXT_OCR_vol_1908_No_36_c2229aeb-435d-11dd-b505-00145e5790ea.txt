@@ -1,0 +1,1119 @@
+"","x"
+"1"," ﻿ROČNÍK XVII.
+TŘÍDA II.
+ČÍSLO 36.
+O rozvoji hypergeometrických integrálů v nekonečnou řadu.
+Podá vá
+Ph.  Dr. František  Graf v  Praze.
+(Předloženo dne  8. května 1908.)
+Integrály liypergeometrické  differenciální  rovnice liší se od forem:
+i •i
+V, = a, f »"""" («', r) »""' (v, T] »T (í1, r] »""* (?', r) civ.
+;V2 = «»i \ »""' (>', r} »""' (r. r) »""' (r, r) &f (v, T) dv
+o
+pouze faktorem,  sestávajícím ze  součinu  míliových hodnot  elliptických funkcí.
+V následujícím chci řešiti otázku, jakým způsobem lze rozvinouti určité tyto integrály v nekonečné rady a získati tak explicitní výrazy jiro integrály hypergeometrické rovnice, platné pro všechny hodnoty nezávisle proměnné 9t~ (T).
+§   l.   O rozvoji funkce, jejíž logarithmus dán jest nekonečnou
+mocninovou řadou.
+Za tím účelem chci zabývati se nejprve problémem následujícím: Budiž dán logarithmus funkce nekonečnou mocninovou řadou, která konverguje absolutně a stejnoměrně i se svojí derivací v celém oboru ne-
+Rozpravy: Roč. XVII. Tř.  II. Čís. 36.                                                                                           l
+XXXVI. ﻿závisle proměnné, v němž tuto funkci vyšetřujeme. Koefficienty této řady mohou být reálné neb komplexní, mají však tu vlastnost, že od jistého indexu ;/ počínaje, absolutní hodnota kvocientu
+je menší než určitý, pod jedničkou ležící obnos.   Jak lze stanoviti mocni-nový rozvoj funkce této a jaké jsou jeho konvergenční vlastnosti ?
+Logarithmus funkce budiž dán řadou:
+(1)
+Rada (1) konverguje dle předpokladu absolutně a stejnoměrně zároveň s řadou, která povstane, differencujeme-li člen po členu:
+(2)
+d
+Y našem případě budeme výhradně zabývati se oborem nezávisle proměnné, jenž definován jest nerovností   | z | Z_ 1.
+Dle supposice konverguje tudíž řada
+a následkem toho konverguje původní i derivovaná řada stejnoměrně v každém bodu kruhu o poloměru l se středem z — O . Dále jsme předpokládali
+an +1
+= & <; l pro // >> s , kde s značí určitý index.    Píšeme-li funkci f (z) ve formě:
+je zřejmo, že první faktor pravé strany representuje celistvou transcendentní funkci nezávisle proměnné. K vůli úplnosti provedeme zde krátce odhad koefficientu jejího rozvoje, načež obrátíme svůj zřetel k faktoru druhému.
+XXXVJ. ﻿8 2.   Odhad koefficientů celistvé funkce transcendentní.
+Celistvá funkce F (z) dá se, jak známo, rozvinouti v nekonečnou řadu:
+(t\ z l- fla------  + . . .     + a, —
+'
+F (z) = c                                  -- l + R, z + R2 z* + . . . ,
+kde / —s— 1.   Diíferencováním obdržíme opět celistvou funkci:
+= fl, + 2 R, ~ + :J R, za + . . .
+a pro jednoznačnost rozvoje musí koefficienty stejných mocností se shodovati.   Jest tudíž:
+RI = tf,  ,
+2 R, = «, ST + a, , :\ R - a, B, + <,, R, + a,  ,
+(/ + 1) Bl+, - flt R, + ír.2 R,_! -f . . .  + o,-i R2 + ^ R, , .
+a všechny následující polynomy pravé strany obsahují týž počet členu, totiž í. Je-li ! a | největší absolutní hodnota koefficientů av , . . . at, bude patrně:
+Bt  < a ,
+(•i)
+Označme písmenem » index ])rvního koefficientů, ]iro nějž
+íí /
+= 0 <. l . w
+Dále budiž  B největší z absolutních hodnot
+^XXVI. ﻿Bude puk:
+B „l < — B t ,
+n
+(5)
+B„
+— ty B]
+B„ ] ] ,
+kde O < A1 <; / — l.   Zavedeme-li nyní v nerovnosti pro | /?„ + T j na pravé
+straně liorní limitu pro | Bn \, vychází:
++1
+atBtii         t —
+a t
+n+ l
+při ě:cmž
+Zároveň vidíme, že
+l —@
+[>- '^'!--<>-
+&
+tedv
+Dále jest
+(8)
+n + 2       l .11 + l         u           /
+Výraz v poslední závorce možno psali, jak následuje:
+l      r-i              l                      W ř             T-.
+Dokažme nyní obecnější nerovnost
+(ll
+platí-li tuto pro index (;/ -f- k); předpokládejme tedy, /e
+at
+XXXVI.
+J ﻿
+což právě odvodili jsmo pro k — l,  2.     Bude pak:
+r           i                                         i
+(t              \       (l  t                                     (l  t
+""+ *' *  ^  w + k + l   l  H -4- /e      r/   '     w 4- A' —
+at
+n
+a  ježto dle dřívějšího
+(!           fk_i   ,             fi             k_z  .                   a               a        t—k        k
+n 4-k—l^          u 4- k — 2  ^               "" ""íTÍT^     ~« """"       í     < 7/
+jest
+Výraz v poslední závorce jest vsak menší než a           t-l     ,        t—[                   l
+a jest následkem toho
+a pro k = t — 2:
+\ryšethijme nyní následující koefficient Bn + l . Z rovnic (5) vyplývá:
+« / B           ,                atB
+«2^ „r   v^1    ,    >/-a                    i?      n
+7ř + í      L « + ť — l         n + t—'2                 n + l        n l
+Povážíme-li, že výraz v závorce je menší než — (poněvadž poslední člen
+n   '
+je největší), vychází
+kterážto hodnota jest nižší než
+at         t
+n + i
+již obdrželi bychom dřívější úvahou; neboť -      = & •<. »/' dle rovnice (7).
+Zcela podobným  způsobem  lze pokračovati v odhadu koefticientú a odvoditi všeobecné formule, které bez důkazu zde uvádím:
+XXXVI. ﻿___________ fl>+1 lv+l
+n(n + t)(n + Zt)...(n + vt)
+(II)
+L'n -\ v l 4
+kdr
+k = 0,   l,  2. . . .    /— l.
+Jest tedy kvocient dvou po sobě jdoucích členu majorantu rady pn> funkci F (z):
+(n + k — 1) (;i -f / + k — 1) (n -f '2 t -f k — 1) . . .  (;i + v t + & —1) _
+Koefficient   veličiny  tj z  konverguje  patrně  zároveň  s — k nulle,
+neboť součet logarithmu činitelů směřuje k (— oo). Odhadněme tento součin zevrubněji. Poněvadž logarithmy jednotlivých faktoru konvergují absolutně, bude:
+\
+\
+
+
+n + k l.í       '
+12)
+n + k + t        n + k 4- 2 f                 w + A' + v /
+l                     l                               1_        l
+[n + k+ O2     (« + * -f 2/)2 ^         r (n + k + vty\
+l í      l                _1_                   l                                 J_
+:T l (n 4- ^)3      (^TF+lí3     («T""A + 2ň:j              ř» 4- 'k + v í):$
+Dle známé věty, kterou ještě později uvedeme, jest však:
+v f l
+r        dx
+)[n+k + x
+[n
+v+ i
+r              dx
+} \„ + ^qr^
+anel)
+(;t + /0B  ' jL^ + ^ + ^^^^^ + ^H-/^^^^-i
+r + i
+-t-f-        '/A
+*)*^j[«+*+(*
+— 1)
+XXXV l. ﻿Yyčíslíme-li   integrály,  vychází  pro ff í*^ 2,   vyneeháme-li   negativní
+členy:
+-L V        !
+a L' (n+k + j
+l
+l
+l
+(n + k)e        t G (G
+(n + k)""-1   '
+/. čehož následuje, že pro každou sebe vetší hodnotu v je součet členu pravé strany konečným. Jest tedy pro velmi velké v rozhodujícím jen prvý řádek rovnice (12). 1'rčíme-li horní a dolní mez, obdržíme pak:
+_
+n + k.~  t      ~~     n +
+t. j. pro velké v jest
+l
+l_     n + k+vt T g    n + k      '
+a píšeme-li index členu n-\-k-\-vt = ft,   jest poměr /»-tého   členu  majo-rantu k členu předchozímu menší než
+VP
+pro značné velké ^.   Od jistého termu počínaje konverguje tedy majorant rychleji než řada:
+l            _J_              _A
+(13)                :"" l l + i] u     ' z + rj2 (í     l z- + ^ p
+a u dlužno zvoliti tak, že
+Všeobecný člen řady (13) má tvar
+Differencujeme-li x-krát člen po členu, dává tento term:
+C"" 4- /) (ř4 + / — ]) • • • (í1 + / — x + O V/«~ ' s'*+>-x, a poměr k termu předchozímu je tudíž
+11  +  7             _   '
+Je x.řejmo, že absolutní hodnota tohoto podílu není všeobecně menší jedničky.  Aby tomu tak bylo, musí stávati nerovnost:
+(15)
+fr (l--y!
+XXXVI. ﻿Není-li tato relace splněna pro / = O následkem piíliš vysokého řadu derivace x, dlužno tedy pokročiti k členu o vyšším indexu. Vždy však je možno, pro libovolné, konečné x určiti konečné /, by splněna byla podmínka (!•"")), boví-li (i nerovnosti (14). Původní řada representuje tedy jednoznačnou funkci, která pro každou konečnou hodnotu ne/ávisle proměnné /ustává konečnou zároveň stí všemi derivacemi konečného řádu, tedy celistvou funkci transcendentní. Jakožto mocninová řada konverguje stejnoměrně dojista pro hodnoty | z = l, kterýžto případ nás později bude nejvíce zajímat.
+$ ."",.  Rozvoj funkce G (z) v nekonečnou řadu.
+Přistupme nyní k určení řady pro druhý faktor G (z); duka/ konvergence je zde obtížnějším následkem okolnosti, že koefficienty rozvoje dány jsou polynomy, jichž počet členu stoupá s indexem do nekonečna. Položme nejprve zcela formálně:
+= l + A, - + As + l ;+1 + As + , ;+2 + - -
+Poněvadž derivace  řady v  exponentu  konverguje dle předpokladu absolutně a stejnoměrně v oboru | z \ -- l, bude
+(17)   G' (z) == [as z>~1 + as + l z* + cis + , z*+i -j-    ] [ l + A3 ^ + A^ ^ ~^\ + • •] = .4, 2»-í + .4sM - + As+., ^ + 1 + . . . ,
+při čemž tedy vlastně předpokládáme, že derivovaná řada rozvoje konverguje stejnoměrně. Srovnejme nyní koefficienty stejných mocnin nezávisle proměnné:
+As = a s
+(18)
+as A s + 1          cis + 1 As
+TTT     V~
+asAs + ->         í/s+ i A. n        as ,2
+ASt+2=     ""19                 _    ,     i
+-S -)- ů                S -f   l                          S
+XXXV l. ﻿a všeobecně, jak /řejmo:
+kde pra-vá strana obsahuje (/ — ""2 s + -) členu.   Číslo 5' zvoleno tak, že od prvního koefficientu počínaje
+Jest   tudíž:
+(20)
+Odhadněme nyní sérii koefficientll A.2s , A.,
+, -  ,
+2 s — -l
+&*
+Zavedme nyní /krácené o/načení ]>n> součet:
+s        s -f-
+= 5(
+.s H- .v
+kde .v je vždy číslem celistvým.   \'ý/nam hořejšího indexu  po/.náme ihned při odhadu vyšších koefficientu.  Mn/eme tedy psáti:
+XXXVI. ﻿lit
+\An\<**Š™ + *+t
+(21)                          |-<ii.+t !<«•«• S?'+ «»•+»,
+Podobným způsobem   pokračujeme ještě pro sérii  J:,s,  A3 4s__i ;  obdržíme tu výsledek:
+.                 . .
+2 s — l                                    s
+— 0S + 1 . a + a
+-"""" ®2 fa2 5(1) + « 2 s       L
+— & '+- . a s
+:3s-2
+-+4]+<
+uneb zavedeme-li.-'
+od)             od)                 od)
+»>(2) = li- +___í_____u —l!_____L
+•         2s        2s+l        2s+2
+2 s + x lze rovnice tyto psáti následovně:
+rt:í « S
+2)
+(22)             | A8s+t \ < řf:l W- .Sf + a1 &"" + - S[l[., + a
+XXXV l. ﻿11
+Rovnice (21) a (22) stačí k odvození horní rneze pro koefficienty o libovolném indexu. V další úvaze zavedeme analogické sumy třetího, čtvrtého atd. rádu; jež dány jsou rekurrentním výrazem:
+.(.-l)             (•(L-!)               L'<2-1)                            o(S-l >
+/   ,\             *-^n                                *-J i                                   fc^.»                                                        *J _.
+""    +
+gs         gs+ l        gs + 2               gs + x '
+a jichž odhadem se později obšírně budeme zabývati.   Řádem sumy rozumíme celistvé číslo g.
+Pohlédneme-li na pravou stranu rovnic (21), (22), znamenáme v jich složení jednoduchý zákon, jenž dá se všeobecně vyjádřiti formulemi:
+a
+* s*-* 4- • • .
+kde /o <; s, doplníme-li definici (23) pro součty 5 ještě rovnicí
+5(0) = l .
+X
+Tyto horní meze pro absolutní hodnoty koefficientú naší řady jsou dokázány pro As, As + í ..... 44s_:. V následujícím chceme dokázat jich všeobecnou platnost a sice nejprve pro koefficienty, jichž index jest násobkem čísla s a posléze pro koefficienty ostatní. Avs budiž první koef-ficient, jehož horní mez jsme direktním výpočtem neurčili. Dle všeobecné formule (1(J) jest
+.                        s
+*   V*  ~    ~
+fl.c Atv_l) s
+)S        (V— L) S— l
+U'dV                                    4                 —""—
+a &           ,   ,                               a <st~
+v—l)s — l  '    ""   !      ! !        (v— \)s — 2
+'-2)s
+(v^W^-f '    (v-"")i-1
+(v — 2) s — 2 íř
+(v-3) s +1
+(v - 3) s + l   !      '    '
+9 c         i
+-i o           i
+\XXV1. ﻿1'oužijerne-li pro druhý řádek tohoto výrazu označení / (v), lze psáti iratčeji:
+a
+A9t
++/(*) + 6' / (v — 1) + «-> / (v - 2) + . .
+Stačí patrně určiti horní mez absolutní hodnoty polynomu / (v), v nichž se vyskytují jen členy dříve již vyšetřované. Uspořádáme-li výraz tento dle mocnin zlomku <#, obdržíme výsledek:
+^'(»-3)               ^-ď-3)                            L(»-»)                 oď-:!)
+l / („, l <«.-,«. [ -^ + _I   +.. +   -_ - - —1^ l
+y-l)s—2      (v-l)s—l
+f   S                        S                                            ^>                              O
+!        <v-4)s       ,         (v    4) s+1         i                     (V-3)s-2         ,         (V-S)s-l
+/------ó\-----r ,------TT—TT + ' •     i   /------ň------T, + /------7T------T
+L(v — 2) s      (v — 2)s+l                (v—1)S—J      (v—-Ijs — l
+_L_+_!__].
+L    _i
+Dosadíme-li tento výraz do pravé strany (25) postupně pro naznačené hodnoty argumentu, vychází konečně:
+(V — l) S      ""
+i   av- 1 ®
+r_5i
+L(i» —5
+- +
+:(y-3)                                      c(»*-:i:
+C _    l
+i - +         + - -          — ----- \-
+-2)i        (v—2
+r ^r        5<r""                                   ^""s-""í       ^*s"" \
+'('V  ' 6""4 L (v — 3) s """" ""(v — 3)~s + l ""           "" (v — iFs^T ' "" (v — l)s J
+(v — l)s — l        (y — l)s I)~s —l  ' "" (v—l)
+-((I)
+4- a
+-
+a následkem toho platí první z nerovností (24-) pro každou hodnotu indexu v. Píšeme-li pravou stranu ve  touně sumy, je tedy všeobecně:
+(20)
+XXXV1. ﻿Tím redukován odhad obnosu koefficientú o indexu v s na odhad této sumy, sestávající pouze z v členu. Yyšetřme nyní ještě horní mez pro koefficienty AV!i+k, při čemž k •< s.
+S+fc
+\v
+,
+"" ""
+>— l)S+fc —
+,
+-u- 4 2 -   (1) _ 1)s — 2      ,               ,         2s+*_
+(V —  l ) S —2 ""                      (V — 2) S
+— 2) s
+»— 2)s+*+i ""as— i
+""s—
+2 s- l
+a dle dřívějšího označení:
+,
+
+tf       '
+(v—l)s
+/ (3)
+r.
+v „*r   *
+L (v— 1)""s -f""k        (v — 1) s +
++a»-i 0,.,-ij  _^Y)*i+j +^(v-- líT-
+C'
+(_
+(v— L) s
+C(f — 3)
+h (v —2)sJ
+HO)
+> —l)s
+«^(0)
+(v —
+(^(0)
+s
+aneb konečně
+V ""l
+-Jy
+XXXVI. ﻿14
+z kteréžto relace obdržíme (26) pro k = 0. Formule (27) udává tedy všeobecně horní mez pro koefficienty majorantu naší řady (1(5) a bude vvcho-dištčm dalších úvah, při kterých se nám bude jednati o to, pro tyto ještě velmi složité sumy provésti odhad vzhledem k indexu dotyčného termu.
+Obraťme nyní   svůj   zřetel   k vyšetřování řad .S'*"".
+S<»=:1     _L      _L
+<•     ""s         S 4r l         s + 2
+c('-i)	°0        ,            ^1	i
+C* (-Í)	2s        2 s + 1 SC2)                     S(2) _ ro   i     '	s
+...   +T
+První z těchto sum vzrůstá, jak známo, pro nadmíru velké .v jak je tedy obecný člen druhé řady
+Igx
+2 s + x a pro dostatečně velké .Y vzrůstá S'2) jako
+(' lex             l
+i    a__// Y —        / a - v e t c
+.)     x     '         2
+Již tento zcela povrchní odhad učí, že řady tyto jsou veskrz divergentní, vzrňstá-li .Y do nekonečna. Nám se však jedná o to, pro každou, tedy i konečnou hodnotu argumentu x, jenž je vždy dán číslem celistvým, udati dostatečně nízkou horní mez.
+K odhadu řad použijeme následující věty:
+Budiž v = f (x) spojitou, kladnou funkcí, rovněž tak f1 (x), f.2(x) které mimo to nikde nevzrústají. Je-li pro všechny kladné, celistvé hodnoty .Y:
+bude
+X + l                                  .C                              X + l
+(28)                     j /, (t) dt<2*f (.Y) < J /, (t—l)dt.
+o                             o                         o
+Správnost této věty lze snadno geometricky odvoditi, pročež důkazu neuvádím. Za účelem odhadu součtu první řady S lze položiti přímo
+/, (x) =
+.S  + .Y   '
+nebo zde ubývá vždy i funkce / (.Y) pro vzrůstající argument. Avšak sumy druhého a vyššího řádu nemají více té vlastnosti, že každý člen jest menší předchozího, nýbrž členy řady nejprve vzrůstají k jistému maximu,
+\\XVI. ﻿jehož index se zvětšuje zároveň s řádem dotyčné sumy, načež teprve pak jich hodnoty ubývá. Kdybychom tedy rozšířili nějakým vhodným způsobem definici těchto řad pro libovolné, kladné x, nelze formule (28) v této formě použíti, jelikož derivace funkce nemá vždy stejné znaménko. Mimo to jest nám se poohlédnouti po takové formuli, která nestává se libovolně často provedenou iterací příliš složitou, jak to vyžaduje postupná konstrukce součtu S® .
+Představme si, že jsme nalezli   pro veskrze   positivní   funkci F (x) nerovnost:
+(29)                                 F (A-)
+kde / (.v) :> O a kde integrál vždy podrží určitý význam. Je-li   dále tp (x) vždy kladná a všude vzrůstající funkce neodvisle proměnné x, bude:
+O funkci pravé strany nelze v obecném případě rozhodnouti, vzrů-stá-li stále zároveň s neodvisle proměnnou čili nic, nebo vzrůstá čitatel i jmenovatel. Připojíme-li však na obou stranách integrál
+o
+í
+kde C značí libovolnou konstantu větší než x, obdržíme:
+C                                            x + l                                    C
+(30)    4L -
+r                                        O
+a derivace pravé strany dle proměnné x jest
+f(t—I)dt
+tudíž vždy záporná, ježto dle předpokladu <p' (.Y) >• 0. / (.v) > (). Pravá strana nerovnosti jest tedy funkcí nikde nevzríistající a následkem toho lze užíti formule (28). Z této vyplývá:
+=
+Jf
+XXXVI. ﻿Tímto způsobem přibyl na levé straně ještě nový term, jehož dolní hranici však lehce lze určiti.  Neboť differenciální kvocient integrálu
+c « tt
+o
+X
+dle .v je vždy záporným.  Je tudíž dle relace (2S)
+a odečteme-li  (32)  od  (:il):
+O                            II                                       I)        /—l
+aneb, sloučíme-li poslední dva integrály:
+\T kteréžto relaci konstanta C se více nevyskytuje.   První člen pravé struny obdrželi bychom dle dřívější methody, kdyby
+z+l
+l
+9 (-v)
+byla funkce vždy ubývající; za daných okolností stojí však na pravé straně ještě positivní druhý člen.
+O funkci  qp (/) jsme předpokládali, že s argumentem stále vzrůstá; jest  tedy
+I)osadímc-li nyní za tento integrál do  (>\'.\) výraz na straně  pravé dají se oba    integrály sloučiti a  konečný výsledek zní:
+
+o                             o
+Je zřejmo, že; tato formule hodí se dobře k iteraci, ježto pravá strana má tentýž tvar jako v relaci (29), je totiž dána opět  utřitým integrálem
+XXXVI. ﻿17
+od O do  (x + 1).   To seznáme ihned, applikujeme-li odvozené výsledky na náš případ. Položme nejprve v (28)
+l
+s -f x  '
+bude pak
+; + l
+<1)             l      .              '
+s        s + ]        s + 2
+dt
+S  + t— l
+Kdyby náhodou bylo s — l ,   stačí pro  tuto  první  řadu   odloučiti od sumy první člen; v naší řadě však předpokládáme vždy s > 1.
+Zvolme dále
+(p (x) = 2 s 4- x ,
+což vyhovuje žádané podmínce.  Pak jest pr<>
+d t
+F (x) = S    <
+J
+s -M — l
+dle (34): (315) ] a podobné pro
+2 s 4- 7    i         T
+dt
+dt
+(.v) = 3 s + .v , F (.v) = S1'2' :
+a všeobecně,  jak lehce   přehlédneme:
+(38)
+«   = V; -JU S'-1' < f -  -J
+a   41 ^sf^ ;    J §s+
+/+i                 *+i
+dt        C      dt
+Rozpravy: Roč. XVII. Tř. [L čís. 36.
+XXXVI. ﻿18
+kde tedy na pravé straně stojí ^-násobný integrál. Tím jest odhad sonetu našich rad převeden na mnohem snadnější odhad těchto mnohonásobných integrálu.
+Vyšetřujme nejprve
+= [y 's1 -aT^r1 +'«T~r/s -ší^r
+aneb konečně:
+:3 (O < ^ (O = ~] ^2 |^-ť + A (^ - 1) /? 4^^; -
+Dále jest: t+i
+•'> .s -f / —!
+:>s+/ — l ;> ,s — l
+neb
+(40) í
+Poslední dvě relace (:>!)) a (40) mají formu,  / ní/ mo/no souditi na ])latnost jednoduchých rekurrentních formulí ]>ro polynomy J^(f).
+x x xv i . ﻿Předpokládejme, xe A'„ (/) < •/„ (/), při eVinx
+Jn (fl  -        ' ,     V    ""--±*    + /,((»_ 1) . - l) .      -i-, ,    /..-      l   ±l±f  +
+;/ !          ;/ s — l                                            w — l!               «s — l
+s +
+
+(42)
+-/«, i (O
+l'-    -
+J (« + Ds
+'•* ""    \*    i""  S           )  '
+i)'';íhv  laktor pod  integrálem ji- polynom veličiny
+
+__         ,       , ns—1                    (n + l).s— l                ns—l
+a  tiahradíme-li mocniny logaritlimu pnvodnílio mocninami strany ])r;ivé. možno psáti:
+(43)
+«.'.' s       (n -f- i) s —l
+W S
+f- ./„_, (s— L)/g-!
+(« + 1) s
+'l
+I)osadíme-Ii tento vvnu pod integrál do (4'2], he integraci ihned provésti ;> dolní n,e-/ dá x;i výsledek nnllu. Označíme-li xávorky ])ravé strany jxislední rovnice zkráceně L] (s). L., (s) . . . L,, (s], bude:
+J„+] (O =        , . í '^' '
+l a"" - l    V
+Ji — l !     *""         (» + L)s-
+1         (;/ +1) s-M _,_,   n ,    l"" -;- I) s+J
+L' !         (n + \)s — l"" ""              S (n + 1)S—l '
+XXXVI. ﻿Dlužno ještě dokázati, že L, (s) =Jí(ns— l), L2(s) = J.2((n — l)s—l),... LH (s) = Jn(s—l)
+Z obecné rovnice (42) však vyplývá:
+/                  Jh (t + s)
+aneb
+a integrujeme-li:
+Za příčinou určení integrační konstanty Cř+1 položme s + / + l — - O z toho následuje:
+Jest tedy t („s -l) = Ig (""^SU!7Í- + -7. ((«-!)* -l)
+ns—l
+J., (n — 2)s —l)= L.2(s) ,
+následkem čehož platí rekurrentní formule (26) zcela všeobecné, neboť platí pro Jlt + i, j(í-li správnou i)ro každý menší index. Zároveň je vždy:
+XXXVI. ﻿dt
+dt
+a ježto máme pro výrazy Jn (x) všeobecný rekurrentní vzorec, jest tím určena horní mez pro každý z mnohonásobných integrálu K;i (x).
+Z rovnice (41) vysvítá, že pro velmi značný argument i a nízký index n padá nejvíce na váhu prvý člen pravé strany, kdežto pro vysoký index a malý argument rozhoduje člen poslední.
+Avšak ani výrazu J„ (x}, které jsem zde uvedl pro jejich zajímavé složení, nelze ještě použíti k odhadu koefficientú Avs+k, neboť formule (27) stala by se příliš složitou, kdybychom nahradili součty 5(;?) polynomy, pro jichž konstrukci máme jen rekurrentní vzorec. Oproti tomu obdržíme však velmi jednoduchý výsledek, spokojíme-li se odhadem následujícím:
+dt
+dt
+l
+kdd tedy vynechán jest negativní term, pocházející z dolní meze integrálu. Podobně bude:
+3 (O
+dt
+3 s + / — l   2 ! a všeobecně, jak bez dalšího zřejmo:
+l   . ,  3 s + t — l
+/ (7-              -.
+X~T~     ""X
+l
+8s
+Potlačené termy jsou patrně nižší mocniny logarithmu a jest tudíž tato formule nejpřesnější pro velké t a malé ;/, jak též seznáme, porovná-me-li tento výsledek s relací (41), má však tu výhodu, že při své stručnosti je správnou pro libovolné hodnoty argumentu / i indexu ;/.
+Vraťme se nyní opět k relaci (27) a stanovme horní mez na pravé straně se vyskytujících součtů na základě nerovnosti (45). Tím obdržíme:
+(v_~l2)_s_+ k-L!   §            ""T-^nT
+(i1 — 2) s +it
+S— l
+XXXVI. ﻿a  dosadíme-li hodnoty  na straně pravé:
+&b            ,(v— l)s+/o            ,   &s+k  ,        ,(v — \)s+k  ,
+l -|      A<^ a1'                /o"" — ' v                         _L_ /j» — i _            /ov — - v
+*..+•!<«   v_,, <g          s_1               v-2r           s-1
+(47)
+QíV—   ^X+fc
++ a«-           -
+l !
+(y    __      H      S     ""l-
+(
+s — l
+,                 l      řř    ,   (v— -I).s + /i'         l      (/
+— /i /a v — 1 s+i- l i   i ___            /„ v
+l!   &          s—\          2!   0
+s-1
+
+_      _/ev-2
+_         (»-v*'
+<>  v Chci nyní určiti limitu pravé sťanv relací (46), tedy lim
+v=*    v!
+Dle  Stirlingovy rovnice jest
+i
+v +
+lim i/! == V2íE . lim ť —"" v     - .
+tudíž
+,.
+lim -   — = lim
+»»=»      \ '2 7t V
+r c is v -\
+[-; ]
+= 0
+a sice zmizí tato limita následujícím způsobem: Značí-li e libovolně malou, positivní veličinu, jest, jak známo
+Lze tedy psáti
+r      lgvv       r         i
+lim -           lim -
+v!
+r hm
+/;'"" ""     i  ,            l ,
+•  \-2nv     \v
+jest ještě nekonečně malou veličinou libovolně vysokého řádu. Koeffici-enty mocnin veličiny-j^-ubývají tedy nadmíru rvchle. I)oj)lňme pravou
+stranu nerovnosti (47) v nekonečnou řadu, čímž nabudeme asyni])totické formule, která je tím přesnější, čím větší je index členu Avs+k. Patrné stojí ])ak v závorce rozvoj funkcí! exponenciálně, platný pro každý argument a bude tedv:
+,     <^ \ -^vs+k \ ^^
+a tím spise:
+XXXVI.
+, ﻿Položme ještě
+(49)                       &       M , 03 (.s — l)-w = c , v s + k = n
+a možno pak ])sáti:
+(.-,0)                                           An\<C«P*,
+kde tedy c značí určitou konstantu, GJ pak kladnou veličinu.   Derivován, řada <V (z) konverguje tudíž rychleji než řada
+Podíl koefíicientu této rady jest
+&
+a zvolíme-li //. dostatečné velkým, konverguje sled koeťíicientú jako geometrická řada s kvocientem & Derivovaná řada konverguje tudíž absolutně a stejnoměrně pro | z ' \ a integrujeme-li člen po členu, obdržíme řadu pro G (z), pro jejíž koefficienty platí nerovnost:
+(51)                                           ""
+Tím prokázána jest legitimita processu, kterým jsme určili koefficienty A„, pokud se týče differencování původní nekonečné řady člen po členu a lze tedy tvrditi: ,,Raela pro'funkci G (z], jejíž logarithmus jest dán pro obor nezávisle proměnné | z """" l absolutně a stejnoměrně konver-
+x          -/                           /7""+!
+gentní  mocninovou  řadou \/a. ~.-, ve které              < © < l, konverguje
+v témž oboru nezávisle proměnné též absolutně i stejnoměrně a řada jejích koefficientú konverguje rychleji než řada
+kde to značí v rovnici  (49)  definovanou  veličinu.""
+Řada pro funkci (r (~) muže být dle známé věty jen řadou Taylo-rovou a ježto její koefťicienty jsou polynomy v koefficientech řady, kterou dán jest její logarithmus, plyne z toho jednoznačnost odvozeného rozvoje.
+§  4.  Taylorova řada pro  funkci f (z).
+Pro každý z obou faktoru funkce / (c) odvodili jsme mocuinovou radu, která konverguje zároveň s derivovanou řadou v oboru nezávisle proměnné | ~ | '^ l- D1(V Cauchy-ho konverguje tudíž součin obou řad též absolutně i stejnoměrně a následkem jednoznačného určení koefficientú možno určiti přímo rozvoj součinu dle předešlé methody. Položme
+XXXVI. ﻿24
+;r>2)
+fu       z'
+4' ""> ~r ' \__  i        _ (-<
+i*J       —    *                    ----   *-T
+C2 ** + C, *»
+Differencujeme-li   člen  po  členu,   což,  jak nyní  víme, je dovoleno, vychází:
+aneb
+C(} = l
+C/--i = #i C(],
+(53)           2 C, = rt, C\ + rto CH ,
+n C„ = í/i C„ _ i + a-i Cn_2 + . . .   + <""''< — i C| + «» C0 .
+. ^j. Je zřejmo. že C„ jsou polynomy koefficientů a„ a jedná se o vyšetření zákona jejich složení. Tu možno především dokázat správnost relace
+. ^ Cn
+(54)
+j = l , 2 , • • n — l , ;/ .
+máme-li na zřeteli, že C„ obsahuje veličiny a,- až ])o index n incl. Tvoříme-li totiž differenci
+->/^
+„_ř_/^ = V.
+vychází po jednoduché redukci s ohledem na rovnici: rt,      —        \- rt2
+c rt
+vztah následující:
+a   jest   tedy rovnice  (54)  s])rávnou pro C„,  ])latí-li  pro  všechny   indexy
+nižší, což možno na př. pro n = 3 lehce výpočtem  dokázati.
+Lze tedy psáti:
+C    rto                                                                  <?   rt„
+^ C„    _ ~
+~~z.        — ^ a
+Násobme tyto ro\'nice jxistupnč faktory rt, , rt2, . . . rt„ , a tvořme jich soncet. Obdržíme  tím
+XXXVI. ﻿Tuto relaci lze lehce převésti na formu Kulérová theoremu pro funkce homogenní.  Nebo  zavedeme-li nové nezávisle proměnné:
+a, = tí.
+bude
+~\ r            ^ r
+oUn           ^ L„
+,             L    (    H                                          C   Ofl                   ~
+F- «.. •=-------h ...+«/, -— = ;/(„.
+C- ttj           ""3 «.,                           9 «„
+Koefficienty C/ jsou tedy homogenní funkce veličin u, a dlužno je zařídit tak, by každé «,- vyskytovalo se jen v mocninách, jichž exponenty jsou násobky indexu dotyčné veličiny, ježto C,- obsahují «/ racionálně. Tím určena je forma hledaných polynomů až na číselné koefficienty. Tyto jsou sice stanoveny relacemi (55), jest však možno udati návod pro indepen-dentní určení koefficientu C„ pomocí method kombinatorických. Tvořme postupně první čtyry z hledaných polynomů:
+C, = í/, ,
+/   111
+3!
+4!
+l   (a^a,       *•»._!   (^V 2! V l /   2        l    3       2! \ 2 /
+Ze složení   těchto   výrazu   dohadujeme   se   platnosti   následujícího zákona, který dokážeme pro všeobecný případ:
+Mysleme   si íí,, a.,,..   a„  jako  prvky,   z  nichž tvoříme  kombinace s opětováním elementu o součtu n °C"" . V každé z těchto kombinací, které
+X = II
+považujeme za součiny, nahraďme prvek a, veličinou —:'- a připojme mimo
+to číselný koefťicient, jehož čitatel je jednička a jehož jmenovatel rovná se součinu fakult, jichž indexy jsou resp. exponenty v kombinaci vyskytujících se elementu. Součet těchto udanými činiteli opatřených součinu rovná se koefficientu C„ .
+Větu  tuto dokážeme  nyní pro index n 4- l,  předpokládáme-li  její správnost pro indexy předchozí.  Budiž tedy všeobecně:
+'«'
+XXXVI ﻿kde 27/i'y'j. ni /nací, že součet dlužno tvořiti pro všechna, positivní celistvá řešeni (incl. nullu) neurčité rovnice:
+<7,     +   2   (7.,    +    3  flg   +    .   .   .       -|-    ///   (l,,,    =    II!    ,
+neboť obdržíme tím, jak x.rejmo, všechny možné kombinace úplné řady pvvku íř, . í/o , . . . a,,, o součtu /// s oj)ětováním elementu. Pak jest dle definice:
+(""'•V"" (M'"". .(""-V""
+\ p J   \     /        \ u /
+í,
+(""""V""    /_«. , y-p!    '                                        f«.+,.
+2jk'k=n'   '
+První suma.   ])r;ivé   strany  obsahuje   dle   jii-edj)okladu  \'šeclm\' 'T"".
+s — n
+druhá pak \'šechny ""C""       etc. Z toho následuje, že n;i pra\'é stra.ně ro\-nice
+s= n       l
+(5<S) jistě   vyskytují se všechny m<./né  ""C""     , neboť   jsou   tvořeny všemi
+.v =«   'l
+/{/usoby, jakými vůbec mohou povstati. Oproti tomu muže všik určitá kombinace vzniknout vícekrát a jedná se te:ly o určení jejího koefficientu. ^Mysleme si určitou kombinaci o součtu w -(- l :
+(59)                                                      i?7/ a]q a]r .
+V                                                                                                                        />        q        r
+při čemž
+l3 h -r- ? /,/ -u r/, + ...   = « + l ,
+a. kde />, ^, r, . . , //, , ;/? , /,. , . . /nací určitá kladná čísla. Kombinace tato povstane sloučením vždy nového prvku s některou kombinací nižší a sice:
+prvku (i/, s kombinací aj3         a '   a    .    . \ />-té sumě pravé stranv,
+p                         <i      r
+1
+neboť každá ze sum pravé strany (5S) obsahuje dle předpokladu všeclmy kombinace o určitém součtu a tedy i onu, jež dává předepsanou kombinaci (•"")9), doplníme-li ji pr\-kem přc-d sumou co činitel se nacházejícím. Zbývá tedy jen tvořit součet koefficientu. Máme-li na /řeteli, že v kombinacích o nižším součtu než (// + 1) /avediMiy jsou prvky, děleny svým indexem,
+obdržíme pro kombinaci /6-té sumv koellicient              .
+
+;'   l   /   __l l  1   '
+IP- Iq        ' • //••  •  •  •
+r
+i i / i / Jlff //>•/,/•/>•     i....
+XXXVI.
+. ﻿
+27
+/ dh V/'/ a „ V'7 / ""»• V'
+Vychází tedy co číselný koefficient součinu l        l   l- -l   l-     )   •
+\      s    \       J     •.   v /
+součet:
+_     *              . + .               ť/                 + .           -L.        ,
+/,-llfrt /,!...        /,!/,_!!;,!...        /,! /,! /,-! ! . . .
+/   l   /  l  /  !                   l   IP         * •'</    '                                  '             i   l  / l i l
+//>• Iq- //•••••    L                                                               J            //>• .'</• /'••
+a jest  tudíž
+/_«, J*(a, J»        (  an+^Ý*1 y        p J   \ q J         V. 7ř + l/_
+' u 11                                      • |                      • |                                        •     |                        >
+čímž platnost uvedeného dříve /úkonu pro přímé tvoření polynomu ('„ je všeobecně prokázána. Počet členu polynomu C,• , jenž rovná se počtu kombinací ""('• ' , jest dán dosti složitou formulí, které zde neuvádím *)
+Tím je úplně určen rozvoj funkce, jejíž logarithmus je dán mocninovou řadou.
+í; "").  O rozvoji funkce,  jejíž  logarithmus určen jest trigonometrickou  řadou.
+Výsledkem dosavadních uvalí jest  Tavlorova řada  funkce
+(60)         /(:)=/""^«-ř«.ř--   =Co + Cl2 + C2^ + ...,
+a  tato konverguje absolutně a stejnoměrně pro obor ne/ávisle proměnné
+1*141-
+Položme nyní (lil)                                                      z = e""P ,
+tak že pro reálné hodnoty proměnné (p /.ustává z v oboru, pro nějž funkce / (z)  dá se rozvinouti  v řadu   (<ÍO).    Bude pak:
+a píseine-li   (— • tp)  místo (p:
+,     ' V         ,-    '• 'V          c    3 i (f
+((i:}) c""1~T~                        :!          =C0 + C1e   '>-fr.2r  2'*-f C, <?-»'""» + ..
+Jak di'í\-e  bylo  doká/áno,  kon\""er^uje  nekonečná  řada  absolutních hodnot :
+*) Čí. St.mdurlKT. Combinatorik, p^.  157.
+XXXVI. ﻿konverguje tedy pro | z \ = l i součin obou řad absolutně a jest dovoleno cleny uspořádat zcela libovolným způsobem. Patrně vychází, sloučíme-li koefficienty stejných mocnin, jež jsou rovny koefficientúm veličin sdružených:
+c    ^             = [Cj + C; + C\ + ...] + 2 [C,, (\ + C, Cs + C2 C8 + .. .J cos 9)
++2 [C0C,+ CtC,-t- C2C4 +..] cos á c^ +2 [C0Ca+ C4C4+ C2C5+ ..]cos:) qp +.. , a položíme-li
+(64)
+v vchází konečně:
+* C0
+Tvoří-li však koefficienty trigonometrické řady absolutně konvergentní řadu, konverguje dle známé věty trigonometrická řada stejnoměrně. Můžeme tedy tvrditi: ,,Fourierova řada funkce, jejíž logarithmus jest dán řadou
+oč
+3 S""""
+COS ] ff
+1
+konverguje absolutně i stejnoměrně pro obor nezávislé proměnné
+O < g> <_ 2 n
+.1 její koefficienty dány jsou relací (Í54), kde C, značí dříve uvedené veličiny."" Že řada 2\Dk konverguje, je zřejmo již z toho, že součet její rovná se čtverci řady absolutních hodnot j Ck \ .
+00                         j
+Obrátíme-li v původní řadě V' a/ - ~.- znaménka všech  koefficientu
+i        •'
+a, , nemění se tím patrně nijak úvahy konvergence se týkající, ježto měli jsme stále na zřeteli jen absolutní hodnoty těchto veličin. Označme pro tento případ koefficienty písmeny C/ . Lze pak snadno udati ihned rozvoj reciproké hodnoty dané funkce. Tvořme dále součin následujících dvou řad:
+c '                = C„ + C, c' v +C, c- ' <*> + C3 c:'""V + ____
+Z ,  ''   ' ' V
+c                =c0 -i- r\ c 'v + r, c -""f + č3 c 3í» + . . .
+Mezi  koefficienty C„ , ('„ stávají  relace:
+r„r0 = i, r„r, + r, r„    o. c0č2 + r, r, + r2ř„ = o. etc.
+XXXVI. ﻿•29
+
+Ježto obě řady konvergují absolutně, má tuto vlastnost i jejich součin, ve kterém možno termy reálné a imaginární části psáti libovolným pořadem. Především obdržíme:
+[Č„ C, + ď C, + Č, C, + . . .] [C0 C2 + d C3 + C, C4 + . . .]
+-' v + [CnC, + C, C, + C, Č3 + --<* + [Cn Č2 -f Ct C;j + C2Č4
+Označme opět zkráceně'
+Jest pak
+l                                O
+a odloučíme-li reálnou část nezávisle proměnné od pomyslné:
+cos /e <        ť
+, — Ft) sin
+Na základě dříve použité věty l/.e tento výsledek formulovati následovně :
+,,Fourierova řada funkce, jejíž logarithmus jest dán řadou
+sin j <p
+--
+konverguje absolutně i stejnoměrně pro obor nezávisle proměnné
+O Z_ y Z_ 2 n , a její koefficienty jsou určeny relacemi (()(>).""
+Je-li nám konečně určiti rozvoj pro funkci, jejíž logarithmus dán jest obecnou řadou Fouricrovou, lze tuto vždy považovati za součet řady sinusové a kosinusové. V součinu vyplývajících řad jest pak dovoleno následkem absolutní konvergence nahraditi součiny trigonometrických funkcí sinusy, resp. cosinusy transformovaných argumentu, takže obdržíme za výsledek opět absolutně a stejnoměrně konvergentní řadu trigonometrickou.
+DCJUK- tomu, že jest nám rozvinouti v trigonometrickou řadu funkci, jejíž logarithmus určen jest součtem řad:
+xxxvi- ﻿Í""!
+cos
+i) <'<>* j <r
+/ nichž každá má tu vlastnost, že absolutní hodnota kvocientu           jest
+Ctj
+od jistého indexu menší jedničky. Rada pro každý /. činitelů jest absolutně a stejnoměrně konvergentní, tudíž i jich součin. Následkem jednoznačného určení koelficientu 1/e pak řadu pro tento součin tvořiti přímo, položíme-li:
+YW.
+§ G.   O rozvoji integrandu Wirtingerovy formule v trigonometrickou řadu.
+Logarithmy elliptických theíafunkcí jsou dár.v následujícími výrazy
+nr
+,
+IQ.   f         \
+/- ^ (r, r) =  -— -f /g ř/ (r) -
+r
+-q->         }
+., v, (- \)''<í:i co*-2x}--' l~q->   '       i
+2 cos JT r
+lg&3(v,r)=       T9~+/g
+)' (' cos L' TT / ,'
+]>ři čemž j q j <C i , pokud T nepřejde v některý racionálny bod reálni'1 osy, jež, jak xnámo, odpovídají vždv jednomu ze singulárních bodu hypergeometrické differencialní rovnici'. Patrně konvergují všechny čtyry sumy pravé strany absolutně i se svými derivovanými řadami, je-li argument v reálným, neboť podíl absolutních hodnot koefficientů jest menší než
+l     |    /•>     -; Ji a                                                             l     l     />     - / TI o
+| ___ {,      -l (i • !) 71 a  '   ' (    l   '   '                   \          C      - l   -f ') Z*»  '
+])ři čemž r = (> + /<? . Yýra/y tyto jsou pro dostatečně velké / jistě menší jedničky a tím spíše pro všechny indexy vyšší. Intcjívand hyj»ergeo-metrických forem v, , v., jest
+a   logarithmus  každé  x  těchto  řad  jest   dán   trigonometrickou   řadou  žádaných vlastností.   Pozorujme nejprve  formu   v, ,   ve které nexávisle pro-
+XXXVI. ﻿měnná 7' probíhá jen reálné hodnoty od "" do   _   , tedy <p = 2 « V hodnoty
+(O, n}.    Položme:
+Tvoříme-li  koefficienty C,,   jest   dle   dřívějšího   integrand   ((19)   dán výrazem:
+«.+«,                                      ,|v         cos^/r
+0(7', r) = 2""l40V         4     sinfíl n r . cos""-
+
+sn
+y^
+it r . cos* n: ?•. l /),, + 2V* Dt. cos 2 ^ A- «'l
+kde v xávorce stojící suma representuje absolutně a tudíž stejnoměrně konvergentní trigonometrickou řadu. ?\Iají-li integrály přímočárné vůbec míti určitý smysl, je třeba, by exponenty konečných bodu integrační dráhy byly větší než negativní jednotka, a jsou-li komplexní, musí jich reálné části této podmínce vyhovovati. Jest tedy
+\'   počátečním   bodě   integrační   dráhy   ?' = O  zmixí   funkce   Ot (r) , \' konečném bodě i1       -- pak   funkce 7% (r) .   Tyto nullové body absorbuje
+\'šak faktor sin""1 .T ?• , "":esp. co-K- .T ?• , tak že ostatní část integrandu a tedy i její logarithmus /.ustane konečným. Forma v, ic1 tudíž dána integrálem:
+i
+HIT                                       '-»                                                                                                             T
+(71)  \\     Ví e  *    \     ""^ co, i sin«- T v' ros** T 7' T/),, + l V/- />/. cos 2 T A; r L/ v ,
+o
+kde 7)A. /nací absolutně konvergentní rady, tvořené / koefťicientu, jež representují polynomy veličin n,, daných rovnicí (70).
+Prve než budeme vyšetřovati koeflicienty řady integrací v/.nikající. obraťme svůj xřetcl k druhé základní   formě  \'.> ,  která liší se od  \\ tím,
+y.c integrační proměnná probíhá přímou drahu od » k      .  Tento konečný
+bod je míliovým bodem funkce #0(i'). Xám jedná se \~sak pi-edevším o to, získati integrál, v němž proměnná má jen hodnoty reálné, bychom opět měli co činiti s obvyklými řadami trigonometrickými. Zaveďme v této druhé formě
+y., =- oj, \ 0 (r, ) (í 7'
+XXXVI. ﻿novou proměnnou:
+í.i = r w ; bude pak
+V2 = eo3 ( 0 (T w, r, «0, «, , «.,, «.,) d #'
+>pět j platí rovnice:
+o
+kde w přijímá opět jen reálné hodnoty. Provedeme-li transformaci ř =------,
+Ig 0 (T w, T, «0, «, , K, , «3) =           «! + Ig 0 (íL>, -         ,«,,«!, ar„, «3) ,
+4                                          T
+aneb:
+•T l        ,""
+>3 e ~       J 3> (í.1, ř, «.,, a, , «n, «3) í/í' .
+Exponenty v závorce stojící vztahují se resp. k funkcím 9ň (v, T), . . .
+^ (v, T). Nullový bod — funkce &0 (v,r) jest tím převeden v míliovy bod — '2i                                                                                                                                                                           2>
+funkce ^ ř v, -- j který však opět jest obsažen ve faktoru cos TC v, tak
+že trigonometrické  řady  pravé   strany   rovnic  (158) zůstanou   konečnými pro všechny body dráhy integrační.  Položíme-li nyní:
+[«2 + (— 1); «3i ^ + [«i + (— IV «ol r;
+a tvoříme-li opět koefficienty C, , resp. /), , je integrand druhé formy základní dán výrazem:
+sn«, .T í; COS
+[OD                                                                                     _
+Dn+ 2 V*Z)t cos 2«^v|
+j)ři čemž opět v závorce stojící suma konverguje absolutně a stejnoměrně.
+Obdržíme tudíž
+i
+.T ; Ť                   r.                                                  jo                             -.
+2 r  4            Ku w:( V sin01 TT ?' (-os*» n. ?'    /)„ + 2 V* />A. cos 2 n- A' í'   ťřu .
+'              '              J                               L              ""~""
+o
+V tomto integrandu má r hodnotu r a mimo to vykazují exponenty jiný pořad. L/r vsak zvoliti za základní formy integrály typu \\ (s reálnou intcgniční ])roměnnou), které se liší pouze jxtřadem exjxmcntn a jimiž se každá jiná forma dá lineárně vyjádřiti. Každým zpusohem jest tedy nutno, vyčísliti rady l)k pro dvojí hodnoty koefficientu a, .
+XXXVI. ﻿33
+§ 7. Integrace formule Wirtingerovy.
+Integruj eme-li absolutně konvergentní trigonometrickou řadu  (71) neb (73), jest nám vyčísliti určité integrály o formě:
+%• == \ sin"" n v cosč n v cos 2 k TI v . d v, o
+při čemž reálná část exponentů jest vždy větší než negativní jednička. Pro odhad hodnoty těchto integrálů stačí předpokládati, že a, /i jsou čísla reálná. Konstatujme především, že pro libovolné k:
+(74)                                        | % K K l •
+Integrál ua je vždy veličinou kladnou a konečnou, vycházíme-li při integraci od oné větve integrandu, pro kterou ve výrazu
+L« l g sin jív + (i Ig cos n v
+imaginární části logarithmů zmizí, což je možno, poněvadž obě trigonometrické funkce mají v integračním intervallu kladné hodnoty. Tvoříme-li z původní řady
+\ D1     + | D2 |  +     Df |  + . . .
+řadu novou multiplikací každého z těchto termů členem řady o stejném indexu
+konverguje řada
+dle známé věty následkem relace (74).   Jsou tedy řady
+co
+«o A> + 2 V* nk Dk ,
+které representují až na jisté faktory hypergeometrické formy y^ resp. y2, absolutně konvergentní pro všechny body fundamentálního oboru uni-formisační proměnné r s výjimkou singulárních bodů.
+Integrace koefficientů Fourierovy řady vede k nejblíže nižším integrálům  hypergeometrickým,  totiž k integrálům  Kulérovým.   Za účelem vyčíslení výra/.u uk   nahradme cos 2 k n v mocninami trigonometrických funkcí argumentu nv.  Bude pak: i
+(75)      uk = V sin"" JT ?' cos/? n v [cos*** v — ( «  ) cos'-*~- n v sin'2 n v -f- . . . o
+R o 7. p r a v y : Róč. XVII. Tir.  II. Čís. 36.
+• XXXVI. ﻿34
+V každém z integrálu
+J (r, s) = \ sin vtv coss n v d v
+zaveďme pak novou integrační proměnnou
+z čehož následuje:
+x = sin"" ?r y,
+71         ^
+j =
+a dosadíme-li tyto hodnoty na pravé straně rovnice (75) a použijeme-li známé vlastnosti Eulerovv funkce, obdržíme konečně:
+(76)   uk = -^ '
+\       t       •          O «•   l
+2 ^ r (/ + m -
+(?)
+[
+-   («/ + A—l)
+/ . (/« + /c - 2)
+kde
+(77)                              J .± + i ,' « . A-+1 .
+Exponenty a, fi jsou zcela libovolná, reálná neb komplexní čísla, hovící dříve uvedené podmínce. Tím jsou pro tento případ koefficienty rozvoje hypergeometrických forem vyčísleny.
+Chceme ještě stanoviti řád velikosti koefficientů uk pro značně vysoký index k. Integrály tik representují vlastně Fourierovy koefficienty cosinusové řady pro funkci
+p (n v) =sin'  TI v coss it v Tato funkce má v intervallu ÍO, —J nejvýše jednu extremní hodnotu
+a sice pro tg a v0 = y . Mají-li exponenty r, s totéž znaménko, existuje, v bodu v(} minimum pro znaménko záporné, maximum pak pro kladné.
+XXXVI. ﻿r
+35
+V každém případě jest tedy tato funkce alespoň v každém z intervallu (o, v0) n í v0, — j monotónní a ježto je dále v celém intervallu integrabilní, konvergují dle známé věty koefficienty % k nulle.
+Jsou-li exponenty r, s (resp. jich reálné části) větší než +  l,   jest i derivace zmíněné funkce veskrz konečnou a řád velikosti koefficientů
+A
+jest        ,   řada konverguje pak absolutně.    Jsou-li oba exponenty vůbec.
+K
+kladnými, zůstává alespoň funkce sama konečnou a koefficienty směřují
+á
+k nulle jako —r . *)   A značí zde konečnou konstantu.
+ní
+Zbývá jen vyšetřiti případ, že jeden z exponentů aneb i oba jsou zápornými a ovšem větší než (— 1).   Rozložme integrál, jak následuje:
+i
+— \ p (TTv) cos2 k n vd v -f- \ p (nv) cos 2k nvdv -}- \ p (n v) cos 2 kn vdv,
+kde s, 77 značí malé, kladné veličiny. Částečnou integrací se přesvědčíme, že prostřední integrál není jistě nižšího řádu než — .
+K
+V prvním integrálu položme, ježto v je libovolně malým:
+p (n v] = (n v)r ,      2 k n v = x, ve druhém pak zaveďme
+—-----v — w ,    p (n it>) = (n w Y ,    2 k n w = y.
+ů
+Pak vyplývá pro součet prvního a třetího integrálu:
+a oba integrály mají jistě konečnou hodnotu, vzrůstá-li index k nad každý konečný obnos.    Dimense  koefficientů  uk jest tudíž     ' + - , kde t značí
+/v
+algebraicky menší z obou exponentů r, s. Ostatně dlužno dodati, že rozdíl kladných a záporných exponentů   není pro Wirtingerovu  formuli   nijak
+podstatným.   Součet 23«;-   jest totiž nullou a permutace exponentů dá o
+známých 24 Kummerových řad, z nichž jen dvě jsou lineárně neodvislé, tak  že  alespoň jeden  z  exponentů možno  vždy   supponovati kladným.
+*) Cf.  Lcbcsgue,   1.090113 sur les séries  trigonomélriques, pg. 45.
+3* XXXV T. ﻿Tážeme se, jaký následek má obrácení znamének u všech exponentu
+V
+«,-.   Pro kvocient   rj — — jest tato /měna jistě irrelevantní, neboť resol-
+y2
+venta třetího řádu obsahuje rozdíly exponentů singulárních bodů A, ft, v jen ve druhých mocninách. Obdržíme tu patrně jen projektivní substituci. Však i formy se jen lineárně substituují touto změnou znamének. Pišme totiž integrály differenciální rovnice
+(78)           z (l — z) y"" + [/ — (l + «' 4- n s] ý - a' flf v = O
+ve formě:
+j 0* (v. r) <' (v, r) ^ (v, r) ** (v, r) rf í',
+r) »* (í', T) #""' (z-, r)
+kde
+l + 2 a' — 2 y, «., = 2/T— 1. Exponenty singulárních bodu jsou:
+2 = OO,               l ,                              O
+A' = /T, řť = / — a' — ft'.   v' == \ — y'
+l"" = «',  11"" = O,                     v"" = O
+a poloviční fundamentální obor automorfní funkce z (ij) je kruhový trojúhelník o úhlech
+A TI,    n n,    v n, při čemž
+A = K' — ),"",    p = p'— p"",    v = v' — v"".
+Obraťme nyní znaménko na př. difference A záměnou elementů «', /3', čímž rovnice (78) zůstane nezměněna. Geometricky to značí, že počítáme úhel ATT ve smyslu opačném. Exponenty Wirtingerovy formule jsou pak:
+«,/ = sy — 2 o' — i =   - «.,,      < = i — 2 /r =  - «.„
+«2' = l +2/3' — 2/=    -«„,         «';;    --2 «'— 1=— «„
+a integrály téže rovnice (78) lze tedy psáti:
+(r, r) *, a* (v, r] d, a° (?', r) #3 ttl (?., r) dv,
+Y2 =
+(7', r) fr, K"" (,, r) ^ w° (V, r) ft  * (v, r) dv
+XXXVÍ. ﻿37
+Faktor před integrálem stojící rovná se však dřívějšímu a integrály s negativními exponenty lze tudíž lineárně vyjádřiti integrály původními, při čemž koefficienty substituce jsou funkcemi exponentů a tyto možno stanoviti pro vhodně zvolenou hodnotu nezávislé proměnné. *)
+Jsou-li některé z exponentů a, menší než negativní jednička a ne-chceme-li použíti permutace exponentů aneb obrácení jich znamének, zvolme za základní řešení integrály vedené dvoj oběhem kolem singulárních bodů. Opíše-li proměnná Kulérová integrálu dvoj oběh kolem bodu,
+odpovídajících hodnotám v = O, resp. v = -~-,  povstane v rovině v přímá
+dráha ody = 0ažkv = 2s malými polokruhy, jež zvolíme na př. kolem
+l                                                                       3
+bodů v = -j- a v = l směrem kladným, kolem bodu v = —, a v = 2 puk
+A                                                                                                        a
+směrem záporným. Pro transformovaný integrál y, volme obdobnou dráhu. Pak obdržíme v rovině proměnné x = sin2 n v uzavřenou křivku kolem úseku (O, 1) a jest jiám tedy vyčísliti integrály
+rt      r—\                   S — l
+(79)                             K (r, s) == l #2 (l _ X)r d x
+(0,1)
+podél této křivky. Ježto integrand jen v bodech x = O, x = l může se stát ev. nekonečným, je zřejmo, že K (r, s) jest dokonce celistvou transcendentní funkcí exponentů. Je známo, jakým způsobem je možno toto rozšíření definice Kulérový funkce B pro zcela libovolné argumenty.**) Pro náš integrál pak vychází:
+ř+S
+n i----
+2 n e      -
+7 -    /          \                                                                 *J   Ji   i-
+K (r, s) = -
+a dosazením těchto hodnot obdržíme pro uk formuli (75) podobný výraz, kde však na pravé straně funkce .T vyskytuje se jen ve jmenovateli. Tím jsou tudíž stanoveny koefficienty rozvoje hypergeometrickýeh integrálu pro zcela libovolné elementy differenciální rovnice a na počátku vytčený problém pro každý regulární bod fundamentálního oboru rozřešen.
+Bylo by zajímavo, vyšetřiti zevrubněji s ohledem na skutečný výpočet rychlost konvergence řad L Dk n/. a ev. udati formy, pro něž byl by rozvoj při daných koefficientech co možno výhodným. Po předepsané ~ zvolíme ovšem T vždy tak, by absolutní hodnota | q \ byla co možno nejmenší, t. j. v oboru Poincaréovy roviny (s reálnou osou co absolutní kuželosečkou) O, 2, oo a je-li předepsán argument co výsledek určité řady oběhů, stanovíme rozvoj pro bod aequivalentní, načež přejdeme pomocí příslušné substituce grupy opět k bodu původnímu.
+*) n. § i'.
+**) Cf.   Klein, Dit- hypergeometrische Fundion,  pg. 142.
+XXXVI. ﻿38
+Vzhledem k mnohým problémům je dále nadmíru interessantní otázka degenerace Wirtingerovy formule pro hraniční body existenčního oboru elliptických thetafunkcí, t. j. pro racionálně hodnoty kvocientu r. Zde pojednáme ještě o základní otázce degenerace těchto funkcí v cípech fundamentálního oboru.
+§ 8. O limitních hodnotách elliptických thetafunkcí pro singulární hodnoty kvocientu O,  l, oo.
+Limity thetafunkcí pro případ, že kvocient přejde v jeden z cípu fundamentálního oboru, existují právě jen jako hodnoty limitní, nikoli však jako hodnoty funkční a dlužno tudíž udati způsob, jakým T blíží se dotyčnému bodu. Nejjednodušší případ je ten, že imaginární část vzrůstá nad každou mez; ježto omezíme se na původní obor (pro jiné obory lze výsledek ihned odvoditi transformačními rovnicemi resp. z hyper-geometrické grupy), stanovme, že reálná část zůstává při tom nezměněna. Jest tedy
+0<(j< 2, položíme-li
+T = Q + i G.
+Libovolnou hodnotu kvocientu pro velmi značné G označme písmenem TX. Položme dále
+v = Vt + i v.2 ,    q<v = cnÍT* .
+Pak stačí se zřetelem na známé rovnice pro transformaci prvního argumentu předpokládati :
+(80)                           <><«!<: -I,   0<V2<  *-.
+Jest tudíž:
+qv cos 2n v v =
+W
+l n i v r   _|_   c -  'l n i v :•            \
+-
+ů                                  ži
+gí n i v :•    i    g    -Inivt!            |
+'2                         2
+a následkem relací (HO):
+lim qv cos 2 n v v = O, lim q~ v cos 2 n v v = 0.
+J. 00                                                                                        *«0
+Vzhledem k známé rovnici
+,.    ,      ,    ,       ,.     n i T y. hni íg »/ (T,-,. }       lim      [ ^
+vyplývá:
+XXXVI. ﻿(81)
+39
+lim Ig #•„ (v, TQO) =0,
+lim Ig $1 (v, r») = lim —j-~-—|- Ig 2 sin n v,
+V         7            /            \         i •         1t Í *•*>            ,     n
+lim Ig #, í», roo) = lim-----:— + Ig 2 cos n v,
+O         L   \             l                             ^
+lim Ig #3 (v, TOO) =0.
+Pozorujme nyní okolí bodu r = O, při čemž kvocient blíží se k bodu tomuto dle relace
+— l
+kde tedy rn opět značí bod v okolí singulární hodnoty r = 0.   A sice postupuje k limitní poloze v kruhové dráze o rovnici:
+s poloměrem ——    , kde px značí stálou abscissu do nekonečna v
+jícího r*,. Pro kladné Qm pohybuje se bod TO v oboru (— 2, O, oo), takže vertikálním přímkám mezi QX = ;+- l odpovídá svazek kruhů s imaginární osou co tečnou, jichž středy leží na reálné ose mimo úsek -+- - —.
+ů
+Dále předpokládáme, že argument v jest reálným, nebo jinak bychom obdrželi pro tuto proměnnou divergentní řadu. V praxi jedině tento případ je zajímavým a je ostatně zcela přirozeno, že omezíme první argument v jen na hodnoty reálné, přejde-li síť parallelogramů period v reálnou osu. Pišme sumu pravé strany první a čtvrté z rovnic (68), jak následuje:
+cos 2 TT v v            2       ^i    „l     '#<)    cos 2 n v v
+?o n       _-.> v
+a""            v
+io    i                   Vo
+Jedná se nyní o rozvoj funkce
+Tato funkce stává se nekonečnou v bodech reálné osy
+l     _2_    _3_
+v      v '
+kdežto pro T = O přijímá hodnotu —. Kdybychom chtěli funkci tuto rozvinouti dle mocností proměnné r, bylo by to možno v okolí bodu r = O jen pro obor o poloměru, který jest menším než —. Negativní hodnoty <?
+XXXVI. ﻿40
+však nejsou přípustný a mimo to se nám jedná o vyznačení dráhy, na které proměnná r směřuje k cípu r = 0. Za tím účelem zaveďme reálnou proměnnou ^ :
+(>0 = R (l — cos tp) ,      0H = R sin (p , kde R = -     — značí poloměr kruhové dráhy proměnné r, <p pak azimuth
+2 poo
+dotyčného poloměru vzhledem k reálné ose.   Je tedy:
+TO = R (l — <r-""P) ,      qfí = <?» ** O- «•-''*>.
+Funkce / [r (q>)], v niž R považujeme za stálou, jest konečnou pro (p 5; JT. V případě, že by bod T pohyboval se na ose imaginárných čísel (R = oo), zvolíme ovšem vzdálenost [ r \ jako nezávisle proměnnou. Z Cauchy-ova integrálu plyne existence a konečnost všech derivací v každém oboru, který neobsahuje některý bod nekonečnosti a tudíž i existence a konečnost derivací pro všechny body kruhové dráhy vzhledem k proměnné (p incl. bod T = 0. Dále platí i pro reálnou proměnnou Taylorova řada:
+kde druhá  derivace zůstává pro  vyšetřovaný  obor nezávisle proměnné spojitou i konečnou pro každé konečné v.   Jest tedy pro nadmíru malé tp:
+JtVV
+a řada tato konverguje pro každé libovolně malé, však konečné <p, jak víme, absolutně. Dále jest
+tak že
+^ v^       #0        cos 2 rr v ,•
+— l «     r l — n- R~ (p-         ., l + JT R <>   ""           i cos 2 it v v
+a j)řejdeme-li k limitě a uvážíme-li, že člen prvého řádu se nevyskytuje:
+« ^i        '/<»        cos 2 n v ?'            — l     v^   cos 2 « v y
+lim 2     *        —5-                       lim — . — . \ v
+v-
+XXXVI. ﻿41
+Pro reálný argument je však: ^i   cos 2 -n v v
+tudíž
+(83)    lim 2 V»-----V, - COS ^ "" "" ^ = — lim u * T, . \v2 — v + --] .
+L  l—alv          v                                   l                (> J
+v i-?;
+K určení limity sumy
+_ w-i         l — q-   cos 2 it v v
+2>\ vqv , AJ        l •— <72""             v
+není ostatně třeba rozvoje koefficientů této trigonometrické řady. Lze totiž dokázati, že tato řada konverguje stejnoměrně vzhledem k proměnné T i pro bod T = O, blíží-li se kvocient této hodnotě uvedeným způsobem. Řada tato konverguje jistě stejnoměrně, má-li tuto vlastnost řada
+<84)                             S
+l Tvoříme-li differenci
+cos2?r vr
+obdržíme  vzhledem k   okolnosti,  že ya je  téhož řádu nekonečně malým jako ol :
+l —
+l v
+a jsou tedy členy řady (84) pro malé hodnoty TO menší než
+l cos 2 n v r
+Pro řadu tuto lze však jistě udati indox n  (e), tak že
+j x-        n
+Lj COS 2 JI v v2
+'l (-1
+a jest tedy tento zbytek i pro malé hodnoty rn incl. r = O libovolně malým pro totéž n(s), čili řada konverguje stejnoměrně a jest následkem toho spojitou funkcí proměnné T incl. r = 0; je tedy dovoleno přímo položiti
+XXXVI. ﻿r = 0. Ježto však před sumou stojí faktor, jenž jest nekonečným prvého řádu, dlužno ještě určiti člen následující, chceme-li vyčísliti též term konečný; limita neurčité formy jest:
+lim
+l  +   .  .   +  02 <»
+v       m
+a odtud:
+lim
+l -f- e-niT° + . . + e~(
+l       ,.     mr(
+-----hhm-
+i/                v
+a násobíme-li nvní limitou výrazu-----—r- , zmizí člen řádu prvého.
+Jinak chová se druhá na pravé straně rovnic  (78)  se vyskytující
+suma:
+cos 2it v v
+l—fl*
+Rozvineme-li opět funkci
+l — q1    cos 2 v. v v
+g*
+dle mocnin reálné proměnné q>, obdržíme:
+gv (9} =•- ~ — <? n R (l + -i-) +
+kde  druhá derivace zůstane  konečnou pro vyšetřovaný  obor nezávisle proměnné.  Pro velmi malé cp máme tudíž approximaci:
+fQ^\                                 O V       -v          ^°
+(80)                                 2 \ v q   -      —-r~
+*m*         \ --- n~
+_ 2\*r\l~aRV      (
+0     cos 2n ví'
+COS 2 rr V 7J
+Připojíme-li faktor-      —g-, vyplývá:
+limS V.     ?'""   .^líll l    ' —?         ""
+/^              -_\x       l""l              />
+— (l — « i To) V^   l    1 — 3T A <p                 „
+n    —----r-          7 ."" l                   ------q> n K -}-
+jiirn        Li    L         V
+COS 2 7T V W
+XXXVI. ﻿43
+a omezíme-li se na veličiny druhého řádu, obdržíme vzhledem k rovnici: 7tRq>=    -«»
+n V-1         ^0            COS ŽTCVV                         l      ^i    COS 2JTV V
+lim 2 \ v        ——---------------= — lim —:— > v
+^j    i .__(f v           v                          niTl} «J          ví
+l                   VQ                                                                          l
+až na nekonečně malé veličiny prvého řádu.   Bude tedy:
+(86) lim 2 V„ —q±-. - ^^^L = _ iim n ir^ . [> _ v+ _H + /g 2 sin » v. —              '                                                ""
+Stanovíme-li dřívějším způsobem funkční hodnotu této řady, která opět konverguje stejnoměrně vzhledem k proměnné q> i pro bod T = O, vyplývá hlavní člen, načež limitním přechodem obdržíme týž výraz jako nyní pro člen následující. Pro řady se střídavými znaménky zní výsledek, jak bez dalšího zřejmo:
+9 V^                   v     ^ — ^°      C°S %1t V V
+Lj              °   l __ďv         v
+(87)
+(88)
+cos 2 « v
+l
+a přejdeme-li k limitě, jest s ohledem na známé relace:
+V,              COS 2 JT Ví'            .         .           1
+r-(-D*- -jí-   =
+V^   ,           cos %n v v                                                l
+> "" ( — l )"" -- = — /g 2 cos a v     0< v < -^- :
+«— •                                    v                                                                                           _
+(89)   Um 2 j. (- l)- --* f, ^^ = - lim . i r. |> - ^ j
+/nn\    r        ) V^    /        i\«        ^0         COS JjTV?'            ..         .       i   ,        II
+(90)   lim 2 \ v (— \}v--------------                      — lim « / T*    r-------
+^j               ] __   •-*          v                                     l           2 J
++ Ig 2 cos n v.
+XXXVI. ﻿44
+Na základě těchto výsledků možno nyní bez dalšího stanoviti limity elliptických thetafunkcí , použijeme-li ještě známé relace pro funkci r] (T):
+Ig rj (TO) = lim
+
+
+lg (— T'Í ) :
+(91)
+lim lg #0 (v, T0) = lim n i TOO . (v —     j +   ,  lim lg (— r'4),
+/        l \2     l
+lim /g ÍK (7', TO) = lim n i TOO . l v —       l +  i- lim ^g (— T«)>
+\        z /      4
+lim /g t>2 (v, T0) = lim JT i Tx . í'2 lim /g #.? (r, T0) = lim n i T» . v2
++ — lim/g (— rí),
+Identita prvních, resp. druhých dvou limit dá se dokázati direktně. Neboť pro logarithmy podílu obdržíme:
+le 5
+-() (v, r)
+, r
+JT    r 4
+cos    f v v
+-
+l + qv
+^ t r        -, v^
+— • + 2 S*
+<7y        cos 2 n; v v
+a konverguje-li T k nulle, podrží řady určitý význam a poslední dva členy v obou rovnicích se ruší.
+Ostatně lze limity (91) též získati z transformačních rovnic:
+l
+g 90 (v, T0) = lg &, (TX ť, rač) + TÉ * v- TX +   ^ lg (— r'i),
+= l
+7T   ř
+/
+= /g ^3 (
+v-
+- /g
+ježto disponujeme limitami logarithmů pravé strany.   Skutečně potvrzují tyto relace dřívější výsledek.
+Zbývá ještě vyšetřiti okolí bodu r = l,  povstávající z okolí bodu T = O pomocí transformace:
+X X XVI. ﻿45
+Tu opět vyšetřujeme nejprve sumy pravé strany rovnic (78).   Považme, že
+bude tudíž:
+qí = cnÍTl — eni(T"" + 1} =   -q0', ,    [ — fi     cos 2 r v v
+cos 2 Ji v
+(92)
+""v   l — ^i    cos 2 a v v
+~
+l —
+l — 7rR<p
+<jp       ""
+cos 2 JT vy
+a pro faktor -     —T platí týž rozvoj jako dříve.    S ohledem  na relaci:
+jest
+m
+T         7       /x       i •       Ttl T*s       .       l    ,.         1     ,       » \     i
+lim /g r? (irj = lim —-— + - - hm Ig (— r„) +
+a z toho odvodíme pro lim TÍ — 1: Um /L -O1,, (y, r,) = lim n i r^ . v-
+o        u   \    *      ±/
+r       ;        /       \         v         '        í          * V ,     *   v      l    /         •> \       Jtí'
+lim /g 0-t (w, TJ) = lim n i TX . ( y-----— ) -j- — lun /g (—*--<,) -|—~— ,
+lim Ig 9-2 (y, T]) = lim niv*,, y2
+lim /g ^ (y, r,) = lim n i TX .( v —  --- j +   - lim /g (— r'í).
+\             *J     /           T
+Tvoříme-li přímo logarithmy kvocientů:
+— /g 2cos?r y,
++ — lim/g (— T2X),
+— lim Ig (—TÍ ) +
+l — ^i
+V, T
+/        +   i""  !)   +    <?
+— 51T l — í' ""
+XXXVI. ﻿46
+konvergují koefficienty  řad pro  lim rí = l  k hodnotám
+— Z v
+— ,  resp.
+,  čímž opět správnost výsledku  je potvrzena.   Též transformační
+rovnice:
+n i
+7T 4
+--
+lg #3 (*>, rt) = /g #(, ( vedou k odvozeným již rovnicím (93).
+, tr0)
+§ 9. Poznámka o rozvoji integrálů v okolí bodů singulárních.
+Dříve uvedený rozvoj pro integrand 0 (v, T) konverguje nadmíru rychle pro případ, že kvocient period vzrůstá do nekonečna. Možno tedy pro integrál
+= f
+dv ,
+jehož proměnná přijímá jen reálné hodnoty, použíti řady  (71) a limita integrálu rovná se limitě prvního jejího členu. Ve druhém integrálu základním
+J, (Tx)
+probíhá proměnná komplexní hodnoty a kdybychom transformovali prvý a po té i druhý argument, octli bychom se s hodnotami kvocientu v okolí bodu T = O, při čemž v opět stalo by se reálným. V této formě lze sice udati limitu integrálu na základě odvozených výsledků, nikoli však dostatečně rychle konvergentní rozvoj pro hodnoty T,,. V tomto případě zvolme nový druhý základní integrál, a sice opět ve formě integrálu prvního:
+r   =
+kde akcent značí libovolnou permutaci exponentů. «7/ (T) dá se podobně jako Jx (T) bez dalšího rozvinouti v rychle konvergující řadu. Jedná se pak jen o konstrukci lineární relace
+XXXVI. ﻿47
+Tyto relace dají se odvoditi limitním přechodem, použijeme-li v posledním paragrafu odvozeného rozvoje pro elliptické thetafunkce. Ježto dlužno určiti dvě neznámé, jest nám vyšetřiti limity integrálů pro dvě ze singulárních hodnot kvocientu. Zde však nehodláme se zabývati konstrukcí těchto vztahů a poukážeme jen k faktu, že dají se odvoditi zcela elementárně, vyjdeme-li od integrálů Kulérových. Též relace inter conti-guas bude zajisté možno na základe limitního přechodu stanoviti.
+V okolí bodu Tn pozorujme nejprve integrál
+jenž transformací
+(v, T„) dv=t(t\& (r„ y, TO) d v , o
+(TO v, T0) = <? 2 Ml 0' (r, rx)
+přejde v typ Jj (rx). Akcent značí zde záměnu exponentů a0, «2. Před-pokládáme-li dále znalost relace, pojící integrály J{ (r0), J2 ÍTO), J2' (r0), kde v posledním integrálu exponenty jsou libovolně permutovány, jest možno udati rozvoj prvého základního integrálu Jx (r0).
+Nachází-li  se  konečně uniformisační proměnná  r  \ blízkosti  cípu r = l, vyjděme od integrálu
+', TJ) d v = e
+J
+dv
+kde exponenty «0, «3 jsou zaměněny. Patrně jest tím integrál tento redukován na předešlý typ Jx (r0) a ježto dále mezi integrály «/2 (ri)' ^i (Ti)' J\ (ri) (s libovolnou permutací exponentů) stává lineární relace, je zřejmo, že i v okolí tohoto singulárního bodu možno stanoviti rozvoj i limitu integrálů hypergeometrických. Je známo, že pro určité hodnoty elementů lineární rovnice, sloužící k určení koefficientň mocninových řad v elementární formě řešení, stávají se illusorními, při čemž Gaussova řada přejde v polynom aneb přistoupí k rozvoji členy logarithmické atd. Také tyto případy bylo by žádoucno vyšetřiti ze stanoviska uniformisační pro-
+r.
+XXXVI.
+, ﻿*"

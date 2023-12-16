@@ -1,0 +1,545 @@
+"","x"
+"1"," ﻿ROČNÍK XIV.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+Methodické poznámky theorii komplexu A2.
+
+
+Napsal Josef Klobouček,
+
+
+professor reálky Karlínské. (Předloženo dne 12. ledna 1905.)
+
+
+
+
+
+následující úvaze dovoluji připojiti několik methodických poznámek vztahujících theorii kvadratického komplexu, který tvoří osy všech lineárných komplexů obsažených linearném systému stupně.1)
+
+
+Snadno lze poznati, tento komplex lze uvažovati též jakožto souhrn všech přímkových ploch stupně, jež procházejí dvěma mimoběžkami.
+
+
+Předpokládejme obě mimoběžky reálné, značme P'. Těmito přímkami prochází oo3 ploch centrálných, necentrálných zvrhlých, tvoříce systém 2?3H, jichž povrchové přímky nenáležející soustavě tvoří lin. kongruenci paprskovou základních přímkách P'', přímky druhé soustavy tvoří lineárný systém stupně lin. komplexů.2) Paprsky společný jsou všem oo3 lín. komplexům, jež tomto systému nacházejí. Avšak každém lin. komplexu lze vytknouti jedinou sborcenou plochu stupně, jež procházejíc dvěma paprsky tohoto komplexu, dvou přímkách, jež jsouce sdruženy polárně vzhledem komplexu, své dvě sdružené poláry.3) Dle toho lze každému oněch oo3 lin. komplexů určiti jedinou plochu, která majíc jednu svou osu ose komplexu, prochází přímkami P'. Všem oo3 plochám, které procházejí přímkami P', přísluší oo3 os, jež tvoří řečený kvadratický komplex.
+
+
+Dr. Sturm: Die Gebilde ersten und zweiten Grades der Liniengeometrie etc. Teubner 1892, I., str. 196. Komplex tento značí Dr. Sturm symbolem A*. Tamtéž str. 256. str. 307.
+
+
+Rozpravy: Roč. XIV. Tř. II., číslo
+
+
+VII. tomu jest ještě zajímavá poznámka následující: poněvadž plocha
+
+
+stupně obecné osy, bylo lze každé ploše ustanoviti lin. komplexy našeho systému, jichž osy jsou osami této plochy. Tomu skutečně tak jest, neboť, vytkneme-li daného systému ploch jednu, jakožto základní plochu sítě lin. komplexů, nachází síť tato původním systému stupně, tedy kongruence těchto lin. komplexů řádu třídy jest celá obsažena kvadratickém komplexu lin. systému
+
+
+stupně. Avšak tato kongruence jest totožná kongruencí transversál, jež protínají kolmo vždy dvě dvě povrchové přímky soustavy P'', zvolené základní plochy sítě.4)
+
+
+této kongruenci náležejí obě reálné osy centrálně plochy; ima-ginárná osa náleží, nalezneme snadno, užijeme-li vět, které odvodil Wálsch.5)
+
+
+Vedeme-li totiž řekněme krátce dvěma nejkratším trans-versálám dvou párů povrchových přímek jedné soustavy téhož jedno-plochého hyperboloidu nejkratší příčku, jest tato příčka též nejkratší příčkou jistého páru povrchových přímek druhé soustavy. Protínají prvé dvě transversály, jest třetí příčka přímkou, která společném průsečíku kolmo stojí jejich rovině.
+
+
+Jest tedy imag. osa hlavním paprskem dvou lin. kongruencí paprskových, jichž základní přímky jsou imag. povrchové přímky procházející imag. vrcholy dané plochy.
+
+
+Rasche poznamenal prvé,6) osy všech ploch stupně, jež procházejí dvěma mimoběžkami, tvoří kvadratický komplex; chci uvésti ještě jiné důkazy, libovolném svazku paprskovém nacházejí obecně dvě osy O', O"" tohoto systému ploch 2?3H.
+
+
+Vytkněme tohoto systému síť 2?2H, které libovolné zvolenému bodu přísluší jiný volně zvolený bod m', jakožto bod polárně sdružený všem plochám této sítě. Druhý všem plochám polárně přidružený bod jest bod m""', který sborcené involuci [PP'] přísluší bodu Veškeré polárné roviny bodu těmto oo2 plochám sítě tvoří svazek ose m"" každá rovina jest polárnou oo1 plochám Tyto plochy tvoří svazek <LH, jehož základní čarou jsou, kromě přímek diagonály D', sborceného čtyřúhelníku tvořeného přímkami P', m"", paprskem kongruence \PP'\ ležícím rovině 4u.
+
+
+Poláry nekonečně vzdálené přímky roviny všem plochám tohoto svazku jsou průměry procházející bodem promítající středy dvojnásob dotýkajících kuželoseček svazku, jejž rovina určuje svazkem těchto ploch. Průměry tyto jsou tedy položeny jisté rovině jež procházejíc
+
+
+str. 184.
+
+
+Dr. Sturm: Die Gebilde etc. str. 185. poznámce).
+
+
+Untersuchung der Fláchen zweiten Grades, welche durch zwei windschiefe Geraden gehen. Inaug.-Dissertation. Akad. Můnster. Paderborn 1882. (Die Gebilde etc. str. 255. poznámce.)
+
+
+VII. ﻿přímkou mm"" centrálným bodem přímky pp\ obsahuje též průsečnici centrálných rovin G', kongruencí [PP'] [DD']t jakožto geometrické místo středů ploch 2?H.
+
+
+Svazky rovin jsou projektivně. Svazky paprskové, které ustanovují tyto svazky rovině centrálně promítají centrálných bodů přímek m'm"" mm"" body kuželosečky, jež těmito dvěma body procházejíc, jest stopou hyperboloidu daného přímkami /"", m"" rovině Zbývá nyní ukázati, existují obecně dvě plochý vytknuté sítě vlastnosti, jich průměr procházející bodem stojí kolmo polárné rovině tohoto bodu, čili nekonečně vzdálený bod tohoto průměru jest pólem nekonečně vzdálené přímky roviny polárné vzhledem imag. kruhu nekonečnu. Svazek L{1 určuje nekonečně vzdálené rovině svazek polár, jichž póly jsou položeny poláře nekonečně vzdáleného bodu přímky m"". Řada těchto pólů jest projektivná řadou, které řečená polára protíná svazek Lcc. Tyto soumístné řady mají dva dvojné body, které bodem stanoví hledané osy O', O"" dvou ploch dané sítě.
+
+
+Síť tato byla vytknuta systému 273 tím, bodu přidružen byl libovolný bod obecně různý m""'. Avšak každé síti přísluší plocha téhož systému tak, každé dvě povrchové přímky soustavy P', přidružené involuci [PPř], jsou sdruženými polárami všech ploch této sítě, každé dva body těchto přímek lze považovati body sdružené všem plochám sítě 2J2 H.7) Volíme-li tedy bod pevným, můžeme tímto bodem proložiti celou síť 2?2 základní přímce mm"". Povrchové přímky těchto pbch stanoví bodu m"" prostorový svazek paprskový přímek m'm"" jakožto svazků 2J(w. každému těchto oo2 svazků obdržíme týž svazek 27a, obsahující průměry ploch jdoucí bodem Rovinné pole nekonečně vzdálených bodů svazků 2?tu ustanovuje polárné pole přímek vzhledem imag. kruhu nekonečnu. každé nich obdržíme dle předešlého dva reálné neb sdružené pomyslné body O'\ tedy každém svazku paprskovém, jehož vrcholem libovolný bod jsou položeny dvě osy ploch systému 2?3H.
+
+
+Veďme důkaz duálného útvaru, j., každém svazku paprskovém, obsaženém libovolném poli rovinném leží dvě osy O', O"".
+
+
+Veškeré přímky položené rovině jsou průměry ploch HJ( jichž středy jsou průsečnici roviny Plochy tyto tvoří síť 22HS co1 soustředných svazcích. Základními přímkami každého svazku jsou mimo přímky paprsky <2, <2', souměrné těmto přímkám vzhledem středu každému průměru roviny obdržíme svazku svazek rovin konjugovaných; osa tohoto svazku určena jest jakožto průsečnice konjug. rovin zvrhlým plochám. Jest tedy položena rovině prochází středem odděluje harmonicky rovnoběžky vedené přímkami průsečnice roviny centrálně rovinou, která jest určena pa-
+
+
+Die Gebilde etc. str. 255.
+
+
+VII. ﻿prskem kongruence [PPř] obsahujícím bod průměrem Veškeré osy obalí parabolu dotýkající přímky neboť přímky obalí též jistou parabolu jakožto stopu tečné kuželové plochy vedené bodem hyperb. paraboloidu P,P'}S roviné parabola tato dotýká též přímky *S. Sestrojíme-li nyní nekonečně vzdáleným bodům tečen této paraboly body harmonicky sdružené nekonečně vzdáleným bodům přímek P', jakožto bodům základním, obdržíme dvě projektivně řady, přímce nekonečné vzdálené přímce roviny spojnice přidružených bodů vytvoří parabolu
+
+
+Veďme dále jednotlivých středech roviny kolmé příslušným průměrům ms\ roviny tyto vytvoří parabolickou plochu válcovou, dotýkající přímky tak obecně dvakráte tečná rovina této plochy bude obsahovati tečnu paraboly mimo přímku 6"" nekonečně vzdálenou přímku Body s', s"" příslušné těmto tečným rovinám určují osy ms', O"" ms"".
+
+
+Celou komplexovou plochu kuželovou bodu můžeme takto velmi jednoduše vytvořiti. Každá rovina svazku 2«, určí rovině přímku které přísluší síť L2HS', polárné roviny bodu vzhledem všem plochám L21rls naplní svazek (i, jehož osou jest povrchová přímka soustavy hyperb. paraboloidu P', procházející bodem m"", neboť tento hyperb. paraboloid jest přidruženou plochou sítě L2HS, Celému svazku bude příslušeti svazek přímek rovině rovnoběžné rovinou vrcholu m"".
+
+
+každém svazku 2[i nalézti lze jedinou rovinu ft* kolmou příslušné rovině veškeré roviny [i* obalí plochu kuželovou vrcholu m"" dotýkající roviny rovnoběžné rovinou roviny kolmé paprsku mm"". Normálná plocha kuželová této, vedená bodem jest hledanou plochou komplexovou obsahuje, jak patrno, vždy paprsek prostorového svazku přímek kolmých rovině centrálně, paprsek mm"" kongruence P'], jakožto osy zvrhlých ploch.
+
+
+Podobně vytvořiti lze komplexovou křivku libovolné rovině Rovina tato vytkne jistou síť 2?2HS, jejíž přidruženou plochou jest hyperb. paraboloid P', který rovině povrchovou přímku totožnou paprskem kongruence \PP'\ obsaženým rovině Volíme-li této přímce veškeré body budou polárné roviny těchto bodů plochám sítě 22HS tvořiti oo1 svazků paprskových, jichž osami jsou povrchové přímky plochy soustavy P', ... nekonečně vzdálené rovině obdržíme svazek paprskový, určený nekonečně vzdáleným bodem norrnálným roviny řadou bodovou nekonečně vzdáleném paprsku kongruence \PP\ jakožto svazek nekonečné vzdálených přímek rovin, jež procházejíce přímkami jsou kolmo rovině Nekonečně vzdálená přímka této roviny obsahuje póly všech paprsků předešlého svazku vzhledem imag. kruhu nekonečnu, řada 2?#» těchto pólů jest projektivná řadou
+
+
+VII. ﻿bodů přímce Obalí tudíž spojnice přidružených bodů, osy položené rovině parabolu dotýkající přímky
+
+
+předešlé úvaze vytkli jsme systému 273H síť <L2H tak, polárné roviny libovolného bodu vzhledem plochám této sítě procházely jedinou přímkou m"" resp. celé síti přidružena byla jistá plocha H0; vyšetřme případ, kdy přímka př. m"" seče některou základních přímek P'.
+
+
+Budiž bod průsečík přímek mm"" Hledejme veškeré plochy systému Z13 jichž polárné roviny obsahují přímku m"" m""p. Vytkněme určitou rovinu (i; každá plocha které rovina jako polárná náleží, bude protínati kuželosečce dotýkající stop tečných rovin m"" mm""P' rovině /LI, jest přímek m""p bodě m""p' bodě /', je-li bodem přímky rovině ^t. Tyto kuželosečky tvoří svazek dvojnásob dotýkajících kuželoseček, nichž každá naopak určuje přímkami jedinou plochu všecky pak stanoví svazek 2JH oo1 těchto svazků odpovídajících celému svazku Z\u určí síť Z12 jejíž základní přímkou jest diagonála sborceného čtyřúhelníka P', mm"",ppř jdoucí bodem Diagonály D', jdoucí bodem /', jsou druhými základními přímkami svazků 2JH tvoří svazek rovině mm"" P', jehož vrcholem jest průsečík přímek mm"". Veškeré plochy sítě 2?2H dotýkají bodech //, kterých diagonála seče přímky rovin DPt P'. Plocha této síti přidružená zvrhuje dva svazky paprskové těchto tečných rovinách kol dotyčných bodů, jak též Dupinův theorem sdružených tečen potvrzuje.
+
+
+Přímky druhé soustavy této zvrhlé plochy, tvořící svazky těchže rovinách, však vrcholech Pi,p, jsou dvojné přímky všech zvrhlých ploch vytknuté sítě.8)
+
+
+Dle toho příslušejí všem oo2 zvrhlým plochám systému 2?3H, veškeré sítě 2?2H základní přímce. Všem sítím, jež nemají základních přímek, příslušejí nezvrhlé plochy H0; mezi těmito nachází oo2 hyberb. paraboloidů, které příslušejí oo2 sítím ploch, jichž středy jsou položeny-na téže přímce roviny
+
+
+Protíná-li přímka m"" resp. jednu základních přímek nekonečnu, je-li A\\P př., jest věc podstatě táž; veškeré plochy sítě obsahují přímku D\\P bodem přímce středy jejich naplňují tedy rovině přímku vSJI/5.
+
+
+Seče-li tedy přímka m"" jednu základních přímek konečnu, nejsou žádné dvě plochy sítě 2?2 soustředné přidružená plocha této sítě rozpadajíc dva rovinné svazky paprskové, jichž vrcholy jsou konečnu, representuje zvrhlý hyperboloid; je-li přímka m""p rovnoběžná resp. /"", obsahuje příslušná síť l^HjOo1 svazků soustředných, přidružená plocha representuje zvrhlý hyperb. paraboloid.
+
+
+Die Gebilde I., str. 255.
+
+
+VII. ﻿Volíme-li konečně přímku m""p tak, aby protínala obě přímky />', jest tomto případe m""p=mm"", příslušná síť prochází celá bodem obsahujíc přímku mm'\ polárné roviny bodu tvoří svazek tečných rovin bodu přímce mm"" jinak řadí tento případ těm, kde přímka m"" seče jednu základní přímku konečnu.
+
+
+Vývody předchozí zůstávají platnosti, zaujme-li přímka přímkám zvláštní polohu právě vytčenou.
+
+
+ool sítích ^2//5I kterými vytvořili jsme komplexovou kuželovou plochu, nacházejí dvě sítě zvrhlých přidružených plochách. Středy ploch těchto sítí naplňují přímky ^.vS^ ležící rovinách a^^^mm""P, a\=Linm""P'\ polárné roviny bodu těmto plochám naplňují tedy svazky rovin osách A^AV' takže \\Sí\\P,Atf\\Stt\\Pt&AíV rovině AÍ' rovině «,'. Odtud plyne, komplexová kuželová plocha bodu obsahuje vždy paprsky normálných kongruencí paprskových přímkách P'. Podobně pro kompl. křivku obsaženou libovolné rovině Paprsek kongruence [-P/3'] ležící stanoví přímkami bod x,x'; polárné roviny těchto bodů všem plochám příslušné sítě 2?2HS tvoří svazky tečných rovin přímkách resp. P'. Obdržíme tedy obecně dvě plochy této sítě vlastnosti, spojnice bodů x^x' středy jejich stojí kolmo tečným rovinám bodů x,x' zapadají roviny j., dvě plochy sítě mají vrcholy bodech resp. x'. Kompl. parabola libovolné rovině dotýká tedy vždy dvou paprsků normálných kongruencí paprskových položených rovině
+
+
+II.
+
+
+základě úvah předešlých můžeme snadno nalézti singulárně body roviny tohoto komplexu jich rozložení prostoru.
+
+
+Kompl. plochu kuželovou určili jsme jakožto plochu normál vedených daným bodem tečným rovinám fi* jiné plochy kuželové vytvořené promětnými svazky svazkem normál 27N, vedených bodem m"" rovinám svazku Rozpadne-li tato plocha kuželová, rozpadne vždy kompl. plocha kuželová; naopak však prvá kompl. plocha kuželová může rozpadnouti, aniž plocha druhá rozpadla.
+
+
+Prvý případ nastává, redukuje-li některý svazků jedinou přímku, aneb jsou-li oba svazky perspektivné. našem případě redukuje svazek pro body položené přímkách resp. P'. Komplexová kuželová plocha rozpadá svazek normál vedených bodem přímce základní, níž bod jest položen, svazek paprsků kongruence [PPf], jehož vrcholem jest bod svazek jest neurčitý.
+
+
+Analyticky odvodil jsem tyto vztahy zvláštním případě XXX. roční zprávě reálky Karlínské.
+
+
+VII. ﻿Rozhodněme, pro které body jsou svazky perspektivné, jest, kdy společný paprsek A^* obou svazků jest povrchovou přímkou přidružené plochy H0* jisté sítě 2J2 H**, při čemž kolmo seče paprsek mm"". Paprsek A:* musí býti tedy kolmý rovině «*, normálné rovině vedené paprskem m"". Rovina určí rovinou přímku vS*, která přímkami P,P' ustanovuje plochu H0*, jejíž povrchová přímka At* seče paprsek m"" bodě m*^ takže, označíme-li průsečík paprsku m"" rovinou značkou průsečíky téhož paprsku přímkami resp. značkami resp. />/, jest dvojpoměr bodů AiA^o^i* roven dvojpo-měru bodů, jež povrchové přímky plochy H0*, které těmito body procházejí, určují nekonečně vzdálené přímce roviny <?; pišme krátce
+
+
+Sestrojíme-li nyní bod tak,
+
+
+obdržíme bod, jehož kompl. plocha kuželová rozpadá dva svazky paprskové společném vrcholu m*. Rovina jednoho svazku jest rovina druhá obsahuje paprsky procházející bodem příslušející normálným kongruencím paprskovým přímkách P'~
+
+
+Čtvrtým bodem paprsku mm"", jehož kompl. kuželová plocha rozpadá, jest nekonečně vzdálený bod tohoto paprsku. Tomuto bodu přísluší rovině bod m0, jakožto vrchol nezvrhlé plochy kuželové vytvořené paprsky 2N, kuželová plocha normál vedených bodem však rozpadá, neboť síť Hs**,kterou vytkne přímka S** J_S* bodem w0, vysílá celý svazek bodem mm, rovnoběžných mm"". Druhý svazek jdoucích tímto bodem zapadá nekonečna.
+
+
+Podobně určíme případy, kdy kompl. křivka rozpadá. Tyto případy nastávají, degeneruje-li přidružená plocha PP' aneb degene-ruje-li dotyčná plocha válcová plochy kolmo vedená rovině kompl. křivky. příčinou určitější představy volme roviny kompl. křivek týmž paprskem kongruence [PP'] budiž tedy X^mm"" tedy ŽQ^ŽCC. Plocha rozpadne našem případě jen pro roviny procházející přímkami kompl. křivky těchto rovin rozpadají svazek paprsků normálných přímkám Pf, svazek paprsků kongruence [PP']. Degenerace kompl. křivky souvisí degenerací řečené dotyčné plochy válcové obecně jen tenkráte, je-li řídicí rovina plochy kolmá rovině křivky, což nastává pro rovinu «*. Kompl. křivka rozpadá svazek normál rovině ff, druhý svazek vrchol svůj bodě m*, neboť každá rovina svazku, jehož osou jest přímka A±* jest polárnou rovinou (i* _J_ bodu oo1 plochám sítě 2?2HS*; normály vedené bodem těmto
+
+
+rovinám určují druhý svazek os. Řady bodové kovaném vztahu projektivném.
+
+
+jsou redu-
+
+
+VIL ﻿Jest zajímavo přihlédnouti případu, kdy plocha obsahuje povrchovou přímku druhé soustavy kolmou rovině kompl. křivky. tomto případě vytvořuje křivka jako případě předchozím nezvrhlá obecně, při Čemž řady 2na nejsou redukovaném vztahu pro-jektivném.
+
+
+Druhou rovinu řídicí hyperb. paraboloidu nalezneme jakožto asymptotickou rovinu přímky mm""\ rovina tato tvoří rovinou kompl. křivky rovinami obsahujícími přímky harmonickou čtveřinu. Veďme dále paprskem mm"" pravoúhlou involuci rovin ustanovme pár «',«"", který odděluje harmonicky roviny mm"" mm"" tento pár jest vždy reálný určuje druhé řídicí roviny dvou ploch H0"", H0' tak, tyto plochy obsahují povrchové přímky K'\ kolmé rovinám a"", a'. Polárné roviny fí*, jednotlivých bodů paprsku mm"", kolmé rovině a."" resp. tvoří svazky rovin osách K"", K'. Promětný vztah řad En^ nyní neredu-kuje, neboť přímky R"",K' jsou mimoběžny paprskem mm"", tudíž kompl. křivka rovin a"", obecně nerozpadá.
+
+
+Řady En^ jsou perspektivné, přísluší-li společný bod obou řad sobě, jest, splývá-li nekonečně vzdálený normálný bod roviny kolmé rovině proložené paprskem JÍT nekonečně vzdáleným bodem paprsku mm"" vyžaduje, aby S** a**. Kompl. křivka roviny a** rozpadá svazek rovnoběžných paprskem mm"" svazek, jehož vrcholem jest průsečík příslušných paprsků norm. kongruencí paprskových přímek I'. každém paprsku m"" obdržíme tedy obecně čtyři sing. body podobně čtyři sing. roviny. rovnic str. uvedených lze snadno seznati, dvojpoměr sing. bodů co, rovná dvojporněru sing. rovin obsahujících přímky P', S*, S**, tedy
+
+
+
+
+
+Současné jest patrno, uvažovanému komplexu náleží kongruence paprsková [PP'], normálné kongruence přímkách kongruence paprsková zvrhlá nekonečně vzdálené rovinné pole prostorový svazek paprskový, jehož vrcholem jest nekonečně vzdálený normálný bod roviny centrálně. Tento svazek prostorový kongruence [PP'} náležejí komplexu jakožto osy zvrhlých ploch, nekonečně vzdálené přímkové pole jest geom. místem nekonečně vzdálených hyperb. paraboloidů systému 2?3 paprsky normálných kongruencí přímkách jsou osami ploch obecně ne-zvrhlých.
+
+
+Přistupme nyní stanovení sing. plochy našeho komplexu; hledejme jakožto geom. místo sing. bodů paprscích kongruence [PP'].
+
+
+Plocha sama rozpadá svazek přímek základních zvrhlé kongruence paprskové položený nekonečně vzdálené rovině, přímkovou plochu stupně, která, jak známo, nazývá »Pliickerův cylindroid«.
+
+
+VII. ﻿Volme paprsky mm"" rovnoběžné rovinou «*; jich sing. body budou vždy vyhovovati podmínce
+
+
+(pvpi ;#*) const,
+
+
+čehož plyne, dělicí poměr bodu bodům p^p^' jest stálý, tudíž naplní povrchovou přímku pravoúhlého hyperb. paraboloidu, jež vytvoří paprsky mm"" rovnoběžné rovinou a*. Přímka jest jednou vrcholovou přímkou tohoto paraboloidu seče hlavní paprsek kongru-ence [PP'J, který jest druhou přímkou vrcholovou; jeví tedy sing. plocha jako geom. místo vrcholových přímek všech pravoúhlých hyperb. paraboloidů procházejících přímkami P'. Rovnici této plochy můžeme psáti tvaru:
+
+
+při čemž _J_ /,/>', značí průsečíky paprsku přímkami P', nekonečně vzdálený bod téhož paprsku. Poněvadž jest
+
+
+----r^.— ----
+
+
+jest
+
+
+(PP'PA 5*)
+
+
+Tuto rovnici lze snadno graficky interpretovati.
+
+
+Dvojpoměr (PP1'Pí S*) můžeme realisovati jako dvojpoměr pravoúhlých průmětů přímek P', rovinu centrálnou, přímkou 6*J_P/.; značme tyto průměty týmiž písmeny. Veškeré přímky, které přímkami mají týž dvojpoměr, tvoří dva prometne svazky soumístné dvojných elementech P', jež mají pravoúhlou involucí přímek PA, S*, dva páry sdružených elementů společné. Odtud vysvítá, přímka jest dvojnásobnou přímkou sing. plochy.
+
+
+Vytkneme-li jeden pár přímek PA, jakožto souřadnici bodu h). přímce ff, určenou dvojpoměrem (PP'P^ 5*), nalezneme druhý známým způsobem pomocí křivých řad bodových, které tyto svazky paprskové určují křivce kruhové, jejíž střed příčinou větší jednoduchosti položen obr. osu úhlu přímek P'. Osa perspektivná obou pro-mětných řad jest spojnice druhých průsečíků přímek křivkou kruhovou, středem pravoúhlé involuce přímek PA, jest střed křivky kruhové. Promítněme bodů, které přímky PA, určují křivkou kruhovou, nekonečně vzdálený bod perspektivné osy; tím obdržíme body, kterými procházejí paprsky druhého páru přímek PA', S'*. konstrukce seznáme, úhly přímek PA, PA' jsou půleny vždy týmiž přímkami 7U_ T'\ ploše sing. jsou tedy přímky PA, P)! souměrný rovinám r'~HT'.
+
+
+VIL ﻿10
+
+
+Obr.
+
+
+Pár PÍ, S*, určuje však přímkami dva dvojpoměry, buď
+
+
+nebo tomto případě jest PI= P'i .S'*; přímky P'i
+
+
+
+
+
+procházejíce bodem souměrně položeným bodem h}. rovině cen-7T
+
+
+trálné, jsou kolmý přímkám P;/ tedy _LPj_, P/.L-PV
+
+
+"";.
+
+
+Dvojpoměr (PP'P;.vS*) může, jak obrazce snadno plyne, obecně nabývati všech hodnot, pohybujících řadou veškerých záporných hodnot,
+
+
+mezích -i- kde (PP'TT')\ přímky jsou torsálními
+
+
+hranami sing. plochy, body
+
+
+jsou kuspidálními body. centrálně
+
+
+rovině obdržíme dvě přímky P_i_]_P'—
+
+
+Další vlastnosti této plochy, která jest známa pode jménem >Pliickerův cylindroid*, jsou všeobecně známy.
+
+
+Rovina druhého svazku paprskového zvrhlé kompl. plochy bodu obsahuje normály vedené tímto bodem přímkám P'. Pro veškeré body přímky P), vytvoří tyto normály dva pravoúhlé hyperb. paraboloidy,
+
+
+které protínají přímce náležející sing. ploše, ježto tato plocha
+
+
+jeví též jako geom. místo vrcholových přímek veškerých pravoúhlých
+
+
+VII. ﻿11
+
+
+hyperb. paraboloidů procházejících přímkami
+
+
+
+
+
+
+
+
+Dle toho vytvoří
+
+
+veškeré kompl. kužele bodů přímky dvě lineárně kongruence paprskové, normálnou kongruenci přímce kongruenci [""/^-^""i ~|- Po-
+
+
+dobně pro body přímky obdržíme normálnou kongruenci paprskovou kongruenci ["" ""l -10)
+
+
+těchto známých výsledcích nehodlám dále pojednávati: poukáži raději jinému způsobu, kterým bylo lze sing. plochu komplexu odvoditi. Užijeme tomu cíli sing. rovin; roviny náležejí vždy prostorovému svazku, jehož vrcholem jest nekonečně vzdálený normálný bod roviny centrálně; roviny a** náležejí svazku rovinnému, jehož osou jest povrchová přímka hyperb. paraboloidu, určeného paprsky mm"" rovnoběžnými rovinou a*. téže povrchové přímce sing. plochy můžeme dospěti bez předchozí znalosti polohy sing. rovin.
+
+
+Veškeré plochy systému 2J3H dají totiž seskupiti oo2 svazků ploch soustředných, tak každý bod roviny jest středem všech ploch jistého svazku LHS. Osy ploch takového svazku vytvoří kuželovou plochu Ks, konjugovanou normálnou svazku paprskovému rovině jehož vrcholem jest bod neboť paprsek kongruence [.P-P'] obsahující jest konjug. průměrem všech ploch svazku 2HS} všem průměrům roviny (?, jež vytvoří svazku involutorný vztah, jehož dvojné elementy promítají nekonečně vzdálené body pM, /'«>» přímek Pf. Plocha jest konjug. normálná vzhledem libovolné ploše svazku <LH5 jest současně kompl. plochou kuželovou bodu -y. Lze vytvořiti promětnými svazky rovin, jichž osami jsou paprsek kongr. [PP'J bodem normála vedená týmž bodem rovině Plocha prochází tedy těmito osami, rovině centrálně prochází pak kolmým párem involuce konjug. průměrů svazku
+
+
+Poněvadž každé ploše příslušejí obecně tři sobě kolmé osy, vytvoří osy všech ploch svazku LHS ploše K,, kubickou involuci. Nekonečně vzdálené body těchto vytvoří jistou kuželosečku jevící jako geom. místo vrcholů společných polárných trojúhelníků nekonečně vzdálených kuželoseček svazku LH.S imag. kruhu.
+
+
+Kuželosečky t]s tvoří svazek 2rjs dvojnásob dotýkajících kuželoseček bodech p'M Každá kuželosečka prochází třemi pevnými body tvořícími vrcholy polárného trojúhelníka kuželosečky zvrhlé dvojnásobný paprsek pMp'M. Tento polárný trojúhelník tvořen jest pólem paprsku A»/'oo body VM, z/a,,, jež oddělují harmonicky body pMÍ současně průseky paprsku p'w imag. kruhem. Táž kuželosečka obsahuje také nekonečně vzdálený bod paprsku kongruence [PP\ procházejícího bodem jakožto jeden vrchol polárného trojúhelníku druhé zvrhlé kuželo-
+
+
+Die Gebilde etc. III., str. 438.
+
+
+VII. ﻿12
+
+
+sečky svazku 27^. Veškeré kompl. kužele Kj, příslušné všem bodům roviny promítají tedy síť kuželoseček 272| určenou body hM, vMt vřM. Rovinné pole jest kollineárně zobrazeno síť 272L; můžeme dokázati, každému svazku 271 přísluší řada bodová naopak.
+
+
+Každý bod nekonečně vzdálené roviny vytkne sítě 272| svazek; druhé vrcholy polárných trojúhelníků, jichž jeden vrchol jest bod rM, vytvoří poláře L<# tohoto bodu imag. kruhu involuci bodovou, jakožto řadu průsečíků svazku přímkou R^. Křivky i?5, jimž tyto polárné trojúhelníky příslušejí, musí procházeti body gM, g^, jež paprscích r^p^, r^p'^ jsou bodu přímce harmonicky přidruženy bodům pM, p'M tvoří tedy svazek vrcholech pM, p'x, gM> g'^. Tečny vedené těmto křivkám bodech />00, p'M, vytvoří dva perspektivné svazky paprskové, přiřadíme-li sobě tečny jedné téže kuželosečky. Perspektivná osa těchto svazků jest geom. místem dvojných bodů zvrhlých kuželoseček jež příslušejí oo1 svazkům 27^ jichž kuželosečky tvoří svazek vrcholech hM, VMJ v'M, rM.
+
+
+Řadě ž~m<x> přísluší involuci [PPf] řada 27s, jakožto řada středů ploch H5, jichž jedna osa prochází vždy bodem r^.
+
+
+Poněvadž rovinné pole pole nekonečně vzdálené jsou kon-gruencí [-P-P'] kollineárně sobě přidruženy každá přímka určuje jediný bod rMt jakožto čtvrtý vrchol svazku 271, přísluší každé přímce roviny určitý svazek kuželoseček 271 rovině nekonečně vzdálené. Body A»» /oo> <^oo- /oo. ^oo nekonečně vzdálený bod přímky tvoří rohy úplného čtyřstranu, jehož dvěma úhlopříčnami jsou přímky RM, procházející bodem bodem r^. Poněvadž body jsou konjugovány imag. kruhu, jsou osy procházející bodem kolmý přímce .S.
+
+
+Abychom stanovili povrchové přímky sing. plochy, uvažujme svazek přímek 276"" bodu SM. Tomuto svazku přísluší ním perspektivný svazek tomuto opět řada žr^ poláře bodu vzhledem imag. kruhu. Svazek paprskový 275', který promítá bodu řadu 27^, jest opět perspektivný svazkem 27^, pročež roviny procházející dvěma sdruženými elementy vytvoří svazek, jehož osa P;u prochází bodem JOQ. Přímky .7, náležejí vždy témuž hyperb. paraboloidu; poněvadž však řada 27^ obsahuje vždy bod /z^, protíná přímka P/. hlavní paprsek kongruence [PP]. Jsou-li opět/,/', k), body průsečné paprsku přímkami -P', P;0 jest dvojpoměr bodů/,/', roven dvojpoměru příslušných tečných rovin hyperb. paraboloidu určeného řadou rM, přímkami Pf. Tečná rovina bodu obsahujíc paprsek řady 277^, jest kolmá přímce Pit Jsou tedy tečné roviny bodech k), sobě kolmý; pročež opět platí
+
+
+VII. ﻿13
+
+
+systému 23H nachází síť 2?2P hyperbolických paraboloidů, jichž druhé řídicí roviny lze shrnouti kolem téhož bodu prostorový svazek. Veškeré osy těchto ploch konečnu položené jsou rovnoběžný centrálnou rovinou ff, osy nekonečně vzdálené tvoří nekonečně vzdálené přímce roviny tfoo1 svazků paprskových.
+
+
+Hledejme geom. místo vrcholů těchto paraboloidů. Zvolme příklad centrálným bodem paprsku přímku rovině hledejme geom. místo vrcholů všech paraboloidů P*., jichž osy jsou rovnoběžný přímkou Přímku tuto považujme osu svazku řídících rovin Q„. stanovme každém paraboloidu vrchol jakožto dotyčný bod roviny tečné kolmé přímce
+
+
+Jedna soustava vrcholových přímek těchto paraboloidů jest rovnoběžná rovinou centrálnou, druhá soustava protíná přímky náleží hyperb. paraboloidu 77, jehož řídící rovina jest kolmá přímce Vytkněme jednu přímku této soustavy, jakožto vrcholovou přímku hyperb. paraboloidu P*, jehož vrchol označme VK\ průsečíky přímky přímkami .F, buďtež /«, /„', roviny P^=<xK, P'Rít=KK'. Potom platí pro plochy TI:
+
+
+(aK a'K (pM p'K (p„ p'K v'*
+
+
+kde v'K značí dotyčný bod paraboloidu tečnou rovinou přímky rovnoběžnou px. Avšak dvojpoměr (KK K'K QK) jest pro každou přímku týž. Roviny vedené bodem rovnoběžně rovinami «x, «'«, (O*, promítají vždy tytéž čtyři přímky roviny centrálně; dvě nich jsou přímky rovnoběžné přímkami P', ostatní dvě jsou přímky J_O bodem
+
+
+Dle toho naplní body v'K povrchové přímky F;., FI'paraboloidu/2,
+
+
+
+
+
+při čemž jsou dělící poměry bodů v'* bodům pK, p'K
+
+
+
+
+
+Body~VK v'„ jsouce položeny přímce jsou stejně vzdáleny roviny
+
+
+centrálně. Přímky Vlt obsahují body v0í v0' přímky R0= která
+
+
+
+
+
+přísluší paraboloidu P0, jehož řídicí rovina Q0JLG> takže veškeré přímky Vit protínají hlavní paprsek jsou kongruenci \PPf] sobě sou-
+
+
+měrně přidruženy dle roviny centrálně Přímka náleží sing. ploše
+
+
+
+
+
+komplexové, jsouc přímkou vrcholovou pravoúhlého paraboloidu /Z, takže =Pi bod VQ=h\, neboť dle poslední rovnice platí:
+
+
+A>'
+
+
+VII. ﻿14
+
+
+při čemž p0J_jr. Ponévadž přímka V\=Pl \\O, přímky V), PI_
+
+
+
+
+
+příslušejí sobe jako sborceně symmetrické, jsou osy hyperb. paraboloidů, jichž vrcholy jsou položeny přímce kolmé přímce sing. plochy. Hledaná plocha vrcholů jest tedy přímkovou plochou sborceně symmetrickou sing. ploše komplexu vzhledem rovině centrálné, přímkám jakožto osám symmetrie. Rovnici její, jest vztah, který váže polohu přímky osy můžeme snadno napsati, uvážíme-li, pro paraboloid platí
+
+
+píšeme-li souhlasně sing. plochou místo bodů />0, /'0, paprsku ^A, vyjádříme-li dvojpoměr tečných rovin a0, «„', téhož paprsku dvojpoměrem nekonečně vzdálených bodů přímek Avšak pro paraboloid platí též:
+
+
+tudíž rovnici plochy lze vyjádřiti tvarem:
+
+
+Předpokládejme vlastnosti sing. plochy jakožto známé; vlastnosti plochy lze potom snadno odvoditi. Poněvadž každým bodem paprsku procházejí dvě přímky sing. plochy, jest paprsek též dvojnou přímkou plochy podobně kuspidálné body %d,hi povrchové přímky P-i
+
+
+rovině centrálné jsou společné oběma plochám. Obě plochy lze vytvořiti jako přímé konoidy, jichž řídicí rovinou jest centrálná rovina přímkou řídicí paprsek Průsečné křivky libovolnou rovinou procházející jednou přímek P"" jsou centricky symmetrické průsečnici rovin jakožto ose průsečíku roviny druhé přímek jakožto pólu. Ježto rovina seče obecně sing. plochu ellipse která promítá rovinu jako kružnice, bude poněvadž bod jest křivce průsečnou křivkou roviny plochy cissoidálná křivka stupně jež bodě bod dvojný assymptotu oné přímek resp. P*, jež neobsahuje bod (obr. 2.). Plocha jest tedy přímý konoid stupně, jehož třetí řídící křivkou lze voliti křivky tohoto vytvoření plyne, přímky jsou dvojnásobnými povrchovými přímkami této plochy, nekonečně vzdálená přímka roviny centrálné jest trojnásobnou přímkou. Poněvadž povrchové přímky určují těchto vícenásobných přímkách korrespondenci bodovou [2, 3], obsahuje dvojnás. přímka obecně nekonečně vzdálená přímka trojnásobná obecné kuspid. bodů. Počet tento však redukuje tak, dva kuspid. bodů přímky splývají kuspid. body hi, příslušné kuspid. hrany jsou položeny
+
+
+VII.
+
+
+Obr.
+
+
+kuspid. rovinách sing. plochy; průsečíky />,/' přímek přímkou absorbují dvou dalších kuspid. bodech. Nekonečné vzdálené body pw, />'<» absorbují třech kuspid. bodech nekonečné vzdálené přímky roviny <?, ostatní dva nekonečně vzdálené kuspid. body nacházejí rovinách
+
+
+VII. ﻿16
+
+
+tečných HK„, HK'^ vedených paprskem křivce Roviny HP, dotýkají téže křivky dvojném bodě bode nekonečně vzdáleném. Přímky jsou dvojnými povrchovými přímkami současně kuspid. hranami plochy Uspořádání povrchových přímek kuspid. hran plochy jest podobně jako sing. plochy axiálně symmetrické dle přímek P_j resp. P'—\ rovině (viz obr. 2.).
+
+
+Rasche uvedené dissertaci (str. 46.) tvrdí, plocha vždy rozpadá plochu stupně dvě roviny přímkami rovnoběžné rovinou Závěr tento není správný, poněvadž nelze každý bod dvojné přímky zvrhlého hyperb. paraboloidu pokládati vrchol, neboť každá rovina kolmá dvojné přímce zde resp. není tečnou rovinou tohoto paraboloidu. Vrcholy těchto zvrhlých paraboloidů naplní konečnu pouze přímky P'. Jsou-li zvláštním případě přímky sobě kolmý, splývají kuspid. hrany sing. plochy plochy přímkami P',
+
+
+takže body h§=p, h\=p' absorbují body pw, p'^, kuspid.
+
+
+bodech. Přímky jsou stationárnými hranami úvratu plochy rovina
+
+
+seče pak plochu křivce cissoidálné bodem úvratu, která rovinu centrálnou promítá vždy cissoidu Dioklovu.11)
+
+
+konci chci uvésti ještě zajímavou vlastnost komplexových ploch kuželových. Ježto daný komplex obsahuje oo1 normálných kongrnencí paprskových povrchových přímkách sing. plochy, jeví jak známo kompl. kužel jako geom. místo paprsků, jež procházejíce daným bodem V). vrcholem, jsou kolmý těmto povrchovým přímkám. Úpatní body těchto paprsků tvoří elliptickou křivku která centr, rovinu promítá kružnici EVI obsahující pravoúhlý průmět bodu V), rovinu centrálný bod paprsku jakožto body diametrálné. Kompl. kužele, jichž vrcholy v-,, položeny jsou téže přímce kolmé rovině promítají tutéž kuželosečku A12)
+
+
+Stanovme stopu libovolné kompl. plochy kuželové rovině tuto křivku můžeme odvoditi jakožto křivku centr, kollineárnou kružnici B"", bodu jakožto středu, stopě roviny kuželosečky rovině jakožto ose kollineace. Tato osa prochází vždy středem kružnice Ev. Osy kuželoseček jsou vždy rovnoběžný kuspid. hranami sing. plochy. Protne-li kružnice kuželosečku bodech, tvoří tyto body úplný čtyřroh, jehož protější strany jsou osám kuželosečky stejně nakloněny. Tyto protější strany jsou našem případě společná tečna obou křivek E"", bodě osa centr, kollineace de^ dále přímky e^v při čemž _J_ vd\ poněvadž však /Li, P'—i, jsou osy kuželoseček stejně odkloněny přímek P—i, P'—\, tudíž rovnoběžný kuspid. hranami. Důkaz mohli bychom též jinak vésti; průměru kružnice E"", který jest kolmý ose kollineace
+
+
+"") XXX. roční zpráva reálky Karlínské.
+
+
+"") Zeitschrift fůr Mathematik und Physik, sv. 48., Grůnwald >Sir Robeit Balíš lieneare Schraubengebiete.«
+
+
+VII. ﻿17
+
+
+Obr.
+
+
+de, přísluší průměr a-,. b*,. křivky tak, trojúhelník pravoúhlý va^b). jest této křivce vepsán, při čemž přepona #;. b>. prochází středem. Osy kuželosečky jsou rovnoběžný a), resp. b). poněvadž body jsou průmětu kuspid. hran bod jest diametrálný bodu mají osy kuželoseček polohu dříve vyznačenou. Jednu protějších rovnoběžně osou centr, kollineace lze libovolně voliti; jednotlivé její polohy příslušejí polohám vrcholu z>;„ přímce kolmé rovině
+
+
+Kompl. kuželové plochy, jichž vrcholy z/;, jsou položeny rovině <?/. tf, obsahují vždy dvě reálné neb pomyslné osy hyperb. paraboloidů; tyto osy procházejí vždy dvěma pevnými body nekonečně vzdálené přímky roviny centrálně, pročež veškeré kuželosečky odpovídající bodům roviny <?;. jsou podobné podobně položené, majíce vždy osy rovnoběžný kuspid. hranami sing. plochy T'. Mezi těmito kuželosečkami můžeme nalézti kuželosečky shodné, které odpovídají bodům roviny (?;. položeným jisté kuželosečce jejíž střed nachází hlavním paprsku //, osy její jsou rovinách H7\ neboť celý komplex jest symmetrický rovinám T'. Uvažujme pravoúhlý průmět kuželosečky E-,' rovinu ff.
+
+
+Rozpravy: Roč. XIV. Tř. II., číslo
+
+
+VII. ﻿18
+
+
+každém paprsku procházejícím bodem obdržíme dva body v', jež jsou pravoúhlé průměty vrcholů dvou kuželů, které protínají rovinu shodných kuželosečkách E\. Každé dva svazky kuželoseček odvozené předchozími centr, kollineárnými vztahy, jichž středy bodem náležejí téže přímce, jsou poloze středové dle bodu //. Jsou-li hlavní vedlejší vrcholy průmětu křivky E'-^ jsou délky jejích poloos průměry kružnic, nichž vztahem centr, kollineárným lze odvoditi shodné křivky E%, L%'*. Středy těchto vztahů jsou body osy jsou průměry křivek kruhových kolmé hw, hw* (obr. 3). Vyhledejme nejprv libovolném svazku, který centr, kollineací přísluší, kružnici Ew' středu jak právě vytčeno, křivku El' E\. Veďme bodem paprsek rovnoběžný spojnicí hlavního vedlejšího vrcholu křivky Ll, druhém průsečíku tohoto paprsku kružnicí EM\ veďme tečnu průsečíku osou centr, kollineace. Učiňme dále ur\\/iw', čímž obdržíme bod je-li dále roj^/tzv', jsou oř, délky poloos kuželosečky E™'. této kuželosečky pak odvoďme dle středu podobnosti //, kuželosečku Ll!^Ll] průměr kružnice En\ která odpovídá kružnici Ew' jest hledanou poloosou. Druhou poloosu obdržíme podobným způsobem, avšak konstrukci lze provésti použitím křivky Eu'r. Bodem veďme paprsek _]_ průsečíku kružnicí E™' veďme tečnu SLZ ose kollineace, učiňme opět tu' bodu _]_ jsou poloosy kuželosečky, jež otočena jsouc rovině úhel pravý, jest podobna podobně položena křivkami Ll, této kuželosečky odvodíme opět dle středu podobnosti kuželosečku Lf* tím získáme poloosu w*.
+
+
+Buďtež délky poloos shodných kuželoseček L%'* potom platí dle konstrukce
+
+
+hw\hw a\or\ \hiv~=.$; r';
+
+
+poněvadž však
+
+
+jest
+
+
+poměr poloos všech kuželoseček E-' roviny GÍ. jest týž, kuželosečky tyto jsou podobny kuželosečkám E\, avšak osy jejich jak obrazce patrno jsou pravý úhel proti sobě otočeny. Obsahují tedy kuželosečky E)' příslušné rovině (?A tytéž dva nekonečně vzdálené body, jež náležejí povrchovým přímkám /A, sing. plochy položeným rovině jak snadno lze zvrhlých čar Ev} seznati.
+
+
+Středy s-t. shodných kuželoseček naplní rovině centrálné kuželosečku L>."". Střed její jest bode /i, osy průmětech kuspid. hraň vrcholy jsou středy křivek ^f, L%'*. Rovinná pole ff;. jsou kollineárná, přidružíme-li vrchol Z>A kompl. kužele středu S), kuželosečky E\\ promít-
+
+
+VII ﻿Obr.
+
+
+neme-li kolmo pole <?;. pole <>, obdržíme obecně soumístná pole kollineárná, nichž bod nekonečně vzdálené body kuspid. hran jsou body dvojnými. Kuželsečky Eí' jsou opět vesměs souosé podobné, obsahujíce tytéž dva nekonečně vzdálené body tímto kollineárným vztahem přidružené nekonečně vzdal, bodům křivek E'I. Obsahují-)i křivky reálné neb pomyslné body nekonečnu, bude křivka obsahovati reálné neb pomyslné body nekonečnu naopak; podobně kuželosečky E}'f. Rozpadají-li křivky _L""/;, rozpadají obecně E-' EI"". Mohou však nastati též případy zvláštní. Kompl. kužele, jichž vrcholy jsou kuspid. rovinách sing. plochy <?<5, protínají rovinu křivkách pa-
+
+
+
+
+
+rabolických, jichž osy jsou kolmý kuspid. hranám sing. plochy.
+
+
+Kuželosečky E&, L/, majíce nekonečnu též dva splývající body jsouc
+
+
+každá středově souměrná průsečíku paprsku rovinami <?j, re-
+
+
+VII.
+
+
+﻿20
+
+
+dukují dvě přímky rovnoběžné kuspid. hranami T'. Křivky E&\
+
+
+redukují body nekonečně vzdálené. Avšak křivka E"" rozpadá ještě dvě splývající přímky rovinách (7f, ffí, které jsou vedeny rovno-
+
+
+
+
+
+běžně rovinou dvojnásobné vzdálenosti kuspid. rovin <?<$, roviny
+
+
+
+
+
+centrálně. Neboť můžeme vždy příhodnou volbou roviny (>/. konstrukci vrcholů křivky E)."" tak zaříditi, středy kuželoseček ET, E""'* (str. 18.) zapadají oba průmětu přímky resp. svazku kuželoseček, které odvodili jsme vztahem centr, kollineárným kružnice Ew' dle středu průměru této kružnice kolmém jakožto ose, vyhledejme kuželosečky jejíž střed jest položen bodě Bodu (obr. kružnice Eu'' přísluší hledané křivce bod tak, m^. Tím jest centr, kollineárný vztah již určen. Je-li /středem kružnice Ew\ jest (w' m^) je-li dále bodem protější osy kružnice EK\ jest (w' oo) Odtud snadno plyne, s'. Vzdálenost protější osy osy centr, kollineace rovná tedy dvojnásobné vzdálenosti středu kollineace osy. Tím tvrzení hořejší
+
+
+dokázáno. Kuželosečky resp. mají poměr poloos resp.
+
+
+středy jejich jsou vždy průmětech přímek resp. sečky EL\ jsou jim podobny; poměr jich poloos jest však
+
+
+Kuželo-1
+
+
+Vlastnosti kompl. křivek, které daly duálně odvoditi těchto vlastností kompl. ploch kuželových, nehodlám sledovati. Uspořádáním těchto kompl. ploch kuželových vystupuje zcela zřetelně povaha celého komplexu; kategorii jeho, pokud zřejmě není často již zmíněném díle Sturmově 13) vyznačena, provedl jsem XXX. roční zprávě reálky Karlínské.
+
+
+"") svazek III. str. 439. poznámce).
+
+
+VII."

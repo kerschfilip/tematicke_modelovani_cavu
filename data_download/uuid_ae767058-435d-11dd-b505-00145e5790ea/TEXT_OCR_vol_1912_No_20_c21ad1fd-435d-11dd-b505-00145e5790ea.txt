@@ -1,0 +1,363 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TŘÍDA II.
+ČÍSLO 20.
+K problému normál při ellipse a hyperbole.
+Napsal J. SOBOTKA.
+(Předloženo   Akademii   dne   18. května  1912.)
+1.  Řešení problému normál jest na theoreticky nejjednodušší prostředky konstruktivní redukováno, když užívá mimo úplně dané kuželosečky ještě pouze kružnic a přímek.    Toto redukování jest nejkrásněji provedeno Joachimsthalovým  řešením. Chceme zde  ale  otázku tak rozšířiti, že se budeme ptáti po řešení problému normál pro nějakou centrickou kuželosečku, když známe řešení pro libovolnou, ale úplně danou centrickou kuželosečku u; to znamená, máme převésti řešení problému normál pro libovolnou centrickou kuželosečku pomocí přímek a kružnic na konstrukci normál kuželosečky u.    K tomu se vztahující úvahy tvoří jádro předloženého pojednání.
+2. Paty normál spuštěných na kuželosečku k z bodu P ležícího v rovině kuželosečky nalézají se na tak zvané Apolloniově hyperbole h, která prochází bodem P jakož i středem O kuželosečky k, a jejíž asymptoty jsou rovnoběžný k osám kuželosečky k.    Budiž n jedna z těch normál, N její pata, N' její průsečík s hlavní osou, N"" průsečík s vedlejší osou kuželosečky k.
+a2 Jak známo platí (N""N'N) = + —, podle toho je-li kuželosečka k
+ellipsa nebo hyperbola, při čemž značí a, b absolutní délky velké a malé poloosy.
+Otáčí-li se přímka v rovině okolo pevného bodu P a protneme-li ji v každé poloze dvěma libovolnými pevnými přímkami (a), (b) téže roviny v bodech V, V"" a určíme-li konečně na ní bod V tak, že poměr (V""V'V) zůstává konstantní, opisuje bod V hyperbolu jdoucí bodem P, jejíž asymptoty jsou rovnoběžný ku přímkám (a) a (b), jak plyne bezprostředně z projekti-vnosti paprskových svazků rovnoběžných ku (a) a (b), ve kterých si vždy
+Rozpravy: Roč. XXI. Tř. II. č. 20.                                                                                l
+XX .
+ ﻿přísluší elementy, které procházejí bodem V, vztažmo z projektivnosti řad bodových, které vytínají ty svazky na (b) a (a). Pro Apolloniovu hyperbolu Splyne z toho vlastnost, že spojnice libovolného jejího bodu^K s bodem P protíná osy (a), (b) kuželosečky k v bodech V , resp. V"" tak, že
+a2 (V""V'V) = ±: -Tg- ,  neboť tento vztah platí, když splyne bod V s patou
+normály příslušející k bodu P.
+Označíme-li Pa, Pp paty kolmic z bodu P a. písmeny F„, Vf paty kolmic z V spuštěných na (o) resp. (b), jsou PaPp, VaVp dva průměry hyperboly h a protínají se tudíž v jejím středu 5.
+Uvažujme dále parabolu, která se dotýká (a) v bodě V, (b) v V""; ta má Pu Pft, V a Vp za tečny. Jelikož jest dělící poměr bodů, ve kterých ibovolná tečna paraboly protíná tři pevné tečny, zde (b), (a), Va Vp, konstantní, proto plyne zde pro průsečíky přímek Pa Pp, (a), (b), že
+(PpPaS)  =  (OVVa)  =  (V""OVf).
+Jest tedy
+= (V""W} = ±
+Platí tudíž
+Značí-li aa, ba asymptoty hyperboly h rovnoběžné ku (a) a (b), jest
+Asymptoty Apolloniovy hyperboly příslušející k bodu P jsou tudíž společné tětivy kuželosečky se dvěma jí se dvojnásob dotýkajícími kružnicemi, z nichž jedna má svůj střed v patě P„ kolmice z bodu P na (a), a druhá má střed v patě Pp kolmice z bodu P na (b).
+Je-li kuželosečka parabolou, pak jest aa = (a) a vzdálenost bodu P od druhé asymptoty ba rovná se parametru p paraboly.
+Jsou-li tudíž m, n souřadnice bodu P a x0, y0 souřadnice středu hyperboly h, plyne po centrickou kuželosečku ihned, že
+xn —
+m =
+am
+bz            bn
+—s- n = -----
+(i)
+označíme-li e výstřednost kuželosečky k a r vzdálenost bodu O od středu křivosti H' kuželosečky k pro vrchol její ležící na ose + x, a písmenem ^ vzdálenost bodu O od středu křivosti H"" pro vrchol ležící na + y, když jest k ellipsou; je-li k hyperbola, pak značí rt vzdálenost bodu O od středu křivosti ve vrcholu na ose + y pro hyperbolu sdruženou ku hyperbole k vzhledem k asymptotám.
+XX. ﻿^ 3. Budiž n normála kuželosečky v libovolném jejím bodě N; N', N"" budtež průsečíky té normály s (a) a (b). Označíme-li x, y souřadnice bodu N, jest
+= -4- x,         ON"" = ~^-^r'v,
+a""
+podle toho, je-li k ellipsa nebo hyperbola.  Označíme-li X, Y souřadnice libovolného bodu Nt na n, platí úměra
+y : y = (X —ON'} : (x — ON'}, z kteréž, jakož i z analogické úměry
+X : x = (Y — ON"") : (y — ON"") plynou relace
+-- v
+x Y
+(2)
+Volíme-li tudíž na normálách kuželosečky k takové body Nlt že pro
+Y                                            X
+ně jest — konstantní, iest pro ně také — konstantní a obráceně. Z toho
+y                   • .       .                    x
+plyne:
+Určíme-li na každé normále n bod Nt tak, že (N""N'NJ má konstantní hodnotu, popisuje bod N1 kuželosečku kt affiní ke kuželosečce k. Osy jsou přímky, které přísluší affinně samy sobě. Označíme-li «!, ĎJ absolutní délky poloos kuželosečky kt ležících na (a) (b), jest
+x         a            y         o
+a z rovnic (2) plyne relace
+aa1 + bb1 = ez                                       (3)
+Spojíme-li spolu hlavní středy křivosti H', H"", v odstavci 2. uvažované, má jejich spojnice q rovnici « L ip 6 17 = e2 . Z toho vidíme jak spolu souvisí koncové body poloos kuželoseček kí} které přísluší různým hodnotám (N""'N'N^. Tyto- body jsou paty kolmic vedených ku (a) a (b) z onoho bodu H^ na H'H"", pro který jest (WH^ = (WWŇJ .
+Neboť platí
+= ± -     (WWNJ a značí-li íř bod ležící
+na H'H"", který má tentýž význam pro kuželosečku k, jako H^ pro &, a který tudíž v affinitě mezi k{ a k přináleží bodu Hít pak jest rovněž
+(H""H'HJT) = ±^-(H""H'HJ, neboť jest (H""H'H) = ±-4-.
+-a2                                                                             o""
+Při tom jest jak známo přímka q při ellipse k kolmice z bodu H na přímku, která spojuje její vrchol na + x s vrcholem na + y, kdežto při
+XX.                                              * ﻿hyperbole k jest přímka q kolmá k jedné asymptotě a od bodu O má vzdálenost e, a bod H\ náleží též jedné asymptotě hyperboly k{.
+4. Affinitou mezi k a k± přísluší každé hyperbole h, kteráž prochází bodem O a jejíž asymptoty jsou rovnoběžný ku (a) a (b), zase takováto hyperbola hv Obě hyperboly h a hi jsou Apolloniovy, prvá pro k, druhá pro &i. To plyne také již z rovnic (1).
+Má-li střed hyperboly h opět souřadnice x0, y0,  střed hyperboly h^ souřadnice xv ylt jest
+Z rovnic (1) plynou souřadnice bodu P
+- — xo >       n    -L- y0.
+jehož  Apolloniova  hyperbola  jest  právě  daná  křivka.    Značí-li  R,  Rt pro kv délky
+e 2                            e 2
+tu jsou obdobně souřadnice m1( n± bodu (^j, pro který jest h: Apolloniova hyperbola příslušející ku klt dány rovnicemi
+73                                           T>
+J\                              /C]
+a tudíž jest
+R                     R1
+mi -   a xo>      ni —  b y0>
+při čemž R a Rl právě tak obdržíme z Hlf jako r a r1 z H.   Dosadíme-h též za XQ, y0 hodnoty z rovnic (1), obdržíme
+R                            7?
+M-. = — m,        n, = —- n                                (3)
+""             Y           ""                                 Y
+Sestrojíme-li ku k\ podobně položenou kuželosečku k\ vzhledem ku O, jejíž vrcholy ležící na (a) splývají s vrcholy kuželosečky k, jsou k\ a k v kolmé affinitě k sobě a osa affinity jest (a). Jsou-li R', R\, m', n' délky příslušející ku R, Rlt m^ nv pak jsou m', n', souřadnice bodu P' té vlastnosti, že paty normál vedených z bodu P' ku k\ přísluší affinně patám normál vedených z bodu P ke kuželosečce k. Patrně platí
+m'        R' s          n'       R\                               v
+Máme-li tudíž vésti z bodu P ke kuželosečce k normály,  můžeme takto pokračovati.   Vyhledáme   nejprve bod P' vyhovující rovnicím (4)
+sestrojíme normály ke k\ bodem P' a odvodíme konečně pomocí  poslední
+affinity   jim  příslušející  přímky  bodem P,  kteréžto jsou pak   hledané normály.
+XX. ﻿Sestrojíme na př. podle Joachimsthalova řešení problému normál kružnici Joachimsthalovu příslušející k hlavnímu vrcholu A kužesolečky k\ pro bodP', protneme ji s k\ a spojíme průsečíky s A. Tyto spojnice nechť protínají osu y v bodech M\, M'z, M's, M\. Pak sestrojíme na y body Mlf M2, Ms, MI, které přísluší právě zmíněným bodům na y v affinitě mezi k\ a k, tudíž vyhovují rovnici
+4- - ir>                                  W
+označíme-li délky a souřadnice vztahující se ku k\ čárkou a indexem 1. Pak jsou konečně kolmice vedené bodem P k A Mlf AM2, AM3, AM4 hledané normály kuželosečky k. Neboť přímky A M\, .... stojí kolmo na normálech n\, .... kuželosečky k\ bodem P'. Je-li tudíž N\ pata normály n\, pak jest tečna v N\ ku k\ rovnoběžná s AM\. Normála n± v bodě N-i podle (5) affinním a ležícím na k prochází bodem P a tečna v N1 ku k přísluší affině tečně v N\ ku k\ a tudíž kolmice z bodu A na n^ přísluší v této affinitě přímce A M/, čímž jest dokázána správnost naší konstrukce.
+5. Budiž dána úplně pevná, čentrická kuželosečka k*; máme k jiné kuželosečce k s k* stejného druhu vésti z daného bodu P její roviny normály, a sice tak, že používáme při konstrukci mimo k* pouze ještě kružnic a přímek.
+W Právě provedená úvaha dává nám takové řešení. Je-li k* libovolně daná kuželosečka stejného druhu s k, tu sestrojíme nejprv kuželosečku kt orthogonálně affinní ku k a podobnou k dané pevné kuželosečce k*. Odvodíme prve uvedeným způsobem bod P' z bodu P a sestrojíme k němu bod P* příslušný v podobnosti mezi k± a k*. Vedeme dále z P* normály ku k*, čímž jsou normály z P' ku k^ též stanoveny a pomocí těchto pak hledané normály z P ku k.
+Místo  abychom  provedení této  konstrunce rozváděli,   upravíme  si konstrukci v jednodušší formě úvahou následující.
+Označíme hlavní a vedlejší osu kuželosečky k* za souřadné osy x*> y*> její absolutní poloosy písmeny a* a 6*; obdobné veličiny pro k označíme x, y, a, b. Dále vztahujme k a k* k sobě affině tak, že osám x, y kuželosečky k přísluší osy x*, y*. Buďtež A, A* k sobě příslušící vrcholy na + x a + x* a O, O* středy obou kuželoseček. Pak jest zde affinita vyjádřena rovnicemi
+x          a                 y          b
+i~~   -----           *~  >                             i~~   ----'      Z.*                                                                            V    /'
+x*        a*              y*        b*
+Sestrojme ve dvou k sobě příslušících bodech ./V, N* normály n, n' obou kuželoseček; nechť jsou N§, N^ průsečíky normály n s osami x, y, a N'§, N',, průsečíky normály n' s osami x*,y*. Položíme-li a*2'.~p b*2 = e*2, a2^: b2 — e2 podle toho jsou-li k a k* ellipsy nebo hyperboly, obdržíme
+XX. ﻿Dále označme H% střed křivosti kuželosečky k v bodě -4, a K$* týž pro kuželosečku k* v bodě ^4 *; budiž pak Rn střed křivosti kuželosečky k, K^* kuželosečky k* ve vrcholu, který leží na ose + y, resp. + y*, když jsou obě kuželosečky ellipsy; jsou-li ale k a. k* hyperboly, znamenejtež tyto body středy křivosti pro vrcholy ležící na + y, resp. + y* hyperbol, které jsou k daným hyperbolám sdružené vzhledem k asymptotám. Konečně položme OH i = r, OHn = r', O* K** = R, 0*Kn* = R'.
+Pak plyne z posledních rovnic, jelikož
+*2
+s ohledem na rovnice (1)
+' -  A,          n*A7'       **L
+l —   „  x '         u JM n       ,   y
+takže platí
+ONš
+R '           0*N\       R'
+(2)
+Normály dvou affinních kuželoseček v bodech sobě příslušných tvoří tedy také dva affinní systémy přímek; v této affinitě příslušejí osám x, y rovněž osy x*, y*, a tato affinita jest podle (2) vyjádřena rovnicemi
+y          r
+(3)
+x* '     R '        y*        R'
+Normálám ke kuželosečce k vedeným libovolným bodem P její roviny příslušejí pomocí této affinity normály ku k*, které procházejí bodem P' affiním ku P.
+Jsou-li tudíž m, n souřadnice bodu P vzhledem k x, y a. m', rí souřadnice bodu P' vzhledem k x*, y*, jest také
+m         r            n         r'
+m'     ' R !        rí       R'
+jako bylo ve či. 4 rovnicí (4) vyjádřeno.
+Body P, P' tvoří  dvě k sobě affinní  pole, jejichž vztah jest dán rovnicemi (3).
+XX. ﻿Poznáváme ihned, že v této affinitě přísluší k sobě též středy příslušných k sobě Joachimsthalových kružnic.
+Bucftež L, ŤJ souřadnice v soustavě (Oxy) pro střed Joachimsthalovy kružnice kuželosečky k bodu P vzhledem k bodu A příslušící a v soustavě (0*x*y*) buďtež 3č, $, souřadnice středu kružnice Joachimsthalovy pro kuželosečku k* obdobně bodu P vzhledem k A* příslušící. Víme,1) že
+2 mn                  m2        b nz
+r                       r         ar' '
+kterouž poslední rovnici také můžeme psáti
+Obdobně platí
+2 m'rí
+_
+R
+Dosadíme-li do posledních rovnic hodnoty za m' a n' z rovnic (4), obdržíme
+9 = 2*1 _»»
+r         r
+2
+a tudíž
+r ~Ř~'
+r'
+""7^
+kteréžto rovnice se shodují s rovnicemi (4) a (3).
+Můžeme tudíž vysloviti větu:
+,,Vztahujeme-li dvě stejnorodé, centrické kuželosečky k sobě affinně podle rovnic (1) a stanovíme-li v jejich rovině další affinitu, danou rovnicemi (3), pak normály vedené ke kuželosečkám z libovolných dvou bodů příslušících si v druhé affinitě, též k sobě přísluší v této affinitě, a paty těchto normál přísluší k sobě v prvé affinitě, a dále středy příslušných Joachimsthalových kružnic přísluší k sobě v affinitě druhé.""
+Prvá affinita přiřazuje kuželosečce k kuželosečku k*, druhá affinita přiřazuje kuželosečce /, která má hlavní středy křivosti kuželosečky k za vrcholy, kuželosečku l', která má hlavní středy křivosti kuželosečky k* za odpovídající vrcholy.
+K obdobným vztahům přijdeme, když budeme kuželosečky tím způsobem k sobě vztahovati affinně, že k vrcholu A přiřadíme vrchol diametrálně protilehlý na &*, nebo že stejným způsobem přiřadíme vrcholům kuželosečky k na ose x vrcholy kuželosečky k* na ose y*; neboť nemění se nic podstatného v našich úvahách, když přiřadíme hlavním
+x)  Rozpravy roč.  XXI.  čís.   13,  či.   11. ﻿vrcholům kuželosečky k vedlejší vrcholy kuželosečky k* a obráceně, tak že možno souřadné osy libovolně zaměniti.
+6. Uvažujme nyní případ, kdy k a. k* nejsou kuželosečky stejného druhu, tak že jedna jest ellipsa- a druhá hyperbola nebo obráceně. Přidržíme se dřívějšího označení. Stanovíme mezi oběma kuželosečkama jednoduchý kollineárný vztah, tak že přísluší reálným vrcholům A, A^ kuželosečky k zase reálné vrcholy A *, A *x kuželosečky k *, kdežto zbývajícím vrcholům B, Bl kuželosečky k přísluší úběžné body B*, B*^ na k* a obráceně, úběžným bodům C, Q na k přísluší vrcholy C*, C*l kuželosečky k*, při čemž buďto poslední nebo předposlední dva páry jsou imaginární, podle toho je-li k ellipsa, k* hyperbola nebo obráceně.
+V dalším nechť znamená k ellipsu a k* hyperbolu. Jednu z os ellipsy volme za osu x, druhou za osu y; při hyperbole zvolme hlavní osu za x*, vedlejší osu za y* a obdobně označíme též souřadnice libovolných bodů v rovině kuželosečky k, resp. kuželosečky k*.
+Uvažovaný kollineárný vztah vyjádří se lehce vzorci
+xx
+a a'
+resp.
+xx* = b a* ,
+b*
+y * ~b*~
+b* ' x:
+(5)
+(5a)
+1. Uvažujme dále systém normál obou kuželoseček k, k* a označme |, rj souřadnice libovolného bodu vztahovaného k prvnímu systému a |', i?' libovolného bodu vztahovaného k druhému systému pro právě zvolené osy souřadné.
+Přiřaďme k sobě ty normály kuželoseček, jejichž paty si přísluší kolli-neárně. Pro průsečíky libovolné normály kuželosečky k s osou x a y obdržíme
+PZ                                                                                                  p2
+t=*   x,     i? = 0;         | = 0,     , = _4-y                  (6)
+respekt.
+t__
+e2
+= O ;
+Pro průsečíky libovolné normály kuželosečky k*   s osou x* a y* obdržíme
+e**    .
+----                /y •
+""^x
+r
+(7)
+Pro libovolné k sobě přiřaděné normály platí tudíž mezi jejich úseky na osách s ohledem na rovnice (5) a (6) následující relace
+r-
+(8)
+a s ohledem na (5a) a (6a) obdržíme relace
+XX. ﻿ď            S                                       O            L
+při čemž značí jako dříve r, r' vzdálenosti středů křivosti pro hlavní a vedlejší vrchol ellipsy k a. R, R' vzdálenosti příslušných na ose x* resp. y* ležících hlavních středů křivosti hyperboly k*, resp. hyperboly sdružené k asymptotám.
+Z rovnic (8) respekt,  (8a) plynoucí relace
+b*    . i/
+""'-Ť*!-
+pokud se týče
+;'=r'R,      n = —
+f
+(9)
+(9a)
+stanoví kollineaci dvou polí bodových, ve které si přísluší osy x, x*, kdežto úběžné přímce přísluší oboustranně osy y *, y. V této kollineaci přísluší také sobě systémy normál obou kuželoseček, kdežto paty sobě přiřazených normál přísluší k sobě v kollineaci (5) resp. (5a).
+Také e voluty dvou centrických kuželoseček jsou dvojím způsobem kollineární, a sice jest ta kollineace rovněž dána rovnicemi (9) resp. (9a), když nejsou kuželosečky stejného druhu, kdežto při dvou kuželosečkách stejného druhu kollineace přechází v affinitu.
+8. Máme-li tudíž vésti k dané hyperbole k * normály z libovolného bodu P', při čemž jest dovoleno použíti úplně dané ellipsy k, určíme napřed ku souřadnicím m', rí boduP' z rovnic (9) souřadnice m, n bodu P, na příklad tak, že vedeme z bodu P' kolmice ku asymptotám hyperboly k* a tyto protneme v bodech P\, P'z s osou x*.
+Pro nekonečně vzdálené body (rf ', |') těchto kolmic platí
+_ l'
+-  Ď
+při čemž horní znaménko nechť přísluší přímce P'P\ a dolejší přímce P'P'2; dále budiž m\, m'2 souřadnice x *-ova bodůP'j,P'2. Pomocí těchto sestrojme
+m, =
+rR
+m
+Wo    =
+rR
+čímž jsou stanoveny body Pj, P2 na hlavní ose x o úsečkách mlt mz.
+A
+Úběžnému bodu na P'P\ přísluší podle (9) bod d (O, y) , úběžnému
+2
+bodu na P'P'2 přísluší bod Gz (O,-----^-), a jest tudíž bod P průsečík přímek
+P^! a P2G2. Vedeme-li tudíž z bodu P normály ku  k, pak přísluší jim podle (9) hledané normály bodem P' ke kuželosečce k*.
+Použijme opět Joachimsthalovy konstrukce a sestrojme k bodu P příslušící Joachimsthalovu kružnici vzhledem ku vrcholu A (at 0), a budiž L
+XX. ﻿10
+jeden průsečík této kružnice s k, tak že jest kolmice z bodu P na A L normálou q ke kuželosečce k; budiž y = a | rovnice rovnoběžky vedené středem kuželosečky k k této normále; pak jest
+y = —
+l
+a)
+rovnice přímky AL a pro průsečík této přímky s osou y platí
+a
+líbeznému bodu na q, pro který jest ~ = a, přísluší podle (9) bod H\ na y *, pro kterýž platí r/a = — R' a. Jest tudíž
+ri'iyi = bR' (i= l, 2, 3, 4,) .
+Touto rovnici umožněno přímo sestrojení bodů H'i, ležících na y* pro hledané normály z průsečíků .kuželosečky k s příslušnými Joachims-thalovými kružnicemi.
+Chceme-li obráceně sestrojiti normály k ellipse k pomocí hyperboly k*, tu obdržíme pro průsečíky hledaných normál s osou y obdobnou relaci
+Tím jest zodpověděna následující otázka, vytčena v jednom pojednání v „Sitzungsberichte der k. Akademie d. Wissensch. in Wien"":1)
+,,Možno-li nalézti kuželosečku, jejíž narýsování umožní, pomocí kružítka a pravítka z určitého bodu roviny systému kuželoseček na každou jednotlivou jeho kuželosečku spustiti čtveřinu normál?""
+8. Naše úvahy dávají podnět ještě k tomu, zabývati se krátce geometrickými místy, pro jejichž body možno provésti konstrukci normál pouze pomocí kružítka a pravítka, s kterýmžto problémem se zabývali hlavně Pelz, Lauermann, Mertens, Schoute a j.2)
+Při ellipse
+b2 x2 + a2 y2 — a2 b2 = O
+nalezl Pelz dva průměry
+ax~+by = Q                                        (10),
+Lauermann  a  Mertens dvě kružnice (e2 = a2 — b2)
+f   — be                                                                       ,
+(x -H —-)2 + y2 — e2 = O                                     (11),
+J) „Uber čin Paar unicursalcr Degenerierungskurven drittcr Ordnung dcs Norrualenproblems . . ."" od Josefa Tesaře. (Bd. ČI. Abt. IT. a. 1892.)
+2) Zvláště: Sitzungsberichte der k. Akademie d. Wiss. in Wien 1887, 1889, 1890, 1892, 1898.
+XX. ﻿11
+kterým přináleží tato vlastnost, kdežto pro hyperbolu 6*2 xz _ a*2 y2 __
+k nim připojil S c h o u t e dvě přímky
+e'
+y =
+,*2
+b* '
+kde opět                               e*2 = a*2 + b*2 .
+Předem nalézáme, že  tyto   poslední   přímky přísluší  k sobě kolli-neací danou rovnicemi (9) resp. (9B), neboť z rovnice
+0L + b rj = O plyne napřed
+z čehož
+tudíž skutečně nalézáme
+r  ~~
+.       _ a «*      rR
+»? = -+-
+Ď6* '    /
+,*2
+(12)
+Prve zmíněné kružnice vedou nás  při hyperbole k  následujícímu geometrickému místu
+. 6*2    i?'2
+2—- — 2 =
+nebo po krátké úpravě  a po vynechání Čárek při |' a ij'
+ň*2           / /7*            ň ^*2 \2     />**
+2      i         t —            i _i_          — o
+7)2       *              \     /7                          ťt 0      /               /?2
+C/                           \    cL                          Ct c/     /               c?
+(13)
+Je-li dále ^ ellipsa sdružená ku k * vzhledem k úběžnému bodu na y *, jest a = a* , b = b* , tak že konečně
+(az 4- 6212
+-^ = -«2^-.                        M
+Tím poznáváme dvě rovnostranné hyperboly, jejichž body mají tu vlastnost, že pro ně jest problém normál pro danou hyperbolu úlohou kvadratickou.
+10. Dále ale poznáváme z našich rovnic, že jest nekonečně mnoho geometrických míst právě uvažované vlastnosti, která můžeme odvoditi z kružnic (11), kdežto přímky (10) a (12) vždy přecházejí samy v sebe.
+Nejdříve odvodíme tyto křivky pro ellipsu k, pro kterouž označíme písmeny a, b, e hlavní, resp. vedlejší poloosu a výstřednost, kdežto pro ellipsu k' podle dříve udaného způsobu [(3) v či. 5.] k ní vztahovanou příslušné délky označíme a', b', e'.
+XX. ﻿12
+Obdržíme z kružnic
+(10'
+pomocí tam uvedené transformace
+rovnici
+2         '2
+rf& ____
+1       e'* dl
+(15)
+Tato  rovnice  představuje  nekonečně mnoho  ellips,  pro  které jest problém normál rovněž kvadratický.  Položíme-li
+11-
+takže jest
+můžeme poslední rovnici psáti
+,2         „2
+(16)
+Obdržíme tudíž soustavu ellips, které mají své středy na ose x. Souřadnice x-ová. pro střed libovolné z nich jest         .      f-j -•$
+a rovnici (16) možno zavedením této souřadnice převésti na tvar
+(17)
+Pro délky poloos A, B těchto ellips na x resp. rovnoběžných  k y, obdržíme tudíž
+
+t 2
+5o   »
+nebo
+(18)
+tak že                                 a2 .42 — 62 52 = č4.
+Zmíněné kružnice obdržíme zde jako speciální případ, pro který jest
+,
+$0 =
+_ be
+XX. ﻿13
+Poznáváme z toho, že pro takovouto ellipsu možno voliti střed její libovolně na ose x, čímž pak ona jest rovnicemi (18) jednoduše stanovena. Rovnici té možno dáti též tvar
+- 2
+(a2 L2
+= Q .
+Z této rovnice poznáváme, že libovolným bodem (XQ y0) roviny procházejí tři takovéto ellipsy (17), pro které jest problém normál kvadratický; ale stanovení těchto ellips vede na kubickou rovnici, která určuje jejich středy a kterouž obdržíme z poslední rovnice, když v ní místo | a 1? píšeme x0, respekt. y0.
+11. Přiřadíme-li ellipse k ellipsu k' tak, že hlavní a vedlejší ose y resp. x ellipsy k příslušejí v ellipse k' vedlejší a hlavní osa y' resp. x' ellipsy k', obdržíme pomocí rovnic
+L'            e'2   b           ijf            e'2   a
+~T = ~~^""~^'
+n
+z rovnice (10') rovnici
+V   é
+,2 \2
+a'ů   ér
+Tedy jest
+(19)
+a dále
+— 2
+A* = tf + -^,
+L o          /jo  Lo     i         2
+= 0.
+Zde jest                      b2 A2 — azB2 = e*.
+Pro a' - a , b' = b obdržíme z rovnic (19) specielně, když zaměníme označení os ellipsy k, tak že hlavní osa zase na ose x, vedlejší osa na ose y ležeti bude, rovnici
+to±*)2 + -ŽH2--S-*2=0,                         (20)
+a
+___  0
+tak že poloosy ležící ve směru os y a # mají délky
+b
+— e . a
+12. Pro libovolnou hyperbolu obdrželi jsme rovnici (13), kterou budeme nyní tak psáti, že označíme absolutní délky její poloos písmeny a, b a výstřednost e, kdežto pro ellipsu, k níž ji vztahujeme, označíme příslušné délky a', b', e' . Jest tudíž
+. .   V
+/ a
+W""
+xx. ﻿14
+Položíme-li opět
+tudíž
+bude
+a obdržíme rovnici
+V
+!t_= i +
+.'2              A     •
+A2
+systému hyperbol, ve kterém jest
+—  L2    .    _L_            R -.         t
+• - 5o   ^   _2 '                       6
+a pro |0 dostáváme rovnici
+= O
+13. Konečně uvažujme ještě vztah daný rovnicí (9a). Rovnice kružnice (10') jest v tomto případě
+. _ be\* ,
+= O,
+a naše vzorce transformační vedou k rovnici
+/*'2
+(be't]±ab'
+(21)
+píšeme-li totiž záměnou akcentů veličiny vztahované ku k* bez čárek a veličiny vztahované ku k s čárkami.
+Tato rovnice značí soustavu hyperbol koncentrických s k*, již můžeme též podle dřívějšího následovně vyjádřiti
+z kteréžto rovnice zase usuzujeme, že libovolným bodem (L, rj) roviny procházejí tři hyperboly, pro které jest problém normál kvadratický; jejich určení samo jest ale zase dáno kubickou konstrukcí. Pro (i = i obdržíme speciálně imaginární průměry
+ífH Sestrojení soustavy hyperbol (21) jest zcela jednoduché. Libovolná hyperbola u této soustavy protíná osu x v bodech, pro které platí
+XX. ﻿15
+a osu y protíná v imaginárních bodech, pro které
+-    «       TV
+Sdružený průměr k ose y jest
+
+a tečny k ní rovnoběžné jsou
+__ h — 7? — b' .     '
+tak že k ose y sdružený průměr prochází bodem U, pro který platí
+Naneseme-li tudíž na rovnoběžku bodem U k ose y z bodu U na obě strany délky rovnající se i^, budou koncové body těchto délek přináležeti asymptotám hyperboly u. Dále platí, jak snadno poznati, souvislost
+L2___ t 2 —   E>2
+Si       »2 — ** > a k ose x sdružený průměr jest
+y            e'     a
+x       — V '  b
+Má-li  tudíž  bod  F souřadnice ÍR, ±:-j-rR'\ udává  OV polohu
+a absolutní délku průměru sdruženého k ose x.
+Rovnice asymptot pro křivky u plynoucí z (21') jest
+(a212 — Ď2 tf) + 2 (í a b L 17 = O .
+Asymptoty tyto tvoří tudíž involuci. Osy hyperboly k* a kolmice k jejím asymptotám ve středu O vztýčené jsou dvě dvojice prvků in-voluce té, která jest zároveň involuci sdružených průměrů pro ellipsu s k* souosou, jejíž poloosy mají délku b, resp. a. Uzavírájí-li asymptoty křivky u s osou x úhly <p 1? <p%, jest
+a' — V                  ,    tg <pz             a' — V
+bud
+'dále
+<jp2
+a' + b'
+a' +
+Tím jest   konstrukce těchto asymptot a hyperboly u samé jednoduše dána.
+XX. ﻿*"

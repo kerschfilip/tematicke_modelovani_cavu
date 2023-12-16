@@ -1,0 +1,416 @@
+"","x"
+"1"," ﻿ROČNÍK XVI.
+TŘÍDA II.
+ČÍSLO 30.
+O útvarech určených soumeznými elementy prostorových křivek.
+Napsal
+Dr. Bohuslav Hostinský.
+Předloženo   dne 22. listopadu 1907.
+V differenciální geometrii prostorových křivek vyšetřuje se koule určená čtyřmi soumeznými body křivky; podobnou úlohou jest vyšetřiti koule vepsané čtyřstěnu ze čtyř soumezných bodů. Poněvadž jest možno považovati také oskulační rovinu za element křivky, naskytují se přirozeně další dvě úlohy: o koulích vepsaných a o kouli opsané čtyřstěnu utvořenému čtyřmi konsekutivními rovinami oskulačními.
+Rozřešení těch úloh jest podáno v této práci; předběžné výpočty jsou uvedeny v prvních odstavcích.
+Ku konci jsou uvedeny výsledky výpočtů týkající se ještě jiných útvarů; ukazuje se totiž, že soumeznými body křivky a soumeznými oskulačními rovinami jsou vedle kružnice oskulační jednoduše určeny ještě tři další kružnice a vedle kužele oskulačního (dotýkajícího se tří soumezných oskulačních rovin) ještě další tři přímé kruhové kužely. — U křivek rovinných vyskytují se úlohy analogické o útvarech určených soumeznými body neb tečnami.
+Analytické vyjádření křivky. — Dána jest analytická křivka prostorová. Jistý bod její A budiž počátkem pravoúhlé soustavy souřadné, tečna v A osou x, hlavní normála (kladně čítaná od A k středu křivosti) osou y a binormála osou z; pak platí pro souřadnice x, y a z bodu křivky blízkého ku A rozvoje
+Rozpravy: Roč. XVI. Tř. II   Čís. 30.                                                                                       l
+XXX. ﻿_ y
+24
+(1)
+z =
+24
+= z (X)
+Kladný směr oblouku s na křivce jest ten, který splývá v A s kladným směrem osy x. Zajisté jest možno ustanoviti kladné číslo Q, nepřevyšující poloměry konvergence řad (1), tak, aby v intervallu \x\ < Q byl kladný směr oblouku dán rostoucími hodnotami x.
+Při této volbě čísla Q budou čtyři body
+Ak(xk,y[Xk\, z[xk]),      L=1,2,3,4
+křivky, pro něž platí
+(2)
+vždycky tak položeny, že směr A^AZAZA^ souhlasí s kladným směrem oblouku s a naopak jsou nerovnosti (2) důsledkem takové polohy čtyř bodů křivky v okolí A.
+K stanovení geometrického významu koefficientů v řadách (1) jest nutno odvoditi souvislost mezi derivacemi nějaké funkce souřadnic (x, y, z) dle s
+ds '   ds2 '   ds3 a mezi derivacemi téže funkce dle x
+r, r, r......
+Za tím účelem odvodí se z rovnice
+fit
+r =
+derivací dle x další rovnice
+ds '
+r -
+ds*
+ds
+. s'
+f//, _   ""   l       /3    ,     o
+""        7       •>        •    •*            l        ""
+ds3 fIV=^ís""+Q
+&f    , „
+ds
+ds
+s'y ,
+které  vyjadřují  hledanou  souvislost;   derivace  oblouku  lze  eliminovati pomocí rovnice
+S'2 =   ]   +  y'2   +  Z""2-
+XXX. ﻿a rovnic, jež z ní plynou derivací dle x
+s's"" = y'y"" + z'z"" SY"" + s""2 = y'y'"" + z'z'"" + y""2 + z'""2
+Běží-li o hodnoty derivací v bodě A, jest
+y'=y = *"" = 0,    s' = + l,    pro x = O,                      (3)
+a tedy
+'"" = <>> •/' = %L> /""=-Lr, -""'-w. ^=^r> Pro * = °   (3«)
+Poloměr křivosti R a poloměr torse T souvisí s cosinusy p, y, p' y' a /3""', y"" úhlů, které svírají tečna, normála a binormála s osami Ay resp. A z dle formulí Frenetových
+_^     _L_   dpff
+Tš^lŘ'   ds
+dy__y_    dy""
+ds       R '    ds
+l_ T
+dp ds dy'
+~«nr
+R ^
+LL
+T
+Postupnou substitucí levých stran těchto vzorců do rovnic, jež vyplývají derivací dle s z
+dy
+dz
+lze vyjádřiti všechny derivace souřadnic y a z dle oblouku s jako lineární funkce veličin p, p, p"", y, y' a /'. Pro bod A platí vedle rovnic (3) a (3a) ještě
+p = p"" = y = y' = O,    p = y"" = l pro x = 0.
+Naznačený výpočet vede k rovnicím platným pro bod A:
+ziv =
+.dR 77""
+kterými jest dán geometrický význam prvních koefficientů v rozvojích (1). Není-li v A ani tečna ani oskulační rovina stacionární, jest R konečné číslo a 7^0 t. j.
+y"" > O,    z'"" ^ O pro x = 0.                             (5
+XXX. ﻿V následujícím jest na křivce volen bod A a další body Ah (k = 1,2..) vždy tak, aby byly splněny podmínky (1), (2) a (5).
+Rovina určená třemi body křivky. — Rovnice roviny položené třemi body Ak(xk>yk, *k) křivky jest
+x , y , z ,  l
+*i, Ví,  *i,   l x2, ya, z2,  l
+x3, ys, z* l
+Do druhého, třetího a čtvrtého řádku jest dosaditi za y* a zk rozvoje (1); subdeterminanty příslušné k prvkům prvního řádku lze pak rozvésti známým způsobem na součet (nekonečné) řady determinantů, které mají (nehledě ku konstantnímu faktoru) tvar
+(7)
+Po zavedení zkratek
+r i-      v ť      l •*!   ,    -^1   .     J
+a,
+y"" z'""           y""ziv
+= &, XiXzXz = y
+(8)
+přechází rovnice (6) na
+/ *(
+lV
+Determinant   (6),  jenž jest  zde rozveden  dle prvků první řádky, vymizí, když #ť = xt; levá strana rovnice (6«) jest tedy dělitelná výrazem
+= a
+
+Podíly, které dávají determinanty «tt děleny determinantem «12, jsou symmetrické funkce, ježto se nemění při žádné transposici indexů J, 2, j; snadno se verifikuje, že pro determinanty «#, jichž stupeň vzhledem k #!, ^2 a #3 nepřesahuje 6, jest
+= (*fl —
+y)
+XXX. ﻿Rovnice  (6a) nabývá tudíž symmetrického tvaru vzhledem k pro-
+-     ,                                             ,                     48
+menným xlt x2 a x3, nasobi-h se faktorem —
++ 2[12y""
+yiv (a* —
+'12
+-(«3 — 2«/J -f y)]* — 4y'Y""y = 0
+Z koefficientň, jež jsou vlastně nekonečnými řadami symmetrických funkcí, ponecháno je pouze tolik členů, kolik bude k výpočtům zapotřebí.
+Jedná se nyní o to, uvésti rovnici (66) na normální tvar
+ux+vy+wz + s=Q, u2 + v2 + w2 = l .
+Za tím účelem vypočítá se předně součet druhých mocnin koefficientů při x, y a z v (66), který jest
+m = 32 [18 y""2 + 12 /'/""« + 2 (y'""2 + z""'2 + 3 y""ylv) tf — 3 y"" y/F/3
+(y'""
+lV
+(10)
+Cleny stupňů vyšších než j. jsou vynechány.
+Faktor M, kterým jest třeba (66) násobiti, aby byla rovnice uvedena na tvar normální, jest
+_ __
+M = w    2
+Mam jsou symmetrické funkce proměnných xít x2 a xs; pro ^ = ^3 = 0 (příslušné hodnoty funkcí jsou označeny závorkami)
+(11)
+= x2 = platí
+\ 3
+l?l_\ = ( _^_ \ %29A;3 / ~ l?^3?^ / '
+_(   c*m   \
+~~ \^x^/
+a podobně pro M. Poněvadž
+i2 ^t = a/3 — 3 y, xt xtx^ (i, k = l, 2, 3 ; v třetím a v pátém
+možno psáti Taylorovu řadu pro M v tvaru
+XXX.
+«:{ — 3 a/i jest i ^ ﻿Derivováním rovnice (11) vyjádří se koefficienty této řady jako funkce
+rv   (2m\         (&m\         (2*m\      .              .,
+Ve                     '""'                '""                 '"">    6Z Se     0011 z rovmce
+V Taylorově řadě jest nutno sestrojiti ještě členy třetího stupně; rovnice (66) násobená faktorem 24 M jest
+[ 4 *""'
+
+///2
+2  z""' z™        l
+(6c)
+Od normálního tvaru liší se tato rovnice jen činitelem 24.
+Oskulační rovina. — Rovnice oskulační roviny v bodě Al(xl, yv křivky jest
+o
+= o
+(12)
+Do druhého a třetího řádku jest dosaditi hodnoty, které plynou derivací z řad (1) pro yl a zt:
+= y""+y""' *1+^*1a + Y*i8+-""'
+díz
+lv
+Levá strana v rovnici (12) vymizí identicky, když xl = 6, jest tedy dělitelná xlf jež lze krátiti; tak vychází
+(v"" z ^4
+(12a)
+XXX. ﻿nepřihlíží-li se   v jednotlivých koefficientech k členům vyšších stupňů.
+Transformace rovnice  (12a) na normální tvar provede se podobně jako dříve:                                              .'j
+Součet na druhou povýšených koefficientů při x, y a z jest zde
+n = y""2 + 2 yf'y""'xl + (y""'2 + z""'* + y""yiv) x* + (y'""yiv + z""'z"" + -l y""y*) V + ...
+Koefficienty v Taylorově řadě pro
+N=n
+(13)
+(14)
+vyjádří se jakožto funkce n a jeho derivací dle x± pro x^ = O t. j. koefficientů řady (13); řadou pro N, v níž se podrží první čtyři členy, násobí se pak rovnice   (120),  aby obdržela normální tvar. Výpočet vede k rovnici
+[?'"" V*>!
+[?'""2,             /v'"" z'""-l      ]      ~'"" ZIV \       ~|         z'""
+l~líV+(2i---T-S-)»iiJ*--^-%
+(126)
+Cleny vyšších stupňů jsou v jednotlivých koefficientech vynechány. Vrcholy čtyřstěnu utvořeného   čtyřmi rovinami oskulačními. —  Souřadnice (|, t], L)  průseku B tří oskulačních  rovin sestrojených v bodech Alt A2, a A3 jsou dány rovnicemi
+ve kterých jest dle (12«) položiti
+y"" z'""
+v   z1
+= y"" -f
+Determinant
+2                  3
+ulV               *,V
+= O,    (k= l, 2,  3)
+o                            ///                               .>
+fc   ,    Vk = — Z      Xk--------— Xk~
+y""*'""
+(15)
+6
+y"" zlv ——x**'
+(16)
+D
+soustavy (15) a determinanty Dít D2, D3, které vzniknou z D, nahradí-li se v něm uk, resp. vk nebo wk hodnotami —sk, mění znamení při transposicích (12), (23) a (13) indexů, a vymizí pro xl = x2, pro #2 = x3 a pro x3 = x^, jsou tedy dělitelný výrazem
+XXX. ﻿(Y          v  \     (v        v \   Iv        v \    __
+1*1     ~        *«J      \-^9.         -X""ll   l-ťl   ----- -vol      —-
+X*.   X2,   l %3"">   X3>   *
+jenž se nerovná nulle, poněvadž %, xz a .r3 náleží třem různým bodům. Děleny byvše tímto výrazem dávají za podíl funkce neměnící se při žádné transposici indexů i, 2, 3 t. }. symmetrické funkce proměnných xlt xz a #3. Rozloží-li se D, D^, D2 a D3 známým způsobem na determinanty tvaru (7), vychází se zřetelem k rovnicím (9)
+D= —a,
+
+O,-
+y -z
+y - z    z
+iv
+*+>•]
+[,
+Nekonečné řady v hranatých závorkách j sou sestroj eny vždy až po členy obou nejnižších stupňů vzhledem k proměnným %, x2 a x3. První z těch řad má dle (5) konečnou hodnotu různou od nully pro % = x2 = x3 — 0; lze tedy dělením podle vzorců
+ustanoviti členy dvou nejn:žších stupňů v rozvojích pro |, 17 a L; výsledek tohoto výpočtu jest zde uveden a zároveň jest připojena formule pro průvodič Q
+g2 = l2 + y'2 + L2
+taktéž na členy dvou nejnižších stupňů omezená:
+(17)
+""7
+
+V dalších výpočtech jest zavedeno následující  označování symme trických funkcí:
+XXX. ﻿x i, 0! = #2*3
+= XX
+12
+*4*1 + X1X3> ?2 = * 3*4*1 X1X2 + X3X*> ?3 = *4*1*2 X2X3 + X3Xl< Y 4 = *l*2*3
+(18)
+vStěny čtyřstěnu AVA2 A3A4 mají (až na faktor 24} normální rovnice
+j = 0, 52 = O, S3 = O, 54
+O
+(6d)
+tyto rovnice odvodí se z (6c), připoj í-li se k symmetrickým funkcím a, fí, y indexy protějších vrcholů; rovnice stěny protější k vrcholu .44 (obsahující body A^ A2 A3) obsahuje symmetrické funkce «4, |34 a j>4, rovnice stěny protější k A1 funkce alt ^ a y, atd.
+Snadno  se  dokáže,  že  každá permutace  čtyř  indexů
+l, 2, 3, 4 vyvolává stejnou permutaci v každém z těchto pěti systémů:
+../i..      C1          /L   __    l        o       •>        l\
+a že jest
+jestliže
+Koule procházející čtyřmi sounieznými body křivky (koule oskulační). — Střed koule opsané čtyřstěnu A^A^A^A^ jest ve společném průseku šesti symmetrálních rovin sestrojených k hranám čtyřstěnu; k výpočtu jeho souřadnic (x, y, z) stačí na př. rovnice symmetrálních rovin k hranám A A A A n A A •
++ í j-il. 21    "" 2     8             3     4 •
+— yk) y + 2 (zk+l — zt) z = r-k+l — r\   (19) (k = l, 2, 3) ,      '
+kde jest položeno
+Determinanty vyskytující se při řešení
+__   ^1         __ j*-^2      ., _ ±^9_
+D ' y~   D '      : D
+soustavy (19), jsou vesměs dělitelný činitelem
+*Ú =  (Afj — X2) \X2 — X3) \X%        XQ) \X3        X^
+neboť každý z nich vymizí pro KÍ — xk .
+XXX.
+— X ﻿10
+Z>! jest stupně sedmého vzhledem k proměnným xv x2, x3, #4 (D toliko šestého); první členy v nekonečných rozvojích ostatních determinantů jsou
+Pro
+/ř'w #! = lim x2 = lim x% = lim XA — O
+t. j. splývají-li body Ak s bodem ^4, jest
+l                        /""
+limx = O,    Zimy = —- ,   lim z—-----^-^ .
+y""                      y""z
+Jsou-li tedy  (a{, blt c-^)   souřadnice středu koule oskulační K{ a její poloměr, možno poslední rovnice nahraditi rovnicemi [cf.  (4)]
+dR
+dR
+(I)
+které se obyčejně odvozují z podmínky, aby koule měla v A s křivkou dotyk třetího stupně.
+Koule vepsané čtyřstěnu, jehož vrcholy jsou čtyři soumezné body křivky. — Středy osmi koulí vepsaných čtyřstěnu A1A2A3Aá jsou průseky rovin, půlících úhly jeho stěn; v každém středu (x, y, z) sbíhá se šest takovýchto rovin; stačí se omeziti na roviny vedené třemi hranami čtyřstěnu netvořícími trojúhelník na př. A1 A2, A.>AS, ASA^. Dle (6c), (18) a (6d) mají rovnice zmíněných rovin tvar
+i      S, = O
+kdež
+«, = 4 *""'ft + (;
+(20)
+, !""
+/2*"" V   3""2
+, ""
+Další   výpočty   se   usnadní  užitím   následujících  relací,   jež lze na základě rovnic (18) snadno odůvodniti:
+XXX. ﻿(22)
+11
+cyklickou permutací indexů  l, 2, 3, 4 lze odvoditi ještě  12 podobných relací.
+Osm trojic hodnot (x, y, z) udávajících souřadnice hledaných středů ustanoví se řešením těchto osmi systémů
+1.    Sx + S2 = O,    52 + 9     <*        c  ._ n     c    i
+a.      Oj---- O2 — \J,      O2  -p
+3.     S1 — S2 = O,    Sz —
+4.     5X + S2 = O,    S2 —
+5.     5t + S2 = O,    S2 +
+6.     5X — S2 = O,    52 + 7      <?   _i_ <?  — o      <?
+i •        ^l      i^        2  ----      J        *"" **
+8.    5! — 52 = O,    52 —
+K rozhodnutí o tom, ku kterému z hledaných středů vede některá z napsaných soustav, postačí ustanoviti, která soustava vede ku středu koule dovnitř vepsané t. j. zjistiti, jaké vztahy jsou mezi znameními výrazů Si, dosadí-li se v nich za x, y a. z souřadnice středu C koule uvnitř vepsané. Řečená znamení jsou identická se znameními výrazů 5,-, dosadí-li se místo x, y a z souřadnice (Xi, y», Zi) vrcholu Ait poněvadž při přechodu z AÍ do C neprochází 5< nullou a nemůže tudíž měniti znamení.
+St jest pak funkce čtyř proměnných xv x2, xs, x4, která mizí, když jest první % rovna některé jiné z nich, jest tedy dělitelná součinem
+= 0,	5 + 54 = 0
+= 0,	sl + 54 = 0
+= 0,	53 + 54 = 0
+= 0,	53 — S4 = 0
+= 0,	5 __ 54 — o .......
+= 0,	S3 — 54 = o
+= 0,	53 + 54 == 0
+= 0,	53 _ 54 ~ o.
+První člen v jejím rozvoji jest
+4 z""' (x* — «x ^« + & *! — yj = 4 g""' (x, — x2) (x, — ^ z čehož plyne, že úplná hodnota jest
+^z-'(xí~x2)(xl-x3)(x1-xt)[l +ZJ,
+(23)
+značí-li Zx zbytek příslušné nekonečné řady.
+Cyklickou permutací indexů i, 2, j, 4 odvodí se výrazy udávající výsledek analogických substitucí do S2, S3 a S4:
+4 y>"" (x2 — x3) (x.2 — *4) (x2 — Xl] [l + ZJ 4 ^'"" (*3 — xj (x3 — xj (x3 — x2) [l + Z3] 4 /"" („4 _ Xi) (X4 _ ^ (^ — AT3) [l + ZJ .
+V každém případě jest možno voliti kladné číslo ff tak, aby bylo
+|Zt| < l (fc= l, 2, 3, 4) , pro všechna #fc hovící podmínce
+\xk\<e (k= l, 2, 3, 4) .
+XXX. ﻿12
+Je-li tato podmínka splněna, rozhoduje o znamení každého z napsaných výrazů toliko první jeho člen; dle supposice (2) mají pak nesouhlasná znamení výrazy
+Sx a S.2; 52 a 53; 53 a S4,
+nahradí-li se v nich (x, y, z) souřadnicemi nějakého bodu ležícího uvnitř čtyřstěnu na př. středu C; v posledním případě jsou však absolutní hodnoty výrazů Sk sobě rovny a jest tudíž pro bod C (x, y, z):
+S1 + S2 = O, 52 + S3 = O, S3 + 54 = O
+t. j. řešení první z osmi soustav (22) vede k souřadnicím (x, y, z) středu koule dovnitř vepsané.
+Na základě tohoto výsledku lze i v každém z ostatních sedmi případů rozhodnouti, o kterou kouli se jedná, ježto přechod bodu (x, y, z) z jedné strany k té stěny čtyřstěnu na druhou jest vždy spojen se změnou znamení výrazu 5^.
+Vdiskussi jednotlivých případů (22), jež následuje, užito jest zkratek D, Dv D2 a D3 pro determinanty vyjadřující známým způsobem
+x —.
+z =
+D              D              D
+řešení dotyčné soustavy.   Limitní hodnoty souřadnic  (x, y,  z]  pro
+lim xí = lim x2 = lim x3 = lim #4 — O......(24)
+jsou označeny takto:
+Um x = a.2, lim y = b2, lim z = c2 .
+1.   Koule  dovnitř  vepsaná.  — Všechny  determinanty  vymizí  pro x3 = %j a pro #4 = xz;  jsou tedy  dělitelný součinem  (xs — xj (x4 — x2).
+= — 29.3
+y""
+i           _
+= ~ 29- 3
+z'""z
+Každá ze tří souřadnic x, y, z jest rovna výrazu tvaru v =_________F(XI, xt, xa, x,)
+kdež mocninné řady F a G mají vlastnosti:
+a) nejnižší jejich   členy  jsou  stupně  nejméně  druhého,
+XXX. ﻿b) mění znamení při permutaci (12) (34) ; neboť determinanty D, Dv Dz a D3, jež mění při této permutaci znamení, jak se dá snadno dokázati, jsou ve výrazech V děleny činitelem (x3 — xj (x4 — #2) jenž se tou permutací nemění. Zmíněné řady mají jistě tvar
+F = / (xv xz, x3, X4) — f (xz, xlt x * x3] ; jakožto funkce argumentu
+— x  —
+x   —
+má F rozvoj  (dosazuje se x2 = xí + q>, x4 = x3 + ty)
+F = A<p+Bty + ...,
+ve kterém jsou členy na <p a ty nezávislé identicky rovny nulle (ježto pro g> = ty = O jest X-L -— x2, x3 = x4 a tedy F = 0) a ve kterém koefficienty A a B jsou nejméně prvního stupně vzhledem k xl a xs. Výraz F dá se patrně rozložiti na dva sčítance
+F = 0 . g) + W . ty
+cak, že pro limitní přechod (24)
+lim 0 — lim W = 0.
+Podle předpokladu (2) jsou q> a ty vždy positivní, pročež
+l
+a tudíž
+Z toho plyne
+t- j-
+~—.\F   <   0>|+ + ty
+lim--------- = O
+<P + ty
+lim V
+=» lim l — ~— :(l-\ ----- -— )1 = O
+L <p + ty    V        <p+tMJ
+2. Koule dotýkající se stěny 5t = O zevně (tato soustava se odvodí z předešlé, změní-H se S1 v — SJ. — Determinant
+jest stupně aspoň o l nižšího než tři ostatní; poněvadž všechny mizí pro x2 = xl, pro x4 = xz a pro x4 = xl , jsou dělitelný součinem (xz — xj (x4 — *2) (xt — *t) a tedy
+a2 = Ď2 = c2 — O
+XXX. ﻿14
+3. Koule dotýkající se stěny 52 = O zevně. — Tato soustava odvodí se bud z 1. záměnou 52 v — S2 nebo cyklickou permutací indexů z 2.  Opět
+4.   Koule  dotýkající se stěny  S3 = O zevně.  — az = b2 = cz = 0.
+5.   Koule  dotýkající se stěny  54 = O zevně.  — a.2 = b2 = c2 — 0.
+6.   Koule klínová patřící k hranám A1A4 a A2A3.*) — Soustava
+rovnic se odvodí z 1. záměnou 52 s 53.   Diskusse jest úplně stejná jako v 1., položí-li se x3 — x2 = <p, #4 — xl = ty.
+a  = b  = c  = O .
+a ASA4.
+7.   Koule klínová patřící k hranám A
+Rovnice této soustavy lze odvoditi z rovnic 6. obrácenou cyklickou permutací (4321). Všecky determinanty jsou dělitelný součinem (#4 — xí)(x3 — x2], ale zbývající lineární faktor (#4 + xí — x2 — xa) v D nemusí býti kladný; možno si mysliti limitní přechod srovnávající se s podmínkou (2) takový, že jest ten faktor stále rovný nulle. Obecně snad x vůbec k určité limitě nekonverguje.
+8.  Koule klínová K2 k hranám A1A3 a A2A^ — Rovnice všech šesti symmetrálních rovin mají tvar S» — S* = 0; limitní jejich polohou jest rektifikační  rovina y = 0.   Střed   (x, y, z) leží tedy v y = 0; poněvadž se koule dotýká rovin určených třemi soumeznými body křivky, které mají za limitní polohu z = O, bude
+7? 2  _  r 2 ""í    —  C2    '
+je-li .R2 poloměr koule.
+Všecky determinanty jsou dělitelný výrazem
+neboť vymizí pro x+ = x^. V D se ruší členy pátého stupně; nejnižší členy v rozvoji determinantů D, Dlt Dz a Ds redukují se snadno na z/ užitím relací (21). Výsledky:
+3
+Dz jest stupně sedmého.   Se zřetelem k (4) odvodí se definitivní vzorce
+*) Tím názvem jest míněna koule, jež se dotýká (podle tvaru čtyřstěnu) buď stěn Si -- O a 54 = O po těchže stranách jako koule vnitřní, stěn S2 — O a 5, = O po druhých stranách, aneb stěn 5a = O a 5, = O po těchže stranách, stěn Sí - O a St -- O po druhých.
+XXX. ﻿15
+ds
+ds ~ď~Ř
+(II.)
+Koule dotýkající se Čtyř soumezných oskulačních rovin. — Postup výpočtu jest stejný jako v předešlém odstavci. Aby se ustanovilo znamení, jaké má levá strana normální rovnice (12&) oskulační roviny pro bod Alt dosadí-li se za x, y a z souřadnice středu koule, která se dotýká uvnitř stěn čtyřstěnu utvořeného čtyřmi oskulačními rovinami bodů AtA2A3 a A^ stačí při vhodném omezení absolutních hodnot \xk\ dosaditi do 2^ souřadnice ^, ^ a Lj protějšího vrcholu B± určené vzorci (17),*) a omeziti se na členy nejnižšího stupně, které jsou
+*""'
+(25)
+Souřadnice x, y a z středů hledaných koulí budou zase určeny osmi soustavami rovnic analogickými k (22); místo SI nastoupí 27ť. Úvahou o znameních výrazů (25) dokáže se, že rovnicím
+v +
+O,
++
+= O,
++
+= O
+budou  hověti souřadnice  středu  koule  dovnitř  vepsané,  rovnicím
+— 22 = O, Z2 + 2?3 - O,
+= O
+souřadnice středu koule, jež se dotýká zevně oskulační roviny bodu A^ atd. Výsledky diskusse jsou v prvních sedmi případech stejné jako dříve. Jsou-li a3, b3, c3 a R3 limitní hodnoty souřadnic středu resp. poloměru pro kouli klínovou K3 patřící k hranám B-^B^ a B2Bt (ve kterých se protínají oskulační roviny bodů A2 a A^ resp. Av a A3), platí formule
+ds
+ds
+R*
+S)
+d
+(III.)
+Tato koule dotýkající se čtyř soumezných oskulačních rovin jest v jistém smyslu duálním útvarem ku kouli K,. Vzorce (III) lze snadno odvoditi substitucí souřadnic roviny oskulační —na př. podle rovnice (12a) — do rovnice koule v souřadnicích rovinových, položí-li se ve výsledku substituce koefficienty nejnižších mocnin x^_ rovny nulle. Touto cestou nedá se však zjistiti, že se formule III. vztahují právě ke kouli klínové určené hranami B1B3 a 52J54.
+Koule opsaná čtyřstěnu utvořenému Čtyřmi soumeznými oskulačními rovinami. — Budiž Bk vrchol Čtyřstěnu utvořeného oskulačními rovinami bodů Alt Az, A3 a A4 ležící proti oskulační rovině Z?* = O bodu A*, souřadnice (Lt, rjic, Lt) bodu Bk jsou určeny vzorci (17), ve kterých třeba připojiti
+*) Místo a, /J, y, jest v tomto případě třeba psáti v (17) «,, (ti,yv
+XXX. ﻿16
+k o, /U a y index k. Rovnice oskulační roviny 2k = O v normálním tvaru pro bod Ak odvodí se z (12 b), nahradí-H se index i indexem k. K výpočtu souřadnic (x, y, z) koule opsané stačí rovnice symmetrálních rovin sestrojených pro tři hrany neležící v jedné rovině na př. pro B1B2, B2BH, B^B^.
+2      —
+x -f 2 fa —
+y -f 2 ( = l, 2, 3).
+Všecky determinanty vyskytující se při výpočtu x, y a z jsou dělitelný součinem 4 ze šesti faktorů (xt — xk], neboť vymizí všechny pro x\ = xk. Determinant v čitateli pro x má nejnižší člen stupně sedmého; vychází
+a 4 = lim x = O
+l       ,                        l      y'""      ,    l    s*'
+v =-------*+-          z —• —-----------------------------l— .
+3y""    j                       3   y'V""        9   2'""2    '
+Hledaným limitním útvarem jest patrně koule K^, jež se dotýká tečny v bodě A. Vzhledem k (4) vychází pro souřadnice #4, 64, c4 jejího středu a pro poloměr 7?4:
+
+-10
+ds
+(IV.)
+í útvary určené soumeznými elementy prostorové křivky. — Tutéž methodu, které bylo užito k odvození formulí (I) až (IV), lze applikovati též na vyšetření jiných limitních útvarů. Uvádím zde toliko výsledky a to nejprve týkající se čtyř kružnic; limitní kružnice dotýkají se vesměs tečny v bodě A a mají střed na téže straně normály se středem křivosti. Výsledky platí pro společnou limitní polohu A bodů křivky a pro společnou limitní polohu z = O oskulačních rovin.
+a)  Kružnice procházející třemi soumeznými body křivky (kružnice oskulační).   Poloměr  = R.    (Průsek roviny oskulační s koulí Kv)
+b)   Kružnice vepsaná trojúhelníku utvořenému třemi soumeznými body.   Poloměr = 4 R.
+c)  Kružnice opsaná trojúhelníku utvořenému průseky tří oskulačních
+rovin se čtvrtou s nimi soumeznou.   Poloměr = — R.   (Průsek oskulační
+o
+roviny s koulí K4.)
+d)  Kružnice vepsaná trojúhelníku, ve kterém protínají tři oskulační
+4
+roviny čtvrtou s nimi soumeznou.   Poloměr = — R.
+o
+Dále možno uvažovati čtyři přímé kruhové kužele; limitní útvary mají zde vždy vrchol v bodě A (ku kterému se blíží pohyblivé body Ak na křivce) a dotýkají se jeho oskulační roviny z = O (jež jest limitní polohou pohyblivých oskulačních rovin) podél tečny (osy x). Každý takový
+XXX. ﻿17
+kužel jest úplně určen, je-li dána tangenta úhlu <p, který svírá jeho osa (ležící v rektifikační rovině y = O ) s kladným směrem osy x.
+a)   Kužel   dotýkající se   tří soumezných  oskulačních  rovin   (kužel
+T
+oskulační).   tgq) = -- =-.   (Tangenciální kužel koule K3 pro bod A.)
+ft) Kužel opsaný troj hranu utvořenému třemi soumeznými oskulač-
+,'-... nimi rovinami, t gy = — — — .
+y) Kužel dotýkající se rovin A^A^A^, A^A^A^ (Tangenciální kužel koule K2 pro bod A.)
+d) Kužel, jehož tři hrany jsou A^A2, A1A3 a Zajímá vo jest, že poměry
+AVAZA^. tg <p — — 3 — ,
+3   T ^. tg <p = — j- -- .
+ve kterých jsou poloměry kružnic a), b), c) a d), souhlasí úplně s po-rněry, ve kterých jsou tg <p kuželů d), y), /3) a a).
+Křivky rovinné. — Oskulační kružnici křivky rovinné lze definovati bud jako kružnici procházející třemi soumeznými body křivky aneb jako kružnici dotýkající se tří soumezných tečen.
+Výpočty dalších kružnic se zjednoduší, jestliže se volí obdobně jako dříve na př. osa x za tečnu a osa y za normálu v uvažovaném bodě A. Budiž R poloměr křivosti v bodě A; podobně jako u křivek prostorových dokazují se zde následující věty platné pro body a tečny soumezné s bodem A resp. s jeho tečnou:
+Kružnice opsaná trojúhelníku utvořenému třemi soumeznými tečnami dotýká se v bodě A tečny po téže straně jako kružnice křivosti a má
+poloměr = — R.   Kružnice vepsaná troj úhelníku utvořenému třemi sou-
+meznými body dotýká se v bodě A tečny po téže straně jako kružnice křivosti a má poloměr = 4 R.
+Obě věty lze verifikovati přibližně konstrukcí, jestliže se za danou křivku zvolí kružnice.
+XXX. ﻿*"

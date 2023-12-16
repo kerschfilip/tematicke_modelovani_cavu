@@ -1,0 +1,241 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TRlDA II.
+ČÍSLO 12.
+Dodatky k analytickým úvahám o kružnicích a koulích Apolloniových a isogonálných.
+Napsal
+J. SOBOTKA.
+(Předloženo dne 23. března 1912.)
+1. V následujícím budeme používati veskrz jen souřadnic pravoúhlých. Uvažujme hned čtyři plochy kulové KÍ = O (*' = l, 2, 3, 4) o středech Si, poloměrech n a kladme dik = Si Sk, Tik = dikz — (?» + ^)2. Pro každou kombinaci sfér daných koulemi KÍ = O obdržíme jistou kombinaci veličin Tik vedoucí nás k jednomu páru koulí K, K', jež se sfér těch dotýkají, a to v bodech, jejichž analytické vyjádření bylo v jiné práci provedeno pomocí přímek gi ve stěnách čtyřstěnu Sl S2 53 54 položených.1) Vytkněme si na př. přímku gl v rovině S2 S3 54 protínající hrany S2 53, 53 54, 54 S2 příslušně v bodech G4, G2, G3 daných dělícími poměry (S2 S3 G4) =
+(53 54 G2) =
+(54 S2 G,) = — — . Přímka p± středem potenčním O
+koulí KÍ = O vedená kolmo ku rovině 5X gL seče kouli K± — O v bodech Ult U\, v nichž se jí dotýkají koule dotykové K, K'.
+Jsou-li (at, bi, d) souřadnice bodů Si, jsou souřadnice bodu G4
+12    3
+12
+a bodu
+-12
+r!4 ""3
+ri3
+Proto jest rovnice roviny Sj gx:
+l,                     x,
+l,                    flj,
+«»       ___ «•            f        fl     ___  7*        /7
+13           12'         13    2         '12    3'
+^14         ^13'      T14 ^3        ^.13 ^4'
+y>
+= 0.
+l) Analyti;ké úvahy o koulí:h.....,  čís. 9.   roč. XXI.   těchto   Rozprav.
+Rozpravy:   RoC. XXI. Tř. II. čís. 12.                                                                        l
+XII. ﻿Rozložíme-li determinant tento v čtyři determinanty podle dvoj členů v prvcích posledních dvou řádků, obdržíme
+i. *, y,
+l, «lf 6lf
+l,    «2'   ^>>
+-f-
+'13
+l,   x ... l, a1 ...
+l, «3 - - -
+Lze tudíž rovnici roviny 5j gt uvésti na tvar
+Gl =
+0,     i	^»    y,    z,	1
+0,    a	v    &i,    clf	1
+r13,    a	2-      &:>>      C2'	1
+rl3>       #	3-      63.      C3>	1
+*14>    «	4.      ^4.      C-l.	1
+0.
+(1)
+Obecně lze rovnici roviny S/ gv  tedy  vyjádřiti
+O,      x,      y,      z,    l
+O,     ai,     bi,      či,     l
+/m,    am,    bm,     cm,      l
+fík,
+,         n>       Cn,       l
+,       bk,       Ck,      l
+=0.
+2. Budiž dále Q — O koule orthotomická k daným plochám Kt = O a budiž R = O rovina podobnosti uvažovaných čtyř sfér obsažených v plochách KÍ = O, pro než koule dotykové K, K' hledáme.
+Jak známo, jest, když značíme PÍ potenci počátku soustavy souřadné vzhledem ke kouli KÍ = O
+y,    z,
+R =
+Pí P*
+pl
+O,     x,
+""s,
+(2)
+z,    l
+\>  l l
+l l
+C*
+(3)
+kde «!,... e4 značí + l nebo — l podle znamení poloměrů uvažovaných čtyř sfér.
+Rovnici Q — O lze též psáti, přičteme-li k prvému sloupci determinantu (2) sloupec druhý násobený — 2 av třetí násobený — 2 bv čtvrtý násobený — 2 ct a pátý násobený pí se zřetelem k tomu, že
+PÍ + pk — 2 S«ť ah = Sa,2 — rf + Sa*2 — rk* — 2 S^ «A = du? — (ti rt — tk r*)2 — 2 c< «* ^ r* = r<* — 2 *< ť* n rk>
+XII. ﻿— 2«12r12 T12 — 2 r   — 2
+13
+— 2
+= 0.
+(4)
+Rovinu potenční Pt = O koulí () = O, ^ = O obdržíme kladouce do posledního determinantu K^ = 0; rovnice její jest tudíž
+čili
+O,    x,
+O,   alf
+(T-fQl     Ivo .
+J.O*           O*
+O,
+= O
+= 0.
+(4')
+(5)
+Plochy kulové, které protínají vytčené čtyry sféry isogonálně, tvoří svazek ploch kulových
+Qi = Q + 2 l R = O,                                     (6)
+kde A = 0 cos co,  při čemž p značí poloměr libovolné koule ve svazku   a oj úhel, v němž dané sféry seče.
+Hledáme-li potenční rovinu E). = O koule Kí = O s libovolnou koulí svazku (6), třeba jen v rovnici (6) uvésti Q na tvar (4) a klásti K^ = O, čímž obdržíme
+= Gí + 2 (A —
+R = 0.
+(7)
+Z rovnic (5) a (7) soudíme:
+Roviny potenční ploch kulových, jez protínají čtyry sféry isogonálně, s každou z nich tvoří svazek rovin obsahující rovinu podobnosti sfér těch.
+3. Čtyřstěny stanovené rovinami P< = O, G< = O jsou perspektivní pro R = O jakožto rovinu perspektivnosti.
+Rovnice (5) dává následující konstrukci koulí K, K' dotýkajících se čtyř sfér.
+„Sestrojíme potenční rovinu P1 = O jedné z daných sfér a jejich koule orthotomické Q = O, již protneme v přímce rl s rovinou podobnosti R = O daných sfér; pak kolmice p± ze středu O koule Q — O ku rovině 5j /j seče sféru K^ — O v jejich bodech dotyku s hledanými koulemi K, K', jejichž středy jsou na kolmici s O na R = 0.""
+V tom jest známé řešení Gergonne-ovo spoluobsaženo. Kouli Q = O můžeme za účelem konstrukce přímky rl nahraditi libovolnou koulí Q^ = O svazku (6) a tím dospějeme k řešení, jež podal na př. Fouché (v Nouvelles Annales de mathém. 1892), použijeme-li té vlastnosti, že Q^ = O seče libovolné dvě z řečených čtyř sfér v kružnicích, které lze spojiti kuželem 2. řádu jehož vrchol jest střed podobnosti těch dvou sfér.
+XII. ﻿4.  V práci v předcházejícím uvedené jsem ukázal, jak lze koule K, K' sestrojiti  pomocí  přímky g12,  v níž  se roviny Gl = O, G2 = O protínají. Tuto jednoduchou konstrukci lze ještě dále zjednodušiti tím, že sestrojíme přímku glz na základě vlastností, jež jsme právě získali.
+Pro krátkost budeme v následujícím užívati pro plochy Q = O, . . . symbolů Q, . . .
+Vytkneme si střed podobnosti S12 sfér na Kv — O, K2 = O, kteréhož zároveň použijeme k sestrojení roviny podobnosti R; dále sestrojíme prů-sečné přímky rlf yz rovin Pv P2 s R, vedeme v R bodem 512 libovolnou přímku, která nechť seče ^ v bodě Dv rz v bodě D2> pak se protnou přímky DL Sv Z>2 S2 v jednom bodě Z)12 přímky g12, která procházejíc též bodem r± . rz jest tím stanovena; správnost konstrukce vychází z toho, že Z)]2 jest společným bodem rovin (S^^r^, (S2r^j, (D^D^ 5X S2).
+Nejjednodušší konstrukce koulí K, K' jest asi následující. Sestrojíme R a položíme rovinu body O, Sí kolmo ku R, jež protne kouli Q v kružnici q, Kj v kružnici k± a rovinu R v přímce r; přímka potenční kružnic q, kt seče přímku r v bodě, na jehož spojnici s bodem Sl spustíme kolmici s bodu O; kolmice ta seče k± v bodech dotyku koulí K, K' s K± — O a spojnice bodů dotyku s 5X vy tínají na kolmici z O ku r středy S, S' ploch K, K'.
+5.  Zanášejme se ještě konstrukcí ploch kulových, které protínají dané čtyři koule Kf = O pod daným úhlem co. Orientací ploch kulových obdržíme osm různých skupin, z nichž každá utvořena jest čtyřmi sférami přináležejícími daným čtyřem koulím,  tak že řešení úlohy se děje pro každou skupinu sfér zvláště.  Uvažujme jednu takovou skupinu;  plochy kulové isogonální k sférám skupiny vyjádřeny jsou rovnicí (6). Volíme-li O za počátek a rovinu ním rovnoběžně k R kladenou za rovinu (x y) značíce e vzdálenost roviny R od bodu O, nabude (6) tvaru
+(x2 + y2 + z2 — p) — 2 A k (z — e) =0,
+kde jest k určitá konstanta, již bychom mohli snadno z rovnice (6) stanoviti. Z rovnic (5) a (7) plyne
+(Glf R, E,, Px) = l -
+tedy
+(R, Pp Glf E,) =
+(8)
+Označíme-Ii QO, Q'O poloměry koulí dotykových K, K' a T, T' jejich roviny tečné v bodech dotyku s K± = O, obdržíme
+a tudíž
+(R, Plt GL T) = -^-,        (R, Pt, Glf T') = - ^-ei Ti                                                 *i f\
+'   ""R  T T'\_____""o
+11     '    '                     (í'0 '
+XII ﻿Z poslední rovnice libovolné koule isogonální Q* vidíme, že její střed 5« má  od  počátku  O  vzdálenost
+g = ;, k = k Q cos to,
+znamená-li Q poloměr koule té.
+Pro koule dotykové K, K' poloměrů QO, Q'O,   pro než cos co = + l jsou vzdálenosti ty
+takže jest
+cos co        QQ
+~T~F~ L>                     »o
+k '
+(9)
+G. Tím jest dána též konstrukce ploch kulových, které dané čtyry sféry protínají v daném úhlu to. Střed Sw takové koule leží na kolmici z s bodu O na R. Položme na př. opět bodem S1 a přímkou z rovinu N protínající K! = O v kružnici k1} Q = O v kružnici q a R v přímce r. Půjde o to, stanoviti v N na z bod SM jakožto střed kružnice &w přináležející svazku (q r) tak, aby kružnice ta protínala k± v úhlu ca. K tomu můžeme použiti relace (9).
+Za tím účelem sestrojme nejprv střed 5 resp. 5' jedné z koulí K, K', opišme dále kolem bodu U, v němž potenční přímka kružnic q, k± seče r. jakožto středu kružnici u orthogonální ku q a tedy i kt. Kružnice &w bude protínati u taktéž orthogonálně. Budiž A jeden jejich bod prňsečný, pak
+jest   A S(a =       9o O 5W        L0 cos o
+Místem bodů, pro něž vzdálenost tečná od u a vzdálenost od bodu O má stálou hodnotu jest kružnice v, jejíž střed ležící na U O dělí vzdálenost UO
+v poměru
+Kružnici tu stanovíme třeba tak, že zvolíme dvakráte
+dvě délky, jejichž poměr jest QQ : L0 cos a tak, aby kružnice kolem O mající první délku za poloměr a kružnice kolem U utínající na tečnách kružnice u úsečky od bodu dotyku měřené, jež rovnají se délce druhé, se protínaly reálně. Takto jest kružnice v dostatečně určena. Ona seče z ve dvou bodech, z nichž každý 5W jest středem jedné kružnice hledané k^. Kolmice z U ku •Sw SL seče &j ve dvou bodech kružnice této. Tím jest naše úloha řešena. 7. Jinou konstrukci si zjednáme, když uvážíme jednotlivé případy zde se vyskytující zvláště podle toho, jestli r se dotýká kružnice q, nebo ji protíná reálně aneb konečné imaginárně.
+1. Nechť se q dotýká přímky r v bodě L.   Z relace -r-cosco = -^-plyne
+(L O Sa S) = -J— ,                                  (10)
+COS G)
+kterážto relace nám dává přímo konstrukci bodu S^. Opíšeme kružnici u kolem U,  která zde prochází bodem L a protneme ji přímkou bodem U
+XII. ﻿o
+vedenou a s r uzavírající úhel ca v bodě,  jehož průmět orthogonálný na r budiž O', takže (L O' U) =— — .
+COS G)
+Bodem   5  vedeme   rovnoběžku  k  r,  již  protneme  přímkou   O O' v bodě V, pak seče U V přímku z v hledaném bode 5W.
+Neboť je-li R„. nekonečně vzdálený bod na r, jest
+
+cos co
+= (L O' U) =
+— (L O' U jfřj — V (L O' U R^}. Protneme-li  svazek poslední přímkou z, obdržíme čtyři body L, O, S*, S,   jejichž dvojpomer jest -- , pročež
+COS G)
+5^ = 5*.   Páry bodů 5^ odpovídajících různým úhlům to tvoří involuci mající O a Z, za body dvojné.
+2. Přímka r protínej q ve dvou reálných bodech.   Označme M jeden
+z nich. Ježto pro úhly co a co', pro než cos co = — cos co' jest -^- = -- ~
+9                9
+a tedy pro středy SM, S'^ oněch dvou kružnic,  jež protínají sféry v těchto
+>   proto jsou přímky M Sm,  M S'm souměrně
+Q«
+úhlech, platí -V = -- Č
+položeny vzhledem ku M O.
+Klaďme  <L O M 5W = <p, plyne, ježto
+O M S = g>0;  z rovnice -|- cos co =
+~ feo
+relace
+(M O,
+sin (M O, z)
+sin qp                   s0              sin 9?0
+sin tp = sin (p0 cos to.
+(U)
+Spustíme-li tudíž z O kolmici na M S resp. M S' délky d a sestro-jíme-li délku ď = d cos co, pak tečny z bodu M ke kružnici kolem středu O poloměrem ď opsané sekou z v bodech 5W, S'M a jest patrno, že S^, S'm tvoří pár involuce na z, jejíž dvojné body jsou O a pól V roviny R.
+3. Rovina R neprotíná reálné kouli Q. Budiž L průsečík přímky z s R a t poloměr kružnice v, která má střed v L a seče q orthogonálně. Je-li N jeden průsečík kružnice v s kružnicí km, klaďme -^C L N O = ty, pak plyne z trojúhelníků L NO, O N S0}, klademe-li jako dříve O L = e
+o        i
+f-7**-
+Značí-li Af0 průsečík kružnice k± s v a klademe-li držíme pomocí (9) obdobně relaci
+— co/
+cos co.
+L A^0 O = V0. ob-
+(12)
+Pro kružnici k'w obdržíme obdobně úhel ty', a ježto cos co' = — cos co, proto jest ty -}-ty' = se. Opíšeme-li tudíž kružnici vm trojúhelníku L O N, protne tato v ještě v bode N' té vlastnosti, že tečna v něm ku v seče z
+XII. ﻿ve středu S'u kružnice &'tó. Označme v0 kružnici opsanou trojúhelníku LONQ* Kružnice vfí, v,,,, ... tvoří svazek kružnic a společné tětivy jejich s kružnicí v tvoří svazek přímek k němu prométný. Vrchol V toho svazku leží na z; jest to pól roviny R vzhledem ke kouli Q, neboť společná tětiva kružnic q a v též svazku tomu náleží. Polára g bodu V vzhledem ku v jest proto přímka rovnoběžně ku r bodem O vedena. Seče tudíž kolmice s bodu L na společnou tětivu kružnic v, VM přímku g v bodě G0 náležejícím kružnici va, a přímka G^ N jest tečnou ku v a protíná tudíž z v bode 5U.
+Z úvahy této plyne tudíž následující konstrukce kružnice km.
+,, Sestrojíme nejprv bod S a jednu tečnu bodem tím ku v, která protne g v bodě G0 kružnice v0; pak jest úhel O GQ L roven bud ty0 nebo n — tyQ. Potřebujeme tudíž jen sestrojiti na g úsečku O Gm = O GQ . cos to, načež jest «3C O Ga, L roven ty resp. n — -ty, takže G^ náleží kružnici ww a proto tečny ku v bodem Gm vedené protnou z v bodech 5tó, S'tí.""
+Shledáváme opět, že 5W, S'w tvoří pár involuce na z o dvojných elementech O a F. V každém případě tudíž involuce 5W S'w, ... se promítá z bodu Sj paprskovou involucí, jejíž dvojné elementy jsou S1 O a spojnice bodu St s polem F roviny R vzhledem ku Q; jsou tedy na př. přímky S± S, 5X 5' harmonicky odděleny přímkami 5X O, 5j V. Toho můžeme při konstrukci ploch kulových dotykových K, K' rovněž použiti.
+8. Rovina potenční Pj koulí Q a Kj jest polárou bodu O vzhledem ku kouli Kx; přímka p± seče ji v bodě Plt který jest od O oddělen harmonicky body dotyku Ult U\, v nichž p^ seče Kj. Z toho plyne, že přímka Sj_ V seče rovinu Px v bodě P1 náležejícím přímce pv Sestrojíme tedy pí též tak, že sestrojíme průsečnou přímku r± roviny Px s R a s bodu Sj spustíme kolmici na rovinu O rv která protne P1 v bode P, přímky hledané pv Neboť roviny t^čné přímkou r± ku Kx jsou harmonicky odděleny od rovin O rv a PI(
+Buďtež P2, P3, P4 analogické body přímek p.2> P3, p±. Body P< tvoří čtyřstěn perspektivný k čtyřstěnu Sl 52 S3 54 pro pól V roviny R vzhledem ku Qvjakožto střed perspektivity. Rovina perspektivity jest rovina R sama. Neboť na př. spojnice bodů dotyku C71( C/2 koule K prochází středem podobnosti 512 sfér K1( K2, rovněž jako spojnice bodů dotyku U\, ř72'kouleK'. Obě dvě přímky U± U2, U\ U'2 leží v rovině pl pz; přímka k nim s přímkou 512 O harmonická seče p± v bodě P, s O harmonickým k Ult U\ a pz v bode P2 s O harmonickým ku U2, U'2; prochází tedy přímka Pj P2 bodem 512, z čehož
+j^ S2 5
+3 54)
+t P2 P3 P4 se pro-
+jest patrno, že příslušné si hrany čtyřstěnů tínají v rovině R.
+Když tedy sestrojíme poláry m bodu O vzhledem ke kružnicím, v nichž roviny S< z sekou K<, pak transversála bodem Su ku přímkám «*, «/ protíná tyto v bodech P*, P/.
+Obecněji jest patrno, je-li P1 libovolný bod přímky pt a sestroj íme-li k čtyřstěnu 5X 52 53 54 perspektivný čtyřstěn P^P^P^P^, pro R jakožto rovinu a pro průsečík V přímky S1Pl se z jakožto střed perspektivity,
+XII. ﻿8
+že přímky />2, p3> p± obsahují vrcholy P2, P3, F\. Přímka pt obsahuje pól roviny R vzhledem ku Kx; stotožníme-li tedy Px s pólem tím, pak jest V v nekonečnu a P2, P3, P4 jsou póly roviny R vzhledem k ostatním koulím Kť, jak to konstrukce Gergonne'ova vyjadřuje.
+Zajímavý jest specielní případ, kdy čtyřstěn P1P2P3P4 degeneruje v úplný čtyřroh. Abychom seznali, že případ ten jest možný, uvažujme nejprv dvě z vytknutých sfér, na př. ty, jež jsou na Kt a K2. Sféry ty leží centricky kollinearně pro střed jejich podobnosti 512 jakožto střed kollineace a pro jejich rovinu potenční P12 jakožto rovinu kollineace. V kollineaci té přísluší rovině potenční PA ploch Klf Q rovina potenční P2 ploch K2, Q, přímce pí přímka p2, bodům Ult U^, Px na p± body U2, U'2, P2 na />2, čímž promětnost příslušných sobě řad bodových na těchto přímkách jest stanovena. Rovina R jdoucí středem S12 seče Pj v přímce rít P2 v přímce rz, které si tedy též kollinearně přísluší. Přímky pv p2 jsou polárami přímek rlt r2 vzhledem ku Kx a K2, z čehož seznáváme znovu, že si rovněž kollinearně přísluší. Protíná-li R přímku />j v bodě Fv přímku pz v bodě F2, jsou body ty též sobě příslušné, z čehož patrno opět, že přímka Fl F2 prochází bodem 512. Bod O obou řad na plt p2 si sám přísluší, jsa v rovině kollineační. Roviny 5j plt S2p2 se protínají v přímce z bodem O ku R normálně vedené až dřívějšího vychází, že jest z osou perspektivnou svazků 5X (O, t71( U\, P1?..), 52 (O, U2, U'2, P2, ..); proto se protínají také přímky S^-ř^, S2F2 na ose z v bodě F. Jsou-li F3, F4 stopy přímek p3, />4 do R, soudíme z toho, že i přímky S3F3, 54F4 procházejí bodem F, ježto na př. obdobně soudíme že S1F1, S3F3 a. Sj^F^ S4jF4 se protínají na z. Promítneme-li tudíž čtyřstěn 5j 52 53 54 z bodu F do R, obdržíme takto čtyřroh Fl F2 F3 F4 k čtyřstěnu tomu perspektivný; spojnice jeho rohů s bodem O jsou přímkami
+Pí' Pz> Pa> P\-
+Z toho seznáváme,  že  konstrukci  dotykových bodů  koulí   K, K'
+s danými čtyřmi sférami možno též takto uspořádati.
+Sestrojíme bod O, rovinu R a pól její Px* vzhledem ku Kx, pak jest Pi = O Pj*, dále protneme p1 s R v bode F± a spojíme F^ s bodem Sv Spojnice seče kolmici z O na R v bodě F, z něhož promítneme též 52, S3, 54 do R v body F2> F3> F4; pak jest p2 = FF2> pa = F F3, />4 = F F^.
+Výsledek ten plyne přímo z úvahy předcházející. Stopy stěn čtyřstěnu 5!525354 tvoří úplný čtyřstran, jehož vrcholy jsou stopami hran čtyřstěnu toho, kdežto stopní body Fv F2, F3, Fá přímek pv pz, p3, p^ tvoří úplný čtyřroh; první jest druhému vepsán a druhý prvému opsán. Oba tvoří dohromady konfiguraci Hesse-ovu deseti bodů a deseti přímek; na každé přímce leží tři body a každým bodem procházejí tři přímky konfigurace. Z této vlastnosti plyne, že čtyřroh lze považovati za průmět centrálný čtyřstěnu Sí S2 S3 54 z určitého bodu F. Ježto přímky pi leží v rovinách Si z, budou přímky 5ťF< protínati přímku z a ježto neleží v jedné rovině musí se protínati v témžc bodě na z, který jest tedy totožný s F.
+XII.
+ ﻿9. K témuž výsledku vede výpočet.
+Za tím účelem mysleme si R za rovinu (x y) a přímku z bodem O jdoucí za osu souřadnou, kdežto rovinu  (x z) klaďme bodem 5X. Koule Q seče (x z) v kružnici q, mající rovnici
+2 — 2 c z
+2 — p = 0.
+Značme #<, fo, c< souřadnice bodů 5<.
+Polára />t bodu 5t vzhledem ku q má rovnici
+í?j .r + ^i — c] z — c q + e2 — /> — O a seče rovinu R na naší ose % v bodě
+•p ~\- c c1 — e2
+Přímka spojující tento bod s bodem Sj má směrnici c                         fl^
+Ct-\         X-t                Cl i                'u         C C^ ~]~ &
+Přímka p^ leží v rovině xz a jest k právě řečené spojnici normálná; má tudíž rovnici
+z — e =
+p
+x.
+Ona seče x v bodě Flt jehož souřadnice jsou
+ď-t   i/i   C/
+z — O,
+a^2 -\- c* — p — e C-L Přímka S-^F^ seče z v bodě F, jehož souřadnice ^ jest dána rovnicí
+z níž vychází
+l,     O
+l,        í?!
+l,
+= 0,
+2 C1   C----- í?2
+Poněvadž kružnice # a kružnice ^t koule Kj  v rovině A;^ obsažené se protínají orthogonálně, jest
+takže
+«i2 + q2 + e* — 2 c c, = p + í-!2, - c2 — ířj2 + 2 cv c + /> = Cj2 — r^. Tím obdržíme pro bod F
+c,- c
+(12)
+XII. ﻿10
+Poněvadž jest  rovina  x y rovinou podobnosti  daných sfér,  proto
+takže Zi = zv
+Bod F jest tedy středem, z něhož se promítají 5< do bodů FÍ. Jmenovatel Cj2 — fj2 jest potence n bodu E1 — (a^, 0) vzhledem ke kružnici k^. Kdybychom označili dl vzdálenost pólu roviny R vzhledem ku Kx od roviny samé, jest potence n rovna clá1 a proto
+kterážto rovnost dává konstrukci bodu F pomocí přímky píf jak jsme ji prve odvodili.
+Jednoduše můžeme odvoditi F přímo takto:
+V rovině Sl z vedeme v k± průměr A B kolmý ku z a spojíme jeho koncové body A, B s bodem E^, spustíme z bodu O kolmici na ElS1az paty její kolmici na E±A, která nechť seče El B v bodě C, a jejíž společný bod s El A značíme D, aniž bychom jej však při konstrukci použili. Pata kolmice s C na z jest hledaný bod F.
+Neboť protíná-li CF přímku E1S1 v bodě L, a klademe-li *šL SÍE1B = 9, jest
+El D cos <p             c cos- (p                  e
+I L = El C cos (p =
+cos 2 rp
+C,
+61        'l takže skutečně El L = zv
+Ostatně bez výpočtu plyne správnost konstrukce z toho, že kolmice s B na Ej_ A seče 5X E± v pólu roviny R vzhledem ku Kj a že poměr vzdálenosti pólu toho od 5j ku vzdálenosti O F rovná se q : e.
+Tím se provedení problémů dotykových koulí pomocí bodu F stává velmi snadným a jednoduchým.
+Z odvozených zde úvah a konstrukcí plynou příslušné úvahy a konstrukce pro Apollonický problém jako specielní případy přímo, tak že by bylo zbytečno je zde zvláště prováděti.
+XII."

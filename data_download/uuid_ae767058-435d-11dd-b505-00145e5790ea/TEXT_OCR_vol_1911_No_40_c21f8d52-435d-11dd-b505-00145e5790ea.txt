@@ -1,0 +1,308 @@
+"","x"
+"1"," ﻿ROČNÍK XX.
+TŘÍDA II.
+ČÍSLO 40.
+Stanovení jistých arithmetických součtů.
+Sdílí M.  LERCH v Brně. (Předloženo dne 11. prosince 1911.)
+I.
+Bud D  kladný  neb  záporný diskriminant,   í—J   Legendreovské
+znaménko v  Kroneckerove zobecnění,  m libovolné celistvé  číslo;   uvažujme součty
+(l)                           H(D,m)
+kde 4 = \D\   jest 'absolutní  hodnota diskriminantu D.   Na miste pravé strany možno klásti
+kde Q probíhá úplnou soustavou kladných zbytků modulu J.  Zvolíme-li zejména zbytky
+Q = v x,
+kde x je libovolné celistvé číslo nesoudělné s diskriminantem,  obdržíme (2)                   H (D, m x2) = (-^-) H (D, ní);    (D, x) ^ 1.
+Buďte dále Dlt D2 dva diskriminanty nesoudělné  (při čemž čtverce nejsou vyloučeny), 4lf 42 jich absolutní hodnoty a položme v součtu (la)
+(;:Jt:::á-í)-
+volíce D = DÍ D2.   Bude pak
+Rozpravy:   Roč. XX. Tř. II. čís. 40.
+xxxx. ﻿kde
+. .     _ / Dj W Z>2 \ _ ( — l, jsou-li oba diskriminanty Dlt Dz záporný, \ z/g / \ z/j /      *+ l, j e-li aspoň jeden z diskriminantů DltDz kladný.
+Obdržíme tak
+
+Zrn ni    t   .   ,   Zmai    ,
+~^
+(4)                        H (Z), D9, m) — s H (D-,. m J9) H (D9, m J*}.
+\    l                                   \      l         A*         /                  \      l*           B/        \     V           l/
+Předpokládáme-li diskriminant D = — 4 záporný, podá substituce v = 4 — ft výsledek
+a tedy obecně pro záporné diskriminanty
+(5)                                               H (— 4, m) = 0.
+Dle (4) bude H (D, m) = O, jakmile existuje rozklad D = —4. D' v nesoudělné diskriminanty, z nichž aspoň jeden je záporný.
+Funkce H může od nully se lišiti pouze pro případ, kdy Z) je kladný diskriminant aneb čtverec.
+Budte Dlf D2, ... Dr kladné diskriminanty neb čtverce vespolek nesoudělné, položme
+{«)                           Z) = D1Z)2 . . .  D„   Dvf = ^->
+LJV
+i obdržíme ze vztahu (4) postupně
+r
+(4*)                          H(D) = 1[\S(DVtmDff).
+Můžeme předpokládati, že rovnice (a) podává rozklad diskriminantu Z) v kmenné činitele, t. j. že
+kde pv jsou čísla kmenná; při tom jsou exponenty KV čísla sudá při všech pv, jež jsou mód. 4 shodná s — 1.
+Hledejme tedy nejprve (při kmenném p)
+H = H (pzn + \m),         p = l(mod. 4),    n > 0. Substitucí
+V =* Q .+ 'fl#1""l         (O < Q ^ f-\
+xxxx. ﻿přechází součet (1) ve výraz
+*2n
+p — l      4 m Q p m i
+(l =0
+Pro m nedělitelné číslem p jest vnitřní součet roven nulle,  a tedy (61)                                         H (pín+l, m) = O,
+(m== O (mód. p),    n > O,    p = l (mód. 4)).
+Dále jest pro lichá m očividně
+H (S, m) = O, a pro diskriminanty tvaru D = 22n + 1, n > l, nám substituce
+v = Q + /ti 22M-1,    (0<()^22n —J,    /* < 4) podá vzhledem k okolnosti
+V2       Q*       Q [i         o     2n_„
+patrné
+Při lichém p, w je vnitřní součet roven nulle, a tedy 2)                               7Í (22""+1, m) = O,    (w liché,    n ^ 1).
+Buo! dále /> libovolné liché číslo kmenné, a položme
+při čemž n bud sudé v případě p = — l (mód. 4). Současné předpokládejme m = w' />""',    (m', />) ^vi l,    n' < w,
+takže tu čísla m A D nejsou více nesoudělná. Znamená me-li ještě
+D' = p""-""',
+bude
+a tento výraz substitucí přechází v
+v = o -j- u p*
+--L^lLý
+-1   4g'm'
+t.n—n'—k
+____
+í*=0
+bylo-li cel. číslo k tak voleno, aby 2 k ^ n — n'.
+xxxx.
+I* ﻿Je-li tu n — n' > k, bude vnitřní součet roven nulle (ježto se omezujeme na členy, v nichž p je nesoudělno s p), a tedy vychází
+H (pn, m) = 0;
+podmínkou tu jest, aby existovalo celistvé číslo k, pro než současné
+2 k ^ n — n',    n — n' > k.
+Takové číslo neexistuje pouze v případe n — rí = l, v tomto případě máme — lišíce n = 2 h -f l liché a n = 2 h sudé:
+m n i   ,
+z čehož dále
+H (pzh+1,mpzh) = pzhH (p, m),
+—l    Zmai    t
+Z theorie Gaussových součtů je známo, že
+Zrnití    ,
+při čemž odmocnina V+ p je bud kladná aneb kladně pomyslná. Tedy máme
+H
+(68)
+- N i
+(64)                                 H (pzh+l, mpzh) = pzhH(p, m), při čemž (m, p) rv l, a dále
+(65)                                H (pn, m pn/) = O,    (n' < n — 1). V případě
+D = 2M,    m = m' 2W/,    (w' liché,    « > n'}, máme
+a substituce nám podá
+, m' 2""') =        —
+Ií2* í^rť
+xxxx. ﻿bylo-li k tak zvoleno,   aby 2 k ^ n — n'.   Tu bude vnitrní součet roven mílie, jakmile n — n' — k > l, takže tu číslo k omezeno podmínkami.
+n'
+Tem lze vyhověti, jakmile n' < w —3.   Pro ostatní případy máme
+vzorce
+, w' 2—2) =            -   . t1*',
+tu však součet
+vymizí, jakmile n je liché 2± 3, a máme tedy obecně
+(66)                                               H (2Zk + \ m) = 0,
+a to i v případe, kdy w je délitelno modulem 22* + 1. Dále
+(67)                  tf (22 *, 2""' wx) = O   pro n' < 2 k — 3,    w' liché, avšak — též pro k = l —
+? m ni
+(68)                H (2zk,m) =2Zk~1e  zzk ,    (m = O mód. 22*-3).
+Aby tedy H (D, m) bylo od nully různo, nutno, by D bud bylo liché, aneb lichý násobek čísla 4*; v posledním případě musí 8 m býti dělitelno číslem 4*. V rozkladu čísla D v kmenné činitele přicházející čísla
+jsou taková, že
+= l,q = ±l (mód. 4))
+i) m                 q m
+-Zfi-,    resp. -V-
+jsou čísla celistvá, z nich prvé nesoudělné s p. Bud nyní
+rozklad v různé činitele kmenné,
+pv = l,    q„ = Hh l    (mód. 4).
+xxxx. ﻿„Diskriminanty D, pro něž
+H(D, w)==0, jsou bud tvaru D — P n pak je součin
+celistvé číslo nesoudělné s pí p2 . . . .; aneb jest
+D = 4* P, a pak je součin
+8 m pl pz . . . . ?, ?2 . . . .
+Z)
+číslo celistvé nesoudělné s pí pz . . . .""
+K doplnění důkazu třeba ještě ukázati, že součet
+2 m n i
+H = H(p,m)=Z(T)S.   , = ,   o
+y = l         *
+je pro kmenná p = l  (mód. 4) od nully různý. K tomu cíli uvažujme součin
+,    (m.
+vnitřní součet přetvoříme substitucí v (i za. [i, čímž vzejde
+Ve vnitřním součtu dlužno rozeznávati případy, kdy fi2 + l obsahuje dělitele ^>, od případů ostatních. Shoda
+ft2 + l = O (mód. p}
+má dvě řešení ft = fi0 a fi = p — ft0,   a sice je obdržíme rozkladem ve čtverce
+p = «2 + ^2,
+Určíme-li ĎJ shodou
+&&!= l (mod./>), podává shoda
+o? = — b* patrně
+(ab.Y^-1,
+tedy buď a 6X = /i0 neb /> — (i0.   Můžeme tedy klásti
+Po^ab! (moá.p),
+xxxx. ﻿načež Legendreovo znaménko
+se násobením činitelem
+obdrží ve tvaru
+p/\p
+Je však
+tedy
+(a + 6)2 = p + 2 a
+t. j. bude
+M =
+/
+Pro ft — f*0 a pro p = p — |«o bude tedy
+kdežto pro ostatní hodnoty ft jest
+Náš výraz (a) tedy bude
+kde v součtu 2' scházejí členy ft = p0 a /i Součet ten lze psáti
+= /> — j«0.
+poslední dva členy dávají 2(— j, a tak vychází
+poněvadž připojené členy p = pQ a. p — p — pQv posledním součtu rovnají se nulle.
+xxxx. ﻿Avšak*)
+L (i) (^)
+u\ p
+= l     f
+kde a je liché číslo, vzaté s určitým znamením, dané rozkladem
+p = cť- + &*. Bude tedy
+ježto |a| < Vp, je závorka kladnou, a tak vychází, že veličina H (p, m) jest reálná pro kmenná čísla p tvaru 8 k -f- l, a je ryze pomyslná pro kmenná čísla p tvaru 8 k + 5.
+II.
+Bud 91 (z) = z — [z~] nejmenší kladný zbytek veličiny z; pak funkce
+(7)
+obecně rovná se 91 (z) a jen pro celistvá z je 9í* (z) Chceme stanoviti součet
+= — = 91 (2) + --.
+kde D značí diskriminant, z/ jeho prostý obnos, a s libovolné číslo celistvé. Podle (7) obdržíme
+^ —1   -   •*-*   -                   ct                o
+2 n s v2 n
+n=l        r=l
+čili užívajíce v našich pracích obvyklého psaní
+Im. (a + i b) — b,
+= — V -—  Im   H(D,ns). L^nn             \   >      i
+Bude tedy 5 = 0, jakmile diskriminant D je tak volen,   aby výrazy
+H (D, n s)
+*) Ernst Jacobsthal. Inaugural-Dissertation; Berlin 1906, str. 13.
+xxxx. ﻿byly vesměs nully aneb veličiny reálné. Tudíž platí vztah
+(I)
+
+1.  je-li D = — J   diskriminant   záporný,    aneb existuje-li rozklad v nesoudělné  činitele  Ď = ^ z/2,   pro něž — z/1} — ^/2 jsou záporné diskriminanty;
+2.  je-li D součin lichého čísla s lichou mocností čísla 2;
+3     ÍP-1Í    7) = -/>2«i — l   fiZat — l                   0201   fjZfc                     ^fj   *ern*
+<-J,       l C-   J.1     -i-'       —    í^l                      r 2                        *        *        *         *         ví            V 2              *         *         *         * J       r           \s\.šíLLL/
+kmenní  činitelé pv, qv jsou  vesměs  tvaru   4L + l,  až činitelů Pí, Pz,  • • •  první řady sudý počet má tvar 8 k +' 5t Na př. pro D — 17,   s = l (počet činitelů tvaru 8 & + 5 rovná se nulle) po násobení 17. podává (I)
+1 + 4 — 9 + 16 — 8 — 2—15+ 13= O, poněvadž můžeme při D. > O místo (I) psáti vzorec rovnomocný
+A— l
+(I*)
+za podmínek (A}.
+Za stejných podmínek (^4) platí vztah
+(II) zde
+značí absolutně nejmenší zbytek veličiny 2, a obecně
+R* (z) = R (z),
+s výjimkou hodnot tvaru z' = — + cel. číslo, pro než
+')=-,    K* 00 = 0.
+(8)
+Plyne to z analytického vyjádření funkce R* (z) řadou
+Y»             sin 2 n z n
+i
+Rovněž nám rovnice
+L•    / j          ^\ sin (4 n — &} z 7t ____!_______í____ nmi       (2n—l)*      '
+xxxx. ﻿10
+v níž levá strana podává znamení veličiny R* (z), t. j. hodnoty l, O, — l, dle toho jak R* (z) je kladné, nulla, neb záporné, podá vztah
+(ni)
+L(L)
+•
+za podmínek (A).
+V případě kladných diskriminantů lze levé strany rovnic (II) a (III) redukovati na polovici členů.
+Tak pro D = 17, s = l máme od v = l do v = 8
+17 R*
+= l, 4, —8, — 18, 2, — 2, — 4
+1 + 4 + 8-1-8-2 + 2-4 = 0;
+dále
+sgn.  R*
+=1,1, — l, — l,  l, l, — l, — l
+t(4 )<*>• *-(-4-)
+Naproti tomu pro absolutní hodnotu | R (z) \ platí
+1                             OD                     / 4                      Q\
+l   7"")   /    \  l   __                     o   ^L                 \                      /
+l
+a tu bude rovnice (IV)
+platit za podmínek poněkud změněných. Zůstávají alternativy A) 1. a 2., ale podmínka A) 3. se změní v ten způsob, že v rozkladu kladného diskriminantu
+D = />12«'-1/>22«'-1   .  .  . qffrqfk   ....
+mezi čísly ^, pz,  . . . lichý počet má tvar 8 & + 5.
+Tak na př. diskriminant D = 17 této podmínce nehoví, a skutečně máme od v = l do v = 8
+17 \R
+= 1. 4, 8,  l, 8, 2, 2, 4
+17
+*(-?-)
+- l + 4-8 + 1-8-1-,! + 4 — Ift
+20
+takže tu součet (IV) má hodnotu-----=-=- od nully různou.
+xxxx. ﻿11
+Za to hoví podmínce věty (IV)  číslo D = 13;   absolutní hodnoty zbytků od v = l do v — 6 jsou tu
+l, 4, 4, 3,  l, 3,
+Dle definice
+«*.«'-«—** M.
+kde   E* (z) = E (z) = [z]   pro   z  lomená,   ale   E* (z) — E (z)-----—   pro
+A
+z celistvá, platí
+/11 \                        77 # / \ _           ^   _i- V  Sl'n ^n zn
+(    ,}                           i:, •   (/   ^-~ t   ---- -f 2j        —        •
+Rovnici (I) lze pak psáti
+j-i
+v=l
+při čemž D hoví podmínkám (A).   Rovnice poslední  platí  zejména pro všecky diskriminanty záporné.
+Zejména je-li D = — 4tí diskriminant základní (hlavní), bude pravá strana zníti
+kde  Cl ( — ^0)   značí počet  třid  kladných  forem  diskriminantu • — 40*)
+a symbol r značí 2 v případe z/0 > 4, r = 4 pro z/0 = 4 a r = 6 pro z/0 = 3. Tedy máme pro záporné hlavní diskriminanty — ^0
+avšak tu výsledek ten nepodává nic podstatně nového, neboť podržíme-li členy až po v <^ — z/0, v ostatních kladouce v = 40 — ft, máme
+*) t. j. forem a xz-\-bxy-\-c yz, a > O, pro něž
+fc2 — 4 a c = — -J0-
+xxxx.
+ ﻿12
+takže v levo části
+- S
+se zruší a zbývá na levé straně rovnice (V)
+tedy veličiny již známé. Při označení
+můžeme hořejší výsledek psáti
+(VI)
+při podmínkách (A).
+Tu pak se podaří agregát A (D) zjednodušiti, resp. převésti na případ diskriminantu hlavního.
+Uvedeme-li diskriminant na tvar
+kde DQ resp. — J9 je  činitel hlavní (základní diskriminant), Q2 vedlejší, obdržíme známým způsobem vzorce
+(VI1)
+(VP)
+,    D > O,
+při čemž q probíhá v součinu různé kmenné činitele vedlejšího činitele Q. Pro hlavní kladné diskriminanty jsem svým časem nalezl výraz
+(VP)
+4 Dn
+4 —
+Dn
+»=i
+Tyto vzorce mohou sloužiti k vyjádření součtu (VI) pro případ, že diskriminant D hoví podmínkám (A).
+xxxx. ﻿13
+Na konec uvažujme ještě součet
+v němž Z>t, Z>2 Jsou dva diskriminanty nesoudělné, ^, ^/2 pak jejich absolutní hodnoty; za pomoci vzorce (11) obdržíme pro tento součet vyjádření analytické
+a tedy
+Podle (4) bude
+H (Dlt n s z/2) H (D2, n s 4J = s H (D1 D2, n s)
+V -L   Im. H (Dlt nsJz] H (Dz> n s 4J
+^^"">    Tv TL
+Im.HíD.D^ns \   i    z>
+nn
+Poněvadž « se liší od l pouze v případe záporných diskriminantů, kdy výrazy se rovnají nuUe, možno tu klásti vesměs e = 1. Mimo to je první část pravé strany v (y) identicky nullou, a máme tedy
+(VII)
+Okolnost, která odtud vychází, že totiž součet
+je číslo celistvé, jakmile diskriminant D je součin dvou diskriminantů nesoudělných, vychází přímo bez tohoto omezení z identity
+jejíž druhá část v právo je číslo celistvé, a první má hodnotu
+xxxx. ﻿14
+tu je však dle (VI1) a (VI2)
+A(D]
+pro D = — ^/ číslo -celistvé, pro D = -f- <4 pak celistvý násobek čísla
+které   dle   (VI3)   je  celistvé,  jakmile  základní  činitel  diskriminantu D
+•                          / 2 \
+t. j. D0 neobsahuje číslo 3 neb 5, ježto jest 4 — (-yp) = 3 aneb 5. Je-li
+\ L>0 /
+D0 děliteno S""1', musí obsahovati ještě aspoň jednoho činitele tvaru 4 k — l, a je tedy číslo 0 v tom případě celistvé. Rovněž je tomu v případě, kdy D0 > 5 je násobkem čísla 5, takže součet 0 může býti lomeným jen v případě
+D = 5 Q2
+i, j. D0 = 5. Tu skutečně pro D = D0 = 5 při s = l
+rovněž pro D = 20 = 5 . 22 (D0 = 5, Q = 2) máme
+J_          1 — 9—9 + i          ^
+T                ~~20~~ 5 '
+číslo lomené.
+V případě D = 45 = 5 . 32 jsou ve členech součtu 3> čitatelé zlomků
+l — 4 + 16—19 + 31 — 34, a sice každý čtyřikráte; bude tedy
+l                      9            l
+opět lomené.
+K   * v
+^e'*L>s
+V
+xxxx
+"

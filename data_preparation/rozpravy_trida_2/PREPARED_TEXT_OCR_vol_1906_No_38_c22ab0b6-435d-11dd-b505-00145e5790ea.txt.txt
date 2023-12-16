@@ -1,0 +1,293 @@
+"","x"
+"1"," ﻿NOČNÍK XV.
+
+
+TŘÍDA li.
+
+
+ČÍSLO 38.
+
+
+
+
+
+Poznámka vyjádření počtu komplexních kořenů rovnice alg. pomocí invariantů,
+
+
+Napsal PETR. (Předloženo dne 16. listopadu 1906.>
+
+
+
+
+
+Vlastnosti, jež postačují tornu, aby řada racionálných celistvých funkcí koefficientů dané formy (reálné) nám udávala počtem změn znaménkových počet kořenů komplexních dané formy, jako činí řada Sturmova, jsou tyto:
+
+
+Dvě sousední funkce nemají společné míry, stane-li pak jedna funkcí nullou, obě sousední, jsou-li nully různý, mají protivná znaménka.
+
+
+První funkcí jest konstanta (ku př. kladná jednotka), poslední diskriminant dané formy vhodným znaménkem.
+
+
+Dosadíme-li řady funkcí koefficienty formy hodnoty (reálné) libovolně numericky zvolené podmínku, dva sousední členové řady nejsou rovny nulle nejprve takové, příslušná forma komplexních reálných, stupeň formy) kořenů, podruhé pak, příslušná forma -f- komplexních reálných) kořenů, dostaneme druhém případě řadu mající jednu změnu znaménkovou více nežli řada při prvním dosazení vzniklá. Tato třetí vlastnost jest platná
+
+
+pro každé pro
+
+
+Budeme tuto třetí vlastnost vyjadřovati zkrátka tak, počet změn znaménkových řadě funkcí při numericky určitém (pevném) přechodu komplexních kořenů -f- komplexním kořenům vzrůsti jednu
+
+
+XXXVIII.
+
+
+Rozpravy: Roč. XV. Tř. II. 38. ﻿Ze vskutku řada racionálných celistvých funkcí koefficientů dané formy, má-li uvedené právě tři vlastnosti, dovoluje určiti počet kořenů komplexních dané formy pro každý systém koefficientů, pro který dva sousední členy této řady nejsou rovny nulle, lze bez potíží dokázati.
+
+
+Jest však známo, řadu rač. cel. funkcí koefficientů dané formy, kteréž ona řada počtem změn znaménkových určuje počet kořenů komplexních, lze tak voliti, aby jednotlivé členy řady byly invarianty dané forrny, jestliže jenom Neboť lze, jak známo, nahraditi danou formu jinou formou témž počtu komplexních kořenů (vypustíme-li zřetele jisté výminečné případy) jejíž koelficienty jsou invarianty dané formy.*) Funkce Sturmovy pro novou formu jsou tedy též invarianty pu-
+
+
+dokázal poprvé Hermite pojednáních, nadepsaných »Sur Féquation clu cinquiěme degré* (Comptes rendus l'Acad. Se., LXI.i prostřednictvím Tschirnhausenovy transformace. Jednoduše lze též takto dokázati:
+
+
+Budiž
+
+
+/(.v,, xj-at .V' (J) fl, .v;'-1 .v, .... +aM
+
+
+(1)
+
+
+reálná forma w-tého stupně. Pak jest
+
+
+.v..
+
+
+forma stupně Utvořme libovolný (rač. celistvý) kovariant stupně j-tého koef-ficientech téhož stupně promčných pro formu fW. Budiž tento kovariant 6>v (.v,, A\>).
+
+
+„(K) (k) tk)\
+
+
+Pak čísla ~C\ ""9 ....
+
+
+jsou invarianty formy /\.Vj, .rá) zpravidla irraciouálné; jsou-li invarianty racionálně.
+
+
+jest ovšem ~.....zz Au. Lze však snadno ukázati, pro lze vždy
+
+
+voliti kovariant formy f-J), pro který čísla A{- jsou invarianty irracionálné formy f(x\, JT.J); takovou volbu následujícím předpokládám.
+
+
+Rovnice (/) At) (.v A%) .... Aíf)
+
+
+jest rovnice, jejížto koefficienty jsou invarianty (rač. celistvé) dané formy. reálným
+
+
+
+
+
+
+
+
+kořenům, reálným
+
+
+<k)
+
+
+čemž
+
+
+reálně volíme, odpovídají reálná
+
+
+(*)
+
+
+jest bezprostředně jasno. Rovněž komplexně sdruženým
+
+
+
+
+
+kdež přiro-
+
+
+ženě čísla čísla u,1, «„' jsou zvolena jako komplexně sdružená, odpovídají komplexně sdružená Ak, Ak,\ mohou však tato dvě čísla výminečném případu státi reálnými zároveň sobě rovnými čísly. Tento výminečný případ nastati může jen tehdy, když diskriminant rovnice (/) dělený pokud možno nejvyšší mocninou diskriminantu formy /(.v,, xž) jest rovný nulle. tedy rovnice (/) právě tolik komplexních kořenů jako forma /(A-J, .v2) jenom tom výminečném případě, jistý invariant této formy jest rovný nulle, může rovnice míti reálných kořenů více dvě (po případě .... jestliže jsou ještě jedna, dvě, .... další podmínky mezi invarianty dané formy splněny.)
+
+
+XXXVIII. ﻿vodní formy tak máme řadu, jejíž členové jsou invarianty která vzhledem dané formě tytéž vlastnosti jako řada Sturmových funkcí (vlastnosti ]., 2., 3.).
+
+
+Cesta však právě naznačená (jak získati řadu Sturmových funkcí) jest jednak prakticky téměř neproveditelná, jednak vede výsledkům příliš málo jednoduchým tudíž neužitečným. Leží však snadě přímo pokoušeti vyhledati řadu invariantů mající vlastnosti bez prostřednictví nové formy. Můžeme při tom zjednodušiti vyšetřování tím, provedeme vyšetření počtu kořenů komplexních zvlášť pro diskriminant 1)^>0 zvlášť pro však, má-li diskriminant zachovati své znaménko při změně počtu kořenů komplexních, musí současně přejíti čtyři kořeny reálné dva páry kořenů komplexních (anebo naopak) tento přechod tudíž děje skrze dva páry kořenů stejných. Poněvadž pak při tomto přechodu znaménko posledního členu -D) nemění počet změn znaménkových vždy vzrůsti (po případě vždy ubyti), musí současně diskriminantem ještě jeden člen řady státi nullou pro koef-ficienty formy mající dva páry stejných kořenů. Učiníme pak požadavek řadu invariantů, aby byly možné přechody skrze dva páry stejných kořenů, při kterých diskriminant jenom jeden člen ještě současně stávají nullou. Musí býti člen předposlední, neboť, kdyby jiný člen stával nullou, dle vlastnosti nemohl nastati při přírůstku počtu kořenů komplexních přírůstek (po př. úbytek) počtu změn znaménkových řady, jež počtem změn znaménkových právě určovati počet kořenů komplexních.
+
+
+Aby tedy řada invariantů počtem změn znaménkových určovala počet kořenů komplexních dané formy, postačují, jak snadno základě uvedeného vyplývá, jistě tyto její vlastnosti
+
+
+Dva sousední členové řady nemají společné míry; stane-li pak jeden člen nullou, oba sousední, jsou- nully různý, mají znaménka protivná.
+
+
+První člen jest poslední diskriminant vhodným znaménkem, předposlední člen jenom předposlední stává vždy nullou, stanou-li dva páry kořenů sobě rovnými.
+
+
+Dosadíme- řady jednou invarianty, které přísluší formě komplexních reálných kořenech (libovolně zvolených to, dva sousední členové řady invariantů nemají býti rovny nulle), druhé invarianty, jež přísluší formě -j- kořenech komplexních (// reálných kořenech, týmž omezením jako prve), poskytuje druhém případě řada invariantů dvě změny znaménkové více než prvém případě. Tato třetí vlastnost musí býti splněna buď pro všecka
+
+
+(mód 4), pro aneb pro všecka k~.
+
+
+(mód 4), pro 10, ........
+
+
+
+
+
+-""
+
+
+dle toho, pro
+
+
+jaké znaménko diskriminantu vyšetřování provádíme.
+
+
+XXXVIII. ﻿II.
+
+
+Ukáži následujícím, základě zásad uvedených hravě lze sestrojiti podmínky pro realitu kořenů formy pátého stupně hned formě nejjednodušší, které pomocí geometrického názoru dospěl Syl-vester. Jsou tři invarianty formy 5tého stupně sobě nezávislé, zvolím tomu účelu invarianty, které Salmon, jehož označením chci říditi, značí písmeny ./, Diskriminant formy pátého stupně jest
+
+
+podmínka pak nutná aby byly dva páry kořenů stejných, jest, aby aby invariant
+
+
+2nL-f«.7Z?
+
+
+byl rovný nulle; jest numerický součinitel, jejž můžeme libovolně zvoliti. Nejjednodušší předpoklad, který pro předposlední člen řady hledané (t. řady určující počtem změn znaménkových počet kořenů komplexních dané formy) učiniti můžeme, jest, předposlední člen jest
+
+
+(1) .......... +(-/3'-211/,-f aJD],
+
+
+při čemž určení zůstává znaménko číslo Vyšetříme, zda jest řada invariantů vlastností 2., 3., jež při vhodném znaménku vhodné hodnotě pro číslo měla výraz (1) člen předposlední. Stačí při tom omeziti případ, (neboť při veškeré vyšetřování jest zbytečné, forma dva komplexní kořeny). invariantech víme, výraz
+
+
+(2) ..... (K2 JLY AT3 12J 432
+
+
+jest kladný anebo rovný nulle (pro reálné formy); neboť tento výraz jest šestnáctinásobným čtvercem lichého invariantu.*) Zavedeme-li výrazu
+
+
+(2) invarianty 211 dostáváme tuto podmínku pro reálné formy Stého stupně
+
+
+(3) (L, J3) J'2 (29 J3) (72
+
+
+205 125 JG) Z,3
+
+
+Nechť 211 L-f ««//?=: t.j. nechť L^aJD Pro tento případ zamění podmínka (3)
+
+
+(4) DJ[(2 a)D3 -{- /J2
+
+
+-(a2 205 17)L>J4-f 125 J6]^
+
+
+Číslo můžeme zvoliti tak, výraz hranaté závorce jest stále (t. pro jakékoliv jakékoliv kladné kladný. Předpokládejme takové (4) změní
+
+
+Viz př. Salmon-Fiedler, Algebra der lin. Transf. vyd., str. 302.
+
+
+XXXVIII. čehož vyplývá, jako třetí člen konce můžeme hledané řadě vzíti udaných předpokladů ./.
+
+
+Položíme-li JrzO (3), dostaneme
+
+
+poněvadž závorka jest při kladná, máme při 7^0 anebo též (L, Z?)
+
+
+toho zase patrno, již čtvrtý člen konce položiti můžeme rovný -f- pak, (1) jest zvoliti znaménko dolní. máme řadu
+
+
+(5)
+
+
+—(L, uJD),
+
+
+níž při vhodném stanovení čísla jsou splněny požadavky str. 3., zbývá ještě vyšetřiti, zda splněn jest požadavek
+
+
+tomu účelu vyšetřiti jest jeden přechod formy, mající kořenů různých reálných (jinak libovolných) formě mající čtyři kořeny komplexní jeden reálný. Zvolím tomu formu
+
+
+(6)
+
+
+(x2
+
+
+[(x ayY
+
+
+Formě této přísluší pět reálných kořenů, jsou-li čísla kladná, čtyři komplexní jeden reálný, jsou-li čísla záporná. Číslo budiž nully různé, při výpočtu invariantů stačí počítati jenom členy, jež jsou stupně nulltého prvého. Obdržíme
+
+
+24rt18-f 25. O-f t)«16+ .... 211 52. 215 a16
+
+
+jak bezprostředně jest jasno, jest druhého stupně dostáváme pro řadu (5) formy (6), tyto výsledky
+
+
+4-......, 215 #16 -f.......,
+
+
+vidíme, jsou-li dosti malá kladná čísla, není řadě této žádných změn znaménkových; jsou-li však čísla dosti malá avšak záporná, jsou řadě dvě změny znaménkové. jest při řadě (5) požadavek str. splněn.
+
+
+tak máme tuto větu výslednou:
+
+
+Řada invariantů
+
+
+(5')
+
+
+—(Js
+
+
+JD],
+
+
+které dva sousední léno něj sou rovny tolik změn znaménkových, kolik příslušná forma pátého stupně párů kořenů komplexních. Při tom požaduje, aby bylo tak voleno, rovnice třetího stupně
+
+
+XXXVIH. ﻿1(7) («2 205
+
+
+125
+
+
+neměla kořene kladného.
+
+
+taková jsou, pro něž rovnice (7) nemá kořenů kladných, lze bez počtu zjistiti, jsou př. všecka pro něž 5^2. Snadným počtem zjistíme, též pro nemá rovnice (7) kořene kladného. Podrobné vyšetření intervalů přípustných pro číslo však vyžadovalo výpočet rozbor diskriminantu rovnice (7).
+
+
+Konečně jest jasno, že, jsou-li prostřední dva členy řady (5') rovny nulle, forma příslušná čtyři kořeny komplexní rozhoduje řada (5') udaného omezení pro vždy počtu kořenů komplexních formy pátého stupně kladném diskriminantu.
+
+
+XXXVIII"

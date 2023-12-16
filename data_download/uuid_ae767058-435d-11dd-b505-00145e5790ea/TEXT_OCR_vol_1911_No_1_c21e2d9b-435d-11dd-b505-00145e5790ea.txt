@@ -1,0 +1,88 @@
+"","x"
+"1"," ﻿ROČNÍK   XX.
+TŘÍDA   II.
+ČÍSLO 1.
+Příspěvek k theorii forem,
+P o j c (! n á ní 2).
+Napsal I)r. Karel Rychlík,
+assistcnt české univcrsitv.
+(Před lo/cno ('ne   11.  listopadu  lí)l<>).
+Kořeny soiísturv rornic tvořené lineárním systémem kanonickým.
+Uvažujme nyní hodnoty, pro něž formy daného systému kanonického vesměs /mi/í. Tu jist patrno, že v případě, kdy počáteční členy tvoří úplný souhrn stupně ;/, tak že indexy ť, = c., •-•= . . . — c,„. i = <> a za íormy daného systému kanonického l/i' zvoliti všechny jednočleny stupně ;; v ;// proměnných, zmizí formy daného systému jen pro hodnoty .v, ----- .\., = . .. = x,„ = 0. V každém jiném případě 1/e vyhověti soustavě rovnic tvořené lineárním systémem kanonickým systémem kořenu .v,, .v.,, . . . x m různým od systému x1 — x.2 = . . . = .v,„ = 0. Poněvadž poslední z forem daného systému se rozpadá A- součin l\ P., . . .Pm i .v,„."" r' *—""-—*m i, musí pro kořeny aspoň jedna z forem I\, /•*.,, . . . /-*„, , \-ymi/eti. A naopak l/.e dokázati, že ])ro hodnoty .v/, .v,T i . . . .vm, pro něž jest Pť = O, lze ustanoviti .v,, .v., . . . .v, i tak, aby vymizely všechny formy daného systému.
+Jc-li i; >* O, mají všechny formy daného systému za největší společnou míru polynom l\ a >tačí uvažovati zvláště hodnoty annullující Pl a systém kanonický, vzniklý / daného dělením 1\, v němž jest první index roven mílie. Budeme tedy dále předpokládati, že ť, = 0. Nechť jsou /,, /'.,, . . . /,. formy obsahující .v,, /ť+i, /ť->,-2, • • • /,"" formy, které již xl neobsahují. Formy ty tvoří lineární systém kanonický v proměnných
+\:,, A';í.....v,„. Předpokládejme, že pro dané hodnoty .v.> = fo . . . x,„ - §,„
+Írst /,,! ic.-i — • • • — i-i (l a dokažme, že možno stanoviti pro xl takovou hodnotu ;v, |,, že /, = /., — . . . — ff — o. K tomu cíli uvažujme jako dříve 1'ormv
+R,„ .  XX.   l'r.  II. l
+I. ﻿2
+/•' -- A, /, + A, /, +... + a, ,/v
+(* = ,""i A + í'-2/-> 4 • • • + Ihip a jicli   resultant   R.    Dosadíme-li   /a #2 = L.,, . . . A,„ .= |,„   a   /načíme-ii
+/,, /._,,  . . . /,.,  /•, C/  vxniklé  tak  polynomy  v A,,  bude
+/•' == A, /, — A2 /., -f ... 4- A,. /',
+<* -   /'i /i + ,«.; /a -r- • • • + l»f ic.
+Po dosa/ení tom rrsultant A*. vxhledem k tomu, xe utvořen jest jako forma odvoxená / fe+i, • •• //,• vvmixí. Jest tedy resultant forem I1"" a (/ roven O, / čehož plyne, že polynomy \' A,, /,, /._,, . . . /< mají xa největší s])olečnoii mini polynom M obsahující skutečně .v,. Pro hodnoty x} = l,, anniillujíei pol\'nom A/, bude pak /, = /., = . . . =fe = 0.
+Tím tvr/ení dokázáno.*)
+Ke kaxdé x forem /J,, I'.,. . . . Pm patři jistá soustava kořenu a siee 1/e při tormě /', \'o!iti Xi+i, Xj + i- ••• x,„ libovolně, ;v, jest pak určeno rovnicí PÍ <>; dále .v,.., jist určeno rovnicemi x daného systému obsahujícími Xi+i, Xi, Xj+i .... .v,„, podobně x,•,...-> ro\-nice.ini obsahujícími A',. .Y.,, . . . Xi •:, Xi -i , Xi • • • x,a atd., ax konečně \-, rovnicemi obsahujícími \-sechny proměnné *, .v.,, . . . .v,,,.
+Všechny   hodnoty   A,,   A'.,,  . . .  .\',„,   nnrmlující   dané   formy,   pro   něž poměr A, : A., : . . . : x,„ jest týx, jc-st x\-ykem in-axovati jako jediný kořen Y tom   smyslu pak pravíme, xe kořeny  patřící  k  formě P, tvoří  varietu ;//  — i — l        roxměrnou.
+Roxloxme  formu Pt  \ irrediicibilní  činitele.
+p,= 77,/> //../^..  n.^.
+Ke' ka/dénm x faktoru //budou patřiti ty koieny daného systému, pro něž bude U = O. Dokažme, xe hodnoty ty tvoří varietu irreducibilní. t. j.. xe xmixí-li pro ně součin libovolných dvou forem
+.1 (A,. A,,, . . . x,„) B (A,, A,, . . . A,,,),
+jest  nutno,  aby  všechny  tyto hodnoty buď vyhovovaly  rovnici
+-l  ÍA,, A.,,       .  x,„) = <>
+/>' (A,, A,. . . . A,„
+Dukax !/;• pro\'ésti na základě věty: Mi/í-li polynom j(x\,x-i, . . . x,„i l>ro všechny hodnoty A,. AO . . . x,,, pro něž mixí irreducibilní polynom ,í,r (A',, A., . . . x,„), musí býti polynom / polynomem ^ dělitelný.
+Větu tuto 1/e odvoditi pomocí Euklidova algorithmu. (\'ix na pi. Xetto Algebra II., p. 2».)
+Z ní  pak plyne  věta,  kterou  budeme  po/ději  potřebovati:
+*) DnUa/ tuti) uvedený jest rů/.ný od dukaxu iKxianélio Dclasnsem a jest analogický s duka/em věty na str. 10. poj. I., Úterý se v podstatě s diikaxciu Dclasnsovýin }>ro větu tu shoduje.
+I. ﻿Mizí-li polynom/ (A',, x.>, . . . A,„) pro všechny liodnoty xt, x.,, . . . x,H, pro které mizí polynom # (x\, x.,, . . . x,,,). jest polynom / dělitelný každým z irredncibilních činitelů polynomu g a jistá mocnina polynomu / jest dělitelná polynomem <,'.
+Nyní můžeme dokázati invdueibilitu \-ariety (77). Pro hodnoty A', = L,, x., = $.,. • . . x„, ----- L„, z této \-ariety jest irreducibilní forma 77 v proměnných A,, A, i, ... x„, ro\-na mílie a má-li býti pro hodnoty x\ L,.....v,„ = L„, také součin forem A H roven mílie, t. j. ])olynom
+míti  za kořeny  všechny  hodnoty A,,  #/+i,  . . .  xm,  pro  něž 77 = u,    musí býti  polynom ten  dělitelný  formou 77,  tedy jeden z  polynomu
+.1   (L,, L.,,  ... l,   i, A,, A,   ,, . .
+/>'   (l,,   l,-,    ...   |,    i,   A„   X,-,.   .  .
+býti  dělitelný 77.     Pak  ale zmizí  jeden  z  nich  pro  všechny  hodnoty A', ,r, , i,  ...  x,,, činící  77 = O a též ])ro vširhny  kořeny z  (77)
+I \-idime, že s\>tem ro\'nic daný lineárním systemí'in forem kanonickým má za kořeny bud pouze hodnoty A, -— x.2 — • • • = x,„ = <> \' pří-]>adě, že jest to systém úplný, neb má za kořeny také jiné hodnoty; tyto lze pak rozložiti na variety irreducibilní.
+Nehledíme-li ke kořenům A', = A, = . . . = xm — <>. lze rovnici / = u. kdi'ž / jest !ibo\-()lná forma, nahraditi systémem rovnic
+-v, /
+;V„, / = O.
+X toho plyne, že lineární systém forem kanonický, který lze na základě úvah na str. J3. I. pojedli, libovolnému systému forem přiřaditi, má tytéž kořeny. Lze tedy o libovolném systému forem, jichž počet jv-st konečný neb nekonečně velký rozhodnouti, má-li pouze za kořeny hodnoty A, = x2 = . . . = x,„ =0 neb má-li také jiné kořeny, ty pak lze rozložit na konečný počet variet irreducibilních.
+Užití na theorii modulu.
+Každému modulu, tvořenému formami v proměnných x}, x.,, • . • A,,,, lze přiřaditi jistou varietu hodnot (A,, A'.,, . . . x,,,}, totiž varietu hodnot (A,, x.,.....v,„) annullujících všechny formy daného modulu.
+V případě, že systém kanonický, který tvoří formy počínajíc jistým dostatečně vysokým stupněm, jest úplný, náleží každá forma dostatečně vysokého stupně danému modulu. Pak lze všechny formy daného modulu annullovati pouze hodnotami A-', = x.2 — . . . = xm = () ^ naopak, lze-li všechny formy daného modulu annullovati pouze hodnotami #, = x.2 = -=...= x„i = (]< náli-ží každá forma dostatečně vysokého stupně danému modulu.
+I. ﻿V případě obecném uvažujme číslo ^ (//) udávající počet lineárně neodvislých podmínek, jimž musí vyhověti koeííicienty formy stupně •//., aby patřila do daného modulu. Formy dostatečně vysokého stupně z daného modulu nechť tvoří lineární systém kanonický o indexech cl3 ť'2, . . . ť',„_ i . Zavedeme-li oxnačení
+-Y („.,,,)
+""          ,,X („,.„)
+m   n
+shledáme snadnou úvahou, že počet jednočlenu souhrnu komplementárního ke kanonickému souhrnu o indexech <-,, c.,, . . cm, jest
+l (;;) = A' (//, m 1. — A' (;/ — r,,  /// — 1) 4- A' (n — i\, in — 2) - - /V (« —  C-, — c.y, ni -   2)
+-f- A"" (;; — ť, — í'.2 — ... — c,,,  _., 1)         A'  (;/ —- L\ — cz — ... — ť,„_-i 1.)
+Číslo to i (n) udává nám pak počet lineárně neodvislých podmínek, jimž. musí vyhověti koefficienty formy stupně n, aby tato patřila do daného systému kanonického.
+l bude v případě, že ť, = c., = . . = í',--i = O, <',- > O, # (n) polynom stupně n — m— f v n.
+l vidíme, že počet lineárně neodvislých podmínek, jimž musí vyhovovati koefficienty formy stupně n, aby náležela danému modulu, jest dán polynomem # (n).
+Polynom tento nazývá Hilbert charakteristickou funkcí daného modulu. Stupeň polynomu tohoto jest dán rozměrem variety, kterou tvoří hodnoty annullující formy daného modulu.
+Zmizí-li forma /•' pro všechny hodnoty A;,, x.>, . . . x,„, pro něž mizí všechny formy daného modulu M, neplyne z toho, že forma l: =• O (mód. M). Lze však dokázati, že pro jistou mocninu platí /'""'' ^ O (mód. M}. Důkaz provedeme úplnou indukcí.*) Uvažujme nejprve případ ;;/ = '1. Počínajíc jistým stupněm n tvoří formy modulu M lineární systém kanonický, který v případě dvou proměnných má tvar
+p     Y n     <,      ]>     v  n    c,-  l   r                 I)     Y :i    •;
+r\*>\         •    '   \  -Xl               -1!""    '   '   '    l   l  *2
+kdež P] jest forma v proměnných A',, x.2, takže po dělení 1\ obdržíme kanonický systém úpln\'*. Z toho plyne, že každá forma dostatečně vysokého stupně, dělitelná P,, patří do daného modulu. Má-li forma /• mizeti pro všechny hodnoty ,v,, A.,, annullující formy daného modulu, musí mizeti pro všechny hodnoty A',, .v.,, l""»ro něž je>t /;, - o. Z toho plyne na základě \'ěty na -tr. .'5, že jistá mocnina formy /•"" bude formou P} dělitelná. Zvo-líme-li tedy mocninu r tak, aby:
+1. stupeň formy /<v byl větší než >tupcú //, od kten'-ho počínajíc formy modulu M tvoří systém kanonický, a aby
+L', forma l""  byla  formou /•*, dělitelná, bude jistě l1'1' = o (mód. .W).
+*)   Hilbort, Míith. Arn. 4-2.
+J. ﻿Předpokládej mé nyní, že daná věta platí pro m — l proměnných. Uvažujme opět lineární systémy kanonické 5, které tvoří formy modulu M od jistého stupně n počínajíc. Předpokládejme nejprve, že el = 0. Zvolme mocninu (> tak, aby pro formu stupně N, Fe, existoval v modulu M již lineární systém kanonický S^v- V systému S\ vyskytují se všechny formy počínající jednočleny stupně N obsahujícími #,. Bude tedy možno utvořiti formu y stupně N náležející lineárnímu systému SN, tak že qp = O (mód. M) a takovou, že forma F? — <p neobsahuje již xv Forma F?—- <p bude pak nutně mizeti pro všechny hodnoty annullující formy kanonického systému v proměnných x2, x3, ... xm, tvořeného formami v systému SÁT, které neobsahují xv Tyto formy vytvořují jistý modul M' v m — l proměnných xz, x3 . . . xm.
+Bude tedy pro jistou mocninu <?
+t- j-
+0 (mód. M')
+A.
+kdež //, /V, . . . jsou formy z modulu M'.   Poněvadž formy y, //, /2', . . vesměs náležejí modulu M, bude
+F*a = 0 (mód. M).
+Je-li el > O, mají formy kanonického systému 5„ za největší společnou míru formu Pt. Dělíme-li pak Plt obdržíme kanonický systém S„, v němž jest první index = 0.
+Má-li forma F mizeti pro všechny hodnoty xít X2, ... x,„ annullující formy z modulu M, musí nutně mizeti pro všechny hodnoty, annullující formu P1 a pro všechny hodnoty, annullující formy z lineárního systému kanonického Sn.
+Z toho, že forma F mizí pro všechny hodnoty annullující formu Plt plyne, že jistá mocnina formy F, FT, bude dělitelná Px. Z té okolnosti,
+FT                                                                                                             _
+že forma—- mizí pro všechny hodnoty, pro něž mizejí formy z modulu M,
+*i vytvářeného   formami   lineárního systému S„,  plyne dle předešlého, že
+pro jistou mocnost (>
+a tudíž také
+(0-
+mód.  M
+Fr s° = O mód. M. ﻿n
+i
+"

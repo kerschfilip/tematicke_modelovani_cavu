@@ -1,0 +1,743 @@
+"","x"
+"1"," ﻿ROČNÍK XIII.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 25.
+
+
+Vyjádření funkce záporném diskriminantu funkcí cnu.
+
+
+Píše
+
+
+Dr. Ant. Pleskot,
+
+
+prof. jealky Plzni.
+
+
+fPředloženo dne 10. června 1904.)
+
+
+díle Appell-Lacour »Principes théorie děs fohctions ellipti-ques applications uvádí str. 137. násl. methoda, kterou Weier-
+
+
+strassova funkce pro kladný diskriminant vyjádří funkcí
+
+
+
+
+
+Postup methody jest tento
+
+
+
+
+
+Jest možno nalézti takové funkce snz ---
+
+
+
+
+
+periody. rovnoběžníku period, obsahujícím bod mají funkce
+
+
+funkcí tytéž
+
+
+pu,-
+
+
+jediný pól dvojnásobný ježto
+
+
+lim irpti
+
+
+lim
+
+
+jest rozdíl
+
+
+pu-----------
+
+
+funkcí dvojperiodickou, která nestává rovnoběžníku period nekonečnou jest proto konstantou. Označíme-li tuto konstantu d7, jest tedy
+
+
+Rozpravy: Roř. XTIT. Tř. II. 25.
+
+
+XXV. ﻿pu
+
+
+
+
+
+Konstantu jakož modul funkce lze určiti methodou
+
+
+
+
+
+neurčitých součinitelů zvláštních hodnot argumentu //, pro něž hodnoty
+
+
+
+
+
+
+
+
+funkce jsou známy.
+
+
+Tím dospěje rovnici, kterou stanoví vztah těchto dvou funkcí současně vyjádří periody funkce integrály Legendreovými, defi-nována-li funkce rovnicí differenciální.
+
+
+Pro funkci záporném diskriminantu spise onom příslušná redukce provedena není, nýbrž jsou jen periody funkce zvláštními substitucemi stanoveny.
+
+
+Předložená úloha může jednoduchým způsobem řešena býti užitím jistých substitucí, jakž provedeno př. spise Lévy-ho: Precis éle-mentaire theorie děs fonctions elliptiques str. další.
+
+
+úvaze následující chceme ukázati, kterak obdobnou methodou, jak nahoře bylo vyloženo, možno dospěti vyjádření funkce záporném diskriminantu funkcí cnu vyjádřiti periody funkce integrály Legendreovými. Poněvadž úvaha opírati bude řadu vět theorie funkcí elliptických, myslím, bude této stránky vhodnou applikací nauku těchto funkcích příčiny osměluji uvésti.
+
+
+Budiž funkce
+
+
+definována známou differenciální rovnicí:
+
+
+(—}'=
+
+
+\du)
+
+
+níž značí čísla reálná budiž diskriminant rovnice
+
+
+4**-g9*-& (2)
+
+
+záporný, ^23 27^32
+
+
+Rovnice (2) pak jeden kořen reálný, kterýž označme <?2, dva komplexní, kteréž označme e3.
+
+
+theorie funkce p^^ jest známo, případě tomto periody 2tá, 2oí3 funkce této jsou konjugovaná čísla tedy
+
+
+2(o3 .--: íi)2
+
+
+XXV. ﻿kdež OJ2 ra'2 značí čísla reálná; tyto veličiny jsou pak stanoveny inte grály:
+
+
+
+
+
+
+
+
+Závislost' veličin 031, ra2, o>3 kořeny <?2, í?3 jest určena rovnicemi
+
+
+Funkce />?/ jest funkcí sudou takovou jest funkce cmi\ bude tedy nejjednodušší stanoviti vztah těchto funkcí. Funkce však své periody 2at1 2ojg sobě nezávislé, ježto závisí tato dvou veličinách iTs' kdežto při funkci cnu jedinou periodou př. reálnou, jest již stanovena perioda druhá.
+
+
+Je-li totiž modul funkce nu, pak periody této funkce jsou -{- K', při čemž
+
+
+
+
+
+sin
+
+
+\/'i ~L""'
+
+
+
+
+
+Hodnoty jsou tedy sobě závislé závislost1 jest vyjádřená známou rovnicí:
+
+
+
+
+
+aneb rovnicí
+
+
+>fr
+
+
+Volme tedy místo funkce <;#& funkci rw-y vyšetřme takové
+
+
+
+
+
+takový modul aby pak funkce pit měly tytéž periody,
+
+
+
+
+
+ATA A^A-|-2z Á""A. možno učiniti) neboť jest známo, funkce
+
+
+nemění, volíme-li místo period 2o3 periody jiné 2oj/ 2oj'3) jež
+
+
+
+
+
+XXV. ﻿vázány jsou periodami 2(a1 2co3 lineárními rovnicemi:
+
+
+MJ' aml -j- ^o)3, ^s' 4-^w3> platí-li celistvých číslech />, podmínka,
+
+
+Volme tedy čímž vyhověno bude podmínce
+
+
+«í/
+
+
+učiňme dále periody funkce tw— rovny periodám 2ra, 2et)3', položme
+
+
+
+
+
+ro, ATA,
+
+
+zavedením veličin coa ca,' přecházejí předchozí rovnice podmínky
+
+
+
+
+
+03., -f-
+
+
+rovnice:
+
+
+A''/l zr: OJ2',
+
+
+kteréž vyplněny, znamenají, funkce mají tytéž periody.
+
+
+
+
+
+Podmínkám (/j) ale možno vyhověti; třeba jen položiti:
+
+
+ca2 K'"" oj8""
+
+
+pak rovnice (a) možno stanoviti aneb rovnice (a') modul funkce
+
+
+veličina dále plyne rovnic (pí).
+
+
+
+
+
+___ ___
+
+
+2AT 2#'
+
+
+(4)
+
+
+Funkci CH-T- mající funkcí tytéž periody, lze snadno vyjádřiti
+
+
+funkcí pu.
+
+
+Užijme pro rozvod ten známé věty: Je-li f(u) funkcí dvojperiodickou sudou stává-li rovnou nulle rovnoběžníku period pro hodnoty
+
+
+XXV. nekonečnou pro hodnoty
+
+
+pak platí:
+
+
+(pu—paj (pu— (pu pb,} (pu
+
+
+mají-li f(ti) tytéž periody není-li žádná veličin rtn «2, ^i» ^21 ^s> shodná dle period nullou.
+
+
+
+
+
+Funkce cu— stává rovnou nulle pro
+
+
+nekonečnou pro
+
+
+Tím tedy nabýváme vzorce:
+
+
+PU— p-ž-
+
+
+ZC.9.
+
+
+pu-p ---
+
+
+Konstantu ^-J vzorci předchozím snadno určíme; jest totiž pro
+
+
+
+
+
+oo,
+
+
+čehož plyne:
+
+
+A-l,
+
+
+čimž vzorec předchozí přechází tvar;
+
+
+
+
+
+——r
+
+
+ťw9
+
+
+pH—p-±-
+
+
+Vypočteme-li předchozí rovnice pu} obdržíme:
+
+
+
+
+
+zz:
+
+
+oj.2
+
+
+~P~2
+
+
+cn--A
+
+
+(5.)
+
+
+XXV.
+
+
+﻿Jsou-li veličiny tedy veličiny o/2 dány, pak možno
+
+
+předchozí rovnice určiti hodnotu funkce funkcí pro niž jak
+
+
+
+
+
+tak modul veličinu lze určiti způsobem shora naznačeným.
+
+
+Funkce jest ale obyčejně definována differenciální rovnicí (1)
+
+
+/»'„ G)9ř Gig,
+
+
+možno jakož konstanty •-L• -f- —~- _------/>
+
+
+
+
+
+jiným jednoduchým způsobem vyjádřiti veličinami ^2, vyskytujícími výraze 4s5—gz2—g3\ tímto způsobem dospějeme, aniž bychom nějakých substitucí zaváděli, vyjádření integrálů
+
+
+tedy period funkce pu, integrály Legendre-ovými. Určeme tedy nejprv rovnici (5) konstanty
+
+
+
+
+
+'-i určíme užitím známého vztahu,
+
+
+(pu ďa) (/» -{- a)„] ť„) (c{1 ca} (cy ea],
+
+
+němž ea, ep, značí kořeny <?n í?2, <?3 rovnice (2).
+
+
+Položíme-li předchozí rovnici pak =1^,
+
+
+032 -j-/ C92'
+
+
+f'J«=^= ""2
+
+
+03, -4- /OJ/
+
+
+(/u (/| 8-T— í/o (ea e,)
+
+
+Gía
+
+
+Položíme-li téže rovnici pak r3, w,t o)3
+
+
+-f- —*-=—?«_.
+
+
+rovnicích (w) («) položme --- pak
+
+
+
+
+
+držíme, uvážíme-li,
+
+
+XXV.
+
+
+﻿OJ2
+
+
+
+
+
+tyto rovnice:
+
+
+zaV
+
+
+2~~e*J '•/
+
+
+rovnic těchto možno stanoviti
+
+
+Jednoduchým výpočtem nalezneme:
+
+
+/to.
+
+
+
+
+
+
+
+
+těchto dvou rovnic dále plyne:
+
+
+(>2 ďs) ei) (^2 Poněvadž elt e2, jsou kořeny rovnice
+
+
+rt- """" -----
+
+
+---- ----^3 ---
+
+
+platí nich:
+
+
+JEJL
+
+
+vztahů těchto plyne dále:
+
+
+čímž hořejší vyraz
+
+
+&*'
+
+
+--- nabývá tvaru:
+
+
+XXV. ﻿při čemž ovšem výraz pravé straně jest positivní, ježto
+
+
+rovná součinu čísel konjugovaných.
+
+
+Pro hledanou veličinu —^------p nabýváme tedy vzorce:
+
+
+
+
+
+zbývá tedy rozhodnouti znaménku. Dosadíme-li nalezené hodnoty pro
+
+
+/co,,
+
+
+""""
+
+
+rovnice (5), obdržíme
+
+
+
+
+
+<p>
+
+
+C""
+
+
+této rovnici snadno můžeme rozhodnouti, které znaménko patří před druhou odmocninu.
+
+
+03, CJ.2
+
+
+Položme pak
+
+
+
+
+
+
+
+
+
+
+
+rovnice hořejší přechází rovnici
+
+
+Poněvadž pro reálné argumenty funkce vždy jest větší než flco2 nutno voliti hořejší rovnici znaménko spodní tím docházíme rovnici
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rovnici této zbývá stanoviti modul funkce jakož
+
+
+
+
+
+čímž dle rovnic (/3) bude stanoveno o>2 CJ2'. Tuto úlohu rozřešíme nyní snadno. rovnici (6) položme pro krátkost'
+
+
+XXV.
+
+
+pišme tvaru:
+
+
+(pu e^]í -r-1 -j- -—J
+
+
+(7)
+
+
+Rozviňme dvojčleny závorkách potenční řady srovnejme koef-ficienty stejných mocnitelích veličiny obou stranách Rozvoj pro funkci zní:
+
+
+
+
+
+
+
+
+pro funkci cn—r
+
+
+
+
+
+
+
+
+*------řTTT""
+
+
+
+
+
+
+
+
+
+
+
+Dosadíme-li tyto řady rovnice (7), nabýváme rovnice:
+
+
+(»•-'•'+»""'+ ••••) (w-(1+4*I)a
+
+
+Znásobíme-li řady levo položíme-li pak koéfficienty při Oté druhé mocnině veličiny obou stranách sobě rovnými, dostaneme tyto dvě rovnice
+
+
+
+
+
+
+
+
+22""
+
+
+
+
+
+
+
+
+2Aa
+
+
+nichž plyne:
+
+
+
+
+
+
+
+
+
+
+
+čímž modul funkce cn— jest dokonale stanoven tedy jakož
+
+
+
+
+
+dle (/i) oi2 o^'.
+
+
+Shrneme-li výsledky nabyté, obdržíme
+
+
+Je-li funkce z—pu definována differenciální rovnicí:
+
+
+
+
+
+je-li diskriminant rovnice
+
+
+
+
+
+
+
+
+
+
+
+XXV. ﻿10
+
+
+
+
+
+záporný, pak periody této funkce jsou
+
+
+při čemž
+
+
+2cal o)2 -(- /co/,
+
+
+0?3 fiJ2 ---- /Wg')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+
+
+.==y2,f« .LL, ~-2 4a-
+
+
+Funkce jest pak dána rovnicí:
+
+
+při čemž í""2 značí reálný kořen rovnice
+
+
+funkce cn2u\ vzata jest modulem
+
+
+XXV."

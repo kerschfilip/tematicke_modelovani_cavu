@@ -1,0 +1,191 @@
+"","x"
+"1"," ﻿-
+ROČNÍK VIII.
+TŘÍDA  II.
+ČÍSLO 23.
+O vyjádření podmínek reality kořenu rovnice 5. stupně
+pomocí invariantů.
+Napsal
+Dr. Karel Petr,
+skutečný učitel gymnasia v Olomouci.                                 «
+(Předloženo   dne 17.  února  1899.)
+I.
+Počet reálných kořenů rovnice algebraické se nemění, zavedeme-li novou neznámou pomocí lineárně a reálné substituce. Snaha tudíž určiti počet kořenů reálných z funkcí koefficientů dané rovnice, jež lineárnou substitucí zůstávají nedotčeny — z invariantů, jeví se ze stanoviska theorie /cela oprávněnou; a bylo také vyšetřování počtů kořenů reálných pomocí invariantů předmětem prací různých matematiků. Jich snaha přirozeně obracela se hlavně k rovnicím stupně nižšího, jichž systém invariantů úplně byl znám, k rovnicím totiž stupně pátého a šestého.
+Prvním byl slavný matematik francouzský Her mi té,*) který ukázal, ží lineárnou transformací změniti lze formu pátého stupně na jinou, jejíž koefficienty jsou vyjádřeny jakožto invarianty dané formy. A jelikož ona Hneárná transformace jest současně s koeťficienty dané formy reálná, jeví se okamžitě možnosť vyjádřiti podmínky reality pomocí invariantů; stačí '< tomu, aby forma měla aspoň dvě lineárné kovarianty, kterážto podmínka pro formy pátého a vyššího avšak lichého stupně jest splněna. Podmínky 1'eality tímto způsobem docílené jsou však výrazy nepřehledné.
+Později Sylvester**) pomocí úvah opírajících se o geometrický názor v prostoru trojrozměrném docílil výsledku zvlášť jednoduchého. Jeho
+*)   Hermite,  Sur   la  théorie děs   fonctions  homogěnes   a deux indéterminées. ( ambridge and Dublin mathemat. Journal r. 1854. sv. IX. p. 72.
+**) Sylvester, Algebraical Researches containing a disquisition on Ncxvtons rule lor tne discovery of imaginary roots etc. together 10 i tli a complcte invariantně delermination of the character of the roots of genem l equation of fiftk degree etc. Philo-sophical Transactions r. 1864 sv. CLIV. p. 57 cic.
+Rozpravy: Roč. VIII. Tř. II. Č. 23.                                                                           j
+XXIII. ﻿úvaha však nezdá se býti úplně přesvědčivá, ukáži na příkladě, že předpoklad, o který se jeho práce opírá, může býti pro rovnice vyšších stupňů i nesprávný. Salmon,*) aby výsledky Sylvestrovy verifikoval, užil jich pro rovnici pátého stupně specielního tvaru, ale kontrola tato byla bezvýsledná.
+V roce 1866. se Hermite podruhé zabýval podmínkami reality rovnice pátého stupně v řadě pojednání »Sur 1'équation de cinquiěme degré«,**) dospívá pak ku několika kriteriím, jež však nejsou tak jednoduchá jako Sylvestrovo.
+Způsob, kterým ve své práci podmínky reality kořenů vyšetřuji, dá se užiti všeobecně pro rovnice licliého stupni, a lze pomocí něho sestrojiti celou řadu kriterií v každém případě. Použil jsem jej pouze pro rovnici pátého stupně, jelikož jenom v tomto případě měl jsem úplný systém invariantů a kovariantů k disposici. Jest pak snadno z výsledků tak docílených odvoditi úvahami arithmetickými kriterium Sylvestrovo.
+II.
+Funkce, jichž znamének se užívá, aby se stanovil počet kořenu imaginárných, jsou dány theoremem Sturmovým; byly pak tyto funkce, jak známo, uvedeny do tvaru
+(1)
+l,
+•íj ,    •$<>,    -$g
+Nahradíme-li s0, s{, s2 . . . . příslušnými výrazy v koeficientech dané rovnice, obdržíme, když jsme ještě násobili příslušnou mocninou (vždy sudou) prvního koefficientu a^, semiinvarianty dané rovnice, což již z toho jest patrno, že funkce řady (1) jsou funkce rozdílů kořenových, tedy že substitucí
+x' —x 4- A zůstávají nezměněny.
+Transformujeme-li nyní danou formu
+(2)
+substitucí lineárnou
+(3)                                   x •=L*', y — i]x' -i-/
+kde |,  )j jsou čísla libovolná, L od nully rozdílné dostaneme místo (2) (2')                           A,X'»^,hA,X"">^ y' -^- . . . .
+*) Srovnej »Salmon, Lessons introductory«, franc. vydání 1890. strana 354, § 24'J. **) Comptes Rendus, t. LXI a t. LXII. 1866.
+XXIII. ﻿kde
+l
+Dosadíme-li   místo   a0)   aít  a2,
+n (11 — 1)    d rj* do   řady   (1)   AQ,   /í,,    A.,
+obdržíme řadu novou, jejíž členy jsou — nehledíme-li ku sudým mocninám L, které jsou obsaženy v jednotlivých členech řady jakožto činitelé — , korarianty dané formy (2). Řada tato
+(4)
+i,
+9 (l, *,),
+udává stejně jako (1) svými znaménky počet kořenů komplexních dané formy (2), jsou-li jen L, r; čísla reálná a aspoň jedno od nully rozdílné. Neboť v tomto případě mají (2) a (2') stejný počet kořenů komplexních. Při substituci (4) jest ovšem vyňat případ L = O, ale velmi snadno nahlédnout, že i v tomto případě základní vlastnost' řady (4) trvá. Neboť pro | =: O redukuje se řada (4) na řadu (1) utvořenou pro rovnici
+a„ x"" 4- n^ a„ _ i x"" ~ l -\-
+=r 0.
+Řadou (4) do jisté míry jsme již dospěli k cíli, kterého chceme dosíci ; zjednali jsme si řadu funkcí na lineárně substituci nezávislých a udávajících nám počet kořenů reálných a imaginárných.
+III.
+Než v případě tom, že máme rovnici stupně lichého, výsledek svrchu vytčený dá se ze stanoviska theorie ještě dále zjednodušiti. Zjednodušení docíliti se dá následkem toho. že formy stupně lichého mají kovarianty stupně lichého. Na rovnici pátého stupně, ke které se ihned obrátíme, se nám všechny okolnosti objasní.
+Při formě pátého  stupně
+(5)       /'X-rj') — «.rr'-f5^.irV-f 10<:.v3j'2 f 10í/.i-2j'3 + 5tM-/4-f-/^5
+dá se řada (4)   pomocí těchto   kovariantů vyjádřiti (pro stručnost vypisuji jenom členy první kovariantů)
+C„ = (ac— **)*'+ ----
+— aď — eb~ — r!).r3-f- ....
+l-
+XXIII. ﻿Mimo tyto kovarianty jest třeba ještě přibrati invariant čtvrtého stupně v koefficientech, diskriminant to formy C22 :
+pak diskriminant dané formy,   kterýžto uvádí se obyčejně ve tvaru
+D — T' --12 8 A',
+(kde A' jest invariant stupně osmého jednodušší poněkud než diskriminant). Objeví se pak  řada (4) snadno ve tvaru
+36 + 12 C„ C,, f 4 čA, -216 C\3í /).
+(6) l, - 6;(i, -5 C,,, C22
+Zmíním se na tomto místě ještě o dalších dvou invariantech formy (5), pokud v následujícím jich budu potřebovati. Mimo J a A' má torma ona invariant stupně dvanáctého a invariant stupně osmnáctého v koefficientech. Onen jest diskriminant kovariantu C^ a značívá se, vzat byv se znaménkem záporným L\ jest tudíž, hledíme-li jenom k prvním členům
+Invariant stupně osmáctého jest váhy liché, dá se pak čtverec jeho pomocí y, A', L racionelně vyjádřiti; jest totiž, označíme-li jej /, identicky:
+(7)       16 P = JÍV f 8 L A'3 — 2 T2 L K- — 72 J K L- — 432 L:í+ >:! A2
+Z tohoto identického vztahu jest zřejmo, že, jsou-li koěfficicnty rovnice (5) reálné, výraz na pravé straně musí býti kladný, kterážto okolnost jest východiskem citované Sylvestrovy práce.
+IV.
+Abychom řadu   (6)   změnili v řadu  invariantů,  stačí, jestliže jest  J/.r ~j- Nj> kterákoliv ze čtyř lincárných kovariantu, dosaditi
+za
+N,    za     rt ..... —M.
+Tak získáme si resuítanty mezi kovarianty řady (6) a dotyčným li-neárným kovariantem, kteréžto resuítanty, jak známo, jsou invarianty, lim nedostaneme však výsledky ve tvaru co nejkratším. Abychom přišli k výsledkům co nejjednodušším, můžeme takto uvažovati. Především jest patrno, že, je-li n negativné, dva kořeny rovnice dané jsou imaginárně, tři reálné, v tomto případě jakékoliv další vyšetřování odpadá; zbývá tudíž pouze
+XXIII. ﻿ten případ,   kdy D jest positivně.*)   Pak jsou   buď všechny kořeny reálné, anebo jenom jediný.
+Dosaďme do jednotlivých členů řady (6) postupně všechny kořeny rovnice /' — 0. Pak, jsou-li všechny kořeny reálné, dostaneme pět řad, jichž členy vesměs jsou positivně; jestliže jenom jediný kořen jest reálný, dostaneme řadu jednu se dvěma změnami znaménkovými a čtyři řady komplexní vždy dvě a dvě spolu sdružené. Znásobíme-li pak v prvém i druhém případě stejnolehlé členy všech pěti řad, dostaneme v případě prvém jednu řadu se členy vesměs positivnými, v případě druhém se dvěma změnami znaménkovými a udává tudíž řada výsledná počtem změn znaménkových počet dvojic kořenů komplexních v obou případech.
+Členy oné řady výsledné jsou (až na jisté faktory, které, poněvadž kovarianty (6) jsou stupňů sudých, jsou vždy positivně) resultanty ko-variantů (6) a formy dané ft dají se tedy vyjádřiti racionelně pomocí invariantů y, A', L. Než ihned lze upozorniti na jedno zjednodušení. Jsou-li «, /j, y, d\ L kořeny /'""—<•;, jest
+- 100 f ',, = a*0      («— 0)8 (-v - riY (x - dy? (x - syY
+Dosadíme-li do — 100C2,;   kořen   /r=: O   ku př. K(X=U, y— 1), dostaneme
+4 a0 * (a — /})- (a — ?}* (« — ď) (2a — éý
+a tudíž, jestliže a kořen reálný, výsledek positivny. Máme-li toto na zřeteli a současně zjednodušení řady vzhledem ku F = O, vidíme ihned, že vzhledem ku kořenům rovnice F ""=. O lze řadu (6) nahraditi touto
+(8)
+l, C,,, 6;„ J-f 12 Csa C.^ f 4 C*22 — 216 C2,,, D.
+v.
+Abychom vypočetli resultanty mezi F a druhým a třetím členem řady (8) jest nejvýhodnější předpokládati F ve tvaru speciálném; neboť jest snadno napsati ony resultanty jakožto racionálně celistvé funkce invariantů y, A"", L\ neznámy jsou jenom numeričtí součinitelé jednotlivých členů. Já jsem při výpočtu předpokládal
+(9)                                 Ř = d=f=(}
+Tím dostaneme invarianty .7,  /v, L v jednoduchém tvaru, avšak nikoliv na •sobě nezávislé; při tomto předpoklade jest totiž
+*) Případ, že /> —í>, vyšetřován   bude v odst. 6.
+XXIII. ﻿tedy jest platný vztah 36. stupně v koěfficientech F.
+Resultanty tudíž, jichž stupeň v koefficientech formy F nedosahuje 36, dají se zúplna tou supposicí určiti, k určení resultantů o stupni 36. anebo vyšším třeba ještě dalších vztahů.
+V našem případě však supposicí (9) vystačíme. Neboť resultant mezi /'"" a 6 o a jest stupně 12. dostaneme jej snadno ve tvaru:
+(10)
+2JK— y3 — 9A;
+resultant pak mezi F a C2(. y •- 12 L'.2.> 64t -j- . . . jest sice stupně 36, avšak snadno lze nahlédnouti, že obsahuje D""' jako činitel a tedy neznámý druhý činitel resultantů jest stupně 20. Jest totiž kovariant C.,fi y-f- . . . ; kovariant stupně šestého v .r, y a tudíž tvaru
+A0 .v1' -\- 6 AÍ .i'*y~\- . . .
+Jestliže # —^:=0 jest i /Í0—/i, — O, jak snadno lze se přesvědčiti; a tak resultant hledaný obsahovati musí diskriminant dané formy /'"" aspoň na druhou mocnost jakožto činitele. Nehledíme-li k tomuto činiteli, obdržíme pro resultant výraz:
+'l 1)         — (125 yr'-f 102 ys/?+ 29 JD'2) -f 211 L (125 ?2 -j- 27 Z?).
+Jsou-li výrazy (10) a (11) kladné, jsou při diskriminantu kladném všechny kořeny reálné; jestliže jeden anebo oba jsou záporné, jsou čtyři kořeny imaginárné.
+Tak získali jsme již kriteria udávající nám počet kořenů reálných a obsahující jenom invarianty dané formy. Tato kriteria ještě dále dají se zjednodušiti.
+Vyjdeme nejprve od předpokladu, že invariant J jest od nully rozdílný a zavedeme tyto absolutní invarianty:
+y3 — 2llL
+y —
+y3 27/v
+dostaneme pak místo (10) a (11):
+— 2   '•' ys (— 9 x -f- 32 y -f 2025)
+— y5 (125 .v f 75 j' f 27 .vy f 29
+XXIII. ﻿Hledejme nyní podmínky, za kterých jsou všechny kořeny reálné. V/hledem ku znaménku .7 jsou dva případy možné, buď y jest kladné nebo záporné. Jestliže y jest kladné, musí býti, jsou-li všechny kořeny reálné oba výrazy
+9 x— 32y ~ 2025 - 125 x — 75y — 27 xy — 29y*
+kladné, to však, jak patrno, není možno; neboť y jest zároveň s D kladné; jestliže pak x záporné, prvý výraz jest záporný, jestliže x kladné, druhý výraz jest záporný. Musí tudíž J, aby všechny kořeny inolily býti reálné býti záporné. Mimo to jest nutno, a stačí, aby
+(10') (l l')
+— 9 x -f 32 y -f- 2025 > O, 125 x -f 75 j/ -f 27 xy -f- 29/2 > 0.
+Můžeme obor, na který jsou omezeny x, y následkem těchto nerovnin jc\ště súžiti, přibercme-li k nim podmínku, o které jsme se již svrchu zmínili, že totiž čtverec lichého invariantu / pro reálné koěfficienty formy P musí býti positivny. Tato podmínka
+3 A'1 + 8 L A':i — 2 J- L K- — 72 JKL- — 432 L3 -f J* L- > O vyjádřena byvši pro ten případ, že  J jest negativné, pomocí ,r, y jest: 112)     2j/1 -f/8 (x - 9) -f /' (29 .r - 17) +X72 *2 - 205 ,r -f 125J -f 3 x3 - *- < 0.
+Jestliže .r<0 tu podmínka (10') jest splněna. V tomto případě (.r < 0) má rovnice
+(13)                           125 x -j- 75 j + 27 .ry -f 29jr = O
+pru y jeden kořen kladný, jeden záporný a rovněž rovnice
+114)     1yl-f y->(x- 9) -j-^s (29* -17) -j-j(72.v- - 205,r + 125) f 3 x*-.v* = V
+má, je-li .i- záporné, pro y jeden a jenom jeden kořen kladný a jeden záporný (neboť diskriminant*) jest záporný a člen 3.r:i — x~ též záporný). Jestliže jest x libovolná záporná hodnota, patrno z toho ihned, že positivny kořen rovnice (13) jest větší než •—.1 .r, neboť pro j' = —\ x jest levá strana rovnice té záporná. Positivny kořen rovnice (14) jest však menší než —.\ ,r, neboť levá strana (14) pro y = — \ x jest kladná.
+Výraz tudíž (11') jest pro y^. — \x záporný, a výraz          (12)     »       »   y^ — \x kladný,
+*) Tento diskriminant jest:
+— 2"" . 3;'(.x- - l)7 (27 .v —83 . 25)*.
+XXI11. ﻿a není   tudíž   žádné   kladné   hodnoty   pro j', jež by při libovolném, avšak záporném .v*) plnila obě podmínky (11') a (12)*).
+Aby tedy všechny kořeny byly reálné, stačí, aby
+(10')
+7<0, *>0, -9:v + 32y-[-2025 > O,
+neboť podmínka (11) sama sebou jest splněna. Snadno však nahlédnouti že i podmínku (10') lze vypustiti. Aby totiž — 9 x -f- 32y -|- 2025 bylo zá-
+2025 porné anebo nullou musí .v -•""'—-— = 225;   avšak již pro .v > 9 jsou,   jak
+z rovnice (14) bezprostředně patrno, kořeny její reálné vesměs záporný a tak není pro jr>»9 splněna podmínka (12). Není tedy pro .v > 9 (J záporné, y kladné) žádných forem s reálnými koéfficienty.
+Výsledek našich úvah lze v tuto větu shrnouti:
+Aby všechny kořeny rovnice pátého stupně s reálnými koéfficienty byly reálné stačí a jest nutno, jestliže y-<;0, D^O, aby
+;7<o, .v>o, j>o,
+nebo jinak
+(15)                            ;? < o, y>    2[' l. < o, D > o.
+Není-li splněna některá z obou prvních podmínek anebo obě podmínky, jsou čtyři kořeny imaginárně; není-li splněna poslední, jsou dva kořeny imaginárně. Tyto podmínky lze pozměniti; jest možno z oboru, který vymezují, vyjmouti obory, kterým nepřísluší formy pátého stupně s reálnými koéfficienty, a naopak lze takové obory zase přidati. TÍIP se tvar podmínky druhé změní a dostaneme, majíce zřetel k nejjednodušší takové náhradě, po zcela snadné úvaze podmínky pro realitu všech kořenu ve tvaru: (15')
+kde (i jest číslo libovolné nerovninou: —l < u < 2 vázané. Kriteria (15) a
+(15') jsou kriteria Sylvestrova, o nichž svrchu byla činěna zmínka.
+VI.
+Zbývají ještě ku rozhodnutí případy doposud z úvahy vyňaté, když .7 = 0 anebo D=.0. V prvém případě redukuje se řada resultantů : l, (,10),
+(11), 1) na:
+l,  —L, —L K, —K.
+Předpokládáme-li diskriminant od nully rozdílný a kladný, jest K záporné. A tu z řady napsané ihned vysvítá, jestliže L ^— • O, že jsou dva páry kořenů imaginárných. Když i L = O, dostaneme řadu: l, O, O, — A, kte-
+*) Pro x — O nemá (14) žádnčho kořenu positivného, a tak podmínka (12) i tu není splněna.
+
+XXIII. ﻿rážto nevypovídá nic určitého. Avšak tu lze takto rozhodnouti. Jestliže J — O a L =: O, pak i / — O a rovnici pátého stupně lze reálnou lineárnou substitucí, jak známo, převésti na tvar:
+x'° -j- 5 c xy — O,
+kde c jest číslo positivně, jestliže K negativné. Tedy i v tomto případě jsou čtyři kořeny imaginárně.
+Jestliže D zr O, jsou dva kořeny stejné; mimo tyto dva stejné kořeny nechť má rovnice vesměs kořeny různé; pak jsou v rovnici ony dva stejné kořeny reálné a ještě jeden kořen jest reálný. Reálnou a lineárnou substitucí dostaneme tedy rovnici ve tvaru
+5 b x^y -f l O c x3/2 -f 10 d .v2;/3 — 0. Invarianty řady (15) mají hodnoty
+J = 2' d (3 b d — 2 c-),  T — 2"" L = 2"". 5- b* d* (2 bd— r-} Aby všechny kořeny byly reálné, stačí, jak zřejmo, aby
+a tudíž, aby
+Z této podmínky plyne tu současně  ^ < 0.
+Jestliže konečně jsou dva páry kořenů stejných, tu jest
+Rovnice pátého stupně dostane lineárnou a reálnou substitucí snadno tvar Vypočteme-li pro tento výraz invariant  y, dostaneme
+/ čehož   ihned   plyne,   že   rovnice   má čtyři kořeny reálné,   jestliže  J<(\ čtyři kořeny imaginárné, jestliže .7>0.
+Případ,   že jsou tři kořeny stejné,   vyšetření úplně se vymyká, neboť jsou pak všechny invarianty rovny nulle.
+*) V tomto případe dá se převésti forma na tvar
+*•*  '       _/         \      •*          '           l
+ze kteréžto okolnosti plyne ihned v/tah vytčený.
+XXIII. ﻿10
+Máme tudíž vetu pro rovnici pátého stupně nemající kořene trojnásobného: Jsou-li všechny kořeny rovnice pátého stupně reálny, jest
+(15"".)                     2<0,    y3— 2UA-^0,    /?>:0,
+a naopak jsou-li tyto podmínky splněny, jsou všechny kořeny reálné*)
+Čtyři kořeny jsou imaginárně jen tenkráte, když při DX) není splněna aspoň jedna s nerovnin J< O, _7:! — 211 L < 0; a při D — O, kdy i 7;í —21' L-Q a y>Q.
+Jestliže D~() a ,v/3 — 2,11 L^>(\ má rovnice 3 kořeny reálné, dva imaginárné. Případ, že D = O, .73 2lí L < (\ J > O se vůbec nevyskytuje při koěfficicntech reálných.
+VII.
+Místo, abychom dosazovali do řady kovariantů (6) kořeny formy samé, lze dosaditi kořeny kteréhokoliv kovariantu lichého stupně. Dosadíme, což se jeví nejvýhodnější, kořeny rovnice
+(16)                                               C3S-0
+Se zřetelem na tuto rovnici zredukuje se řada (6) na jednodušší
+l,     -6o,;,     -C^.Cn,      Ca6?+12CtSCu + 4C9Mí     D
+Resultant mezi C2fí a C33 jest — /,-, resultant mezi CL, a 6""!;, jest — /., mezi C.,fi J^ 12 C2 Ču-)-4 C?'^ a C33 jest:
+- 16 y K^ - 3. 256 K:í L -f 3. 4 y2 A'- A + 32 JÁV,2 -f- 512 A;i — 7:! A-
+Z (6)   vzniká  tak   řada,   jejíž druhý člen jest - - L""2 a tudíž možno jej  vypustiti a dostaneme tak jakožto výslednou řadu invariantů:
+(17)         l, — A, -- 16 JK^ — 3. 256 K:' A -f 3. 4 7á K 2A ^ . . . ., D
+Jestliže A jest kladné, musí při kladném I) rovnice daná míti čtyři kořeny imaginárné, neboť tu druhý člen řady (17) jest záporný. V tomto případě řada invariantů (17) určuje správně počet kořenů imaginárných-Jestliže L jest negativné, má rovnice (16) jenom jediný kořen reálný
+*F) Rovnítko ve výraze druhém řady (15."") přichází k platnosti sice jen v tom případě, když /) — (), avšak není třeba abychom o tom činili zmínku pronášejíce větu uvedenou, neboť není reálných forem, pro které T8 —2""L —O a J< O, /) > O jak z podmínky (U) hned patrno. Na místo T — 2 "" L l/e, jak patrno, té/, psáti
+T ~ a"" A   l  /* 7 A kde: - 1 XXIII. ﻿11
+(jelikož — L jest diskriminantem 633) a tudíž i v tomto případě řada ('17) správně rozlišuje počet kořenů imaginárných.
+Jestliže konečně /, =: O, má (16) dva kořeny stejné a tudíž všechny kořeny reálné; avšak řady vzniklé z (6) oběma stejnými kořeny jsou identické a má tudíž na výsledná znaménka pouze třetí kořen reálný rozhodující vliv a tedy i tu řada (17) udává přesně svými znaménky počet kořenů imaginárných.
+Má tedy řada (17) vždy tolik změn znaménkových, kolik rovnice daná párů kořenů komplexních, jestliže D > 0.
+-Podobně jako kriterium v odst. 5. dá se i řada právě odvozená na jednodušší převésti, užijeme-li ještě toho, že /- musí býti pro reálné koeficienty kladné. Není třeba, abych se také tímto zjednodušením zabýval, dospěli bychom ku stejným výsledkům jako dříve. Připomenu jenom tu pozoruhodnou okolnosť, že kdybychom chtěli vyšetřovati podmínku třetí / řady (17) geometricky, shledali bychom, že zavedeme-li absolutní invarianty -i"", y a výsledek položíme rovný nulle, že dostaneme rovnici
+j4 -f- 3 xy3 — 7 y •' — 3j' .r -f y .v2 -f- ,r:! -f 9 y2 — 5}> x — O
+rovnici to křivky racionálně; rovněž tak jako rovnice (14) vyjadřující, že / — O, představuje křivku racionálnou.
+VIII.
+Obrátíme se ke konci své práce ku pojednání Sylvestrovu na počátku citovanému. Sylvestr předpokládá, že různé obory vyznačující se různým počtem kořenů imaginárných, nemohou od sebe jinak býti odděleny nežli plochou oddělující formy reálných koěfficientů od forem s koěf-íicienty imaginárnými a plochou, na které D = 0. Pro rovnici stupně pátého jest tato supposice zajisté správná, avšak zdá se mi, že bez předchozího důkazu jest to supposice neoprávněná. Hodlám ukázati pravděpodobnost svého tvrzení na rovnici osmého stupně.
+Jak Hermite ukázal, lze při všech rovnicích (i stupně sudého) počet kořenů   imaginárných   stanoviti   pomocí   znamének invariantů,   je-li   stupeň rovnice   větší   nežli   4.    Mysleme   si   takovou   řadu   invariantů pro rovnici stupně osmého (*)                                      l,   /,, /„ . . . Lt—D.
+Invarianty musí býti váhy dělitelné čtyřmi, neboť jiných invariantů rovnice osmého stupně nemá. Užijme tohoto kriteria na rovnici osmého stupně zvláštního tvaru, ve které totiž koěfficienty lichých mocnin „r jsou rovny nullo :
+r*-}- . . . -f a9 — O.
+XXIII. ﻿12
+Tato rovnice při reálných a může míti libovolný (sudý) počet kořenů imaginárných. Zaměňme x v i.v. Tím změní se (m) v
+28 a2 x6 -f 70 04 #*—-...
+= 0.
+Počet kořenů imaginárných se v případě obecném změní. Tak měla-li rovnice (;;/) všecky kořeny reálné, má («) všecky imaginárně; má-li (;;/) dva kořeny imaginárně, má jich (n) šest, má-li (;//) čtyři imaginárně má (;/) buď zase čtyři anebo osm kořenů imaginárných a t. d.
+Řada invariantů se však substitucí zmíněnou ne/mění, neboť váha jich, jak jsem podotkl, jest dělitelná čtyřmi.
+Tudíž nechť jest (k} řadou rozhodující v kterémkoliv případě, kdy/ nl = rt3 i= . . . a1 1= O kriterium selhává, jednotlivé obory v tomto případe splývají a není možno hodnotou invariantů rozhodnout. To však jest jenom tenkráte možno, když některé z invariantů řady (k) pro aí = a.A — . . . — O se rovnají nulle. Poslední (diskriminant) nulle se nerovná; neboť (w) má kořeny v obecném případě různé. Plyne pak dále, že se jednotlivé obory různým počtem imaginárných kořenů charakterisované, jestliže se jenom tento poslední invariant od nully liší, podél »čáry« stýkají, jestliže však několik členů řady (k) od nully jest rozdílno, že podél prostoru několika-rozměrného v případě, že a1 =: as = . . . O, splývají. Mohou se tudíž ještí-jiné »plochy« vyskytovati jakožto meze oborů a nejenom »plochy«, kteréžto obor forem s reálnými koéfficienty odlučují od oboru forem s imagi-nárnými koéfficienty. Tak v našem případě ukazuje se okamžitě pravděpodobnost, že různé obory jsou odděleny od sebe »plochami*, které jsou dány vztahem mezi invarianty, jenž jest splněn, jestliže at — a3 — . • • — ^ a není žádného důvodu, pro který bychom se mohli domnívati, že ony »plochy« jsou rozhraním mezi reálnými a imaginárnými formami.
+Zřejmo ovšem jest, že z jednoho oboru do druhého skrze »plochu«> podél které ony obory splývají, vniknouti nelze; ale tato okolnost nastati může i uvnitř oboru forem reálných a ne jenom na rozhraní oborů imaginárných a reálných forem.
+XXIII."

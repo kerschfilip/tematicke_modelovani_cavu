@@ -1,0 +1,1421 @@
+"","x"
+"1"," ﻿ROZPRAVY
+
+
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ PRAZE.
+
+
+ROČNÍK II.
+
+
+TŘÍDA II.
+
+
+ČÍSLO 34,
+
+
+POZNÁMKY
+
+
+THEORII OMEZENÝCH DERIVACÍ.
+
+
+NAPSAL
+
+
+LERCH.
+
+
+PŘEDLOŽENO DNE 21. KVĚTNA 18:>:>.
+
+
+PRAZE.
+
+
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ.
+
+
+1893. ﻿U'/V 11,1 ALJ-O -Ă­ ﻿JNěkteré vzorce úkoly počtu integrálního nabývají elegantního odvození řešení pomocí zv. omezených derivací, jichž theorií zabývali Liouville Riemann, jichž stopy jdou Ábelovi.*) tímto pojmem souvisejí následující úvahy, nichž vyložíme mezi jiným důkaz existenci derivace jistého druhu omezených integrálů.
+
+
+Buď /(L) funkce schopná integrace mezeře ... uvažujme integrály
+
+
+'/' (x)
+
+
+r(*+i)
+
+
+
+
+
+konstant jež jsou větší než aby in-
+
+
+
+
+
+
+
+
+utvořené pomocí reálných tegrály existovaly.
+
+
+Patrné máme
+
+
+r(s
+
+
+pravou stranu možno psáti jako dvojnásobný integrál
+
+
+<F).
+
+
+vzatý nad oborem definovaným pomocí nerovností plyne, intcgrujeli dříve vůči ^T,
+
+
+odtud
+
+
+Vnitřní integrál přetvořme substitucí
+
+
+Největších zásluh tento druh úvah zjednal náš krajan prof. dr. Ant. Griin-wald; viz Schlómilchův časopis sv. l'2, dále Rozpravy král. české společnosti nauk. řady svazek 11., třída math.-přírod., čís. *2, 1881.
+
+
+
+
+
+XXXIV.
+
+
+﻿kde nová integrační proměnná, obdržíme
+
+
+tedy máme
+
+
+
+
+
+'!'(*)
+
+
+
+
+
+/(l)
+
+
+
+
+
+
+
+
+čímž integrál (lb) převeden integrál jednoduchý, sestrojený pomocí původní funkce /(L).
+
+
+Píšemeli zde klademeli máme vzorec
+
+
+(2)
+
+
+kde položeno
+
+
+T__r\
+
+
+•*< fcJ
+
+
+
+
+
+*(0
+
+
+/») (C—«•-«/*,
+
+
+při čemž příčinou konvergence výrazů předpokládá
+
+
+vzorce (2) bychom obdrželi vzorec pro vyjádření funkce f(x) dvojnásobným integrálem, kdybychom dovedli pravou stranu differencovati. tím účelem uvažujme výraz
+
+
+(z) F(x) x)~
+
+
+kde reálné, kladné menší než funkce (x) podrobena budiž pouze podmínce býti integrace schopnou mezích (#...#), aby (^) vůbec existovalo.
+
+
+Kdyby F(x) bylo intervallu ... ... z1} integrace schopno, místě však přetržito, obecné neexistovala derivace ?'(#) místě Neboť volme jen zvláštní případ F(x) pro /r(a;) Pro pak bude
+
+
+
+
+
+
+
+
+
+
+
+tedy
+
+
+bude nekonečné pro případe obecném.
+
+
+tím méně bude lze připustiti existenci derivace
+
+
+XXXIV. ﻿Předpokládejme tedy dále, F(x) spojité, pokud leží jistém inter-vallu («.../?), proměnná bud uvnitř tohoto intervallu. Dále chceme předpokládati, rozdíl F(z ti) F(z) nekonečně malý stupně vyššího než
+
+
+platí
+
+
+F(z ti)
+
+
+lim
+
+
+
+
+
+
+
+
+mimo nechť integrál
+
+
+existuje.
+
+
+těchto supposic l.7) -f- ^*)
+
+
+vyšetřujme zv. poměr rozdílový právo vzatý
+
+
+(3)
+
+
+kde přírůstek kladný malý. Chceme
+
+
+dokázati existenci nalézti hodnotu limity jeho pro
+
+
+tím účelem udělme integrálu (z) tvar
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+
+<f(s)
+
+
+(jar a?)- -f-
+
+
+
+
+
+
+
+
+znamenejme vůli stručnosti
+
+
+(b)
+
+
+obdržíme
+
+
+
+
+
+čili
+
+
+XXXIV.
+
+
+Prvý člen pravé strany dle věty střední hodnotě integrálů rovná veličině tvaru
+
+
+
+
+
+kde //' Tuto veličinu lze psáti
+
+
+
+
+
+k')-
+
+
+___ 7r'*\
+
+
+
+
+
+l-----
+
+
+
+
+
+
+
+
+Jl>\°
+
+
+
+
+
+zůstává mezi kdežto závorka hodnotu malou
+
+
+pro malá Až, dle supposice; odtud plyne
+
+
+lim if=o ""•»
+
+
+Máme tedy chybou nekonečně malou
+
+
+x)~°
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+provedemeli operaci rozdílovou,
+
+
+
+
+
+ť(x)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(z— x)~n
+
+
+prvém integrálu odečteme F(s) obdržíme
+
+
+F(x] vyčísleme členy ostatní;
+
+
+A(z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Užijemeli zde vzorce
+
+
+(l— <r)/ls
+
+
+(Až)-"" /l(z— aý-""
+
+
+
+
+
+XXXIV kromě toho věty
+
+
+
+
+
+
+
+
+
+
+
+máme
+
+
+
+
+
+\F(x)
+
+
+//'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""-
+
+
+/-/ r*/
+
+
+Porovnámeli tento výsledek rovnicí (a) (b), máme
+
+
+<3P
+
+
+
+
+
+/•'(-)] //'
+
+
+
+
+
+
+
+
+(-ar
+
+
+
+
+
+Blížili nyní /ís nnlle, blíží druhý třetí výraz právo krajním hod notám, resp.
+
+
+F(s).(s a)-""
+
+
+kromě toho bude
+
+
+lim
+
+
+A^—\
+
+
+
+
+
+poněvadž rozdíl
+
+
+
+
+
+r/.-w
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[l?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[(s
+
+
+
+
+
+pro malá velmi malý.
+
+
+Bude tedy
+
+
+lim
+
+
+
+
+
+íjrl
+
+
+
+
+
+čímž úkol náš řešen.
+
+
+
+
+
+XXXIV.
+
+
+Podobným podstatě způsobem bychom nalezli, limita
+
+
+lim
+
+
+
+
+
+existuje rovná tétéž veličině jako předešlá máme tak větu
+
+
+»Jeli F(x] funkce oboru (a...f) integrace schopná, jeli lze tomto oboru určiti intervall («..,/?), němž F(x) spojitá němž podíl
+
+
+F(x) F(x')
+
+
+x')a
+
+
+OO<1,
+
+
+nepatrný zároveň takže blíží nulle, blížili společné hodnotě, jestliže dále pro existuje integrál
+
+
+pak bude pro
+
+
+[F(x) /<»]
+
+
+
+
+
+""-1
+
+
+(3)
+
+
+
+
+
+
+
+
+F(x) x)-""
+
+
+F(s)\ x)~ n~{
+
+
+F(s) což jsme chtěli obdržeti.*
+
+
+Obraťme nyní případu obecnému, kdy funkce F(x) jest inter vallu («.../?) toliko spojitá, aniž chceme omeziti její povahu nějakou suppo sicí povaze rozdílu (x) F(xr)
+
+
+obdržíme pro integrál
+
+
+q>(s)
+
+
+jako výše
+
+
+F(x)
+
+
+[>-(«) F(s)] x)~""
+
+
+(z) F(s k') F(s Js)
+
+
+l—«r
+
+
+
+
+
+F(*)\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F(z)
+
+
+
+
+
+
+
+
+XXXTV. ﻿aneb
+
+
+(c)
+
+
+//g
+
+
+(Aá)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+((«*
+
+
+\[i
+
+
+x)~° (z—
+
+
+
+
+
+(4,V
+
+
+
+
+
+kde
+
+
+výsledku toho možno souditi, platí
+
+
+(c')
+
+
+lim
+
+
+
+
+
+jakmile F(x) funkce konečná mezeře («.../?) spojitá. Neboť především jsou prvé dva členy pravé strany nekonečně malé zároveň As, zbývá jen vyšetřiti člen poslední; ten rozdělme dva
+
+
+[F(X) F(Z]]
+
+
+(Z+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/'W
+
+
+(.sr
+
+
+
+
+
+-f-
+
+
+x}-""
+
+
+při čemž b<z. Veličinu volme tak blízko při aby pro všecka mezery (b... platila nerovnosť F(x) F(z) při čemž veličina předepsaná.
+
+
+možno voliti tak malé, aby celém intervallu (a...b)
+
+
+------------- byla tak malá jak libo, následkem
+
+
+veličina
+
+
+
+
+
+toho bude integrál pro nekonečně malá nekonečně malým.
+
+
+Zbývá jen vyšetřiti druhý integrál nerovnosti
+
+
+
+
+
+plyne
+
+
+(z+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-^~q a?""0
+
+
+XXXIV. ﻿10
+
+
+
+
+
+Clil
+
+
+[>(*) /<»]
+
+
+
+
+
+
+
+
+
+
+
+Pro malá //.G- tento výraz tvaru
+
+
+-f- malá veličina
+
+
+tato veličina tedy menší než jakmile
+
+
+
+
+
+pro malá ,/^r budou integrály
+
+
+toho plyne,
+
+
+
+
+
+tedy též
+
+
+cf\ (**}
+
+
+libovolně malé, výraz bude libovolné malý pro dosti malá
+
+
+"""" '-f
+
+
+jak právě tvrdí vzorec (c'), který tím dokázán.
+
+
+Vzorec (c') možno zobecniti následujícím způsobem: Jestliže spojitá funkce F(x) intervallu ... /?) hoví podmínce
+
+
+lim
+
+
+kde značí kladnou konstantu menší než <r, pak bude
+
+
+lim
+
+
+
+
+
+Důkaz. rovnice (c) máme
+
+
+k')
+
+
+*)!-<>
+
+
+
+
+
+patrno, (za učiněné supposice <Cr <Cff) Prv^ ^va cleny pravé strany jsou nekonečně malé zároveň Az\ zbývá jen vyšetřiti integrál
+
+
+(r,7,i
+
+
+
+
+
+-\- /Iz
+
+
+(s—
+
+
+XXXIV. ﻿11
+
+
+rozdělme jej opčtně dva
+
+
+
+
+
+[/--(*)
+
+
+(-sr-f-
+
+
+
+
+
+x)~n
+
+
+<7-f
+
+
+
+
+
+
+
+
+(*) F(S)\
+
+
+
+
+
+
+
+
+F(x)
+
+
+volme tak blízko při aby mezeře (b...z) bylo
+
+
+kde předepsaná veličina kladná. Pro dosti malá bude integrál libovolně malým pro integrál máme nerovnosť
+
+
+
+
+
+Substitucí
+
+
+pak bude
+
+
+-(7
+
+
+obdrží pravá strana tvar
+
+
+~^^ p~d
+
+
+.\t*[t-
+
+
+
+
+
+pokud existuje integrál
+
+
+
+
+
+AT,
+
+
+
+
+
+<*.L,
+
+
+čímž dokázáno, integrál -\- pro dosti malá libovolně malým, tedy platí vzorec (c"").
+
+
+
+
+
+Obraťme nyní větě vyjádřené rovnicemi (2) (2a),
+
+
+(2)
+
+
+bit*
+
+
+—*)J
+
+
+(2-)
+
+
+(f)
+
+
+Jb\*
+
+
+
+
+
+Předpokládámeli, funkce /(f) spojitá intervallu («...«'), kde bude #(L) dle věty (c') míti vlastnosť
+
+
+
+
+
+lim
+
+
+
+
+
+
+
+
+
+
+
+xxxiv ﻿12
+
+
+předpokládámeli mimo to, funkce /(L) vlastnost
+
+
+-r=o
+
+
+
+
+
+bude dle (c"") platit vzorec
+
+
+lim
+
+
+(i)
+
+
+
+
+
+jestliže ovšem odtud ale plyne, integrál
+
+
+existuje; tím jsou všecky podmínky pro applikaci vzorce (3) funkce '/•»(L) nevyhnutelné splněny, máme tedy dirTerencováním vzorce (2):
+
+
+(4)
+
+
+
+
+
+(X)
+
+
+
+
+
+r(\-s)
+
+
+kterýžto vzorec učí mimo jiné, funkci *(L"") příslušeti může jediná jen funkce /""(#), která hověla dané podmínce
+
+
+/(i)
+
+
+lim ...
+
+
+i-r-« —f)T
+
+
+
+
+
+Odtud soudíme příklad: Jeli /(L) funkce spojitá intervallu oč') vlastnost vyjádřenou rovnicí
+
+
+T>0,
+
+
+jeli integrál
+
+
+
+
+
+pro všecka intervallu (#... rr') nullou, pak bude také /(L) nutně nullou.
+
+
+Jiného druhu výsledek obdržíme, přetvořímeli integrál (2) částečnou integrací. tomu bude ovšem nutnou existence derivace úkonu </>(C), proto předpokládejme, funkce /(L) spojitá intervallu vlastnosť
+
+
+
+
+
+;-r=o
+
+
+
+
+
+XXXIV. mimo integrál
+
+
+
+
+
+existuje. Pak máme dle věty (3)
+
+
+
+
+
+vzorce (2) <]> (a)
+
+
+máme pak částečnou integrací zřetelem okolnosti
+
+
+fit
+
+
+l_______J_
+
+
+—*) i-*
+
+
+({)(»—
+
+
+
+
+
+odtud differencováním
+
+
+
+
+
+•//(?)
+
+
+Dosadímeli sem fí»'(f) hodnotu (2b), máme
+
+
+/(*)
+
+
+r(r)
+
+
+
+
+
+J___C
+
+
+
+
+
+kde položeno
+
+
+(6)
+
+
+zřetelem relaci
+
+
+[/(f) -/(O]
+
+
+
+
+
+můžeme výsledek tento psáti
+
+
+(6)
+
+
+
+
+
+(a:
+
+
+«)*-'
+
+
+sin .$•
+
+
+
+
+
+XXXIV. ﻿11
+
+
+Budiž opětně definujme derivaci stupně vzorcem
+
+
+(7)
+
+
+
+
+
+.ť\—
+
+
+
+
+
+znamenejme libovolnou konstantu pokusme integrovati »differencialnou rovnici řádu
+
+
+(8)
+
+
+tedy rovnici
+
+
+
+
+
+Položme
+
+
+
+
+
+v-.
+
+
+kde Av, jsou konstanty; rovnice naše bude zníti
+
+
+
+
+
+
+
+
+(x-
+
+
+
+
+
+
+
+
+
+
+
+)n''
+
+
+Substitucí -\- obdrží levá strana tvar
+
+
+
+
+
+a)Uv
+
+
+
+
+
+takže náš požadavek zní
+
+
+
+
+
+""v
+
+
+
+
+
+
+
+
+
+
+
+Jeli nejnižší ex}>onent, nepřichází právo exponent tedy musí součinitel při (a; ^)tti ""* levo odpadnouti, což nastane pro -j- bude
+
+
+Porovnáním součinitelů při stejných mocnostech máme pak postupně
+
+
+
+
+
+čehož soudíme «x= mimo
+
+
+
+
+
+odtud plyne
+
+
+
+
+
+XXXIV ﻿15
+
+
+píšemeli r(s) konečně
+
+
+-takže hledaná funkce bude
+
+
+A*-i F(ns)
+
+
+
+
+
+
+
+
+(8*)
+
+
+/(*)
+
+
+a)HI
+
+
+řešení differencialné rovnice (8) němž značí libovolnou konstantu. Naše řada jest analytickou funkcí proměnné pro hodnotu
+
+
+.17
+
+
+(X___či}
+
+
+----—^-----,x. CeA(x~a), kterážto veličina hoví differencialné rovnici
+
+
+l)!
+
+
+pro máme
+
+
+
+
+
+6,\A
+
+
+\A(x-
+
+
+kterážto funkce skutečně hoví differencialné rovnici
+
+
+/>«/(*)
+
+
+jest při libovolném její obecným řešením.
+
+
+XXXIV.
+
+
+﻿*"

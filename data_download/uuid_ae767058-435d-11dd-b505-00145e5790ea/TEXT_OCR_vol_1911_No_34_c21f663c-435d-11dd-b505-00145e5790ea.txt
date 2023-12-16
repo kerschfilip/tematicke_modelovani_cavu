@@ -1,0 +1,311 @@
+"","x"
+"1"," ﻿ROČNÍK XX.
+TRlDA II.
+ČÍSLO 34.
+Příspěvek k theorii Einthovenova strunového galvanometru.
+Napsal
+Dr. Augustin Žáček,
+assistent č. university.
+(Se 2 obr. v textu.)
+(Předloženo  dne 27.   října  1911,
+Část theoreticka.
+Úkolem prvé části této práce jest theoreticky odvoditi vztah mezi intensitou proudu procházejícího vláknem galvanometru Einthovenova a výchylkou vlákna z polohy míliové.
+V části experimentální ukážeme, že pozorování, jež jsem provedl na improvisaci Einthovenova galvanometru, vztah v prvé části odvozený potvrzují.
+Při odvozování omezíme se pouze na prvé přiblížení, supponujíce vlákno bezvážné, úplně ohebné; později budeme přihlížeti i k tomu případu, když tato podmínka splněna není přesně, avšak přece aspoň přibližně. Rovněž na zahřátí vlákna procházejícím proudem nebylo bráno zřetele.
+V homogenním magnetickém poli intensity § budiž kolmo na silo-křivkách pole napjato bezvážné, úplně ohebné a pevné, vodivé vlákno délky 2 d.
+Položíme (viz obr. 1.) pravoúhlý, koordinatní systém tak, že osa Z prochází vláknem, osa Y má směr silokřivek pole, a rovina A"" Y prochází středem vlákna, kolmo na ně.
+Prochází-li vláknem proud intensit}' i (měřeno v absolutních jednotkách elektromagnetických), podléhá každý jeho element od pole pondero-motorické síle kolmé na směr pole a na směr vlákna, jež způsobí, že vlákno
+Rozpravy:   Roč. XX. Tř.  II. Čís. 34.                                                                          l
+XXXIV. ﻿zůstávajíc v rovině kolmé k poli nabude tvaru rovinné křivky; rovnici její lze snadno odvoditi.
+Hledanou rovnici můžeme napsati v parametrickém vyjádření obecně
+x = fp (s], z = ty (s),
+kdež parametr s jest oblouk křivky čítaný od bodu C jako počátku positivně směrem CA. Za vytčených zpředu supposic podléhá libovolný, kolmý průřez vlákna s obou stran stejným tangentialním na-X pěti m T; jest tedy také element D F vlákna od ostatních částí vlákna napínán s obou stran napětím T.
+Komponenty  napětí T,  jemuž  podléhá element D F v bodě D jsou:
+.T**.) .     (-TY\ .
+a s / s          \        d s /s
+Komponenty napětí T v bodě F pak:
+takže výsledné komponenty napětí, jimž podléhá element s obou stran od ostatních částí vlákna, jsou:
+ds
+d s
+.
+ds
+d s
+Od pole podléhá element d s ponderomotorické síle kolmé na směr pole i vlákna velikosti
+^) i d s, o komponentách
+«. -         d Z                      ~   .  ,         d %
+s) i d s . —.— .           — s) i d s . —..—.
+d s                                   d s
+Poněvadž vlákno jest v klidu, musí výsledné komponent}' všech sil na element působících rovnati se nulle, máme tedy
+ds
+d
+ds
+. d x
+d s d z TsV v° ds
+XXXIV. ﻿Z toho integrací:
+(L).
+J.       ,         '        Sj    v   X    ----    Cnt
+d s kdež c1? c2 jsou integrační konstanty; pišme tyto rovnice ve tvaru
+d s        Cl      * l "" l
+Tdz    _c  +*t-J........
+čř s                       )
+Dělením dostáváme differenciální rovnici hledané křivky
+d z        c., -{- $$ i x d x        c1 — fy i z '
+z níž separováním proměnných a integrací dostáváme obyčejnou rovnici její ve tvaru:
+kde c3 jest nová integrační konstanta.
+Jak z rovnice vidno, nabude vlákno protékané proudem a stojící kolmo na homogenním magnetickém poli tvaru kruhového oblouku, a nikoliv tedy řetězovky, jak mylně uvádí Sperling,*) veden jsa patrně nesprávnou analogií.
+Hodnotu integračních konstant stanovíme velmi snadno: Koncové body vlákna mají souřadnice
+A (o,d),
+B (o,— d).
+i d* — '2 GI d = c3, i d- -|- % L""1 d = c3,
+platí tedy
+toho
+Je-li t úchylka vlákna z polohy nullové, kdy vláknem proud neprochází, jsou souřadnice bodu C (t, o), tedy máme
+a z toho dále
+c., =
+*) Sperling: Beitráge zuř Kenntnis der Selenzellen. Giessen 1908 (na str. 13.).
+l* XXXIV. ﻿Dostáváme tedy pro tvar vlákna definitivní rovnici
+x =
+aneb jinak:
+(2.).
+Vlákno utvoří v rovině kolmé na pole kruhový oblouk o poloměru
+2t Velikost napětí T stanovíme z jedné z rovnic  (1) na př.:
+Td   X                 f      •
+-^— = — & i z. d s
+d x
+Hodnotu    differenciálního poměru
+vypočítáme z rovnice (2.)
+d x T7
+l
+2t
+dostáváme tak pro naše další úvahy důležitou relaci
+T =     ir.....
+(3.).
+K relaci této, z níž v dalším budeme vycházeti, dospějeme kratší cestou, předpokládáme-li již předem, že vlákno tvoří v poli oblouk kruhový, jak ukazuje jednoduchá úvaha.
+Uvažujeme opět element DF délky
+tento  rozdělme   na  další elementy  délky r d qp, z  nichž každý podléhá v poli ponderomotorické síle
+i L r d tp,
+kolmé na směr pole  a uvažovaného  elementu.   Výsledné komponenty ponderomotorické síly,   jíž   podléhá celý element ^ s = r d #,  jsou pak
+&+ j # X = l $ f f cos (p d cp = $& i r [sin (ft -\-49-) — sin &] ,
+qp = j?
+# + ^# Z = \ $ f' r sin (p djp = — $ i r [cos (ft
+— cos
+Komponenty napětí, jimž týž element podléhá s obou stran, jsou
+X' = — T [sin (» + z/ 9) — sin ff\, Z' =      T [cos (» + 4 9) — cos »].
+XXXIV. ﻿Poněvadž element jest v klidu, rovná se každá výsledná komponenta nulle, t. j.
+X + X1 = O, Z + Z' = O,
+i dostáváme touž relaci jako nahoře
+T = $ ir .
+Velikost napětí T stanovíme s druhé strany také dle zákona Hookeova: Pokud vlákno A B není vychýleno, podléhá v bodech A, B napětím
+kdež E značí modul pružnosti v tahu příslušného materiálu, q průřez vlákna, 2 J d prodloužení vlákna způsobené napětím S; při tom budiž prodloužení J d tak malé, že je lze proti d zanedbati. Vychýlením prodlojuží se vlákno o
+2 (r a — d) ;
+přistoupí tedy k napětí 5 další napětí
+r K- — d — E a . - = — ,
+takže výsledné napětí T lze psáti ve formě
+ra — d T = S + K-—r-
+kde pro krátkost klademe
+K = E q. Z obrazu vidíme, že
+d
+— = sin K, r
+takže dostáváme
+T = S-K\
+sin a Dosadíme-li tuto hodnotu do rovnice
+T = § i r, dostáváme
+$ir = S — K(l -- -A-) ......... (4.).
+\        sin u /
+Tuto relaci odvodili jsme za předpokladu, že uvažované vlákno jest úplně ohebné, bezvážné; když tato podmínka není splněna, jak jest tomu vždy v praxi, tu na levé straně, jež udává hodnotu ponderomotorické síly, dostaneme jistě složitější funkci veličiny &. Funkce tato bude, jak plyne
+XXXIV. ﻿z pravidla Ampěrova, lichá, lze ji tedy rozvinouti dle lichých potencí proměnné $; v případě, kde podmínky bez vážnosti a úplné ohebnosti jsou aspoň přibližně splněny, omezíme rozvoj na prvé dva členy; dostáváme pak místo (4) relaci
+snu
+kde veličina «2 jest funkcí geometrických rozměrů vlákna a elastických konstant materiálu, z něhož jest vlákno zhotoveno.
+V uvažovaném případě musí býti ponderomotorická síla přirozeně větší, aby způsobila totéž vychýlení jako v případě ideálním, proto v rozvoji na levé straně volili jsme koefficient druhého členu positivně.
+Čím více jsou podmínky bezvážnosti a úplné ohebnosti splněny, tím jest a2 menší, až v mezním případě rovná se nulle.
+Další úlohou jest vyjádřiti
+K,    sin a,    r,
+výchylkou t vlákna z polohy míliové.
+Z relace rz — dz + (r — t)2 dostáváme
+d     l +
+kde jsme psali
+Z toho jest dále
+Konečně z toho máme a dále
+2         u
+t^ ď
+u —
+d          2 u
+siná = — = ——•—
+cos a
+cotg a =—:-----=
+sin a
+l
+sin K
+u =
+l — cos a siná
+2 sinz —
+.a         K
+2 sin — cos —
+.      K
+-<fy.
+takže konečně dostáváme
+a = 2 are tg u
+XXXIV. ﻿Dosadíme  tyto  hodnoty  do  relace   (5);  dostáváme  po  jednoduché úpravě
+4- -X1+*)]}•
+Rozvedeme-li lichou funkci proměnné u na pravé straně podle stoupajících potencí u, dostáváme:
+.   .   .(6.).
+Koefficienty u třetí a páté potence
+jsou patrně konstanty nezávislé na původním napětí S,  neboť lze vždy
+4
+4 d
+i
+a                                  ó                      o
+Píšeme-li ve výrazu  (f!)  opět
+zanedbati proti — nebo proti — ; totéž platí i o dalších koefficientech. ó
+i
+dostáváme konečnou formuli:
+*                    O                    ^^   * ' ~J9~      l      ""        r>   JÁ
+1^
+V případě, že jest vlákno aspoň prakticky bezvážné a úplně ohebné, máme jednodušeji:
+Na základě této formule můžeme z konstant galvanometru a výchylky vlákna stanoviti intensitu proudu vláknem protékajícího, Eintho-venovým galvanometrem lze tedy na základě této formule měřiti intensitu proudu absolutně.
+Při malých výchylkách stačí řadu na pravé straně zakončiti prvým členem, takže pro malé t máme
+25
+d* '
+a v mezním případě jednoduše:
+i = t.
+25
+XXXIV. ﻿Část experimentální.
+Poněvadž u Einthovenova galvanometru, jak je staví Edelmann v Mnichově, není, jak se zdá, homogenita pole po celé délce vlákna zachována, a ježto také jednotlivé konstanty stroje nelze snadno a přímo měřiti, improvisoval jsem si Einthovenův galvanometr sám.
+Při konstrukci nejednalo se mi přirozeně o to, abych dostal stroj tuze citlivý, jako spíše o to, aby při něm byly co možná splněny všechny podmínky, jež jsem v prvé části při odvozování formule pro intensitu supponoval.
+Pole velmi homogenní získal jsem mezi pólovými nástavky malého elektromagnetu s jádrem ze šablonového plechu průřezu čtvercovitého o straně 4 cm. Pólům bylo lze dáti libovolnou distanci. Jako pólových nástavků užíval jsem 0*5 cm tlustých železných desek, jichž rovin)' byly na soustruhu hlazeny. Výška desek 20 cm, šířka 8 cm. Jedna z desek byla pevně přišroubována k pevnému pólu elektromagnetu, takže střed desky byl 2 cm nad jádrem elektromagnetu. Na různých místech při kraji desek byly nadělány otvory H pro mosazné šrouby. Na tyto šrouby nasadily se přesné 0-5 cm vysoké, mosazné válečky, pak druhá deska a vše pevně k pevné desce přišroubováno. K desce přiražen druhý pohyblivý pól elektromagnetu a pevně utáhnut. Tím získal jsem mezi deskami štěrbinu všude stejné, neměnitelné šířky O5 cm.
+Jednoduché zařízení na držení vlákna bylo namontováno na pevné desce (obr. 2.).
+Přímo na kraji podél delší strany byly přidělány šrouby A, B; po těch pohybovaly se ploché matice C, D. Na matici C připevněna na galalithové isolaci E tyčinka F, s vertikálním do polovice tyčinky zasahujícím, jemným zářezem pro vlákno. Na matici D přišroubována neisolo-vaně tyčinka s malou velmi lehce pohyblivou kladkou G. Na výřez v kladce, o nějž se vlákno opírá, byl kladen zvláštní důraz. Shledal jsem totiž při předběžných pokusech, při nichž užíval jsem kladky s úzkým výřezem pro vlákno, že galvanometr nedržel nullu. Tomu odpomohl jsem tím, že jsem zářez v kladce udělal ve tvaru širokého (3 mm), přesně vy-soustruhovaného válečku.
+Na maticích přiletovány indexy, jež udávaly na stupnicích vně na desce připevněných přímo vzdálenost středu kladky G od spodního konce zářezu v tyčince F, a tak délku vlákna 2d. Jako vodivého vlákna užíval jsem platinových, měděných a stříbrných drátků průměru 0-0150—0-025 mm od fy. Hartmann a Braun ve Frankfurtě. Drátek přilctován na tyčinku F, procházel zářezem, a splýval opíraje se o kladku dolů, kde byl zatížen olověným závažíčkem. Aby snad různě těsným stykem vlákna s kladkou
+Obr. 2.
+XXXIV. ﻿nenastávaly nahodilé variace v odporu a tak i v intensitě proudu protékajícího vláknem, odváděn proud tenkým drátkem měděným (0-0150 mm v průměru), který byl jednak přiletován k olověnému závažíčku, jednak k tyčince nesoucí kladku. Délka vlákna 2 d jest přesně rovna vzdálenosti spodního konce zářezu od středu kladky, dá se pomocí šroubů A, B měniti, a na škálách přímo odečítati.
+Práce s drátky tak jemnými byla velmi obtížná. Poněvadž drátky tažením \elmi ztvrdly, nesmí se konec pustiti, jinak by se celý drátek stočil v zamotané spirály, jež nelze rozvinouti. Proto vždy předem odměřen potřebný kus drátku, a na jeho konce přilepeny malé kousky vosku, čímž se zamotání zabránilo. Při letování drátků neocenitelné služby konala měkká letovací pasta Tinol. Při tomto zařízení bylo lze jednotlivé konstanty snadno měniti a měřiti: intensitu pole změnou intensity magne-tisujíciho proudu v cívkách elektromagnetu, délku vlákna změnou vzdálenosti tyčinky F a kladky G. Pro změnu napjetí 5"" způsobovaného olověným závažíčkem bylo nutno vždy celý apparát rozebrati a závaží vyměniti.
+Magnetické pole měřeno ballistickou úchylkou galvanometru systému ďArsonvalova od firmy Siemens a Halske v Berlíně; v dalším jest intensita magnetického pole Jp vždy udávána ballistickou výchylkou, jíž jest úměrná. Zkušební cívečka byla zasazena do otvoru v lepenkové destičce těsně mezi desky a vždy do stejného místa zasahující. Od této destičky vedena přes kladky šňůra k pozorovacímu dalekohledu, takže bylo lze jedinému pozorovateli současně cívku z pole odstraniti i současně pozorovati příslušnou ballistickou výchylku v galvanometru. Pro pozorování výchylky vlákna byla v obou železných deskách uprostřed pilkou vyříznuta horizontální štěrbina, 3/4 ww vysoká, S mm dlouhá; obě štěrbiny při sestavení celého apparátu byly přesně proti sobě. Výchylka vlákna odečítána Zeissovým odečítacím mikroskopem (asi stokráte zvětšujícím) s mikrometrickou škálou v okularu; mikroskop namontován na pevné rameno elektromagnetu.
+Aby snad vnější vlivy nepůsobily rušivě při pozorování výchylky vlákna, byly štěrbiny v deskách přikryty lístky slídy, mezera mezi deskami zalepena na okraji desek papírem.
+Proud procházející vláknem galvanometru měřen milliampěremetrem od fy. Weston shuntováným tak, že l dílek škály milliampěremetru rovnal se 1-097 milliampěrů.
+Při vlastním měření bylo nutno omeziti se na výchylky malé (až 0-25 mm), ježto při větších výchylkách přicházely nepravidelnosti, jež bylo těžko odstraniti (na př. vlákno neustále kmitalo). Při těchto malých výchylkách, jak se ukázalo, bylo lze ve formuli pro intensitu přestati na prvém členu, t. j. užívati formule
+25
+i       „2   C^3\    JI    '    >
+ ﻿10
+event.
+Verifikaci těchto formulí prováděl jsem takto: při určitém poli daném ballistickou výchylkou, při změřené délce vlákna a při napětí daném zatížením, měřil jsem k různým intensitám proudu (odčítaným na milli-ampěremetru) probíhajícího vláknem improvisovaného galvanometru příslušné výchylky. Výsledek měření znázorněn ve velkém měřítku graficky — intensity nanášeny jako ordináty, příslušné výchylky jako abscissy. Body. jež takto obdržíme, leží až na pozorovací chyby na přímce:
+i ~ c t .
+Z grafu stanovena hodnota konstanty c. Tímto způsobem stanovena hodnota konstanty pro různé hodnoty veličin L), d, S a vyšetřováno, zda lze skutečně psáti
+25
+event.
+_
+(       ~
+Ukázka protokolu: Drátek platinový průměru 0-0206 mm, délky 80 mmf zatížen 1-606 gr.
+Nulla	<r„	Nulla	Intensita proudu í'	Výchylka t	Intensita proudu i'	Nulla	Výchylka t
+balí. galvan.							
+498-1	242-8	40-0	10-0	42-1	10-0	40-0	42-1
+497-8	242-6	40-0	20-0	44-1	20-0	40-0	44-1
+498-0	242-5       40-0		30-0	46-2	30-0       40-0		46-2
+	40-0		40-0	48-2	40-0	40-0	48-3
+		40-0	50-0	50-4	50-0	40-0	50-3
+		40-0	60-0	52-6	60-0	40-0	52-5
+		40-0	70-0	54-5	70-3	40-0	54-6
+		40-0	80-0	56-4	80-0	40-0	56-5
+	40-0		90-0	58.8	90-0	40-0	58-7
+497-5	241-8        40-0		100-0	60-9	100-0	40-0	60-8
+		40-0	77-0	56-0			
+		40-0	58-2	52-0			
+		40-0	39-1	48-0			
+497-5	242-0	40-0	19-8	44-0			
+Prvé dva sloupce udávají data pro intensitu pole; další čtyři sloupce odečítány tak, že proud procházel vláknem poněkud delší dobu; konečně
+XXXIV. ﻿II
+poslední dva sloupce odečítány, když proud byl zapnut jen na tak dlouho, kolik bylo třeba k odečtení výchylky. Tím způsobem odstraněn, aneb aspoň zmírněn vliv způsobený zahřátím drátku. Intensita i' jest udávána v dílcích shuntováného milliampěremetru.
+Odchylky od i = c t sestaveny v tabulku. Střední & = 255-4 c = 4-81.
+Výchylka t	i'	i = c t	»'— » — J	J v o/.
+2-1	10-0	10-1	-0-1	-1-0
+4-1	20-0	19-72	0-28	1-4
+6-2	30-0	29-8	0-2	0-7
+8-25	40-0	39-7	0-3	0-7
+10-35	50-0	49-8	0-2	0-4
+12-55	00-0	G 0-45	-0-45	— 0-8
+14-55	70-15	70-0	0-15	0-2
+1(5-45	80-0	79-1	0-9	1-0
+18-75	90-0	90-25	- 0-25	-0-3
+20-85	100-0	100-4	-0-4	-0-4
+16-0	77-0	76-05	0-05	0-0
+12-0	58-2	57-7	0-5	0-86
+8-0	39-1	38-5	0-G	1-54
+4-0	19-8	19-24	0-56	2-83
+Veškeré početní operace byly, pokud bylo lze, prováděny logarithmi-ckým pravítkem. .
+V dalším podám výsledky měření.
+I. Závislost na magnetickém poli. Je -li formule
+25
+správná, musí býti c $Q konstanta na poli nezávislá.
+1. Drátek stříbrný (průměru 0-0165 mm, délky 46 mm).
+$•)	c	C$Q	;JE(C$)	4	+/,
+			n		
+ll(i	11-90	1380		64	4-9
+194	7-33	1421	1316	105	8-0
+251	5-23	1313		—  3	— 0-2
+304	3-78	1150		— 166	-12-6
+*) L> udáno jest ballistickou výchylkou, jíž jest úměrno.
+XXXIV. ﻿12
+2. Platinový drátek (průměru 0-0206 mm, délky 51-8 mm) zatížen 1-386 gr.
+*	c	c $	S(cfc)	é	*%
+			n		
+100	19-80	1980		72	— 3-5
+148	14-25	2105		53	2-6
+209-4	10-16	2128	2052	76	3-7
+247-3	8-53	2109		57	2-8
+292	7-05	2059		7	0-3
+342	5-64	1929		— 123	— 6-0
+3. Drátek platinový (průměru 0-020G mm, délky 80 mm), zatížení 1-606 gr.
+Š>	C	C L	S(c§)	J	^°/o
+			n		
+98-5	12-3	1212		— 83	- 6-4
+151-6	9-27	1405	1295	110	8-5
+213-8	6-26	1340		45	3-5
+253-6	4-81	1220		— 75	— 5-8
+4. Drátek stříbrný (průměru 0-025 mm, délky 55 mm). V tomto případě, jak se zdá,   uplatňuje se již vliv poloměru drátku není konstantou, nýbrž s rostoucím § klesá, jak to žádá formule
+c =
+§	C	c$
+117-3	18-2	2140
+205-0	9-53	1955
+291-0	6-19	1801
+355-0	4-23	1501
+Poznámka: Vliv korrekčního členu a2 $3 uplatňuje se zvláště u silných polí, jak vidno z předešlých tabulek, kde c $ ku konci vždy klesá.
+II. Závislost na délce vlákna. Dle formule
+c =
+25
+má býti cd2 konstantou na délce nezávislou.
+XXXIV. ﻿13
+1. Drátek platinový (průměru 0-0206 mm) v magnet, poli $ = 347-6 (střední).
+d v cm	C	d*c	2(d*c)	J	**/•
+			n		
+2-6	5-21	35-3		— 0-7	-1-9
+2-4	6-32	36-5		0-5	1-4
+2-2	7-25	35-1	36-0	-0-9	— 2-5
+1-95	10-0	38-0		2-0	5-5
+1-7	12-6	36-4		0-4	1-1
+1-5	15-5	34-9		— 1-1	— 3-1
+2. Platinový drátek (průměru 0-0200 mm) v mág. poli   ^) = 347-8, zatížení 1-GOG gr.
+d v cm	C	d2c	Z(d*c)	d	*«/.
+			n		
+4-0	2-90	46-4		1-0	2-2
+3-7	3-36	4G-0		0-G	1-3
+3-35	4-10	46-1	45-4	0-7	1-5
+3-05	4-78	44-5		- 0-9	— 2-0
+2-8	5-GO	44-0		— 1-4	-3-1
+2-5 *	7-21	45-1		— 0-3	-0-7
+III. Závislost na zatížení. Dle vzorce
+25
+
+má  býti -^- konstantou na zatížení nezávislou.
+O
+Drátek platinový průměru 0-0206 mm, délky 80 mm, v poli íp = 379-7.
+S v gr	C	C S	llř-1 n      S	zř	^'/o
+5-546	9-28	1-673		— 0-008	-0-5
+4-712	8-00	1-697		0-016	0-9
+3-931	6-68	1-700	1-681	0-019	1-1
+3-077	5-03	1-645		— 0-036	— 2-1
+2-377	4-03	1-697		0-016	0-9
+1-GOG	2-69	1-676		— 0-005	0-3
+XXXVI. ﻿14
+Uvedené výsledky ukazují, že jsme oprávněni v prvém přiblížení užiti nahoře odvozené formule pro intensitu proudu procházejícího vláknem galvanometru Einthovenova. Značnější difference při závislosti na magnetickém poli nutno asi přičítati vlivu korrekčního členu a2 $3, který se uplatňuje hlavně při polích značnější intensity, jak jsme již nahoře upozornili.
+Ku konci budiž mi dovoleno vzdáti dík)' p. prof. Dru Boh. Kučerovi za mnohé cenné pokyny při této práci, a p. dv. r. Dru C. Strouhalovi, v jehož ústavě práce tato provedena.
+V Praze, ve fysikálním ústavě č. university v říjnu 1911.
+XXXIV."

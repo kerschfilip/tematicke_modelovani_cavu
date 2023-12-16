@@ -1,0 +1,317 @@
+"","x"
+"1"," ﻿ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO 24.
+
+
+Abelovské transformaci trigonometrických řad.
+
+
+Sdílí Lerch. Předloženo dne května 1896.
+
+
+Budiž dána konvergentní řada trigonometrická
+
+
+
+
+
+f(x)= a^cosZfJiXn,
+
+
+níž /*>0. Tuto řadu bude lze přetvořiti pomocí identity Ábelovy
+
+
+
+
+
+č=*
+
+
+kladeli ófi cos2pxn. Tak obdrží nejprve
+
+
+
+
+
+
+
+
+tip cos 2fixn (tip
+
+
+sin (2m-\- \}xn sin (2h l)xn
+
+
+Přejdemeli zde limitě pro w=oo, obdržíme zřetelem podmínce lim výsledek
+
+
+w=oo
+
+
+}xn sin (2^ 1)xn 2siníC*
+
+
+která vzhledem okolnosti, součet
+
+
+
+
+
+hodnotu ah, obdrží tvar f(~\ sin
+
+
+\x) flh Rozpravy. Ročn. Tř. II.
+
+
+XXIV. ﻿při čemž užito označení tf^+i. Řadu pravé straně lze opét podobným postupem přetvořiti, výsledek opět, tak lze pokračovati jak daleko chceme. Při transformacích těch užívá identit
+
+
+sm(2m-4- Í)XTI sin (2^ \)xn L__ --2 smxa
+
+
+cos l)xn cos(2*»-|-l)Ljr '—=—. sin
+
+
+sin -4-
+
+
+zavedemeli označení
+
+
+obdržíme obecný výsledek tvaru
+
+
+(i)
+
+
+k-\
+
+
+sin
+
+
+l)xa
+
+
+Přihází dosti často, konvergují řady, jež vzniknou substitucí prvých dvou součtů pravé straně, poslední, třetí výraz pravé straně rostoucím klesá pod každou mez, jakmile náleží jistému intervallu (x0... xl). tomto zvláštním případě vychází (1) pro funkci levé straně stojící zajímavý rozvoj
+
+
+sin
+
+
+
+
+
+v=0
+
+
+němž zbytek, doplňující agregát složený prvých členů obou řad, hodnotu
+
+
+cos
+
+
+
+
+
+XXIV. ﻿podobným způsobem obdrží rovnice další
+
+
+(3)
+
+
+
+
+
+srn »,,*« 1)' Fž""
+
+
+sin
+
+
+^^i-
+
+
+A—l
+
+
+
+
+
+
+
+
+cos
+
+
+(4)
+
+
+některých případech jsou vesměs kladné veličiny; řada Af^ pak jistě konverguje její součet p2*""1^. Jeli pak mimo
+
+
+lim
+
+
+
+
+
+srn n)*k
+
+
+bude též lim rozvoje lze prodloužiti nekonečna. Tak př. řad
+
+
+cos
+
+
+máme
+
+
+obdržíme
+
+
+ježto při
+
+
+XXIV. ﻿1.2.3..../«
+
+
+čili
+
+
+(5) r""
+
+
+Zde lze právě naznačeným způsobem ukázati, zbytek odpadá pří. pádě L=oo, rozvoje lze prodloužiti nekonečna, jakmile -řr<.x<i^-
+
+
+
+
+
+Spojímeli obě řady pomocí veličin pomyslných jednu
+
+
+klademeli výsledku elxni obdržíme identitu
+
+
+
+
+
+(6)
+
+
+f*={
+
+
+ř*\
+
+
+jež užitečnost odvozených výše transformací dostatečně odůvodňuje. Pravá strana konverguje, jakmile reálná čásť veličiny menší než půle. Klademeli obdržíme
+
+
+kde psáno y(x)
+
+
+/""(*)
+
+
+/-(*)
+
+
+Užijemeli vzorce (4) případě řady
+
+
+!'°^f-
+
+
+jejíž hodnota jest
+
+
+(x) sin -\- cos -f- flog (1)1 sin
+
+
+obdržíme přechodem krajnímu případu výsledek log
+
+
+(8)
+
+
+
+
+
+platný podmínky -^. Při důkazu konvergence možno užiti tvaru pro #/-tý rozdíl
+
+
+log
+
+
+
+
+
+jenž obdrží bezprostředně vzorce
+
+
+
+
+
+.__|
+
+
+
+
+
+XXIV. ﻿Zavedeních -f- -g- obdržíme vzorce (8) tvar přehlednější
+
+
+(8*)
+
+
+jenž platí konvergcnční podmínky Budiž ještě dopřáno místa řadě
+
+
+
+
+
+COS
+
+
+(9)
+
+
+
+
+
+pro kterou vzorec (1) poskytne přechodem hodnotě
+
+
+výraz
+
+
+(9a)
+
+
+sin
+
+
+Zvolímeli hodnotu obdržíme nový rozvoj pro Rieman-novu funkci
+
+
+i_i__L
+
+
+5j» sice
+
+
+(10) (l— 21~'K(f)
+
+
+Rozpravy Ročník Třída II.
+
+
+XXIV. ﻿*"

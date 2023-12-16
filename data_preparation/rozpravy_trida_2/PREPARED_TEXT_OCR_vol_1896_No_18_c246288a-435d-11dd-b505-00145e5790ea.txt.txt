@@ -1,0 +1,419 @@
+"","x"
+"1"," ﻿ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO 18.
+
+
+jistém druhu semikonvergentních rozvojů.
+
+
+Sdílí Lerch. Předloženo dne 13. března 1896.
+
+
+Chceme vyvinouti prostředky sblíženému vystižení řad tvaru
+
+
+
+
+
+kterých funkce f(z) pro dostatečně veliká připouští rozvoj tvaru
+
+
+<9) f(s\ -4- -±-
+
+
+,-2 ,-3
+
+
+tím účelem ustanovme konstanty A„----Am tím způsobem, aby funkce
+
+
+svém rozvoji klesající mocnosti veličiny reprodukovala prvých členu řady (2). Poněvadž
+
+
+CK""i
+
+
+
+
+
+bude
+
+
+rozvoj funkce (5) zníti
+
+
+konverguje podmínky Součinitel při rovná součtu
+
+
+-P-(->"")•
+
+
+lz« jej též psáti
+
+
+,... l,2,3...oo^
+
+
+/?+»'
+
+
+R°*Pravy. Roen. Tr. II.
+
+
+XVIII. ﻿Výrazy tyto pro ,...;// -j- mají splývati koefficienty tedy máme rovnice
+
+
+počtu ;;/. Výraz levé straně rovná součiniteli při výrazu
+
+
+°°- (-iy A.*
+
+
+'ŠT~X 2j.
+
+
+
+
+
+obdržíme tedy veličiny ./J2 ,... pomocí identity
+
+
+
+
+
+Dosadíme!i sem hodnotu
+
+
+
+
+
+obdržíme rovnici
+
+
+
+
+
+(R\ ffV ----- ""+ y.V
+
+
+/""""__ 1^|
+
+
+Odtud vychází, součinitelé AlíA91ABí... nezávisejí lze definovati rozvojem (3).
+
+
+rovnice (3) lze součinitele vyjádřiti velmi jednoduše pomocí čísel Bernouilliových, užijeli řady
+
+
+tak totiž obdrží
+
+
+[U]
+
+
+čili
+
+
+[Úl
+
+
+(4)
+
+
+Pro takto stanovenou funkci (z) platí nyní věta, rozvoj funkce
+
+
+/(*)-*(*) tvar -^^ ^^T ^+T+ Znamenámeli tuto řadu (s) obdržíme
+
+
+jeli své reálné části kladné dosti veliké, aneb jeli pomyslná čásť veličiny dostatečně velkou, budou veličiny «,«-f-l>«'4""$f< VC^
+
+
+XVJII. ﻿nalézati oboru konvergence řady Q(z)> tedy bude
+
+
+r(a (<*
+
+
+Avšak definice
+
+
+plyne, bude
+
+
+
+
+
+-4- lim Av\---------;—:——
+
+
+„=0 ooLi L<ť ')""J
+
+
+
+
+
+čili
+
+
+
+
+
+následkem toho náš výsledek tvar
+
+
+
+
+
+(6)
+
+
+Jeli buď pomyslná čásť veličiny dosti velikou, aneb jeli reálná čásť její kladnou dosti velikou, bude každá řad
+
+
+
+
+
+b""
+
+
+míti malou hodnotu, také jejich součet.
+
+
+Budiž ^r0 hodnota, pro kterou řada (z) konverguje; bude pak kružnici funkce (g) míti určitou největší absolutní hodnotu načež bude
+
+
+tedy pro
+
+
+<L•
+
+
+
+
+
+
+
+
+-|-Ž
+
+
+Jsouli tedy všecky veličiny a-\~n absolutně větší než L0, jest
+
+
+
+
+
+IC(«+*)
+
+
+odtud plyne,
+
+
+konverguje jest menší než
+
+
+
+
+
+
+
+
+-)-
+
+
+a-j-» XVIII.
+
+
+-\-n
+
+
+
+
+
+Jsouli všecky poměry —j-— dosti příkré, čehož lze docíliti dostatečným
+
+
+zvětšením části pomyslné při aneb zvolením velké kladné části reálné této veličiny, bude výraz poslední následovně také součet řady
+
+
+n-O
+
+
+libovolně malým. Takže pak bude lze veličinu
+
+
+nahraditi [dle (5)] součtem
+
+
+chybu, které tím dopustíme, lze posouditi základě výrazu ((>). Číslo ;;/ lze zvětšovati ovšem jen při současném zvětšení* veličiny čímž pak chyba zmenšuje.
+
+
+Volímeli jako příklad f(z] obdržíme podle (4)
+
+
+tedy pro řadu
+
+
+máme sblíženou hodnotu tvaru
+
+
+~7T ~~r
+
+
+což shoduje výsledky odjinud známými.
+
+
+Zobecněním předešlé úvahy lze dospčti semikonvcrgentnímu rozvoji funkce
+
+
+
+
+
+(i) *«=* 2jLn ""/(*+«),
+
+
+kde f(z) značí funkci rozvinutelnou řadu tvaru
+
+
+které buď ryze pomyslné aneb reálnou čásť zápornou, řada cř» («) konvergovala.
+
+
+XVJII. ﻿Za tím účelem ustanovme konstanty Ct, čT2 tak, aby funkce
+
+
+měla svém rozvoji řadou (8) prvých členů společných. Poněvadž patrně
+
+
+»=1,S,...»^
+
+
+v-o,!,*,...«;•
+
+
+obdržíme tak rovnice
+
+
+6~*"" ""«""
+
+
+
+
+
+nichž hodnoty ,...///. Možno psáti
+
+
+odtud soudíme, lze naše veličiny charakterisovati identitou
+
+
+
+
+
+ECg 1)!
+
+
+níž plyne
+
+
+
+
+
+.(«-D'
+
+
+x01
+
+
+Užijemeli zde řady Taylorovy
+
+
+^•Ví
+
+
+
+
+
+obdržíme
+
+
+Mocninový rozvoj funkce *ní pak
+
+
+
+
+
+Pro veličiny dostatečně velikou částí pomyslnou aneb velikou -ladnou částí reálnou bude
+
+
+zároveň máme
+
+
+pra vy. RoCn. Tř. II.
+
+
+
+
+
+
+
+
+XVIII. ﻿takže obdržíme rovnici
+
+
+
+
+
+(10)
+
+
+
+
+
+které druhá řada právo při dosti velikých hodnotu velmi malou takže lze pak řadu
+
+
+n-Q
+
+
+nahraditi její sblíženou hodnotou
+
+
+
+
+
+Lcv
+
+
+které jsou dána vzorcem (9).
+
+
+Volme jako příklad f(s)= bude dle (9)
+
+
+sblížená hodnota řady
+
+
+
+
+
+
+
+
+nLQ a+n bude zníti
+
+
+
+
+
+—eu ~a* ~á3
+
+
+(kde počet členů závisí velikosti veličiny a).
+
+
+XVIII."

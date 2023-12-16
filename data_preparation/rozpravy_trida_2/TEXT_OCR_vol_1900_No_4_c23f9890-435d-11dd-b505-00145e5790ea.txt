@@ -1,0 +1,166 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+TŘÍDA II.
+ČÍSLO 4.
+O součtových determinantech vůbec a figurovaných zvlášť.
+Napsal Dr. F. J. Studnička.
+(Předloženo dne 1. prosince 1899.)
+Zjednáme-li si z n různých veličin číselných
+alt a2, a3, . . ., a„ podle vzorce i jinde již užívaného
+Sk = «i + «8 + aa -f . . . -)- ak novou řadu číselných veličin
+(1)
+(2)
+a opakujeme-li tento postup dále, kladouce při tom
+e' __
+Sk =
+á l+...+sí \
+(3)
+kdež svrchní přípona jest  iteračním ukazovatelem,   obdržíme z obecné relace této pro
+ř=l, 2, 3, ..., «—l,
+*=1, 2, 3, .... «
+ve spojení s řadou původní (1)  «-řad w-členných, z nichž sestaviti  možná determinant stupně n-tého
+Roipravy: Ročn. JX. Tř. II. Č. 4.               W-                                                      * ﻿>7   \ ^2*   1:Sa    \ . . ., S""
+(4)
+jejž pro   takovéto   prvků   složení   nazývám   součtovým   determinantem a označuji symbolem ^/„.
+Jakož snadno se přesvědčiti možná a to odečítáním prvků jednotlivých řádků od soulehlých prvků následujících řádků rovnoběžných, jest hodnota jeho vyjádřena mocninou prvku prvého, takže platí
+4, = *?,                                              (5)
+z čehož patrno, že nezávisí na hodnotách prvků ostatních v řadě (1) obsažených.
+Vedle toho vyplývá ze složení prvků sloupcových, že představují arithmetické řady a to stupně čím dále tím vyššího, prvky sloupce L-tého
+a k, Sk, Sk2, • • ., Sk
+tedy arithmetickou řadu stupně (k—l)-ho,   při čemž zároveň rozdíly řídí se vzorcem obecným
+z něhož se poznává, že předcházející sloupce obsahují rozdílové řady sloupců následujících.
+Ze vzorce (5) vyplývá pro zvláštní případ, kde
+že hodnota příslušného determinantu součtového se redukuje na jednotku. Podle toho jest na př.
+l,    3,      l,     4
+l,    4,     5,     9
+l,   5,    10,    19
+l,   6,    16,   35
+= 1,
+což i přímým vyčíslením se  potvrzuje;   neb snížením   stupně determinant-ního vznikne
+'li      4,      5
+2,      9,    15
+3,    15,    31
+l,     5 3,    16
+= 1.
+IV. ﻿Mimo to platí, jak snadno se přesvědčiti možná,
+Sk—(i-\-k — 2)*_i ^ -|- (i -f k — 3)*_2 a2 -\- (i 4- k — z čehož vyplývá zajímavá relace obecná
+
+kí Sk -\-
+-\ — L3 Sk- 2 -f- • • • i ^i — ah +
+1 1
+pomocí známé vlastnosti binamických součinitelů, vyjádřené vzorcem
+l — ^ 4- L2 — k.A -\- . . . ± kk — O,
+z uvedeného vzorce přímo odvoditelná.
+Podle toho se obdrží z předcházejícího determinantu čtvrtého stupně
+a3 — 10 — 2 ' 5 -f l = l, «4 = 35 — 3 . 16 -f 3 . 6 — l = 4.
+A podobně bude platiti o  posledních prvcích posledního řádku
+ř— "" - l           /             1\        C"" M - l       l        /            1\         c^M - l           /           1\        C'w - l       l
+S«      — (n — 1), Su-i + («— 1)2 vS„ _2 — («— 1)3 o„_3 -f             XQX
+i         4- c""-1-                                            W
+-j- . . . ± 01       — rt-,,,
+jakož plyne přímo ze vzorce (7).
+Aniž   bychom  vyšetřovali   další vlastnosti   determinantů těchto,   mezi nimiž vyniká vzorcem
+C S,', -i — a*    , (i ~ 0, 1,2, ...,;/ — 1),
+vyjádřená obdoba vzorce (5), dle níž každý subdeterminant k rožným prvkům posledního sloupce příslušný rovná se (« — l)-ní mocnině prvku prvého, přejdeme k součtovému determinantu zvláštnímu, jehož členové řady (1) jsou vesměs jednotky, členové tedy řádků ostatních představují čísla figurovaná, takže tu podle známého vzorce*) platí
+S""' =. (m -\-n — l)„_i = (m -4- n — l )„„ a na místo determinantu (4) nastupuje tvar
+l
+l,    l,
+l,    2,
+l,   3,
+l,    «.
+l, 3, 6,
+— 2)„_
+(9)
+*) Viz:  Studnička   >Všeobecné tvarosloví algebraické*,  Praha, 1880, pag. 22.
+IV.                                             l* ﻿jejž jmenujeme figurovaným neb obrazcovým. Zde platí tedy podle vzorce (5)
+— l
+(10)
+jakož   se   pozná  velmi   snadno   i  pomocí   indukce;   vedle  toho  platí  pak o subdeterminantech, doplňujících prvky posledního řádku,
+C(n + k — l)/, = (// - 1),, (k = O, l, 2, . ..). Podle toho jest na př. pro
+n = 4, k~2 hodnota doplňku vyjádřena číslem a determinantem
+l,    l,      l
+(11)
+3., =
+l,    3,      4 l,    6,    10
+2,    3
+5,    9
+____   «3
+Rozložíme-li   tedy   determinant   (9)   podle   prvků   posledního   řádku, obdržíme souhlasně se vzorcem (8)
+zí,r = (2 n — 2)„ _ i — (2 n — 3)„ _ 2 . (n — l) -f (2 « - 4)„_3 . (« —1)2 ~ - . . = l,
+což i jiným spůsobem snadno se odvozuje.
+Zjednáme-li si totiž k řadě číselných hodnot
+(12)
+(13)
+příslušné řady rozdílové, vyjádřené symboly platí, jakož známo, obecná relace*)
+Jest-li tedy naše řada (13) stupně (n—l)-ho, což znamená, že
+<#•+*<* = O, (* = (), l, 2, ...),                               (15)
+obdržíme z relace (14) v případě našem *) Ibid. pag. 11.
+IV. ﻿a nahradíme-li tuto řadu obecnou   obráceně vzatou   poslední řadou prvků determinantních
+(2« — 2)„   lf (2« —3)„_.2| (2« —4)„.3> ...,*,, l,
+obdržíme přímo vzorec (12).
+Abychom ještě jinak vyložili jeho význam, vytkněme v determinantu (9) více řádků a sloupců tvarem
+1, 1, 1, 1, ( 1. ( 1,	1, 2, 3, >-2), n	1,       ....            1,                     1,                     1 3,       ...,       » — 2,           (» — l)i,               » (f*-pl)2> • • •, (2 w — 4)« — 3, (2 w — 3)»«— 2i (2f* — 2)«— i
+načež poznáme, že jsou tu násobeni prvkové posledního řádku s prvky vedlejší nebo pobočné příčky nad nimi stojícími, členové součinu pak opatřeni střídavými znaménky.
+Majíce pak zřetel k řadě (13) a vzorci (14) i (15), stanovíme snadno, že podobně složený součet součinů, kdež první činitelové představují členy arithmetické řady stupně #-tého, druzí pak po sobě jdoucí binomické koěfficienty mocniny (n -j- L)-té, identicky se annulluje pro
+k — 1    91
+K ---   l,    6,    O,    .   .   . ,
+což vyjádřiti možná se zřetelem ke vzorci (12) symbolem
+V/     *\k(      i         ZA         _ f l  pro ;//=:«,               ,    .
+/ r   (         l J    l ^    T~ «         R)m • %k----\ r\                      ^                               V^-^V
+'       •      %                          \              l                               /                                     l    í   i                        -* >••     -x*^     «*                                              v          y
+tak že výraz na levé straně tu stojící představuje zvláštní  tak zvaný disjunktivní multiplikátor.
+Jestli tedy na př.
+;;/ — 5, n =: 5,
+obdržíme přímo dle vzorce posledního 10B -95 . 5t + 8B . 52 - 75 . 53
+5, - 5S . 55 = l,
+IV. ﻿kdežto v případě na druhém místě vytčeném pro
+m =: 4, n = 5 z téhož vzorce vyplývá
+94 - 84 . 5, + 74 . 52 -64 . 5. + 54 . 5t - 4t . 55 = O,
+jakož se přesvědčiti možná i vyčíslením levé strany.
+Kdybychom však rozložili determinant (9) podle prvků prvního řádku, obdrželi bychom
+«, — *, -f- «s — . . . ± l — l,                             (17)
+což jest odjinud již známá identičnost, z níž jde na jevo, že subdeterminant prvku yé-tého jest určen tu binomickým koéfficientem
+(18)
+Platí tedy na př. při determinantu 5-tého stupně 5, 10, 10,   5,    l
+l,    l,    l,    l,    l
+l,    2,    3,    4,    5
+l,    3,    6,  10,  15
+l,    4,  10,  20, 35
+l,    5,  15,  35, 70
+1,    4,    6,   4,    l
+kdež čísla svrchní   a spodní   řady   značí   subdeterminanty   prvků   nejblíže stojících, takže
+5 — 10 + 10 — 5 -f l - 70 — 35 . 4 f 15.6 — 4.5-f l — 1.
+Poněvadž však determinant figurovaný (9) jest souměrný podle hlavní příčky, jsou též subdeterminanty prvků prvého a posledního sloupce hodnoty stejné, jako subdeterminanty dříve již vytčené ku prvému a poslednímu řádku patřící.
+Vynecháme-U pak celý okraj determinantu (9), vznikne subdeterminant
+2, 3,
+3,
+(19)
+IV. ﻿což se potvrzuje i rozkladem determinantním podle subdeterminantů rož-ných, jelikož tu pak vyjde relace
+A     r(l ""}-     n>   1
+A,,, . L U, *) —      1       1 •i     L
+z níž vyplývá vzorec (10).
+Poněvadž se původní pojem čísel figurovaných rozšiřuje dvojím směrem, a to se zřetelem k číslům trigonálním
+l, 3, 6, . . ., (n 4- l)a na čísla polygonální, obsažená v obecné řadě
+l, /, 3/ — 3, 6p — 8, 10/ — 15, ...                         (20)
+kdež koěfficienty /-stranného pravidelného polygonu představují řadu předcházející, odčetné konstanty pak arithmetickou řadu stupně druhého
+3, 8, 15, 24, 35, . . .,
+možná i pojem determinantu figurovaného rozšířiti na čísla tato, čímž vznikne determinant polygonální, jehož řádkové prvky se obdrží z řady (20) pro
+p- 3, 4, 5, . . .
+A poněvadž tu prvky sloupcové představují arithmetické řady stupně nanejvýš prvého, jest hodnota jeho dle známého pravidla*) nullou, jakmile stupeň jeho jest vyšší nežli druhý.
+Podle toho jest na př. pro / = 4, 5, 7
+l, 4, 9, l, 5, 12, l, 7, 18,
+= 0.
+Se zřetelem konečně k číslům tetraědrickým
+l, 4, 10, ..., (« + 2),
+možná pojem uvedený rozšířiti na čísla pyramidální, obsažená v obecné řadě l, P, 4P—6, 10 P — 20, 20 P — 45, . . .,                 (21)
+*) Viz: Studnička, »Úvod do nauky o determinantechc, Praha, 1899, pag. 46 a 47.
+IV. ﻿kdež  koéfficienty (P — l)-bokého jehlance   představují  řadu   čísel  tetrae-drických, odčetné konstanty pak arithmetickou řadu stupně třetího
+6, 20, 45, 84, 140, . . .,
+čímž vznikne determinant pyramidální,  jehož řádkové prvky se obdrží z řady (21) pro
+/»=4, 5, 6,...,
+a o jehož hodnotě platí stejné pravidlo, jak o determinantu předcházejícím. Podlé toho jest tedy na př.
+l, 4, 10 l, 5, 14 l, 8, 26
+= O.
+Uvážíme-li pak, že řada čísel (21) jest součtovou řadou pro členy řady (20), poznáme, že možná tímto spůsobem pokračovati dále ku pojmu determinantu pyramido-pyramidálního a podobným determinantům figurovaným vyšším.
+Aniž bychom dále stopovali vlastnosti zvláštních figurovaných determinantů těchto, jakož i příslušných subdeterminantů vyšších řádů, poukazujeme ku konci k tomu, že vedle prospěchu, plynoucího tu z vytčených vlastností evaluačních determinantu jak součtového tak figurovaného, poskytuje tento předmět ještě hojné příležitosti k mathematickým kombinacím zábavným, jakéž Bachet de Meziriac sestavil již v XVII. století ve svém spise »Problěmes plaisants et délectables qui se font par les nombres«.
+IV."

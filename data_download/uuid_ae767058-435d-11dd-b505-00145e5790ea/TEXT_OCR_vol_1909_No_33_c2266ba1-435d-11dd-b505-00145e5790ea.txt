@@ -1,0 +1,265 @@
+"","x"
+"1"," ﻿ROČNÍK  XVIII.
+TŘÍDA II.
+ČÍSLO  33.
+O principu duality v differenciální geometrii,
+Napsal
+Dr. Bohuslav Hostinský.
+Předloženo dne  25. června   1!*00.
+V oddíle I. této práce odvozuji rovnice, jež slouží k studiu infinitesimálních vlastností prostorových křivek v rovinových souřadnicích a jednám o vztahu těchto rovnic k rovnicím bodovým (uvažuji výhradně vlastnosti závislé na differenciálech prvních čtyř řádů). Podnět k tomu daly mi dřívější studie o differenciální geometrii prostorových křivek*); provádějí-li se totiž — jak jsem učinil v oné starší práci -- výpočty jen na základě bodových rovnic, stanou se často složitými, a pravý původ některých výsledků není dosti jasný. Důsledné provedení principu duality zjednodušuje výpočty a objasňuje vztahy infinitesimálních vlastností na základě pojmu projektivní geometrie.
+Podobné úkoly se vyskytují v theorii plodí; v oddíle II. podávám důkaz věty korrelativní k známé Meusnierově větě o křivosti normálních řezů.
+V posledním oddíle užívám Cayleyova zevšeobecnění pojmů vzdálenosti a úhlu, abych ukázal na základě principu duality souvislost dvou známých vět differenciální geometrie, které, pokud vím, nebyly dosud s tohoto stanoviska pojímány.
+*)  O útvarech uičcných soumeznými elementy prostorových křivek.  Rozpravy Ceáké Akademie tř. II. 1907, č. 30.
+Rozoravy; R„č. XVIII. Tř.  II. C. :53.
+XXXIII. ﻿L
+1. Je-li O x tečnu, Oy hlavní normála a O z  bi normálu analytické křivky prostorové v bodě O,   lze psáti rovnice křivky ve formě
+y = a x2
+(1)
+V dalším předpokládám, že počátek O soustavy souřadné jest obyčejný bod křivky, t. j., že
+a ^ o,   b ^ o .                                     (2)
+Obě mocninné řady (1) jsou konvergentní, pokud x nepřesahuje jisté kladné číslo r. Bod (x) křivky v okolí bodu O bude tedy jednoznačně určen souřadnicí x, jestliže
+l*
+Předpokládám, že všecky body křivky, o kterých se bude jednati, vyhovují poslední nerovnosti.
+2. Rovnice oskulační roviny v bodě (:.} jest
+X— x,    Y—y,    Z—z d y         d z
+l,
+O,
+d x         d x
+jn                        70
+CL   V                 Cl   Z
+d x2   '      d x2
+= O ;
+za y, z,
+d y d x
+. . . jest dosaditi řady (1) a jich derivace.
+Koěfficienty v této rovnici jsou mocninné řady proměnné x; koěffi-cient při Z redukuje se pro x = o na 2 a, pročež lze jím děliti celou rovnici, která nabývá tak tvaru
+u X + vY +Z + s = o                           (3)
+Volím právě tyto ,,nehomogenní souřadnice roviny"" (u, v, s), poněvadž lze ve formě (3) psáti rovnici každé roviny, jež splývá přibližně s rovinou Z •-=-• o.
+V našem specielním případě oskulační roviny vede výpočet koěffi-cientů k vzorcům
+9a'b—8abf u — 3 o x& --        — x3 + . . .
+v = — 3
+a' b — Gáb'
+x2 + . . .
+(4)
+3 a' b — 3 a b'
+s = — b XA -f                        r1 +. . .
+XXXIII. ﻿3
+3. Vzorce (4) určují jednoznačně oskuluční rovinu bodu (x}\ jestliže naopak jest oskulační rovina dána souřadnicí v, lze nalézti souřadnici x příslušného bodu, ježto lze vyjádřiti x jakožto funkci v inversí druhé mocninné řady (4). Dosadíme-li pak tuto novou mocninnou řadu, jež vyjadřuje x jako funkci v, do první a třetí rovnice (4), obdržíme dvě rovnice
+u = a
+které možno nazvati   tangenciálními  rovnicemi  dané křivky  (n.  plochy rozvinutelné utvořené jejími oskulačními rovinami).
+Rovnice (5), jež vyjadřují nehomogenní souřadnice u a s oskulační roviny jako funkce třetí z nich v, jsou úplně analogické rovnicím (1) a platí, pokud oskulační rovina (u, v, s) náleží bodu křivky dosti blízkému bodu O; oskulační rovinu budeme zkrátka označovati symbolem (v).
+Naznačené odvození rovnic (5) vede k relacím mezi koěfficienty rozvojů (1) a (5), o nichž se později zmíníme (či. 5.); vzhledem k nerovnostem (2) jest též
+« ^ o,    (í^o.                                (6)
+Bod křivky příslušející k oskulační rovině (v) může býti považován za průsek této roviny se dvěma oskulačními rovinami nekonečně blízkými právě tak, jako oskulační rovina bodu (x) prochází tímto bodem a dvěma nekonečně blízkými body křivky. Poznamenejme ještě, že se rovnice (3), jež váže souřadnice bodu a roviny, nezmění, zaměníme-li X s v, Y s u a Z s s. Z toho následuje: formule vyjadřující souřadnice (x, y, z) bodu příslušného oskulační rovině (v) odvodí se z rovnic (5) právě takovým způsobem, jako byly odvozeny formule (4) z rovnic (1). Máme tudíž, píšeme-li v (4)
+y, x, z, v, K, u', (i, ft'
+místo
+u, v, s, x, a, a', b, b',
+vzorce:
+(7)
+,   , .    3 «' (i — 3 a fi'
+z = — /j y3 + —                      - y4 + .
+XXXIII. ﻿4. Rovnice roviny položené třemi body (#t)*), (x.,) a (#3)   křivky jest
+x, y, z, i
+v         \\      ?      !
+l '      l '         1*
+Xi),    Voi     Za,     L
+= o
+za y,, %, . . . jest dosaditi řady (J). Levá strana této rovnice jest mocninná řada o třech proměnných xlt x2 a .ra, jež vymizí pro #,- == xk; jest tedy dělitelná výrazem
+a podíl takto vzniklý se nemění při žádné transposici indexů i, 2 a 3, t. j. levá strana nové rovnice jest syminetrická funkce tří proměnných xlt X() n. oč g .
+Dělíme-li  ještě    koěfficientem   při   Z,   jenž  se  nerovná    mílie    pro xi = xi — xs — °> obdržíme rovnici
+Symmetrické funkce (74, F4 a 54 (nehomogenní souřadnice roviny položené třemi body (xj, (x2) a (x3) křivky) lze vyjádřiti jako mocninné řady o třech proměnnýcli A4, ^i4, v4 definovaných rovnicemi
+Výsledek výpočtu jest
+a' b — a b'
+v4 -f . . .
+Píšeme-li v těchto rovnicích
+místo
+,  L/4> 54, ^, a, a', b, b',
+obdržíme rovnice, jež vyjadřují souřadnice  (L4, r;4, §4) průseku tří oskulnc-ních rovin (v,), (v2) a (ÍA,).   Od proměnných y/ můžeme přejíti pomocí druhé
+*}  (*j) značí bod určený obscissou .v,.
+XXXIII. ﻿rovnice (4) k proměnným Xi (je-li Xi souřadnice bodu příslušného k osku-laČní rovině [?,>;]) a dostaneme tak vzorce (omezené na členy nejnižšího stupně)
+&=-L-,     »/4 = -|- ř*4.     k = bvt.                         (9)
+Při této poslední transformaci bylo užito relací (10), k nimž se nyní obrátíme.
+5. Na počátku j. odstavce bylo naznačeno, jakým způsobem lze odvoditi tangenciální rovnice (5) křivky; provedeme-li výpočet, nalezneme následující formule, jež určují koéfficienty rozvojů (o):
+a3                  4a3b'        a2 a'
+27 b2 '              27 63         3 62  '
+(10) a*b'        2asaf
+'27 64         27 63
+Rozřešíme-li soustavu rovnic (10) dle a, b, a',  b', obdržíme   formule
+O                                                                  Q                                                          4          Q     J /                     O          /
+«-          7           «a            ,        4 «•* p          a""1 a
+^   :==:   ~Ti     r"" »          ""   -----     „.-      ^~ ,        (l     '-—      —.;                            —     ^r— ,
+3 (i                27 p2                 2< /33           3 /i2
+27 /i4         27 /i4
+Formule (10a) odvodí se tudíž z formulí (10) záměnou latinských a řeckých písmen; to vyplývá přímo ze srovnání rozvojů (1) a (5), neboť přechod od (1) k (5) provádí se, vzhledem k rovnici (3), stejným způsobem jako přechod opačný.
+Geometrický   význam  koěfficientů  v rozvojích   (1)  jest  dán vzorci
+J         r J            R       l             ' -      d    (
+: R '         ~T'l^'        : IT^\~'
+3 '
+R3    T   ds
+l   _d_(      R\
+h R*  ds \     T )'
+(u)
+kde 1: R a 1:7"" značí křivost a tors i křivky v O, a s oblouk čítaný v O positivně v kladném směru O x; kladný směr hlavní normály jde od O k centru křivosti. Derivace dle s jsou utvořeny vbodě O (x = o).*)
+*) Stran odvo/ení formulí (TI)  vi/; na př. práci výše citovanou, str.  2.
+XXXIII. ﻿Dosuďme za a, b, a', b' nalezené výrazy do rovnic (10); tak obdržíme následující vzorce, které určují geometrický význam koěificientů «, ft, «', ft':
+d
+_ ~R
+Ř*
+(-
+T3
+R\,   T*_ dR T ) +
+(12)
+d
+d G jest  nekonečně malý úhel   dvou soumezných  oskulačních  rovin definovaný rovnicí
+d s d G = —~ .
+Srovnání rovnic (11) a (12) vede k následujícímu výsledku:
+Vzorce (12) určující geometrický význam koěfficientil v tangenciálních rovnicích (5) křivky odvodí se z vzorců (11) určujících geometrický význam koěfficientů v rovnicích bodových (1} téže křivky, jestliže se zamění R
+R       ,        , s •—T~ a a s s a G.
+6. Tento vztah mezi vzorci (11) a (12) jest pozoruhodný tím, že souvisí s názorem na differenciální geometrii prostorových křivek, k némuž dospíváme na základě pojmů projektivní geometrie, zejména principu duality.
+Princip duality vyžaduje totiž, aby všecky úvahy o prostorové křivce jakožto místu bodu byly doplněny obdobnými úvahami o téže křivce jakožto čáře ú vrat u na rozvinutelné ploše utvořené oskulačními rovinami. Tak na př. již Saint-Venant uvažoval o rotačním kuželu K, jenž se dotýká tří oskulačních rovin soumezných s oskulační rovinou bodu O.
+Jak známo, dotýká se K této roviny podél tečny O x a úhel g? mezi O x a osou kuželu K jest dán rovnicí
+cotg <p =
+Rovina p,  vedená hlavní normálou O y kolmo na  osu   kužele K, jest útvar úplně analogický centru křivosti C.*) R jest parametr bodu C
+7->
+v řadě bodové O y, a------=r jest parametr roviny p ve svazku,   jehož osa
+jest Oy. T. zv. poloměr torse T, jenž jest racionální funkce (prvních, druhých a třetích) differenciálů souřadnic, jest tudíž podíl dvou veličin stejně významných s vyloženého stanoviskn.
+*)   Tato   analogie    vynikne   zřetelněji,   /ave(k-li   se   xnáiné   Cavleyovo    /.c-všííobt.cnění pojmu  v/dálenobd a úhlu.
+XXXTTT. ﻿Podobně odpovídá differenciálu d s (vzdálenosti dvou soumezných bodu křivky) differenciál d a (úhel dvou soumezných oskulačních rovin).
+7. Jakožto applikaci rovnic (9) uveďme rozřešení následující úlohy:
+Jaká jest limita podílu V : V , je-li V obsah čtyřstěnu utvořeného čtyřmi soumeznvmi body křivky, a V obsah čtyřstěnu utvořeného příslušnými osku-lačn 'mi rovinami ?
+BucTtež (Xi, yif z i)', i= l, 2, 3, 4 vrcholy prvního čtyřstěnu, a (|;, t\i, L») vrchol druhého čtyřstěnu ležící proti oskulační rovině bodu (Xi). Zavedeme-li označení (ve shodě s odst. 4.)
+/c = x
+xn, pk = Xi x,„ + x,„ x„ + xn %i, vk = xi xm xn,     (13)
+kdež k, l, m, n jest  libovolná permutace elementů   i, 2, 3, 4,   bude dle vzorců (9):
+33
+Obsahy čtyřstěnů jsou dány vzorci
+f>F =
+,   >'3>    ^3,    1
+> y±> zi> -••
+,    6 V -
+do kterých jest dosaditi za yt, zit &, ?/,-, L,- řady (1) a (14); tím  se redukují oba vzorce na potenční řady o 4 proměnných xlt xz, x3, x±:
+6 V = a b A + - - -,    O F' =      « fc A' + • • •;
+xlt  x-,  x, l
+%2j   %%*)   %%   y    -*•
+,r3,  x./,  x33, l
+x^,  xf,  x^, l
+,   A'==
+l"" ^4 H~ ^l>   ^3 ^4 ~T
+X3,
+Snadno lze dokázati, že
+Tímto výrazem jsou obě řady (15) dělitelný, neboť vymizí pro #, = Xk', rovnic (15) plyne, že
+lim (V : V) = 9, pro x± = x2 = x3 = x± = 0. *) Hledaná limita jest tedy na tvaru křivky nezávislá.
+*)  Body  (.v*)  mohou  68 blížiti  k O jakýmkoliv způsobem;  předpokládá se toliko, ž<> žádné dvu z nich nesplývají v j<;den (A 4= o}.
+XXXIII. ﻿II.
+8. Budiž 5 analytická plocha a O obyčejný bod na 5, v kterém má S dva hlavní poloměry křivosti R1 a -/v*2-
+Jsou-li osy O x a Oy tečnami křivoznačných čar procházejících bodem O, a O z normála plochy v O jest bodová rovnice plochy v okolí bodu O
+z =
+,
+2R
+(1)
+V bodech, jež jsou velmi blízké bodu O, jsou tečné roviny plochy 5 málo odkloněné od roviny z — o, takže můžeme psáti rovnici takové roviny (u, v, s) v tvaru
+Srovnejme   tuto  rovnici   s  rovnicí  tečné  roviny  v  bodě (x, y,  z):
+-.
+3 y
+Tak obdržíme tri následující rovnice
+u = —
+o1 Z
+v =
+S = X
+d z
+2 x
+a z
+17
+ve kterých jest dosaditi za - a -^ —
+c x       ey
+derivace řady (1) dle x a y.
+Třetí rovnice vyjadřuje s Maclaurinovou řadou M o proměnných x a y, dosadíme-li z prvních dvou rovnic u a v do řady s (u, v) — s koěffi-cienty zatím neurčenými — o proměnných u a v, obdržíme pro s druhou Maclaiirinovu řadu o proměnných x a y. Srovnáním této řady s řadou M určí se koěfficienty v řadě s (u, v); tangenciální rovnice plochy (S) jest pak
+s — s (u, v}.
+Naznačený výpočet jest zcela snadný, ačkoliv dosti dlouhý pro členy vyšších stupňů. Vzhledem k pozdější applkaci uvádím zde toliko členy druhého stupně:
+s = 4-«?+ ^ + •••                        W
+ů                 L
+9. Položme pevnou přímkou t, jež se v O dotýká plochy 5, rovinu P
+ux-\-vy-\-wz = o. XXXTTT. ﻿Rovinný řez plochy S takto vzniklý má v O jistou kružnici křivosti k. Známý theorém Meusnierův lze vysloviti takto: Otáčí-li se P kolem t, prochází osa kružnice k pevným bodem   (o, o, c) normály O z*) a sice jest
+-11-
+Applikujme nyní princip duality považujíce plochu S za obálku tečných rovin; obdržíme tak z předcházejícího následující výsledek:
+Budiž M (L, n, o) bod na t. Kužel opsaný ploše S, jehož vrchol jest M, má podél i jistý oskulační kužel A"" (t. j. rotační kužel dotýkající se tří tečných rovin prvého kužele soumezných s rovinou z — o).
+Pohybuje-li se M po t, -prochází osa kužele K pevným bodem (o, o, c') normály O z a sice jest
+c'(P + ifl =/?ala + ^iť.                                (3)
+Důkaz této věty jest v odst. 11.; předesílám odvození vzorců, jež se týkají oskulačního kužele K.
+10. Oskulační kužel A, o němž se stala zmínka v odst. (i., existuje též redukuje-li se rozvinutelná plocha — utvořená obecně oskulačními rovinami prostorové křivky — na kužel C. Pravá strana vzorce uvedeného v odst. (3., jenž udává úhel y sevřený osou kužele A a jeho hranou, pozbývá v tomto případě smyslu a jest ntitno určiti elementy kužele A přímo.
+Označme   písmenami  u,  v,  w směrové cosinusy roviny a  položme
+—
+w
+v
+W
+(4)
+V  těchto  tangenciálních   souřadnicích   bucle   míti   kužel  C  rovnici
+F (A, fO - o                                           (5)
+Pro jednoduchost předpokládejme,   že tečná rovina kužele C, k níž se má sestrojiti oskulační kužel A, jest  z = o\ její souřadnice jsou
+Obecná  rovnice  rotačního   kužele   (koncentrického   s  C)   v souřadnicích A, [i jest
+(UQ  A + VQ   U + WQ)''   - SÍTI2  <f   (A2 -f ^ +   1)    =   O,                        (6)
+kdež UQ, VQ, wQ jsou  směrové  cosinusy osy a <p úhel sevřený osou a povrchovou přímkou.
+"")  Bod   (c,  o,  c)   jest střed  křivosti  normálního řezu  vedeného přímkou /.
+XXXIII. ﻿10
+Poměry veličin UQ, v0, WQ a sin <p  jest určiti t;ik, aby rovnice (6) představovala hledaný oskulační kužel.
+To se provede tak, jako se určují elementy oskulačnícll útvarů vůbec:
+Považujme A za funkci proměnné [i definovanou rovnicí (5),   a označme
+A', A"" hodnoty první a druhé derivace pro A = (i = o.   Připoj íme-li pak
+k rovnici (G)   obě rovnice,   jež z ní obdržíme opětovanou derivací dle ji,
+vypočteme snadno (pro A = /i = o)
+: A
+tangy = ±
+(7) (8)
+poněvadž
++ ^o2
+Oskulační kužel K dotýká se kužele C podél roviny (/. =o, ft = o) a jest úplně určen vzorcem (8), jenž jest analogický vzorci pro křivost rovinné křivky.
+11. Důkaz věty vyslovené na konci odst. 9. jest zcela jednoduchý: Rovnici kužele C,   jenž maje vrchol v bodě M (L, rt, o) jest  opsán ploše S, obdržíme eliminací s z rovnice (2) a z
+s = o,
+což vede, vzhledem k (4), k výsledku
+Differencujme tuto rovnici  dvakráte   dle (i,   pro   A = fi = o   bude
+Dosaďme tyto hodnoty do (7) a (8):
+|(|2 + r,2) : r, (f + ,fi : - (R, f
+^2^ + ^t/2
+tang y --                      — |—
+(9)
+(10)
+Rovnice (9) dokazují, že osa oskulačního kužele K, jenž se dotýká kužele C podél O M, prochází bodem (o, o, c') (viz odst. 9.). Ježto pak jest rovnice (3) homogenní vzhledem ku L a rt, nemění se bod (o, o, c'}, pohybuje-li se vrchol kužele ploše 5 opsaného po přímce O M. Tím jest věta dokázána.
+XXXTTI. ﻿11
+III.
+12. V differenciální geometrii jsou známy následující dvě věty, které budu označovati symboly (.4) a (B):
+(A). Dvě ortogonální trajektorie povrchových přímek na přímočaré ploše utínají na každé povrchové přímce úsek konstatní délky.
+(B). Vytvořují-li dvě normály Mn a M n' prostorové křivky dvě rozvinut elné plochy, jest v každém bodě M křivky úhel n M n' j''mi sevřený konstantní. — Poněvadž míním podati důkaz, že věta (A) platí též v neeuklidovské (Cayleyově) geometrii, připomínám nejprve zkrátka některé definice, jež se vztahují ke Cayleyovu zevšeobecnění pojmů vzdálenosti a úhlu.
+Budiž dán;>, absolutní plocha P, t. j. plocha (vlastní) druhého stupně; soustavu homogenních souřadnic volím tak, aby plocha P měla rovnici
+Vzdáleností dvou bodli M (#,-) a M' (#/) — vzhledem k ploše P — nazývá se logarithmus dvojpoměru d, který tvoří na přímce MM' body M a, M' a oba průsečíky této přímky s plochou P. Značí-li 2 summaci dle i od i = l do i = 4, vypočte se snadno, že
+d =
+— Z %? .
+Z Xi Xi' —
+(1)
+Úhlem dvou rovin nazývá se obdobně logarithmus dvojpoměru, který tvoří tyto roviny ve svazku jimi určeném s oběma tečnými rovinami plochy P náležejícími témuž svazku.
+TJhlem dvou protínajících se piímek nazývá se logarithmus dvoj-poměru, který tvoří tyto přímky ve svazku jimi určeném s oběma tečnami plochy P náležejícími témuž svazku.
+Zavedeme-li Pliickerovy souřadn;ce přímky procházející body (y,-) a (*,-):
+pik = v i zk — yk z i,      i, k = l, 2, 3, 4,
+lze poslední dvojpoměr jednoduše vyjádřiti.*) Uvádím zde toliko rovnici, které vyhovují souřadnice (pik) a (/>',/>•) dvou přímek kolmo se protínajících, i- j. sdružených k ploše P:
+*)    V.    L i n (l e m a n n:     l'cbcr   unciKllich   klťine   Bc\vegungcn   und   uber Kraftsysteme    bui   allj/emciiK-r })rojfctivischcr Maasbestiinmung.    íslath.   Annu len
+VIL.
+XXXIII. ﻿12
+BucTtež M (Xi) a M' (xi') body, ve kterých povrchová přímka g přímočaré plochy R protíná dvě ortogonální trajektorie povrchových přímek, t. j. dvě křivky, jejichž každá tečna jest sdružená s povrchovou přímkou plochy S procházející bodem dotyku. Souřadnice Xi a #/ jsou funkcemi jednoho parametru u, jenž určuje polohu přímky g. Pliickerovy souřadnice přímky g jsou
+XiXfk—XkXri\    i, k — l, 2, 3, 4; tečna t trajektorie opsané bodem M má v M souřadnice
+Xi d xk •—XkdXi"",    -i, k = l, 2, 3, 4, a tečna ť trajektorie opsané bodem M'
+x'l d xk' — kk' d Xi';    i, L=1,2, 3, 4. Kolmost přímky g ku t a ť vyjádří se dle (2) rovnicemi
+kdež
+Q  =
+Jestliže — dle předpokladu věty A -- jsou splněny obě rovnice (3), platí též
+QExť* +Q'Lx? = o                           (4)
+Rovnice (4) však vyjadřuje, že derivace dle u pravé strany rovnice (1) rovná se mílie. Jest tedy ď = konstantě, jinými slovy: vzdálenost M M' jest konstantní.
+13. Applikujme nyní na přímočarou plochu R polární transformaci, jež má P za řídící plochu. Tak obdržíme novou přímočarou plochu A\, jejíž povrchové přímky g{ odpovídají přímkám g plochy R. Pohybuje-li se bod M po ortogonální trajektorii m přímek g, tvoří příslušná mu rovina Mt rozvinutelnoti plochu mv*}\ M, prochází přímkou g, a její charakteristická přímka ^ (odpovídající tečně / trajektorie) protíná gl kolmo.
+Podobně jest vytvořena rozvinutelná plocha w/, jejíž roviny M/ odpovídají bodům M' druhé ortogonální trajektorie na R.
+Dvoj poměru ó, jenž určuje vzdálenost bodů M a M', odpovídá stejný dvojpoměr, jenž určuje úhel rovin Mv a M/ procházejících přímkou gv
+*)  Čára  úvratu plochy w, leží mimo plodní Rlt poně\adž oskulační roviny čary w nejsou tečnými  rovin,uni pl«;chy li.
+XXXTTT. ﻿13
+Věta duální k včte (A) zní tedy:
+Jsou-li každou přímkou gj přímočaré plochy Rl položeny dvě roviny Ml a M,' tak, že jejich charakteristické přímky protínají přímku gl kolmo, jest úhel oběma rovinami sevřený konstantní.
+Zvláště zajímavý případ nastává, když jest plocha R rozvinutelná. Její tečné roviny zobrazují se jako body prostorové křivky R^, tečnám t ortogonální trajektorie na R odpovídají přímky t: jisté rozvinutelné plochy, jež protínají kolmo tečny křivky Rl v jejich bodech dotyku, a podobně se mění tečny ť druhé ortogonální trajektorie v přímky t^. Přímky ^ a ^/ jež se protínají v bodě křivky Ríf jsou normálami této křivky, a jejich úhel rovná se úhlu rovin Mt a M/.
+Z toho vyplývá, že veta (B) jest duální k vété (A), vztahujeme-li (A) na plochy rozvinutelné.
+Ku konci poznamenávám, že i v obecném případě věta duální k větě (A), v tomto odstavci vyslovená, platí též pro obyčejnou definici úhlu dvou rovin a dvou přímek.
+XXXIII. ﻿*"

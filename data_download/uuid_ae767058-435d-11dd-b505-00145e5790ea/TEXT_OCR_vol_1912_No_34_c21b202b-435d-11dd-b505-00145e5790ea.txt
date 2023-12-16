@@ -1,0 +1,769 @@
+"","x"
+"1"," ﻿ROČNÍK XXI»
+TfclDA II.
+ČÍSLO 34
+Theorie periodických pohybů typu 53 v asteroi-dickém problému tří těles.
+Napsal Dr. Vladimír Václav Heinrich v Praze
+(Se S obr. v textu.)
+(Předloženo dne 11.  října  1912.)
+Povzbuzen pracemi pánů Hilla, Schwarzschilda a W i 1-k e n s e o studiu kommensurabilit v problému tří těles, podnikl jsem před nějakou dobou některé výpočty o periodických pohybech typu Hestie. Když vydal asi v téže době W i l k e n s v Kielu svou elegantní práci „Die symmetrischen und asymmetrischen periodischen Bahněn
+derjenigen Planeten,  deren mittlere Bewegung nahezu das
+fache
+der děs Jupiter betrágt"", Ergánzungshefte der Astr. Nachr. April 1910 — která týž cíl (3/i) dosti podrobně sleduje —• upustil jsem od původního úmyslu a obrátil se k diskussi specielně nižší kommensurability 5/3.
+Jsou to hlavně výsledky těchto šetření, která v následujícím podávám.
+,,Chceme-li vystihnouti pohyb malé planety v sousedství místa kommensurability, jsme téměř nutkáni navázati počet na studium jistých uzavřených drah (periodických řešení), které se v okolí skutečné asteroi-dické dráhy nalézají. Ježto zde tedy s původním theoretickým také praktický interess se pojí, je zajisté doporučitelno tyto tvary pohybové, jako první přiblížení isolovati a odděleně je kvantitativně projednati."" (Srv. Schwarzschild, ,,Úber die periodischen Bahněn vom Hecuba-typus"" A. N. 100, 3839.) Touto pointou jsa veden diskutoval Schwarzschild případ Hecuby 2/lt a později Dziewulski případ Hildy (Astron. Nachr. Nro 4373. Uber die periodischen Bahněn vom Hildatypus, Band 183, Dez. 1909). W i l k e n s podává ve zmíněné práci vyšetřování o typu Hestie 3/i- Zbývají tedy kommensurability 5/3, 7/5 a typ Thule 4/a> z nichž o prvé zde chceme pojednati.
+K odvození nutných prostředků analytických volili řečení pánové různé cesty. Byly to jak u Schwarzschilda tak u W i l k e n s e jisté úvahy, které navazují na klassické práce nebeské mechaniky pochá-
+Rozpravy Roč. XXI. Tt. II. čís. 34.                                                                           j
+XXXIV. ﻿zející z největší části od Laplacea a Le Verriera. Proti tomu chci v následujících řádcích užiti cest modernějších, zároveň budiž mi
+dovoleno počet v obecnosti co největší       .       provésti. K účelu našemu
+nodí se asi nejlépe z měsíční theorie známá transformace, obyčejně D e-1 a u n a y-ovou neb D e l a u n a y - H i 11 ov o u operací zvaná. Této použijeme k odvození nutných a stačících podmínek k existenci periodických pohybů, ať již prvního druhu (sortě) ve smyslu theorie P o i n-c a r é h o (Méthodes nouvelles de la mécanique célěste I) —• při typu
+P + 2 „Hestii — podobném -—-—"",   nebo  jich  analytického  pokračování  při
+Í> + l typu ,,podobném Hecubě ———"".
+Při diskussi poměrů stability v analytickém okolí periodických pohybů užívám method P o i n c a r é-ových k nalezení tak zvaných charakteristických exponentů. Na jich základě rozpadají se pohyby naše ve stabilní periodické (librační centra) a instabilní periodické, které sousedí s asymptotickými. Pomocí těchto variačních method jsem pak veden k odvození dotyčných kriterií stability (§ 4.).
+Pokud se týká tvaru rovnic pohybových, hledím zachovati všude elegantní formu kanonickou pomocí známé dotykové transformace. Teprve tam, kde přecházíme k explicitním rozvojům kritické části funkce pertur-bační, doporučuje se užiti s výhodou klassické nekanonické formy L e Verrier, jak ji in extenso udal poslednější v Annalech Pařížské hvězdárny L, II., X.
+i> + 2 Nejobecnější  typ Hestii podobných pohybů •*-—•---- je  do té míry
+i> + l
+jednodušší než Hecubě podobný případ ——----, že v prvnějším nevystupuje známá polarita —, takže existence pohybů periodických prv-
+€>
+ního druhu je prokázána. K tomu přistupuje ještě okolnost, že na základě známých vlastností kritické části perturbační funkce —• postupuje tato dle potencí e2 (quadratu excentricity). I je tu ihned možno rozřešiti podmínečné rovnice pro periodické pohyby dle excentricity jako neznámé —• an resultuje i v případě, že teprve VIII. potenci e v rozvoji poruchové funkce zanedbáme, rovnice pouze 77. stupně.
+Lze tedy při kvantitativní diskussi periodických pohybů voliti za parametr bud excentricitu nebo střední denní pohyb n. V tom případu volil jsem z různých důvodů oproti Wilkensovi e za parametr. Při rozvojích kritického dílu poruchové funkce zanedbal jsem teprve členy osmého stupně excentricity. Zjednav si explicitní analytické výrazy pro saeculární pohyb perihelu a perturbaci středního denního pohybu v délce
+XXXIV. ﻿v  obecném   případu
+rozvinuji   dle   potencí    vzrostu   argumentu
+Laplaceova, čímž dosaženo, že respektovány všechny termy mající vliv na třetí decimálu. Zároveň docíleno těmito rozvoji jisté ekonomie v numerických operacích, které velmi značné (as na pětinu Wilkensových) reduko-
+P + 2 vány.  Tato úprava počtu  dá se applikovati na kterýkoli případ
+(srov.   § 3.) a byla vlastně pointou celé práce.
+P
+1. Integrace differenciálníeh rovnic. Operace Delaunayova.
+Vztáhněme pohyb asteroidy na pevný pravoúhelný systém koordinát s následujícími vlastnostmi:
+Počátek koordinát leží ve slunci. Naše rovina XY spadá s drahou Jupiterovou, kterou supponujeme jako kruhovitou. Positivní osa X spadá s radiem vektorem Jupiterovým, je-li jeho délka A' = O, takže pro délku Jupitera platí A' = rí t (značí-li rí střední denní pohyb Jupiterův a t čas). Předpokládáme dále, že asteroida pohybuje se v rovině Jupiterovy dráhy (X Y).
+Volíme-li tu za intermediérní dráhu napřed ellipsu, obdržíme pro známé Delaunayovy elliptické elementy následující pohybové rovnice tvaru kanonického:
+dL        2F            dy-,          3F
+dt
+dt
+kdež položeno:
+F' = k2 m'
+dt
+dt
+Lj = k\ a                   fj
+í2 = kYa(l — eí)        *i
+F=^TŽ+F'
+= M.
+l
+r               }
+------• —r cos (v — A'}\.
+i\         n                      ' \
+[VV-f a'* ^ 2 a'r cos (v — A')        « při čemž užito označení následujícího:
+k    Gaussova konstanta,
+a, r velká poloosa a rádius vektor dráhy planetoidy,
+c    excentrická dráhy planetoidy,
+&   délka perihelu dráhy planetoidy,
+XXXIV. ﻿M střední anomálie planetoidy,
+v   pravá délka planetoidy,
+m' hmota Jupiterova,
+A' jak zmíněno délka Jupiterova — rí t,
+rí  střední denní pohyb Jupiterův,
+a'  velká poloosa (zde poloměr dráhy),
+,    * (l + »»') r.       •» -
+a-
+n =   —— ,         n =
+Užijme   nyní následující lineární a kontragredientní  substituce,  jíž kanonický tvar našich rovnic se nemění
+I zní pak pohybové rovnice:
+~ďT""' = ~Š^'         ~ďT~     ~7&~         {    = l'2)«
+|' = A; V«,                               i?/ = M + to.    střední délka asteroidy.
+Tento koordinátový systém je však nepohodlný, ježto v právo vystupuje čas t explicite. Vadě té lze odpomoci známým způsobem L a p l a c e-D e l au n a y-ovým. Pokusíme se dojíti cíle jednoduchým obratem geometrickým. Čas vystupuje totiž všude ve vazbě n' t. Představme si, že celý pohyb děje se relativně ku spojnici Slunce-Jupiter. Pak stojí Jupiter a naše intermediérní ettipsa točí se v retrogradním směru. Zavedením tohoto rotujícího systému dosaženo, čeho si přejeme. Stačí položiti střední denní pohyb klidně stojícího Jupitera rovný nutte, a pro směr přímky apsid zavésti proměnný směr w —• n' t.
+Máme tedy zavésti novou proměnnou & —• n' t, ovšem tak, aby nový systém pohybových rovnic podržel kanonickou formu, Čehož ihned dosáhneme přičtouce k funkci charakteristické n' (L/—-|2').
+I vede nová kanonická tato transformace k rovnicím:
+L = k Va,                                                     G = k Va (l —* Ví^ďj,
+A = M + & — n' t = n t + M$ -f w — n' t,          y = n' t — »,
+kdež  M0 značí  hodnotu  M pro t = O,   zovme   novou charakteristickou funkci zase F, i bude:
+XXXIV. ﻿F' = k2 m' \ ^ __________ 1                = ----- ~ cos (v — A']\ ;
+l V ?2+ a'-2—,2a' rcos v — A'         a-                    l
+rcos (v — A'} veličina M -f- & zove se střední délkou asteroidy. dL       2F            dK           3
+TT""       A  '         dt         3 L '
+dG       3F          dy         3F
+dt       ty '         dt '       3G '
+kterýž   nový   systém   je   totožný   se   systémem    Tisserandovým, Mécanique céléste, tome IV, p. 426.
+Nyní jest pomocí některé ze známých method rozvinouti funkci F' v periodickou řadu Fourrierovu tvaru (srovnej Schwarzschild, Uber die periodischen Bahněn vom Hecubatypus, A. Nachr. 160. 3839):
+i= — oo i' =—1
+při čemž o koěfficientech platí
+2 n   ~ ^                                   77'
+4 a;2 Q v = f   f e~ v/~1 <^+ '' V  *   ^?> dídy.
+J   J                            & m'
+o    o
+Odvodíme poruchy prvního řádu vzhledem k hmotě a budeme se v následujícím zabývati hledáním jisté intermediérní dráhy planetoidy. Je to ona pohybová křivka, jež vznikne příspěvkem všech členů poruchové
+11           *t)    \    Q
+funkce, které v okolí kommensurability —r =              stanou se saeculár-
+ními. Nazveme tyto termy kritickými. Ukážeme pak, že intermediérní drahou hledanou bude v pevném koordinatovém systému ellipsa rotující bučí direktním neb retrográdním směrem.
+Zmíněný kritický díl perturbační funkce obdržíme ihned jako časovou střední hodnotu (integrál) karakteristické funkce F, pro niž platí (T perioda)
+XXXIV. ﻿Obsahuje pak tento kritický díl nejen saecularní Členy v obyčejném slova smyslu, nýbrž i všechny členy, jichž argument (následkem blízkosti kommensurability) je od času neodvislý, které tedy postupují dle násobků
+Zní   tedy   naše   differenciální rovnice   pro   hledanou   intcrmediérni křivku pohybovou
+dL        3[F]       dK           3[F]
+dt
+dG_ dt
+3 y
+dt
+dy ~ďJ
+Užijme nyní operace Delaunay-Hill (srv. stran bližšího Hill, On the extension of Delaunay's Method in the lunar theory to the generál problém of planetary motion. Transactions of the American Mathe-matical Society, Vol. I., p. 205—'242, 1900), která se zde jeví v podobě následujících kanonických, lineárních a kontragredientních substituci
+G_
+T'
+= L +
+pG
+= —p x G = q #!
+II. X = _
+L_
+P ' qL_
+P
++ G,     r2 = y,
+G = 4 q x1 + x2
+Sledujme napřed substituci I. Nový pohybový systém zní:
+d #j        3 [F]              d y\            3 [F]
+d t          3 Vj
+7                   /^   r T^i
+d OCe\            Q   \fl  \
+2     _                    L       J
+d t
+c' AT,
+= 0,
+rf í          3 y2                íí t
+druhá z rovnic dává ihned integrál
+x2=qL + pG=(q + p)ka — pk     al — e* = konst.   .   (I.)
+a systém redukuje se na jediný stupeň volnosti. Po integraci téhož obdržíme ze čtvrté rovnice jednoduchou quadraturou:
+= f
+3 x»
+dt.
+X XX l V. ﻿Kanonický systém
+d t
+d_yj_ = _   9[F] dt         "" cXí
+má —• an v právo čas explicite nevystupuje — známý integrál Vis viva, (Jakobi)
+[F] = C.
+Dále lze postupovati pomocí známé Hamilton-Jakobiovy partielní rovnice.
+Než zdá se, že problém, jehož specifické potíže hledí Hill (1. c.) osvětliti, je příliš komplikovaný, než aby byl obecně řešitelný bez zdlouhavých a pracných quadratur mechanických.
+My si všimneme především singulárního bodu našich differenciálních rovnic, který, an x2 je parametrické, presentuje se jako singulární khvka. Obdržíme ho pro ono C, pro které platí zároveň
+(i);
+pak jsou přibližně xí = konst, y1 = konst, obě konstantami až na periodické termy v zanedbané části perturbační funkce, i dospíváme k Poincaré-ovým řešením periodickým.
+Rovnice (1) dávají jednonásobné nekonečné množství periodických řešení prvního druhu v případu q = 2, resp. jich analytické pokračování v případě q = l ve smysle terminologie Poincaré-ho. Obsahují totiž jako proměnné x± y1 x2 tudíž jediný parametr.
+Dokážeme nyní jednoduše, jak naše podmínečné rovnice pro periodické pohyby souhlasí s příslušné specialisovanými podmínkami u Schwarzschilda (q =!,/>=!) au Wilkense(^ = 2, p = p).
+Ježto jest
+00
+R = V k* m' DÍ cos i g
+nalezneme, provedeme-li v první rovnici (1) derivační process se zřetelem na integrál (I):
+a[F]         ?[F]                a (F0 + R)      a (F0 + R)   dL
+T^~ ~q^G~      ~q-^rc~       ~n:~ -TG**
+(F0 + R)           g (F0 + R)
+r          ^ T
+3G
+XXXIV. ﻿.L0
+aneb ježto
+*
+= 0   .   .   .   (II),
+kdež položeno
+cos
+R
+L
+cos
+I vidíme, že naše rovnice (II) spadá s rovnicí (D) 1. c. p. 391, A. N. 160, Nr. 3839 Schwarzschilda pro p = q = 1. K témuž dospějeme ostatně, differencujeme-li oba integrály (I) a -F = C a oba differenciály eliminujeme. Druhá z našich rovnic (1) je, jak ihned patrno, identickou s první rovnicí Schwarzschildovou 1. c. p. 390, neboť
+a IF^      a [F]                V
+_ M_* > iDiSÍniL= O.....(III).
+Pokud se tkne rovnic W i l k e n s o v ý c h, A. N. Erg. Hefte p. 3. (1), (2),  tu je -5— = —TT-J tudíž ( až na zobecnění        ,   — ) analogické
+Q/ v            ď b                     \                                             r
+naší rovnici (II), a konečně Wilkensova podmínka (1) je analogická naší (III).
+Platí totiž
+[F]        dx,
+= —5-7-
+/           a t
+l   dG
+-
+q    a t
+=      m
+= O
+O =
+neboť
+di
+— Vl^e2) —
+v a      d e
+V a      d e
+dt
+dL
+~ďT
+XXXIV. ﻿Pravíme jen analogické nikoli identické, protože Wilkens rozvinuje mimo to dle e.
+Když takto získány podmínečné rovnice periodických řešení, zbývá po určení příslušných elementů jejich ještě určiti y2 pomocí quadratury
+3Z
+d t
+Ježto je
+dx1 =
+____ 3 G    3 x
+d G
+3 L   3
+„
+G = q d xv
+tudíž
+d x« = d L + — d G,     d L = — p d x^ -f- d x2,
+3 x
+= 0,
+dt             3 L         2L
+a užijeme-li v právo rovnice pro F0 a v levo rovnice pro
+d y2      d K
+-•= —T-T ~ n -\- J n
+, .   •    —T-T
+n = n — -n + g ,
+nalézáme   tím  smysl   naší   veličiny   g,   jakožto  poruch  středního    denního pohybu v délce
+= — k2 m'
+COS l C .
+Dosadíme-li do (II.), ježto dále íč L       íč v,            . d Vt
+n —
+dt        di          !    dt     [             '  dt '
+shledáváme, že význam naší veličiny /, je saecularní pohyb perihelu
+d &            3 R       ,      . ^ 3 A
+ťř t              3 G               i=i   3 G
+Užijeme-li kanonické transformace II., obdržíme právě tytéž rovnice podmínečné a integrály (I.), (II.), (III.)- Při závěrečné quadratuře rovnice
+XXXIV. ﻿10
+dt
+jsme pak vedeni napřed k určení saeculárního pohybu perihelu a dosazením do (II.) teprve nalezneme poruch středního denního pohybu v délce.
+Resumujeme-li  tedy   dosavadní   výsledky, nalézáme  jakožto hledanou intermediérní periodickou dráhu planetoidy v sousedství nižší obecné kom-
+mensurability — - -  ellipsu,   která   rotuje   direktně   neb   retrogradně  (dle p
+znamení /) v původním pevném systému koordinát, střední denní pohyb planetoidy v délce lisí se však od onoho, který by náležel obyčejnému ellipti-ckému pohybu Keplerovu, o konstantní obnos poruchový g. — K obdobné
+větě   ve   specielním    případu cestou 1. c.
+2/i    došel    Schwarzschild     jinou
+2. Rozvinutí kritické části funkce perturbační.
+Užijeme k rozvoji kritického dílu perturbační funkce výrazů Le Věr-rierových, jak je tento in extenso udává v Annalech Pařížské hvězdárny Tome I. J. U. Le Verrier, Recherches astronomiques, p. 358 et seq. Po-držíme-li označení tamější beze změny, nalezneme až ku členům VIII. stupně exklusive
+yi = L = (p + 2) /' -^ p /l -^ 2 & , specielně: p = 3, q = 2, k2 m' s
+K   =    ---•---;----
+_(i*)
+(1)   '    (2) V 2
+C°S
+l (21)
+4.
+(4)
+V , (173W * \ 7 +   22    (j)
+(7)\2/J                   í=0
+a členy II., IV., VI. s týmž argumentem.
+4    (175)<*> (_*\*\ Cleny stupně II. *= p+ 2,
+(24)    \
+(336)<ť>/ e (33)
+(34) (434)«>
+í = O ,
+členy stupně II., IV., VI.
+s týmž argumentem.
+e \61 Cleny IV. stupně 2/ J   .   .   .   .      i = 2 (p + 2) - 10.
+ft  Cleny VI. stupně
+i = 3 (p + 2) = 15.
+xxx r v. ﻿11
+Dle jedné známé věty (srv. příkladně Tisserand, tome I, p. 308) je stupeň libovolného členu s argumentem kL roven absolutní hodnotě algebraického součtu koěfficientů /', A resp. zvětšené o sudé číslo. I vidíme, že kritické termy —• jako to platí ostatně i o nejobecnějším Hestii po-
+dobném typu
+P
+— nejsou více  jako u Hecuby podobného případu
+0  stupeň  nižší řadové velikosti,  než saeculární část perturbační funkce v obyčejném slova smyslu, nýbrž téhož stupně excentricity.   Udáváme celý rozvoj explicite, neboť pak umožněn specializací i = (p + 2) k přechod
+1  ke všem případům obecného Hestiatypu *-—?—.
+P I bude pro i = 0:
+(2) = (4) =
+i2
+2 i2 Aj + 3
+3 A\
+(7) = (7)<°) = _L (-^ 43 i2 + 49 í* — 16 i6) A* — ^ i2 Aj + -^ (-^ 11 í2
+18
++ 16 z4) A = 10 AJ + 10
+2 i2 Aj — 4 i2 AI + 10 Aj + 10 Aj .
+pro i = p -\- 2 a specielně * = 5 obdržíme dále částečně s užitím tabulek 1. c. p. 358, které však stačí jen ke IV. stupni excentricity:
+(21) = (172)<5> = i. {— 5 ť + 4 i2) A* + (^ l + 2 *) Aj + J./
+(22) =
+=       ^5 + 9 .4^
+-    (u *
+o
+30 *3^
+- (8 ^ 23 ř'
+o
+— 8 i3) ^ + (— 4 + 3 *) 42' + 4 i Aj + 4 AI = — 665 A5 — 169 ^!5 + 11 Aj + 20 /135 + 4 ^45
+<24) = (175)<5> = -i (— 136 * + 314 ř2 — 593 *» + 788 ** —- 400 ř3 + 64 *•) A*
+48
++ ^- (— 48 + 190 * — 273 i2 + 278 *» — 160 *4 + 32 r5) ^4,*
++ ^ (80 — 142 * + 53 i2 + 40 *3 — 16 *4) ^2ť + -i- (4 -^ 17 *
++ 22 i2 — 8 *3) .43* + - (—24 + 23* — 4*2) ^4ť + (5 + 10*) ^ + 154'e
+= 3657-1875 A5 + 1201-125 A° — 179-375 Af — 265-5 ^35 — 4-5 /L5 + 55 ^55 + 15 AR5 :
+XXXIV. ﻿12
+pro i — 2 (p + 2), specielně i = 10, nalezneme:
+(33) =
+--24
+20G * + 283 ť~
+16 ť4
+- — 16
+
++ 59 « — 42 f2 + 8 ř3) AJ +    - (8 — 13ř> + 4 *2) ^2*
+z
++ (— 3 + 2 i) AJ + ^ = 2760 A* + 729 /V° + 139 .4210 + 17 .4310 -f /1410
+(34) = (337) <10> = -i- (902 * ^2147 12 + 2050 *3 — 935 ** + 200 i6 — 16 í6) ^ť 4_ _L (768 — 2978 i + 3855 12 — 2320 i3 + 640 «* - 64 i6) AJ
+4- JL (— , 250 + 502 i — 373 ť8 + 128 ^ — 16 í4) ,4^ l A
++ (16 — 12 « + 2 ř2) ^3* + (— - 10 i + 4 i2) Aj + (-.10 + 8 ») ,4^ + 6 4e*
+= — 116856 .410 — 32725-2 .4^0 -^ 5378 .4210 + 96 ^3w + 300 J410 + 70 ^5w + (> .4610
+pro ř = 15, ř = 3 (/) + 2) dostaneme:
+(39) = (434)(15) = -^~ (— 29352 i + 48538 i2 — 29835 i* -f 8660 ^ — 1200 ť8 í ^u
++ Géť8 ) 4* + T^ H 1296 + °054 l — (i315 z""2 + 263° ř'3 — 48° ř'4
+J.^jU
++ 32 i5) Aj + -i (432 — 1054 í -i- 715 i2 — 184 *3 + 16 ř4) ^ať
+-f 4- (— 108 + 161 i — 66 «* + 8 i3) ^3ť
++ 4- (24 — 21 i + 4 J2)^
+m
++ (_ 5 + 2 i) ,45ť + ,46ť
+= 230486-3125 ^015 + 62874-075 Af + 13937-375 ^215 + 2409-5 .4315 + 304-5 .44l5 + 25 ,4515 + ^e15 •
+Zní tedy rozvoj kritické části perturbační funkce v případu 5/a: L = 5 /' — 3 A — 2 &,
+> 4
+3
+10
+4- ,
+XXXIV. ﻿13
++ cos L \ (37-5 A5 + 9 AŠ + A/) \^J + (— 665 A5 — 169 ^5 + 11 Az5 + 20 ,435 + 4 .4/) (-0 + (-L-) (3657-1875 ^5 + 1201-125 Af — 179-375 ^25 — 265-5 .435 —4-5 ^145 + 55 ,455 + 15 ^6J
++ cos 2 g j ( — j  (2760 ^w + 729 A™ + 139 .4210 + 17 A™ + ^410)
+(— 116856 .410 —. 32725-2 .4/0 — 5378 y4210 + 96 A™ 300 .4/0 + 70 .4/o + (5 ^ 10) ]
++ cos 3 g            (230486-3125 A* + 62874-075 J/5 + 13937-375 AJ5
++ 2409-5 .4315 + 304-5 ,4415 + 25 A515 + .4615) .
+K diskussi upotřebíme ještě výraz -^— , jejž možno pomocí známé
+(l C i-
+symbolické operace Le Verrier-ovy odvoditi. Platí totiž   (srv. Paris An. I p. 270) mezi dvěma Laplaccovými transcendcntami sledujících indexů
+= (k
+d a
+takže   jest,   nazveme-li   dva   sousední členy nk Ak + nk+i Ak+i — faktor u Ak + i po derivaci
+Ak+l [nk (k + 1) + nk+i (k + 1)] = Ak + i (k + 1) (nk + nk+i) . Tudíž jest
+y'3 (:i ^3° + 8 A° + 5 ^5°}
+10 (5 .45« + 12 .46° + 7 .47o)
+cos l    (46-5 A» + 20 A,5 + 3 A*}   ^     +   -^ 834 Ji& ^ 31G ^«* + 93 AI + 96 ,445 + 20 A,5)
+(4858-3125 AŠ + 2043-5 A» — 1334-625 A» — 1080 Af + 252-5 ^455 + 420 A^ + 105 A?}
+XXXIV. ﻿u
+4- cos 2 g | \-j\ (3489 A™ + 1736 A*10 + 468 .4310 + 72 ,4410 -f 5 A5l°) + l Y) (— 149581-2 .V° — 7620G-4 .4210 — 15846 .4310
+-f 1584 .4410 + 1850 A™ + 456 .4610 + 42 .4V10) 4- cos 3 L ř—J  (293360-3875 A^ + 153622-9 .4215 + 49040-625 J315 + 10856 ^415 + 1647-5 A-f> + 156 A^ + 7 /J715) .
+Za argument Laplaceových transcendent vezmeme onen, který náleží kommensurabilitě 5/3. Platí tedy pro něj v našem značení
+= « = 0-711379,        log a = 9-8521009 .
+Tento  argument   odpovídá  exaktneji  střednímu   dennímu  pohybu 498""3094 dle formule
+('í  \2/              8/           ,„'2 _ )  /3 =  \l _       H___ 5 /          x «a fl + Wř')'
+(1
+Ježto mi nebylo možno užiti výhodných tabulek: Masal, Ver-óffentlichungen der Stockholmer Sternwarte, Band IV), užil jsem —• pokud nestačily známé tabule Runkleovy —• vesměs Le Verrierových rozvojů a formulí rekursních. Tento namáhavý a zdlouhavý počet uspořádán následovně:
+A™ A11 A12,413,414 A15 a dále Jj10 A™ AU A™
+Af»At
+4 10
+4   12   J  13
+""a   ""a
+4   13
+určeny dle An. Paris II p. 303 et seq. Additions. Zbývající transcendenty potřebné až k patnáctému indexu určeny pomocí formulí rekursních Le Verrier-ových (An. Paris X p. 26 et seq.) a obdobně transcendenty indexu 6
+Vzhledem k označením různých autorů citovaných připomínáme, že
+dk b\
+- = bk*   LeVerrierovu.   Zmíněné  rekursní vzorce
+Runkleovo
+a a""
+mají pak tento tvar, klademe-li s L e V e r r i e r e m   k ! AJ = bk*
+XXXIV. ﻿15
+(l — «2) bl = «2    (3 n — 2) 6l_i + (3 w2 -^ 7 w + 3) &l_a + (M — l)a («
++ 2 (ť — 1) a [6ÍI} + (n — 1) 6„'l5] •
+Ostatní transcendenty vyňaty z tabulek Runkle-ových, kdež udány pouze AL násobené různými faktory, celkem složitými.
+V následujícím sestavuji jenom ony transcendenty, které k rozvinutí našeho kritického dílu poruchové funkce jsou třeba. Mimochodem připomínám, že byly téměř všechny poetem 7 . 15 — 105 transcendenty dílem vyjmuty z tabulek dílem vypočteny, aby bylo možno ony, jež upotřebíme, jednak vypocísti, jednak zkoušeti pomocí kontrolních rekursních vzorců Le Ve měrových.
+Zní pak    resp. logarithmy jednotlivých Alk:
+	k = 0      k= l      k = 2      L = 3
+i = 0	0-374246   0-043928   0-253590   0-474327
+/ = 5	9-089398   9-859349   0-296237    0-570796
+/ = 10	8-211826   9-250970   9-961968   0-477025
+/' = 15	7-388887   [0.039093]   [0-297207]   [1-44104]
+	k = 4       k — 5      &=6
+i =	0    0-750646    1-049330    1-364643
+i = i = i =	5    0-808117    1-079016    [24-13657] 10   0-862596    1-172968    [28-73855] 15    [5-05994]    [13-9663]    [32-48985]
+Čísla v závorkách udávají místo log „numeri"".
+Pomocí  těchto  hodnot  nalezneme   následující  rozvoje  dle  potencí excentricity
+g = 5 l' — 3 A — 2 &.
+s = 4°- + 2-899480 (y J + 25-837626 (^ + 343-5779 (y)
++ cos Z [l3-09532 (^-V— 82-02944 ř-~)  + 967-964   -
++ cos 2 L [360-4988 (-|-Y -- 8973-526 (-^-
++ cos 3 g 12559-14   -
+XXXIV. ﻿16
+a 4^- = 0-5532197 + 17-22089 (~ V+ 330-0330 (— V a a                                         \ 2 /                   \ 2 /
++ cos $ [84-36327 (y)""— 25-11940 (y)*""] + cos 2 L 4215-143         4.
+Dle Sundmana (Uber die Storungen der kleinen Planeten, Helsingfors 1901) konvergují rozvoje perturbační funkce a jejích derivací — dle potencí excentricity, vyhověno-li nerovnici
+— (l— 2e' + c'2 — a V
+kdež  kladeno
+tudíž
+konvergence
+« = —7 a excentricita Jupiterova e' = O,  nalézáme
+V u
+e< 0-1856.
+=r — l, což dá pro
+í hranici našeho oboru
+3. Quantitativní zpracování periodických tvarů pohybových. Tabulky.
+Bychom mohli nyní našich rozvojů bezprostředně užiti, přejdeme k nekanonickým elementům. Při tom uvažme, že jest
+3 R        3R
+3 L
++ -r
+a   3L        2e   3L
+SR       3R   aa        a
+2 G      a a a G-      a _^L    _?XZ
+SL            fe     '
+TG
+= O
+a L
+3R
+TL
+- - (l - VT~^) ^
+== _j___________
+2R   2
+(i — ví —^) vi""=rpé
+e k Ya              '
+__1__W/_e      _^\
+""*Va3«\2""""8/
+XXXIV, ﻿17
+2G
+T~»              l o         /    ^        T~*                  •     f               **      rrv      o          jív
+R = k2 m 2j A cos ' L = -----7— > takže
+Cv
+— = Zj A cos / L.
+t= l
+Nalezneme tudíž pro naše koěfficienty ve  (II) a to resp. pro sae-culární pohyb perihelu
+,
+/_    ;       „j
+m'   3s/l
+_                                                                         -_,__-__ ___
+a pro perturbaci středního denního pohybu v délce
+n       \/í - 2^ ^      2 k m> (  9 s\       ^ w' /i        VI ř = (l — V l — -e2) ft -- r-— ( a— ) = - --  l — V l
+a Vít V   oa)         a
+k2 m'   % V a  2 s
+ek Ya     c e
+
+2 k m'   /   d s
+a' V a
+a '         k      3 a k m'     3 s   / e        ej
+při čemž jsme všude důsledně rozvinuli dle potencí excentricity.
+Zavedeme-li v našich rozvojích perturbační funkce resp. ve výrazech pro s, ía-j — ) , označení Amn Nmn> kdež první index značí multiplum L,
+Ur   Ct    /
+druhý stupeň excentricity  ( lépe — J , obdržíme následující explicitní výraz
+pro   hledané   funkce   /,   g,   předpokládáme-li symmetrická   řešení L = O, L = n respekt.
+,_ '   km'
+I0i
+L1G
+Roipravy:  R'>č. XXI. Tt. U. Čís. 34.
+XXXIV. ﻿18
+2
+a'V a
+km'
+2 *-•
+Rozvoje tyto platí, jak v § 2. zmíněno, pro obecný Hestii podobný
+případ — - . Rozviňme nyní v našich výrazech pro /, g a v rovnici (II)
+Pí § 1. dle potencí vzrostu Laplaceova argumentu. I platí tu, klademe-li
+l a'
+L[«(* — 1) AÍ (a) + 2 n [n + 1) Ajn+l (a) + (» + 1)  (n + 2) Afn+2 (a)].
+XXXIV. ﻿19
+Ve výrazech, které nejsou násobeny rušivou hmotou, podržeti nutno druhé potence rj, v termech násobených touto stačí omeziti se na první potenci ??, konečné v členech, které obsahují jako faktor e2, lze ij zanedbati (ye2).
+Takto  nalezneme  v obecném  //čs^Vř-případe — — ""- pro saeculární
+pohyb  penhelu  a  pro perturbaci středního  denního pohybu v délce  resp.:
+l   d* _    ,_!_       AS+Af       r Q   dt       '      ~          2        —L
+2                         4
+!
++ ^o
+a
+3 .     +
+Poslední dva termy: funkce s míliovým bodem řádu II. pro e = O
+- 2 iY   + 2 iY14 - 2 NM + 2 JM ± 2 .414
++ 2/l24 — yJ02 Ijl .432] .
+Poslední dva termy funkce s míliovým bodem II. řádu pro e = 0.
+3         15
+^ m'            ^ m'   /         »^\
+""7vT: : ""TWv   "" 2/-'
+Zní tedy podmínečná rovnice  (II) v obecném případu ——— (pro O, «)                                                                                   P
+p n — (p + 2) n' + 2 / + p g-------—- y n -]------—— ij2 n
+XXXIV. ﻿20
+Při tom kladeno pro stručnost Q = a m' n (srv. § 2.). Nadtržená písmena značí onu hodnotu funkce, pro kterou v) — 0.
+Bychom nyní vysvětlili, jakým způsobem bylo při quantitativní diskussi periodických tvaru pohybových postupováno, všimněme si podmínek, za kterých existují.
+Byly to relace (II)  (§ 1.) a dále rovnice (III)   §  1.
+2] i DÍ sin i L = O
+(III).
+Obě rovnice obsahují tří proměnné e, a (n), L, tedy jediný parametr, který je jinak libovolný. Klademe-li L = O neb Z, = it, disponováno již jednou proměnnou, ale bude též o jednu rovnici méně. V těchto případech jedná se o tak zvaná periodická řešení symmetrická, pro něž stává pak jediná rovnice podmínečná (II), která dává vazbu mezi e, a. Pro jednotlh á e, jež volíme za parametr, dává relace (II) příslušná a (n) — v našem případě po rozvoji dle 17 —prostřednictvím této veličiny. I je pochod následující: Pro volené e v Sundmanově oboru konvergence určíme dle (II), která má tvar
+L r/2 + M tj + AT = O,
+neznámou 17. Jakmile známo 77, obdržíme ihned hlavní charakteristika pohybů periodických /, g, n pomocí hořejších výrazů analytických jako funkce 17, e. Počet bude zcela rychlý a schematický (po způsobe efemeridy spořádaný), neboť snadno postřehneme, že se mění pro různá 17, c pouze funkce N. Jest pak schéma počtu
+- M      VMZ
+M = -
+ň+
+
+(p -}- 2) (4 p + 3)       p + ~ (P + 2) (4 /> + 3) + 2 /> + 3
+r            15 #> -
+L = -J- »
+= cc m n
+= pň — (p + 2)
+XXXIV ﻿
+(4 /> + 3)
+21
+_3_
+' + 2
+
+,
+Výsledné n vypočte se dvakráte jednak z přímého vzorce, jednak z relace (II) jako kontrola počtu dle vzorců:
+Specialisujme nyní tento obecný  případ  kommensurability ^ 7"" w
+rv
+na konkrétní příklad p = 3, tedy —.   Pokud   se týká periody pohybů,
+ó
+obnáší tato tři oběhy rušivé planety Jupitera, za kterouž dobu oběhne asteroida pětkráte kolem slunce. Jinými slovy střední denní pohyb je blízký 500"".
+Užijme nyní konstant (viz pag.  14.)
+pro střední denní pohyb Jupiterův n' = 299""1284 (Hill),
+pro hmotu......Jupiterovu m' — 1047-355-1  (Newcomb)
+k m'
+. .,— = n m a a Va
+i bude   n = 498""3094.
+Za jedničku času volen střední den sluneční, takže i saeculární rotace přímky apsid f = —— platí pro tuto jedničku.
+Cv l
+Rozvoje numerické čítány dvakráte, jednak direktně z rozvoje číselného § 2., jednak pomocí explicitních výrazů analytických § 3. Napřed určeno:
+XXXIV. ﻿
+3 » — 5 M' + 27+ 3 g — JL ň »? + ^ » fla + n 9 [— ^1° — y ^2° + 3 ^3° A* + 42 Af +       Af + 3 X,'      - 0.
+Na základě těchto rozvojů, jichž approximace tak zařízena, že involvuje všechny termy, které mají ještě vliv na třetí desetinné místo ve výrazech /, g, n — • pořízeny nyní tabule periodických řešení, pomocí zmíněného schematického pochodu: I bylo tu:
+Pro symmetrickou konjunkci L = O
+/ = 2""70G8 + 15""837C n + 97""5819 (-0* -f
+g = — 0""3744 — l ""4010 n — 63""3506 Í4) — 2859""131
+a podmínečná rovnice (II)
+N + Mrj + Lr}z=3 ň— 5 n' + 2 7""+ 3 g — 2214-9200 ij + 2802-990 if = O
+Pro symmetrickou opposici'% = n
+f = — 1""7255 — 10""4997 1? + 161""9736 (^ Y — 11562""475 (-0 g = _ 0""3745 — 1""4010 iy + 41""9991 f~) — 2773""220 í|-)
+a rovnice (II)
+3 ^""_ 5 n' 4- 2 /""+ 3 g — 2267-5948 1? + 2802-990 iy2 = O .
+Tabule (p. 33. ) udávají s argumentem e v oboru konvergence za prvé
+saeculární pohyb perihelu / = — j— • ,  dále perturbaci středního denního pohybu
+(l t
+v délce g, čtvrtá kolumna udává n, které čítáno pro kontrolu počtu dvakráte, jednak z rozvoje pro n, jednak po určení oněch /, g pomocí relace (II) ; konečně poslední sloupec dává argument 17.
+XXXIV. ﻿23
+Nutno ještě připomenouti něco o funkci n0 v předposledním sloupci tabulované, jejíž analytický význam v závěrečném paragrafu se po jiné stránce osvětluje. Veličina tato určena v tabulkách, se zanedbáním prvé potence r\. Nahlédneme bezprostředně, že je to až na multiplikativní konstantu ona veličina, kterou Schwarzschild nazývá N, a která kongruuje s Wilkensovou integrační konstantou n0.
+Poslednější vzal za parametr integrační konstantu n0, kterou bych zhruba nazval středním denním pohybem dráhy kruhové.
+Je totiž definována (pomocí našeho integrálu (I))
+(p + q) k V a — p k V a V\^~e* = qL + pG = qk V^
+k
+H°~ «*'*' platí tudíž
+v_      _____**______ _____ fca-1/.                   ,     .,     _,,
+•^*   —        /Ť    l     ;  x~>\ o   — ---------------------------. x              — — K O      Cín     2 — í7      Wn,
+l si    l         '       A\   ř_\3             /  ,                      ,     \f -i           o\ a               i           U                *           *""
+nn =
+p /.   p         \\
+— l 4 •L-----l )  ,
+\         J
+/,        9   .   ,    45    ,   . pro p = 3, q = 2, n0 = n (l — — ez + —r e9' + . . .) .
+Připomínáme ještě, že naše tabulovaná n, a, e neznamenají snad cskulační hodnoty těchto elementů v běžném slova smyslu, nýbrž dle svojí genese (srv. integraci 1. §) — střední průměrné hodnoty. Oskulacní hodnota elementů ideální planetky, která se pohybuje v nalezené rotující ellipse intermediérní, dána je pomocí n -f- g- Táž funkce je rovna Wilken-sovu AJ = n + g. Konečně, jak zmíněno, dává nQ střední denní pohyb planetky, který bychom obdrželi čítajíce z pozorování dráhu kruhovou pomocí obvyklých method (bez poruchů).
+Všimněme si, že tabulky ukazují — v protivě k typu -A—--—- — ,
+kterak střední denní pohyb v našich intermediérních drahách má úzký
+2      3
+obor.    Kdežto   nalezli   Schwarzschild   a Dziewulski  v  případech —, —
+l      2i
+obor asi + 50"", -±_ 30"" na obě strany kommensurability, máme v našem případě hodiiotu pro celý obor systému symmetricky periodických drah skoro konstantní.
+Též lze tabulkám odečísti, že periodické pohyby rozprostírají se pouze na jedné straně nullové excentricity. Opačná strana dává pro quadrát excentricity negativní hodnotu, což ihned zjistíme řešením na nulity stupeň v e2 zkrácené biquadratické rovnice:
+XXXIV. ﻿24
+3 n — 5 rí + 2/ + 3g = 0 pro e = O dává
+pro g = O, — O"" 7137 + 4-2904 — 2214-9200 v? + 2802-990 ^ = O
+n = 497"" 102; pro g = «, — O"" 7137 — 4-5745 — 2267-5948 1? + 2802-990 tf = O,
+;ř = 500"" 053.
+Pro n > resp. 497""102, 500""053 je obor instabilní, i není více možný pohyb periodický, nýbrž nastane, vyjdeme-li od příslušné kruhové dráhy,
+asymptotický pohyb do nekonečna.
+d & Pozorujme   ještě,   že  saeculární   rotace  přímky  apsid  / =—5 — - je
+ď u
+v případu symmetrické konjunkce direktní, v případu symmetrické oppo-sice retro grádní (srv. resumé 1. §).
+Obraťme se nyní k diskussi řešení asymmetricky periodických, které resultují pro hodnoty L různé od o, n z rovnic (II) (III). Ukážeme o nich, že alespoň v oboru konvergence neexistují, takže jich eventuelní evaluace je jediné možná pomocí pracných quadratur mechanických.
+Křivka asymmetrických periodických řešení zní totiž (srovnej stran terminologie práci Wilkensovu, Untersuchungen uber eine neue Klasse periodischer Losungen děs Problems der drei Kórper, Wien, Ak. Sitz.
+3 R 1905),   utvoříme-li výraz --r~ P° snadné úpravě
+takže
+13-095 — 82-029    ^     + 1441-9952   -^     cosL = Q,
+cos    =
+- 13-095 + 82-029   -~
+1441-995
+(T)
+to jest
+13-095 < 1524-024-^,
+e> 0-185.
+Kdežto Sundmanův konvergenční obor dosahuje jenom, jak zmíněno ku | e |< 0-185.
+K opravě Wilkensovy práce 1. c. p.  17 budiž podotčeno, že jeho rozvoj v případe Hecuby má zníti (jak mi sám potvrzuje}:
+XXXIV. ﻿25
+•*_!_
+'M
+= 0-07573M + 0-94019+ e2 + 0-83144 e cos g + 1-97531,, e3 cos3 L
++ 1-55197,, e2 cos21 + 2-24929 e cos L = 0.
+Tento nový znaménkový sled ukazuje též formální existenci kořene
+Jt
+i pro   L = —, což by mohlo vésti k jisté význačné quadraturní konfigu-
+2í
+raci tří těles jako počáteční. A stalo se vlastně diskussí této otázky, že jsem zmíněnou chybu odkryl. Nicméně vystupuje zde, jakož i v Hecuba podobném případu Hildy (1. c. Dziewulski) — proměnná e z oboru Cauchy-Sundmanova kruhu
+0-35 > 0-25
+0-20 ><M6.
+Lze ji tedy eventuelně dokázati pouze mechanickou quadraturou, ač existence je soudě podle mechanických quadratur Dziewulského pravděpodobnou. — Rovněž je následkem zmíněné znaménkové chyby falešná tabulka Wilkens p. 18 1. c.
+4. O poměrech stability v analytickém okolí kommensurability.
+Bychom vyšetřili stabilitu pohybů v okolí periodických drah, vyjděme z našeho kanonického systému s jedním stupněm volnosti
+x± _    d[F] d y1  '
+dt
+a uvažujme malé oscillace variací původních coordinat. I platí tu (srv. stran bližšího Poincaré, Méth. nouvelles I, p. 166):
+dt
+Tento systém lineárních differenciálních rovnic s konstantními koěf-ficienty integrujeme okamžitě známým způsobem
+x± = a ciht
+a(ih~M) — Nb = 0   | a L + b (i h + M) = O   ('
+XXXIV. ﻿26
+tedy
+h* = L N — M2,
+při čemž pro stručnost položeno
+(F0 +
+T                                 o
+*
+a G2
+í T*P 3 1 n p             l
+i bude M-         x     řř <Me toho, je-li LN^M*. tedy
+l imaginárně )
+&(F0 + R)   <*R ^/  VR y sG2       až;2 ""^v 3GaL/
+odtud nalezneme ihned kriterium stability, které pro symmetrická periodická řešení L = O, sr a pro p = q = l souhlasí- s oním, které S cti w ar z-s chil d udal v případu Hecuby. Vymizí totiž pravá strana naší nerovniny, která postupuje dle sinit,, obsahujíc tedy faktor sinL, a pohyby budou
+[stabilní periodické         \ji.r      •    . i-    -,    L -, ,         i
+resp. {..,., f              , . , , f dle toho,  jest-li  oba faktory vlevo mají
+Unstabilni asymptotické J
+„ [souhlasná l známem <       x ,      \. \ opačná     J
+Stačí derivovati jednou naši   podmínku  (II)   § 1.  dle G, bychom
+utvořili   . L,   > neboť táž dle svého vzniku representuje •    „    ; tím do-3 G-4                                                                                                           d G-
+staneme
+aG
+gg[F]         3 ff / /> y       92 jg        p__PR_ 3 G2        ~L^ VY/     ""TG2"""" ' ř/   9L3G '
+při čemž všimnouti si jest relace I. § 1. I ukáže se skutečně, že až na bezvýznamné positivní faktory
+(u Schwarzschilda 1. c. p. 394, tu jest p = q — 1),
+XXXIV. ﻿___ -r 2   L- ~
+/> / 3 G2      \p/9L9G
+i jedná se o znamení obou výrazů N = A, L = 2 C -f- B.
+Pro numerický počet je s výhodou přejíti k proměnným e, a.
+I nalezneme snadno pomocí relací § 3. (počátek), užijeme-li zároveň našeho dřívějšího označení pro saeculární pohyb perihelu a poruch středního denního pohybu v délce
+2R                 3R
+f =
+G      6          * L
+1                    xv2       '            -,  A/—         ~\        \    J>.     O     l     l     JÁ
+a         ekYa     °* \ P           p-
+nebo-li
+s užitím rovnice  (II)   § 1.
+= 3
+K témuž kriteriu dospějeme, čítáme-li s druhým kanonickým systémem II. § 1.
+Odvodíme z našeho vzorce též příslušně zobecněné schéma grafické, které S c h w ar z s c hil d 1. c. p. 400 udal. Navrhuje totiž veličinu L + G (resp. transformovanou jednoznačnou funkcí) nanésti jako abscissu v pravoúhlém coordinatovém systému a jako ordinátu libovolný jiný určující prvek periodických řešení. Takto zjednané křivky vykazují rozvětvení (ve smysle funkční theorie) v bodech, kde příslušná periodická řešení mění svůj charakter stability.
+k1 Všimněme si nejprv,  že veličina N — —.—,         „      (Schwarz-
+s c h i l d) souhlasí až na konstantu multiplikativní s veličinou  n0 (která
+je identická s integrační konstantou Wilkensovou 1. c. p. 2),  a kterou
+jsme svrchu tabulovali, i lze pak prostě tuto vzíti za abscissu.  Skutečné jest na základě našeho integrálu (I)   § 1.
+XXXIV. ﻿28
+q L + p G = k V a (q + p) — p Ví — c2)= q k Va,Q   (viz p. 23.)
+- * Vl ^- *-*- ?~3 **•
+/         7""        i         i    S~t\ 1.                      l
+(q L + p k)        rt V našem specielním případě /> = 3, # — 2 bude
+—
+K)
+-
+8  '
+Bychom  nahlédli  S c h w a r z s c h i l d o v o tvrzení, stačí uvážiti, že skutečně — • pokud N svého znamení nemění — visí charakter stability
+32 ip    i   R\ od znamení faktoru        v   °   ~    '
+3 G2
+Naše relace §  1.  (1) representuje grafickou křivku (B) (viz obr. 1.)
+c X,
+(B).
+Obr.   1.
+Každým bodem této křivky v rovině X, X2 prochází jedna pohybová křivka [F (#]_ #2)] = C (Bahnkurve) a má v témž bode bod rozvětvovací, v němž její tangenta stojí kolmo k ose Xz. v             I můžeme definovati
+^2           naši   křivku   B   jakožto
+geometrické místo roz-větvovacích bodů systému křivek pohybových [F] — C. Pro rozvětvovací bod pohybové křivky platí integrál (I.) § 1. x2=qL-{-pG = konst, proti tomu platí týž pro křivku B jen v onom místě, kde tangenty obou křivek splývají a zároveň kolmo k X%
+stojí, t. j. kde —
+nerovniny (A) mění se charakter stability.
+Příležitostně dovoluji si tuto malou opravu k práci Dziewul-s k i h o. Týž vyšetřuje v A. Nachr. 1919, t)ber die periodischen Bahněn vom Hildatypus (Bd. 183, Nr. 4373) obdobným způsobem jako Schwarz-
+s c h i l d podmínky stability v případu -^- ;   na konci   poznamenává   pro
+= 0.  V tomto bode má (B) bod rozvětvovací a dle
+XXXIV. ﻿L = O „následkem nedostatečné konvergence (VI. stupeň!), nemohou prý jeho křivky vykazovati rozvětvení"". Sám připomíná, že jeho faktor 2C -{-B/2 nemění znamení — i není dle horního důvodu, proč by křivky vůbec měly rozvětvení vykazovati.
+Ale i jinak bude snad jeho soudy o stabilitě do jisté míry modifikovati. Obdržel totiž při zobecnění Schwarzschildova kriteria falešnou formuli, s níž dále numericky počítá. Jeho výraz má dle horního zníti
+Pro úplnost srovnejme ještě Wilkensovo kriterium řešení asymmetricky periodických s naším. Třeba tu položiti v našich variačních rovnicích
+dřvj = etttTlt
+kde StTL jsou periodické funkce, které rozvineme jako dignitní řady dle potencí V [i (srovnej P o i n c a r é, Méthodes nouvelles I,  p. 218 et seq.).
+Klademe-li
+« = ttj V p -f- «2 tu -f-
+<>! = s^ + s^ \7+ rt = rx° + TV V/ÍT+
+s* (i +
+najdeme
+dosazením obdržíme, užijeme-li označení
+= ř*
+í
+2 TF1
+LJ J    __ r   o   \    „ r   2 _i    „2 C   4 ^-^      Ln   T ,u Ln   T ř1  ^11 -
+(při čemž všimneme si věty Wilkens v pojednání Untersuchungen uber eine neue Klasse periodischer Lósungen děs Problems der drei Kórper. Wien. Ab. Sitz. Ber. Bd. CXIV, Abt. Ha, Juli 1908, pag. 21), následující rovnice:
+XXXIV. ﻿30
+/l <? o                JT°
+__i_ — o   _ .L- — r o s rf*        '     dt       *   l
+-L- + «! v + «2 V - .4na s,o + zy 77.  «2 = o.
+Z první rovnice plyne S^ = konst, avšak tato konst. musí, an vystupuje vsaecularní části Tj° jako faktor, vymizeti 5^ = O, druhá rovnice dá 7\° = konst. Supponujeme, že «j nevymizí, a ukáže se skutečně, že tomu tak jest. Bude pak S^1 = konst, a aby Tj nemělo saeculární části, musí «! Tj° = Cu° Sjí, takže TV = &ows/. I shledáváme, an S^ = O, že platí
+d S2
+- T~ + ""i ^i1 = ^u2 ^i°-  ^bY ^y^° ^i2 periodickým, musí být splněna tt t
+druhá podmínka «, S^ = bn T-f, zoveme-li s Poincarém saeculární část r
+Bu • bn = f-\ Bu d t (T, perioda).
+o Obě naše podmínky
+— «1s/ + ůnr1° = o W -^77 = o
+obsahují dvě neznámé Sj1, Tj0, i musí
+a_                        ___
+""l    '      Ull    °11 -           ^2         9 L2   '
+Nalézáme tedy, že až na prvou potenci hmoty inclusive jsou řešení
+, . , ,   í   stabilní   l    .              .   v   227? —      /-ur-n        i      \
+symmetncka J .    ,  , .. , } dle toho,  ]e-li   ^ , ,   ^0   (Wilkens 1. c.). \ mstabilm |                          3 g2
+32rFp     /    2        2 Totéž plyne i z nerovniny (^4) §4. v případu, že        „2   a (
+mají stejné t. j. kladné znamení. Je tedy naše kriterium (^4) přesnější, což ostatně patrné, neboť zanedbává /i2, kdežto kriterium právě odvozené p V^» .
+Applikujme nyní tyto úvahy na náš konkrétní příklad. Nalezneme tu se zanedbáním první potence v) — pro symmetrická řešení — • následující rozvoje výrazů charakterisujících dle (A) stabilitu:
+Pro symmetrickou konjunkci L = 0:
+-_ = — 13-09532      -     — 1359-96576            — 78106-1102
+(2 C + B) k Va = 1491-91809 — 902-03231 XXXIV. ﻿31
+Pro symmetrickou opposici L = n\
+A -j-t—r = 13-09532   -L- ) —1524-0246 l -^) + 149894-3198
+(-|-)
+(2 C + B) k Va = 1550-2362 — 7541-2212 ř —)  .
+IV46Q
+480                                 490
+Obr. 2. Symmetrická konjunkce.
+500
+Vidíme ihned, že v Cauchy-Sundmanově oboru konvergence podržují naše výrazy stále totéž znamení. I jsou pak dráhy systému symmetrické konjunkce g = O instabilní, [sousedící s asymptotickými (—• +), a naproti tomu dráhy systému symmetrické opposice stabilní periodické (++), a to v celém oboru konvergence.
+Ježto oba výrazy N = A svého znamení nemění, lze též grafického kriteria užiti, a nalezneme potvrzení soudů analyticky odvozených (viz schéma křivek, které kresleny se zanedbáním prvé potence vj) (obr. 2. a 3.).
+Mimo to nalézá se — jak v § 3. nalezeno — instabilní obor asymptotických řešení na oné straně nullové excentricity, pro niž platí resp.
+XXXIV. ﻿g = O
+32
+n > 497""102, n > 500""053.
+Přechod tvoří v obou případech rotující kruhová (rušená) dráha (e = 0), která, sama je instabilní. 2e tato přechodní dráha je instabilní, což dle dané situace přímo patrno, nahlédneme i pomocí naší rovnice pro charakteristické exponenty.
+e-oi
+j__L
+e-ř(no)
+n-řlno
+49990
+80
+60
+rio-460
+500
+Obr. 3. Symmetrická opposice.
+Výrazy M, N, rovnice pro h2 obsahují totiž jako faktor quadrát excentricity. I vymizí h2 pro excentricitu míliovou, což pak vede k známému řešení
+y\
+— c
+— — L
+takže d y1 roste s časem do nekonečna.
+Pokud se konečně týká poměrů stability řešení asymme tričky periodických, nelze tuto — existuj í-li vůbec tato řešení — posud jinak zkoumati než prostřednictvím numerických quadratur.
+XXXIV. ﻿l
+= 0. Symmetrická konjunkce.
+'   ,       e	rotace přímky apsid	poruch středního denního pohybu	n     k a   - ""i	""o	n
+e = 0-01	+ 2""735	- 0""378	497"" 102	497 ""00	4- 0-001 G23
+0-02	+ 2""742	- 0""383	497""! 02	49G""G7	1619
+0-03	+ 2""755	- 0""39i	497""102	49G""11	
+0-04	+ 2""772	- 0""403	497""102	495""33	.
+0-05	+ 2""794	— 0""418	497""102	494""33	.
+0-OG	+ 2""822	- 0""43G	49 7 ""102	493""11	.
+0-07	+ 2 ""855	- 0""459	497""102	491""G7	1619
+0-08	+ 2 '-'894	— 0""48G	497 ""103	490""02	1617
+0-09	4- 2 ""939	- 0""517	497""105	488""15	1615
+0-10	4- 2""990T1-)	i    — 0""553	497"" 107	48G""07	1612
+0-11	4- 3 ""048	- 0""595	497""110	483""79	1G08
+0-12	4- 3""! 13	- 0""G42	497"" 114	481""31	1G03
+043	+ 3""185	- 0""G95	497""120	478""G3	1595
+044	+ 3""2G5	— 0""75GH-)	4<)7""127	475 ""75	158G
+0-15	4- 3 ""353	— 0""823	497""! 35	472""09	1573
+0-1 G	4- 3""449	— - 0""899	4í)7""147	4G9""44	1558
+047	+ 3""555	- 0""9841-)	497"" Kil	466""01	1539
+048	+ 3 ""070	— l""077	497 ""178	4G2""4L	1517
+	s	= TI. Symmetrická opposicc.			
+e	/ rotace přímky apsid	g ponith středního denního pohybu	n      /e a     3 2	»u	n
+0-01	- 1""G97	— 0""370	500""04í)	499""9G	— 0-002320
+0-02	— 1""G85	— 0""3G7	500""038	499""(>1	230(5
+0-03	— 1""GGG	— 0""3G2	500""020	499""03	2281
+0-04	— 1""G39	- 0""355	499""995	498""22	2249
+0-05	- 1""G05	— 0""34G	499""9G4	497""18	2208
+0-OG	- 1""5GG	— 0""33G	499""927	495""91	2159
+0-07	- 1""522	— 0""324	499""88G	494""43	2104
+0-08	- 1""475	— 0""311	499""842	492""72	2044
+0-09	- L""424	- 0""298	499""795	490""79	1982
+0-10	- 1""372	-0""284	499""747	488""GG	1918
+041	— ť'32211-)	i    ^0""270	499""G99	48G""32	1855
+142	-1""273	— 0""257	499 ""(553	483""77	1793
+043	— l ""229	-0'/24411-)	499""Gll	481 ""03	1737
+0-14	- r'1921-)	— 0""233	499 ""575	478""10	1G89
+0-15	- 1""1G3	- 0""224	499""54G	474""98	1G51
+04 G	i""i45	— 0""217	499 ""52 8	471""09	1G27
+0-17	- l""142	- 0""213	499""522	4G8""23	1G20
+048	-1""15	-0""2 1	499""5	4G4""GO	(1631)
+!-)   n-)  /nací,   xe výsledek je správný   (vlivem   rostoucí   excentricity)  pouze na dvě resp. jedno desetinné místo inclusive.
+XXXIV. ﻿*"

@@ -1,0 +1,123 @@
+"","x"
+"1"," ﻿ROČNÍK    XVIII.
+TRlDA II.
+ČÍSLO :?4.
+O jisté nekonečné grupě Cremonových transformací.
+Napsal
+Dr.   Boh.   Bydžovský.
+Předloženo   d n c 2;. června IQOQ.
+1.   Předložená práce zabývá se určením všech jednojednoznačných transformací rovinných, jimiž se daná kubická křivka převádí v samu sebe.   Je sice známo,   že existuje co1 transformací na obecné křivce kubické, jinrž se reprodukuje, a je také známa konstrukce, kterou se každá z těchto transformací provádí, avšak to jsou poznatky, které se omezují čistě na geometrii na křivce a nepraví nic o tom, zdali těmto jednojedno-značným  transformacím  na  křivce  odpovídají   jednojednoznačné  transformace celé roviny.
+Vzhledem k tomu je v dalším řešen především úkol nahoře vytknutý a pak druhý s ním souvisící: určiti všechny rovinné transformace jednojednoznačné, jež odpovídají určité transformaci na křivce.
+2.  Libovolná Cremonova transformace st. ?/-ho nechť má všeobecně «,  základních bodu f-ho   stupně v prvém,  podobně /3,  základních bodů /'-ho stupně v druhém systému. Zvolíme-li všechny základní body prvého systému  na  kubické křivce C,  převede se touto transformací v křivku stupně:
+m = 3 n — % — 2 «2 — 3 «3 — . . . — (•« — 1) a,^
+Avšak, jak známo
+]e tedy
+m = 3 « — 3 (n — 1) = 3.
+R o/.pravý: RoC.  XVIII. Tr.  II. Čís.  34
+XXXIV. ﻿Má-li tedy křivka kubická Cremonovou transformací býti převedena zase v křivku kubickou, je nutno a stačí, aby základní body jednoho systému ležely na této křivce. Pak ovšem základní body druhého systému leží na transformované křivce, jak ihned plyne z úvahy transformace inversní.
+Označíme v dalším souhrn hlavních bodu v prvém systému A, v druhém B.
+Především je jasno, že lze vždy systém A voliti na dané kubické křivce. To plyne z toho, že lze v Cremonově transformaci voliti jeden
+systém základních bodu zcela libovolně. Transformací T(""} n-\w stupně, jejíž systém A je volen na C, přejde tato křivka v kubickou křivku C', obsahující systém B. Obě křivky mají, jak známo, týž modul, jenž je vyjádřen invariantním dvojpoměrem tečen vedených z bodu na křivce.
+Avšak dvě kubické křivky o stejném modulu lze vždy navzájem transformovati lineárně; je-li K kollineace, která převádí C' v C, je T(ll) K Cremonova transformace, jež reprodukuje danou C. Z toho následuje:
+Existuje alespoň jedna Cremonova transformace T(n), jež reprodukuje danou křivku kubickou, a jejíž jeden systém základních bodů A je na této křivce zvolen zcela libovolné; druhv systém B ovšem také leží na C.
+Ježto dvě obecné křivky kubické o témže modulu lze navzájem transformovati 18 kollnieacemi, plyne z toho, že pro dané bodv A existuje alespoň 18 Cremonových transformací, jimiž se daná křivka reprodukuje.
+Transformace na křivce C jsou dvojího druhu: involutorní nebo neinvolutorní. První jsou vyjádřeny vztahem
+u' = — u +C,                                            (1)
+transformace druhého druhu vztahem
+u'=u + C,                                        (•!}
+jestliže u je proměnný parametr při vyjádření křivky elliptickými funkcemi. Je ihned patrno, že transformaci druhého druhu lze převésti v transformaci involutorní užitím transformace
+u' '--= — u,                                               (3)
+což, jak známo, odpovídá involutorné kollineaci. Jestliže tedy nahoře nalezená transformace jP nepřevádí C samu v sebe involutorné, lze ji složením s touto involutornou kollineaci přeměniti v transformaci téhož stupně, jež transformuje C involutorné (čímž není řečeno, že tato 7'('° je veskrze involutorní). Takovou transformaci označme / , a lze tedy vysloviti větu:
+K libovolně danému systému A na C přísluší alespoň jedna Cremonova transformace 1(><], jež tuto C reprodukuje involutorné.
+XXXIV. ﻿Avšak co platí o involuci (3), platí týmž právem o dalších osmi involutorných kollineacích, jimiž se C reprodukuje. Z toho plyne, že k dané Tw obdržíme alespoň devět I(n]'.
+•'}. V dalším se omezíme především na transformace 7('!>. Seřadíme body systému A dle stoupajících stupňů a budiž vi stupeň í-ho bodu,
+jeho parametr při vyjádření elliptickými funkcemi u(!>. Ježto 7(;i) reprodukuje C involutorně, znamená to, že čiva sobě odpovídající body na C leží na paprsku, jdoucím pevným bodem. Budiž t argument tohoto pevného bodu a zvolme libovolnou křivku sítě, jejíž basi tvoří A. Ta protne C mimo body .4 ještě ve třech bodech, jichž argumenty bucTtež .v, y, z. Ježto A a x, y, z tvoří úplný systém průseku křivky C a zvolené křivky v síti, jež je n-\\o stupně, platí kongruence
+S-,
+u     + x + A' + z = O                                  (4)
+v.                                                                                    v v
+Parametry bodu, jež odpovídají těmto třem průsekům, jsou
+x' = — t — .Y,
+y' == — t — V,
+Avšak tyto  transformované  body  leží  nutně   na   přímce,    jež   odpovídá v (řemenově transformaci křivce sítě, tak že platí
+x' +>'' + 3' = O           čili
+x + y -M +:U = 0.
+To spojeno s rovnicí (4) dává výsledek:
+S           (i)
+V, Uv                                                         (5)
+a)             '
+Je tedy bod t volbou systému A určen, ovšem ne jednoznačně, neboť kongruence (5) dává pro t devět hodnot. Zvolíme-li určitou z nich tlt je pak systém B úplně určen a to jednoznačně. Neboť základní body systému B odpovídají základním křivkám systému .4, které jsou úplně určeny jako Jacobián sítě určené body .4. Každá základní křivka systému A protne křivku C nutně v jediném bodu mimo body A, jemuž pak odpovídá příslušný základní bod v systému B. Konstrukce základních bodu B se tedy provede tak: z bodu /, se vedou paprsky k průsekům křivky C se základními křivkami systému .4, kde každý paprsek protne C po třetí, je příslušný základní bod systému B. Jsou-li v parametry hodu
+systému  B, platí přiro/.eně 1;iké
+!* ﻿/ 1 v  v    = '
+ť     V
+'M               nebo
+<ť>
+Ježto bodů t je k danému systému A devět, a víme z předchozího, že transformací /(li) je alespoň devět, můžeme vysloviti tento výsledek:
+Existuje devět Cremonových transformací I(""\ jež reprodukují danou C involutorně, a jichž jeden svsiém základních bodu je libovolně na C dán.
+Kombinujeme-li pak každou transformaci s involutornou kollineací (:>), vznikne dalších devět transformací neinvolutorných; vyslovíme tedy konečný výsledek:
+K danému systému základních bodu A na C existuje právě 18 Cre-monovvch transformací, jimiž se C reprodukuje; devíti z nich reprodukuje se involutorně. Těmto Cremonovým transformacím odpovídají na křivce transformace
+u' = ±u — f,                                            (7)
+kde t hoví kongruenci (5).
+Je-li naopak dána transformace na křivce
+u' = ±u +C,                                   (8)
+ex;stuje nekonečně mnoho Cremonových transformací každého stupně, v nichž je ona transformace na křivce obsažena. Stačí totiž voliti systém A tak, aby hověl kongruenci
+L(<)                  , ~
+„.«==-3 C                                        (<))
+(!)                   ""i
+a pak určiti příslušný systém B. Počet řešení kongruence (!)) je nekonečně velký mocnosti
+N = «! + «, + . . . + «(^1 — 1.                          (10)
+Ohceme-li konečně přehlédnouti souhrn všech Cremonových transformací, přihlédneme k tomu, že systém A je na C libovolný a vyslovíme větu:
+(irupa Cremonovvch transformací, jimiž se daná C reprodukuje, obsahuje oo ""' + ai + '''""""—l transformací n-ho stupně. Ježto tento exponent s rostoucím n roste do nekonečna, je tato grupa nekonečná.
+4. Applikujme předchozí obecné výsledky na některé případy zvláštní:
+a) n —- l. \ lom ])řípadě není základních  bodu, tak že (!>) dává
+XXXIV. ﻿:* C EEE 0. Tím dospíváme k známým 18 kollineacím kubické křivky.
+b)  n = '2. Zvolíme libovolně systém A. Budtež parametry těchto ;H bodu ult u.y, í/3, pak bod t je dán kongruencí
+u\ -f % + u-.i ^ $ ť
+Bod — t je tedy bod, v němž se dotýkají křivky ve druhém stupni kuželosečky, jež procházejí body ult u2, u?i. Bod t se z něho obdrží pro-nítnutím z inflexního bodu, jehož parametr je 0.
+Systém B najdeme snadno: základní čáry systému A jsou tři spoj-iiice základních bodů. Ty protnou křivku v bodech o parametrech
+Promítneme-li je z bodu t,  obdržíme jako třetí průseky   body   o para-netrech
+Je naopak otázka, zdali lze pro n = '2 vyhověti kongruenci (9) pro libovolnou konstantu C. Pokud 3 C ^ O, nemohou body ult w2, w3 ležeti na přímce; takové tři body pak mohou býti vždy základní body kva-Iratické transformace. Je-li však 3 C = O, je
+Avšak tři body na přímce nemohou býti základní body kvadratické
+transformace;  ale tu nastoupí místo transformací kvadratických právě
+•it-árné.   Postavení   kvadratických   transformací   uvnitř   celé   nekonečné
+tupý lze charakterisovati  tak:  kvadratická transformace je transformace
+lejniššiho stupně, jez obsahuje danou transformaci na křivce; v některých
+r: pádech se vsak zvrhne v lineárnou.
+Zároveň je patrno, že transformace
+obsaženy jon  v  kollineacíc-h,  nýbrž  také  v  Cremonových   trans-iiia.cícli stůjme vyššího než druhého.
+c) Transform;M-e /(í), jež jsou involutorní na. křivce C, nejsou nutně ""olutorní v celé rovině; k lomu je nezbytné splynutí obou systému A '. Problém Cremonových in. olucí nebyl, pokud je mi známo, dosud . Záleží v tom, aby se určilo, jakým podmínkám musí hověti systém bodů A, který má tvořiti systém základních bodu pro transformaci in-v""lnt<>ruou. Vyjma případ ;/ 'l nelze tento systém voliti zcela libovolně.
+XXXIV. ﻿(i
+Ježto nemůžeme tedy  užíti výsledků  obecných,  omezme se  na  pnp;ul n = 2.
+Pro n = 2 při daném t je na základe předchozího zřejmo, že musí
+M! = M2 + U3 — t,
+Sečtením vždy dvou těchto kongruencí obdržíme 2 uv = 2 w2 ^ 2 % ^E 2 /.
+Řešení mohou tedy býti rozmanitá.
+a) «! = w2 = w3 ^ č. Kvadratická transformace o splývajících základních bodech existuje: je to inverse, při níž střed inverse leží na inversní kuželosečce. Ježto tato kuželosečka je geom. místem dvojných bodů transformace, musí protíti křivku C ve dvojných bodech předložené involuce, t. j. v dotyčných bodech tečen z t vedených. Poněvadž tato kuželosečka také musí procházeti bodem /, musí to býti první poláni. bodu t. Inversí vzhledem k této kuželosečce a středu t pak C skutečnř přejde v samu sebe, jak plyne z harmonické vlastnosti první poláry bodu na kubické křivce.
+/})  Řešení, kde jedna z tří hodnot uv, u.2, w3 by byla = t,   ostatní různé:  kdyby na př.  u^^t a u2 = t -\-<Bi>u3 = t + caki což   také   tvoři systém řešení hořejších kongruencí — při čemž co. wk značí poloperiody -znamenalo by to zase inversi se středem inverse í. Kuželosečka inversní musí procházeti druhými dvěma základními body %, u3 a mimo to dvoj nými body, předložené involuce, jichž parametry jsou
+Avšak
+2
+t         t                    t                    t
+-ý->    — — + rai-    -- — + ^2'-----o
+t 2-----T + w-, + t -\-m, + t + o/.  = co, + eo2
+-'., -f o»i + o»A. ^ GJ; + m/!.
+Má-li těchto (i bodů ležeti na kuželosečce, musí
+», + «* = °
+Tu bud co. = &k ^ O, což je případ «), nebo co. ^ co7, ^> 0. Tu tedy w2 E= í/:v Inverse s dvěma splývajícími základními body má za 'nversní kuželosečku dvojici přímek, jež se protínají ve dvojnásobném základním bodu. I sestrojíme inversi se středem t a s kuželosečkou inversní, jež se skládá ze
+XXXIV. ﻿,lvoii s])ojriic dotyčných bodu tečen z i vedených. Tyto dvě spojnice pro-! iiou se dle známé věty na C v jednom z tří bodu s t konjugovaných (t. j. majících s ním týž tečnový bod), jenž je tedy základním bodem u2. Touto nversí C přejde v samu sebe, jak plyne z existence obou projektivných nvolucí paprskových, jimiž se z bodu t, u.2 promítají body křivky.
+y)  Řešení nejobecnější je na př.
+«, = t   + C0t,   U2 ^^ Í   + OÍ2,   'My =. t   -{- C3,.
+'vto body tvoří s bodem t čtveřinu dotyčných  bodu   tečen vedených ; jednoho bodu na C. Involutorná kvadratická transformace se základními 'ódy %, w2, u3 převádí C v samu sebe, jak zase plyne z obou vět o C, jichž :-me užili v případě fi).
+Ježto případ a) dává jednu, případ /if) tři, případ y) jednu trans-ormaci, plyne odtud, že existuje pět involutorných kvadratických trans-irmací v rovině, jež obsahují danou transformaci na C
+tí)   Konečně zodpovězme otázku   po  Cremonových   transformacích /"""", kterými se C reprodukuje identicky, t. j. bod za bodem.   Označme Mvolutornou kollineaci (3) 7; pak J(n] I je Cremonova transformace, jež produkuje C dle vztahu
+u' = — u.                                                (3)
+Xaopak, je-li I(n) nějaká taková transformace a složíme-li ji s i nvolucí I, bclržíme transformaci /('°.
+To však znamená, že obdržíme všechny transformace /   ,   jež iden-
+1 ky reprodukují C, když složíme s involucí / všechny transformace I(""] ,
+•ž reprodukují  C involutorně  dle  vztahu    (3).     Tyto  transformace  I(""]
+••na dno nalezneme dle (9), položíme-li C — O, jak plyne ze srovnání (8)
+(3).    Systém A pro tuto transformaci hoví tedy kongruenci
+Každý bod u(t]  representuje vždy vf  jiruseku C s křivkou  základní
+sítě. Ježto i)evných průseku takové křivky je 3 (n — 1), plyne z (11), že body 7<<|)   tvoří úplný průsek C s křivkou stupně (n — l)ho.
+Zvolme tedy systém A hovící  (11).   Systém B' pro danou /(""'   se Nalezne  (v. nahoře), když zbývající průseky Jbcobiánu  systému A pro-
+XXXIV. ﻿mít němé na C z inflexního bodu i, jehož parametr je 0. Složiti tuto transformaci s / znamená však znovu promítnouti z bodu i. Z toho plyne:
+Pro transformaci J(""} systém A musí hověti kongruenci (11), systém B pak je dán zbývajícími průseky Jacobiánu systému A s C.
+Transformace /('° nejnižšího stupně je st. třetího, ježto kvadratická /^ by musila dle (11) míti tři základní body v přímce, což je vyloučeno. Jinak je patrno, že pro dané n je transformací /* nekonečně mnolio mocnosti vyjádřené vzorcem (10)."

@@ -1,0 +1,1322 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+
+
+TŘÍDA II.
+
+
+ČÍSLO
+
+
+Doplněk nauce řadách Fourierových.
+
+
+Sdílí
+
+
+Předloženo dne 20. prosince 1899.
+
+
+Jedním nejznamenitějších výzkumů theorie funkcí reálné proměnné jest bez odporu věta Fourierem pronesená Lejeune-Dirichletem dokázaná, každou funkci f(x) reálné proměnné která intervallu ... jen konečný počet obratů (maxima minima) jest něm konečnou nanejvýš výjimkou konečného počtu míst spojitou, lze vyjádřiti řadou trigonometrickou
+
+
+f(x] -j- (tfj cos 2xn-\-bl sin it) -|- (az cos -\- sin ji) ~\- (a3 cos -(- sin JT) -)-...,
+
+
+součinitelé jsou dáni rovnicemi
+
+
+
+
+
+/(jf)cos2vjc-jrí/ár, ^v=: /""(JT) sin v#jr ú?;tr;
+
+
+
+
+
+řada podmínek uvedených konverguje celém intervallu mezích jeho, součet její bodech AT, kterých funkce f(x] spojitou, rovná f(x), bodech, kde f(x) přetržitou, jest součet řady roven výrazu
+
+
+konečně obou koncích jest hodnota řady stejná zní
+
+
+Rozpravy: Ročn. IX. Tř. II.
+
+
+VII. ﻿Dirichletovy podmínky byly postupem času pozměněny prospěch větší obecnosti věty; zejména vytčeno budiž, známých studií s-sonových**) vyplývá, při jakékoli funkci, schopné integrace, f(x}, řada Fourierova bude rovnati /'(V), je-li funkce tato příslušném místě spojitou je-li řada konvergentní tomto místě. Výsledky Poissonovy, uveřejněné šest roků před Dirichletovými, mohou tyto úplně nahraditi, pokud jde rozvoje jednotlivých funkcí specialných, jest dokonce applikace vety Poissonovy pohodlnější vzhledem nepatrnému počtu podmínek, jež vyskytují.
+
+
+Řadu Fourierovu považovali lze součet dvou řad
+
+
+(x} -^- -j- cos -f- a.2 cos -(- cos -J-
+
+
+tí> (x) sin -j- />2 sin -j- sin -|-
+
+
+ovšem pouze formálně; správné bude teprve dokázané konvergenci jejich. Aby tyto řady konvergovaly, nutno dostačitelno, aby konvergovaly řady Fourierovy pro pro —x; pak obdrží jako hodnota veličiny
+
+
+řada kosinusová (x\ jako hodnota veličiny
+
+
+řada sinusová i/; (V).
+
+
+Zavedou-li ještě záporné přípony součinitelů a,, <L,. sice
+
+
+<7_ <^_ /;,, Z>0 bude lze řadu Fourierovu psáti tvaru
+
+
+
+
+
+(x] lim (<?,. cos 2vxit -\- bt. sin IT\
+
+
+dosadíme-li sem
+
+
+cos obdržíme
+
+
+sin
+
+
+
+
+
+Literatura předmětu zároveň jakési resumé dosavadních výsledků obsažena jest cenné práci Brodénově »Ueber das Dirichleťsche Integrál* (Math. Ann. sv. 52).
+
+
+**) Journal 1'Ecole Polytechnique, 12, cahier 19, 404; 1823.
+
+
+VII. ﻿av cos .L,, sin •=. (av
+
+
+
+
+
+(a-.v b.-vt}e~2vx»>.
+
+
+tedy
+
+
+(1)
+
+
+při čemž znamenáno
+
+
+lim
+
+
+v^^-H
+
+
+Veličina tato však hodnotu
+
+
+
+
+
+(x] (cos sin TI)
+
+
+
+
+
+čili
+
+
+(2)
+
+
+
+
+
+
+
+
+Rovnice (1) (2) vespolek tvoří pomyslný tvar řady Fourierovy. Mnoho výrazů analysi vyskytujících podobu rovnice (1),
+
+
+
+
+
+lim Av,
+
+
+
+
+
+lze někdy psáti tvaru nekonečné řady
+
+
+okolnost však nenastane vždycky, jak nás tom poučuje limita
+
+
+lim
+
+
+«=« v=^„ -t-
+
+
+jejíž hodnota jest cot Jt, pro kterou příslušná řada
+
+
+jest divergentní.
+
+
+Naším úkolem jest vyšetřiti, jakých podmínek bude lze rovnici (1) Psáti tvaru
+
+
+VIL ﻿(3)
+
+
+/(*)=
+
+
+**•«'
+
+
+
+
+
+při čemž součinitelé jsou dáni vzorcem (2). Jinými slovy, b.ide nám vyšetřiti podmínku, které obě řady
+
+
+
+
+
+konvergují. Poněvadž veličiny c—v jsou sdruženy, sestávají řady členů komplexně sdružených, konvergují neb divergují současně, takže stačí studovati pouze řadu Tato sestává části reálné
+
+
+
+
+
+TjT cos -\- s\v\ it),
+
+
+která stálou jest polovicí řady Fourierovy, dále části pomyslné
+
+
+(4)
+
+
+(av sin cos
+
+
+(která pomyslnou částí řady ruší, která ukazuje, řada (3) jest útvar podstatě nový, neboť řada (4) jest útvar problému Fourierovu cizí, její konvergenci studie dosavadní nedávají žádné odpovědi. Jak úvah následujících vyplyne, dlužno priori připustiti možnost' případu, němž řada Fourierova konverguje, řada (4) nikoli; tím není vyloučeno, jak při nynějším stupni znalosti funkcí přirozeno, všech nám známých Fouri-erových řadách výraz (4) jest vždy též konvergentním; právě naopak bylo velikým pokrokem této partii theorie funkcí, kdyby skutečně podařilo sestrojiti funkci, pro niž řada (1) konvergovala řada (4) byla divergentní.
+
+
+Znamenajíce jako výše
+
+
+(2)
+
+
+utvořme součet
+
+
+(5)
+
+
+
+
+
+
+
+
+němž značí veličinu reálnou obsaženou mezi nulou jednotkou. hradíme-li něm integrálem (2), obdržíme nejprve
+
+
+VII. ﻿5.=
+
+
+odtud konečně
+
+
+(5*) (z) si""(2«
+
+
+
+
+
+cos -f- cos (ar
+
+
+sin x]n
+
+
+-as.
+
+
+(6)
+
+
+Tento výraz při označení
+
+
+
+
+
+SÍn sin
+
+
+
+
+
+
+
+
+er=J/M
+
+
+cos cos
+
+
+
+
+
+sin
+
+
+
+
+
+obdrží tvar
+
+
+tedy stačí uvažovati veličiny při nekonečně rostoucím zf. Substitucí -f- lze integrály (6) uvésti tvar
+
+
+l—ar
+
+
+COS Zit----COS
+
+
+sin
+
+
+dz.
+
+
+(7)
+
+
+Znamenejme nyní
+
+
+___
+
+
+nahraďme rovnicích (6a) funkci -f- výrazem /(*•) -f- (ar); zna-menáme-li pak
+
+
+(8)
+
+
+
+
+
+Sin
+
+
+cos .srn: cos dz, (z) -----------:-----------------dz.
+
+
+•*• r*«*^
+
+
+budou výsledky zníti
+
+
+
+
+
+-f-/(jr)
+
+
+
+
+
+sin
+
+
+dz,
+
+
+VII.
+
+
+COS COS
+
+
+sin
+
+
+
+
+
+Abychom integrály pravých stranách přicházející vyčíslili, appli-kujme úvahy předcházející zvláštní případ f(z)
+
+
+tom případě máme
+
+
+0), součet bude míti hodnotu jedna, takže rovnice (5b) obdržíme
+
+
+užijeme-li rovnic (6a), vyjde konečně
+
+
+l—X l—X
+
+
+sin
+
+
+---:--------dZ—\,
+
+
+sin
+
+
+cos žit cos
+
+
+sin
+
+
+pokud ovšem tvar 2n-\-l. Následkem těchto vzorců poslední naše výsledky obdrží tvar .(9) T=Tl+f(x), U^U,.
+
+
+Bude tedy naším úkolem vyšetřiti, zda existují limity lim 7^, lim ř/j
+
+
+
+
+
+omezíme případ, kdy funkce f(z} spojitá uvažovaném místě tomto bude též funkce
+
+
+spojitou místě bude (0) Dále užijeme okolnosti, funkce
+
+
+
+
+
+sin
+
+
+
+
+
+jest veličina uvnitř oboru integrálům L7l tvar:
+
+
+konečná spojitá, udělíme našim
+
+
+VII. ﻿dále
+
+
+(10b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A=\ (*)
+
+
+
+
+
+
+
+
+zTt
+
+
+-------------r (3) C"") cos
+
+
+
+
+
+-1- (*) (---------cot dz;
+
+
+
+
+
+při tomto tvaru vzorců všecka obtíž problému spočú prvých členech pravých stran. Poněvadž patrné
+
+
+(11*)
+
+
+podobně
+
+
+sin
+
+
+elf
+
+
+sin sin (s)-------------dz-\-\y(—s)-----—-----d
+
+
+*~>
+
+
+
+
+
+COS ----
+
+
+
+
+
+
+
+
+
+
+
+COS
+
+
+COS -----
+
+
+
+
+
+převeden problém stanovení krajních hodnot výrazů
+
+
+sin cos •,12) (2)-------:-------dst 2)--------------------d
+
+
+příslušných nekonečně rostoucím hodnotám it», při čemž jednu hodnot tedy jest Při tom netřeba, aby bylo lichým číslem celistvým, jak ihned ukáže, budeme proto voliti zcela obecné.
+
+
+
+
+
+Zaveďme integrálech (12) -^- místě obdržíme
+
+
+M0*\ COS^TT ---
+
+
+(12) X=}«'(w)—~dz> *=}'(*)-----5-----•""•
+
+
+VII. funkci (s~) chceme předpokládati, jest celém oboru konečnou; též schopna integrace, bylo předpokládáno mlčky, neb jinak integrály naše neexistovaly.
+
+
+Buď nyní celistvé číslo závislé tím způsobem, rozdíl zůstává kladným konečným pro nekonečně rostoucí
+
+
+
+
+
+pak budou patrně integrály
+
+
+
+
+
+sin
+
+
+<P( ^2> \<M
+
+
+
+
+
+cos
+
+
+
+
+
+absolutně menší než jistý stálý násobek horní meze veličiny (z) dělené ii-j tedy bude
+
+
+
+
+
+sin cos
+
+
+(a) lim lim
+
+
+Vte>/ \wJ
+
+
+•+4-
+
+
+Znamenejme dále literou celistvé kladné číslo konečné, nezávislé; pak budou integrály
+
+
+-+4-
+
+
+
+
+
+cos
+
+
+absolutně menší než jistá veličina stálá, násobena horní mezí veličiny
+
+
+
+
+
+Poněvadž ale intervallu jest menší než-----------, bude
+
+
+
+
+
+tato veličina -^- zároveň její mez tak malá, jak libo, je-li dosti veliké,
+
+
+následovně opět
+
+
+(b)
+
+
+
+
+
+siná-Tr
+
+
+)-------------d
+
+
+
+
+
+lim
+
+
+lim
+
+
+='-
+
+
+COS 5"" JT----l
+
+
+rovnic (a) (b) vychází, integrály (12) pro stejné meze mají jako integrály
+
+
+VTI ﻿COS JT----l
+
+
+
+
+
+•+-5-
+
+
+poněvadž druhého těchto integrálů dolní mez integrační není nulla,
+
+
+možno jej rozštěpiti dva
+
+
+(13a) Y.-Z—y,
+
+
+kde
+
+
+
+
+
+Uí^-x COS27t
+
+
+(13b)
+
+
+dále
+
+
+(13')
+
+
+
+
+
+
+
+
+
+
+
+Znamená-li nám jakoukoli kladnou konstantu, bude integrál lišiti následujícího
+
+
+(14)
+
+
+
+
+
+
+
+
+veličinu zároveň nekonečně malou; následkem toho bude dle (13a)
+
+
+
+
+
+(15) lim lim (Z— 5^).
+
+
+Integrál rozdělme nyní dle schématu
+
+
+n-lV+l
+
+
+
+
+
+
+
+
+
+
+
+obecném členu položme s-\-v tak obdržíme (z+v
+
+
+""~ \——/
+
+
+Jf, sin l)1'----------—
+
+
+*-* Z-\-
+
+
+v-'""
+
+
+kterýžto výsledek lze psáti
+
+
+VII. ﻿10
+
+
+(16"")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~~2<ll
+
+
+Udélíme-li nyní integrálu tvar
+
+
+
+
+
+sin
+
+
+
+
+
+<a?^,
+
+
+možno ním podobně naložiti jako integrálem čímž obdržíme
+
+
+(16b)
+
+
+
+
+
+sin
+
+
+
+
+
+
+
+
+7í;
+
+
+<3P
+
+
+ÍC'
+
+
+-4-
+
+
+
+
+
+—--—
+
+
+
+
+
+
+
+
+
+
+
+Předpokládá-li se, funkce jest schopna integrace vycházející
+
+
+
+
+
+místa existtije-li integrál
+
+
+bude každý čtyř výrazů, jež přicházejí závorkách pravé straně rovnic (16a) (16b), př.
+
+
+
+
+
+
+
+
+míti krajní hodnotu integrál
+
+
+pravé strany rovnic (16aj (16b) budou pro veliká velmi malé veličiny. Následovně bude
+
+
+lim lim Z—O,
+
+
+
+
+
+rovnice (15) vychází dle toho
+
+
+VII. ﻿11
+
+
+lim lii
+
+
+vrátíme-li integrálům (12)
+
+
+(17) lim lim (s) —_—
+
+
+
+
+
+Rovnice první může býti splněna též pro funkce, pro které integrál
+
+
+neexistuje, kdežto rovnice druhá, funkce týkající, existenci tohoto integrálu vyžaduje, tedy konvergenci jeho daleko silnější podmínky ukládá než konvergence integrálu prvního. rovnice (17) snadno nyní stanovíme krajní hodnoty veličin (lla) (llb), sice vyjde
+
+
+ZTf	ucuv
+
+
+	----
+
+
+
+
+
+(18a)	.. COS Z7C ---- ""\ ""	
+
+
+,-. Jí	
+
+
+
+
+
+	l—X
+
+
+ČÍŽ l/n/^i l/ni. '""i	d
+
+
+	Tt '	Z
+
+
+
+
+
+čili		
+
+
+.r	
+
+
+(18"")	f cos lim rt> 1*^1 ^^~"" /n	A
+
+
+	11II1 ----
+
+
+Poněvadž funkce (#) (s) schopná integrace, plyne resultátů našich,
+
+
+
+
+
+lim (s}
+
+
+7C»=
+
+
+sin
+
+
+lim (^r) (2) cos
+
+
+
+
+
+----
+
+
+následkem čehož rovnice (10a) (10b) poskytnou
+
+
+VIL ﻿12
+
+
+lim
+
+
+
+
+
+lim
+
+
+Zl>=
+
+
+V(S)TÍT *(*)(-^r-c<***)*«.
+
+
+čili redukci
+
+
+
+
+
+
+
+
+lim L7, (-) cot dz;
+
+
+
+
+
+rovnic (9j plyne dále, užije-li posledních výsledků,
+
+
+(19) lim T—f(x\
+
+
+
+
+
+
+
+
+(20) lim [f(z) —f(x}} cot
+
+
+
+
+
+
+
+
+rovnice (5b) máme nyní důsledek, krajní hodnota
+
+
+lim Stl
+
+
+
+
+
+existuje hodnotu
+
+
+je-li funkce f(z] místě iz: spojitou, ostatních místech aspoň konečnou integrace schopnou, existuje-li mimo integrál
+
+
+----
+
+
+Můžeme tudíž pronésti následující větu:
+
+
+Je-li funkce f(z] oboru (O... konečná schopná integrace, existují-li uvnitř tohoto oboru hodnoty nichž funkce spojitou tím způsobem, integrál
+
+
+f(8)—J(x)
+
+
+
+
+
+existuje, bude řada
+
+
+VII. ﻿13
+
+
+pomocí součinitelů
+
+
+í/w
+
+
+
+
+
+
+
+
+utvořená pro řečené hodnoty konvergentní bude míti součet veličinu f(x]. Její částka
+
+
+v=0
+
+
+pak hodnotu
+
+
+\f(2) /O)
+
+
+cot x}nd
+
+
+Věta bude platit též pro existují integrály
+
+
+neb pro x~l, je-li /(O)
+
+
+*)—/(Ol
+
+
+Vraťme nyní rovnicím (6a), předpokládajíce, funkce /(«) není spojitou místě nýbrž známé symboly Dirichletovy
+
+
+sice definují veličiny určité, ale vespolek různé, zabývejme toliko veličinou Pro tuto obdržíme rozkladem
+
+
+
+
+
+
+
+
+COS ---- COS
+
+
+
+
+
+COS ---- COS
+
+
+bude nám třeba užiti dvou funkcí
+
+
+jež obě jsou místě držíme tak
+
+
+/Vv ""\ ffi
+
+
+\«* v/>
+
+
+spojité mají něm hodnotu nulUi. Ob-VII. ﻿14
+
+
+
+
+
+cos cos sin
+
+
+
+
+
+
+
+
+COS ---- COS
+
+
+()P2 (Z)---------------:----------------------
+
+
+sin
+
+
+COS Tt----COS
+
+
+sin
+
+
+
+
+
+-/(*-
+
+
+cos cos sin
+
+
+dá.
+
+
+Blíží-li první dva integrály nekonečně rostoucím hodnotám konečným, neplatí dvou integrálech zbývajících; neboť identity
+
+
+COS COS
+
+
+sin
+
+
+plyne
+
+
+/,sin2v^?t
+
+
+
+
+
+cos cos
+
+
+
+
+
+srn
+
+
+
+
+
+cos
+
+
+tedy bude
+
+
+
+
+
+cos cos sin
+
+
+
+
+
+<-/(*
+
+
+cin Slil
+
+
+-f(x 0)]
+
+
+
+
+
+cos v~~i
+
+
+kterážto veličina rostoucím vzdaluje nekonečna určitým znamením. Proto zde existenci limity veličiny nemůže býti řeči, řada
+
+
+(3)
+
+
+
+
+
+
+
+
+
+
+
+bude divergentní všech místech, nichž /'(x) přetržitá, kdežto místech takových řada Fourierova konverguje majíc součet hodnotu
+
+
+VII. ﻿15
+
+
+
+
+
+
+
+
+Zdá tudíž nutným rozeznávati mezi řadou Fourierovou řadou (3). nazývati tuto poslední řadou Laurentovou, níž jest formálně tptožna, ačkoli tato přicházejíc toliko funkcí analytických komplexním oboru, spočívá jiných základech; výraz (3) bude řada Laurentova pro funkce reálné proměnné.
+
+
+Existuje-li řada Laurentova, existuje tím spíše řada Fourierova jest rovna.
+
+
+Výsledek výše pronesený může býti užitečný také analysi formalné, poskytuje prostředky sečítání řad pomocí integrálů.
+
+
+Úvahy předcházející dávají podnět následující poznámce.
+
+
+Je-li dána funkce f(x) nekonečnou řadou
+
+
+
+
+
+(21a) f(x~) (/*!• cos -|- sin TI),
+
+
+bude řada
+
+
+(21b) (x) (a,, sin cos
+
+
+
+
+
+udávati dvojnásobnou pomyslnou část' řady
+
+
+—/(ar)] cot
+
+
+
+
+
+tedy bude míti hodnotu
+
+
+(22*) (x)
+
+
+Klademe-li naopak
+
+
+obdržíme
+
+
+
+
+
+(x) (rf,/ cos -(- sin »),
+
+
+sin cos w),
+
+
+takže musí dle věty (22a) býti:
+
+
+
+
+
+(22») /(*)=+ [ff (-) cot dz-
+
+
+
+
+
+Rovnice (22á) (22h) platí současně vyjadřují zajímavou reciprocitu, již lze považovati integrální vlastnost funkcí značné míře libovolných.
+
+
+VII. ﻿*"

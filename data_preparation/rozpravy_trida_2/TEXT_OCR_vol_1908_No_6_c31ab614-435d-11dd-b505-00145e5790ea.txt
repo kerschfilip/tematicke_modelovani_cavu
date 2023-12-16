@@ -1,0 +1,507 @@
+"","x"
+"1"," ﻿ROČNÍK  XVII.
+TŘÍDA II.
+ČÍSLO 6.
+Příspěvky k vlastnostem počtu třid kvadratických forem záporného diskriminantu.
+Sdílí M.  Lcrch v Brně.
+Předloženo dne 7. února   1908.
+I.
+Nechť —z/ značí záporný diskriminant; hledejme součet
+^\   w*          E
+- S (=L) S <-)
+V součtu se vyskytnou pouze k nesoudělná s //, a ježto — <C l- nebude
+__  ^                                                                                                                                           /v
+žádné — =— celistvé. Proto lze užiti rovnice k
+(_!)* ^ = Sgn. R (x] = sgn. R* (x)
+(význam těchto symbolů vyložen v různých našich  publikacích arithme-tických, zejména v pracích níže citovaných), i bude
+
+(Ví) =
+
+J= o
+(ír) •
+Jest pak
+sgn
+4 V1 sin 2 / x n
+- 2j      -| ----
+.    l a J n sin —s—
+i=o
+Pro sudé ^/ tedy 5=0.
+Rozpravy: Ročník XVII.  Třída II. Číslo 6.
+O, pro 4 sudé
+/lín          .TU'
+cotg       , - , pro á liché.
+_   li
+VI. ﻿Předpokládejme nadále d liché, tedy
+o= O
+In
+
+Položme nyní ^n = A + 2 /; v, (K = l, 3, . . . 2 * — 1; t> = o, ± l, ± 2 , ...
+i vyjde při naznačených podmínkách summačních
+2                 !
+1
+± IV; 2V = oo
+cot         ;
+sčítání vůči v provede se na základě známého vzorce   j— - — — n cotg z n
+a bude pak
+cot§
+;i<2A
+Tento výraz lze převésti na jiný tvar našemu účelu přiměřenější; k tomu cíli uvažujme funkci
+z + l
+l
+jejíž póly jsou z = l, z = L a z = i],   kde
+g* + l = O,   ^ — \ = O   (n ^ 1), a vyjadřme, že součet její residuí = 1; obdržíme tak rovnici
+t±}-    šj ""ti   JLy^—x
+g ~f ' ^T^TT + ^ 2j ~r/~i íj* + i
+TTT-r+C-l.
+kde C značí residium na dvojnásobném pólu z = 1. Je tedy C stálým členem v rozvoji funkce
+ZJ .4. l        2*- l
+dle mocnin rozdílu c      l ;   položme 2=1 + u,
+^M (l 4------0— w + .. .) (2 + k u + . . .)
+2         #
+VI. ﻿tedy
+/-• _  fv
+Poněvadž
+Ují i
+- Vit i
+bude rovnice (0) zníti
+— l   V1         ^ #         d KTC       l   ""Víí         vn         k vx
+M   ~T~ Zj cotS <T* cotL -53- + T Zj   cot§ ""T '  tg ~^T  = [
+/v       *••                w /ť                   <a /c            Zl    ^™^                  Z/                    Z/
+J-l
+v = l
+Rovnice ta podává
+A;         l
+J-
+v= i
+a náš součet
+bude lze psáti 4 — i
+A — l
+l                           l                                V= \                 *= l
+Tu platí pak pro všecky záporné diskriminanty známé rovnice
+(1)
+J- l
+S (~
+vit
+dále pro veškery diskriminanty liché (a pro sudé základní)
+JV,V-z/\      ^^       4VQ .
+/O\            %        l   ______.    l  TfT            ----   ________      f   l            *    či   f     /      '___s1\ '     L     ---
+l á ]                         \          ÍL         /      O   -----~4~   ---- '-------~      V                ^        /               \          -:^/ J           ~
+^ '        LJ  \    R    /        d           z
+k = l
+Položíme pak k vůli stručnosti psaní
+k= l
+Zjednodušení výrazu (d) vyžaduje znalost sučtu
+J —i
+k= i
+k m n
+VI. ﻿Je-li m nesoudělno s z/, bude
+k= i
+k m n
+a v právo  lze součiny km nahraditi jejich zbytky dle modulu J, takže vyjde
+Je-li však největší společný dělitel čísel m a 4 větší jedné, přestává poslední úvaha a nutno vyšetřiti zda i pro ten případ platí rovnice (3), která by pak nabyla jednoduššího tvaru Bm = 0. Pišme tu k vůli pohodlí d m za. m, kde d jest největší společný dělitel čísel d m a <J, tedy 4, m nesoudělná čísla. Pak bude
+4—1
+k d mít
+m
+k m d n
+a poslední výraz podobně jako předešle možno  zjednodušiti substitucí km— h na
+Zde bude — ^/ = — dď součin dvou diskriminantů různého znamení ď', + d, a tedy
+Substitucí obdrží B' tvar
+* = l
+(v=l, 2, ... ď; p = Q,  l, ... rf—
+B' =
+r-l '                   /* = o
+Není-li íř úplným čtvercem,   je-li tedy   skutečným diskriminantem, a jsou-li při tom d a. ď čísla nesoudělná, bude lze psáti
+v + p ď n p' (mód íř), načež
+VI. ﻿a bude tedy B' = O a následkem toho též B = 0. Je-li z/ absolutní hodnota diskriminantu základního, t. j. je-li z/ součinem různých čísel kmenných, budou pro každý rozklad ^/ = dď čísla d, ď nesoudělná, a d nebude čtvercem; tedy rovnice (3) má obecnou plastnost pro diskriminanty hlavní. Je-li však z/=z/„ Q2 dělitelno čtvercem Q2, budou vždy existovati rozklady z/ = dď', kde buď d jest čtvercem aneb kde d a ď nejsou nesoudělná; rovnice (<p) pak není správnou pro tyto případy (d, ď} a tím také rovnice (3) pozbývá platnosti pro čísla m, která jsou násobky takových dělitelů d. Proto se omezíme na diskriminanty hlavní; pro takové jest H = K, načež v rovnici (d)
+S = — K +
+a — *
+v n V   ( — * \ í
+cotg j A (-f-) *
+kvit
+se vnitřní součet vyčíslí dle vzorce (3)
+
+a po vřadění této hodnoty přejde S na
+A —l
+S = - A' +
+tedy dle rovnice (1)
+(1-2 a) K L (~~)
+cotg
+vrc
+= 4 (l— 2f) K2— K.
+Tím dokázán vzorec*)
+j-i
+(4)
+ra
+- J hlavní diskriminant lichý, s = (—),K=—Cl (— J) l
+Poznamenejme ještě, že pro z/ —3 jest A — ^, kdežto pro J >• 3 bude T = 2, tedy A —C/ (—J) splývá s počtem' třid kvadratických forem kladných typu
+a x2 + b x y + c V2,
+*) Výz-am přicházejících tu symbolů nalezne čtenář v růz lých mých rozpravách o theo ii kvadratických forem, zejména v Mémoires présentés par cli verš savants a l' Academie děs Sciences de 1'Ins'itut de France, T. XXXIII., n° 2, neb v Acta matlicmatica, T. 29.
+Pokud se týče rovnice (2), bude odůvodnéna níže přímo.
+VI. ﻿příslušných   k  diskriminantu—^,   a  lze   též   K   charakterisovati  jako dvojnásobný počet rozkladů
+^/ = 4 ač — b2, (o < b < a < c)
+zvětšený o počet rozkladů   téhož   tvaru,   v nichž   bucT b = a, neb a = c.
+II.
+K rovnici (4) lze dospěti též přímo cestou elementarnou, užije-li se našeho vzorce *)   platného pro hlavní diskriminanty
+\~\             JV^ l / — d \      / a m \
+) J * = - S (nr-) L (-2-)
+získaného ovšem rovněž cestou analytickou. Tu budeme náš součet 5 psáti ve tvaru
+J —i
+a užijeme rovnice elementarné
+-n l- -g""- K
+která nám pro veličinu podá vyjádření
+k — l
+Ježto symbol (—r—J vymizí, jakmile /e, z/nejsou čísla nesoudělná,
+piicházejí v úvahu pouze hodnoty k s ^/ nesoudělné a pro takové součet celků
+se obdrží, odečte-li se od součtu zlomků
+k— i
+v ** -
+L ^k~
+*)   Bulletin   děs Sciences   mathématiqucs   (vydávaný p. Darboux),   2. série, sv.  XXT.  (1897).
+VI. ﻿součet zbytků
+takže (*)
+k— i
+a        k-l
+T =""~2~ '
+k —i
+1)  (k — 1)
+jak ostatně již Hermitem, Sternem a j. dávno uvedeno ve známost. Třeba ještě stanoviti součet
+k —
+ten dle významu funkce E nic jiného není než počet dvojic kladných celistvých čísel cc, /j hovících podmínkám
+J a             ^
+kteréž lze takto vyjádřiti
+„                                 _               xf
+Čísla ft zůstávají pod — , a každé takové fi lze spojiti s hodnotami u u
+v naznačených mezích; počet těchto a obnáší přesně
+poněvadž
+se nestane celistvým číslem pro naše hodnoty /3. Je tedy
+L __   J
+Následkem tohoto výsledku  a rovnice  (^)   obdrží rovnice  (i/>)  tvar
+//-i
+ví. ﻿2
+y
+Náš součet S bude ted
+J-1
+-4
+Dosadíme-li sem hodnoty
+A — l
+J — l
+--«• s
+a hodnotu plynoucí ze vzorce (5
+j —
+/      Q    \
+obdržíme  při stálém  významu  litery s = ( —J
+/s= i
+zde jest
+a tedy bude náš poslední výraz po redukci
+S = — K + 4 K . (l — 2 «) K , což jest právě rovnice (4).
+III.
+Při této příležitosti podám důkazy některých vzorců, které jsem v citovaných pracích toliko uvedl, a které mohou míti svou zajímavost. Nejprve ustanovím hodnotu součtu
+J -i A =
+předpokládaje, že — ^/ jest jakýkoli diskriminant záporný.
+VI. ﻿Vyčíslení provedeme na základě rozvoje
+JT tg x n = — V ,-i— , (A = -+- l, -+- 3, -4- 5, ... -4- AT; AT = oo ).
+'
+Tak obdržíme nejprve
+m                   '
+= l, 2, . . . ^ — l ;A^-± l, ±3, .. . +
+= oo
+Přetvoření tohoto součtu provedeme nyní pro lichá 4 a pro sudá
+zvlášť.
+1) Bučí ^ liché. Pak bude lze psáti místo (1)
+O < A < 4, K — ± l, ± 3, . . . ±
+Výraz 2 & + K 4 = k probíhá  lichá   čísla intervallu (— N 4 + 2 . . . . N J + 2 4 — 2), dále bude dle známých vlastností Legendreova symbolu
+tedy
+k J \k\ '
+a dle toho při k = + l, -±_ 3, ±5, ...
+2  i V /— A\ 2 z/
+členy příslušné hodnotám &=A a ^ = —^A jsou stejný, tedy
+Abychom mohli za A klásti veškera čísla celistvá kladná, vzpomeňme,
+ze
+pro lichá A, ale zmizí pro A sudá:
+
+/2\ V /— 4^/\
+S=-(JA (-»~)
+VI. ﻿K)
+Jest však
+
+= Cl   —
+a tedy
+a odtud po dosazení hodnoty
+C/(—42/) = (2 — *) -- Cl
+= (J)
+it      4 \
+(1—2 *) Cl
+(—J libovolný záporný diskriminant lichý; »={ — ])
+Dále nechť jest
+2) J = ±P, P   E l  (mód. 4).
+Tu bude pro lichá A
+/       U + 2AP/   U + 2AP/
+avšak
+
+\         /—4 \
+) =   (*+*)«*
+tedy při k = h + 2 A P
+ježto
+.
+* + í
+Bude tedy
+a výraz ^=A + 2AP = /ř + 2P + vz/ (v = O, + l, ± + 2, ...) probíhá veškera čísla celistvá mimo k — /* z/ + 2 P. Při odvození rovnice («) mohli jsme předpokládati h nesoudělno s P, a pak k zůstane od nully ruzno; vyjde tak
+VI. ﻿11
+odtud tedy
+(ft)
+A = 2 V z/ A', hit    4 V^
+V případě
+3)            J = ±P, P =        l (mód. 4)
+jest — - P diskriminantem a tedy
+tedy při substituci h + 2 Á P = k.
+takže zde vyjde
+Jj^1
+oba případy 2) a 3) se shrnují ve vzorec ha            4 V
+Cl (—4], (4 = ni 4 mód. 16)
+h= l
+V dalším případě
+4)    z/ = 8 P, kde P je liché, máme při k =h + 4 A P
+4-4AP
+kde
+± 1 =
+takže 2L P je diskriminant.
+Tu jest pak poslední výraz
+VI. ﻿12
+a tedy
+načež plyne z (1)
+n     '
+Současně vyšetříme případ J — 2' P,   P= + l   (mód.  4),  r > 3. Tu bude při k — A +
+\
+AP/'
+Platí-li hořejší znamení, bude
+—2
+k
+'— 2""\
+takže vyjde
+w
+Platí-li však dolejší znamení, bude
+tedy opět rovnice (y), takže tu
+oo
+ff_    vf—^ — -=- W n--L\  k ) \k\       L\
+Porovnáme-li se vzorcem (^//), kde      je liché, náš případ, kde       je
+S                                            8
+sudé, nacházíme obecný vzorec
+(*) Ví-r^^tg-^-^í-i)
+C/
+O mód. 8) .
+V těchto vzorcích ponechali jsme symbol r, jakkoli jest r = 2 ve všech případech vzorce (4).
+VI. ﻿l a
+IV.
+Též součty
+(^) -
+připouštějí jednoduché vyjádření, a sice budou výsledky obecnější, operu jeme-li přímo s řadou
+N       l n co té; xn —    V —;— - N = <x> ,
+O                     í._     v _J_ /ii
++ V
+nežli kdybychom užívali jiných vztahů platných pouze pro hlavní diskriminanty, jaké jsme vyložili ve výše citovaných rozpravách. Nejprve máme
+h • + d v--------
+s
+a klademe-li h + /l v = •— k, tedy
+vyjde
+(5)
+,   /— ^A n=     L   \TTTJ
+— ^A z/ sgn .
+Uvažujme  nejprve  případ s = 3,   r =1 neb 2,   předpokládajíce nedělitelné třemi:
+U í) ~ l;
+položme 3 ^ + zf r — m, i bude
+m
+)(:
+— 3
+H^)
+sgn 5
+sgn- m
+tedy
+aneb ježto
+VI ﻿u
+tedy
+Vzorec (5) bude tedy zníti
+kde w probíhá kladná i záporná čísla hovící podmínce
+m = zí r (mód. 3) . Lišíme-li čísla kladná m a záporná m — — n, máme
+m
+-L\ B JL = V
+\3/     3^/      Zj V
+m
+Ježto
+í— U i,C
+\m 4 r/       \
+n  /   n
+
+(m     ' w >
+\     =           = —
+můžeme náš výsledek vyjádřiti jednodušeji takto
+.^B-SL- y í-
+\9J      *4      &\  k
+A = I
+a odtud
+k '
+?_^=   yp^\ /-3\ l    ,
+J    A\ -k / \ k / k '
+Ježto
+nacházíme
+B =-
+čili
+(—//libovolný záporný diskriminant nedělitelný devíti; r=lnebf=2). Ukážeme ihned, že tento vzorec platí i pro J dělitelné třemi.
+VI. ﻿Je-li  ^ dělitelno  třemi,   bude ^/=3D, kde D jest  kladný  diskriminant, rovnice (5) zní
+„~   V
+n~L
+tedy
+k = — oč
+n
+n
+D\    i
+n + Dr) n + ~D r
+n
+Předpokládejme D r = l (mód. 3), a položme
+n / n — D r D
+n — D
+\    l
+r) n — Dr '
+takže
+n + D r — m  , n — D r— m""  , je-li n = l (mód. 3) n -f- D r = m' , n — D r = m'"" , je-li n = 2 (mód. 3),
+m = 2 , m"" = O , m' = O , m'"" = l (mód. 3),
+a při tom m > D r , m' > D r , m"" > — D r , m'"" > — D r ; tím se naše dvě řady pro S rozpadnou na
+m     m
+m      m
+Záporné hodnoty m""' lze psáti — m , m = 2 (mód. 3) , a tedy se příslušné členy řady čtvrté sloučí s řadou první, podobně záporné hodnoty m"" jsou tvaru — m' a příslušné členy řady třetí lze vložiti do řady druhé, takže se budou řady druhá a třetí po této modifikaci rušiti, i zbude
+D\   l       v1 / D \   l   Cm ' 1l ^ O >
+„,      m ' ™        n^n '   n   vw — 2 , n = l mód. 3
+a tento aggregát lze psáti jednoduše takto
+Kdyby bylo D r = — l   (m-;d.  3) , byly by naše  čtyři řady psány s příponami
+m = O , m' = l , m"" = 2 , m'"" = O (mód. 3) , a zbylo by
+D                                                             ""
+,
+m / m     — :     m /  m
+jako předešle, takže v obou případech
+S
+-f C
+L\
+-    -A'   --
+k      k            A ' v T '
+ví. ﻿16
+a odtud čili
+B =
+2 V
+A-l
+zde pravá strana splývá s výrazem (0). uváží-li se, že tu í — - — j = O,
+r=2.   Je tedy tento případ obsažen ve vzorci (6).
+Kdyby   konečně  D = O  (mód.   3),  t.  j.   kdyby  /l bylo  násobkem devíti, měli bychom
+a tedy
+a-
+takže zde
+B =
+(— /í]
+=l neb r = 2
+Přistupme k případu s = 4, tedy y — l neb r — 3.   Je-li bude dle (5)
+—z/ \     sgn . fe
+liché,
+/ —z/ \
+\    *    /
+a w— 4^ + ^/ y bude liché; jest pak
+(-
+tedy ježto
+Ťr
+sgn
+/ — 4\/4z/\
+=   —; — ) l - ) -\  4 r / \   m   J
+/4^\  l     ,                  ,    .v
+( -- ) — , (m=r4 mód. 4).
+\ m / m
+— GC
+Lišíce kladná w od záporných, máme
+— ^--r— ^ ví— u
+i»/ifl      \r J J   LJ \ n J n
+a. odtud plyne
+... B -
+VI. ﻿<u *C
+<*>    ^             ""M           ^     L
+\                ^
+—f.        r—           f—'
+l   ,""       2
+W
+i
+
+«
+.
+S      -C
++
+W
+-
+a,
+
+X
+w    v~.      O     U V^        ^í     =:    íl.   C- ﻿18 Kdyby bylo J=±P, P _  :> (mód. 4), měli bychom
+'-> n ~vf4 ^i (~iL\ sgn-k
+k J V    /o    J   k + P i' '
+tedv
+z čehož vychází
+/—J>\               /—^
+l —r—) s°11 • /i> = l -;,— J s""!l • ""'• \    k   /                    \ 2 ni /
+2 w / l 2
+m \     \PJ M\   n
+1              «= i
+n      \ P
+(— P)
+\'P
+a vzhledem k tomu, že-------= 2 \     / ,
+\   P
+2 \ 4 \ -J
+T
+Zde
+tedv
+V předešlém případě bylo z/ = 4 P, P ^ l  (mód.  4),  B — O; oba případy lze shrnouti ve vzorec s])olecnv
+l
+B = —
+t- j-
+J
+(^/=-tP, P liché; r— l neb r=3).
+Bud dále z/= 8 P, P= l  (mód. 4),   s == 4,   r = l  neb r =3; rovnice (5) poskytne
+VI. ﻿l!)
+B
+sgu*
+k - -x
+l
+A' + 2;-P   ' a substitucí k + '2 r P = m obdržíme odtud vzhledem k identitám
+i)
+.<- 1)1 —(-i)' .
+z nichž vychází
+vsledek :
+Dále jest pro J=XP,  P — — l   (mód. 4)
+*   v
+j = L
+a klade-li se k + 2 P r = >n,
+v r^L)J-=0.
+LA    \   m   / m
+tedy
+-P\(—1)         sgn. m
+m
+je tedy v obou případech B = O, t. j.
+j -1 (10)
+A     i Konečně bud
+(nr)cotg(J~T)*= °-(J=sp'pliché)
+J=2*P ,P liché,
+VI.
+•2* ﻿pak bude
+= '
+sgn . k
+Položíme k + 2""-- r P= m ; v případě hořejších znamení máme pak
+tedy
+sg„./f=         '""-
+m
+m         m     m
+m
+tedy
+V případě znamení dolejších pak rovně/
+a tedy
+B n = v obou případech je tudíž
+t. j.
+/ ___
+S (    /.~ } C()tS
+m
+R='l \
+= 0 mód.  HJ)
+Poznamenejme ještě, aby odstraněno byl*^ \-eškeré nedorozumění, že symbolem Cl ( — /!} je tu veskrze značen počet forem primitivních, takže se tu formy dělitelné číslem nějakým jednotku převyšujícím nečítají. Tak na př. jest Cl ( — 1(5) = l, poněvadž k diskriminantu --10 přísluší pouze jedna třída primitivní (l, O, 4), kdežto druhá třída ('l, O, 2) není více primitivní."

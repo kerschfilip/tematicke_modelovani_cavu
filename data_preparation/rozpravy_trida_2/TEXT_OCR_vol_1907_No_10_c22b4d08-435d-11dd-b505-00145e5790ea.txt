@@ -1,0 +1,232 @@
+"","x"
+"1"," ﻿ROČNÍK XVI.
+TŘÍDA II.
+ČÍSLO 10.
+Příspěvek k výpočtu parabolické dráhy komet ze tří posic
+Napsal  Gustav Gruss.
+Předloze no dne 19. dubna  1907.
+Pro úpravu pozorování máme daná data:
+Pozorovací čas         Délka      šířka         Délka      LOR průvodiče
+A fí
+Země
+L,            logR,
+L2            log R2
+L3            log R3
+Pro délky Slunce dostaneme:   180° + L1=®1,  180°+L0=®2,
+180°+L3=®3.
+Označili se distance Komety od Země pro první a třetí čas pozorovací ^/1; a^3; poznamená] í-li se dále průvodiče Komety pro první, druhou a třetí dobu pozorování rlt r2, r3 a
+dostaneme
+cos cos
+2, cos ^ = cos /3t cos 2, cos ^ = cos 03 cos
+Zaveďme:
+kdež
+_   Rs sin
+cos
+A3).
+ig /32 sin (A, — ®2) — tg fa sin (A2 — @2)
+— @   cos
+sin (K.2 — ®2) — tg fa sin (A, — ®2)
+a položme:
+zjednáme si pak pro čtverec tětivy K2 mezi prvním a třetím místem Komety vztah:
+X ﻿kdež
+9?2 jest rádius vektor pro dobu ~^-^-3
+ů
+Máme pak:
+r* = Rl* — 2 Rl Jv cos & cos (®l — Ax) + J^
+r* = R^ - 2 7?3 Ji M cos /J3 cos (®3 — A3) + J^ M*
+X2 = RT* + 7?2 — 2 # # cos ® — et) +
+3
++ z/! [2 M #t cos /33 cos (©j — A3) +2 7?3 cos /3: cos       —
+- 2 ^! cos /Í! cos (®! — AJ — 2 /?3 M cos |33 cos (®;} -f ^2 l l + M2 — 2 M (SÍM /3t sř'w /33 + cos /3X cos /S3 cos (At —
+Dostaneme takto:
+Pro   mezidoby  několika   dnů   při   vypočtu   počáteční   dráhy a neliší-ly se mezidoby značně (r^^^r3), může se položiti:
+—At) +Ra M cos fa cos (Qt— A3)   J, +
+čili
+9ÍÍ22 - ^ + 5 ^ + C z/!2
+K odvození geocentrických distancí ^ a ^/3 = M ^ máme rovnice: 9Í22 - ^ + B JL + C ^2      a)
+K rychlému postupu odvoďme si z rovnice a) minimální hodnotí; pro 9í2> již do rovnice b) dosadíce vypočteme hodnotu pro ^1( která dc rovnice ti) dosazená dá exaktnější hodnotu pro 9Í2,
+K illustraci postupu byl volen příklad v. Oppolzerův — výpočet elementů komety 1881 III. z tří pozorování vykonaných na hvězdárm v Pulkově. (Třaité de la Détermination děs Orbites děs Comětes et de^ Planětes. Par le Chevalier Theodore ďOppolzer. Edition fran9aise. Parb 1886 p. 319 et seq.)
+Byly odvozeny rovnice a) a b)  takto:
+$22 = 1-03257 — 1-77800 J1 + 1-32643 J*
+J- = 0-96716 — 1-54027 ^x +20-1812 J* aí2
+Minimální hodnotu pro 9Í2 dostaneme z rovnice prvé: (9Í2)min.= = 0-66087. Toto 9t2 dosazeno do rovnice druhé dává pro ^ kvadratickou rovnici:
+2-0591 =— 1-54027 ^ + 20-1812 Jf,
+X. ﻿iež psána ve formě Olbersově:1)
+F'=— G dává:
+kdež
+2 H \   F'
+-j- (pro záporné G jest úhel tí> tupý).
+Pro náš případ dostaneme ty = 96° 4.8' 50"", ^ = 0-36050, což dosazeno
+do rovnice první dá exaktnější hodnotu pro 9í2 = 0-75101, a dále lepší
+í = 0'33056 a tak po několika  málo  opakováních  dostaneme  správnou
+hodnotu ^.= 0-3244,
+=0-51108. z/   se odvodí ze vztahu J=
+log Ař=0'11609 a čtverec tětivy K2 se dostane z rovnice:
+= 0-7716
+Th. Lohnstein v pojednání: , .Uber die Ermittelung der geocent-rischen Distanzen eines Cometen."" Astromonische Nachrichten. Bd 119 p. 99 et seq. odvozuje dolení a hoření mez pro geocentrickou distanci a na základě znalosti obou mezí pro 4l zjednává si přibližné hodnoty pro rt a rs.
+Jakmile jsou odvozeny veličiny helová distance komety q z relace:
+K, dostane se snadno peri-
+kdež
+q lze odvoditi také ze vztahu:
+bude
+Poněvadž čtverec tětivy spojující první a třetí místo komety jest: cos (va — v^ = -^—^—--------
+('-M.2
+SÍM
+M ..Wilhclin Olbors Abhandlung uber die leichteste und bcquemste Methode dic Bahn eincs Cometen zu berechnen. Dritte Ausgabe. Leipzig 1864"" p. 68 a 69. —
+2) Vide: Základové theoretické astronomie. Napsal G. Gruss. Díl první pag. 55. vzorec 7.a str. 56.
+X. ﻿Označí-li se
+= /,
+budou:
+.4
+Vy      l      V   \2   ___    Zi'2
+I1+,T-        .    Wos*/ = *(*-
+4^1^
+SÍW/ =
+1(2 __ (v   _
+j. \.          Ví
+- (yj — y3)2       ""l /  (<y — yt)
+4—      =y      ^-
+v
+A
+l tf =
+t 4- y3 + A'
+Srovnáme-li výraz pro sin / s relací ^4J, dostaneme:
+V^ra sinf
+V7
+aneb
+.B)
+Dosadí-lí se tu:
+2 cos
+=
+COS f
++ ^3 + A) + l (ri + ^3 — i +^3 + ^) (^i + r3 — A)
+a odmocní-li se, dostane se
+— A
+H
+Pro
+odvodíme snadno
+platí pro v3 — z^ < 180°, d o l e n í pro va — Ví > 180°.
+r =
+dr =
+l -\- cos v r2 sin v dv
+a dosadíme-li za sin v hodnotu odvozenou z rovnice paraboly
+zjednáme si
+inv = -^-Ýžr-r
+rdv        dr
+Spojímc-li  tuto  relaci s relací odvozenou   pomocí plošné rychlosti:
+x. ﻿obdržíme
+r dr
+Integrací v mezích v levo TI a ra, v právo ti a í» máme
+r dr
+Poněvadž
+r dr
+'3
+-/E
+}(2r —
+— p
+(r
+bude
+3k(t3 — ti) = V^ r3 — Volí-li se tu
+zjedná se z I.
+t
+2 '
+kdež T značí dobu průchodu komety perihelem.
+Majíce nyní stanoveny parametr p — Iq a průvodiče ri, r3 dostaneme z rovnice paraboly:
+cos
+Ví       -\   q         v3      -iq
+ir = V   - cos-7r = V    ;
+2        V rl              2        y r3
+.   Ví      \j2ri-p       .   v3      \/2r3 — p
+""t^""-\~^'sm^:-}l^^T'
+<«Ý-y 5   . %-f =
+1)  Vide též M. Loewy: Détermination děs orbites dcs Comětes p. 3 dole.
+2)  Místo toho tvaru udává se obyčejně:
+X. ﻿Pro dvojnásobný sektor obdržíme:
+k(t
+_     r — M V/> = \
+cos  ) sn
+Dosadíce tu za Vyi fa   sin f dle rovnice J5J  výraz
+zjednáme si snadno 3
+VÍ*
++ra — 2 Vft r3 cos f
+II.
+Poněvadž
+2         cos / = _+   r
+2 }!ř^sinf= ^2 g (^r může se poslední výraz též psáti:
+-3^^) = <n + r, ± j VO^T y2                              2
+Obdobně zjednáme si vzorce:
+í  (vzorec C) řl^K) (vzorec D)
+cos v —
+• , sin v = -
+,,--    t         }p(2r — p)
+-}p, ttv--Jl±—L-.
+Označíme-li odvodíme
+rr\ c _
+cos-
+l - ^g i F . <g v
+z čehož plyne
+Integrací   vzorce položíme-li:
+dostane se snadno
+Dosadí-li se zde
+v   mezích   v.t a  i/,  v  levo,   Í2  a ^  v právo,
+x   , i — q) H
+=n
+3
+l) Vide  J. H.   Lambert.   Insigniorcs  Cometarum  proprictatcs.   Dcntscli  vou J. Bauschinger p.  14.
+X. ﻿dostane se k určení pru vodiče rz kubická rovnice:
+Ze  vzorce   E)   můžeme  odvoditi   různé  vzorce,   jež  konají  dobré služby při výpočtu dráhy začáteční;
+= 8-2355814; ^      = r-
+Majíce  určeny ^ a -<43)   obdržím?   průvodiče,   rlt   r3  heliocentrické délky /,, /3 a šířky o,, 63 z rovnic:
+ri cos bl cos (/i — Lj = z/! cos /3i cos (At —• Lt) -\- Rl ^i cos 6, sin (li — Lt) = <^t cos /?! sw (A! — Lj)
+3 cos ba cos (13 — L3) = z/3 cos /33 cos (A3 — L3) 3 cos b3 sin (/3 — L3) = z/3 cos ^3 sm (A3 — L3) * sin b3                      = J3 sin /33
+R3
+Načež se dostanou  elementy  polohy  dráhy:   sklon i a délka   uzlu z relací:
+tg i sin (/! — &) = tgbi                                |
+tg i cos (/>-&) ='_**>.- tgbicosfr-lj    ! ....... 3)
+SÍW (Í3 — /j)
+Pro /, — /!> O, bude i < 90""; pro l» — ll< O, bude ť > 90"". Argumenty šířky Wi a w3 zjednají se z rovnic:
+tg Ul   ~-
+- ; -         --- ; - ; - T-.
+cos i            sin i cos (/! — w)
+Íg(l3—íl) _              tgb3 _   (
+— íl)     l
+,n
+cos
+ÍW í COS (/3
+Je-li šířka kladná, leží u mezi 0° a 180°; je-li záporná, leží u mezi 180° a 360°.
+Poněvadž již známe pravé anomálie?; a argumenty šířky u, dostaneme z relací:
+w, — Vi = w, u3 — i>3=:ZL>, tedy také u3 — uk — v3 — vla.v3 = vL-\-(u3 — uj . . . 5) Délka perihelu n plyne pak z rovnice:
+« = w + íl
+0)
+Je-li určeno f=±(va — Ví) = ^ (ua — uj, dostanou se pravé anomálie v a distance perihelova q také z rovnic:
+V?
+l) Obyčejně se uvádí až na třetí mocniny malých mezidob přesné:
+».r1«+..V-»,r,»+^^
+~í
+X. ﻿l                          i
+= -7= cotg \(u3 — Wi)-----— cosec l (u3 —
+Fi                            V'»
+COST      l
+Ví          V'-
+.   va
+smy    i                        i
+—r=— = -.— COtg L (W3 — MI) — -j= C0SČC i
+v?    V'*                                      V*
+W,)
+Prostřednímu místu platícímu pro čas t, se vyhovuje takto :
+Ze známé Barkerovy tabulky vyjme se prostřední anomálie
+pravá — v.2 — pomocí argumentu M2 =-----z—^
+načež plyne prostřední průvodič — r2 — z relace
+1
+, log C = 9-9001277,
+argument šířky — u2 — pro prostřední čas t» se dostane z
+Načež soustava sledujících   rovnic  dá   prostřední   distanci ^/.,, prostřední délku A2 a prostřední šířku fa.
+42 cos ft2 cos (A2 — íž) = r2 cos u2 — R2 cos (L2 — íl)
+42 cos fa sin (A2 — &) = r2 sin u2 cos i — R2 sin (L.2-— íi)
+^J >   SvrL 1*2                                      ——•   /2   Svrv   VV%   Svrť   v.
+Takto  vypočtené  souřadnice  A2 a /32 porovnány  s  pozorovanými (A2)ř) (fa)p dají rozdíly: (A2)ř—A2 = ^A2 a (fa)p — fa = 4fa jež mohou dosáhnouti značnějších obnosů. Vypočtené souřadnice musí vyhovovati rovnici:
+*g (top
+SlrŤl   ^Ag           •*-*%)
+Při konstantní hodnotě /2 dostaneme takto relaci: J P* = cos (A2 — L2) cos2 fa tg J2. J A2.
+J) Prostřední místo komety musí ležeti na ne j větší m kruhu spojujícím místo komety s místem Zemč, poloha tohoto kruhu k ekliptice jest stanovena sklonem /2. Místo souřadnic pro střední čas A2, /?2 používá se tu veličiny /2) čímž získáme si pro parabolu jen pět dat pozorovacích.
+X."

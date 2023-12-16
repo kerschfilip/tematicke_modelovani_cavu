@@ -1,0 +1,430 @@
+"","x"
+"1"," ﻿ROČNÍK V.
+TŘÍDA II.
+ČÍSLO 23.
+Úvahy z počtu integrálního.
+Sdílí M. Lerch. Předloženo dne 24. dubna 1896.
+Zavedemcli do dvojnásobného integrálu
+OO   00
+(
+O
+proměnné «, v pomocí substituce x* -\- y* = v ,  2xy = u,   obdržíme vzorec
+OO            OO
+Volímeli zde /(L , j/) = e~a* »/'-* , kde a i í má reálnou čásť kladnou, vznikne
+00   00                                                                          00                    00
+r r   „&+,*)   _,   _,                ! f ,~i    f -„.    ^^
+j j, •         'r '^^-^J""'    *}' "" v^^'
+Levá strana splývá se čtvercem integrálu
+00
+f
+J    Xxs""'íix>
+ehož hodnota zní
+2          *
+„-*
+tedy nacházíme vzorec
+OO
+12)
+c. ^ f ^""^
+\ »•- * tf* \           -----=
+J                J  y?;«—««
+Rozpravy   RoCn. V. Tř. II.
+XXIII. ﻿Chceme ukázati, že rovnice tato platí také v případě ryze pomyslného a
+l jeli reálná čásť s obsažena v mezích O a -g-. Položme za tím účelem « = ť
+a rozložme výraz
+o
+C        l /    f  e~civdv
+\ u*'* díl \    .         ----= J
+J          JV*'-""2
+v čásť reálnou a pomyslnou
+Oo                        OO                                           OO                        00
+P              P   coscv dv        P              f   smcv dv
+= \ u'~       l ~V^=*~~* \ tř-iJm \ -,—,==-,
+•J                      J     \ V   — H               J                      J     \ V   ----11
+O                      u                                      O                      u
+předpokládajíce k vůli stručnosti s reálným. Znamenámeli na okamžik
+bude lze náš integrál psáti
+00                                                         00
+=  V  iis—lq(\cil )dll — i Sgn. C . \ 11* ~
+takže vše záleží na tom, jak se funkce q>(z) a T^(^) chovají na místech s — O a z= oo ; neboť funkce ty na ostatních místech jsou konečný a spojitý, a od chování jich na koncích integračních s = O a 5 = oo závisí existence integrálu.
+Zabývejme se především integrálem qp(^).  Možno jej psáti
+
+f cos a; dx    ,   f  cos
+"" J    ^^^"" + J    ^
+cos # */#
+pro
+Druhá čásť je patrné konečná  pro 2 = 0,  i zbývá jen studovati  čásť první. Tu obdr/íme částečnou integrací
+V -=          - = — log ^ . cos 2 -f- V sin x . log (.-r + V#2 — ^2 ) ^a;.
+*                                                        *
+Odtud plyne, že funkce ;/*- 1 7 (|f //|) v případě í > O jest schopnou integrace od bodu 7/ = 0. Podobné se to ukáže při n? — vy(\cu\).
+XXIII ﻿Abychom vyšetřili povahu funkce q>(2) pro veliká 2, užijme vzorce
+00
+cos (x ""l"" g) d x
+00       __                                        00         __
+cos-s f i /    2 z      cosxdx        sms f -i /    2 s      sinxdx
+'""W] Y^R""   VŠT    ""VÍ7} VSÍTÍ ""^jĚT
+a odtud patrno, že funkce y(z) .^fž zůstává konečnou pro L = oo ; podobně se to ukáže pro funkci y (z) ""\f . Odtud ale patrno, že integrály
+-* q> (\cu\) du ,
+oo
+?*-
+konvergují absolutně za podmínky 0<.s<^-^.
+Integrál J tedy existuje, i zbývá jen ukázati, že platí vztah
+S                            i*     f-civ (c-av __ \\dv it-\ dít \ —----     -----I;—=Q. J        ^^š*~-u*
+Poněvadž výraz
+lze psáti
+00
+«) = \ e~
+J
+čtu - cix (e— au — nx__
+l)
+2 w
+bude možno určiti M tak veliké, aby bez ohledu na a integrál
+hýl menší než předepsaná libovolně malá veličina; určili se po té « tak malé, aby v mezích O < u .< M byla funkce * (//) dosti malou, bude také lze do-c»'liti pro integrál
+M
+hodnoty malé, a tedy bude
+\ «•-*#(*)</«
+CKJ
+lim \ w*-|tf*(«W// = O -=o J
+l*
+XXIII. ﻿Tudíž platí vztah
+lim  \ w*-1
+a = 0  J
+00                   00
+dv      r         r
+čímž dokázáno, že rovnice (2) platí též pro ryze pomyslná a a pro veličiny reálné s v mezích O a -^-} aneb pro veličiny komplexní s, jichž reálná část1 je v těchto mezích.
+Volímeli tedy a = ct, c > O, obdržíme
+(3)
+00                   00
+f               f coscvdv
+\ u5""""l d u \    .          — =
+J               J V z;2 — K2
+~      cos
+00                °°                        «  „ f j \ a  .
+f ^ -».//. f *™cvdv  = 2 ri^J   S'
+J US      ' U J V v* — u*   '                4>
+O                                         M        *
+V těchto vzorcích  lze se omeziti  na případ c = \,   aniž se činí újma  obec nosti. Užijemeli známého vzorce
+(4)
+s\r\vdv
+ve kterém J (11) značí Fourierovu a Besselovu t. zv. funkci cylindrickou
+j, . __ 1 __        |
+2~        a*
+. a""^
+. 42 . 62 . 8
+vychází z druhého ze vzorců (3) tvar
+co (5)                           \ J (u) u5 — ^du =
+ten  dokázán   pro  0<Real.J<^-,  avšak v případě  reálného J  konverguje
+g
+integrál ještě v mezích O < j <[ -g-.
+Piu j = l  máme odtud známý vzorec
+J(it)dn — l ;
+XXIII. ﻿differencujemeli pa^ vuLj s a kiademeli po té s = l , obdržíme vzorec Weberův *)
+oo
+(6)
+J (u) log u du = r (1) - log 2 .
+Vzorec (3) lze též vyvinouti ze vzorce Lipschitzova **)
+00
+,7)                          ^<—JMá* = ^=,
+násobili se   «-*//«   a   integruje od   a = vzorce (5) pro případ O < Reál. s < l . Z (5) dále plyne
+do   a = oo ;   tak se obdrží důkaz
+a přejdemeli zde k limitě pro
+00
+(8)
+Pravá strana vzorce (5) začíná svůj mocninový rozvoj členy
+abychom obdrželi mocninový rozvoj levé strany, rozložme integrál <5) ve dva
+OJ                                                00
+V J(u) u*-1 du + \ J(«) í/*-1
+a nahraďme první z nich řadou
+•»>• + *
+Tak shledáme, že rozvoj integrálu (5) začíná členy
+
+*)  Journal fůr die reine u. angew. Mathematik,  sv. 75.   Jiný důkaz podán autorem v M°natshefte fůr Mathematik u. Physik, I. ročník. **) Journal f. d. reine u. angew. Mathem., sv. 66.
+XXIII. ﻿porovnáním nacházíme výsledek
+(9)
+Uvažujme nyní výraz
+rí — \  sin
+pro veličiny  s = a-\-ix,  kde a a x jsou reálné,  a sice «>0.   Ze  vzorco Stirlingova
+kde l — l značí  veličinu,  která pro veliká z je velmi malá,  vychází nejprve,
+(d —]_ i x\ 9 -- J Zní
+a:              a:
+y
+a odtud plyne, že bude
+í±iL) sin ^±í*. l = , „ (fl.+*«)-•-,
+kde cx je konečno pro #= ±00. Odtud plyne, že integrál
+,:_ a-\-ix         dx
+2       a-\-ix
+existuje, jakmile a << l, značili z> veličinu reálnou a kladnou.
+Znamenejme  tedy literami  a  a v  dvě  kladné  reálné veličiny,  z nichž prvá jest obsažena v mezích O <C a <C l , položme ve vzorci (5) J = a ~h * ^'
+násobme -_-----a + -g ~    —=— a integrujme od —oo do -f-00 •
+L 1t    1f    '           d —— / X
+I obdržíme tak rovnici
+00
+XXIII. ﻿kterou lze psáti
+dx
+— JV
+«   •   -JVj
++ J
+dx
+Q levé straně chceme ukázati, že splývá s integrálem
+dx
+
+(c)
+2n  J '
+k tomu cíli bude třeba dokázati, že výraz
+oo
+-/v
+<? =
+klesá s rostoucím TV pod každou mez.   Přetvořme  oba  integrály  substitucí // = vez , i vznikne
+00                             00
+o C  T/    *\     'j   C   rt cosít^
+= 2^ J(v/-)/-^\ >     __
+— oo                            N
+Integrál d pišme ve tvaru
+oč
+d =
+Užijeli
+se tu vzorce
+v^J                                                                                                          ^^                                                       rv^
+f * sin x2              cosNs      ,    l  f  cos x s dx       2^ f   x*cosxs    ,
+J «« + *«""      B75?+^5 ""~T^    /ia + a;a     """"i jj  («• + *•)•    '
+XXIII. ﻿jenž se obdrží částečnou integrací, vychází tvar
+d =
+00
+2           J (v *)L*• — J(ve~*}e-az
+x sít x
+_ A
+oo                                                             oo
+f  J(vet}eat— J(ve-*)e-at   f   x*cosxz
+dx .
+Předpokládámeli 0<^a<^-y, konvergují integrály
+— J>*-2)
+f   J (v **)<*'
+absolutné,  jakmile jinak  libovolné  funkce  Q>(s)  a   V1""^)  jsou   konečný   pr« z= JLoo.   Poněvadž pak
+00
+x'l cos a;z
+A/ ~T    ^2 _L  A/2
+máme vzhledem k poslední okolnosti
+00
+*+&dl\
+o odtud je zřejmo, že bude
+j(Vf—)r« j,.
+lim d = 0
+XXIII. ﻿Tím dokázáno,   že výraz (c) splývá s levou stranou rovnice (b), jakmile *<i» za této podmínky tedy platí rovnice
+du    \
+a-\- i x
+Vzpomenemeli tu vzorce
+0    pro    k < l ,
+1    pro    k > l,
+— OO
+najdeme, že výraz na levé straně našeho výsledku má hodnotu
+a že tedy platí vztah
+l    (V2V+2''*   Vrt        .  V .       frt
+^V      r(y+'»J """"I
+Zaměnímeli z/ za 2v, a za 2w, obdržíme jej ve tvaru
+= 4». f J(.) rf«
+J                  ÍC
+2w
+
+při čemž mají býti splněny podmínky z>>0, 0<w<^.   Levá   strana  je
+vsak funkcí spojitou proměnné w, i když tato obdrží hodnoty komplexní, a sice takové, aby reálná čásť byla mezi nullou a půlí. Tudíž znějí existenční podmínky rovnice (10) takto:
+II.
+Ve své práci   »Z počtu integrálního**)  uvedli jsme  na konci  vlastností integrálu
+x*dx
+L (w , s , ér) = V------
+Jf (™*
+-\-2wxcosff7t-}-x*)
+*) Rozpravy Č. Ak., ročník II., čís. 9.
+XXIII ﻿10
+vyjádřenou vzorcem
+w sin s ff n. L (w , s — l , ff) -}- sin (s — 1) ff n . L (w , s , T) =
+1+w '
+Výsledku tomu lze uděliti jiný tvar, zavedeli se funkce
+oo
+(A)
+L (w, s , a) = \ —
+}  (- + ««
+x9 dx
+ta má pak vlastnost
+/T>\                •      $ H        r     ,
+(B)    wsm-- L(wlj-l
+jež připomíná různé vzorce z theorie funkcí elliptických
+Ukážeme,  že podobnou roli jako   »perioda*  l   hraje tu veličina rr;   vy počtěme za tím účelem hodnotu
+L (w , s , ff) -f L (w , J + ÍT , /r) = Q . Ta patrné podle (A) rovná se integrálu
+00
+S
+xs dx
+jejž lze vyčísliti v zakončeném tvaru. Neboť lze jej psáti oo
+e    a )   ^  we    ° -\-x        wea -f-a tedy rozložiti v součet integrálů
+l       r*        xsdx               l       r*     xsdx
+Q         O         ^^                          I                                                          U         O        **^ ^              T""^  *^
+jež oba se určí pomocí vzorce
+oo
+a;*^
+^•+0;
+n siníTr
+čímž se ukáže výsledek
+čili
+tni
+a    - W* €
+sin -
+sin
+sm
+sin — sin s n
+XXIIL ﻿11
+Hledaná vlastnosť funkce L (w , s , d) zni tedy
+(Q                      L (W , S , ff) -f- /> (W , J-f-(7 , ff) =
+sin
+sin — sin s a
+7 rovnic (B) a (C) je patrno, že má funkce L (w, s, ff) komplexní proměnné í vůči rovnoběžníku period, jehož vrcholy jsou O, l , ff , a-\-\ , dosti jednoduchý vztah, a tedy patrnou analogii s veličinami z theorie funkcí clliptických známými.
+Zavedemeli do integrálu (A) integrační proměnnou e* za #, obdržíme výraz
+o
+-J
+(. /
+Jl Í
+který lze rozložiti ve dva
+(A')
+21 sin ~
+esxdx
+ni
+a
+Oba tyto integrály jsou typu téhož jako integrál (13) ve IV. článku naší rozpravy »Příspčvky k thcorii funkcí elliptických, nekonečných řad a integrálů omezených**)
+Dokázaný tam vzorec (13) zní totiž
+
+n=0
+— l
+'2  íí^
+a sice znějí udané tam podmínky Im. vl < O ,        Im v^
+při čemž |0 je kladné a Lt , |2 , wl , z^2 jsou kladné ryzí zlomky. V integrálu tom pišme nyní 2nťvíx = s, i obdrží hodnotu
+Ž* d*
+_1 __ f
+~2^H7 J («)
+*) Rozpravy Č. Ak., ročn. II., čís. 23, str. 2a
+V následujícím tam po něm vzorci (13*) má pod prvním znamením L státi na místě chybného » = 1.
+XXIII.
+ ﻿při čemž kladeno <r = —.   Integrační cestou (-c) je  zde na obě strany  prodloužená přímka (O...ř'v,).   Nullová místa jmenovatele jsou
+z ^=í2ni(k -[-«/,),        z = -   — (L -j~ w>2),
+kde k značí libovolné číslo celistvé. Chceme zaříditi volbu našich veličin tak, aby v oboru mezi cestou (z] a osou reálnou nebyly obsaženy tyto body. Poněvadž veličina iv^ (za podmínky Im. vt <0) má reálnou čásť kladnou, neleží žádný z prvních bodů z v uvažovaném oboru, předpokládali se ?t', reálným. Volímeli rovněž w2 reálným, budou také všecky body
+2ni    ._i    .   x    _ 2nivl
+—j-   -t-«w5   —-—      ™*
+ležeti zevně oboru obsaženého mezi cestou (z) a osou reálnou, pokud reálná čásť zlomku —L jest kladnou, t. j. jeli Reál. <7>0. Volímeli ještě Reál. z/, >0,
+bude integrand   pro nekonečně velká z nekonečně malým,   a tedy   bude lze v posledním  integrálu  nahraditi  cestu (z)   osou   reálnou.   Píšemeli   mimo to
+na místě
+(D)
+prostě s a klademeli w^ = -~-, wl = # -f~ -^ , obdržíme
+oč
+l^f
+m   J
+e**dx
+n=0
+h-ii
+
++ 1
+ve kterémžto vzorci se předpokládá Reál. ff > O,        j = |, 4- t a _[_ ±0.
+při čemž f, jest libovolná veličina hovící podmínkám Im. vl <CO, Im. <T7', Real.2/, >0.
+Podmínky ty lze lépe takto charakterisovati:
+Reál. ff > O ,        O < Reál. s < Reál. (<r + l)>
+Im.      =
+(T
+Z poslední nerovnosti plyne,  že druhá řada v právo  vždy  konverguje:   neb bud jest Im. <r<CO,   pak bude najisto  Im. — >0;   aneb jest  Im. ťr>»0,  a
+pak Im. —       — > O; v obou případech řada konverguje.
+Vytknemcli pouze podmínky  Reál. *>0,  Im. ff>0,   bude rovnice (D) správná, jakmile výrazy na obou stranách konvergují.
+XXIII. ﻿13
+Při tom ovšem nelze ignorovati podmínku — 2- < u < -^ , která není nutnou. Integrál chová se pravidelně, pokud u lesí uvnitř pasu omezené/to rovnobčzkama s osou pomyslnou, vedenýma body u = — 2 a u — -g.
+Uvnitř tohoto pasu dlužno předpokládati veličinu u\ t. j. dlužno před-j,okládati
+To předeslavše, klaďme u výrazu (A') w = e<tvjtí, čímž obdrží tvar
++ D
+<** dx
+*'sinT   Uo77   """"'~"" + í)(<""
+tento lze vyčísliti pomocí vzorce (D) i obdržíme tak výsledek
+—       n=0
+____
+co
+l   Ví          e
+Insni
+s.ti
+-Zv*i
+ne
+'U podmínky  Real.<r>0,   Im. T>0,   — ^ < Reál. \v ± -y J < -i-podmínek konvergenčních platí tedy vztah
+a  za
++
+sin —
+G STÍ
+srn--
+= 2iri
+-.i-\-ftn-\-\)oni __
+Vrátímeli se opětně k veličině w = e*VJlt\ máme
+sni                         «
+o-sin   -.
++
+L (w , j , <r)
+srn
++
+XXIII. ﻿při čemž summační podmínky znějí
+1=1,3,5,7,...;        ,1 = 2,4,6,8,....
+Symbol mnohoznačný w° tu vyjadřuje veličinu etovni, kde v = -^~ ni.-l reálnou čásť podrobenou podmínkám — -^ << Reál. l v _±. ——l < 2 , jež \/^ splniti toliko v případě O <C Reál. — < l, načež znějí
+-1r + Reál. -L < Reál. V < j - Reál. A- . Odtud plyne
+— n-\-7i Reál. — << Im. log w < n — n Reál. — ,
+takže logw značí hlavní větev logarithmickou a ws i w° hlavní hodnoty mocnin.
+Mezi hodnotami w, které vyhovují udaným právě podmínkám, nachází jí se také veškery kladné hodnoty reálné:
+Rovnice (E) platí pro hodnoty G, pro než -   = J — iij, 0<<L< l , »/>0,
+a pro hodnoty w obsažené uvnitř onoho úhlu sevřeného paprsky (O ... — e*31' .00 i (O... — e—*ni. oo), z/ #LmL tó/ kladná část osy reálné.
+Násobímeli obě strany rovnice (E) výrazem sin-----a přejdemeli k mezím
+pro s — a, obdržíme
+9   '                         <T (l + W)
+čili
+(F)
+00
+í
+2 w* cos — -]- x*
+Jestliže však po provedeném násobení derivujeme vůči s a trprvc ', otorn klademe s = <r, obdrží se vztah
+(G)
+oo
+log x                dx
+J
+XXIII. ﻿15 Ve zvláštním případě w = l máme odtud
+oo
+^.r^-__dx
+• J   » + «•   l + 2íe
+(H)
+l2* cos
+= *iL[ -L+y_qi_+±v__i_-\t
+.     n   \   d-ff        *^ l —**«    i    0-   _j            A*""'
+sin ff  L                                       v    i  i  ^~í~ J
+^=1,3,5,...;     ř* = 2,4,6,...;      0< Reál. -l- < 1^ .
+Se stanoviska theorie funkcí jest L (w, s, o-) útvarem jednodušším než obě řady na pravé straně rovnice (E); neboť funkce L (w , s, a) chová se pravidelné i pro reálná o-, což o řadách těch tvrditi nelze. Dlužno tedy považovati vzorce (E), (G) a (H) spíše jako transformační vlastnosti našich řad, nežli za rozvoje integrálů.
+Budiž  nám  dovoleno  při  této příležitosti  opraviti  jeden ze vzorců  podaných na poslední stránce naší rozpravy »Z počtu integrálního**) Pro n > O a s > O platí vzorec (5)
+00
+( sn
+smh —
+""1 dx
+aneb
+00
+,,
+X*~l dx              S n   (*
+.___„._ l
+sin u x      x* dx ~ž      ' T+if'
+lento výraz chceme vymeziti pro s = 0. U prvního integrálu užijme rozkladu
+první z těchto složek pomocí rozvoje cos u x .
+1+*'
+se vyčíslí ve tvaru
+co*
+*) Ročník II., číslo 9., řádek 9.
+XXIII. ﻿a odtud vychází
+co
+STÍ  f           x*~ldx       n
+lim sin -      \ cos u x —r—t—g— = -r 3 = 0         2   J               l+a?a         2
+a poněvadž jak patrno
+00
+s
+..          sn                   o?""1 dx
+lim sin — \ cos w# .                 = O ,
+2
+vychází
+OO                                                 00
+..      f sin;/a?    & dx         f sinwa;      ť/a:
+s™ J -~i       1 + ír2 =~ J ~~x       T+^
+©o
+P sin u x
+}   *
+2
+kterýžto vzorec musí nastoupiti na místo onoho, jenž na udaném miste podái v řádku 1).   Stalo se omylem při korrektuře, že tam vynechán člen —.
+XXIII."

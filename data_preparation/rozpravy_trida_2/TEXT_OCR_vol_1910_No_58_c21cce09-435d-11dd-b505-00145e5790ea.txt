@@ -1,0 +1,373 @@
+"","x"
+"1"," ﻿ROČNÍK XIX.
+TŘÍDA II.
+ČÍSLO 58.
+Konstrukce týkající se křivosti plochy v daném bode.
+Napsal J. Sobotka.
+Předloženo dne 25. listopadu  1910.
+(S 18 vyobr. v textu.)
+1. Jak známo, vyjadřuje se v obyčejném bodě plochy poloměr křivosti Q libovolného jejího řezu normálního vzorcem
+!        L + 2 M k      TV k2
+p         E + %Fk + G&2  ;
+při čemž předpokládáme vyjádření plochy pomocí souřadnic parametrických (u, v], kladouce
+dv d u
+= k,   a   E, F, G] L, M, N   značí  základní
+veličiny prvního resp.   druhého řádu v uvažovaném bodě.    Vzorec ten můžeme psáti jakožto rovnici příbuznosti mezi Q a. k ve tvaru
+(N k2 + 2 M k + L) Q — (G k2 + 2 F k + E) = 0.
+(1)
+Při tom předpokládejme dále v souhlase s ustáleným označováním v theorii ploch, že v uvažovaném bodě tečna ku křivce parametrické (v), tečna ku křivce parametrické (u) a normála n plochy mají stejnou orientaci se soustavou souřadnou O (x, y, z] a dále berme Q se znaménkem plus nebo minus v souhlasu s polohou středu křivosti příslušného řezu normálního na kladné nebo záporné straně plošné normály.
+Z toho plyne, že rovnicí (1) jest obecně stanoven vztah (l, 2) značný mezi řadou bodovou utvořenou středy křivosti na n a svazkem příslušných rovin normalných řezů, předpokládáme-li, že výrazy L + 2 M k + N k2 a.E-\-2Fk-\-Gk2 nemají společný faktor v k lineární; neboť v případě, že se takový faktor vyskytuje, degeneruje příbuznost rovnicí (1) daná v jednoduchou promětnost.
+Rozpravy Roč. XIX. Tř. II. Cis. 58.
+LVIII. ﻿2. Výminečný případ právě uvedený nemůže nastati, když uvažovaný obyčejný bod P na ploše jest reálný. Poněvadž tu táž hodnota k vyhovuje současně rovnicím
+N k2 + 2 M k + L = O,
+proto jedna hlavní tečna t plochy jest přímkou isotropickou. Kdyby výminka ta měla platiti v každém obyčejném bodě plochy, pak kdybychom zvolili na t bod Pí ku P soumezný, by jeden hlavní směr bodu P± splynul zase s isotropickou přímkou v rovině tečné ku ploše v bodě Px obsaženou; to by byla však přímka t jakožto průsečnice rovin tečných v P a Pr. Neboť průsečnice rovin těch jest sdružená přímka ku t = P Pí v indikatrix bodu P; ježto ale t jest hlavní tečnou, splývá s ní její přímka sdružená. Když pokračujeme na přímce t dále, seznáme, že ona musí ležet vůbec na ploše.                                                        ^j
+Máme tu geometrický důkaz věty, že plocha, v jejíchž bodech panuje promětnost normálných řezů s příslušnými středy křivosti, obsahuje jednu řadu povrchových přímek isotropických.
+Má-li nastati v obyčejném bodě P řečená výjimka, pak musí pro jeho parametry platiti relace
+(G L — E N)2 = 4 (E M — F L) (F N — G M] = a rovnice (1) tu degeneruje v rovnici
+(N k + M + V M2— LŇ) Q — (Gk + F +
+(2)
+EG) = O,     (3)
+kde uvedené odmocniny mohou býti libovolně kladné nebo záporné.
+Zavedme nyní za parametrické křivky křivky minimální a předpokládejme, že tečna v P ku křivce minimální v — konst. jest zároveň tečnou asymptotickou. Tu bude především E = G = O, F =L 0. Směrové parametry přímek isotropických a křivek asymptotických v bodě P, plynoucí z rovnic
+G k2 + 2 F k + E = O,    N k* + 2 M k + L = O, jsou obecně dány výrazy
+- F -4- VF2 — EG      -r       — M •+- V M2 — L Ar
+N
+Cf.   G.    Scheífers:   Einfuhnmg   in   die   Theorie   der  FhuhcMi,  li)02.
+pag.  114.
+LVI II. ﻿V P mají zde k a k za jednu hodnotu parametr směrový křivky v = konst., tedy k = 0; musí pro tuto hodnotu býti tudíž jak čitatel ve výrazu pro k tak i pro k roven nulle, proto nutno bráti v obou případech odmocninu se znaménkem plus a tedy tečnám k M a ke druhé křivce asymptotické bodem P jdoucí přísluší znamení minus. Relace (2) redukuje se zde na L N = 0; a směrové parametry pro tečny právě řečené budou
+2F
+— 2M
+Ježto tyto hodnoty by mohly splynouti jenom v bodě kruhovém, proto jest N ^ O a proto musí L = 0.
+To plyne bezprostředně, když vyjádříme (1) vzhledem ku parametrickým křivkám minimálním. Kladouce tedy do (1) E = O, G = O, obdržíme společný faktor k = O jenom tehdy, když bude zároveň L = 0.
+Rovnice (3) přejde tu v rovnici tvaru jednoduššího
+čili
+(N k + 2 M) Q — 2 F = O M           . F
+Pro Q = O jest k = oo, pro p = oo jest k =----~""TyF~ — ^-
+Seče-li plochu rovina reálná reálným obyčejným bodem P normálně ku ploše postavená, bude míti řez její s plochou reálný poloměr křivosti. Kdyby tedy platila promětnost (4) v takovém bodě, musely by veskrze reálným řezům příslušeti reálné středy křivosti a naopak; rovnicí (4) příslušely by ale reálným hodnotám g = O, Q = oo řezy imaginárně k — oo, k = k; neboť je-li v reálném bodě jedna hlavní tečna imaginární, jest druhá k ní sdružené imaginární. Tedy pro obyčejný reální bod nemůže relace (4) nastati, a pro singulární body plochy pozbývá rovnice (1) vůbec významu.
+:>. Můžeme obráceně snadno seznati, že, když jest v reálném bodě P na ploše reálné mezi normálními řezy a příslušnými středy křivostí pro-mětný vztah, že bcd ten není obyčejným. Nahraďme si za tím účelem každou křivku takového normálního řezu její kružnicí křivosti v bodě P, obdržíme takto novou plochu A, která nám v bezprostředním okolí bodu P danou plochu v příslušné části nahrazuje. Považujme normálu n plochy v uvažovaném bodě za osu z, bod ten za počátek pravoúhlé soustavy souřadné, pak bude libovolná z uvedených kružnic křivosti míti rovnice
+y
+X
+LVIII. ﻿znaČí-li r poloměr kružnice a <p úhel, jejž její rovina uzavírá s (x z). Pro-mětnost mezi těmito rovinami a středy kružnic v nich obsažených jest dána rovnicí
+Artgtp + B r + Ctgq> + D = 0;
+když přiřadíme rovině (x z) kružnici nekonečně velkou, jest B = O a do-sadíme-li za r a tg tp příslušné d hodnoty z rovnic kružnice, obdržíme:
+J2i. y. + ^- + /> = o
+.-v    '      #      '
+čili
+/ť>l          Oi         O\             l       /                i      7        \                    /""v
+(*  + 3>  + -2) 3' + (« ^ + o A;) z = O jakožto rovnici plochy A, a vztah mezi r a qp jest dán relací
+a + b cot <p
+r =
+Z rovnice té jest patrno, že bod P na ploše A jest singulární a že tečny v něm ku ploše tvoří dva svazky přímek obsažených v rovinách
+2 = 0,    ay -\- b x = 0.
+Proveďme transformaci souřadnic otočením kolem z tak, aby přímka íi<y + 6^ = 0v rovině (x y) byla novou osou souřadnou X, kolmou k ní osu v (x y) označme pak Z a osu z přináležející též nové soustavě značme Y. Ze známých transformačních vzorců obdržíme rovnici plochy nyní ve tvaru
+(X2
+(a2 + b2) Y Z = 0.
+(6)
+Hledejme nyní v bodě P střed křivosti pro libovolný normalný řez, jehož rovina prochází osou Z.
+Seče-li rovina ta (X Y) v přímce X', otočíme soustavu souřadnou kolem Z o úhel (X, X') = co, odvodíme si rovnici plochy v této otočené soustavě pravoúhlé P (X', Y', Z). Rovnice ta bude
+(x2 + y2 -\- z2) (a z — b x cos & + b y sin ro) -f-+ (a2 + b2) (x sin w -f y cos co) z — 0.
+Položíme-li v této rovnici y = O, obdržíme rovnici křivky, v níž rovina (X1 Z) seče plochu; tedy
+(x2 ~\- z2} (a z — b x cos ca) -f (a2 -f- b2) x z sin co = 0.                (6')
+LVIII. ﻿.i Jest to křivka řádu třetího s dvojným bodem P, dotýkající se v něm přímek x = O, z = 0. Libovolná křivka kruhová, která s křivkou tou má společnou tečnu z = O, má rovnici
+x* 4- z- — 2 z r = 0;
+ona má s křivkou tou jednak nekonečně vzdálené body, jednak dva sou-mezné body na X' společné; zbývající dva body průsečné leží pak na přímce
+2 r (a z — b % cos co) + (a2 -\- o2) x sin o = O,
+čili
+[— 2 r b cos o + (a2 + b2) sin ca] x + '2 r a z = 0.                   (7)
+Vidíme, že ještě jeden z těchto průsečíků padne do P, jakožto průsečík druhé větve křivky a zbývající průsečík leží na přímce (7). Oskulace kružnice té s křivkou nastane tenkráte, když volíme ;' tak, aby zbývající průsečík s přímkou (7) splynul rovněž s P, což nastane, když vezmeme
+r=
+(8)
+Tím dospíváme k výsledku, že svazek normalných řezů osou Z vedených a řada příslušných jejich středů křivosti jsou rovněž promětny, a vztah promětnosti jest dán rovnicí (8) čili
+2 b r — a2
+2) tg « = O,
+takže rovině X Z přísluší bod P a rovině Y Z bod nekonečně vzdálený na Z. Libovolná rovina R bodem P seče plochu A v křivce (r) 3. řádu s dvojným bodem P; tečny v dvojném bodě jsou přímky průsečné slt resp. s2 roviny R s rovinami (x, y) = (X, Z] a (X Y). Pro bod P platí věta Meusnierova v tom smyslu, že, uzávírá-li R s rovinou (sx z) úhel o^, s rovinou (s2 Z) úhel ea2, jest, značíme-li 1\ poloměr křivosti normálního řezu s rovinou (sí z) a r2 s rovinou (s2 z) , dále ^ poloměr křivosti křivky (r} v P pro větev dotýkající se přímky s,, a R2 poloměr její křivosti pro větev dotýkající se přímky s2, máme relace
+Rl = i\ cos Op R2 = /-2 cos «.,.
+Neboť pro řez roviny R obdržíme v pravoúhlých souřadnicích, majících P za počátek a s1 za osu |, značíce kolmou k ní osu 17 z (5), snadno rovnici
+(|2 f í?2) (| s/// rf -{- 17 fos 9 sin o,) + (a s/;/ <p -j- 6 cos + (« cos qp — 0 sw qp) r/2 sz« o, cos e^ = O,
+LVI 1 1
+cos ﻿a poloměr křivosti /?, obdržíme pomocí této rovnice dřívějším postupem, když klademe
+takže
+2 Rl sin <jp + a sin (p cos to, -f- b cos <p cos tol = O,
+P              a -f- b cot y
+L Vj   - - -  ~  ""'""                        ~                     (/('o   OJ i j
+a tedy vzhledem ku (5') skutečně
+R, = fj cos OJ0.
+Obdobně dokážeme druhou relaci stanovící R2.
+Ostatně mohli jsme zde důkaz platnosti věty Meusnierovy vésti zcela tak jako pro bod obyčejný.
+Měj obecně libovolná plocha bod P za dvojný a v něm (.v v) resp. (X Y) za roviny tečné a uvažujme řez u plochy rovinou R procházející přímkou Sj v (x r) a uzavírající s (st z) úhel ca. Řez nonnálný v (sl z) bude míti v P společnou tečnu sv s u; řez normálný v soumezný v rovině (Si z) protne R v bodě P' ku P soumezném a obdržíme takto na něm oblouk (P P'); kontingenční úhel oblouku tomu příslušný budiž 4 a. Oblouk nekonečně malý na u mezi P a P' budiž [PP']; kontingenční úhel jemu příslušný pak z/^3. Je-li R poloměr křivosti pro u a r poloměr křivosti pro v v bodě P jest
+^^    .       ..      [PP']     ,.     A a,
+ň-^rř = ^>« ""jppy •/ř""' -^jgr
+R
+rp pn Avšak /Í//Z  ^p-pT^- = l,   ježto poměr oblouků těch ku tětivě má za
+mez l, a úhly 4a, dft nabývají hodnot mezních, pro něž
+lim Z/K = 2 lim <L (s/, PP'),    /*m ^/3= 2 /ím -^C (slf P P'), takže, přihlížíme-li k trojhranu P (s, s^ P P')
+s/, PP')
+= cos
+-á-ft
+-7-: hm
+— n-w ($i, P P )
+Tím jsme dospěli k výsledku, že R = r cos at. Poněvadž jak v obyčejném bodě tak i zde se mění r spojitě, jest tím věta Meusnierova dokázána.
+Můžeme tedy shrnouti provedené úvahy takto:
+LVU I. ﻿,,Panuje-li v reálném bode P plochy promětnost mezi reálnými normál-nými řezy a příslušnými středy křivosti, pak bod ten jest singulárním a kužel, jejž tvoří tečny v ném ku plose, se rozpadá; svazek paprsků kolem P v rovině N, normálně ku ose řečených normálních řezů, tvoří jednu část jeho a vztah uvedený platí obecně jen pro onu část plochy, která se v P roviny N dotýká; pro tuto část platí také veta Meusnierova. Oskulační plocha této části vytvořena kružnicemi křivosti příslušných řezů normálních jest třetího řádu, má v P dvojný bod, dále mimo N ještě druhou rovinu tečnou Nt a vzhledem ku řezům plochy této bodem P ku Nt normálně položeným panuje opct promětnost mezi rovinami řezů těch a příslušnými jejich středy křivosti; věta Meusnierova platí zde i pro tu část plochy A dotýkající se v P roviny Nt; inversí vzhledem ku P jakožto středu inverse, přechází oskulační tato plocha v hyperbolický paraboloid, z čehož plyne, že plocha ta obsahuje ještě druhou soustavii kružnic položených v rovinách obsahujících osu x.""
+4.  V následujícím se nám bude jednati pouze o to, ukázati,  jak lze příbuznost danou relací (1) v odst. 1. konstruktivně přivésti k platnosti. Geometrický význam této (l, 2) značné příbuznosti zdůraznil asi poprvé E m i J W e y r, odvodil z ní mimo jiné též známý  vzorec Eulerův a ve svých „Bcitráge zuř Kurvenlehre"" použil jí ke konstrukci středů křivosti libovolných  normálných    řezů  v bodě  plochy z  daných středů křivosti pro libovolné tři takové řezy.  Konstrukce ta jest pro praktické použití méně vhodná a také není v provedení  dosti jednoduchá.    tJčelem této práce jest ukázati,  jak lze řečenou příbuzností dojíti k upotřebitelným a jednoduchým konstrukcím, čímž krátce dospějeme k četným, konstrukcím, z nichž řadu jinou cestou odvodili na př. Mannheim a ď Ocagne, v kteréžto příčině budiž odkázáno k příslušným místům v Mannheimově ,,Principes et développements de geometrie cinématique""a v ď Ocagne'ově  ,,Cours de geometrie descriptive et de geometrie inťinitésimale"".
+5.   Uvažujme tedy obyčejný  bod O  na  ploše,  v  něm  normálu n, jakož i rovinu tečnou E k ploše a přiřaďme každému bodu P na ;/ v rovině E onu přímku plt resp. p2, která stanoví normálný řez v rovině (p± n), rcsp.  (pzn], jehož ku O příslušný střed křivosti splyne s bodem P. Tím obdržíme   (l,  2)   značnou1 příbuznost   řady   bodové  (P)  na n a svazku přímek p±, p2, . . . v rovině E.   Tato příbuznost   jest   prometností   mezi řadou bodovou  (P)   a involucí přímkovou  (pl p.2)  vytvořenou dvojicemi přímek pl pz, . . . v E příslušejícími bodům P, . . . na n, Protneme-li tuto involuci kružnicí k bodem O jdoucí a tedy v rovině E položenou, obdržíme na k invcluci bodovou P^P^, . . ., a spojnice dvojic bodových této involuce budou tvořiti svazek paprskový (p), který jest ku (P) promětný.
+Naše konstrukce budou pak směřovati toliko k tomu tuto promětnost mezi (P) a (p) ustanoviti.
+Splyne-li bod P s O jest Q v (1) v odst. 1. rovno nulle a tudíž:, E -f- F k + G k2 — 0; proto splynou příslušné paprsky pí, p2 * isotropi-
+LVIII. ﻿ckými přímkami procházejícími bodem O a obsaženými v rovině E; a body Plt P2 splynou pak s body kruhovými roviny E, jejichž spojnice P& jest nekonečně vzdálená přímka roviny této. Z toho plyne, že (p) jest svazek přímek rovnoběžných. Promítneme-li (P) rovnoběžně nebo centrálně do roviny E do (P') jsou (P') a (p) rovněž promětny. Na základě této promětnosti chceme v následujícím řešiti řadu úloh.
+6. Pro bod O plochy dány jsou středy křivosti A, B, C pro křivky tří daných řezů normálných; má se sestrojiti k libovolnému dalšímu řezu normálnímu příslušný střed křivosti aneb naopak mají se vyhledati k libovolnému bodu plošné normály v O jakožto středu křivosti příslušné řezy normální.
+Považujme rovinu tečnou E plochy v bodě O za průmětnu (obr. 1.). Budtež dále «1; b^, cl tečny v O ku křivkám daných řezů, a označme 2J"" průmět centrální, resp. parallelní útvaru 2J do E. VE vedeme bodem O kružnici k protínající alf bl, c,, ... příslušně ještě v bodech
+Spojme dva z těchto bodů, na př. A1 a Cj přímkou a mysleme si svazek (p) proťat touto přímkou Al Clt při čemž nechť libovolný paprsek m v (p) tuto Oř. l.                              přímku protne v bodě M0. Pak
+bude řada bodová (.4', B', C',
+M', . . .) na n' promětná s řadou bodovou (Al, Bfí, Q, M0, . . .), při čemž bodu O řady první příslušeti bude v řadě druhé bod nekonečně vzdálený ř/ao • Tato promětnost jest tudíž přiřaděním bodů ve dvojicích O' ř7x , A' Alt C' Cl stanovena a můžeme osu promětnosti zí pro tyto řady známou cestou vyšetřiti rovněž tak jako bod B0 ku B' příslušný, třeba pomocí toho, že se přímky B' U^, BQ O' protínají na přímce 4. Paprsek b= Bí B^ v (p) musí tudíž bodem B0 procházeti a jest následkem toho jakožto spojnice bodů BJt B0 ustanoven.
+Je-li nyní m, tečnou v bodě O pro libovolný normálný řez bodu toho a Ml její druhý průsečík s k, vedeme bodem M, přímku m \\ B} B0 náležející (p), kterážto přímka protne At C\ v bodě M0, jehož bod M' příslušný v řadě bodové (P') jest průmětem středu křivosti pro řez normálný obsažený v rovině (m^n). Potřebujeme tedy toliko bud průsečíkem přímky O M0 s zJ vésti rovnoběžku k AlCl, která na n' vytíná již M' anebo jiným způsobem stanoviti M' jakožto bod ku M0 příslušný promětnosti v řadách bodových na přímkách n' a AlCl.
+LVI II. ﻿l
+Je-li naopak bod M' dán, vyhledáme bod M0 a vedeme jím rovnoběžku k b = B! B0, jež protne k v bodech Mv M2; pak jsou mt = O Mlt mz =0 Mz tečnami hledaných řezů normálných majících M za společný střed křivosti.
+Při provedení konstrukce bude někdy výhodno zvoliti střed kružnice k na jedné z daných přímek aít blt c^; v našem případě zvolili jsme jej na 0,.
+Obr. 2.
+Je-li SQO nekonečné vzdálený bod na n sestrojíme k němu směry asymptotické s^ s.2 v O pomocí S'x zcela, tak jako tečny Wj, m.2 pomocí bodu M'. Při promítání parallelním leží S'x v nekonečnu; zde tedy vedeme bodem O rovnoběžku k ^/ a jejím průsečíkem 50 s A1 C] rovnoběžku k b, která protne k v bodech Slt S2 hledaných přímek slf s.,.
+7. Odvozený postup konstrukcí jest též výhodný se stanoviska deskriptivně geometrického. Lze jej přímo užiti též, když provádíme konstrukce místo v rovině tečné E v libovolné rovině průmětné P. Jako příklad předpokládejme zde (obr. 2.) promítání centrálně a proveďme
+LVU i. ﻿10
+konstrukci průmětů s/, s2' tečen ku křivkám asymptotickým a průmětů ť, /*' tečen t, /* ku křivkám křivosti procházejícím bodem O pro bod tento. Při tom předpokládáme, že jsou dány průměty tří tečen alt blt c{ plochy a její normály n v O, jakož i středů křivosti A, B, C pro bod O přináležejících řezům normálním v rovinách (naj, (nbj, (ncj; dále budiž et stopa, cx přímka úběžná roviny E. Konečně budiž ZQ průmětem ortho-gonálným středu promítání Z do P a [Z] sklopením jeho kolem přímky e^. Pravoúhlá in vol uče kolem \Z] protíná ex v involuci bodové, jejíž dvojné body //, /2' jsou průměty nekonečně vzdálených bodů kruhových v rovině E.
+Nyní položme kružnici k body //, /./, O'', ona seče všecky kružnice mající střed na cx a procházející bodem [Z] orthogonalně a můžeme ji jakožto kružnici orthogonalní k oné (o) z těchto, která obsahuje. O', snadno sestrojiti.
+Ježto ale mnohdy nebude možno kružnici (o) vyjádřiti, můžeme střed kružnice k, který leží na [Z] Z0 třeba /> toho odvoditi, že jeho vzdálenost od e.x rovná se
+l
+2h
+značí-li d distanci centrální, g vzdálenost bodu O' od [Z] Z0 a h vzdálenost jeho od e^.
+Nechť protínají přímky «/, b± , c/ kružnici k ještě v bodech A^, BI , C/. V průmětně máme nyní (l, 2) značnou příbuznost řady bodové A', B', C', ... a svazku přímek «/, &/, c^, ... Z tohoto svazku tvořícího involuci odvodíme pomocí bodů A^', B^, C/, ... tak jako dříve svazek přímek a, b, c, ex, . . . promětný k řadě bodové A', B', C', O' ... tím, že svazek ten protneme přímkou Av' B^, na níž tedy obdržíme řadu bodovou AI, BI, C0, PQO, ... ku A', B', C', O', ... prometnou, při čemž Px znamená průsečík přímky A^ B^ s e^ . V této promětnosti dané dvojicemi A^ A', BI B', P& O' vyhledáme pomocí osy promětnosti z/ bod C0 bodu C' příslušný; pak jest c = C0 Q' a průsečík R& přímek cx, c jest středem svazku (a, b, c, . . .). Je-li 5^, úběžník normálj^ n, vyhledáme bod S0 jemu přináležející v promětnosti řad (A' B' C' . . . S'x) 7\ (A^ B^' C0 . . . 50); přímka -Rx 50 protne k ve dvou bodech, jojichž spojnice s O' jsou hledané přímky s/, s./.
+Polára bodu Rx vzhledem ke kružnici k seče tuto ve dvou bodech, jejichž spojnice s O' jsou hledané průměty ť, ť* tečen ku křivkám křivosti, což plyne jednoduše z toho, že v prve uvažované involuci (p± />2) tečen ku ploše v bodě O jsou t a t^ dvojnými elementy.
+Užití této konstrukce by se doporučovalo zvláště, když by bod [Z] anebo úběžníky některých zde se vyskytujících přímek nebyly přístupny. Jinak můžeme použiti (l, 2) značné příbuznosti mezi řadou A', B', C', O', ... a svazkem sklopených paprsků úběžných, jež spojují úběžníky přímek
+LVI II. ﻿11
+flj, &i, cv . . . s bodem [Z]. Tu položíme libovolnou kružnici k bodem [Z] v rovině průmětné a spojíme přímkami páry bodů na ní vyťatých involucí paprsků úběžných, čímž obdržíme svazek přímek rovnoběžných (aa, b„, ca, . . .) ku řadě (A', B', C', . . .) promětný, v němž opět paprsek bodu O' příslušný se nachází v nekonečnu.
+8.  Můžeme normálu n do E tak promítnouti, že n' splyne s jednou z daných přímek aít blt clt dejme tomu s první, nebo můžeme přímku •;/.' otočením kolem O, resp. O' převésti do polohy splývající s aí resp. «,', čímž nechť body A', B', C', ... přejdou do poloh A*, B*, C*, . . .; anebo jsou-li poloměry křivosti O A, OB, OČ dány v pravé velikosti, můžeme je v příslušném smyslu nanésti na a^, což jest ve výsledku totožné s otočením přímky n kolem O do polohy splývající s av.
+Když v tomto případě (obr. 3.) volíme střed kružnice k na alt pak spojuje z/ bod A* = A s patou kolmice spuštěné s bodu C* na clt při-držímc-li se v ostatním dřívějšího uspořádání. Kdybychom nanesli O A, OB, OČ příslušně na bv místo a{ do O A*, O B*, OČ*, ale k volili, jako bylo právě učiněno, dospěli bychom k rovněž tak jednoduché konstrukci a mohli bychom řadu obdobných konstrukcí sestaviti.
+Jsou-li na př. alt bl} cl a. A, B, C dány, sestrojíme tečny t, t* ku křivkám křivosti a hlavní středy křivosti, stanovíme-li přímku b — BQ BI v (p) a spustímc-li ~""/f—\--na ni kolmici ze středu kružnice k, která nechť seče k v bodech A"", Y. Pak jsou O X, O Y hledané tečny t resp. t* jakožto dvojné přímky involuce (Pí Pí) a příslušné středy
+křivosti RI, R2 jsou body rozzvětvení na n v uvažované (l, 2) značné příbuznosti; jejich stanovení neposkytuje tu nic nového.
+9.   Dány jsou dva sdružené směry alf   b± v   bode  O na plose,   jako', i středy křivosti pro O přináležející křivkám, v nichž roviny («, n),  (6t n) plochu protínají; stanoviti jest pro bod O na ploše
+1.  směry asymptotické,
+2.  k libovolnému směru wt příslušný střed křivosti M,
+3.  tečny t, t* ku křivkám křivosti,
+4.  k libovolnému směru gl směr sdružený hv
+Budtež úsečky O A na al a O B na 6X rovny poloměrům křivosti •příslušných řezů normálných (obr. 4.). Protněme opět tyto přímky libovolnou kružnicí k bodem O jdoucí v bodech Alf Bv a nanesme O A do
+Obr. 3.
+LVI II. ﻿12]
+O A* na přímku O B budí v témž smyslu s OB neb ve smyslu opačném podle toho, zdali středy křivosti příslušných řezů normálných leží na téže straně neb po různých stranách bodu O. Je-li U& nekonečně vzdálený bod na A± Bv jest již promětnost řad bodových (O, B, A#, . . .), (t/oo, BI, Aít . . .) třemi páry O U& , B Blt A* Aj stanovena. Přímka Pascalova ^/ těchto řad spojuje bod B s průsečíkem přímky A O s rovnoběžkou ku BI A± bodem A* vedenou. Rovnoběžka bodem O ku z/ nechť seče AI Bv v bodě 50. Tento bod na A± B^ přísluší patrně bodu nekonečně vzdálenému v řadě (O, B, A*, . . .); paprsek pv v (p) bodem tím procházející protnul by tudíž k ve dvou bodech 5t, 52 náležejících tečnám
+Obr. 4.
+ku křivkám asymptotickým. Ježto přímky O A a O B jsou sdruženy, musí býti směry asymptotickými harmonicky odděleny; tedy body S1( 52 oddělují rovněž harmonicky body Al a Bv Tím jest přímka pv stanovena, ona spojuje bod S0 s polem přímky A\ B^ vzhledem ku k. Tím jest dáno řešení úlohy 1. N;
+Co se týče úlohy 2., tu protneme ml s k v bodě Mlt vedeme bodem tím rovnoběžku k pv protínající Al Bl v M0; pak v promětnosti řad (,4*, B, O, . . .}, (A-i, .Bj, f/oo, . . .) přísluší bodu M0 v této bod M* v oné, a O M* jest poloměr křivosti řezu v (n m}) obsaženého. Koncové body průměru v k kolmého ku pr náležejí již tečnám í, t*. Konečně obdržíme řešení úlohy 4., protneme-li gl kružnicí k v bodu Gí a spojíme G, s průsečíkem Pv přímky A^ Bí s průměrem kružnice k kolmým ku pv přímkou, která protne k ještě v bodě Hr Hledaná přímka hv jest spojnicí bodů O, HI\ neboť sdružené páry tečen v O ku ploše protínají k v involuci, jejíž pól Pv jest polem přímky py vzhledem ku k.
+Lvin. ﻿13
+10. V uvedeném díle od ďOcagne nachází se pro daný bod O plochy jednoduchá konstrukce tečny k dané tečně sdružené, když známy jsou tečny k hlavním řezům normálným s příslušnými jim hlavními poloměry křivosti rlt rz. Konstrukci tu lze snadno přenésti na případ, když místo tečen k hlavním řezům dány jsou libovolné dva sdružené směry O A, O B a jim příslušné poloměry křivosti ra =0 A, r^ = O B v rovinách (n, O A) a (n, OB).
+Za tím účelem uvažujme (obr. 5.) rovnoběžnou soustavu souřadnou, v níž bereme O A za. osu x, O B za. osu y.
+Rovnici  indikatrix bodu O v této soustavě můžeme psáti
+-
+ra
+při čemž jako dříve ra, r^ se berou kladně neb záporně podle toho,  leží-li
+příslušné středy křivosti na kladném   neb záporném směru normály n.
+Ježto naše  konstrukce jest na volbě
+parametrických křivek u, v na ploše
+nezávislá,  můžeme kladný směr nor-
+mály n libovolně   voliti;   zvolíme jej
+tak,   aby na   něm   ležel   poloměr ra;
+beřeme-li pak  r^ absolutně,  jest  pak
+rovnice indikatrix
+(1)
+Obr. 5.
+podle toho, je-li O bodem elliptickým nebo hyperbolickým plochy. Libovolný průměr ^ indikatrix měj rovnici
+fiy — a x = 0; průměr mu sdružený h^ má tudíž rovnici
+(2)
+;=a
+(3)
+Rovnoběžka bodem A ku O B nechť protne g1 v A' a rovnoběžka bodem B ku O A nechť protne h: v bodě B'. Z rovnice (2) plyne
+a z rovnice (3) plyne:
+J    A '
+A A   = —- r„
+BB' = +      rtt.
+LVU I. ﻿14
+Proto jest A A' = -+- B B'; úsečky A A', B B' jsou si tedy rovny a mají vzhledem ku smyslu otáčení kolem O stejný smysl pro bod clliptický, opačný pro bod hyperbolický, t. j. vektory A A' , B fí'snaží se otáčeti O A, resp. O B v stejných neb opačných smyslech.
+Tento vztah dovoluje, nám sestrojiti k libovolnému směru směr sdružený, jsou-li O A a O B dány a to způsobem jednodušším, nežli se to v předcházejícím stalo.
+Také známých relací
+ra ;-j sn- a) — i\ r.lf
+kde o? značí úhel A O B, v následujícím vhodně použijeme.
+11. Vytkněme si nyní následující úlohu.
+Dány jsou sdružené směry O A, O B a příslušné -poloměry křivosti O A, resp. O B; mají se sestrojiti k libovolnému směru O G směr sdružený O H a poloměrv křivosti O G resp. O H normálních řezů těmto směrům příslušných.
+Vedeme (obr. 6.) na př. bodem B rovnoběžku k O A, již protneme s g1 v bodě B'\ bodem A vedeme pak rovnoběžku k O B a učiníme v příslušném smyslu A A' = B B'. Pak jest O A' = /zv
+Kdybychom znali již koncové body G a. H pro délky O G, OH příslušných poloměrů křivosti a vedli bychom bodem G rovnoběžku k O H
+až k průseku G' s OB, dále     ?>-,         .- .—--'""   »        'G/
+pak bodem H rovnoběžku k O G až k průseku H' s O A , pak by musely v obdobném smyslu býti úsečky G G', H H' sobě rovny. Vsuneme-li tedy mezi O G a. O B úsečku G0 G0' rovnoběžnou s ^ a mezi O H a. O A úsečku H0 H0' rovno-
+běžnou ku gl a rovnající se G0G0' ve smyslu obdobném dříve uvedenému, bude patrně
+O G : O H = O Gt) : O H0.
+Známe-li tudíž G0 a H0, pak máme G a H podle uvedené úměry tak sestrojiti, aby
+OG + OH =--OA + OB    resp.     \OG~-OH   = \ O A ~ O B ]
+LVIII.
+Obr. 6. ﻿15
+To dává následující konstrukcí délek O G a. OH.
+Na přímky gv hv naneseme dvě stejné úsečky O l, resp. O 2 v libovolném smyslu, třeba tak, že 2 = A', protneme g1 v bodě G0 přímkou bodem 2 k jednomu z průměrů O A, OB rovnoběžně vedenou, vhodně tedy přímkou A A' a ht protneme v bodě H0 přímkou bodem l k druhému z nich rovnoběžně vedenou. Na to přeneseme třeba na ^ úsečky 03 = 0 GQ + O H0, 0±=OA+OB, resp. 03= OGQ — OH0\, () 4 = O A — OB , vedeme bodem 4 rovnoběžku ku 3 H0 až k průseku s ht', průsečík ten jest již koncovým bodem H, hledaného poloměru O H. Rovnoběžka ku H0 GQ bodem H protne gl v bodě koncovém G druhého hledaného poloměru O G.
+12.  Uvažujme nyní specielně úlohu:
+Dány jsou v bode O plochy tečny O X, O Y k hlavním řezům nor-málným, jakož i délky O X, OY příslušných hlavních poloměrů křivosti; má se sestrojiti délka O A poloměru křivosti pro libovolný smér a = OA.
+Přenesme   (obr.   7.)    délky
+v. V
+poloměrů OX, OY na a do OX' ,
+OY' v příslušném smyslu. (V na-
+šem vyobrazení   předpokládá se
+bod hyperbolický.) Dále položme
+kružnici k bodem O tak, aby střed
+její ležel na O X; budiž A\ její
+druhý průsečík s přímkou O X.
+Pak   jest   svazek   rovnoběžných
+paprsků, jejž jsme dříve označili
+(p), kolmý k O X; protněme jej
+kolmicí s A"", na a, která nechť seče
+a v bodě A t ležícím na k. Bodům
+O, X', Y', A v řadě bodové na a
+přísluší v (/>) prometne   přímky,
+které protnou X-i Alv bodech ř/oo ,
+Xlt Y1; AI, když značíme Yl prů-
+sečík přímky O Y s A"", At a Ux
+nekonečně vzdálený bod na X^ Av Přímka Pascalova
+(Xl Y1 A! U*) TV (X1 Y' A' O)   spojuje   průsečík l přímek   Xl O, X' U*
+s průsečíkem 2 přímek Yx O,  Y' Ux .
+Spustíme tedy v X' a Y' kolmice k a a jejich průsečíky l, 2 s O X resp. O Y spojíme přímkou, která protne a v bodě prometne příslušném bodu Ar Rady bodové na Ax Al a a souvisí tudíž tak, že spojnice libovolného bodu na přímce první s O a kolmice k a bodem příslušným se protínají na přímce 12. Jest tedy hledaný bod A průsečíkem přímky a s 12.
+Nekonečně vzdálenému bodu přímky a přísluší na přímce A\ Al bod D, v němž ji protíná rovnoběžka bodem O ku 12 vedená. Kolmice d
+pro promětnost
+LVI II. ﻿16
+Obr. 8.
+s D na O X protne tudíž k ve dvou bodech náležejících směrům asymptotickým bodu O. Seče-li O D kružnici k ještě v bodě A2, protnou se tečny ku k v bodech Al a A2 v bodě 5 ležícím na d; bod ten jest patrně středem úsečky E D, když jest E — X1A2.OA1. Jest tudíž OD směr ku O A sdružený.
+Stanovíme-li tedy pomocí bodů X', Y' body 7, 2 tu přímka 12 protíná a v bodě A  omezujícím délku O A  hledaného poloměru křivosti, současně ale udává též směr pro přímku sdruženou ku a.
+13. Jsou-li O X a OY dány a mají-li se sestrojiti tečny clt c2 řezů nor matných pro daný poloměr křivosti, tu naneseme (obr. 8.) na př. tento a O X na O Y v příslušném smyslu do O C' resp. O X' a opíšeme k jako prve. Seče-li spojnice průsečíků kružnice k s hledanými přímkami clt cz přímku O X v bodě C0> pak značí-li X^, nekonečně vzdálený bod na O X jest (X' YC'0) = (Xl Ó C0 Xn), z čehož plyne, že třeba toliko rovnoběžku
+bodem Y k O X protnouti přímkou X1C' v bodě P, načež X' P stanoví na O X již bod C0.
+Máme-li vyhledati tečny pro křivky asymptotické, když O X a O Y jsou dány, můžeme užiti uspořádání právě provedeného a obdržíme následující konstrukci. Body Xí a Y vedeme rovnoběžky k O Y resp. O X a jejich průsečík spojíme s X'. Spojnice protne O X v bodě DQ a kolmice v Z)0 ku O X vztýčená protne k ve dvou bodech, jejichž spojnice s O jsou hledanými tečnami.
+14. Konstrukce 1.) hlavních tečen, 2.) tečen O X, O Y ku křivkám křivosti v daném bode O plochy, dány-li jsou dvě sdružené tečny a na nich délky O A resp. O B poloměrů křivosti náležejících příslušným řezům normálním.
+1. Bodem A vědmě přímku ta \\ O B a bodem B přímku t^\\O A. Dvojice sdružených tečen tvoří involuci, vy tínají tedy z ta a ^ po jedné involuci bodové. Uvažujme první z nich; ta má A za střed, a bod Gl = ta . tp tvoří s bodem G2, pro nějž A G2 rovná se v příslušném smyslu délce O A, jeden pár její. Směry asymptot spojují dvojné body této involuce s bodem O. Z toho plyne, že pro průsečíky Nlt N2 tečen hlavních s ta platí relace
+A~Ň* = AŇ.? = ± OA . OB = ± r„. rft , dle toho, je-li bod hyperbolický nebo elliptický.
+LVIII. ﻿17
+2. Stanovíme ku spojnici / bodu O, ta . t^ přímku sdruženou m a obdržíme O X, O Y jakožto pravoúhlou dvojici involuce dané dvojicemi O A, OB; l, m.
+Paty A""', Y' kolmic na jednu z tečen O A, O B z průsečíků přímky if(, resp. t,j s O X a OY stanoví pak délky O X', O Y' hlavních poloměrů křivosti.
+Je-li O bod elliptický a položíme-li jím kružnici mající střed na ta, jehož ku ta kolmá bodem A jdoucí polotetiva má délku Yr,(ra > tu kružnice ta seče ta ve dvou bodech, jimiž procházejí hledané přímky O X, O Y. Ovšem mohli jsme místo t„ též obdobně přímky ^použiti.
+l o. Můžeme ale snadno řadu ještě jednodušších konstrukcí odvoditi, které podávají tečny O X, O Y hlavních řezů normálních a příslušných hlavních poloměru křivosti, když jsou dva sdružené směry O A, O B s příslušnými poloměry křivosti dány.
+i. Protíná-li (obr. 9.) rovnoběžka tfl k O B bodem A vedená hledané přímky O X, OY v bodech A',, yit tu stanoví, jak víme, paty X', Y' kolmic s A\ resp. Y, na O A spuštěných délky O X', resp. O Y' hlavních poloměru křivosti. Ježto
+O X -{-OY        O A +OB jest          —^—---------j--------    pro   elliptický
+OX
+O A—OB
+pro hyperbolický
+Obr. y.
+bod, proto splyne střed 50 úsečky X' Y' se středem úsečky B' A, již obdržíme, když naneseme OB do O B' na O A a sice v prvním případě v stejném, v druhém případu v opačném smyslu úsečky O A. Protíriají-li kolmice k O A v B' a S()
+k přímce O A přímku ta v bodech B"", resp. S, jest též A S — S B"". Ježto mimo to Y' B' = .4 A' jest také Yl B"" = A Xl a proto Vt S = S X, = — S O. Tím jsme došli k následující konstrukci.
+Odvodíme bod B', vztýčíme v něm k O A kolmici, až protne tn v bodě B"", rozpůlíme úsečku A B"" v bodě S a opíšeme kolem S co středu kružnici jdoucí bodem O, která protne tn \ bodech Xl a Yj náležejících již hledaným přímkám O X a O Y; pak vyhledáme paty A'', l''kolmic s bodu A'T, ivsp. Y! na O A spuštěných, Čím obdržíme v O X' a O Y' délky hlavních poloměrů křivosti.
+2. Nechť uzavírá O A s O A úhel ca a s O B úhel a, při čemž uspořádejme konstrukci tak, aby a značil ostrý úhel uzavřený přímkami O A, O B a vezměme zřetel k tomu, že přímka O X pro bod elliptický O leží v ostrých úhlech přímkami O A, OB stanovených, pro bod hyperbolický však v úhlech tupých. Pak plynou (obr. 0.) z trojúhelníků OX1A,OYÍÁ
+úměry
+Rozpravy. Roč. XIX. Tť.  II. lis   .'•<.
+LVI II. ﻿COS CO
+: rn — sin a :  sin (K -+. to),
+—.-•-— : r„ = sin a :  cos (a -+- ca), sin m
+Jede se vztahuje tak jako i v následujících úvahách horní znamení k bodu elliptickému, dolní k bodu hyperbolickému.  Z těchto úměr plyne
+rl r*        sin2 a sin 2 ca rL         sin 2 (a + ca)
+a ježto ra r^ sin2 a = r^ rz, proto obdržíme dále
+TÍÍ             sin '2 ca
+rc( ~"" sin 2 (« ip co)
+Z rovnice té vypočteme úhel ca, totiž
+coí 2 co =
+rtl + r.-t cos '2 a r.i sin '2 a
+Tím dospíváme k následující konstrukci (obr. 10.) nejprv pro bod elliptický O.
+Sestrojíme trojúhelník A O Ba tak, aby ve smyslu ostrého úhlu BOA —- «
+O B0=0 B,
+protneme pak přímku A BQ kružnicí kolem A co středu opsanou a bodem O procházející a protínající A B0 v bodech, jež označíme G, H; pak jsou O G, OH hledanými tečnami O X, O Y. Délky O X, O Y stanovíme pak jako prve anebo naneseme na přímku A Bfí ve smyslu od A k B0 úsečku
+AP=OA+OB a rozpůlíme BQ P v bodě M; pak jest A M = rlt B0 M = r2. Při tom leží tečna — O G —, jíž přísluší poloměr křivosti ^ v ostrém úhlu a a v jeho úhlu vrcholovém, kdežto druhá tečna — OH — leží v ostatních dvou úhlech vrcholových stanovených přímkami O A B. O B; pak<3CGO A skutečně jest roven ca, a O G splývá s O X. Při tom obdržíme se zřetelem na vzorec (2) trojúhelník AOBQ tak, že když jest A O B ostrý úhel a, učiníme i co do smyslu <šL.BO B* = <^C A O B a bod #0 pak ustanovíme na prodloužení úsečky B * O přes bod O.
+,v
+Obr.  10.
+LVIII. ﻿19
+Správnost této konstrukce jest snadno patrná.   Délka kolmice BQ B' s B na. O A  jest,   jak   z trojúhelníku O B' B0  zřejmo,   rovna r^ sin 2 a,
+kdežto O B' = r^ cos (jt — 2 K) = — rft cos 2 a; takže
+B' A = B' O + 0 A = O A — O B' = ra + r? cos 2 a,
+z čehož se zřetelem na (2) vyplývá, že <L O A B0 = 2 to. Z trojúhelníka O A BQ následuje dále
+ý + 2 r„ >> cos 2 a
+2(1 — 2 stV a)
+= ?V2 + rf
+tedy jest vzhledem ku relacím na konci odst. 10. uvedeným
+a tudíž
+a tudíž dále
+A BQ = r^ — r.2 A M = rlf B0 M =
+Pro hyperbolický bod O sestrojíme (obr. 11.)   trojúhelník O A B0 tak, že ve smyslu ostrého úhlu A O B — K jest
+<L A O B0 = 2 «, O B0 = O B;
+obdobně jako prve seznáme, že <^C O A B0 = 2 co, takže obdržíme v bodech průsečných G, H přímky A B0 s kružnicí středu A procházející bodem O body náležející hledaným tečnám O G, OH hlavních řezů nor-málných.
+Obdobně  shledáme,  že jest zde A B0 =. fj + r2;   naneseme-] i  tedy  na
+A B0   délku   A P =
+a  roz-
+půlíme-li    BQ P    v    bodě    M,    bude
+a = B0 M.
+Obr. 11,
+Při   tom   vzhledem   k   odvození
+vzorce (2) nutno trojúhelník AOB0 tak odvoditi, že, je-li A O B ostrý úhel a, i co do smyslu <L BOB0 — *$i AOB a G jest pak onen bod na A BQ, pro nějž <^ O G A —m.
+Zaměníme-li v obou případech B a A mezi sebou, obdržíme druhou formu uvedených konstrukcí.
+•2*
+LVIII. ﻿•20
+10. Vzorec (1) vede dále pro elliptický bod k rovnostem
+r« + >'ft        sin- '2 (a — ca) -j- sin 2 co         2 sin a cos (a — 2 ea) r  -    r.\        sin 2 (K ----- co) — sin 2 ca         2 cos « sin (cc   - '2 co)
+takže
+/i' («
+•2 co   —
+(3)
+Pro hyperbolický bod obdržíme obdobně
+2 03}
+fg a.
+(4)
+D
+.C/
+Obr. 12.
+V prvním případě jsme vedeni (obr. 12.) k následující konstrukci. Na kolmici v O k O B naneseme —^— úsečku O Aa = O A a od A0 na obě strany úsečku O B, čímž obdržíme body C, D, pro něž O C = ra -f- r.,, O D = rn — i-p. Rovnoběžka bodem C k O B protínej O A v bodě E, a rovnoběžka bodem D k O B nechť protne rovnoběžku k O C bodem E
+vedenou v bodě F; pak půlí hledané tečny O A', O Y úhly utvořené přímkami O A a O F.
+V druhém případě (obr. 12.) stanovíme body C a Z) a vedeme jimi rovnoběžky k O B jako prve, protneme ale druhou z nich v bodě Ej přímkou O A, první pak rovnoběžkou k O C bodem El vedenou v bodě F^; pak půlí přímky O X. O Y úhly utvořené přímkami O A a O F^
+17. Provedení konstrukce dle vzorců (3) a (4) odst. 10. lze upraviti též následovně.
+Pro elliptický' bod O budiž (obr. 13.) B' bod souměrně položený ku B vzhledem k O a na O B nanesme úsečku OA' =OA. Seče-li kolmic; v A' k O B rovnoběžku bodem B k O A v bodě L a pro-tneme-li přímku L B' aneb některou rovnoběžku k ní přímkou O A v bodě S, tu protne kružnice středu .S1 procházející bodem O tuto přímku ve dvou bodech G, H náležejících přímkám O X, O Y. Neboť z této konstrukce jest se zřetelem na (3) v odst. 10. patrno, že <L.A' B' L = cc~-2(o.
+Pro hyperbolický bod O budiž (obr. 14.) B' a A' taktéž právě uvedeným způsobem stanoveno. Seče-li kolmice v A' k OB rovnoběžku
+LV1II. ﻿•21
+bodem IV k O A v bode L' a protneme-U přímku L' B nebo libovolnou rovnoběžku k ní přímkou O A v bodě 5', pak protne kružnice kolem S' opsaná a bod O obsahující tuto přímku ve dvou bodech náležejících přímkám O X a O Y. Neboť jest z této konstrukce dle vzorce (4) v odst. 16. patrno, že <); A' B L' — a + 2 ca.
+Obr.  14.
+Obr.  15.
+18. Tyto vztahy by nám poskytla naše (l, 2) značná příbuznost též přímo.
+Abychom to ukázali, položme (obr. 15.) pomocnou kružnici k, jíž jsme vždy užívali, tak, aby měla O B za, průměr. Spojme její druhý piů-sečík Al s O A a bod B přímkou a přenesme O A na, O B do O A* bud v stejném smyslu s O B pro bod elliptický aneb v smyslu opačném pro bod hyperbolický.
+Kolmice v B k O B nechť seče O A v bodě F. Bod P půlící úsečku B F jest polem přímky A^ B vzhledem ku k. Z promětnosti řady bodové (A *, B, O, . . .) na, O B a. příslušné na A1 B, která zde přechází v per-spektivitu pro bod R, v němž Al A * seče rovnoběžku bodem O k A1 B, jakožto střed perspektivity. plyne, označíme-li Q průsečík rovnoběžky k O B bodem R s přímkou Al B, že přímka Q P protíná k ve dvou bodech náležejících hlavním tečnám bodu O.
+Nechť protíná Q P přímku O A v T a rovnoběžku bodem B k O A v B'. Z podobnosti trojúhelníků Q A^T, Q B B' a. trojúhelníku .4, Q R, ROA* plyne
+A,T       A1Q          r.i
+TV
+BQ        ±
+A, V
+takže
+i- •- sin K tg u
+Dále jest
+A, B
+LVI1I. ﻿a tedv
+takže
+Uhel A1QT rovná se úhlu, jejž průměr kružnice k kolmý k P Q uzavírá s O A; to jest ale úhel, jehož velikost dle vzorce (3) resp. (4) v odst. 16. jest — (a+ 2fi>.)
+19. Nad míru jednoduchou konstrukci poloměru křivosti pro ortho-gonálný průmět plochy v libovolném bode jeho O', jsou-li dány hlavní středy křivosti a příslušné jim hlavní řezy normální v bodě O, jenž se do O' promítá, podal Mannheim a po něm podstatně jiným způsobem ď Ocagne. Konstrukce ta připouští zcela jednoduché geometrické odvození, jež zde budiž vyloženo.
+Můžeme především (obr. 16.) bez újmy na všeobecnosti položiti průmětnu bodem plošným O; budiž s stopa do průmětny pro rovinu tečnou plochy v bodě tomto. Sklopme rovinu tuto do průmětny a nanesme na sklopené tečny O X, O Y hlavních řezů normálných délky O X, O Y příslušných poloměrů křivosti. Sklopený paprsek promítající bodu O jest kolmice / v O ku s. Přenesme na / příslušné délky O X a O Y do O Xi, resp. O YI, tedy v stejném smyslu neb ve smyslech opačných dle toho, je-li O bodem elliptickým nebo hyperbolickým. Protněme kolmice v Xi a YI ku / vztýčené přímkami O X a O Y příslušně v bodech L a 17; pak udává, jak víme, L 17 směr ku / sdružený. Rovnoběžka m ku | rj bodem O jest sklopením tečnv ku křivce dotyku plochy s jejím válcem promítajícím G.
+Mysleme si nyní sestrojenou ellipsu e nad poloosami O X, O Y. Rovnoběžky bodem Xi k O Y a bodem YI k O X protínají se v bode P náležejícím této ellipse a L rj jest patrně tečnou její v bodě P. Přímka L ^ prochází tedy bodem P a seče / v bodě L tak, že OL jest délkou pro
+LVI1I. ﻿poloměr křivosti normálného řezu přímkou l vedeného. Stanovíme-li rovněž tak body Xp, Y^ na m, pro něž O X^ = O X, O Yft = O Y a ve-deme-li jimi rovnoběžky k O Y, resp. O X, protnou se tyto opět v jednom bodě Q ellipsy c. Protínají-li dále kolmice v Xp a Y/( ku m přímky O X, O Y příslušně v bodech &, % pak jest přímka |t ^ rovnoběžná k /, prochází bodem Q a seče m v bodě M tak, že O M jest poloměrem křivosti normálného řezu vedeného přímkou m. O M rovná se zároveň poloměru křivosti pro normálný přímkou m vedený řez válce G, pro nějž /as jsou tečnami hlavních řezů normámých v bodě O, při čemž jest poloměr ku / příslušný nekonečně velký. Specialisujme pro tento případ konstrukci, již jsme odvodili v odst. 12. Jc-li r poloměr křivosti pro normálný řez přímkou s vedený a uzavírá-li m s přímkou l úhel y, plyne z uvedené konstrukce pro poloměr křivosti O M normálného řezu přímkou m polo-
+y zeného vztah O M = — —% — . V předložené úloze hledáme naopak r, když
+o 1 fř    W
+jest dána délka O M. Spustíme tedy s M kolmicí na s a s její paty Ma kolmici na m; je-li Ml patou této, jest O M^ —r.
+Ustanovme dále na s body X0, Ya rovněž takovým způsobem, jako jsme stanovili Xj,, Yj, na /, tu rovnoběžky k O X a O Y body Y0, resp. Xa protínají se v bodě 5 na e. Ježto / _J_ s, proto jsou O P a O S dva sdružené poloměry ellipsy e, pročež O S \\ | ŤJ. Následkem toho padne bod 5 na •;//, a poněvadž ^ ^ || /, jest Lx ^ J_ s. Proto protne Lx rti přímku s v bodě, jejž jsme označili Ma. V affinitě ellipsy e s jednou neb druhou její kružnicí vrcholovou přísluší poloměru OS poloměr O Xa resp. O Y0. Přímce Q Y^, vztahuj eme-li ji k e, přísluší vzhledem k velké kružnici vrcholové přímka Xp, Q^ \\ O X; bodu Y^ útvaru prvého přináleží tudíž v útvaru druhém průsečík Ql přímky bodem Y„ k O Y rovnoběžně vedené s přímkou Xn Qv a ježto Y^ leží na 05, musí proto příslušný bod Q: ležeti na přímce s k O S affinní.
+Kružnice obdélníku
+opsaná   jde bodem Ma,   poněvadž
+jest s J_ L1 r}v
+Dále jsou úhly obvodové Ma X^ Y^, Ma Q Y^ sobě rovny, a tento rovná se dále úhlu Ma Xa S, z čehož plyne shodnost trojúhelníků Y ^ Ma X^, Y0 S X„, pročež O Ma =0 S. Je-li tedy 5j patou kolmice s bodu S na y. jest OSl=OM1.
+Tím jsme došli k vytčené konstrukci.
+Vztýčíme v O kolmici s ku /, stanovíme na 5 body Xa, Ya, aby O Xa =OX, O Ya = O Y, vedeme pak rovnoběžky těmito body k O Y, resp. O X a s jejich průsečíku spustíme kolmici na s; značí-li 5j její patu, jest O Sj hledaný poloměr křivosti.
+Anebo stanovíme na / body Xj,, YI, pro něž O Xi = O X, O YI = O Y, jimiž vedeme rovnoběžky k O X, resp. O Y, s jejíhož průsečíku spustíme kolmici na l', je-li Lv pata této kolmice, jest O L^ hledaný poloměr křivosti.
+LVIII. ﻿Při tom obdržíme jako vedlejší výsledek novou konstrukci tečny m k dané tečné l sdružené, když O X a O Y jsou dány.
+Potřebujeme toliko vztýčit v O kolmici s ku /, na niž naneseme příslušně O X, O Y do O Xa, resp. O Ya; rovnoběžky k O X a O Y body Ya, resp. Xa protnou se v bodě S, a m —O S.
+20. Konstrukce středu křivosti pro libovolný bod obrysu plochy při ccntralném promítání. Posuneme (obr. 17.) opět průmětnu P rovnoběžně do polohy Pw procházející bodem O. Kdyby průmětna PM byla kolmá k promítajícímu paprsku C O bodu O, pak by hledaný poloměr křivosti byla opět úsečka O S, nebo O L, předcházející konstrukcí odvozená, jak to z věty Meusnierovy přímo vyplývá. Je-li ale průmětna k CO libovolně nakloněna a je-li v ní t stopou roviny tečné v O ku ploše, tu se
+o'          t,
+Obr.  17.
+bude jednati o poloměr křivosti onoho řezu normálncho pro bod O v promítajícím kuželi, který obsahuje přímku t, při čemž jest poloměr křivosti hlavního řezu normálního vedeného přímkou s JL C O roven úsečce O 5t dřívějším způsobem odvozené.
+To dává tudíž následující konstrukci pro náš případ obecný.
+Budiž tj stopa do P pro promítající rovinu tečnou plochy v bodě O. Tato stopa dotýká se tedy v průmětu O' obrysu plochy. V této rovině tečné vedeme bodem O tečny k hlavním řezům normálním a naneseme na ně délky O X, OY, vedeme bodem O přímky t\\tj a s±CO, stanovíme na s body Xa, Y<} a z těch pak bod 5 jako prve, spustíme s 5 kolmici na s, již protneme přímkou t v bodě, v němž vztýčíme kolmici k t, jež protne s v bodě T. Délka OT jest, jak z předcházejících úvah plyne, rovna poloměru křivosti v O pro normálný řez kužele promítajícího, jehož rovina jest vedena přímkou t. Seče-li promítající paprsek CT rovnoběžku k s bodem O' vedenou v bodě T„ jest O' T, délka poloměru křivosti onoho řezu normálného v promítajícím kuželi, jehož rovina prochází stopou //. Naneseme-li na normálu k rovině C // v O' vztýčenou poloměr O' J\ v pří-
+LVIII. ﻿•2.5
+slušném smyslu do O' Q, pak protne kolmice s Q na průmětnu P' tuto v hledaném středu křivosti.
+21. Konstrukce poloměru křivosti pro orthogonalný obrys plochy v případe obecnějším.
+Budiž (obr. 18.) zde projednán případ, který se v deskriptivní geometrii často naskýtá. Předpokládejme totiž, že na ploše procházejí bodem O, který se promítá do bodu na obrysu plochy, dvě křivky klt k.2> jejichž k bodu O příslušné středy křivosti Kv K2 jsou dány; mimo to předpokládejme, že dovedeme k tečně O A jedné z křivek, na př. kz, sestrojiti
+Obr. 18.
+přímku sdruženou bv Stanovme nejprv známou cestou z Tv/a K» středy křivosti Hv, H2 normálných řezu plochy vedených tečnami O C a O A v O k daným křivkám kl} k.2, nanesme délky poloměru O H^, O Hz na tyto tečny do O C resp. O A a položme v rovině tečné plochy kružnici k bodem O, mající svůj střed w na př. na přímce O A a. protínající ji ještě v bodě Alt přímku O C pak v Cr Nanesme dále na. O C úsečku O A0= O A v příslušném smyslu a protněme kolmici v Aí k O Al rovnoběžkou bodem m ku 6j vedenou v bodě P. Tento bod jest polem vzhledem ku k pro přímku spojující další průsečíky přímek O A, ř»t s k. Vytkněme si opět pro-mětnost řad bodových (A0, C, O, . . .}, (Alt Clt Ux, • • •), kde U& leží nekonečně daleko na A1C1. Vědmě bodem AQ rovnoběžku k C, A^ až protne O A1 a spojme průsečík takto obdržený s C přímkou ^/, která jest patrně osou promětnosti uvedených řad bodových. Rovnoběžka k 4 bodem O nechť seče Q A^ v bodě R', pak by přímka R P protla k ve dvou bodech, náležejících směrům asymptotickým plochy pro bod O. Proto seče průměr kružnice k kolmý k P R tuto v bodech náležejících tečnám
+LVIIT. ﻿O A', O Y. Rovnoběžka k 6, bodem A protne O X a O Y v bodech Xít resp. \']j budtež X', Y' paty kolmic s těchto bodu na O A spuštěných. Přenesme pak opět O X', O Y' na promítající paprsek / do O Xj., a O Y), v témže smyslu nebo ve smyslech opačných dle toho, je-li O bod elliptický nebo hyperbolický, vědmě body Xj., Yj. rovnoběžky k O X, resp. O Y n jejich bodem průsečným kolmici na /, jejíž pata budiž L, pak jest O L hledaný poloměr křivosti.
+22. Zvolme si za příklad helikoid F, jenž se vytvoří šroubovým pohybem dané křivky kv, pak máme takový případ před sebou, o kterém jsme. právě jednali. Budiž O jeden bod křivky dotyku pro plochu F s promítajícím válcem. Bodem tím probíhá na ploše křivka šroubová k.>, již vytvoří bod O při daném pohybu šroubovém. Pro tuto křivku dovedeme známým způsobem sestrojiti v O tečnu O A, jakož i poloměr křivosti a můžeme dle věty Meusnierovy sestrojiti ihned též poloměr křivosti pro normálný řez plochy vedený tečnou O A. Rovněž jest znám jednoduchý způsob, jímž lze sestrojiti přímku bl k O A sdruženou jakožto přímku povrchovou rozvinutelné plochy šroubové dotýkající se plochy F podél ki a konečně odvodíme ze středu křivosti K± křivky k± v O podle Meusnierovy věty poloměr křivosti OČ pro řez normálný plochy F, jehož rovina prochází tečnou ku &, v bodě O. Tím jsme převedli konstrukci na případ předcházející, čímž jsme nabyli konstrukce pro kružnici křivosti v libovolném bodě orthogonamého obrysu přináležejícího obecnému heli-koidu. Provedení této konstrukce neposkytuje zde dalších obtíží.
+Jak by se táž úloha řešila pro obrys průmětu centrálního, plyne z uvedeného bezprostředně.
+Zvláště jednoduše utváří se tyto konstrukce pro zborcené plochy šroubové, jejichž provedení plyne přímo užitím uvedeného postupu na zvláštní případ tento.
+LVIIJ."

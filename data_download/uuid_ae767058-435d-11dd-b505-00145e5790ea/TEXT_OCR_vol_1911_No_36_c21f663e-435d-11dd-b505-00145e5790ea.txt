@@ -1,0 +1,337 @@
+"","x"
+"1"," ﻿ROČNÍK XX.
+TŘÍDA II.
+ČÍSLO 36.
+O novém zobecnění řady Taylorovy a Lagrangeovy.
+Sdílí M.  LERCH v Brně.
+(Předloženo dne   10. listopadu   1911.)
+Vycházejme z posloupnosti funkcí
+(1)                                     i>0(z),    ^(z),    ^(z), . . .
+jež  jsou  v  určitém intervallu   (a . . . b)   vesměs  konečný,  spojitý a   od nully různý. Z těchto funkcí vytvořme další řadu funkcí
+(2)                                 <Pi(x,z),    <Pz(x>z)>    'is(x>z}> •  • •
+na základě podmínek
+2 Z
+e z
+(x, z) = #0 (z],    Vl (x, x) = 0;
+(JP2 (X, Z) = qpj (X, Z) ^ (z),      <pz (X, X) = 0;
+(f>v+l (x, z) = qp, (x, z) tyv (z),    <JPv+i (x, x) = O
+v+ ! (X, Z)   =      <jp„ (X,
+atd., obecně
+®         L
+čili též (3*)
+Při tom x znamená libovolnou hodnotu v uvažovaném intervallu. K vůli lepšímu přehledu připojíme k řadě (2) ještě prvek <jp„ = 1.
+Uvažujme nyní funkci / (z), spojitou na mezeře (a ... b), a mající veškery derivace, jež se v úvaze vyskytnou. Vycházejíce z této funkce tvořme pomocí posloupnosti (1) řadu funkcí nových
+/o W.
+RoZpravy:   Roč. XX. Tř. II. Čís. 36.
+XXXVI. ﻿dle zákona
+Pomocí těchto funkcí /„ (z) a funkcí qp„ (x, z) utvořme součet
+n — l
+(5)                                   L*(*)=     /»(*)*»(*.*)•
+Ten je v uvažovaném intervallu spojitá funkce proměnné z  a má derivaci
+«— l                                n—l             ^
+Sn   (Z)  = J] // (Z) <pv (X, Z) + JJ /„ (*) -^- g)v (X, Z). V=tO                                     v = 0
+Poněvadž dle (3) a (4) jest
+g
+/„' (^) = — fv+1 (z] ýv (z),    — <pv (^, ^) = ^„j («, z) ^v_x (2) a mimo to
+v= O n — l
+bude poslední výraz
+fv (z) <pv — l (X, Z) tyv—\ (z)', v=\
+zde se však v právo členové po dvou ruší a zbývá toliko poslední člen prvního součtu
+(6)                            S„' (z) = —/, (z) *„_! (z) <p„-1 (x, z). Dle věty o střední hodnotě
+S„ (x) — Sn (z)   .    c , /   v  '      _= /                t
+A; — 2                    »  \ i/»      i       v    ••     -       ),
+kde ^ značí určitou blíže neznámou veličinu mezi x a z, s ohledem na očividnou okolnost, že
+M*) =/„(*)=/(*),
+plyne pak vztah
+(7)                                             / (*) - Sn (z) + Rn, kde položeno
+7?       __   (v __   y\    C   '   (~ \
+•f^n — ^---- ^; -5n   (Zi)
+t. j. dle (6)
+XXXVI. ﻿Rovnice (7) čili
+i (7*)                            /(*) =
+podává rozvoj funkce / (x) podle funkcí <pv (x, z).
+Poněvadž funkce /„ (z) — jak ze zákona (4) vysvitá — předpokládá existenci derivací f (z), /"" (z), . . . f(n) (z), musí funkce / (z) míti tyto derivace vesměs konečný a spojitý.
+Jiné vyjádření zbytku Rn vychází z (6), píšeme-li | za z a integruje-me-li v mezích x a z:
+z (9)               / (X) — Sn (Z)   =Rn = ^fn (L) t^-!  (|) qpn-i (X, |) d |.
+X
+Tyto úvahy přenášejí se bezprostředně do oboru funkcí komplexní proměnné, pouze s tím rozdílem, že na místo rovnice (8) nastoupí jiné ocenění zbytku, jež snadno se odvodí z identity (9).
+Jako první příklad uvažujme případ, kdy veškery základní funkce (z) splývají s číslem 1. Funkce (2) pak budou
+/      \                                         /     \
+(x, Z)=Z — X,     (jp2 (x, Z] =
+a funkce (4) budou
+/ (y\ -    _ /' iy\     t <?\ — i"" (7\     i (y\ —__i""1 (y\
+h \ZI   ~""        l    W»       /2 W   — /      \Z)>      /3 \^l   —       l        \*h   •   •    •
+f    (z\   — (___ 1 \v j(v) lz\ •
+Iv \Z)   —  V        L)    l       {*•> >
+řada (5) pak bude po dosazení těchto hodnot zníti
+n—l                                 ,             .          » —l   ,. .   ,   ,
+o  / \ __V^ /__-i\v j(V) /z\   \z     x)    __ V1 /    (z)   i   __  \v
+n ^ '      2j                             v\           Zj     v\
+O                                                                           v = O
+takže nám v tomto případě rovnice (7) podává řadu Taylorovu se zbytkem ve tvaru
+Rn = /(») (2 )   v%      zi (x      zi> ____
+Definice funkcí g>„ (x, z) je dán?, rekurrentním vztahem
+i (3*)                               ?w i (x, z] ---    <?„ (^, |) ^v (í) d É.
+XXXVI. ﻿Zvolíme-li tedy
+obdržíme postupně
+,      x                                                        ,      v
+(x, z) = arctg z — arctg x,    y2 (x, z) =
+
+(arci g z — arci g x)2 -±-   - - — - 2— í-
+. . . . (pv(x, z) = — r (arctg z — arctg x)v. ví
+Funkce /„ (z) se v tomto případě tvoří dle zákona
+/, (z) = - (l + *») /' (z),    f2 (z) = - (l + *') // (z). . . .
+fv+l(z) = — (i + 2i)fv'(z), a rozvoj bude zníti
+předpokládáme-li funkci analytickou v okolí bodu 2, jemuž x je dostatečně na blízku. Jinak psáno
+S00    (— l)v /„ (z) (            x —z V
+—ÍT ~(arcts TT^rJ •
+v=0
+Klademe-li x = tg u,    z = tg v,    máme
+(u — v)v,
+tedy
+Jako příklad uvažujme z — O, takže
+V případě / (x) = log (l + x2) to podá
+log (1 + &) =^CV (arctg x)*»
+i
+pro všecka reálná x, při čemž konstanty Cv jsou dány identitou
+kde Bv jsou kladná čísla Bernoulliova
+fíl = T'    5* = ""30""'    B3 =
+42 '
+XXXVI. ﻿Volme dále i!>v — %' (z), kde funkce ý (z) nemizí na mezeře (a ... b); naše definice podá pak
+(x> z) = J *o (l) <*!=** (*) — x (x)>
+(x.
+
+Náš výsledek podává tak řadu Burmannovu a Lagrangeovu
+
+s koefficienty
+/0 (z) =
+při čemž zbytek je dán výrazem
+z
+(iob)             ^» - -                  /- (« [« (í) - x W]""""1 z' (I) <* l-
+U reálné funkce # (|) zůstane ^ (|) — ^ (A;) uvnitř mezery integrační od nully různo, poněvadž by rovnost ^ (|) = ^ (#) měla za následek existenci kořene rovnice ý (z) = O mezi hodnotami x a L, což je proti podmínce; dle věty o střední hodnotě bude tedy
+(lOo)                    Rn = ^- h (*) - Z (*)]"",       %=(*...«)-
+Předpokládejme nyní ^ (2) analytickou funkcí, pravidelnou v jistém komplexním oboru 91, v němž nezmizí derivace %' (z), a žádná hodnota funkce # (z) v něm není dosažena na dvou různých místech.
+Pak bude — pokud / (z) je funkce analytická v oboru 91 pravidelná —
+kde integrace se provádí v kladném směru podél celého okraje oboru 9Í. Odtud plyne derivováním
+tedy
+/M      i   f __ /K /aU   ""T^T         -
+xxxvi. ﻿Stejným postupem máme odtud
+.   2!  f __L&'<_ / w
+- <i„i J lz(<)-ÍMJ» z ( Tak pokračujíce obdržíme obecně
+/' (t) d t
+-   2!   f __L
+- 2*i J  b(<)-Z
+Píšeme-li to ve tvaru
+plyne dle známé identity Cauchyovy
+následující vzorec
+(W)               (- l)- /. W =
+Pro součinitele řady
+(ii)                       /W
+tedy vychází vyjádření
+(t — 2)w
+/' (í)
+
+B u r m a n n   předpokládal   2 zvláštní,   tak   aby   # (-2) = O,  takže u něho řada zní
+(12)
+Búrmannova řada se jen formálně liší od   Lagrangeov y.1) Klademe-li
+jest <jp (t) analytická funkce pravidelná v oboru 91,   mající v něm pouze jedno místo nullové t = z.
+') Mémoires de l'Academie de Berlin,  1768.
+XXXVI. ﻿Píšeme-li
+x — z
+máme rovnici
+(13)                                              x = z + u <p (x),
+která pro dosti malá u má v oboru 21 jen jedno řešení x,  a pro ně platí řada Lagrangeova
+(13-)        / (x} = Y^- u»;      a, = f (z),      av = Dv ~1 [/' (z) <p (z)""].
+V četných případech   náš původní tvar koefficientů   (10a)  podává výsledky pohodlně. Tak na př. pro řešení číselné rovnice
+Z (*) = O,
+u níž známe sblíženou hodnotu z kořene. Zde položíme / (z) = z,  tedy dle definice funkcí /„:
+/3 (^   -
+Z'"" (*) ť (*)
+Při těchto hodnotách /„ bude kořen x dle (10) dán řadou
+t.  j.
+První dva členy podávají methodu Newtonovu. Pro ocenění přesnosti podává vzorec (10C) zbytek — jenž následuje po n členech řady —
+7?    - - _Mfá_ v (z\«
+n\     X( ' '
+kde 2j leží mezi bodem z a x.
+Podržíme-li tedy v poslední řadě  pouze  napsané  tři  členy,   bude chyba
+Obecné vzorce zřídka kdy podávají přehledné výrazy  součinitelů rozvoje Búrmannova
+/(*) =
+ví
+(z (z) = o).
+XXXVI. ﻿Víme, že Av jest lineární výraz sestrojený z prvků
+/'(*),    /""(*),  ....    /«(*),
+jehož součinitelé obsahují derivace funkce  % (z).   Utvoříme-li tedy rozvoj funkce zvláštní
+ecx =
+bude Ayf (c) lineární funkcí veličin ecz ca (a = l, 2, . . . v), t. j. Av' e~c"" bude polynom o proměnné c; jeho součinitelé jsou titéž jako v polynomu Av, a tedy vychází polynom Av symbolicky z polynomu Av' (/), v němž se symboly /* nahrazují derivacemi /<*> (2).
+Hledejme na př. rozvoj (% (x) = e*— 1;    z = 0)
+(14)
+Jemu po boku stojí rozvoj
+klademe-li e* — l = ř, máme
+tedy
+V!
+a odtud pro součinitele řady (14) symbolické vyjádření
+(14>)      '       4-f-W^/W,     *=0.
+t. j.
+v           v
+X0=/(0),    A = /'(0),    4Ž = /(/—!) = /""(<>)—/'(O), A, - /</ — 1) (/- 2) = /""' (0) - 3 /"" (0) + 2 /' (0), . . .
+Symbolicky lze řadu (14) psáti
+(e* — iy,         2 = 0.
+Seřazením dle derivací docílíme téhož jako kdybychom scčtli formálně binomickou řadu
+D
+XXXVI. ﻿a skutečně jest
+= /(*)     (Pro ^ =
+Jako další příklad hledejme koefficienty rozvoje
+tedy zvláště
+Položí-li se /og (l + #) = t, vyjde řada
+kterou možno přímo stanoviti.   Je totiž
+(ít, v = l, 2,3 . . .). V poslední závorce tvoří první dva výrazy veličinu ec, a tedy bude
+Poněvadž  zde  ft > O,   možno  připojiti  nullový člen  v = O,   a  dle obecného vzorce
+v němž dn a0 značí první  člen w-té řady rozdílové tvořené ze základní posloupnosti
+«0>   al>   «2»    •    •    •   '
+jest
+p— c X                  —   %_________/.n
+L~J~ ~L ~rí~   '
+v=0                n=l
+(při čemž symbol ^/"" O*4   má obvyklý význam prvního členu w-té rady rozdílové tvořené ze základní posloupnosti
+O,   li*,  2<"", SP, . . .) bude náš výsledek zníti
+XXXVI. ﻿.  10
+Dle toho jest
+a při obecné řadě pro / (x)
+f*
+É4k O'' ~kl~
+«,=s
+O""
+Při těchto hodnotách součinitelů bude tedy
+/'(*)=/ (0) +-[*>g (i + *)]'•,
+ovšem za podmínek, jichž formulování je na snadě.
+Zvolme konečně za funkce tyv výrazy
+funkce <jpr (x, z) jsou definovány rekurrentním vztahem <jpr+i (x, z) =\<pv (x, L) tyv (|) cč l,    (p0 = l
+a obdržíme postupně — zavedeme-li označení
+e* = Z,    e* =X,    sv = a0 + % + «2 výrazy:
+Z-
++
+,
+T    „    /             T~T ~T
+SQ Sj           S0 (S0----
+O____C   \      '
+h      ^o)
+7st                       YS„  7st — s.                              Vst  7st — si
+L**                                    XX         ^v                                                        ZX         ^/
+^0 ^1 52          50 (50         ^1'  (^0         52/           51 (51        5o)   (51 """"
+l       >    / -.         „\/-         «\'
+,
+1
+.
+S0 Sl S2 S3          S0 (S0         Sl)   (S0        S2J   (S0
+S»-S*                                                      S»S«
+Q     i o____o     l f C____c   \   i c____C   l        ""         C     l Q____C   l   i C____Q   i   i C    —
+' X*
+S3 (S3----So) (S3         Sl) (S3         S2)
+Při stanovení členu nezávislého na Z užívá se tu identity
+XXXVI. ﻿II
+která vychází bezprostředně z Lagrangeova vzorce interpolačního; a sice mají tu veličiny xv hodnoty
+XQ = O,      X1= SQ,     Xz =
+Obecný výraz <p„+i jest
+= S2,
+XSi 7sv — *«
+77'
+i
+77'
++  •  •  •  + 77'
+kde
+77 (s) = s (s — s0) (s — sj (s — s2)  . . .  (s — s,)
+s =
+= a
+a předpokládá se, že veličiny s„ jsou vespolek a od nully různý. Definují-li se pak ještě veličiny fv (z) rovnicemi
+(15*)                       /0 (z) = f (z),    fv+1 (z) = - // (z)
+bude rozvoj náš zníti
+n—l
+(15*)
+Rn'
+Obdržíme postupně v označení symbolickém
+Z)
+(z) =e~
+(— 1)""+' /„+1 («) = e-^^ D (D — s0) (D - Sl) (Z) — s2) ... (D — s,_! kde operační symbol Z) značí Dg =-^— (derivování dle z).
+t'    -^
+Zavedme nyní označení
+(16a)                     77„ (s) =s(s — s0) (s — st)  ...  (s — $„_!),
+jehož užitím vyjádří se poslední výsledek symbolicky jak následuje (16b)                          (- 1)"" /„ (z) = e-*»-i* Ilv_, (D,) / (z),
+a rovnice (15) se píše
+v-l
+(16C
+in*        W M TIj (s) = s (s — s0)
+XXXVI. ﻿12
+(jpQ —  l,              (jpj (X, Z)   —                    • -j       -      ,
+S0 Sl            S0 ($0         ^i)            Si (Sl         SQ)
+f     --   í (y\              t    (?\__p— S0* /'  (z\
+/O   —  /  \Z)>           li  \Z)   — C          l    \Z>-
+První členy rozvoje pak znějí
+(16)
+[_ 1            fs» (x—z) T
+-TT-+-'     -*o              o      J
+[-i r   i             es«(x-z)              g»i (*--*)    l
+/- w - s„ /' (»)J [-L- + 7^rrr + , .       J J    1_  OQ o-i            OQ   \*^fl          l/              l   VI          O/
+[n r   — i                              g«o <*—2)
+/'"" (z) — (So + sx) /"" (z) + s0 Sl /' (*)J [yy— + ~-7—_ s v .
+
+- z)
+Sl (Si — S0)  (Sl — S2)
+
+(X — Z)
+S2 — S0      S2
+
+K tomu ještě dodáváme, že rozvoj funkce
+/____    1 \V    a---  Sv__J   Z    fft         ly,        g\       ----     y         ÍJf
+dle mocností rozdílu x — z začíná členem
+(*—*)*    ,
+(x-z] =
+v\
+což vychází z identit
+(16e)
+»         '
+0 pro k <n — 11.
+1 pro * =»-l}'   "" W = í*""^ ««-«*
+Obecný člen řady (16) lze psáti též přehledněji takto: Z) (Z) - so) (Z) - Sl)  ... (Z) - «„_!) / (^) . 2iF+1 (^
+C,sku
+nv+1 (o)
+Zvláště máme pro / (x) = ecz a z = 0:
+(17)                        e<*=l + c(=±
+\   s0
+s k
+S0'
+So) (ť
+esix
+
+-+
+e
+Sl  (Sj ---- SQ)   (Sj ---- Sg)            S2   (So ---- SQ)   (S2 ---- Sj)
+XXXVI. ﻿13
+Pro funkci #, podává Lagrangeův vzorec interpolační   následující vyjádření
+<18)                 *»M=^^W'
+kde integrace se provádí v kladném směru podél okraje libovolného oboru 3Í, majícího uvnitř body L = O,    s0,    s1( . . . s„_i. Rovnice (17), již lze psáti
+/íC X  —   1      1     r> /v    (/y\      l     r  ir ___ c \   v    l v\     l     r  (r ___ c \   ir ___ C \   *v    i *v\      l
+-   L  ~T  ť AI \A/     \^ L  \L        bQI A2 W     t    c \c        ^O)   Vc         51/  A3 W   T   •    •    •
+podává   zároveň   methodu   k   postupnému   vypočtení   polynomů   %v (x); klademe-li totiž c = s0,    sv    s2, . . . obdržíme postupně
+e** = l + Sl L (x) + Sl (Sl — s0) %2 (x),
+<*** = l + s2 & (*) + s2 (s2 — s0) x2 (x) + s2 (s2 — s0) (s2 — sJteW,.....
+z kterýchžto rovnic se postupně určují polynomy Xi (x)> fa (x)> fe(x) • • • V rovnici (16) přejíti možno k limitě pro s0 nekonečně malé,   což odpovídá volbě
+il>0 (z) = l,    ýv (z) = e«»*.
+A sice obdržíme při označení
+(19)
+t. j.
+lim %,(u) = x» («) =
+s,=0 v-1
+Jj s*2 (s* — si) (Sk — s2) . . . (s^ — s„_]
+i
+i-1)1""1 (u iV 1 V
+S|<^...V-lV-       iŘ1!5*^
+/(*)=/ (^) + /' (z) (*-*} + /"" (*) L2 (* —
+rozvoj (19*)
+při čemž polynomy Xv (u) se mohou počítati na základě identity
+#"" = l + C U + C2X2 (u) + c'~ (c---si) ^3 («) + C! (C---Sj) (C---S2) fa (l
+platné pro c = O,    s1(    s2, . . .   bez ohledu na konvergenci. Zvolíme-li zvláště
+Sl = — log 2,    s2= — log 3, ....   s„ = — log (v + 1),
+XXXVI. ﻿14
+(přirozené logaritrrmy), bude řada funkcí ýv (z) zníti
+a zdá se, že rovnice (19*) pro ten případ poskytne rozvoj funkce Rieman-novy #L(! + #) vhodný k applikacím, o čemž by dříve bylo třeba provésti aspoň numerická šetření některých koefficientů.
+XXXVI. ﻿* ﻿*"

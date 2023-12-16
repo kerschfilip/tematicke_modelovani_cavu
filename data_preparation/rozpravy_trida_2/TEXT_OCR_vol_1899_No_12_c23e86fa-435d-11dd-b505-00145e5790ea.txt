@@ -1,0 +1,382 @@
+"","x"
+"1"," ﻿ROČNÍK VIII.
+TŘÍDA II.
+ČÍSLO 12.
+O některých vzorcích z theorie determinantů.
+Sdílí
+M. Le r c h,
+professor na universitě ve Fribourgu švýcarském.
+(Předloženo dne 20. ledna 1899.)
+I.
+Znamená-li nám A^, A\,, x3 . . . x„ soustavu n daných a vespolek různých veličin, naznačme symbolem
+součin rozdílový
+(\\, xít X8 . . . *„)
+— A-„),    («, P= l, 2, . . . n),
+který jak známo rovná se determinantu
+l     A""       V   2            X "" ~^
+l   l     X      X  2              X. "" ~~l
+l 15 Xllí Xll^ . . . Jf,,""-1
+a položme dále k vůli přehlednosti
+f (A — (f__ v \   (f__. x   i   (/__x \         (f__x )
+Při tomto označení platí pak známý vzorec Cauchyův*)
+*) Cauchy, Exercices ďAnalyse, 2e vol., p. 154.  Baltzer, Theorie u. Anwendung der Determinanten, 5. vyd. str. 102 a 103.
+Rozpravy:   Ročn. VIII.   Tř. II.   Č. \2.          XII.                                                   l ﻿(1)
+	1	1	1	1
+*l	v     ' 1	1	1	1
+t*		/               V       ' '2         * 2	/„ — xx '	fs — x„
+	1	1	1	1
+tn	-.V,    ' //(«-	t„ — x..	/       v  ' *//         *g	*  '  *    /           v *»•        *«
+— (	1\         2	~_VjJ     2'	•    •   «   t;/J    ^	(.r,, .r2, . .    .Y,
+/(>,)/('*).../('»)
+z něhož chceme některé konsekvence vyvoditi, a. který především elemen-tarnou cestou znova dokázati hodláme.
+Abychom determinant (1), jejž znamenejme C, vyčíslili, odečtěme od konce počínaje ode všech sloupců determinantu toho po každé sloupec bezprostředně předcházející, takže první sloupec zůstane beze změny. Poněvadž
+ll        _          -va+1 — .r„.
+vyloučí se z determinantu činitel
+se zbylým determinantem naložme jako s předešlým, toliko s tím rozdílem, že první dva sloupce mají zůstati nezměněny; tu nás identita
+l                                       l
+(t
+4-2)          (/ - JCa)     (t - Jf„-:-
+X a + 2 - X a
+__ (t r— XJ   (t - Xn + i)   (t— Xa + 2)
+ve.de k vyloučení dalšího činitele
+O3 — jc-J (x4 — jf2) (.r5 — .v3) . . . (.r„ — jr„ _2) ;
+naložíme-li se zbylým determinantem obdobně jako předešle, a s výsledkem rovněž a t. d., obdržíme takto pokračujíce konečně výraz
+C—D (>%> — .r,) (x, — .r2) . . . (x„ — #„_i) . (.r., — .v,) (^ — ap§) .-. .
+(X« — X,t -2)    •    O4 — -V, )   (T-  — .Yj,)    .   .   .    (X„ — XH  - 3)   .   .   .   .  (*„ — A',) ,
+při čemž D nám značí determinant
+XII. ﻿	1	1                                  1                                                 1
+	*-*i'ft-*,	)(A--r2)' (/1-.r1) (,,-x,) (/,-x.)' ""'C',-*!)  &-*,)...&-*.)
+	1	1                                  1                                                 1
+	f -se * {Ě--X ÍH     -*j     ^«    •*]	) (4 - -r2); (4 - xx ) (4 - x2) (4 - x3)' ' ' ' (4 - xt )   (4 - x8) . . . (4 - x«)
+a	tedy máme	
+Abychom určili determinant D, násobme první jeho řádek funkcí f (t^\ druhý veličinou /(t2), a t. d., konečně ;/-tý řádek veličinou /""(/„). Tak obdržíme součin
+vyjádřený determinantem, jehož první řádek má prvky
+g)   (/l  - *S)     '   •   '     fe -
+/ft)
+(/, — Xí) (t, — x, konečně
+/ft)
+= 1.
+a ostatní řádky mají prvky téhož typu. Znamenáme-li tedy obecně bude
+«—1(4), L« —2(4), . . . ^ (4), l
+Odečteme-li od prvního sloupce v tomto determinantu vhodně volený aggregát sloupců následujících, zredukuje se na první členy funkce 6„_i, t. j. na prvky f1""~'1, 4""""1, . • . 4""""1; podobným způsobem lze druhý sloupec uvésti na //~2, 4/'~2> • • • ^""-1i ta^ pokračujíce, obdržíme
+4
+« — l / »z —
+/ u — l / « — 2             /      1
+»d         *;;          ...   í«     l
+XII. ﻿kterýžto determinant má hodnotu *)
+-1)
+(-1)
+4)
+a tedy
+W   «— 1)
+čímž vzorec (1) dokázán.
+f(fí)f(tí) • • ./(/«)  '
+II.
+Rovnici (1) pišme nyní ve tvaru
+• — 3
+f(tn]         f(tn)
+fíU     /(A)          /ft)     /&)
+/  "" — 1                 / "" — 3                                     /                               1
+*j»                           '//                                                ';/
+1
+4)       /(4)
+1
+*|   •        A"";/
+';/            ^ w
+rozviňme obě strany dle klesajících mocností veličin ^, 4, • • • 4, i porovnejme na obou stranách součinitele při členu
+l
+při čemž celistvá kladná čísla w,, w,,, . . . m„ tvořtež řadu stoupající, takže pouze ;;/x  může po případě býti nullou.
+Na pravé straně bude uvažovaný součinitel zníti
+fj, T., . . . x„)
+znamenáme-li k vůli stručnosti
+»("" -i)                             r » ""i         r « i
+*)   Znaménko   (— 1)         "" lze    též    psáti   (— 1)1 2 J,   kde l -^-í značí   ceiky
+zlomku
+2   '
+XII. ﻿Cy\                        (M     m            tti } —                                   2
+\6)                             \""lly   ""l->i   •   •   •   ''IH)  ——
+TIH\      -Y""     '^í»                      'V     W n
+it      -v„   '   .   .   .   X n   »
+abychom vyjádřiti mohli téhož součinitele na levé straně, položme l
+(3)
+—          O          l             ""l
+fit         l       /""-
+f""+2
+-f • • • ,
+při čemž ÍTO =z l, a znamenejme dále L_j = L_2:= . . . =0; pak snadno se obdrží náš součinitel ve tvaru determinantu, a porovnáme-li jej s výrazem (2) obdržíme rovnici
+(4)
+Zbývá nyní determinant na levé straně stojící přetvořiti tak. aby se v riěm vyskytovaly pouze základní úkony souměrné veličin ^ .v,,, . . . x„, čili což totéž jest, součinitelé funkce
+(5)     (/ — jc-j) (/ — jr2) ...(/— ,Y„) = /"" -f tfx t"" ~ l -f «2 /"" - 2 + . . . + a„. K tomu cíli dospějeme pomocí rovnice rekurrentní
+(6)
+c k
+ck -
+ck -
+platné pro k > O.
+Omezivše   se   na   případ  m^ =: O,  na nějž se případ obecný bezprostředně redukuje, znamenejme
+takže bude
+při čemž p, , (>9J (>3, . . . jsou celistvá čísla nikoli záporná, a jich součet
+má býti kladný.
+Pomocí  elementarných   pravidel uvésti lze determinant (4) na determinant stupně ;// -{- «, který má následující složení :
+XII. ﻿Prvních ti sloupců — znamenejme jich souhrn literou 21  — zní
+c0 O O O ....
+Cí      CQ   O     O    .     .     .     .
+c   C r   O . . . .
+další sloupce v počtu m, jichž souhrn znamenati chceme literou Sb, mají určitých n řádků složených ze samých null, a sice jsou to ony řádky, jež v determinantu našem .?( ^8 začínají prvky
+ostatní   řádky   soustavy   35   v   počtu   m  tvoří   v   přirozeném   pořádku   za sebou  vzaty  systém jednotkový (předešlými řádky ovšem místy pře-
+rušený)
+l O O O .... O l O O .... O O l O .... 0001.
+který znamenejme literou 330.
+Pro důkaz tohoto tvrzení stačí rozložiti determinant 2Í 53 podle věty Laplaceovy v součet součinů determinantů stupně ;;/ a n, tak sice, že se determinanty ze soustavy 21 spojují s doplňkovými determinanty ze soustavy 33. V této poslední jest však pouze jeden determinant od nully různý, totiž determinant soustavy jednotkové ž80 mající hodnotu l, a příslušný determinant z 3( jest právě náš determinant (4), t. j.
+O
+O
+O
+— l       mi — 2
+C'""„   C'""„-^     C'»n-1   C>»„-3
+Součin těchto determinantů dlužno opatřiti znamením,  jež stanoveno třídou permutace, jejíchž prvých n prvků zní
+O, w2, ;«„ . . . ;«„, a následující prvky jsou čísla
+l, 2 ... 0/2 — l,  w2 -\- l,  w2 -f- 2, ... w, — l, w3 -(-l, ... í»„ — l ; tato permutace má patrně
+XII ﻿!) + (*>— 2) inversí ; počet tento lze psáti
+n (n — 1)                 n(n — 1)
+^~2 - ~ — s --   2 -
+a tedy bude třeba determinant (4) vzíti se znamením
+// (« - 1)
+= (- 1)
+= ;/;, -f- ma -f . . . -j- W,,),
+aby se obdržel determinant | 21 33 |.
+Tento determinant 3133 j nyní přetvoříme tím způsobem, že ke každému řádku přičteme jeho veškery předchůdce, násobené pořadem veličinami aí, a2, a3, . . . Užije-li se při tom vztahu rekurrentního (6), přejde systém 21 v systém nový 9ť mající tvar
+c0 O   O .... O
+0  c0 0 . .	. . 0
+0 0 r0 .	. . . 0
+000..	• •   c,
+00   0 . .	. .  0
+00   0 . .	. . 0
+000.,	, . . 0
+00   0 .	. 0
+t. j. prvních n řad tvoří soustavu jednotkovou (ježto c0 ^= 1) a ostatních Jii řad obsahuje samé nully.
+Systém 33 měl tu vlastnost, že v každém sloupci vyskytnul se jediný prvek od nully různý, a sice rovný číslu l; tyto jednotky jsou tak rozloženy ve schematě, že od levé strany ke pravé klesají od hora dolů.
+Po transformaci přijde systém 33 v soustavu 33', jejíž sloupce mají tvar takový, že s počátku obsahují samé nully až k místu vyznačenému jednotkou v soustavě 33; píšeme-li a0 za tuto jednotku, budou následující
+(od nully různé) prvky uvažovaného sloupce v soustavě 3V zníti <70, a^az.....
+zcela pravidelně až do konce.
+Podle toho bude systém 3.V úplně určen, udáme-li polohy prvků a0. Prvky ty jsou rozloženy po jistých »příčkách« rovnoběžných s hlavní příčkou, a sice takto: První příčka začíná druhým prvkem prvního sloupce (v soustavě 33') a obsahuje (>, prvků a0 ; prodlouží-li se příčka tato o jedno místo, přijdeme k prvku 0; pod tímto pak svisle leží jeden prvek a0, jímž začíná druhá příčka s (»2 prvky <70 (jež ovšem odpadne v případě (>, — 0)
+XII. ﻿Pod prodloužením (o jedno místo) této příčky leží jeden prvek «0, tvořící začátek třetí příčky, obsahující ()3 prvků #0, atd.
+Jest nyní snadno určiti hodnotu determinantu 91' 33' , na nějž jsme přetvořili determinant 91 33 |. V soustavě 91' existuje toliko jeden determinant od nully různý, a ten pochází od prvních n řádků i má hodnotu l ; následkem toho bude 1 91 33 | roven determinantu stupně w, sestávajícímu z m posledních řádků soustavy 33'.
+Soustava 33' rozdělena jest výše popsanými příčkami ve dvě části, z nichž svrchní obsahuje samé nully a spodní sestává z prvků a zařaděných v příčky s předešlými rovnoběžné a stejně dlouhé, jež obsazeny jsou pokaždé stejnou literou. Znamenejme 33"" posledních m řádků soustavy 33' ; poněvadž první sloupec v 33' začíná prvky O a0 . . . . (předpokládá-li se í>! > O, t. j. ;;/2 > 1), bude na místě (n -}- l)ním tohoto sloupce státi prvek «„— i. Tudíž soustava 33"" začne svoji diagonálu pt prvky «„_.! ; prvky nad nimi ležící jsou pak atl—2 #«— 3 . . ., pokud místo stačí, prvky pod nimi ležící pak jsou vždy at!, O, O ...
+Po příčce jednotkové (#0) v soustavě 33' následuje vždy příčka jednotková, sešinutá dolů o jedno místo; tudíž po (Jl prvcích a„_i v diagonále soustavy 33"" bude následovati p2 prvků #„—2, PO té y;, prvků a„— 3, atd. Má tedy soustava 33"" tvar následující:
+a„ — \ a,i _ 2 a>i — 3 • • • •
+Je-li na př.
+au
+O
+O
+an _
+a„
+O
+3, y2 =: 2, f)3 =0, (Jt ~ l, má 33'' tvar (ježto n =: 5) a    a    a    a   O    O
+aí>
+O
+O    O    a-   a3 a2   O
+Determinant tento bude přesně určen, známe-li jeho příčku, i znamenati jej budeme
+v obecném případě tedy
+XII. ﻿Poněvadž hledaný determinant (4) má hodnotu
+31 93
+— 6
+kde
+bude výsledek náš zníti
+8 = (~ 1)E
+n(n— 1)
+/ O      777         7/7        077 .                 'M4    1
+^V7,    ""í-j,    ""*g|     ''*L         •    «    '""u)
+\~^ii *^a> • • • -^""""J
+= (- 1)
+f]
+Výsledek ten nabude žádoucí elegance, zavedou-li se na místě veličin «,, tf0, #.,, . . . základní úkony souměrné veličin .ru .r2 . . . AT,/, t. j. výrazy
+f i — -vi -f -Y2 + • • • r xu,
+Í2 = xl x, + xv .v3 + ^2 -r:i + • • • + -r« -1 -r« >
+T., = .rt .v3 .r., -\- .YJ A-2 jr4 -f- . . . --f- x„ - 2 xn -\x„,
+\It   ----   .V]   ^""2   •   •   •   -*'«  5
+jež s veličinami a souvisejí rovnicemi
+«i — — fu «2 = f2, «3 = — fs> • • •
+Nejjednodušším způsobem dospějeme k cíli, obrátíme-li znamení všech .r, neboť tak přejdou výrazy av v f,,, kdežto determinanty
+(O, ;;/2, 0*3,... ;««), ^ (.*!, jr2,. .. .r„) přejdou ve výrazy
+(_ lyMl + ^ + ... + '«w(o,;/,2,W3,...w„),resP.(- l)1 + 2 + --- + («-1)zí(.Y1,.v,, ...*„) Tím způsobem náš výsledek nabývá tvaru
+(O,
+""f« — i • • • f« — i)  f« — 2 • • • f» — 2, • • • f i • • • fj
+Determinant   na   pravé   straně   stojící lze přeměnou   řádků v sloupce (transposicí) psáti jak následuje
+XII. ﻿f» — l      f«
+f» — 2        f« — l
+f« — 3         \u — 2
+10
+O
+f„
+TK — l
+0.
+o
+f«
+f« —ÍM         f»-í>, + l        f« —i»i +2 • • • f« -l f// f« — ÍM — 2 f« — l>i — 3 • • • fn — 3 f« — 2 fw — l fw
+takže tu determinant má v příčce za sebou QÍ prvků f„ _ i, (>., prvků f„ _ •>, (f3 prvků f« —3, ...a rozšiřuje se pravidelně na právo zvyšováním i na levo snižováním přípon, při čemž se klade
+fo — l, f«-f i — f* +2 — •.. — O
+Vzorec (7), který jsme tu v plné obecnosti dokázali, byl postaven panem F. J. Studničkou *) a verifikován jím na jistém počtu jednodušších případů (n ^ 4); deduktivní odůvodnění obecného theorému přenechal p. spisovatel »pp. kollegňm svým odborným«.
+III.
+Pro Borchardtovu větu determinantní
+ve které položeno
+l         l            l
+, . . .
+f       ___   y.     f        __     Y-            /        __    JL
+1
+l
+D —
+f\        X u    ?2        X u         tu        Xt,
+a ve které dále znamená  T součet
+1	1	1
+fc-*i)fl	h-*i)f""""	f/    __ y   V2 {{•u     -*] ;
+1	i	1
+(/!  — JC„)2'	(A, — A-„)2'""""	(t„ — x„)*
+*)    O  determinantech  mocninných  a  sestavných.    Číslo  IX.  spisův  poctěných jubilejní cenou Král. Č. Společnosti Nauk v Praze, 1897.
+XII. ﻿11
+vztahující se ke všem n\ permutacím ilf /2 .. . /„ čísel 1,2,3, . .. n bez opakování, bylo dáno několik důkazů, mezi nimi také jednoduchý důkaz induktivní. Že by však některý z těchto důkazů pronikl až na kořen sám tohoto zajímavého úkazu algebraického, nezdá se nám možno tvrditi. Z té příčiny chceme Borchardtovu větu podrobiti hlubší analysi i redukovati ji na prosté identity elementarné algebry.
+Především uvažme, že lze součin d T přeměniti v součet determinantů, provede-li se násobení
+A                               l
+tím způsobem, že první sloupec determinantu z/ násobíme veličinou---------,
+řj         AY(
+druhý veličinou---------atd.    Takto   rovnice   Borchardtova   nabude   tvaru
+4 — x i
+— A-J (/! — x i) '    (t2 — xj (4 — x ,-) '      '  (4 — *J (4 — */„) l                                 l                                     l
+,) (/t — x i ) '    (4, — r2)~(4 — Jff- ) ' "" '  (4 — *s) (4 — *,„)
+c„) (^ — Jf,-) '    (4 — JT„) (4 — xý '  "" '  (4 — *„) (4
+tak že jeví se býti zvláštním případem identity
+(1)
+S
+co
+/i (^i)— /i f^,
+/i (^2) —/l 0*V.)
+A""//         A / ﻿l L'
+A (*i)/V(*i) •••/•(
+/t (*,)/,(*,).../.(*,
+/', (*„)/', (.v„) . . . /""« (*„)
+ve které _/x (x),/2 (x), . . .f„ (x) značí funkce do jisté míry libovolné, i předpokládá se, že na levé straně výraz
+/.(*,)-/. frj
+xfl — xiti
+mající v případě ji = /'„ tvar neurčitý — nahrazen   býti   má   svojí pravou hodnotou
+Volbu funkcí f(x] lze vždy tak zaříditi, že platí při daných (vespolek různých) hodnotách \\ . . . x„ rovnice
+
+
+při čemž a      a  bap značí  dvakráte   w2 daných   zcela   libovolných   veličin. Tudíž jest vztah (1) identický s rovnicí následující
+W
+a*)
+(2)            (2)
+při čemž se předpokládá, že výraz
+_!íi_ při /„ ~ u nahradí se veličinou bn,..
+Tuto   rovnici   (l*)   chceme   nyní   verifikovati,   vycházejíce   z   definice determinantu stupně ;/ dané ve tvaru
+XII. ﻿13
+W
+při čemž (A-) probíhá všech «! permutac kl k» . .. k„ čísel od jedné do n, a x značí počet inversí permutace (k}. Vyjádřímeli jednotlivé determinanty na levé straně rovnice (l*) stojící dle tohoto pravidla, objeví se výraz
+A
+= S S (-1)'
+— 4V
+'
+(V)     (*)
+X k   ----X k'
+k  —x k>
+Xk,
+při čemž psáno z důvodů typografických
+k\ k\2 .. . k'n za 4t t\ • • • ik„ •
+Poněvadž (z) probíhá všech n\ permutac neodvisle od (k), platí totéž o (k'} a tedy bude A součtem n! n! členů, jež vzniknou, spojí-li se každá permutace (k] s každou permutací (k').
+Ve výrazu A vyskytuje se n! členů nezávislých na \\, x2,... xn , a sice j-jou to členy, v nichž (k) i (kr) jest jedna a táž permutace; členy ty mají součet
+(*)
+který nic jiného není než determinant na pravé straně rovnice (l*) stojící. Potřebujeme dokázati, že se v součtu A zbývající členové navzájem ruší. Součet
+A-B = 2j (- 1)« _IÍ
+(k)(kf)
+a L.,
+X k    ----X k'           X/;<  ----Xk' ^               Xktl   —• Xk'tl
+v němž permutace (k) i (L') se různí, skládá se ze součtů částečných
+S (~\r
+(k)
+Xk„     -   X
+v nichž permutace (k'} jsou úplně závislý na permutacích (L), a sice vznikne (k'\ podrobí-li se permutace (k) určité (od totožnosti různé) substituci či záměně /.
+Každý z těchto částečných součtů S,, jichž jest celkem n\—l, rovná se nulle, jak chceme ukázati.   Neboť součet tento jest determinantem
+XII. ﻿14
+s, =
+
+- -i?
+— x,-t
+(11)            (lit
+x
+(1)
+a„     - a,-H
+*•<
+x i
+-Y*         *\
+X„
+při čemž i1 Í2 . . . 4 jest permutace, jež vznikne, podrobí-li se permutace základní l, 2, 3, ... n substituci /. Nechť se nyní substitucí z, jež není identitou, převede prvek a v prvek p, tento v prvek 7, atd., až se zakončí cyklus prvkem (i. Vhodnou přeměnou pořadu řádků v determinantu St obdržíme
+Xa — xp   Xa -- xp
+(1)     (1)    (2)     (2)
+X@ -- X7  Xp -- ^-j;
+Xa -- Xp
+rt(«) ___ ^(w)
+xp — x-/
+-- XK  Xa — Xcc
+Xfj, --Xa
+Násobíme-li napsané právě řádky veličinami (patrně od nully různými) XK — xp , x(l — xy, . . . x (i — Xci, a sečtemc-li výsledky, objeví se samé nully, čímž dokázána rovnice
+Si = O a tedy též
+^ — ^ = O.
+Tímto způsobem vynikla zároveň pravá podstata vztahu Borchardtova.
+IV.
+Buď
+A. —
+libovolný determinant a znamenejme
+«n       % A      ra/^T„
+XII ﻿15
+L «'/?'/ atd. Pak platí známá věta
+y l _.
+9 ap p
+y Y'
+i dokážeme relace následující:
+'""i . rriřii+rrii rř'r°i+rrii p°ri
+J0 J      L S} s2 J      L ÍG J      L Xj .% J      L íg J     L ít í2
+
+(3)
+[ rs ] _ r ^ ^ ^ ] _ A r ^ ^ ^ '-s i
+L. ^0 J    L st s2 s3 J       L J0 ^x ^2 í3 J
+Mnohem obecnější jest však relace
+(4)       S (-1;
+Jz-j-l    .SY-j-2   •   •   •   SK
+l rO rl  r2   •   •   •  r'« l O ""^1   ""^2   •   '   •  ^tn-*
+= A \   r° r* L í0 st
+[>0 1 r ^rzr.A |_[ri l  r ;2;3^o i i r^i   r ^^^ i
+L JG J L jj í., s3 J    L ^0 J    L sí s2 s3 J    L s0 J ' L jx J2 s3 J
+při čemž součet na levé straně vztahuje se ke všem kombinacím (Y-j-l)ní třídy k^k^k.}... k i prvků r0 rt ^2 . . . rm, dále značí kt•+1 ^z- + 2.. . ^m kombinaci sestavenou z prvků zbývajících; x značí počet inversí v permutaci
+KQ K i  K ^   •   •   •   «V «z'
+Příklad:
+[;:;;]•[ [;•;]•[
+i _ r^o *2 1 r ;i
+J     Lď0 jj J    L J2
+i _ r ri ^ i r
+J    L s0 jj J ' L J
+— ^ r ro ri r* r*
+L    Í    í    ^    ^
+;3 1 , r
+^3 J     L ^
+, r
+L
+1   i ^ ^ i
+J ' L s2 ss J
+i r ?<> ^ i
+j J ' L J2 í3 J
+Relace (4) obdrží se ze známé rovnice
+XII. ﻿16
+(6)
+
+l   ;;, ;•, r.> . . . r,„ l _ A„,      o   i   s                 i
+l . í„ Jt S.j   .   .   .  Sm    i
+v mi značí
+způsobem velmi jednoduchým, rozvine-li se totiž determinant (6) podle věty Laplaceovy v součiny determinantů stupně /-j- l a ;// — /'. Tak se obdrží totiž nejprve
+W
+součet na levé straně se vztahuje ke všem kombinacím (k), totiž kfí kv . . . ki třídy i -\- l, jež lze sestaviti z prvků r0 ;\ . . . r„n a dále značí x počet inversí v permutaci
+jejíž druhá část' jest opět kombinací; závorkové symboly mají obvyklý význam determinantů.
+Vyjádříme-li nyní oba determinanty pomocí pravidla (6), a zkrátíme-li veličinou A'""~l, obdržíme vzorec (4).
+Kdybychom rozvinuli determinant (6) podle prvků prvého sloupce, tvořivše subdeterminanty pomocí záměn cyklických, obdrželi bychom podobně relaci
+(7)
+V (-1)"""" f *» l  .   Pí ** ' • ' k>"" l = A\r»ri        r""< ] ,
+f0                L s0 J       L st s.2 . . . s,„   l           L SQ s1 . . . s,„ J
+ve které kQ kí ... k,„ značí permutaci liter r0 1\ . . . r,„ , již z této základní permutace vyvodíme záměnou cyklickou /é-kráte opakovanou.
+Tyto výsledky jsem r. 1891 předložil C. Akademii, avšak odvozené způsobem mnohem složitějším; seznav však jejich bezprostřední pramen v relaci (6), potlačil jsem jich uveřejnění ; podávám-li je nyní veřejnosti, netajím se nikterak s jejich skromným významem, i činím tak proto, bych je měl pohotově pro případ, že by se daly applikovati.
+Xll."

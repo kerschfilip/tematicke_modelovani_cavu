@@ -1,0 +1,2099 @@
+"","x"
+"1"," ROZPRAVY
+
+
+ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ PRAZE.
+
+
+ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO 30,
+
+
+TRANSFORMACI
+
+
+FUNKCÍ ELLIPTICKÝCH
+
+
+(SUR TRANSFORMATION DĚS FONCTIONS ELLIPTIQUES.)
+
+
+NAPSAL
+
+
+CH. HERMITE.
+
+
+PŘEDLOŽIL PROF. ED. \YKYR DNE 26. ÚNORA 1892.
+
+
+.-X''
+
+
+
+
+
+
+
+
+PRAZE.
+
+
+NÁKLADEM ČESKÉ AKADEMIE CÍSAŘE FRANTIŠKA JOSEFA
+
+
+PRO VĚDY, SLOVESNOST UMĚNÍ.
+
+
+1892. ﻿FISKKM OTTY PRAZE. ﻿Sut transformation děs fonctions elliptiques,
+
+
+par
+
+
+Ch. Hermite
+
+
+Dans děs Fundamenta Jač obi fait remarque que l'on designe par Tun děs modules relatifs transformation ďordre impair par ),' son complément, entre les fonctions completes analogues K', multiplicateur les relations suivantes,
+
+
+
+
+
+A'-\-iff
+
+
+sont děs nombres impairs, b', /?, děs nombres pairs, satisfaisant aux conditions -\- bb'= aa'~\- /?/?' Puis ajoute notě »Accuratior numcrorum a', b', ctc. detcrminatio pro singulis eiusdcm ordinis transformationibus gravibits laborare difficultatibus videtur. hnmo Jiacc detcrminatio, nisi egrcgie fallimur, maximě limitibits pcndct, intcr quos modulus vcrsatnr, ita pro limitibus diversi plane alia evadat: quod quam intrieatam rcddat qucstionem, expcrtus cognoscct, ctc.* C'est dans but ďéviter ces difficultés que j'ai modifié point vue grand geometre dans théorie transformation; j'ai suivi une marche inverse, suis donné priori les relations entre K', pour conclure les formulcs analytiques transformation, que Jacobi contraire établit premiér lieu, j'ai posé question comme suit.*)
+
+
+Soit avec une légére modification děs notations employées dans les Fundamenta:
+
+
+/2sin2gi
+
+
+
+
+
+
+
+
+/'2sin2qp
+
+
+Cours Faculté děs Sciences Paris, Edition, 265.
+
+
+Rozpravy. Roín. Tř. II. 30.
+
+
+﻿les mémes quantités que K', relatives autre module son complément
+
+
+/*. propose déterminer module ainsi que constante telle sortě que, sn(^-,/), cn(^,/), dn(^,/), admet-
+
+
+tent pour périodes /'K', s'expriment par conséquent moyen děs fonctions doublement périodiques module
+
+
+Nous ferons pour cela,
+
+
+
+
+
+(A)
+
+
+
+
+
+-|-
+
+
+
+
+
+étant děs nombres entiers quelconques, avec condition que
+
+
+
+
+
+determinant soit positií, afin que partie réelle quotient -=—
+
+
+JLrf
+
+
+soit positive. aura ainsi les égalités,
+
+
+
+
+
+
+
+
+
+
+
+x-\-2K
+
+
+,/)
+
+
+(-1)""
+
+
+puis:
+
+
+
+
+
+
+
+
+(-!)< sn(|-,/),
+
+
+
+
+
+
+
+
+./J-í-iy+W
+
+
+
+
+
+Cela étant, recherche děs formules transformation repose entier sur les propriétés fonction:
+
+
+inbx1
+
+
+4KLM
+
+
+qui consistent dans les relations suivantes:
+
+
+2K)
+
+
+K7)
+
+
+(x) (x)
+
+
+
+
+
+sont aussi ces égalités dont ferai usage pour 1'objet cette notě, j'indiquerai ďabord une méthode facile pour parvenir. ﻿Je remarque čet effet qďayant
+
+
+
+
+
+
+
+
+
+
+
+nous pouvons ecnre
+
+
+
+
+
+fjj (x) l)»» ^»*?(*,*)
+
+
+l'on pose pour abréger
+
+
+(x,
+
+
+4KLM
+
+
+z;;/2
+
+
+TV/T
+
+
+
+
+
+
+
+
+Remplacons maintenant dans dernier terme par valeur tirée pře miere děs équations (A), obtient ainsi
+
+
+(x,
+
+
+bx*
+
+
+4KLM
+
+
+
+
+
+*LM)
+
+
+bien,
+
+
+(jp (o?,;;/)
+
+
+cette nouvelle expression résulte immédiatement que 1'on
+
+
+
+
+
+changement -f- trouve donc ramene celui ;// -f- qui peut toujours faire dans une série s'étendant toutes les valeurs 1'entier Nous parvenons cette maniére, ayant égard facteur l)m, premiére děs égalités démontrer.
+
+
+seconde découle 1'identité
+
+
+
+
+
+4/K
+
+
+4/^K'LM
+
+
+1'établit transformant comme suit quantité
+
+
+(a;,
+
+
+
+
+
+4/KK'
+
+
+4/KK'LM
+
+
+
+
+
+
+
+
+tire ďabord děs équations (A) par rélimination cette expression,
+
+
+moyen quelle premiér terme devient 'irfi rerni^ace
+
+
+ensuite dans dernier terme /L', par valeur tirée seconde ces égalités. Nous obtenons ainsi
+
+
+
+
+
+
+
+
+
+
+
+4/K'LM
+
+
+""""""
+
+
+
+
+
+
+
+
+(JJl
+
+
+qui démontre résultat annoncé. conclut comme tout-á-rheure
+
+
+
+
+
+4/KK'
+
+
+simplifiant:
+
+
+
+
+
+c'est relation qu'il s'agissait démontrer.
+
+
+déduit immédiatement que l'on pose
+
+
+
+
+
+
+
+
+
+
+
+(-5--0
+
+
+(T.') (-M-')
+
+
+(x)
+
+
+les fonctions holomorphes (a;), (x), '/>j (a;) satisfont děs relations ana logues, ilen résulte que les quatre quotients:
+
+
+P(x)
+
+
+!•(*)
+
+
+1n(x)
+
+
+
+
+
+>»(#)
+
+
+vérifient les égalités suivantes, qui sont ďune grande importance:
+
+
+(a;),
+
+
+
+
+
+})«*+* R(x)t
+
+
+Ces quantités sont donc děs fonctions doublement périodiques, ayant póle unique, /K' sauf facteur constant qui reste inditerminé, elles
+
+
+622 ﻿s'expriment souš formě entiere moyen snx, cnx, dnx*) Nous donnerons une expression différente qui s'obtient, introduisant les fonctions Weicrstrass, définies par les relations:
+
+
+(a?) (x\
+
+
+(x),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jz*
+
+
+
+
+
+J*=
+
+
+
+
+
+(o)
+
+
+constante designe dans ces formules 1'intégrale compléte seconde espéce, l'on comme sait:
+
+
+
+
+
+
+
+
+k^sn^xdx
+
+
+
+
+
+Posons afin passer module
+
+
+sn* (x,l)
+
+
+nous pourrons ecnre
+
+
+
+
+
+Soit enfin
+
+
+(B)
+
+
+lieu quotient
+
+
+
+
+
+LM(J
+
+
+-__inb
+
+
+
+
+
+2KLM
+
+
+(x)
+
+
+sera amené determinant par condition
+
+
+(o) facteur arbitraire qui entre dans (x) nouvelle formule
+
+
+les relations
+
+
+Cours ďAnalyse, 281.
+
+
+
+
+
+AI"" (a;)
+
+
+(os),
+
+
+Al(*)
+
+
+
+
+
+
+
+
+AK*)3_ (ar)
+
+
+623 ﻿nous donnerons pareillement:
+
+
+1.0,
+
+
+----------------------/»
+
+
+AI"" '-N
+
+
+
+
+
+(x)
+
+
+quantité qui est mise evidence dans ces expressions semble appeler 1'attention avoir dans théoric transformation role im-portant Aux équations algébriques entre entre multiplicateur module doivent effet s'ajouter celles qďon peut former entre j'ai essayé ďouvrir voie ces nouvelles recherches par les remarques qui vont suivre.
+
+
+premiér lieu j'établirai les relations entre les deux fonctions complétes seconde espéce, qui correspondent aux égalités
+
+
+
+
+
+
+
+
+-\-ib\J
+
+
+remarque ďabord que Toň pose, frc déduit
+
+
+
+
+
+in\J
+
+
+
+
+
+sortě qu'en tirant 1'équation (B)
+
+
+
+
+
+
+
+
+«JLM inb
+
+
+
+
+
+
+
+
+LMN
+
+
+nous trouvons:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J'introduis maintenant seconde fonction complčte seconde espéce employant relation:
+
+
+J'K—JK'
+
+
+
+
+
+remplace čet effet, par
+
+
+
+
+
+Jv—
+
+
+
+
+
+:~2~'
+
+
+vient aprés une reduction
+
+
+facile
+
+
+
+
+
+
+
+
+K')
+
+
+024 ﻿Cest premiére relation que voulais obtenir, une autre semblable qui con
+
+
+j',
+
+
+černé conclut 1'égalité
+
+
+J',
+
+
+
+
+
+ďoú 1'on tire:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+éliminant moyen 1'équation (B). Nous substituerons donc valeur
+
+
+
+
+
+
+
+
+inb 2KL'
+
+
+qui donne:
+
+
+J', ;/L'JM
+
+
+INI
+
+
+
+
+
+2LM
+
+
+Cela étant, Toň écrit ďabord:
+
+
+
+
+
+2LM
+
+
+tnbU 2KL
+
+
+*r(K
+
+
+2KLM
+
+
+qíťensuite remplace zV^L/M par LM, L'M par cette expression devient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+par conséquerit:
+
+
+'Ti
+
+
+
+
+
+
+
+
+importe ďobserver que dans ccs résultats quantité comme nous allons 1'établir, est une fonction algébrique module. Considérons pour donner exemple, čas simple transformation second ordre; théoreme
+
+
+děs Fundamenta, qu'en remplac,ant par </2, les quantités /*,
+
+
+\_/.' _|_
+
+
+deviennent, T—r-, —E—K, (l-j-X^K', nous ajouterons que
+
+
+
+
+
+changent en,
+
+
+
+
+
+I-F (2J' ﻿10
+
+
+remarquera encore que les relations auxquelles nous venons parvenir peuvent étre pré.sentées souš une formě plus simple; rappelant qu'on posé ad—óc déduit aisément les égalités:
+
+
+
+
+
+
+
+
+id}\
+
+
+
+
+
+dont nous allons montrer les conséquences.
+
+
+Multiplions premiére par seconde par retranchons membre membre, obtiendra ďabord cette nouvelle expression savoir:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ďentrent que les integrál complétes seconde espéce. Soit ensuite
+
+
+
+
+
+ces deux relations:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/2U —V,
+
+
+/•(U— V),
+
+
+que vais employer pour différentier par rapport 1'égalité
+
+
+bien,
+
+
+Nous trouvons ainsi
+
+
+
+
+
+//'2
+
+
+cela étant, j'exprime second membre, remplac.ant par les valeurs
+
+
+
+
+
+calcul nous donne
+
+
+
+
+
+
+
+
+
+
+
+qui est une relation linéaire homogene entre aurait évidemment méme résultat K', posant,
+
+
+626 ﻿11
+
+
+poiir differentier 1'égalité /'K' (VL-f- id\J]; faut donc que les coeffi-cients soient séparément nuls, determinant étant différent zéro. Nous avons par conséquent:
+
+
+
+
+
+k'*
+
+
+//'
+
+
+~~kfir
+
+
+
+
+
+
+
+
+/'2
+
+
+
+
+
+premiére ces relations été découverte par Jacobi donnée dans 32, děs Fundamente; sait qíťelle est ďune importance capitale dans théorie transformation. Elle permet ďécrirc seconde souš formě:
+
+
+kd,
+
+
+
+
+
+
+
+
+nous tirons l'expression nous 1'avons annoncé,
+
+
+
+
+
+suivante qui est purement algébrique comme
+
+
+irtog
+
+
+vais faire quelques applications.
+
+
+considere ďabord čas transformation second ordre 1'on
+
+
+conclut aisément
+
+
+
+
+
+
+
+
+nous avons donc
+
+
+','2
+
+
+qui donne immédiatement
+
+
+
+
+
+passant čas j'employerai les expressions děs deux mo-dules multiplicateur qui ont été données par Jacobi dans děs Fundamente, savoir:
+
+
+«U»
+
+
++«)3«
+
+
+Rozpravy, Kočn. Tř. II. 30.
+
+
+027 ﻿12
+
+
+tire ďabord par calcul facile:
+
+
+O-*2) (!-
+
+
+ďoú
+
+
+
+
+
+par conséquent:
+
+
+
+
+
+Ayant ainsi formule:
+
+
+
+
+
+log l~:
+
+
+nous écrirons ďabord:
+
+
+
+
+
+
+
+
+remarquant ensuite que 1'on
+
+
+3/LL'2
+
+
+«') «•)
+
+
+nous parvenons 1'expression suivante:
+
+
+«-) conclut, 1'on résout par rapport
+
+
+I+YI+ÍK,
+
+
+substituant dans valeur trouve 1'équation entre
+
+
+laquelle nous voulions parvenir, savoir:
+
+
+/NV /'N^2
+
+
+(T; ""6^lTJ
+
+
+
+
+
+Nous rapprocherons résultat formule,
+
+
+—(4
+
+
+
+
+
+considérant numéráteur cíle fait voir sur champ que 1'on
+
+
+2///K 2«/K'
+
+
+
+
+
+
+
+
+étant deux entiers quelconques.
+
+
+
+
+
+628 transformaci funkcí elliptických.
+
+
+Napsal
+
+
+Ch. Hermite.
+
+
+Fundamentech 32. poznamenal Jacobi, že, značí-li jeden modulů příslušných transformací lichého stupně /.' jeho komplement, platí mezi úplnými funkcemi obdobnými mezi multiplikátorem následující vztahy
+
+
+
+
+
+kde a', značí čísla lichá, /;, //, /?' čísla sudá hovící výminkám -\- ««'-)- /?/?' Dále tomu přičiňuje jakožto poznámku *Accuratior numcrorum a'*, <W. dctcnninatio pro singitlis ciusdcni ordinis transforjnationibus gravibns laborarc difficultatibus vidctur. Innno háce dctcnninatio, cgrcgie falli)nur, má.\-iinc i)n tibu pťndct, intcr qitos inodiilns vcrsatur, ita pro liinitibus dircrsis plane alia wadaí: quod quain intricatatn rcddat qitcstionon, expertu cogtwscct, ctc.« Abych vyhnul těmto obtížím, změnil jsem hlediště velkého mathematika theorii transformace volil jsem opačnou cestu, pokládaje relace mezi K', dané priori, abych nich odvodil analytické formule transformační Jacobi naopak nejprve vyvozené, formuloval jsem úkol způsobem následujícím.*)
+
+
+Budtež, malou změnou označení užívaných Fundamentech,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+í—/'sin
+
+
+
+
+
+
+
+
+
+
+
+tytéž hodnoty jako vzhledem jinému modulu jeho komple-
+
+
+Cours Faculté děs Sciences Paris, 4'^ Edition, 265. ﻿14
+
+
+mentu l—/*. Nechť stanoví tento modul stálá tak, aby /), (j* /), měly periody K', tudíž bylo lze vyjádřiti pomocí dvojperiodických funkcí modulu tím účelem klademe
+
+
+
+
+
+(A)
+
+
+
+
+
+
+
+
+-j-
+
+
+kde jsou libovolná celistvá čísla hovící výmince, determinant byl kladný, čímž reálná část podílu
+
+
+
+
+
+stává kladnou. Máme
+
+
+pak rovnosti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(*-
+
+
+us'
+
+
+dále
+
+
+
+
+
+
+
+
+
+
+
+(-i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nyní spočívá vyšetření transformačních formulí zúplna vlastnostech funkce
+
+
+
+
+
+(x)
+
+
+
+
+
+
+
+
+
+
+
+vyjádřených následujícími dvěma relacemi
+
+
+(a?)
+
+
+
+
+
+Těchto rovnic užiji dosažení účelu této práci vytknutého; především však naznačím snadnou methodu nim vedoucí.
+
+
+tomu cíli poznamenávám, vzhledem
+
+
+>,(
+
+
+,-T jim ~LM~
+
+
+﻿15
+
+
+můžeme psáti
+
+
+
+
+
+klademe-li příčinou stručnosti
+
+
+(x, ni)
+
+
+
+
+
+
+
+
+
+
+
+/';;/2L
+
+
+
+
+
+Nahraďme nyní pravé straně /L' hodnotou plynoucí první rovnice (A), obdržíme
+
+
+(x,
+
+
+4KLM
+
+
+
+
+
+
+
+
+aLM)
+
+
+
+
+
+aneb
+
+
+(x,
+
+
+
+
+
+4JKLM
+
+
+tohoto nového výrazu vychází ihned, platí
+
+
+čímž změna -f- jest převedena změnu hodnoty -\- kterouž změnu lze vždy provésti řadě, níž summační index ;;/ probíhá všecka celistvá čísla. Tím dospíváme, přihlížejíce faktoru l)m, první obou rovnic, jež jsme chtěli dokázati.
+
+
+Druhá vyplývá totožnosti
+
+
+
+
+
+
+
+
+/</K'
+
+
+doděláme jí, transformujcme-li následujícím způsobem hodnotu
+
+
+
+
+
+
+
+
+(x, ni) -\-
+
+
+47KK'
+
+
+4iKK'LM
+
+
+
+
+
+
+
+
+Nejprve odvodím rovnic (A) -eliminací hodnoty tento výraz
+
+
+jehož pomocí první člen přejde
+
+
+
+
+
+napotom nahradím posled-
+
+
+/K'
+
+
+ním členu /L' hodnotou plynoucí druhé oněch rovnic. Tím nabýváme
+
+
+(*,«*) ^TKK7"" 4/K'LM ""^ 5TM
+
+
+čímž dokázána vytknutá formule soudíme, právě tak jako nahoře,
+
+
+2/K'i2 nx1
+
+
+/K') aneb, zjednodušíme-li,
+
+
+
+
+
+což jest relací, jejíž správnost jsem chtěl dokázati.
+
+
+(531 ﻿16
+
+
+toho soudíme ihned, že, klademe-li
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+funkce celistvé (x), 77j (x), ř/', (x) hoví obdobným relacím, čehož vychází, čtyři podíly:
+
+
+n(x)
+
+
+O»(X)
+
+
+R(x) S(x)
+
+
+hoví následujícím velmi důležitým rovnostem:
+
+
+(a?)
+
+
+(a?+ 2/K')
+
+
+(x)
+
+
+Tyto hodnoty jsou tedy funkcemi dvojperiodickými jediném pólu —/K' lze stálého činitele, jenž zůstává neurčeným, vyjádřiti jakožto výrazy celistvé pomocí sn#, cn#, dnx .*) Vytkněme však jiném tvaru, jehož nabývají, zavedeme-li funkce \Veicrstrass-u\y, definované rovnostmi:
+
+
+/*»2
+
+
+(./•)
+
+
+
+
+
+iiK
+
+
+-2K
+
+
+
+
+
+Cours dfAnalyse, 281.
+
+
+632 ﻿17
+
+
+Stálá značí těchto formulích kompletní integrál druhého druhu, platí jakož známo,
+
+
+
+
+
+
+
+
+srí*
+
+
+Položme, chtějíce přejíti modulu
+
+
+lze pak psáti
+
+
+
+
+
+•')
+
+
+LMZ
+
+
+Budiž konečně
+
+
+(B)
+
+
+
+
+
+
+
+
+
+
+
+2KLM
+
+
+přicházíme pak, vytknuvše výminkou (o) libovolného (x) vcháze
+
+
+
+
+
+jícího činitele, miste podílu
+
+
+nové formuli
+
+
+(.,)
+
+
+X**
+
+
+relace
+
+
+
+
+
+
+
+
+
+
+
+Al_(*), (a?)
+
+
+
+
+
+A\(x)
+
+
+podobně podávají:
+
+
+(x)
+
+
+(.r)
+
+
+
+
+
+R(x)
+
+
+""(.'•')
+
+
+Hodnota vytknutá těmito výrazy, zdá mi, zasluhuje pozornost přísluší důležitý úkol theorii transformace. algebraickým rovnicím mezi /-a mezi multiplikátorem modulem nutno zajisté připojiti ony, jež lze utvořiti mezi Na/-; pokusil jsem zahájiti dráhu těmto novým výzkumům následujícími úvahami.
+
+
+033 ﻿18
+
+
+Nejprve odvodím relace mezi oběma kompletními integrály druhého druhu obdobné rovnicím
+
+
+JC^_
+
+
+LK/_
+
+
+Podotkněme především, učinivše máme
+
+
+čímž, vzhledem relaci Ji	""""
+
+
+	'•L rovnice (B) plynoucí «JLM inb
+
+
+nalézáme -Ji -id —	— L""MJN> ibYJ\ inb f//K
+
+
+lrf	K (a^ ""'
+
+
+
+
+
+Nyní zavedu druhou kompletní funkci druhého druhu užívaje relace
+
+
+J'K JK'
+
+
+
+
+
+
+
+
+K.'
+
+
+nahradím totiž hodnotou TF""I obdržím snadné redukci:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toť první relace, již jsem chtěl odvoditi, jiná obdobná vztahující
+
+
+
+
+
+
+
+
+plyne rovnice
+
+
+
+
+
+podávající
+
+
+
+
+
+
+
+
+L-LM
+
+
+
+
+
+2LM
+
+
+•eliminujeme-li pomocí rovnosti (B). Dosadíme tedy hodnotu
+
+
+
+
+
+čímž
+
+
+
+
+
+
+
+
+y/L/JM
+
+
+7/JM.
+
+
+""k
+
+
+inb
+
+
+2KL
+
+
+C34 ﻿19
+
+
+píšeme-li nyní
+
+
+
+
+
+2LM
+
+
+2KL
+
+
+2KLM
+
+
+nahradíme-li pak /LL'M hodnotou #LM, hodnotou
+
+
+
+
+
+nabývá náš výraz tvaru
+
+
+
+
+
+íli
+
+
+
+
+
+
+
+
+
+
+
+ian
+
+
+
+
+
+tudíž
+
+
+ÍL.
+
+
+
+
+
+/'* K')
+
+
+
+
+
+
+
+
+Jest důležito podotknouti, hodnota těchto výsledcích vyskytující jest, jakož ihned ukážeme, algebraickou funkcí modulu. Vezměme jakožto příklad úvahu jednoduchý případ transformace druhého řádu; theoremu II, Fundamenta 37., že, nahradíme-li hodnotou <72, hodnoty
+
+
+\-\-k' přejdou -—p-7y —7- -j- k') připojíme, přejdou
+
+
+
+
+
+
+
+
+
+
+
+(2J'
+
+
+Dále podotkněme, výsledky, jichž jsme právě dodělali, lze podati tvaru jednodušším; připomeneme-li si, jsme položili ;/, snadno odvodíme rovnosti
+
+
+
+
+
+
+
+
+KN,
+
+
+
+
+
+nichž vyvodíme některé důsledky.
+
+
+Znásobivše první hodnotou J', druhou obdržíme jich odečtením tento nový výraz pro
+
+
+
+
+
+
+
+
+(""J,
+
+
+
+
+
+něhož vcházejí pouze kompletní integrály druhého druhu.
+
+
+Rozpravy. Ročn. Tř. II. 30. ﻿20
+
+
+Budiž napotom položeno
+
+
+
+
+
+ib\J
+
+
+máme tyto dvě relace
+
+
+
+
+
+/2U —V,
+
+
+
+
+
+V),
+
+
+jichž užiji differenciaci podle rovnice Tím nalezneme
+
+
+
+
+
+čili MU.
+
+
+
+
+
+nyní vyjádřím pomocí pravou stranu, nahrazuje hodnotami
+
+
+
+
+
+
+
+
+
+
+
+(n]
+
+
+Tento počet nám podává
+
+
+
+
+
+což jest linearná homogenní relace mezi Patrně bychom téhož výsledku dodělali vzhledem K', položivše
+
+
+differenciaci rovnice /K' (^L -f- id\J) poněvadž determinant jest různý nully, jest nutno, aby koefficienty každý sobě, vymizely. Máme tedy
+
+
+
+
+
+
+
+
+
+
+
+//'
+
+
+kdk ť/M Idl
+
+
+~A'2 7/2""
+
+
+MaN
+
+
+První těchto relací nalezena Jacobi-m podána Fundam. 32.; jakož známo, jest významu základního theorii transformace. Vzhledem lze druhou relaci psáti tvaru
+
+
+
+
+
+
+
+
+Idl /'«
+
+
+nkk
+
+
+,'•2 ﻿21
+
+
+čehož odvodíme následující výraz, jenž jest, jakož jsme již byli ohlásili, ryze algebraický:
+
+
+
+
+
+němu připojím applikace.
+
+
+Nejprve uvažujme případ transformace druhého řádu, kde
+
+
+
+
+
+
+
+
+Odtud snadno vychází
+
+
+—-i
+
+
+
+
+
+
+
+
+
+
+
+pročež
+
+
+M*' DA- log —7T
+
+
+
+
+
+
+
+
+
+
+
+odkud ihned
+
+
+Přecházeje případu, kdy užiji výrazů, jež podal Jacobi Fundam. pro oba moduly pro multiplikátor, totiž
+
+
+«)««
+
+
+
+
+
+/2=
+
+
+
+
+
+nich především snadno obdržíme
+
+
+
+
+
+
+
+
+čímž
+
+
+tedy
+
+
+
+
+
+687 ﻿'22
+
+
+Majíce tímto způsobem formuli
+
+
+
+
+
+pišme nejprve
+
+
+
+
+
+
+
+
+
+
+
+Uváživše napotom,
+
+
+
+
+
+dojdeme následujícího výrazu
+
+
+
+
+
+«2)
+
+
+Odtud řešením dle
+
+
+dosazením výrazu pro nalezneme rovnici mezi chtěli odvoditi, totiž
+
+
+kterouž jsme
+
+
+(!)'-«-(Ť)
+
+
+
+
+
+Porovnáme-li tento výsledek formulí
+
+
+
+
+
+
+
+
+
+
+
+shledáváme, přihlédnuvše čitateli, ihned, platí:
+
+
+kde man značí dvě libovolná celistvá čísla.
+
+
+
+
+
+638"

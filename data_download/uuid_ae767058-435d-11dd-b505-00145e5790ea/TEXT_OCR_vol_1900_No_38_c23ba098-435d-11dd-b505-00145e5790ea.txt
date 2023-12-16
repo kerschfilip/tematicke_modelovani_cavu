@@ -1,0 +1,339 @@
+"","x"
+"1"," ﻿ROČNÍK IX.
+TŘÍDA II.
+ČÍSLO 38.
+O užití nauky o funkcích elliptických
+natheorii forem kvadratických záporného diskriminantu.
+Napsal Dr. l^ai-el Petr,
+professor na gymnasiu v  Olomouci.
+(Předloženo dne   15. června 1900.)
+Užití nauky o funkcích elliptických na theorii čísel rozpadá se, jak známo, na dvě hlavní skupiny. Jedna jest povahy elementární a připíná se ku rozvinutí funkcí elliptických v řady; do ní spadá ku př. jako nejznámější příklad poučka o rozkladu čísla ve čtyři čtverce. Druhá skupina má za podklad t. zv. komplexní multiplikaci elliptických funkcí. Z této nauky odvodil Kronecker*) vztahy pro počet tříd forem kvadratických záporného diskriminantu.
+Avšak Hermite ve svém pojednání »Sur la théorie děs fonc-tions elliptiques et ses applications á 1'arithmétique (v Comptes Rendus 1861. a znovu otištěném v Liouvillově * Journal děs Mathématiques* 2. sér. t. VII. 1862, p. 25.) ukázal, že aspoň část'' relací Kroneckrových lze odvoditi pomocí rozvinutí funkcí periodických v řady, tedy způsobem mnohem elementárnějším a spadajícím do skupiny prvé. Než výsledky Hermiteovy nejsou úplný, jak už jsem naznačil, vztahují se totiž jen ku diskriminantům forem kvadratických tvaru A-k -j- 3. Ale pouhá záměna theta-funkcí dostačí úplně, abychom od výsledků Hermiteových dospěli ku výsledkům zcela obecným. Hermite nedoufal, že tak jednoduše lze dojíti cíle. Praví ve svém pojednání nahoře citovaném: Le temps mé manque en ce moment pour donner le systéme complet de toutes les relations de cette nátuře et nťoccuper děs autres théorěmes de M. Kronecker et de ceux
+*) Uber die Anzahl derverschiedenenClassen quadratischer Formcn voň negativer Determinante. Crelle's Journal sv. 57. (1860). Srovnej též jeho pojednání v Berliner Munatsberichte z r 1857, 1862, 1875.
+Rozpravy. Ročn. IX. Tř. II. čís. 38.                                                                           l
+XXXVIII. ﻿oú le P. Joubert a introduit děs   fonctions numériques distinctes děs pré-cédentes. J'aurais surtout a retrouver cette relation
+&*(&)
+qui sans doute doit résulter de combinaisons oíi entre la fonction 55-)—?.
+W (s)
+Ku odvození relací pro diskriminanty tvaru 4-k + 3 užívá Hermite, přidržíme-li se označení thetafunkcí v našem pojednání užívaného, rozvinutí funkce
+v řadu kosinusovou. Ku odvození relace (a) a jiných tří, v nichž Krone-ckrovy formule I.—VI. jako zvláštní případy jsou obsaženy, stačí v úvahu bráti jenom funkce:
+Máme tak mimo to ještě tu výhodu, že dostaneme současně Gaussovy věty o počtu rozkladů čísla ve tři čtverce jakožto zcela jednoduchý důsledek rozvinutí těchto funkcí v řady, kterémužto odvození věnoval Hermite nové pojednání »Sur la théorie děs fonctions elliptiques et ses applications á l'arithmétique« (Comptes Rendus sv. 55 p. 11. a 85.).
+Formule Kroneckrovy VII. a VIII. rovněž podobným počtem vyplývají, takže celý systém formulí Kroneckerových methodou Hermitovou jest odvozen a jeví se zde ještě s jinými formulemi, které v něm obsaženy nejsou, směstnán v šest vztahů formy zcela jednoduché.
+Řady trigonometrické pro funkce dvojperiodické odvozené postačí rovněž ku odvození vztahů dosud nepovšimnutých. Levé strany Kroneckro-vých formulí mají totiž tvar
+F(n) -j- 2F(n — 12J -f 2F(n — 22) •+-......,
+kde F(ŤI) značí ku př. počet třid kvadratických diskriminantu —;/, pravé závisí jednoduše na dělitelích čísla ;A Lze však odvoditi vztahy, jichž levé strany mají tvar
+l*F(n — l2) + 22^(;/ — 22*) + 32F(u — 32) + .   .   .   . a pravé rovněž závisí jednoduše na dělitelích čísla ;/.
+XXXVIIÍ. ﻿I.
+S velikou výhodou jest v našem případě místo pojmu formy kvadratické redukované, jak jej Gauss v D. A. užívá, použiti definice Sellin-govy;*) tento nazývá onu formu kvadratickou redukovanou, při které, píšeme-li ji ve tvaru (dosadivše dříve místo ,r, y rozdíly x — /, y — i):
+jsou a, by c čísla celá, positivna, jenom jedno z nich může býti rovno nulle. Chceme-li od tohoto tvaru formy kvadratické přejíti ku obvyklému, stačí za jednu z proměnných x, }\ t položiti nullu. Diskriminant oné formy jest — D — — (ab -j- bc -j- ca).
+K pojmu redukované formy takto definovanému jest třeba přičiniti tyto poznámky: Především jsou jedině (a, b, c), (b, c, a), (c, a, b} formy vzájemně ekvivalentní, jestliže a, b, c mezi sebou a od nully různý jsou; formy pak (a, c, b), (<;, b, a\ \b, a, c} jsou v tomto obecném případě s oněmi jenom nevlastně ekvivalentní. Zastupují tudíž tři čísla a, b, c kladná a různá hovící rovnici
+(2)
+ab -\- bc -\~ ca = D
+dvě třídy diskriminantu — D. Jestliže jsou dvě z čísel a, b, c rovna, ku př. a = b, pak ovšem (#, b, c) a (/>, a, c) jsou formy ekvivalentní, poněvadž jsou stejné, jsou však též nevlastně ekvivalentní a máme tudíž formu, kterou Gauss nazývá »anceps«. A podobně v tom případě, že a = o jsou formy (0, b, c , (#, c, b] vlastně i nevlastně ekvivalentní. Chceme-li tudíž vypočísti počet tříd diskriminantu — I), můžeme to učiniti tak, že vypočteme počet řešení rovnice (2), při čemž každé řešení, kde a, /;, c vzájemně a od nully různá, dvakráte počítáme.
+Připomenouti jest ještě, že, píšeme-li formu (1) ve tvaru obvyklém, totiž
+m x- -\- 2 rxy -\-py~
+m \ p jsou čísla sudá, jsou-li všecky tři koefficienty a, b, c bud'liché anebo všecky sude a naopak, jestliže aspoň jedno z čísel ;/z, p jest liché, jeden z koefficientů a, b, c jest sudý a jeden lichý.
+Označovati pak budeme počet třid forem kvadratických diskriminantu — u, při nichž aspoň jeden z vnějších koefficientů w, / jest lichý /YXW)» počet třid forem kvadratických, při nichž oba dva vnější koefficienty jsou sudé (a tedy všecky tři z čísel a, b, c stejné parity), //(«), při čemž zároveň třídu zastoupenou formou
+t»                        o
+my-
+mx'
+*) Ed. Selling,   Uber  die bináren und ternáren  quadratischen Formen.   Crelle's Journal sv. 77. 1874.
+XXXVIII. ﻿s váhou —, a formou
+2 w.r2 -j- 2 mxy -|- 2 7«jr s váhou — čítati budeme. Mimo to položíme;
+F(o) = o,    H(o) —
+l
+12
+II.
+Ku provedení našeho úkolu jest třeba dále znáti rozvinutí některých funkcí periodických třetího druhu v řady sinusové a kosinusové. V každém z případů následujících lze vždy snadno použiti návodu, který dal v té příčině Appell*) a kterýžto návod vyložen v učebnicích. (Ku př. Jordán, Cours ď Analyse T. 2. vyd. 2.)
+Tak dostaneme nejprve**)
+,3 a)
+( V )
+\     /
+_ 2 v sin (2
+^™
+(3.)
+, (z;)
+.(2?
+*) Sur les fonctions doublement  périodiques  de troisiěme  espěce.   Annales de 1'École normále sup. 3. sér. T. I. p. 135, T. II. p. 9.
+**) Označení thetafunkcí jest souhlasné jako v Jordán »Cours d'Analyse« totiž:
+- 1)"" ť* +       sin (2n + !)nv
+CO              .                   1   \ '*
+, (» — 2 V g\"" + 2)  cos (2n  f- 1) nv
+00
+t(v) = í +2^](-l)Ví2 l
+co
+=»+*L*""'
+fí»j- 2« Tré;
+cos 2n nv.
+XXXVIII. ﻿a potom
+W      l
+l,.,
+(4
+B, &, 2
+4       «« 2« w
+(„   4.
+/        ,N«   (
+• (—i) í
+„    („   + _)
+q     2
+Řady (3 abc] a (4«) jsou uvedeny v citovaném Hermiteově pojednání. U řad (4) jest nejdůležitější určení výrazů na v nezávislých : A, -B, C, Dt Et F, jakožto řad mocninových argumentu q. Hermite provedl toto určení jenom pro výraz A. Výraz B není podstatně od A rozdílný, neboť řadu
+druhou dostaneme z prvé,   píšeme-li místo v a q : v -j — ^ ,   —  q.     Plyne
+M
+z toho, že jednotlivé členy výrazu B od členů výrazu A jenom znaménky se liší. Podobně jest to u výrazů C a E, D a F\ tak že ku určení vybý-vají jenom výrazy tři At C, D.
+XXXVIII. ﻿Při výpočtu těchto výrazů   mimo   řady (3) jsou   potřebný tyto řady pro funkce elliptické*)
+(5a)
+Í.              -?
+fe>( v)         4t] 2 sin nv        4q 2 sin 3nv
+l+ff
+l~
+1 + ?5
+!cos 4itv         4q31.
+Určení všech tří výrazů a i v případech pozdějších lze provésti úplné stejnou methodou,   takže   nebude potřebí příslušné   výpočty prováděti než
+jedenkráte, aby příklad byl dán. Zvolíme-li si k tomu účelu výpočet funkce
+i
+C, kterou určíme jakožto koefficient členu 2q*cosnv  v součinu   obou   řad (3 c) a (5 a). Koefficient cosnv v součinu bude patrně součet členů
++j>
+při čemž pro n a / všechna   čísla positivna,   pro / též O bráti jest,   pro k
+i
+pak čísla: O,  l, 2,......;/ — 1. Bude tedy míti člen q      ~4 za součinitel číslo, které udává počet řešení obou rovnic
+
+
+
+- (JI
+Rovnice tyto lze psáti ve tvaru:
+(6)
+k -(« —
+1)+ (« —
+1)+
+l)/ =r
+čímž uvedeny jsou na tvar rovnice (2). Čísla ;/ — k — l a n -\- k a rovněž n — k a n -\~ k -\- l jsou různé parity; přicházejí tudíž v úvahu v tomto případě pouze formy, jichž aspoň jeden koefficient vnější jest lichý.
+*) Viz Jacobi >Fundamenta nova* p. 101. rovn. 19., 21., p. 103. rovn. 25. V ozna-
+2kK                           2kK                        2K cení Jacobiove jsou to rady pro           sin am 2Kv,             cos am 2Kv,-----J am 2Kv.
+XXXVIII. ﻿Jsou-li a, b, c koefficienty formy redukované a to takové, že #, b jsou stejné parity a a, b, c vzájemně a od nully rozdílný, můžeme klásti, jestliže ku př. a > c, b < c
+v prvé rovnici:    n — k — l = c        anebo:    n — k — \ •=. b
+n -\- k — a                             n ~\- k — c
+v druhé rovnici:         n — k = c
+n -\- k -j- l = a l—l)
+n — k — b
+n -j- k + l = c l— a
+Zcela podobně by to bylo, kdyby « > c, b > c; a< c, b <i c\ a < c b > c. Odpovídají tedy jednomu řešení rovnice
+(7)
+ab -j- bc -\- ca — N
+když a, b, c vzájemně a od nully rozdílný, čtyři řešení rovnic (6). Jestliže dále a =: b, a ku př. a > c, c > o, lze položiti
+v prvé rovnici:    n — k — l := c
+n -t- k =i a
+v druhé rovnici: n — k — c
+n ~\- k -\- l = a
+l—a
+V tomto případě odpovídají jednomu   řešení   rovnice (7) jenom dvě řešení rovnic (6)
+Jestliže a — O, b sudé, c liché, a ku př. b < ct lze klásti
+v prvé rovnici: n — k — l = O n -\- k =: c l\-\—b
+v druhé rovnici:    n — k = b
+n 4- k + l = c l—o
+Jestliže a =r o, b i c liché, avšak ^ ^ c, lze učiniti v prvé rovnici
+n — k — l m O           aneb           n — k — l =n O
+# -j- /ír = b                                     n -\- k — c
+Rovnice druhé ze (6) v tomto případě nelze použit.
+Je-li konečně a =: o, b i c liché a b =z c, lze klásti v prvé rovnici ;/ — k — l — O, n -j- k — /', l -\- l = b.
+Když a = O odpovídají jednomu řešení rovnice (7) rovněž jenom dvě řešení rovnic (6) a pouze jediné, když ještě b — c.
+AT+1
+Tedy celkem: Koefficient výrazu cosnv.q ""• v součinu řad (3 c) a (5 a) udává šestnáctinásobný počet řešení rovnice
+ab -j- bc -\- ca =: N
+XXXVIII. ﻿čísly celými, z nichž aspoň jedno jest sudé a aspoň jedno liché, při čemž každé řešení, kde a, b, c vzájemně a od nullly různý, jest počítati dvakrát, řešení, kde dvě z čísel a, ó, c jsou si rovna, aneb, kde jedno z nich nulle rovno, jedenkrát, řešení konečně, při kterém jedno z těch čísel nulle rovno, ostatní dvě pak vzájemně rovna, půlkrát. To jest jinými slovy se zřetelem ku odst. I.: Onen koefficient jest
+Výpočty pro A a D, jak jsme   podotkli,   lze   provésti   úplně   stejně. Učiníme-li to, máme tyto výsledky
+8;/ + 3                                         8» +7
+(8 a)            A =
+B =12 Z H(%ti + 3 1 g          —
+n + 7)
+D —   4 L (F(n) — 3 H(uÍ) q'-u - O, l, 2, 3, .
+Výraz, ku kterému Hermite dospívá pro A, jest poněkud jiného tvaru,
+totiž
+(9)
+A —
+Oba výrazy, předpokládáme-li poučky o počtu forem nevlastně primitivních, nejsou podstatně rozdílný. Tyto poučky v následujícím dokážeme. Ostatně plyne snadno ze srovnání výrazů (8 a) a (9) pro A, kteréžto výrazy oba jednoduchými úvahami arithmetickými byly odvozeny,*) že zmíněné poučky těmito jednoduchými arithmetickými úvahami rovněž dokázati se dají. Gauss, jak známo, dokázal je pomocí komposice forem kvadratických, Lejeune Dirichlet pak jakožto důsledek svých úvah analytických.
+III.
+Při použití vztahů odvozených jest výhodno znáti řady, které vzniknou z řad (5) jednak povýšením jich na čtverec,**) jednak jich derivací. Jsou to řady
+nq"" cos
+a» "" — rt 7 • — q*»
+(10 a)
+l — q2""
+*) Rozdíl mezi Hermiteovým  a mým odvozením jest ten,  že Hermite opíral se o formy kvadratické redukované způsobem Gaussovým (vlastně Lagrangeovým), kdežto v této práci s výhodou využitkována definice Sellingova. **) Viz Jacobi Fundamenta, pg. 109.
+XXXVIII. ﻿2n -(-l
+l ---    *n + l
+(lib)
+®(v}®,(v}   .    A\<(2n
+®2 2 (v)                 ^                       l -f~ ^2"" f""
+©(^) ®t (^)          ^ 2w ^"" jm 2mrv
+= O,  l, 2, 3, 4,
+Současně zavedu označení, kterého v následujícím budu užívati.
+Označiti bude vždy, pokud něco jiného zvlášť nebude vytčeno, dělitele čísla n. Kvalitu tohoto dělitele vyznačíme indexy. Tak značiti bude: d± dělitele, pro který dí ^ \n a to takový, není-li již žádný index připojen, že jeho konjugovaný, jejž označíme d2 (t. j. dělitel pro který dí d^ = u), jest stejné parity. Jestliže n jest úplný čtverec, jest bráti dělitele d^ =V^i vyskytuje-li se v mocnině první, s váhou poloviční (totiž s koefficien-
+tem -5-). dí značiž   dělitele   lichého;   d,.   dělitele,   jehož   konjugovaný  jest
+L  s                       »
+lichý; ds dělitele sudého a dn dělitele, jehož konjugovaný jest sudý. Index 8 k -\- l u d vyznačuje, že dělitel jest tvaru 8>L -j- l atd. Význam d, u něhož dva nebo více z indexů vytčených jest připojeno, vysvítá sám sebou.
+Vypočteme-li   nyní  koefficient  výrazu   cositv  v součinu   řady (10 a)
+i
+s ®j (v\ což jest velmi snadné, dostaneme C násobené 2q2@3 ; vypočteme-li pak koefficient cosnv v součinu řady (líc) s ®(v), obdržíme výraz C
+násobený 2 q2®2- ^a^ docílíme snadno důsledky:
+f-V
+II.
+/•'(«) - 2 F(n -
+-   2   - -
+Na levé straně těchto vztahů jen ty funkce numerické P'(n—k'2} bráti jest, pokud argument jich positivny, součet na pravé straně vztahuje se ku všem dělitelům za znaménkem součtovým vyznačeným.
+V relaci I. jsou zahrnuty jakožto zvláštní případy Kroneckrovy formule (Crelle Journal sv. 57.) a to L, II. a V., v naší rovnici II. jsou ob-
+XXXVIII. ﻿10
+sazeny opětně jako zvláštní případy Kroneckrovy formule III. a VI. — Vztah II. pro ten případ, že n jest dělitelno mocninou vyšší nežli prvou, v Kroneckrových formulích obsažen není.
+Položíme-li konečně v (4 c) v =: o, dostaneme pro n := 4 v -j- l
+(12)
+Tento vztah však nemá   pro nás   velké   důležitosti,   poněvadž jest obsažen v předešlých jako speciálný případ, jak později ukážeme.
+Podobně jako právě ze vztahu (4 c) dostaneme ze vztahu (4-d) s pomocí řad (10 c), (11 a) tyto důsledky*)
+III.
+F(n) —
+-[- 2 \F(n — l2) — 3H(n — l'2)} -f-
+
+IV.               F(»] -
+'   2[F(n__22)__
+a pro n = 4 v -4- l
+2 [/•'(« — l2) —
+— l2)] -f
+i + '
+(12')
+I tato poslední rovnice podobně a ze stejné příčiny jako (12) nemá pro nás důležitosti.
+Formule IV. v pojednání Kroneckrově jest kombinací našich rovnic I. a III. pro ten případ, že n jest liché.
+Násobíme-li I. dvěma a sčítáme s III., obdržíme snadno:
+/•'(«) —H(n) + 2 \H(n — l2) - H(n — l2)] -> - 2 [F(n — 22) — //(« — 22) ] -f. . .. (13)                               ;= 2 V <a?/ když n sudé,
+když ;/ liché.
+*) Při tom musíme   míti na paméti,  že  řada  pro  výraz (4ť)  není  konvergentní pro v ~-r  + -  - T, jelikož (4f) má pól v ~ — T; jest tedy nutno dříve než z» z= •     -f-      T
+mm                                       2,                                                 L       m
+se dosadí, členy onomu pólu v nekonečné řadě odpovídající odečíst a jim rovný výraz v konečném tvaru zároveň přičíst.
+XXXVIII. ﻿11
+IV.
+Sčítáním vztahu (4 c) a (4d) dostaneme ihned [buď kladouce v — O, aneb uvážíme-li, že ®, 2 &2 (v) -4- ®„2 ®,2 (z;) = &,2 6>0 2 (v)]:
+l           \    /       l        J       o      \    /            •>       l      \    / J
+(14)                             <V = 1
+ze kteréhožto vztahů plyne   ihned  věta:    Počet rozkladů čísla n ve tři čtverce j est
+(15)                            Pa(n)=l2[F(n)-H(nj\ Podobně sčítáním vztahů (4 a) a (4 b) obdržíme
+8 «-f 3
+(16)                              0,3 = 24       //(8 « + 3) ?    4
+Z čehož: Počet rozkladů čísla 8n-\-3 ve tři čtverce (liché) jest:
+(17)                                  P3 (8 n-\-3) — 24 //(8 w -f 3)
+Číslo  8 u ~\-1 ve tři čtverce rozložiti se nedá,  neboť čtverec čísla lichého jest tvaru 8v -|- l, sudého 4 v a jest tudíž
+(18 a)
+w -f 7) = //(8 w + 7)
+Číslo 8 n -j- 3 lze rozložiti ve tři čtverce,   z   nichž   všechny   tři   musí   býti liché, srovnáním tudíž (15) a (17)
+(18 b)
+u 4- 3) =
+-
+3)
+Číslo, které jest dělitelno 4, dá-li se rozložiti ve tři čtverce, jsou všecky ty čtverce čtverce sudých čísel. Tudíž počet rozkladů čísla 4n ve tři čtverce jest rovný počtu rozkladů čísla // ve tři čtverce:
+avšak
+(19)                                  7/(4«).— F(ri) -}- H(n),
+neboť jsou-li oba krajní koefficienty kvadratické formy p x* — 2 q xy -\- ry ~ o diskriminantu q- —/>r=4« dělitelný dvěma, musí i prostřední koeffi-cient, totiž <7, dělitelný býti dvěma a tudíž
+(20)
+«) = 1F(n]
+Tím jsou odvozeny známé Gaussovy věty z D. A., týkající se jednak rozkladu čísel ve tři čtverce, jednak počtu forem nevlastně   primitivních a
+XXXVIII. ﻿12
+počtu forem, jichž diskriminant jest dělitelný sudou mocninou čísla dvě. Ze vztahu (13) a (15) plyne pak: Počet rozkladů čísla n ve čtyři čtverce jest rovný 24-násobnému, jeli n sudé, osminásobnému pak, je-li n liché, součtu všech lichých dělitelů čísla n.
+Vztahy L, II., III., IV. předpokládáme-li (19) a (20) na sobě nezávislý nejsou. Neboť I. plyne z III. a IV., klademe-li v jich součtu 4 ;/ místo n a použijeme-li (19) a (20); pak změní se vztah určující původně čísla F(n) — 3H(n) ve vztah určující čísla F(n) -\- 3 //(;/). Rovněž (12) plyne pomocí (20) ze vztahu:
+F(n - 32) + F(u - 5"")
+d - -
+kterýžto vztah dostaneme odčítáním rovnic II. od I. při supposici n =: 4 v -\- 1. Podobně bychom obdrželi (12').
+Řadu (4 a), kterou Hermite v cit. pojednání použil, upotřebili jsme ku odvození (16) a tudíž i (18 b). Ze tří relací pro počet třid ze (4 a) podobně jako ze (4 c) a (4 d) plynoucích, dostaneme jednu bezprostředné odčítáním II. od I. při předpokladu n = 4 v, druhou podobně, třetí však pouze při předpokladu vět (18 a) a (18 b) vhodnou kombinací L, II., III. při supposici ;/ = 4v-|-3. Jsou to relace:
+(21 a)        F(4n- 1) -f F(4n — 32)4-F(4n~ 52) -f   .   .   .   =
+S di
+u —3
+(21 b)
+(21 c)     ť(n) - 2F(n —
+Při obou posledních jest n — 4 v -f- 3.
+Z Kroneckrových formulí v pojednání několikráte již citovaném obsažených jsou v našich I.—III. zahrnuty jakožto speciálně případy formule I.—-VI., jak jsme na příslušném místě vytkli. Zejména také relace, která v úvodě v citátu z Hermitovy práce obsažena jest a která se kryje s I. tohoto pojednání. Formule VII. a VIII. zmíněné Kroneckrovy práce z rovnic našich I.—IV. odvoditi se nedají. Formule tyto mají také od formulí po-savadních poněkud odchylný ráz, vztahujíce se ku číslům tvaru 8L—l a 8/fc-j- l- Nicméně i tyto formule stejnou cestou odvoditi lze, jakož v následujícím ukážeme.
+XXXVIII. ﻿13
+V.
+Budeme v úvahu bráti funkce periodické třetího druhu, při nichž počet nullových bodů o dva převyšuje počet pólů, při čemž jako dříve budeme míti na zřeteli funkce, jež v jmenovateli obsahují ®2 (v).
+Nejjednodušší z takovýchto funkcí jest
+(22)
+-}- 2 V sin 4nn v . q . 2 V
+Rozvinutí v řadu sinusovou lze při této funkci, jakož i při následujících snadno provésti, jak jsem svrchu již poznamenal, methodou Appello-vou. Funkce tato bude nám nyní týmž způsobem užitečná jako dříve výrazy (3). Tak koefficient cos TI v v řadě pro funkci
+(23)
+lze určiti jakožto koefficient cos nv v součinu
+součinu to řad (22) a (5 a).   Tento   koefficient zcela   podobně jako v odstavci (II) naznačeno, vypočteme a dostaneme jej ve tvaru :
+r(8;/ — 1) q         — 2q-    T
+Podobně pomocí řady (22) a (5 c) vypočteme koefficient stu 2nv ve výraze
+(24)                                    &,&3
+a shledáme, že jest
+W
+Určíme-li   koefficient  cosnv  v součinu dostaneme koefficient cosnv ve výraze*)
+>, 2r)   s výrazem   (lib)
+7) Neboť Wa(ť>,2t) &(2v, 2 T) — W,(zr)í9(p)    a
+XXXVIII.
+zr (->% (o,2t). ﻿14
+a tudíž
+co
+®2 (0, 2*) . 4 7] F(8 m — 1) ef'
+i
+z čehož srovnáním plyne ihned
+F (8 m - 1) — 2 7<X8 m — l — 42. l1) -f 2 7^(8 »f — l — 42. 22) V.
+_       ----   Ljďí} 8X--J-3Í
+kdež d jsou dělitelé čísla S m — 1.   Vztah právě uvedený jest VII. relace Kroneckrova.
+Podobně,   určíme-li  koefficient výrazu '''sin 2 n v v součinu &l \vt~ň""} s toutéž řadou jako svrchu (lib), obdržíme koefficient sin 2nv**} ve výraze
+a tedy:
+čímž dospíváme ku relaci
+i G' y ) S (- U* ^'('
+VI.
+kde « jest tvaru 8 v ~f- l a součet na levé straně pro všechna k provésti třeba, pro něž n — k^ jest positivně a délitelno 16. Tím odvozen jest VIII. vztah Kroneckrův.
+Beze všech obtíží jest udati rozvinutí funkcí (23) a (24) v řady trigonometrické, když známy jsou nám výrazy Ta U. Avšak místo, abychom udávali rozvinutí funkce (24) v řadu, jest pro následující vyšetřování pohodlnější voliti funkci, ve kterou (24) přejde, píšeme-li v ~\-- T místo v-Dostaneme tak:
+*) Neboť  fc), (<;, ~0  W, (», -'-) = 2W, (»)»,(»)    a    2(9,0,  == ^'('t-r)1
+XXXVIII. ﻿15
+&< 6L
+(4 K + !)•'    n
+(25)
+, (v)        ,,,_
+=
+(4*
+K V
+
+CO
+— 4 V L05 (4 w — 1) TI v .
+(26)
+= y e (2   2
+(2 H + 1)2       „ _ l
+sn
+— 8 V cos 4 n n v (• — l) q
+n       \                                               l
+VI.
+Obrátím se nyní ku odvození vztahů v úvodu vytčených, k čemuž budou prospěšný právě řady (25) a (26). Rozvineme výrazy na obou stranách v řady mocninové a to prvou v okolí bodu v = o, druhou v okolí
+bodu v =: — — a koefficienty druhých mocnin argumentů na obou stranách srovnáme. Tím dostaneme na levé straně, nehledíme-li ku činiteli 7t2 při (25) <V@34, při (26) &2í&3i. Výraz &lí(s)^ snadno stanovíme jakožto řadu, rozvineme-li zase obě strany vztahu (10 a) v řady mocninové a koefficienty druhých mocnin argumentu učiníme sobě rovny, zcela podobně určíme i 024®34. Dostaneme
+
+— </'
+= 1 +16
+Koefficient v* na pravé straně   (25) a (26)   udati jest snadno.   Srovnáním dostaneme
+(Sn - l3) -\-3*F(8n — 32) -[ - 2«
+XXXVIII. ﻿16
+kdež d jsou dělitelé čísla  2«, «/, <
+\*F(n— !2)-f 22F(n — 22) -f- 32 /<(« — 32) -f   ,   . + 3l2//(« — l !)-j-22 //(;/ — 22)-f 32/7(«-32)-f-
+jestliže « úplný čtverec a
+w líché
+:=• V ;/, jest  v součtech místo í/,   a d^ bráti
+Z těchto dvou vztahů kombinací a použitím vět z odst. IV. lze docíliti vztahů jednodušších. Nehodlám však podrobnosti k tomu se vztahující uváděti, napíšu pouze výsledky:
+l*F(n— l2) 4-22^0— 2*)-f 38^(« — 32)4- ......
+2X- jest nejvyšší mocnina   dvou   v ;/ obsažená;  jestliže n   úplný   čtverec   a
+— dl zz v íí   v součtech místo d^   a ť/j 3 třeba přičítati
+1
+dv
+= — n V «?/ , n sudé
+i liché.
+n liché
+« sudé.
+Podobné výsledky   docílili   bychom   z týchž vztahů (25)   a (26) roz-
+vinutím obou   stran v řady mocninové  prvý: v okolí bodu v — -_-,  druhý
+l                                                                                 2
+kolem z» — — r a srovnáním prvé mocniny argumentů na   obou   stranách ;
+než v tomto případě nedostaneme výsledků tak úplných jako právě.   Obdržíme totiž vztahy :
+n __ *2\__       — >(__
+n       o )      . .---/ 11
+XXXVIII. ﻿17
+d\ jest dělitel čísla nějž d\ < V2ň.
+tak aby konjugovaný ď2 byl   různé parity a pro
+11
+v této rovnici jest tvaru 4v -j- l a jeli úplným čtvercem a  V;z — a^, tu
+jest místo d^ přičítati       ((/ta — d^).
+&
+XXXVIII ﻿*"

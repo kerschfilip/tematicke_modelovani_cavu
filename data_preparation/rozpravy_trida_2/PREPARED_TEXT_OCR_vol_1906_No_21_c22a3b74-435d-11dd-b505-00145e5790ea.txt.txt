@@ -1,0 +1,4223 @@
+"","x"
+"1"," ﻿ROČNÍK
+
+
+TŘÍDA II.
+
+
+ČÍSLO 21.
+
+
+Mathematický podklad vypočítávání srostlic.1)
+
+
+
+
+
+Sepsal OTTHARD JVI
+
+
+(Se obrazci třech Ubulích.)
+
+
+(Předloženo dne června 1906.)
+
+
+Všeobecná rovnice roviny souřadnicích pravoúhlých jest
+
+
+dělíme-li tuto rovnici veličinou
+
+
+M—±
+
+
+(1)
+
+
+(2)
+
+
+převedeme rovnici normální tvaru
+
+
+cos -j- cos -j- cos 0,.....(3)
+
+
+níž jest vždy negativní dle toho řídí znaménko veličiny této rovnici normální jest
+
+
+cosr cosr cos (4)
+
+
+úhly pak rlt r2, znamenají odchylky kolmice (obr. 1.) začátku souřadnic tuto rovinu vedené positivních poloos Z'; cosr^^ cos r%, cos jsou směrné cosiny přímky OP.
+
+
+tomto předměte jsem psal již dvou spisech
+
+
+»Příspěvky vypočítávání srostlic* tabulemi. Osmnáctá výroční zpráva českého gymnasia Budějovicích roku 1890. Výtah viz Grothově »Zeit-schrift Kryst.« XVIII. str. 468.
+
+
+»Nčkteré nové úlohy mathematické krystalografie* dvěma tabulemi. Výroční zpráva gymnasia Jičíně roku 1901. Výtah viz Grothově »Zeitschrift Kryst.« XXXV. str. 480.
+
+
+těchto spisech uvedena jest moje samostatná methoda počítací cestou analytickou při určování vzájemné polohy krystalů srostlici srostlých, než naznačené doby zdokonalil jsem různých směrech postup výpočtu určitěji vyložil různé vzorce některé přidal.
+
+
+XXI. ﻿Poněvadž osy stojí sobě kolmo, platí
+
+
+cos1* -f- cos2 -f- cos2 l........(5)
+
+
+Dále analytické geometrie prostoru známo, dělíme-li onu všeobecnou rovnici roviny (1) veličinou —D, obdržíme osovou rovnici roviny
+
+
+
+
+
+
+
+
+
+
+
+při čemž
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6)
+
+
+(7)
+
+
+značí úseky osách rovinou odkrojené, tak OK— OL~^.s (obr. 1.), kteréžto úseky nazývají parametry této roviny.
+
+
+Poloha roviny krystalu jest určena poměrem těchto parametrů p:q:s\ náleží-li plocha soustavy regulární, krátíme nejmenším
+
+
+
+
+
+členem př. celý poměr obdržíme dle návodu
+
+
+
+
+
+Naumannova tato rovina znak dle návodu Millerova táž
+
+
+rovina znak (ABC}. Čísla nazývají indexy této plochy jsou
+
+
+vždy rationální, kterýžto zákon dle toho nazývá zákonem ratio-nality indexů. Znak Millerův převede Naumannův, když
+
+
+všechny indexy dělí největším, zde indexem tak obdržíme
+
+
+
+
+
+převratné hodnoty těchto podílů jsou hledané koeficienty pro Naumannův vzorec, tak
+
+
+
+
+
+~'""7' ~c~~
+
+
+Úhel sevřený dvěma rovinami normálních rovnic
+
+
+cos -|- cos -\- cos cos -\-y cos -j- cos zz:
+
+
+vypočítá známým vzorcem
+
+
+cos cos cos -j- cos cos -j- cos cos c2. ... (8) Jsou-li dány dvě přímky rovnicemi
+
+
+blx-}-h, II. a^x^-u^, .v-{-fa
+
+
+pak úhel jimi sevřený vypočítá vzorcem
+
+
+cos
+
+
+čehož pro rovnoběžnost přímek snadně odvodí podmínka
+
+
+(9)
+
+
+(10)
+
+
+XXI.
+
+
+Je-li rovnice roviny-----\- -\-----zz: pak rovnice kolmice
+
+
+
+
+
+tuto rovinu spuštěné jsou
+
+
+p""
+
+
+Též obráceně, když jsou známy rovnice přímky -j- -j- /i, pak všeobecná rovnice roviny, stojící kolmo dané přímce, jest
+
+
+bz-=L%.........(12)
+
+
+Soustava pravoúhlých souřadnic stočí kolem osy kolmé rovinu -f- -\- -{- •=. původní polohy úhel (obr. 2.); jest určiti odchylky poloos stočených X', Y', poloosám původním
+
+
+
+
+
+Převeďme nejprve onu všeobecnou rovnici roviny dle vzorce rovnici normální
+
+
+cos /-j -\-y cos -j- cos
+
+
+označme odchylky stočené, kladné poloosy kladných poloos polohy původní cosiny těchto odchylek al} /3lf yít podobně pro poloosu b2, cosiny těchto odchylek «2) /32, j>8, dále pro poloosu a3, b%, cosiny těchto odchylek «3, /J3, y3, pak př. sfaerického dle první poučky sfaerické trigonometrie jest cos íZj cos21\ -|- j/;z2 ^fj neboli
+
+
+í(9^2 (l----COS -)- ť(7J l/,
+
+
+podobně [}2 cos*r2(l —cos v)-\-cos \......(13)
+
+
+2/1 .""\
+
+
+Dále jest určiti směrné cosiny stočených nestejnojmenným osám polohy původní.
+
+
+CosX'Z-=.y^ (obr. 2.) vypočítá sfaerického němž X'P—rlt ZP=r3> <^C PZ-- <L. kterýžto úhel jest potřebí dříve vypočítati.
+
+
+sfaerickém XZP, němž are 90°, ?\, jest
+
+
+cos 90° cos cos cos cos
+
+
+sin
+
+
+sin sin
+
+
+
+
+
+toho sin cos*
+
+
+COS /'.,
+
+
+sin sin Dle toho pak jest
+
+
+cos cos cos cos -\- sin sin cos cos ;-3 cos cos sin
+
+
+sin r.A
+
+
+XXI. ﻿Ve sfaerickém dle první poučky sfaerické trigonometrie jest
+
+
+cos cos cos -\- sin sin cos dosadíce cos svrchu vypočítanou hodnotu, obdržíme
+
+
+cos cos cos -f- cos sin podobně cos cos cos cos sin i»,
+
+
+cos cos cos cos sin
+
+
+cos cos
+
+
+cos cos sin /Jt cos cos L#.$• L#.$• sin j>2 cos cos cos cos cos
+
+
+(14)
+
+
+Umístí-li pozorovatel oko své myšlenkách začátku souřadnic, dívá-li směrem kolmým rovinu -f- -\- -j- děje-li při tom stáčení směru kladném (jak jest vyobrazeno obr. 2.), jest směru protivném, než jak pohybují ručičky hodinové, pak obojích znamének nebo vzorcích 14. současně platí pouze znaménka horní, neboť tomto případě při dutý úhel XPZ zmenšuje úhel proto jeho sinus jest kladný. Naproti tomu při stáčení směru záporném vzorcích 14. mají platnost pouze znaménka dolní, neboť při zmenšuje vypuklý úhel XPZ, jehož sinus zápor ý.J)
+
+
+Správnost výpočtu kontroluje vzorci 20. 21., případě výkresem.
+
+
+Poznámka Chceme-li směrné cosiny stočených vyjádřiti funkcemi veličin všeobecné rovnice roviny, níž osa stáčení stojí kolmo, dosaďme vzorců 13. 14.
+
+
+_A_
+
+
+cos r^— +-y cos cos r-3 -+-g
+
+
+kdež A2Jr
+
+
+C2, tak obdržíme
+
+
+
+
+
+cos -)- cos
+
+
+
+
+
+
+
+
+cos
+
+
+COS
+
+
+cos -}- cos
+
+
+(15)
+
+
+—cos sin
+
+
+cos sin
+
+
+cos sin Ps-
+
+
+(16)
+
+
+Hudson Zeitschrift Kryst. XXXIV. 1901, 339 uvádí nesprávný výklad stáčení kladného záporného, jenž při výpočtech může vésti omylům.
+
+
+XXI. cos sin
+
+
+
+
+
+cos sin
+
+
+cos sin
+
+
+
+
+
+(16)
+
+
+Tyto vzorce jsou přehlednější jednodušší než vzorce, jež uvádí Hudson Zeitschr. Kryst., XXXIV., roku 1901 str. 341.
+
+
+Poznámka Schlómilch své analyt. geom. prostoru1) hodnotami «!, fa, vypočítává ostatní směrné cosiny stočených vzorců 16. jest patrno, směrné cosiny y1, jsou závislé znaménku vztahu před indexy plochy kdežto cosiny odchylek stejnojmenných a,, fa, y<3 vz. 15. těchto znaméncích nezávisí. Proto jest nutno vzorce Schlómilchovy doplniti takto když krátkostí označíme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#'i Pak Jest
+
+
+
+
+
+
+
+
+vzorcích Schlómilchových jsou uvedena pouze hoření znaménka.
+
+
+Důsledek Je-li úhel stočení 180°, pak zjednoduší vzorce 15. 16. takto
+
+
+
+
+
+
+
+
+2AB
+
+
+TJJ-,
+
+
+Transformace souřadnic.
+
+
+Když známe směrné cosiny stočených aA-, /3A-, J>A', jak vyloženo bylo 6., dále jsou-li souřadnice pravoúhlé nějakého bodu soustavě stočené souřadnice téhož bodu soustavě původní, převedou ony tyto dle známých vzorců
+
+
+
+
+
+(18)
+
+
+Fort und Schlómilch, Lehrb. der analyt. Geometrie. II. 1872. 114. Srovnej chrau Lehrbuch der Krystallographie. Bd. 190, kde pouze tytc zjednodušené vzorce pro zz: 180° jsou uvedeny.
+
+
+XXI. ﻿Zase naopak platí
+
+
+
+
+
+(19)
+
+
+Poněvadž osy souřadnicové stojí sobě kolmo, platí
+
+
+/J2
+
+
+""l-
+
+
+-Í- ""2 Dále vzorce přímo plyne
+
+
+(20)
+
+
+Vzo 20. 21. užívá při kontrole správného počítání.
+
+
+Dvoje nebo několik stočení rozličné úhly okolo různých začátku souřadnic protínajících převésti jedno stočení
+
+
+výsledné.
+
+
+Směrné cosiny prvním stočení osám původní polohy
+
+
+smyslu buďtež
+
+
+""i
+
+
+
+
+
+
+
+
+dále pak směrné cosiny druhém stočení osám prvním stočení
+
+
+buďtež
+
+
+
+
+
+
+
+
+těchto známých podmínek mají vypočítati směrné cosiny druhém stočení osám polohy původní.
+
+
+Nazveme- souřadnice nějakého bodu Lfř soustavě dvakráte stočené l', ??', L', souřadnice téhož bodu B"" soustavě před druhým stočením, ale stočení prvním souřadnice pak téhož bodu B"" soustavě původní při čemž představujeme, bod pevně jest spojen osami souřadnicovými, tak prvním stočení dostal polohy odtud druhým stočením bodu B"", je-li původní rovnice roviny soustavě dvakráte stočené
+
+
+transformuje tato rovnice soustavy jednou stočené dle vzorců
+
+
+(*, (*,
+
+
+XXI ﻿Uspořádáme-li celou rovnici dle proměnných veličin tj, obdržíme
+
+
+Převedeme-li pak souřadnice r/, 'C, souřadnice soustavě původní, nestočené zase dle vz. 18., dostaneme
+
+
+e)\ («2
+
+
+L*2 Čí,) («, '*>! *»* L""*,) =0-
+
+
+Uspořádá-li celá rovnice dle proměnných veličin nabude formy
+
+
+[a, L*, Cts] í.)
+
+
+
+
+
+**, Cd,) (.-j ^^2 6^3
+
+
+(^*i
+
+
+
+
+
+j>a
+
+
+(I-)
+
+
+Označíme-li pak neznámé směrné cosiny druhém stočení osám polohy původní smyslu předešlém
+
+
+""2 .""3
+
+
+dle předešlého převodu rovnice roviny
+
+
+^ť-f
+
+
+nabude formy:
+
+
+x3) ,«,
+
+
+>3) ~\- (Art Br2
+
+
+(II.)
+
+
+Poněvadž rovnice II. určují touž rovinu, srovnáním jich plyne, koeficienty proměnných veličin jsou rovny, tak uspořádajíce tyto koeficienty rovnici dle obdržíme:
+
+
+±Cxs=A («, «-t)
+
+
+-f-
+
+
+(«, -f- í', ^ř», O<3
+
+
+(a,
+
+
+(yi ř>2 ř>2 ^(^i ®s)
+
+
+Srovnáním levé pravou stranou těchto rovnic obdržíme:
+
+
+=«*
+
+
+XXI. ﻿(22)
+
+
+
+
+
+
+
+
+těchto vzorcích vidíme pravidlo, směrné cosiny dvojím stočení vypočítají, když sečtou součiny jednotlivých směrných cosinů prvním stočení seřazených sloupci jednotlivými cosiny směrnými druhém stočení seřazenými řádcích, jak sobě následují.
+
+
+Poznámka. vzorců těchto patrno, postup dvou stočení nelze obrátiti, aniž jej lze nahraditi soudobostí obou stočení.
+
+
+Při stočení několikerém spojují postupně vždy poslední sto cení dle vz. 22. jedno stočení výsledné, které zase předcházejícím stočením spojuje, tím způsobem dosáhne konečného výsledného stočení všech stočení předcházejících počtu libovolném. Převodní vzorce Kulérový2) jeví pouze jakožto zvláštní případ transformace zde uvedené. Při transformaci Kulérově totiž děje stáčení pouze okolo souřadnicových, kdežto zde děje stáčení kolem libovolných.
+
+
+Poznámka. Při srostlicích druhé individuum nemusí srůstati prvním poloze, která odvoditi stočením tohoto kolem osy středem procházející, nýbrž může býti ještě rovnoběžně samo sobě pošinuto přece zákon srostlicový tím nemění. tom případě rotaci přistupuje ještě rovnoběžná translace. Rovnoběžné pošinutí nemění odchylek jedněch druhým. Též nemusí býti obě srostlá individua téže velikosti; při stanovení zákona srostlicového jde jen vzájemnou polohu krystalových.
+
+
+Když jsou známy směrné cosiny souřadnicových stočených osám původním, jest dále určiti polohu osy stáčení velikost stočení.
+
+
+Představme si, soustava souřadnicových stočí kolem osy (obr. 2.) směru šipek, tedy směrem kladným úhel tak přichází bodu F', sfaerické poloměry těchto oblouků jsou r1} r%, r3. Poloha pak stočených poloos původním jest určena úhly al, c3, které měří povrchu koule příslušnými oblouky největších kruhů are are F', are jichž cosiny cos =«!, cos /J2, cos jsou známy, jest určiti neznámé veličiny rlt r2, r3, tomu vede řešení těchto rovnic sobě nezávislých dle vzorce platí cosz -\- cos2 -\~ cos^ vzorců 13. cos2 cos -\- cos /J2 cos2 cos -j- cos cos2 cos -\- cos
+
+
+Viz Seydlerovu >Theoretickou mechaniku* 1880, 65.
+
+
+Viz Studničko Analytickou geometrii prostoru<, vz. 93.
+
+
+XXI. ﻿Sečtením 2., rovnice hledíce rovnici vypočítáme
+
+
+cos •(«! /J, ....... (23)
+
+
+Znajíce «>.$• mohli bychom cos rlt cos cos vypočítati rovnice 2., 4., ale tyto veličiny vypočítávány jsouce druhých svých mocnin, měly dvoje znaménko vztahu toho pak bylo možno těchto tří veličin osmero kombinac znamének:
+
+
+---
+
+
+Než druhé skupině kterákoli kombinace znamének označí touž kolmici jakožto osu stáčení jako kombinace téže řádce skupiny první, neboť kolmice př. rovinu splývá kolmicí rovnoběžnou rovinu protilehlém oktantu. Přes zbývaly kombinace znamének první skupiny, teprve zkusmo bychom musili přesvědčovati) která kombinace znamének daném případě platnost.
+
+
+Abychom vyhnuli této neurčitosti, vypočítejme cos r1} cos r2, cos řešením rovnic vz. 14. Odečítajíce tam rovnici čtvrtou první, pátou druhé, šestou třetí, obdržíme
+
+
+cos -t-
+
+
+sin
+
+
+cos
+
+
+sin
+
+
+cos
+
+
+sin
+
+
+Poněvadž současně platí buď jen hoření nebo jen dolení znaménka, jest osa stáčení kolmá rovině určené touto normální rovnicí:
+
+
+L?____•_?_ _i_____s
+
+
+sin sin
+
+
+l____'
+
+
+2jí«i'
+
+
+(24)
+
+
+Násobíce celou rovnici 24. jmenovatelem, obdržíme všeobecnou rovnici roviny kolmé ose stáčení:
+
+
+(fis—Xa) ÍXi —tts) (a2—/^i) ^.....(25)
+
+
+Tím daná úloha jest rozřešena zároveň podán analytický důkaz Kulérový věty aequivalenci určitého jednoho stočení hledíc dvěma stočením libovolným,1) dále důkaz Cháles-ovy věty: >Pevná soustava každé původní polohy může převésti libovolné polohy konečné jedním stočením rovnoběžným pošinutím.2)
+
+
+Viz Seydlerovu »Theoretickou mechaniku*, 1880. 64.
+
+
+Viz Sohncke, »Entwickelung einer Theorie der Krystallstruktur*, 1879. 31-
+
+
+XXI. ﻿10
+
+
+uvedených knihách jsou naznačeny pouze synthetické důkazy jmenovaných pouček.
+
+
+Důsledky, Je-li úhel stáčení 180°, takže cos pak vzorec 23. vede podmínce
+
+
+*+& ........ (26)
+
+
+Tato podmínka pro stáčení 180° vždy současně objevuje podmínkou, plynoucí vzorců 17.,
+
+
+yl=ccat ....... (27
+
+
+následkem čehož při stáčení 180° není možno upotřebiti vzorce 25. jest nutno počítati vzorců 17. takto:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(28)
+
+
+těchto vzorcích obou znamének před druhou odmocninou bére to, které příslušný jmenovatel /i3 nebo nebo «2.
+
+
+Dle toho normální rovnice roviny, níž osa stáčení 180° stojí kolmo, jest
+
+
+1/>A =0- (29)
+
+
+Důsledky pro srostlice regulární soustavy.
+
+
+Následkem zákona rationality indexů cosiny směrné a&, $k^ souřadnicových, stočených osám polohy původní, jsou regulární soustavě při zákonitém srůstání krystalů čísla rationální. Aby této podmínce vyhovělo, dle vzorců 15. cos jest nutně číslo rationální, tak
+
+
+cos kdež ti.
+
+
+
+
+
+(30)
+
+
+Druhou podmínku pro možné hodnoty shledáváme vzorcích 16., dle nichž, je-li obecně číslo irrationální, musí býti
+
+
+stn
+
+
+
+
+
+—------? čehož plyne M2, (31)
+
+
+neboť jen pod touto podmínkou irrationální vzorcích 16. odstraní
+
+
+Ačkoli zákon tento novější době některých mineralogů (C. Viola Zeitschr. Kryst. XXXV. 1902 235, Fedorow, tamtéž XXXIV. 133, tíseň tamtéž XXVIII. 1.) pro některé případy jest popírán, přece většině jednoduchých případů osvědčuje zjednodušení přehlednosti poznatků přispívá. Mezery, jež vykazuje zákon Haúyúv rationalitě jednoduchých indexů některých případech, vyplněny jsou komplikačním zákonem Goldschmidtovým.
+
+
+XXI. ﻿11
+
+
+krácením. vzorci 31. znamená libovolné číslo celé, neboť též jsou čísla celá.
+
+
+Řešíme-li neurčitou rovnici 31. dvou proměnných pro určité určíme pro danou osu stáčení všechny možné cosiny úhlů něž stáčení vede rationálním poměrům srostlicovým regulární soustavě; pravdě nejpodobnější jsou ovšem jen jednoduché tyto poměry.
+
+
+Chtíce řešiti rovnici 31., uveďme tvar
+
+
+-}- M2,
+
+
+kteroužto rovnici můžeme rozmanitým způsobem rozložiti dvě určité rovnice takto
+
+
+n*M2
+
+
+(32)
+
+
+
+
+
+kdež jsou libovolná čísla celá
+
+
+Řešíce soustavu rovnic 32. dle neznámých dosadíce vzorce 30., obdržíme
+
+
+.......(33)
+
+
+COS =----— r^o—7
+
+
+-±- Dosadíce jednoduchá čísla přirozené řady, rozvedeme vzorec 33.
+
+
+n2M2 n2M2
+
+
+lil ,,2 n/r2
+
+
+takto:
+
+
+
+
+
+cosv--
+
+
+Dosadíme-li těchto výrazů jednoduchá celá čísla přirozené řady, vypočítáme tím theoreticky možné cosiny úhlů stáčení kolem určité osy soustavě regulární. Při tomto stáčení vyhoví podmínce, plochy stočeného jednotníka transformovány jsouce soustavy původní, mají indexy vesměs rationální.
+
+
+10. Pro řešení srostlic vůbec důležitá jest poučka plynoucí rozlohy rovin souměrnosti. Dá-li poloha druhého jednotníka srostlici určiti stočením prvního individua kolem osy, která leží nějaké rovině souměrnosti krystalu, pak rovina srostlicová roz-polujeúhel, sto cení tát vina sou měrn sti. Dle toho, je-li normální rovnice této roviny souměrnosti poloze původní normální rovnice téže roviny stočení transformovaná původní soustavy souřadnic, pak rovnice roviny srostlicové vypočítá sečtením obou rovnic normálních, tak bude
+
+
+-r^2...........(34)
+
+
+Při tom není vyloučena možnost, existují ještě jiné rovnomocné roviny srostlicové.
+
+
+II. týče názvosloví, osa, kolem níž děje stáčení libovolný úhel všeobecně nazývá osou stáčení. Obsahuje-li stočení
+
+
+XXI. ﻿12
+
+
+180°, pak osa stáčení označuje jakožto osa srostlicová zatím hypo-thetická. Když pak pozorováním zjistí opakování polohy srostlicové, jež odvoditi stočením kolem téže nebo rovnomocné osy týž úhel, pak zákonitost tohoto srůstání stává pravdě podobnou.
+
+
+Tschermak1) dle Haúye2) připouští výklad polohy srostlicové pouze stočením 180° polohy původní. Tri. Liebisch3) vykládá srostlice též stočením 90° 60°. César o4) základě své mathematické dedukce těmto úhlům připojuje ještě 120°.
+
+
+Podobný výklad srostlic navrhuje též Mallard.
+
+
+Baumhauer5) vedle hemitropie (stočení 180°) připouští každé stočení, jež definovati krystallonomicky (stočení okolo možné hrany nebo možné ploše). Viola6) shrnuje své pozorování srostlicích orthoklasových takto:
+
+
+srostlici směr pravdě nejpodobnější jest společný ním pravdě nejpodobnější plocha
+
+
+ti] anebo dvě pravdě nejpodobnější plochy jsou totožné anebo střídají.
+
+
+srostlici plocha pravdě nejpodobnější jest společná
+
+
+směr pravdě nejpodobnější
+
+
+anebo dva pravdě nejpodobnější směry jsou rotožné anebo střídají.
+
+
+Goldschmidt7) vedle srostlic, nichž molekuly souměrně jsou uspořádány, rozeznává uspořádání molekul nesouměrné při srůstu heteroaxialním, při srůstu nakloněném (šikmém) při srůstu jednoosém (jednoplochém).
+
+
+těchto ukázek výkladů srostlicových jest patrno, připouštěti pouze stáčení 180° znamenalo předpisovati předem hmotě určitou úzkou cestičku, které při tvoření srostlic měla ubírati. Podrobněji budou tyto poměry vyloženy srostlicích pyritových.
+
+
+Tschermak, Lehrbuch der Mineralogie. Aufl. 1897. str. 79. Viz též Zeitschr. Kryst. XXXIX. 1904, 456
+
+
+Hauy, Traité Min. 1801.
+
+
+Th. Liebisch, Geometrische Krystallographie. 1881. 399.
+
+
+César Theoretische Untersuchungen uber Zwillingskrystalle. Zeitschr. Kryst. 18S9. XV. 643.
+
+
+Baumhauer, Beitráge zuř Kenntnis und Theorie der Zwillingsbildung Krystallen. Zeitschr. Kryst. 1889. XXXI. 252.
+
+
+""; Viola, Beitrag zuř Zwillingsbildung, Zeitschr. Kryst. 1904. XXXVIII. 67.—81.
+
+
+Goldschmidt, Uber nicht parallele Verknupfungen der Krystallartikel Zeitschr. fůr Kryst. 1898. 377.
+
+
+XXI. ﻿13
+
+
+12. Příklad pyritu. Kus pyritový, němž srůst dvou krystalů tvaru IP=
+
+
+
+
+
+smyslu svrchu naznačeném nejprve roku 1888 jsem pozoroval, pochází Piemontu jest zařazen mineralogických sbírkách českého gymnasia Budějovicích.
+
+
+Poloha II. menšího jednotníka obr. určena jest tím, plochy lál' obou jednotníků jsou spolu rovnoběžný, což poznává tom, při jednotném, vzdáleném zdroji světelném reflex obou plochách při určité poloze oka současně začíná současně končí, otáčí-li krystalem rozličných polohách větší pak hrany, nichž stojí rýhování ploch kolmo, svírají úhel ^=961°.
+
+
+Dle toho odvodí poloha jednotníka II. původní polohy jednotníka stočením kolem kolmice plochu jejíž osová rovnice jest
+
+
+•=. úhel směru kladném, jak naznačeno jest obr.
+
+
+Převedeme-li osovou rovnici plochy tvar normální, obdržíme
+
+
+
+
+
+tak
+
+
+podmínky pak obsažené vz. 33. plyne
+
+
+
+
+
+96° 22*', sin
+
+
+toho dle vzorců 15. 16. vypočítají směrné cosiny souřadnicových stočených osám polohy původní
+
+
+iz:
+
+
+**i
+
+
+
+
+
+8	4	
+
+
+'	y.
+
+
+1	4 ------	
+
+
+'	72
+
+
+(35)
+
+
+""S-
+
+
+
+
+
+Správnost výpočtu kontroluje vzorci 20. 21. Transformují-li vypočítanými hodnotami pro ak, rovnice rovin krystalu stočeného soustavy nestočené, všeobecné rovnice roviny -}- dle vzorce 18. obdržíme l':~ x-\-2z—2 čehož jest viděti, poloha roviny tímto stočením polohy nemění. Rovnice roviny —L-|-2 jsouc transformována dle vz. 18., nabývá tvaru
+
+
+7*--f- \6y-\- Chceme-li pak vypočítati úhel 8':
+
+
+určíme dle vzorce cos (8': tak 8': 53° 8', což jest od-
+
+
+
+
+
+chylka rovin, sbíhajících větší hraně tvaru ^=, tak sklon
+
+
+
+
+
+těchto rovin obsahuje 180° 53° 126° 52'.
+
+
+XXI. ﻿14
+
+
+Pro rovinu (číslování viz obr. 5.) platí rovnice -\- jež jsouc transformována nabývá formy -\- -j- tak
+
+
+<r0.y (7': 7': zz66°25^, což jest odchylka rovin sbíhajících
+
+
+menší hraně tvaru tak sklon těchto rovin obsahuje
+
+
+
+
+
+180° 66°25y 113°34f. plochách krystalových obr. naznačeno jest rýhování směru kolmém větší hrany, vzniklo tedy oscillační
+
+
+kombinací ploch -=, jak pyritu velmi často shledáváme.
+
+
+Rovinu srostlicovou určíme návodem obsaženým 10. takto: Osa stáčení leží rovině souměrnosti kteráž stočeném individuu stává rovinou (obr. 4.).
+
+
+Když tuto rovnici transformujeme dle hodnot 35., obdržíme normální rovnici
+
+
+
+
+
+*=T—3—L•=».
+
+
+Pro rovinu srostlicovou pak dle vz. 34. obdržíme
+
+
+což znamená rovinu srostlicovou (221J neboli
+
+
+Osou srostlicovou jest kolmice tuto rovinu stočení kolem obnáší 180°.
+
+
+Osu srostlicovou, kolem níž stáčení děje 180°, jiným způsobem určíme takto:
+
+
+Rovnomocné poloosy hlavní X', F', stočeného krystalu můžeme libovolně zaměniti dle potřeby tak, aby směrné cosiny jejich uvedené pod čís. 35. vyhovovaly podmínkám obsaženým vzorcích 26. 27. Hned při prvním pohledu hodnoty 35. poznává, těmto podmínkám (vz. 26. 27.) vyhoví, když stočený krystal opětně stočí okolo osy 180°, tak X"" X', Y"" F', Z""~^Z'\ přeměníce dle toho hodnoty 35, vypočítáme
+
+
+
+
+
+
+
+
+
+
+
+""3 ~g~
+
+
+těchto hodnot vypočítáme rovnici roviny, jež ose srostlicové jest kolmá, vzorcem 29. takto:
+
+
+XXI. ﻿15
+
+
+což vede rovině srostlicové (221), jež procházejíc začátkem souřadnic splývá rovinou (221) předešlém odstavci tohoto vypočítanou rovinu jednu.
+
+
+Tím jest podán návod, kterak vypočítá rovina srostlicová, když poloha druhého individua odvoditi stočením prvního kolem osy, která neleží žádné rovině souměrnosti, jen když cosiny odchylek stočení původních dají zaměniti tak, aby vyhovovaly podmínkám vzorcích 26. 27.
+
+
+Při tomto stáčení plocha 11' (viz obr. 5.) dostala místo plochy l', než zaměněním rovnomocných poloos hlavních možno jest
+
+
+místo plochy položiti kteroukoli jinou plochu dvanáctistěnu což
+
+
+vede určení dalších desíti způsobů, jimiž možno rovnomocně polohu stočeného jednotníka odvozovati. těchto způsobů naznačíme následujícím odstavci aspoň jeden.
+
+
+Když plochu dáme polohy roviny l', zamění hlavní osy tak, X"" Y', Y"" Z', Z"" X'. Dle toho přemění hodnoty 35. takto:
+
+
+•-'=~ *-' ""g, fc'= -g"",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+těchto veličin dle vzorců 23. 25. vypočítá cos i/zz67°7' osa stáčení jest kolmá rovině (311)~3O3.
+
+
+
+
+
+Přehled všech dvanácti rovnocenných výkladů, jimiž poloha jednotníka II. obr. 3.) odvoditi stočením jednotníka polohy původní, jest tento:
+
+
+Číslo plochy dle obr. 5., jež stočením přichází polohy plochy l'.
+
+
+
+
+
+Indexy ploch,
+
+
+nichž osa stáčení
+
+
+stojí kolmo.
+
+
+(102) (13?)
+
+
+(513)
+
+
+Cosiny úhlů stáčení	Úh stočení
+
+
+v.	v.
+
+
+1	96° 22.!'
+
+
+
+
+
+7	67°
+
+
+18	
+
+
+17	160° 49'
+
+
+18	
+
+
+﻿16
+
+
+Číslo plochy dle obr. 5., jež stočením přichází polohy plochy l'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ploch- nichž osa stáčení kolmo'
+
+
+(110) (153) (135) (012) (151) (315) (22"") (5TI)
+
+
+Cosiny úhlu stáčení
+
+
+
+
+
+_LZ_ Tš""
+
+
+18'
+
+
+17_ ""18""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Úhel
+
+
+stočení
+
+
+
+
+
+160° 49' 67°
+
+
+60° 49' 96°22.V
+
+
+120°
+
+
+160° 49' 80° 120° O'.
+
+
+Tím jsou všechny možné výklady vzájemné polohy krystalů obr. vyčerpány, jiné výklady stáčením jsou nemožné. Při tom jest potřebí poukázati to, všechny tyto výklady vedou výkladu obvyklému (zde jedenáctému), tak dle tvaru krystalů určíce kterýmkoli způsobem vzájemnou polohu srostlých jednotniků, snadno pak přejdeme výkladu obvyklému. tak, jako když vytčenému cíli vede různých cest různých stran. ovšem není potřebí všech těchto cestách choditi, ale postačí, zvolíme-li jednu nich jen přidržíme. Zároveň prospěšné jest, známe-li, jiných okolností můžeme nastoupiti jinou cestu, která nás dovede témuž cíli.
+
+
+Všechny výklady právě uvedené mají tyto společné vlastnosti: Stáčení děje vždy kolem osy kolmé rovinu krystalonomickou, jest rovinu, jejíž indexy jsou rationální. Stáčení děje úhel
+
+
+
+
+
+jehož cosinus jest rationální, tak cos vyhovuje podmínce
+
+
+""V
+
+
+vzorce 33. Pak krystalonomické plochy stočeného krystalu převedeny jsouče soustavy původní, dají vyjádřiti ona nimi indexy. jest požadavek zákona rationality indexů pro srostlice regulární soustavy.
+
+
+XXI ﻿17
+
+
+Poznámka těchto příkladů jest patrno, dvanáctistěn pěti-úhelníkový =-=^= náleží opakovači soustavy 12. řádu (systéme
+
+
+répétition ďordre 12.1)
+
+
+Poznámka dvojím výkladu srostlice smaltinu dle roviny srostli-cové viz Gustava Rath Zeitschrift Kryst. 1877, str. dle Naumanna srostlice vysvětliti též tím způsobem, oba krystaly mají osu trojcovou společnou stočení děje úhel
+
+
+38° 12'48"", cos
+
+
+13. Pokračování.
+
+
+Poloha srostlicová obr. též vysvětliti dvojím stočením okolo dvou trojcových, nichž osa prvního stočení směru kladném jest kolmá rovině -\-y -\-z osa druhého stočení záporného jest kolmá rovině -\- obojím případě děje stočení 60°,
+
+
+tak cos —-. Tímto dvojím stočením přijde plocha individua
+
+
+
+
+
+prvního polohy plochy obr.
+
+
+Směrné cosiny poloos prvním stočení určíme smyslu dle vz. 15. 16. takto:
+
+
+
+
+
+aí~
+
+
+
+
+
+
+
+
+~o"" ""o""
+
+
+
+
+
+
+
+
+Dále pak směrné cosiny dvakráte stočených osám jednou
+
+
+stočeným jsou
+
+
+
+
+
+toho dle vzorců 22. vypočítají směrné cosiny dvakráte stočených osám původním:
+
+
+
+
+
+*i- -9' ř1! -9.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viz Curie: Sur les questions ďordre: répétition. Bull. soč. min. 1884, VII. 89. Sur symmétrie. Tamtéž VII. 418
+
+
+Rozpravy: Roč. XV. Tř. II. 21.
+
+
+XXI ﻿18
+
+
+X—— ___
+
+
+
+
+
+
+
+
+~9'
+
+
+Srovnáme-li tento výsledek hodnotami pod číslem 35. uvedenými, poznáváme, témuž konci dospějeme, když zaměníme rovnomocné osy krystalové obr. tak, aby X"" Z', Y"" X', Z"" Y'. těchto
+
+
+hodnot pro ^i, opět dle vz. 23. 25. vypočítá cos
+
+
+
+
+
+67° rovnice roviny kolmé ose stáčení -j- Srovnej tento výsledek přehledem výkladů str. 15. uvedeným.
+
+
+14. soustavě pravoúhlých souřadnic polohy původní jest známa normální rovnice roviny -j- -(- normální rovnice libovolné roviny -\-e y-\-ft pravoúhlé soustavě stočené neznámý úhel kolem osy kolmé rovině známé normální rovnice R~~ax-\-by-\-cz d"" změří-li úhel GJ, jejž svírají roviny L/', určiti úhel stočení
+
+
+Béřeme-li zatím počtu stáčení směru kladném (jak jest znázorněno obr. 2.), pak směrné cosiny poloos stočených poloosám původním dle vzorců 13. 14. jsou tyto
+
+
+cos -f- cos /ij cos sin cos -j- íz«
+
+
+-\- sin /32 L<w -+- cos sin
+
+
+<TČ»J Sin /33 Lí»j- -(- J/«
+
+
+Lí?í -j- cos
+
+
+Transformujeme-li souřadnice »/, rovnice č/' soustavy stočené původní dle vz. 18., obdržíme:
+
+
+d^x hy-^ («2 /32 <y2
+
+
+Dosadíce příslušné hodnoty «x, /Jx, uspořádajíce celou rovnici dle vypočítáme
+
+
+x\a cos -\- -}- cf) -\- cos -(- sin b)\ -\- cos -\- -f- cf) -\- cos sin (af dc)\ -\- z[c cos -f- -|- cf) -\-f cos ~\- sin a)]
+
+
+což jest opět normální rovnice stočené roviny původní soustavě souřadnic. Dále dle jest:
+
+
+cos a~Á[a(l cos -\- -f- cf) -j- cos -j- sin b)} -\- cos -f- -\- cf) -f- cos -\- sin c)\ -\- l[c cos d-\- -\- ef)-\-f cos v-\- sin ca)].
+
+
+XXI. ﻿19
+
+
+Které znaménko cos co, rozhoduje dle toho, jak velký úhel kolem osy procházející začátkem souřadnic stočí rovina jedna př. aby souhlasně pokryla rovinu druhou L/'; proto nutno jest bráti odchylku kolmic, začátku souřadnic tyto roviny 7"", spuštěných.
+
+
+Zavedeme-li zjednodušením:
+
+
+M~^.(]i ~\- -\- c](a -\- -\- cos cos -f- /"") cos cos cos (*,
+
+
+hkl
+
+
+def
+
+
+kdež při čemž znamená rovinu nestočené soustavě souřadnic téže polohy, jakou rovina soustavě stočené, pak poslední rovnice pro cos zjednoduší takto:
+
+
+cos cos -f- Psin
+
+
+Když dělo stáčení směru záporném, pak platí tytéž vzorce tím toliko rozdílem, sin záporný. Dosadíme-li poslední rovnice:
+
+
+sin
+
+
+vznikne rovnice:
+
+
+cos'
+
+
+cos* cos -j- cos Řešením této rovnice vychází:
+
+
+N(M— cos co}±P cos
+
+
+-\- (M— cos ca)!
+
+
+
+
+
+•(36)
+
+
+Hoření znaménko -\- platí pro stáčení směru kladném, dolení znaménko pro stáčení směru záporném beze zření znaménku před /*, poněvadž toto před druhou odmocninu dostalo odmocněním P"".
+
+
+Důsledek Platí-li podmínka, stočená rovina stočené soustavě pravoúhlé touž polohu jako rovina původní soustavě, neboli že:
+
+
+pak zjednoduší vzorec 36. takto:
+
+
+(/i c)* cos* <*, .V—1, P=0,
+
+
+tak že:
+
+
+cos cos ~------
+
+
+
+
+
+COS2 G---- COS
+
+
+cos*
+
+
+(37)
+
+
+XXI. ﻿20
+
+
+Dosadíme-li tohoto vzorce:
+
+
+cos převedeme jej formu:
+
+
+cos Jí«
+
+
+2_co
+
+
+(38)
+
+
+těchto vzorcích 37. 38. vidíme též podmínku, pod kterou
+
+
+
+
+
+stáčení obnáší 180°, když totiž cos anebo í/« což na-
+
+
+
+
+
+stává tenkráte, když cr.
+
+
+Při tom jest lhostejno, děje-li stáčení právo nebo levo.
+
+
+Důsledek Jsou-li roviny téhož pásma nebo jsou-li hrany jejich rovnoběžný, pak platí podmínka jejich tautozonálnosti:
+
+
+def
+
+
+
+
+
+čímž vzorec 36. zjednoduší takto:
+
+
+cos cos
+
+
+./V COS Cť9í COS
+
+
+cos
+
+
+(39)
+
+
+Důsledek Je-li cos což znamená, rovina jest rovnoběžná rovinou neboli rovina stočení splynouti rovinou pak -[- cos co)2, tak druhá odmocnina vzorce 36. rovná nulle; pak tento vzorec zjednoduší takto:
+
+
+cos
+
+
+cos cos cos cos cos
+
+
+(40)
+
+
+Důsledek Je-li TV2 (M— cos co)2 neboli číslem záporným, pak dle vz. 36. cos jest číslo soujemné, což znamená, daných podmínek stočením není možno žádanou polohu obdržeti. připomínalo chybu, která stala buď při měření nebo při výpočtu.
+
+
+Příklad. Někdy shledáváme, dva krystaly dvanáctistěnu pětiúhelníkového prorůstají tak, jak ideálně jest naznačeno obr. 6.,
+
+
+
+
+
+plocha 2'|| 4'||4; touž vlastnost jeví též rovnoběžné protiplochy. skutečnosti nebývají oba krystaly stejně veliké menší krystal bývá větší svou částí zarostlý větším, jak podrobně bude ukázáno později.
+
+
+tomto případě (obr. 6.) jest možno polohu druhého jednot-níka odvoditi polohy původní stočením kolem osy kolmé rovině
+
+
+XXI. ﻿21
+
+
+
+
+
+—^= --- neboť rovina zůstává rovnoběžná ro-v
+
+
+
+
+
+vinou tak plocha 2'-..= ~^r stane rovno-
+
+
+
+
+
+
+
+
+běžnou plochou 3_— 1^--| ^=- vypočítati úhel
+
+
+stočení Zde jest #?$
+
+
+
+
+
+--, A^0, «=_
+
+
+
+
+
+toho vypočítá 7k/= N=------—, ------^— dle
+
+
+
+
+
+vzorce 40. jest
+
+
+čímž daná úloha jest rozřešena.
+
+
+Toto stočení vede rovině srostlicové (241). Hrana splývá hranou (obr. 6.) jednu přímku.
+
+
+Když při určité poloze krystalů obr. bylo možno zjistiti rovnoběžnost ploch 4'||4, ale nikoli ještě při jiných plochách, dal-li změřiti úhel 180° 77° 20.1 tak
+
+
+""' pak jest 7^2 '""7
+
+
+•""
+
+
+Tj'__3' _H±_J___""__ —-------------:=0.
+
+
+
+
+
+Dle toho jest:
+
+
+
+
+
+
+
+
+
+
+
+XXI. ﻿22
+
+
+Pak dle vz. 36. jest:
+
+
+cos z:.
+
+
+/	'4 l/441	/ 199
+
+
+15*	v 105 -'- 625	V .25
+
+
+	121 64	
+
+
+	625 125 199 40. 176	
+
+
+441
+
+
+Poněvadž děje stáčení směru kladném, bére počtu pouze hoření znaménko jest:
+
+
+cos
+
+
+2189 7040
+
+
+
+
+
+441.21
+
+
+čímž jest daná úloha rozřešena.
+
+
+Když bychom jiných okolností při témž příkladě obr. mohli zjistiti rovnoběžnost rovin změřiti odchylku ploch o"" 45° 57', tak že:
+
+
+zůstává táž plocha
+
+
+
+
+
+----------—— Dle toho jest :=: —^=~
+
+
+\f^
+
+
+*^l
+
+
+
+
+
+Pak jest -—, 7^=:-----^-^-, /^ZZ0, tak dle vz. 37. jest.
+
+
+cos
+
+
+cos eo""
+
+
+
+
+
+15. Krystal určený soustavou pravoúhlých souřadnic stočí kolem osy kolmé rovinu normální rovnice -\- -\- ó"" neznámý úhel tak, jeho rovina -}- -\-f stočení jest rovnoběžná hranou, jež jest určena jakožto kolmice rovinu normální rovnice T=kx-\-ky-\-lz těchto podmínek vypočítati úhel stočení
+
+
+Úlohu takto upravenou jest možno řešiti vzorcem 36., němž cos poněvadž 90°, čímž tento vzorec zjednoduší takto:
+
+
+L0.r
+
+
+
+
+
+A^2 -|- Výklad tohoto vzorce týž jako vzorce 36.
+
+
+XXI.
+
+
+(41) ﻿23
+
+
+Přiklad. druže pyritové Elby soukromé své sbírce pozoroval jsem dva krystaly ===: prorůstající tak, jak jest věrně (bez idea-
+
+
+
+
+
+lisování) vyobrazeno obr. Vzájemná poloha obou jednotníků jest charakterisována tím, srostlicová hrana hranou RQ. Dle toho přede vším polohu roviny 11', jež jest rovnoběžná protiplocha rovinou l', obdržíme záporným stočením krystalu původní polohy kolem osy rovnoběžné hraně jež jest kolmá rovině normální rovnice
+
+
+F~^L:±--?L=----~- =00 úhel 11' 180° 24° 37',
+
+
+V^21 V21
+
+
+tak hledíc vzorci 33. jest cos —------—.
+
+
+těchto podmínek dle vz. 15. 16. vypočítá:
+
+
+6	A A	_
+
+
+7		11
+
+
+'		11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'~n'
+
+
+Když hledíce vz. 26. 27. učiníme Z', X', F', vypočítáme vzorcem 29. pro toto první stočení rovinu srostlicovou
+
+
+(233"")
+
+
+tomuto prvníma stočení přistupuje ještě druhé stočení směru
+
+
+záporném kolem osy kolmé rovinu =11' =------—=-----'*/••-'
+
+
+
+
+
+
+
+
+tak, aby rovina =•-------—• -f~ .,— druhém stočení
+
+
+
+
+
+stala rovnoběžnou hranou jež jest kolmá rovině
+
+
+
+
+
+——- -l----~^= -4- ""__ •=. neboť jen při této podmínce jest
+
+
+
+
+
+R'\\QR.
+
+
+Transformujeme-li rovnici roviny dle vz. 18. původní soustavy souřadnic, obdržíme
+
+
+
+
+
+,.\.-=-
+
+
+uVs
+
+
+Srovnej přehledem str. 35. práci Smolaře >Příspěvky vypočítávání srostlic« 1890.
+
+
+XXI. ﻿24
+
+
+Podobně pro obdržíme
+
+
+12.r
+
+
+
+
+
+11V5
+
+
+11V
+
+
+tato rovina druhém stočení státi vyobrazenou rovinou obr. Dle toho jest:
+
+
+při při
+
+
+při ... ,----
+
+
+llV5 llV5
+
+
+těchto veličin smyslu 14. vypočítá
+
+
+V2T'	' V2T
+
+
+19	12
+
+
+V5	11V5
+
+
+8	10
+
+
+
+
+
+Y'2ť
+
+
+
+
+
+
+
+
+
+
+
+M=N=-----4-----,
+
+
+\^21
+
+
+tak dle vz. 41. jest:
+
+
+cos
+
+
+196+ 980 196+980
+
+
+Poněvadž stáčení druhé děje směru záporném, platí pouze znaménko dolení vypočítá se:
+
+
+cosv' -|-, 180° 48° 11,
+
+
+
+
+
+Pak smyslu dle vz. 15. 16. vypočítají směrné cosiny druhém stočení osám prvním stočení:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""T' 3""
+
+
+Pro výsledné stočení dle vz. 22. vypočítáme:
+
+
+8	32	1	
+
+
+''	'' '	r'
+
+
+13' '	8 33~ '	8 **- ""33 '	. (42)
+
+
+8	1	32	
+
+
+33""' '	'3 '	""3 ~""
+
+
+XXI. ﻿25
+
+
+Při prvním pohledu tyto poměry poznáváme, ju3 což dle vz. 26. vede podmínce pro stáčení 180°. Proto zaměňme hlavní osy stočeného krystalu tak, aby Y'\ Y.2 Z"", X"" tak odvodíme:
+
+
+
+
+
+
+
+
+'""' ""33
+
+
+,,'—
+
+
+
+
+
+_8_
+
+
+'""' 33'
+
+
+Pak tyto směrné cosiny vyhovují též podmínce 27., tak vypočítání roviny srostlicové fís užijeme vzorce 29., píšíce něrn místo ,«' místo /3, místo anebo transformujme kteroukoli rovinu stočeného krystalu (ovšem platí jen při stáčení 180°) soustavy původní sečtením obou normálních rovnic jednak pro polohu původní, jednak stočenou vypočítáme rovinu srostlicovou.
+
+
+Zvolme jednoduchostí př. rovinu stočeného krystalu transformujme tuto rovnici původní soustavy dle x/, u/, obdržíme:
+
+
+~3~3~ ""^ ~>~ """"33""""
+
+
+=0.
+
+
+P'->rP== -l±-4-_^--f-^l.=0 (43)
+
+
+což vede rovině srostlicové (144)
+
+
+určení této polohy srostlicové dostačilo zjistiti rovnoběžnost dvou hran srostiicových příslušnými hranami krystalovými změřiti pouze jeden úhel srostlicový 11' (obr. 7.). Změření jiných přístupných hran srostiicových upotřebí kontrole správného výpočtu. daným podmínkám správně bylo vyhověno, tom přesvědčíme takto
+
+
+Rovnoběžnost hran ^^H (obr. výpočtem doloží takto: Plocha 11' —|—2 jsouc transformována původní soustavy osní dle směrných cosinů 42. rovnici normální:
+
+
+11\5 llV5
+
+
+Učiníme-li podmínku, rovnice ploch 11' platí současně, určíme rovnice průmětů hrany roviny osní:
+
+
+XX'. ﻿26
+
+
+Řešením pak rovnic rovin určíme rovnice průmětů hrany tytéž roviny:
+
+
+
+
+
+čehož dle vz. 10. jest patrně B'.
+
+
+Podobně dokáže rovnoběžnost hran RQ\\R' Q'. Rovina -(-- transformována jsouc původní soustavy souřadnic, normální rovnici:
+
+
+7'r
+
+
+
+
+
+llV5 11V5
+
+
+tak rovnice hrany ./?' jsou
+
+
+
+
+
+llV'5
+
+
+Rovnice pak hrany jsou:
+
+
+.----—
+
+
+
+
+
+čímž jest rovnoběžnost obou hran dokázána.
+
+
+Přibližnému měření přístupny jsou tyto srostlicové hrany
+
+
+coslV cos T:2 cos 12'
+
+
+
+
+
+
+
+
+
+
+
+~55~
+
+
+157
+
+
+L0j cos 4':
+
+
+165
+
+
+
+
+
+
+
+
+11': 180° 24° 37', 7': 41°48', <12':2=z 17° 55', 2': 51° 49', 4': 33° 14.'.
+
+
+Tyto vypočítané úhly změřenými shodují.
+
+
+Poznámka. Plocha pyritu často leptáním byla vyvozena.1)
+
+
+Srovnej Becke, Aetzversuche Pyrit Miner. Petr. Mittheilungen voň Tschermak, 1887, VIII., 255, 265. Dále Múgge, Beitráge zuř Kenntnis der Strukturfláchen etc. Zeitschr. Kryst. IX, str. 202 John Judd, Uber die Be-ziehungen zwischen den Lósungsfláchen voň Krystallen und deren secundárer Zvvillings-bildung. Zeitschr. Kryst. XIII., 398.
+
+
+XXI. ﻿27
+
+
+16. ZměH-li velikost tří nebo více srostlicových hran G)J, cj2, co3 sobě nezávislých, určiti osa stáčení jakožto kolmice hledanou rovinu normální rovnice -f- -f- úhel stočení
+
+
+Zde jsou čtyři neznámé veličiny jichž určení třeba čtyř rovnic.
+
+
+Poněvadž rovnice ax-\-by--\-cz jest normální, platí první podmínka -f- -f-
+
+
+Tím, dle vz. 36. vyjádří funkcí úhlů oj,, o>2, co3, obdrží další tři rovnice, jež řeší dle neznámých veličin jimiž veličiny nutno jest vyjádřiti dle 14.
+
+
+Všeobecné řešení jest příliš složité, tak pro praktickou potřebu nemá významu někdy jest potřebí ještě další změřené úhly ra^, o?5, «,, vzíti počtu. Naproti tomu jednodušších jednotlivých případech krácením hned předu odpadávají mnozí členové původně složitých výrazů řešení pak vede rychle cíli.
+
+
+srostlicích dvou krychli.
+
+
+Označme plochy krychle sbíhající jednom rohu číslicemi Stočí-li krychle tak, plochy číslované přijdou polohy l', 2', (obr. 8.), možno-li změřiti úhly:
+
+
+QJ,, 2': eo2, co3, pak určí poloha stočené krychle původní takto.
+
+
+Pro uvedené plochy .s—1=0, !':=L 1=0 dle 14. jest: 1=1,
+
+
+Pak dle vz. 37. jest:
+
+
+cos ca,
+
+
+cos
+
+
+podobně určí
+
+
+cos
+
+
+cos
+
+
+a"" cos
+
+
+cos
+
+
+Poněvadž cos všech třech případech veličina táž, jest možno sestaviti tyto tři rovnice:
+
+
+a2-}- /;2-f c2= (?2 L6>.r ca.,
+
+
+cos
+
+
+
+
+
+XXI. ﻿3.
+
+
+cos ti).2
+
+
+C"" ----- COS 03,
+
+
+Řešením těchto tří rovnic vypočítáme:
+
+
+'	1	— cos	03,	-j- COS	CJ2	— cos	®3
+
+
+—	3	— cos	""l	— cos	032	— cos	033
+
+
+=	1	---- COS 03,		— cos	GJ2	-}- cos	033	
+
+
+	3	— cos	03,	— cos	«2	— COS	1	
+
+
+—	1	+_cos	03,		«2	~_C°L	_^L	
+
+
+	3	— COS	03.	— cos	03,	— cos	03,	
+
+
+(44)
+
+
+Správnost výpočtu kontrolujeme tím, součet čitatelů vz. 44. rovná jmenovateli.
+
+
+Dalším řešením vypočítá:
+
+
+COS (COS 03, -j- ťtfí G32 -f- ť^J- 03,j ----
+
+
+(45)
+
+
+Při pozorovaném obr. vyobrazeném srůstu krychlí pyritu příbramského bylo měřením goniometru odrazném zjištěno O3j 12° 19', eo2 17° 30', 033 21° 38', při čemž následkem rýhování ploch mohla
+
+
+jednotlivých úhlů vzniknouti chyba +--. těchto podmínek vy-
+
+
+počítá cos co, 97700, cos «_, 0'95372, cos 033 0'92956. Pak dle vz. 45. jest:
+
+
+cos 0-93014, 21°32'.
+
+
+Dále jest dle vz. 44.:
+
+
+0-04716
+
+
+
+
+
+0-13972
+
+
+0-00116 1>Í3972~
+
+
+0-09372 T)-13972
+
+
+
+
+
+0-217 '0-13972
+
+
+~0.
+
+
+0-30 VO'13972
+
+
+Negativnost čitatele při vyskytující tepive tisícinách malým číslem svědčí tom, neboť tato negativnost mohla vzniknouti pouze chybou při měření.
+
+
+Hledíce možným chybám při měření, zjednodušme čitatele tím, vynecháme rnalá čísla setin zatím píšeme, osa stáčení stojí
+
+
+
+
+
+kolmo rovině .__ -f- -—^=- hledíce podmínce vz. 33. za-
+
+
+Vl3 V13
+
+
+174 19\
+
+
+sin —^^— 21° 29'. poněvadž stáčení
+
+
+vedeme cos
+
+
+
+
+
+187
+
+
+XXI
+
+
+﻿29
+
+
+děje směru negativním, dle vz. 15. 16. berouce počtu pouze dolní znaménka, vypočítáme pro toto stočení směrné cosiny stočených osám původním takto:
+
+
+
+
+
+178 T87~
+
+
+
+
+
+187~'
+
+
+187
+
+
+
+
+
+187
+
+
+174
+
+
+TŠT""
+
+
+
+
+
+TsT
+
+
+187
+
+
+187 183
+
+
+TsT'
+
+
+Srovnáme změřené úhly srostlicové vypočítanými dle uvedených směrných cosinu, dostáváme tento přehled
+
+
+	Změřeno	Vypočteno
+
+
+3:3' 21° 38'		21° 29'
+
+
+2:2' GJ2	17° 30'	17° sor
+
+
+_____	12° 19'	11° 52'
+
+
+Hrana hranou svírá úhel O', 3:2' 2:3 21'.
+
+
+Aby směrné cosiny vyhověly podmínkám naznačeným vzorcích 26. 27., stočme stočený krystal ještě kolem osy 180°, tak X"" ""^L Y"" F', Z"" pak svrchu uvedené cosiny směrné přemění takto
+
+
+178
+
+
+
+
+
+187' B'	187 174 r'~	187
+
+
+187 *<	187 38	187 183
+
+
+187
+
+
+187
+
+
+187
+
+
+polohy takto určené vypočítá dle vz. 29. nebo 43. rovina srostlicová (3, 19, stočení kolem osy obnáší 180°
+
+
+II. srostlicích dvou osmistěnů.
+
+
+kolmé tuto ;rovinu
+
+
+Označme plochy osmistěnu sbíhající předním rohu římskými číslicemi Jf, III, IV\ stočí-li osmistěn ten tak, plochy přijdou polohy /', 77', 7/7', IV' možno-li změřiti úhly:
+
+
+r-./=oJl, //':7/=G32, ///':///=zo33, /F':/F=eo4,
+
+
+pak možno polohu osy stáčení jakožto kolmice rovinu neznámé normální rovnice -f- -\- určiti takto: Normální rovnice plochy př. budiž:
+
+
+
+
+
+
+
+
+
+
+
+XXI ﻿tak jest:
+
+
+
+
+
+--- --- --- ---
+
+
+
+
+
+(ve smyslu 14.), pak normální rovnice téže stočené plochy //' jest
+
+
+proto:
+
+
+Vs~ V'3""
+
+
+*='='= W""
+
+
+toho dle vz. 37. vypočítá:
+
+
+(aJr/, c^_ Jsou-li dále normální rovnice ploch:
+
+
+
+
+
+111= -L= JL= -~-
+
+
+
+
+
+podobným způsobem jako při ploše //' vypočítá:
+
+
+-f- ť)2 <;<?í
+
+
+při plochách cos --- —=-*-.
+
+
+-\-
+
+
+T,T, ,TT (a-\-b č)~ cos
+
+
+při plochách ///' III cos -±—j —-t
+
+
+rr>> /rr
+
+
+plochách IV. eosv
+
+
+
+
+
+COS ft>
+
+
+
+
+
+
+
+
+Poněvadž cos všech těchto případech týž, srovnáním těchto rovnic vyloučením cos obdržíme tři rovnice
+
+
+-f- -j- c)2 cos G)2 -\- cos 03, -f^~-K)»— (tf— ^-j.^t
+
+
+-f- -\- cos -\- cos co3 ^"" ~~~
+
+
+
+
+
+-\- c)* cos OJ2
+
+
+
+
+
+jichž řešením vypočítají neznámé veličiny
+
+
+XXI.
+
+
+cos co4 ﻿31
+
+
+Zavedeme-li upraví svrchu uvedené rovnice takto:
+
+
+cos to2 cos co,) ~\- (cos cos &\} ~\- cos cos ^i)
+
+
+COS OJ, ---- COS OJj
+
+
+(cos OJ2 cos to,) -\-v cos to2 cos CJ3) -\- cos co2 cos eo3)
+
+
+cos to2 cos 094) 4^- cos cos o>4) 4/- (cos co2 ^<?í eo4
+
+
+těchto rovnic plyne:
+
+
+cos co, cos co2 4/- ÍTOÍ o)3 L<w co4
+
+
+
+
+
+ta, cos fiJ2 roj
+
+
+COS OJj -j- íí?í K>2 COS
+
+
+íí?í Oíj COS 002 ÍT(9J-
+
+
+COS -j- C<9.T COj, ^(95
+
+
+COÍ
+
+
+COS
+
+
+(46)
+
+
+Pak jest:
+
+
+(47)
+
+
+Znaménka druhých odmocnin V^2 Ve2 řídí znaménkem vypočítaného čitatele veličin a2, b2, (podobně jako při vzorcích 28.)-
+
+
+Chceme-li cos vyjádřiti funkcí daných úhlů Oj, o>2, co3, nezávisle hodnotách vypočítejme rovnic /', II', III'.
+
+
+
+
+
+b-\- c)2
+
+
+
+
+
+COS
+
+
+cos (cos G)3 cos
+
+
+cos
+
+
+Provedeme-li naznačené umocňování dvěma sečteme-li tyto tři rovnice, hledíce podmínce -{- -\- obdržíme;
+
+
+cos cos co, —cos co2 cos co3) 3(1—cos
+
+
+2ab— c-\-2bc =.—-—
+
+
+cos
+
+
+Přičteme-li tuto rovnici rovnici -\- vypočítáme:
+
+
+cos (cos oíj -j- cos co2 -\- cos co3)
+
+
+
+
+
+cos
+
+
+Dosadíme-li tento výraz rovnice 1V\ kterou jsme dříve převedli
+
+
+tvar:
+
+
+,2__o (cos co4 cos
+
+
+cos ﻿32
+
+
+obdržíme:
+
+
+
+
+
+cos (cos tal -f- -)- cos -f- co,)-----— (48)
+
+
+
+
+
+Řešení zvláštního případu dle těchto obecných vzorců viz práci Smolaře, Některé nové úlohy mathematické krystalografie 1901 str. 13.
+
+
+Poznámka. Když bylo možno změřiti pouze tři srostlicové úhly «!, oj.2, dvou srostlých osmistěnů, pak při určování cos nebo cos 034 naráží obtížné řešení rovnic čtvrtého stupně, jak jest blíže ukázáno str. 18., 20. Označíme-li zjednodušením —íwojj, cos to2, cos G?3, cos cos L04, pak pro výpočet úhlu stočení platí podmínka:
+
+
+(/> .r) -J- .r) (;• .r)
+
+
+Y(q .r) jr) (/> -~*J (49)
+
+
+pro čtvrtý úhel srostlicový co4 platí rovnice
+
+
+-f-/2 q+pqi+p*- r+p r+q r*)
+
+
+-T/4 ?'4 ~\- ~\- q'2 -}- ^~P3 q*—ps r—p r—qr* <73 ^3-r/V^/'í?2+/2^+/""'2-f ^2^""f qr* ipqr (50;
+
+
+III. srostlicích dvanáctistěnu pětiúhelníkových znaku tvani
+
+
+odvozených.
+
+
+Při podmínce označme plochy dvanáctistěnu pětiúhelníkového číslicemi 12, jak jest naznačeno obr. Normální rovnice ploch sbíhajících jednom trojcovém rohu, nim souměrně položených rovin jsou tyto:
+
+
+-\-
+
+
+-,__ =-------O
+
+
+^*^L.-ů
+
+
+6=^l±^--d=V,
+
+
+;/,r -\-m. Ym* -4-
+
+
+
+
+
+
+
+
+Stočením tohoto krystalu kolem osy kolmé rovinu neznámé normální rovnice -f- -f~ neznámý úhel přejde rovina polohy l', polohy atd.
+
+
+Označíme-li úhly GÍJ, w2, 6:6 w3, ea4 CJ5, 5':5~ojG, počítáme-li dle vz. 37., př. pro plochy lál' dosadíme:
+
+
+XXI ﻿33
+
+
+
+
+
+===•, =/= -==
+
+
+bude:
+
+
+(na-\- cos to, (w2 ;z2)
+
+
+
+
+
+podobně vyjádří cos funkcemi ostatních úhlů tak vznikne těchto rovnic
+
+
+eo3, w4l <yň,
+
+
+
+
+
+
+
+
+
+
+
+-j- #z2 (;«2 -f- n2)] cos
+
+
+-|- -f- (#z2 -f- «2) cos <al
+
+
+-f- <L2 (;//2 -(- «2)]
+
+
+
+
+
+(m2 -f-
+
+
+[>«2 -(- ;;/ -f- (m2 ~\- n2)] cos -f- -\- (m2 -\- n2} cos o»3.
+
+
+[n2 -\- (m2 -\- n2)] cos ~ri2 -\- (m2 -\- n2) cos 034.
+
+
+[m2 -j- (;«8 -|- «2)] cos -f- (m2 ~\- n2) cos GJ5.
+
+
+[m2 -f- (m2 «2)] /«2 <52 -f- (w2 -(- w2) tí?j co6.
+
+
+Sečtením posledních šesti rovnic hledíce rovnici krátíce veličinou (m* -j- n2) vypočítáme:
+
+
+COS (COS OJj -j- COS 0>2 -f-
+
+
+
+
+
+COS
+
+
+-(- COS Gig (51)
+
+
+tohoto vzorce jest patrno, součet cos CD^ -)-
+
+
+-f-
+
+
+
+
+
+při libovolném stočení nezávisí indexech ploch ?;/, nýbrž pouze velikosti stočení.
+
+
+Chtíce určiti neznámé veličiny vypočítejme nejprve rovnic 2., 4.:
+
+
+COS
+
+
+
+
+
+fíJÍ
+
+
+
+
+
+
+
+
+
+
+
+Znaménko vstahu před druhou odmocninou pro veličiny řídí znaménkem příslušného cos čitateli odmocněnce.
+
+
+pra vy: Roč. XV. Tř. II. 21.
+
+
+XXI. ﻿34
+
+
+Řešením těchto tří rovnic vypočítá:
+
+
+-t- ;«2 —----------
+
+
+-f-
+
+
+-j-
+
+
+
+
+
+-f- 7«2
+
+
+(52)
+
+
+Podobně vypočítají indexy roviny stáčení /;, též úhlů wt, w5, 03C tím toliko rozdílem, příslušných ploch jest negativní. Dle toho zavedeme li:
+
+
+-j- #2' (ott ra4
+
+
+
+
+
+
+
+
+COS
+
+
+cos
+
+
+
+
+
+---- L<?.$•
+
+
+vložíme-li negativnost čísla vzorců 52., obdržíme:
+
+
+""^«^^8—
+
+
+
+
+
+-f- -f-
+
+
+
+
+
+»íd ----
+
+
+z;' -j- ;«2 -(-
+
+
+
+
+
+(53)
+
+
+Abychom poznali, kterak utváří výpočet zvláštním případě, vezměme základ polohu stočených, jež jest určena cosiny směrnými
+
+
+pod čís. (na str. 24). těchto cosinů pro tvar určí:
+
+
+cos (1:1') cos K)1
+
+
+3') ť<9J o32 í<?j 6') (03
+
+
+150 165 150 165 165
+
+
+8r) cos
+
+
+/rj o'\ /•/if
+
+
+cos ^^-í í°6
+
+
+122 165 102 165""
+
+
+Pak dle vzorce 51. jest cos
+
+
+66""
+
+
+Abychom pak mohli počítati dle vzorců 52., určíme dříve:
+
+
+
+
+
+pak jest:
+
+
+131
+
+
+V131
+
+
+
+
+
+VÍŠT VIST
+
+
+XXI. ﻿35
+
+
+Tím jest vypočítáno, poloha vyobrazená obr. odvoditi stočením kolem osy kolmé rovině:
+
+
+úhel jehož cos tak 180°-9°59'.
+
+
+Chtíce počítati dle vz. 53., určíme:
+
+
+131
+
+
+
+
+
+
+
+
+Dosadíce tyto hodnoty vz. 53., vypočítáme, osa stáčení jest kolmá rovině což shoduje výsledkem předcházejícím.
+
+
+Poznámka. Když byly známy pouze srostlicové úhly o^, 032, «3, pak vypočítání úhlu vede obtížnému řešení rovnice čtvrtého stupně, neboť dosadíme hodnoty 52. rovnice 1., napíšeme-li svrchu uvedené hodnoty naznačíme-li stručností opět cos <aí cos cos vypočítáme
+
+
+-j- (7/2 »z2 n2) (m2 -(- w2)
+
+
+(q-x)(r Y(r-x)(p— x}} (>3-f-«3)2(l (54)
+
+
+IV. srostlicich čtyřicetosmistěnů mOn=.(li l'}. Osová rovnice roviny př. obr. jest:
+
+
+čehož, položíce rovinu rovnoběžně začátku souřadnic, obdržíme
+
+
+-\- -j- tak že:
+
+
+
+
+
+případě jest možno celou rovnici krátiti. Chtíce upraviti rovnici souhlase 14. jakožto rovnici normální, učiníme:
+
+
+V//2-f L'2-f/'2
+
+
+Označíce roviny jednoho oktantu číslicemi obr. 9.), napišme jejich normální rovnice:
+
+
+-O*+ 7/5
+
+
+XXI. ﻿36
+
+
+-\- -f-
+
+
+Stočí krystal kolem osy kolmé neznámou rovinu normální rovnice ax-\-by -\-cz- neznámý úhel přejdou roviny polohy rovin l', 6', označíme-li srostlicové úhly obdobných rovin ajn OJ2, Mg, bude dle vz. 37.:
+
+
+-\- cos co.
+
+
+""™~ —_______•_________-____——_______________—
+
+
+Podobně jest možno vyjádřiti cos funkcemi ostatních úhlů r.>2, cof>. Tím obdržíme těchto rovnic:
+
+
+-f- -\- c)2 cos cos ojj cos
+
+
+(Id -4- -4- cos L<?,y co,. L0.y
+
+
+
+
+
+-\- -\- c}z cos ros OJ3 L<?.$•
+
+
+-\- -{- c}2 cos cos o)4 ÍTO^
+
+
+~\-h -\- c)>2 cos toí G35
+
+
+(// -\- -\- c)2 cos cos t»6 cos
+
+
+Když součtu rovnic 3., odečteme součet rovnic 2., 6., obdržíme:
+
+
+COS -j- COS C03 -\- COS G?5 COS C02 -(- ÍOJ C34 -)- ť(?J 03g (55)
+
+
+Tím odvozena jest poučka: Součet cosinů srostlicových úhlů ploch lichých (obr. rovná součtu cosinů srostlicových úhlů ploch sudých, děje stáčení kolem libovolné osy libovolný úhel kterémkoli směru
+
+
+17. Neznámá rovina svírá rovinami Nt, N2, známých normálních rovnic úhly t^, i/>2, tL>3; určiti rovnice roviny
+
+
+Jsou-li známy tyto normální rovnice rovin:
+
+
+•^2 =20i
+
+
+označíme-li neznámou normální rovnici roviny výrazem:
+
+
+pak neznámé veličiny vypočítají řešením této soustavy tří rovnic:
+
+
+-4- -j- cos il',
+
+
+
+
+
+XXI. ﻿37
+
+
+toho vypočítá:
+
+
+cos ./,
+
+
+COS II'
+
+
+
+
+
+Dosadíme-li tyto hodnoty rovnice A/, jest možno celou rovnici krátiti veličinou <43, tak všeobecná rovnice roviny jest:
+
+
+
+
+
+
+
+
+cos il>l cos 1^2
+
+
+COS
+
+
+(56)
+
+
+Příklad. Když neznámá rovina třemi rovinami osmistěnu:
+
+
+=___?_ „Z_ i___L_
+
+
+V3~
+
+
+tvořila úhly: tak že:
+
+
+</'2,
+
+
+
+
+
+""ŠT1
+
+
+
+
+
+--jr,«f^
+
+
+
+
+
+""ŠT'
+
+
+pak dle vz. 56. všeobecná rovnice plochy jest:
+
+
+69	1 1		1	1 69		1
+
+
+17	V3 1			V3~ 17		1
+
+
+43	V3 1			V 3"" 43		VŠ~
+
+
+Vs~		V3~ 1		VT 69	81	
+
+
+		V 3"" V'3~ 17				
+
+
+		V'3"" V3"" 43				
+
+
+		VT V3"" 81				
+
+
+Násobíme-li celou rovnici součinem obdržíme zjednodušenou rovnici:
+
+
+-\-
+
+
+XXI. ﻿38
+
+
+18. Určíme-li dvě známé roviny A/j, krystalu stočeného soustavě souřadnic krystalu polohy původní, vypočítati osa stáčení úhel
+
+
+stočení.
+
+
+Jsou-li normální rovnice ploch
+
+
+AT1=</1É ,1iř
+
+
+rf, -f/2 stočené soustavě souřadnic jsou-li
+
+
+
+
+
+II.
+
+
+Ml=alx ^J-K ""-f
+
+
+normální rovnice týchž rovin původní soustavě souřadnic, určíme směrné cosiny soustavy stočené osám soustavy původní «x, /3^ dosadíme-li rovnic i], příslušné transformační vzorce 18., tak uspořádání rovnic dle proměnných veličin j', bude:
+
+
+(d, Uí+fí +/Í «s) ,r-H^ -(-/j /jjj,-]-
+
+
++/i y3)
+
+
+J/2 (ú?8 -f- -}-/2 «s) (rf, /3j /J2 -f-/2 /js)j/
+
+
+III.
+
+
+Srovnáním rovnic III. rovnicemi II. plyne:
+
+
+ttj 4-^ «24-/i =«i,
+
+
+ť/a -|- -J-/2 «21 těmto rovnicím přistupuje:
+
+
+^""4-a,«-f «,«=!.
+
+
+Řešením těchto tří rovnic určí neznámé veličiny e^, «2, «3. vypočítá rovnice:
+
+
+«!2 [('1/2 ^2/J2 4/,)2 ^)2J [(«!/2 «2/l) ^2/l) («1 (<A
+
+
+('a/i ťi/2)2 K/2-^2/i)2-K'2— «2^i)2 .(57) Veličina jest určena podobnou rovnicí, kterou odvodíme vz. 57. zaměněním veličin
+
+
+dí)(eí rf,
+
+
+2cc
+
+
+Rovnici veličiny odvodíme vz. 57. zaměněním veličin Pro vypočítání veličin ftlt /32, /?;3 srovnáním rovnic III. rovnicemi II. sestavíme
+
+
++'i =<V
+
+
++/2 ^2, 0/-H022 +032 =1-
+
+
+XXI. ﻿39
+
+
+Řešení těchto rovnic patrně vede podobným rovnicím jako vypočítávání veličin tak pro výpočet veličin vz. 57., 58. odvozeném pro nahradí veličinou veličina veličinou
+
+
+Podobně pro výpočet veličin vz. 57., 58. veličina nahradí veličinou veličina veličinou
+
+
+Řešením rovnic quadratických vz. 57., 58. vzorcích odvozených pro veličiny aK, /i*, vypočítá dvou kořenech, jež sestaví dvou skupin tak, aby vyhovovaly podmínkám vz. 20.
+
+
+Pak vypočítá úhel stočení osa stáčení dle vzorců 23., 25. nebo při stáčení 180° dle vz. 29.
+
+
+Příklad. Normální rovnice dvou ploch jednak soustavě stočené, jednak původní buďtež:
+
+
+
+
+
+
+
+
+i.\j r-v
+
+
+V3""~
+
+
+_2_3_i- 17j/ _37^ V3"" 27V3""~""
+
+
+
+
+
+_43
+
+
+1"">
+
+
+
+
+
+
+
+
+—__f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dosazením těchto hodnot vz. 57. vzorců odvozených vypočítáme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Současně platí buď jen horní nebo jen dolní znaménka Vezmeme-li
+
+
+
+
+
+počtu pouze horní znaménka, vypočítá dle vz. 23. 25. cos
+
+
+osa stáčení stojí kolmo rovině —y-{-z
+
+
+
+
+
+§19. Určíme-li tři známé roviny Ml, M>, krystalu stočeného soustavě souřadnic krystalu polohy původní, vypočítati osa úhel
+
+
+stočení.
+
+
+Ponecháme-li obdobné označení také pro plochu jako pro plochy TI/,, J/2 18., pak podobnou cestou, jak právě bylo naznačeno, dojdeme řešení soustavy rovnic:
+
+
+XXI ﻿40
+
+
+-f/i
+
+
+4""
+
+
+nichž vypočítá:
+
+
+
+
+
+
+
+
+
+
+
+podobně
+
+
+(59)
+
+
+Tím vyhneme neurčitosti, kterou jsme narazili 18. při kombinaci znamének, vypočítavše kořeny quadratických rovnic.
+
+
+Když známe směrné cosiny stočených osám souřadnicovým polohy původní, pak osa úhel stočení opět vypočítá dle vz. 23., 25, případě dle vz. 29.
+
+
+Příklad. Jsou-li určeny plochy normálních rovnic
+
+
+
+
+
+
+
+
+	yf 3""	V3 13"" —a	43	*=*
+
+
+—	27 0		- 27VY	^- -íl"" V3'
+
+
+	V3 23* 37*		23	/2
+
+
+=	27 10* 7	27 flf	= -d9 10	' 2~27V3'
+
+
+				27V3'
+
+
+	27 27	27 U'	— '	~ '""3~
+
+
+pak dosazením těchto hodnot vz. 59. vypočítají směrné cosiny souřadnicových stočených osám polohy původní. těchto vzorcích 59. jest:
+
+
+e\f\ 02*2 3*3/3		1	1	1	2
+
+
+		V 1	V3 1	V3~
+
+
+		Y3 0	V 1	V3 0	""
+
+
+XXI. ﻿41
+
+
+pak naznačí:
+
+
+3	43 1	1	23
+
+
+	27 3"" 1	1	
+
+
+y	27 VaT 1	V3 1	-27'
+
+
+	27 43		
+
+
+	\^3~ 23	V3
+
+
+	VT 27^3 10	V3 0	27
+
+
+takto
+
+
+Takto pokračujíce vypočítáme ostatní hledané veličiny, jež sestaví
+
+
+23	í-í —	10
+
+
+10	> —	27
+
+
+10		27
+
+
+
+
+
+
+
+
+
+
+
+_2_ 25_
+
+
+Pak dle vz. 23., 25. vypočítá cos osa stáčení stojí kolmo
+
+
+
+
+
+rovině -f- což vede rovině srostlicové (511)) nebo uplno-tvarů regulární soustavy též rovině srostlicové (255).
+
+
+20. ustanoviti délka radia vectoru soustavě kosoúhlých sou-
+
+
+řadnic sinus rohu rovnoběžnostěnu vyjádřiti funkcí směrných
+
+
+cosinů příslušné tělesné úhlopříčky.
+
+
+Hrany kosoúhlého rovnoběžnostěnu sbíhající rohu (obr. 10.) budtež OA=g, OB—^
+
+
+Naznačují-li tyto úsečky směry souřadnic kosoúhlých, jichž začátek jest bodě pak »/, jsou kosoúhlé souřadnice bodu Úhlopříčka rovnoběžnostěnu jest rádius vector náležející bodu
+
+
+Označme vzájemné odchylky souřadnicových odchylky úhlopříčky souřadnicových neboli hran rovnoběžnostěnu rlt r2, spusťme bodů kolmice úhlopříčku tak LP± DQ±OM. Pak jest:
+
+
+OP-\-PQ QM=iicosrt-\-tcosrt-{-tcosr„
+
+
+Srovnej příkladem galenitu Příbramě práci Smolaře >Některé nové úlohy mathematické krystalografie* výr. zprávě gymn Jičíně 1901, 32.
+
+
+XXI. ﻿42
+
+
+jsou směrné cosiny paprsku Poslední rovnici
+
+
+kdež cos cos cos uspořádáme takto
+
+
+cos 7-j -f- cos ;-2 -f- r3......(60)
+
+
+Spustíme-li dále bodu kolmici OB, tak zároveň učiníme DS_LOL, pak jest:
+
+
+cos OB-}- cos --}-L <>.
+
+
+Spustíme bodu podobně kolmice též dojdeme podobným rovnicím, jež obdržíme též cyklickou záměnou:
+
+
+cos -4- íť9í -j-
+
+
+
+
+
+cos cos -j- -f- c<?í l.....(61)
+
+
+Násobíme-li rovnici 60. veličinou pravé straně cos atd. postupně dosadíme hodnoty vypočítané rovnic 61., obdržíme:
+
+
+i;2 Í62)
+
+
+ííJ Í73 ÍJl
+
+
+Jest analogon Carnotovy věty. Naznačují-li i/, směr velikost tří sil prostoru působících, pak úhlopříčka rovnoběžnostěnu jest jejich výslednicí.2)
+
+
+Jestliže rovnic 60. 61., jež platí pro libovolný paprsek, eliminujeme proměnné veličiny »/, obdržíme tento poměr směrných cosinů úhlům fi, (7, jež svírají osy souřadnicové:
+
+
+cos cos čVJ ?-3 cos cos cos cos cos cos cos
+
+
+což vyčíslí takto:
+
+
+cos2 cos2 cos2 -)-
+
+
+«>.y2 L0.r2A) cos2r2 cos2(i) ~\~ cos2rs cos2 -)- íí?í ?'j ť<7í (cos í<?í cos c>) -j- cos r.^ cos (cos cos cos
+
+
+-f- cos cos (cos cos cos fi) ......
+
+
+Výraz:
+
+
+Í6»J COS
+
+
+rfj cos cos2 í<9í2A cos2 -\-2cospcos cos (65) ťť?í cos
+
+
+značí též sin2 (O) nazývá čtvercem rožního sinu.4)
+
+
+
+
+
+L0Í ť(9J
+
+
+(63)
+
+
+(64)
+
+
+Srovnej Salmon, Analyt. Geometrie děs Raumes. Bearbeitet voň Fiedler 1863, str. 12, dále Goldschmidt Zeitschr. fůr Kryst. 1899, 143.
+
+
+Dvorní rada Dr. Strouhal, Mechanika 1901, 157.
+
+
+"") Srovnej on, »Uber die Bestimmung der Positionen voň Punkten und Ebenen nach einer Drehung.* Zeitschr. Kryst. 1901, XXXIV., 339 násl.
+
+
+Dvorní rada Dr. Fr. Studnička, Základy sférické trigonometrie, 1865, 10.
+
+
+XXI ﻿43
+
+
+Poznámka. Je-li •=. 90°, pak jest dle vz. 64.:
+
+
+sin2 (0} čw2 -|- íw2 -}- čw2 r^, což shoduje vzorcem
+
+
+Příklad. obr. 11. OS, OH, jsou kolmice spuštěné středu čtyři přední plochy osmistěnu. Zvolme tři nich př. OJI, osami souřadnic kosoúhlých; budiž libovolnou osou stáčení jakožto kolmice hledanou rovinu normální rovnice ax-\-bj/-\-csi=.0 soustavě souřadnic pravoúhlých, jichž osy procházejí protilehlými rohy tohoto osmistěnu. Dále budiž OS—OH— OP—\.
+
+
+
+
+
+kolmo rovině —-,•=•--------—
+
+
+
+
+
+
+
+
+čehož plyne:
+
+
+
+
+
+
+
+
+cos —-r^-----
+
+
+Podobně vypočítá:
+
+
+cos
+
+
+cos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vaf
+
+
+VŠ""
+
+
+Vš""
+
+
+
+
+
+
+
+
+Chceme-li cos (obr. 11.) vyjádřiti funkcí cos cos r2,
+
+
+
+
+
+
+
+
+cos r3) srovnejme vyraz cos
+
+
+-7=- třemi právě
+
+
+předcházejícími rovnicemi poznáváme, že:
+
+
+cos cos cos -f- cos ....... (66)
+
+
+Poněvadž 0#i ^-í^, jsou kolmice roviny osmistěnu, jest
+
+
+cos cos cos proto dle vz. 65. jest sm2 (O)
+
+
+Dosadíme-li tyto hodnoty vzorce 64., obdržíme rovnici: cos2 -j- L0.y2 -|- cos2 r:] cos cos cos cos
+
+
+—l— rnv -f.
+
+
+
+
+
+cos r.A cos cos cos
+
+
+-f- cos cos
+
+
+(67)
+
+
+Této rovnice jest možno upotřebiti při řešení některých úloh srostlicích osmistěnů. Viz př. Smolaře »Některé nové úlohy mathem. krystalografie* 1901, str. 19.
+
+
+XXI. 21. určiti rovnice roviny souměrně položené rovině dle symmetrální roviny (obr. 12.).
+
+
+Rovina srostlicová vlastnost, že, vložíme-li rovinné zrcadlo, obraz prvního individua srostlých krystalů rovnoběžný individuem druhým naopak obraz individua druhého jest rovnoběžný individuem prvním. Dle toho při řešení srostlic někdy vyskytuje úloha nadpise uvedená.
+
+
+obr. 12. znamená průmět roviny, jejíž normální rovnice jest
+
+
+~~h ~\~ ^i—^i Rs'- -\- ft^y ~\~ Víz
+
+
+kdež cos /3« cos cos cít.
+
+
+dle známé poučky rovnice neznámé roviny A*, která prochází průsečnou hranou rovin A*, vypočítá dle vzorce
+
+
+(68)
+
+
+při čemž koeficient určen jest podmínkou, rovinou svírati týž úhel jako rovina rovinou Tento úhel jest patrně vždy menší než 180°. Koeficient vypočítá návodem prof. Oldřicha Kobrla takto: vypočítejme nejprve rovnici roviny A(/, která prochází průsečnou hranou rovin rovinou svírá úhel tom pak zvláštním případě, to, rozřešena bude svrchu daná úloha. Násobíme-li skutečně koeficientem normální rovnici roviny dle vz. 68. přičteme rovnici Alt obdržíme
+
+
+M.RV
+
+
+A«2)
+
+
+Ad2)
+
+
+při čemž R,p značí normální rovnici roviny A,, dle vz. jest
+
+
+Provedeme-li tomto výraze naznačené umocňování, hledíce vzorcům vypočítáme
+
+
+l+A2-f cos Dále dle vz. jest
+
+
+(69)
+
+
+dosadí-li sem svrchu vypočítaná hodnota 69. provede-li naznačené násobení, pak dle vz. krátí celá rovnice, tak obdržíme
+
+
+cos^ stn^ cos ~|-------------—^--------2-
+
+
+kterážto rovnice řešena jsouc dle dává kořeny
+
+
+sin sin qp)
+
+
+COS --------- ------------
+
+
+""tg
+
+
+(70)
+
+
+XXI. ﻿45
+
+
+zvláštním případě, když oj, jest tak rovina R<fi splývá rovinou
+
+
+cos ca, ........... (71)
+
+
+což jest hledaná všeobecně platná hodnota pro vzorci 68. beze zření tomu, je-li začáteční bod souřadnic úhlu nebo jeho vý-plňku 180°. Dosadíme-li hodnotu naznačenou vz. 71. vz. 68., vypočítáme přímo normální rovnici Rx, neboť tomto případě dle vz. 69. jest
+
+
+Příklad. Jestliže při stočení dvanáctistěnu pětiúhelníkového
+
+
+dle obr. jest rovinou srostlicovou (221) chceme-li určiti rovnici 8"", jež dle roviny srostlicové souměrně položena rovině polohy původní, zařídíme výpočet takto:
+
+
+dle jest cos
+
+
+
+
+
+
+
+
+^------L=
+
+
+
+
+
+
+
+
+
+
+
+3V5
+
+
+kdež zz:
+
+
+
+
+
+/?! :^.
+
+
+tímto koeficientem násobí
+
+
+Dle vz. 71. jest 2coset —7=
+
+
+
+
+
+rovnice /?, přičte dle 68., čímž obdržíme krácení
+
+
+8"" 16.y
+
+
+Poznámka Všeobecný výklad vzorce 70. není tak jednoduchý, jak byl podán pro případ, co; ostatních případech, nichž qp^co, jest nutno pozor dáti to, nachází-li začátek souřadnic uvnitř úhlu nebo jeho výplňku 180°, jak tom jednoduše přesvědčíme, když bychom chtěli dle vz. 70. 68. vypočítati rovnice rovin půlících
+
+
+úhly sevřené známými rovinami (obr. 13.), tak
+
+
+<p' 90°-----~, y""=:900-|- g>""'= 180°------. Dosadíme-li tyto
+
+
+hodnoty qp, qp', qp"", qpr// vz. 70., výsledků poznáváme pravidlo:
+
+
+Leží-li začáteční bod souřadnic úhlu co, bére pro vypočítávání jak roviny L7, tak horní znaménko úhly qp"" odečítají co.
+
+
+Naproti tomu, leží-li začátek souřadnic mimo úhel co, bére vz. 70. počtu dolní znaménko úhly qp', qp'"" přičítají úhlu témž směru, jak jest naznačeno šipkami obr. 13.
+
+
+Poznámka Dle toho, jak krystaly jsou srostlé, měřitelný jsou různé úhly srostlicové dle různých daných podmínek jest nutno za-
+
+
+XXI ﻿46
+
+
+říditi různý postup výpočtu. předložené práci jsou naznačeny různé způsoby určení polohy srostlých krystalů jest ukázáno, kterak tyto různé způsoby výpočtu vedou jednomu témuž cíli.
+
+
+Celkem vidíme, čím více úhlů pro vzájemnou polohu důležitějších srostlicových úhlů možno změřiti, tím výpočet stává jednodušším.
+
+
+druhé straně pak poznáváme nejmenší míru nutných, daných podmínek. Březina své Methodik der Krystallbestimmung, Wien, 1884, 266 uvádí, určení roviny srostlicové jest nutno, aby nejméně případě srostlicových úhlů bylo změřeno. Dále viz Fedorow, Beitrag zuř Syngonielehre, Zeitschrift Kryst. 1897. VIII. 51.
+
+
+22. Kříž pravoúhlých souřadnic prostoru stočí kolem osy kolmé rovině všeobecné rovnice -\- -f- d~Q libovolný úhel sestrojiti orthogonální projekce těchto stočených
+
+
+směru délky.
+
+
+základ bereme projekci, jak uvádí Groth své Physika-lische Krystallographie 1885, 684 (nebo 1895, 594) pro krystal polohy původní. Dívárne-li osmistěn soustavy regulární směru předozadní hlavní osy nekonečné vzdálenosti myslíme-li průmětnu středem osmistěnu kolmé poloze směr paprsků oka vycházejících, rohy (B), (S'), (C), (C') promítnou vrcholech čtverce (B) (C) (B1} (C'), přední zadní roh středu (obr. 14.), poloosy pak (B) (B') (C) (C) Stočí- tato soustava kolem osy vertikální úhel tak, průmět předního rohu přejde části úsečky (B') bodu bodu bod (B]
+
+
+(B'} K'} tak OK', učiníme-li dále K'R\\CC'
+
+
+
+
+
+jest také pak jest sin OK— cos poněvadž
+
+
+bylo učiněno siná— cos jest tgu. -—, 26' 6"". Stočí-li
+
+
+pak krystal druhé kolem osy ležící průmětné rovině kolmé ose vertikální úhel tak, průmět předního rohu přejde bodu
+
+
+při černž CC\ rK'R=sma.
+
+
+
+
+
+Poněvadž jest průmět oblouku /3, jejž opisuje přední roh poloměrem rovným cos jest cos sin /3. Srovnáním obou těchto podmínek plyne
+
+
+cos sin sin neboli sin tg- čehož
+
+
+
+
+
+45"". Poněvadž roh pravý, jehož průmětem prvním stočení bod A', při druhém stočení opisuje oblouk poloměrem, jenž rovná --- cos
+
+
+
+
+
+dostane druhým stočením průmětu bodu tak, KB\\ C', KB=
+
+
+XXI. ﻿47
+
+
+AS\\OK\ spojnice rýsují pouze rychlým roztrojením úsečky Projekce osy vertikální tímto stočením udržuje svou vertikální
+
+
+polohu zkrátí zcela nepatrně, neboť jest rovna cos
+
+
+
+
+
+099381 veličinu tuto obdržíme, když nad průměrem OR=. sestrojíme polokružnici úsečku RR' naneseme jakožto tětivu zároveň
+
+
+jakožto sin /J, tak c0s$~OR' naznačuje přesně délku projekce osy vertikální. Při projekcích malých rozdíl ten ani není možno naznačiti, tak možno bráti Než při projekcích rozměrů větších jest nutno rozdílem tímto počítati.
+
+
+Tato projekce podstatě shoduje Mohsovou axonometrickou (orthogonální) projekcí tím toliko rozdílem, zde elevační úhel
+
+
+/j'zz7° 10'8', neboť sin fi'— Tím, elevační úhel jest malý,
+
+
+
+
+
+jest orthogonální projekcí způsobován dojem, vyobrazený předmět není stočen kolem vodorovné osy, nýbrž pohled horní dolní plochy jest umožněn jen vyšší, případě nižší polohou oka pozorovatelova.
+
+
+obr. 15. OB, budiž právě vyložená orthogonální projekce sobě kolmých navzájem rovných polohy původní. HKL budiž libovolná rovina, určená všeobecnou rovnicí ax-\-by-\-cz </z=0; bodech //, tato rovina proťata poloosami dle potřeby prodlouženými, tak OH=.—, OK=.—-, jsou parametry dané
+
+
+
+
+
+roviny. jest kolmice začátku souřadnic rovinu HKL spuštěná (dle návodu Grothova pag. 688); bod pata naznačené kolmice. Při uloženém stáčení body //, opisují rovině HKL soustředěné kruhy, jež projekci jeví jakožto soustředné, podobné ellipsy. Poněvadž jakožto kolmice rovinu HKL též kolmá velkých poloosách ellips poněvadž stočením roviny HKL kolem delší osy ellipsy polohy rovnoběžné průmětnou ony ellipsy jakožto průměty kružnic stanou soustřednými kružnicemi, při kterémž stáčení kolmá poloha kratších ellips delší osy projekci nemění, naznačuje kolmice zároveň směr polohu kratších ellips. Sestrojením ZT_\_OZobdrííme směr delších ellips.
+
+
+Abychom určili poměr malé osy velké, jenž jest všech tří ellips týž, sestrojme stopu roviny HKL průmětně. Je-li (rovnoběžka delší osou ellipsy) touto stopou, pak OZM jest průmět pravoúhlého trojúhelníka (Z) (obr. 16.), němž jest podponou, (Z) (Z) jsou odvěsny hledaný poměr jest (Z}. Abychom tento (Z) skutečné velikosti podobě narýsovali, určíme nejdříve skutečnou
+
+
+Srovnej Staudigl: Die axonometrische und schiefe Projection. 1875, 15. Viz Holzmúller, Elemente der Stereometrie. Leipzig 1900, 74.
+
+
+XXI. ﻿48
+
+
+vzdálenost (Z) sestrojením pravoúhlých trojúhelníků skutečné velikosti (H) (K), (S) (H) (K), (Z) (S), stáčejíce roviny průmětné dle těchto vlastností orthogonální projekce:
+
+
+Úsečky prostoru rovnoběžné mají též rovnoběžné projekce.
+
+
+Rovnoběžné úsečky projekci týmž poměrem zkracují.
+
+
+Učiníme-li (A) (obr. 15.), H(H)\\A(A), obdržíme 0(H] jakožto skutečnou délku parametru Podobně když (B] K(K}\\B(B), pak (K) skutečnou délkou parametru OK. Podobně vedeme při OL, jež zkráceno poměru OR' (obr. 14.). Když ještě učiníme 0(H') 0(H\ pak úsečky (H}(K\ (K)(L), (L}(Hř) jsou skutečné délky stran /\HKL, jejž sestrojíme skutečné velikosti spuštěním dvou výšek určíme polohu bodu (Z). příslušných úseček trojúhelníků (H)(K)(V) (Z) (S) sestrojme obr. 16. OZ(Z), prodlužme odvěsnu bodě (Z) sestrojme kolmici (Z). Pak průsečík jest patou kolmice spuštěné bodu stopu roviny HKL průmětnou. Nyní nanese obr. 15. obr. 16. bodě sestrojí MU\\ZT (obr. 15.), tak žádaná stopa roviny HKL průmětně.
+
+
+Potom stočíme rovinu HKL kolem velké osy ellipsy roviny rovnoběžné průmětnou tím, bodů spustíme kolmice delší osu ellipsy, kteréžto kolmice prodloužíme body poměru MZ:M(Z) (obr. 16.); tím přejdou body ellips kružnice soustředné bodů Hx, KK, Lx; pak poloměry L*, ZH-^ K-,., jež zároveň naznačují délky větších poloos ellips, opišme soustředné kružnice, naneseme uvedených bodů HKi Kx, směru stáčení oblouky příslušné úhlu tak tyto body dostanou bodů H'K K'K, L'K, kteréžto body přeneseme zpět příslušné ellipsy, zkrátíce kolmice bodů těch delší osu spuštěné poměru (Z): (obr. 16.). Tím obdržíme body He, KL, Z,,, jež spojíme začátkem souřadnic pak úsečky OHet OKe) OLe naznačují směry stočených poloos souřadnicových dle daných podmínek. Abychom určili délku průmětů stočených poloos souřadnicových, sestrojme AA'\\HHe) BB'\\KKC, CC'\\LLe. Pak A', OB', OČ' jsou průměty stočených poloos osmistěnu určené směru délky. Tím daná úloha jest rozřešena.
+
+
+této konstrukce jest patrno, svrchu uvedené tři soustředné ellipsy není třeba rýsovati celé, což byla práce zbytečná, nýbrž jest nutno určiti pouze body He} KC) způsobem svrchu naznačeným. Ellipsy obr. 15. jsou narýsovány pouze snadnějším porozuměním. Také možno rovinu HKL překlopiti kolem její stopy roviny průmětné dle téhož poměru MZ:M(Z) rýsování pak pokračuje podobné, j.ik právě bylo ukázáno.
+
+
+XXI.
+
+
+23. Přehled důležitější literatury theorii výpočtu srostlic.
+
+
+Naumann, Lehrbuch der reinen und angewandten Krystallographie.
+
+
+Bdě. Leipzig 1829 1830.
+
+
+Kup fér, Handbuch der rechnenden Krystallonomie. St. Petersburg 1831. Rammelsberg, Lehrbuch der Krystallkunde. Berlin 1852. Miller, Lehrbuch der Krystallographie: iibersetzt erweitert Greilich.
+
+
+Wien 1856; íibcrsetzt voň Jocrres. Bonn 1864.
+
+
+Naumann, Elemente der theoretischen Krystallographie. Leipzig 1856. sten, Lehrbuch der Krysťallographie. Leipzig 1861. Kopp, Einleitung die Krystallographie. Aufl. Braunschweig 1862. Lang, Lehrbuch der Krystallographk-. \\""ien 1866. Bravais, Etudes cristallographiques. Paris 1866.
+
+
+Schrauf, Lehrbuch der physikalischen Mineralogie. Bd. Krystallographie. Wien 1866. yuenstedt. Grundriss bestimměnden und rechnenden Krystallographie.
+
+
+Tiibingen 1873. Rose, Elemente der Krystallographie. Aufl. Berlin 1873. Zweiter
+
+
+Bd. voň Sadebeck 1876, dritter Bd. voň Websky 1887. Mallard, Traité Cristallographie géonietrique physique. Tome
+
+
+Paris 1879.. li. 1884.
+
+
+Klein, Einleitnng die Krystallberechnung. Stuttgart 1876. Jan Krejčí, Krystallografie čili nauka tvarech hrnoty vyhraněné.
+
+
+Praha 1867. Druhé vydání 1879. Krejčí, Elemente der matném. Krystallographie. Nach den Vortrágen
+
+
+voň Krejčí herausgeg. voň Fr. Kratzer. Prag 1886. Groth, Physikalische Krystallographie, Aufl. Leipzig 1895. Liebisch, Geornetrische Krystallographie. Leipzig 1881.
+
+
+Henrich, Lehrbuch der Krystallberechnung. Stuttgart 1886.
+
+
+Březina, Methodik der Krystallbestimmung. Wien 1884.
+
+
+Hecht, Anleitung zuř Krystallberechnung. Leipzig 1893.
+
+
+Betrachtungen uber Zwillingsverwachsungen. Zeitsch. Kryst.
+
+
+XIV. 279. Thcoretische Untersuchungen uber Zwillingskrystalle. Zeitschr.
+
+
+Kryst. 1889. XV. 643. Goldschmidt, Uber nicht parallele Verknúpfungen der Krystall-
+
+
+partikel. Zeitschr. Kryst. 1898. XXIX. 377. Goidschmidt, Zuř Theorie der Zwillings- und Viellings-Bildung
+
+
+illustriert Chrysoberyll. Zeitschr. Kr. XXXIII. 468.
+
+
+Viola, Homogenitát und Aetzungen (allgtmeine Asymmetrie der
+
+
+Krystalle). Zeitschr. Kryst. 1899. XXXI. 97. Baumhauer, Beitrage zuř Kenntnis und Theorie der Zwillingsbildung
+
+
+Krystallen. Zeitschr. Kryst. 1899. XXXI. 252. Fedorow, Beitrag zuř Syngonielehre. Zeitschr. Kryst. 1897. XXVIÍI. 51.
+
+
+XXI. ﻿50
+
+
+Goldschmid Uber Definition eines Zwillings. Zeitschr. Kryst.
+
+
+1899. XXX. 254. Goldschmidt, Uber Erkennung cines Zwillings. Zeitschr. Kryst.
+
+
+1899. XXX. 346. Viola, Beitrag zuř Zwillingsbildung. Zeitschr. Kryst. 1904. XXXVIII.
+
+
+67., 1902. XXXVI. 234.
+
+
+Sto ber, Uber eine Methode zuř Zeichnung der Krystalle. Zeiíschr.
+
+
+Kryst. XXXIV. 1901. 621. Buttgenbach, Schiefe Projection eir.facher, sowie verzwillingter
+
+
+Krystalle. Zeitschr. Kryst. 1901. XXXIV. 638. Penfield, Uber die Anwendung der stereographischen Projection.
+
+
+Zeitschr. Kryst. 1902. XXXV. Zuř Lehre voň den Krystallzwillingen. Poggendorfs Annalen
+
+
+der Physik. 1872 147. 569. (Stereografickou projekcí.) Die stereographische Projection. Leipzig 1881. Lewis, Uber Grassmanns Methode der Axendarstellung. Zeitschr.
+
+
+Kryst. 1901. XXXIV. 331. Hudson, Uber die Bestimmung der Positionen voň Punkten
+
+
+und Ebenen nach einer Drehung einen bestimmten Winkel
+
+
+und eine bekannte Axe. Zeitschr. Kryst. 1901. XXXIV. 339. Goldschmidt V., Zuř Theorie und Diskussion der Viellinge. Jahr-
+
+
+buch Min. etc. Beilage-Bd. 1902. XV. 562-593
+
+
+Tschtírmak, Einheitliche Ableitung der Krystallisaticns- und Zwillings-
+
+
+gesetze. Zeitschr. Kryst. XXXIX. 1904. 433. Herbert Smith, Uber die Vorziige der gnomonischen Projection
+
+
+und uber ihre Anwendung beim Krystallzeichnen. (Jest pojednáno
+
+
+též projekci srostlic.) Zeitschr. Kryst. 3ý. 1904. 142. Goldschmidt, Fláchen oder Zonen als Ausgang der Formenent-
+
+
+wickelung. Zeitschr. Kryst. 40. 1905. 385. Viola, Grundzúge der Krystallographie. Leipzig 1904. Zdena 241
+
+
+jest uvedena ještě další literatura. Miigge, Die regelmássigen Verwachsungen voň Mineralien verschie-
+
+
+dener Art. Neues Jahrbuch íur Miner. atd. 16. 1903. 335. Goldschmidt, Spinellgesetz beim Pyrit und uber Rang-
+
+
+ordnung der Zwillingsgesetze. Neues Jahrb. Min. etc. 1904. II. Bd. 93. Johnsen, Uber Zwillingsbildung. Centralbl. Min. etc. 1903, 534. Dufet, Sur calcul cristallographique (nouvelle méthode). Bull.
+
+
+Soč. frang. Min. 1903. XXVI. 190. Ref. Zeitschr.
+
+
+Kryst. 41. 1906. 104. Viola, Die Aufgabe der Transformation der Coordinaten der
+
+
+Krystallographie. Zeitschr. Kryst. 41. 1906. 602
+
+
+XXI. ﻿Tah.
+
+
+Obr. -V. ťijrit Pirnton/H.
+
+
+*'• oV'>
+
+
+Obr. ,~>
+
+
+Obr. •>.
+
+
+Obr. (i. hjni Klhif Přibnunč.
+
+
+
+
+
+
+
+
+﻿_____„_____J/
+
+
+Obr. Pyrit //My.
+
+
+/""y/v'/ Přibramé.
+
+
+Obr.
+
+
+
+
+
+:.'.' idemie Třída Roč.X\ Cís.21
+
+
+﻿*"

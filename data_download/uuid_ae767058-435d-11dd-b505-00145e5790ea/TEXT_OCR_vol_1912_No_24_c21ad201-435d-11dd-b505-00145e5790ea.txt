@@ -1,0 +1,768 @@
+"","x"
+"1"," ﻿ROČNÍK XXI.
+TŘÍDA II.
+ČÍSLO 24.
+Proud třífásový při nestejném zatížení fásí. Řešení symmetrické.
+Napsal
+prof.  FR.   NOVOTNÝ
+na c. k. reálce v Českých Budějovicích. Předloženo   dne   7.   června  1912.
+Označení a zkratky v tomto pojednání použité.
+et [elt e2t e3l vůbec e\J\ okamžitá elektromot. síla kté fase generátoru, E její amplituda.
+e't [e\t e'z> e's( vůbec c'ki] okamžité napjetí sítě  (síťové), E\, E'2> E'3 vůbec E'k amplitudy.
+Při hvězdovém spojení ještě
+e*t [e*lt e*^ e*$, vůbec e*ki] okamžité napjetí v ktém ramenu hvězdy E*lt E*z, E*3 vůbec E*k amplitudy (pracovní, hvězdové).
+% [W *o2í ^031 vůbec iokť]   okamžité intensity fasové generátoru, J01 J02 J03 vůbec Jok amplitudy.
+it [ht ht ht vůbec if,ť] okamžité intensity pracovní v ramenech trojúhelníka neb hvězdy, Jl J2 J3 amplitudy.
+i't \i\t i'zt i'& vůbec i'kt] okamžité intensity síťové v přívodných drátech, J\ J'2 J'3 vůbec J'k amplitudy.
+Velká písmena Ek a Jk značí  tedy vždy amplitudu, napjetí nebo intensity.
+Malá písmena ekt ht, která mají v indexu malé ,,t"", značí tedy vždy okamžitou hodnotu napjetí neb intensity.
+Malá písmena ek ik, která nemají v indexu ,,i"", značí veličiny efektivní.
+Veličiny, které mají v indexu ° (kroužek), vztahují se na generátor.
+Tedy
+rQ odpor jedné fase generátoru.                                     1 Tyto veličiny buď-
+L0 koeficient samoindukce jedné fase generátoru.        v též pro všechny C0 kapacita jedné fase (eventuelně vložená) generátoru, l fase stejné.
+Odpor, samoindukce, kapacita přívodných drátů (síťových) bucítež=0.
+Rozpravy: Roč. XXI. Tt. II. Č. 24.
+XXIV. ﻿Odpor, samoindukce, kapacita vnějších větví pracovních buďtež rt r%
+*""1   -^2   -^3   Ví   C2   C3.
+v = 2 « x frekvence.
+Lv = induktivní reaktance = induktance.
+L v
+-L— = reaktance kapacity (= kapacitance, též kondensance) .
+-^ — = celková reaktance induktivní i kapacitní, značím ji Q.
+U
+Obr.  1.
+r.	**              i	k r,
+U		U
+C0	^	E;           Ci
+1. k.		j; ^
+Obr. 2.
+Tedy   (,„
+-    vůbec 9k=Lkv ~
+Velké R značí vždy impedanci, tedy
+Rk = Vřf'+ Qk2 je impendance &-té pracovní větve vnější, t. j. k-ik strany trojúhelníka neb Ltého ramena hvězdy.
+R0 = Vr^ + po2 je vnitřní impedance jedné fase generátoru.
+& = Y(r0 + rk)2 + (QO + (ík)z celková impedance vnitřní i vnější jednoho kruhu.
+tpk = fasové posunutí (diference) proudu oproti elektromotorické síle první fase generátoru.
+xxiv. ﻿$k = fasové posunutí (diference) napjetí oproti elektromotorické síle první fase generátoru.
+cok = fasové posunutí (diference) proudu oproti pracovnímu napjetí, způsobené pouze vnější reaktancí k-té strany trojúhelníka neb hvězdy.
+r
+Wk = — \e'kt i/n d t efekt spotřebovaný v k-té větvi pracovní, t. j. v k-té
+o straně trojúhelníka neb hvězdy.
+r
+i r
+Wk,h = — \e'kt ÍM dt jest efekt měřený mezi dvěma přívodnými dráty
+o
+(k — l)ním a  (k -f- l)ním,   mezi nimiž  je napjetí e'k a z nichž v jednom je proud ÍH.
+W celkový efekt všech větví.
+V povaze symmetričnosti řešení vězí, že:
+index k — 4  značí totéž jako k = l
+k = 5     „        „        „    k = 2
+k = 6     „        „        „    k = 3
+k = O     „        „        „    k = 3.
+Šipky ve výkresu udávají směr kladného čítání.
+I  Spojení v generátoru i ve větvích pracovních trojúhelníkové.
+Značiž ekt okamžitou elektromotorickou sílu v k-té fasi generátoru tří rasového, E její amplitudu. Pak jest vždy splněno
+evt = E sin v t,    % = E sin (v t —- 120°),    eat = E sin (v t — 240°) obecně
+ekt = E sin (v t — ÁT=~1 120°) kdož                                     •:
+k = l, 2, 3 a v = 2 jř x frekvence.
+Rovněž   jest v každém okamžiku elt + % + % = O čili L e^ = 0. Pro každý druh, v němž existuje střídavý proud, jest splněna základní rovnice  i, r — et + eu + ca   čili et = i( r — eLt — ect,   kdež eLt jest
+okamžité  napjetí   samoindukce  eLt = —L -^- a ea jest okamžité napjetí
+kapacity určené rovnicí      Ct = — -4- kdež L jest koeficient samoindukce,
+(t t       •     o
+C kapacita.
+Bude tedy zníti základní rovnice pro &-tý kruh složený z &-té fase generátoru, dvou drátů přívodných, a &-té strany trojúhelníka (viz ozna-•čení ve výkresu)
+l* XXIV. ﻿ekt = E sin (vt — k—l 120°) = r0 inkt + rk ik + L{}
+d ikt
+dt
+. a t
+kdež y(}, L0, C0 značí odpor, samoindukci a kapacitu (po případě vloženou) jedné fase generátoru, ifíkt okamžitou intensitu kié fase generátoru, ikl okamžitou intensitu kté větve pracovní.   O drátech přívodních předpokládám, že odpor jejich jest roven nulle a že nemají ani samoindukce ani kapacity. rk Lk CŘ značí odpor,  samoindukci a kapacitu kié pracovní t. j. vnější větve (= strany trojúhelníka); tyto buďtež obecně různé pro každou fasi. Po derivaci nabude poslední rovnice tvaru
+ir             /   i      L - i i i™>\
+Ev cos (vt-k- l 120"") = rtt
+dz ÍM
+kt
+
+(1)
+Tato rovnice obsahuje v sobě tři pro k = l, 2, 3. Pro vnitřní kruh generátoru bude
+d
+d2
+C      V 03'      '      '02'     '      ""Wť O
+Vzhledem   ku    elt + % + % = Z ekt = O    promění   se při   použití symboliky
+d    „ .          T    d2        .           l        .
+O = r0         2j tokt + -t-o  j 4-2 ^ tokt H—pr- -^ ?ofti!.....(«i
+///                           ///""                     i
+M- í-                                       íť v                                ^0
+Značí-li ř'w okamžitou  intensitu v &-tém  přívodném  drátu  sítě  čili síťovou, bude patrně
+^2/ = *03< — *oi< = % — % obecně i'kt = íoft-n< — %-n?/ = í'm< — *FT2í   (3)
+Při tom pokládám v generátoru i ve větvích pracovních směr proti-rafijový za kladný, v drátech přívodných (síťových) pokládám za kladný směr od generátoru. Ve výkresu vyznačen směr kladného čítání šipkou.
+Sečtouce rovnice 3 a fi y, obdržíme:
+*'i/ + i'* + i'# = ° čili 2 i'kt - O ........ (4).
+Rovnice l, 2, nutno integrovati tak, aby splněny byly rovnice 3 a (l y. Zanedbáme-li člen mající vliv pouze na počáteční průběh, můžeme předpokládati integrály ve tvaru
+XXIV ﻿iokl = Jok sin (v t — (jpoft) = Uk sin v t — bk cos v t    ....   (5) iM = Jk sin (v t — rpk) = ak sin v t — fa cos v t.....(6)
+kdež Jk Jok jsou amplitudy příslušných intensit proudových.
+(pok <pk značí fasová posunutí proudu oproti elektromot. síle první fase generátoru.
+Dosadíme-li z rovnic 5, 6 příslušné hodnoty do rovnic l, 2, 3 a srovnáme na obou stranách rovnic koeficienty při sin v t a, cos v t, obdržíme po delší úpravě
+E cos k— l 120° = akr0+ bkQ0 + cikrk + faQk.....(7)
+E sin k — l 120° = bk r0 — ak QO + fa rk — ak Qk.....(8)
+kdež reaktance kapacity i samoindukce shrnuty v jeden člen a
+označeny řeckým Q tedy QO = v L0--------^-      gk = v Lk-------—
+v C0                                v CA
+Rovnice (7), (8) zahrnují v sobě celkem 6 rovnic vzhledem ku k = l, 2, 3.
+Dosadíme-li z rovnice (5) do (2) plyne opět srovnáním koeficientů při sin via. cos v i
+r0 Z! ak + QO L bk = O         r0 21 bk — QO L ak = O
+z obou posledních jde [L ak]* + [L bk]z = 0.
+Poslední rovnici lze splniti pouze tehdáž, když Z! ak = O 2Jbk = O
+čili
+= O = O .
+Podobně dostaneme z rovnic 3 a ft y srovnáním koeficientů
+(9) (10)
+(11)
+Z rovnic 9,  10,  11 plyne 3 av = 3 «! — (cřj + az + a3) Zavedu zkratku
+«  = y  («1   +   <*2   +   as)>
+-(12)
+Tento obrat nám umožní provésti symmetricky celé řešení, kteréž jinak naráží na veliké obtíže. Bude pak
+obecně
+(13)
+ak = cck — a        bk = fa —
+XXIV. ﻿«L cos A; — l 120°
+Dosaďme tyto hodnoty do rovnic 7. a 8., obdržíme
+(cck — «)r0-\- ctk rk + (0* — p) p0 4
+aneb jinak uspořádáno
+(0* — 0) r0 + ftk rk = E sin k — l 120°
+«* fa + rk) + fa (QO + Qk) = E cos k~^l 120° + a r0 + ft <»„ — a* (Po + C*) + l8* (yo + rk) = E sin k — l 120° — a <jfí + ft rn Z obou rovnic plyne řešením «* [fa + r*)2 + (Po + P*)2] = fa + rk) [E cos AT=~1 120° + a r0 + ft
+— (Po + P*) [L Sř'w k — * 120° — a 9o + /3 r„]
+/J* [fa + ^)2 + (Po + P*)2] = (Po + Qk} [E cos k^l 120° + a r0 + ft +   r  + rft    L srn A; — l 120° — a >   + ? y.
+Výraz      (y0 + yA)2 + (^o + ^ jest úhrnná impendace L-tého kruhu, budu ji značiti velkým Ř, tedy A2 = (r0 + rk)2 + (g0 + Qk)* ....   (14) Jest tedy
+Kk Rk2 — fa + **
+— (Po + P*)
+/3* Ri? = (Po + P
+cos JT^I 120° + a *« * — l 120° — «
+ft p0] -
+r0]
+[E cos kl 120° + a r0 + |8 <*0] + + (r0 + r*) [L sin k — l 120° _ « Po +/3 rj.
+Klademe-li v těchto rovnicích postupně k = l, 2, 3 a sečteme první tři a druhé tři, obdržíme se zřetelem ku
+27 «É = «   + «2 + ^  = 3 a
+3 a = — E
+(.r0
+3/3 =
+íi-
+(«r. + /» ío)
+Zavedu zkratky
+120° — —       ~ ™s k^l 120°
+r*     •
+120°
+- («
+-ti
+cos k — l 120°    +
+Po ^gfe srn /fe— l 120° — r° ÍJk   cos k — l 120°
+k=i
+A=I
+Po + P* ftf~
+. .  (15)
+(16)
+XXIV. ﻿— fl r0) q
+Pak máme
+3 « = — E sz + (a r0' + ft Q0) p + (
+3/3=      Esl+ (ccr0 + f}Q0)q—(ccQo — (i
+Tyto rovnice upravíme na tvar
+« ('o P + Qo q — 3) — /* ta 9 — Co L) = ^ « K 9 — Co />) + 0 K /> + Co ? — 3) = — Rešíme-li tyto rovnice dle a, ft, obdržíme
+(r0 p + p„ q — 3) + E st (QO p — r
+a =
+= E s, (PQ p — r0q)—E st (r0 p + QO q — 3)
+(17)
+0p — rQq)
+anebo, zavedeme-li ještě označení ro P + Qn q — 3 = M s2M + slN
+a = E
+M2 + ]V2
+= E
+s2N — s1M
+M2 + N2~~
+(17')
+Na pravých stranách rovnic 17 a 17' je vše známo.    Lze tedy z nich a. fi vypočísti.   Pak najdeme snadno a* fa z rovnic již dříve uvedených.
+ak Ňkz = (r0 + rk) [E cos k — l 120° + a r0 + ft (>„] — — (QO + Qk) [E sin k—l 120° — a QO + |3 r0]
+= fa + Qk) [E cos k— l 120"" + a r0 + 0 pj — r   + r     L srn fc— l 120° — « »   +    ^
+(18)
+Nyní lze nalézti též ak bk z rovnic 13, tedy
+ak — ak — a           bk = fa — /3.
+Rozvineme-li rovnice  (5)  a  (6)  a porovnáme koeficienty u sin v t
+a cos v t bude
+odtud pak plyne /* =
+Jk cos yk = uk Jk sin (pk = fa
+cos <pok — ak sin <pok = bk
+fa2,    cos rpk = -j- =
+ttk
+fa sin ff>k — -j— =
+""k
+V ač + fa2'
+
+.(19)
+10                              *""»
+bk2,   cos <()<* = -- =
+v V ak2
+bk
+.....(20)
+V«** + bk*
+XXIV. ﻿Pomocí rovnic (18) najdeme snadno ještě Jk = V«č + W =
+(19')
+l    , -- ._                       - -
+*-JLl(EcosL^l 120° + ar0 + PQ0)2 + (Esink — l 120° —
+Intensita proudu v k-1™ drátu sítě bude
+i'kt = J'k sin (ví — (f>'k) = a' k sin v t — ft'k cos v t
+kdež J'k jest její amplituda a y'k posunutí proudu opět proti elektromotorické síle první fase generátoru.
+Z rovnic (3) najdeme snadno
+J'k =
+V(ak+1 —
+cos y k — -=7- =
+w A
++z cos (qpft+i —
+- Ctk+2         •         ,           fik         fik+l -
+-, -- ,   siny k = -jj- = --- T>
+<J k                                                     *  k                          J k
+- fi
+/t+2
+,
+t g qj k — — r~ = a k
+Okamžité napjetí síťové e'M mezi pří vodnými dráty (k + l)11™ a (k + 2)hým, jež jest zároveň napjetím kté pracovní větve, dáno jest rovnicí
+d e'
+_-
+ar
+d ikt a t
+T   dz ikt        **< i j * •   • • v + Lk-j-^ + -^- kdež ikt ]iz známe. ů
+Předpokládejme integrál ve tvaru e'M = E\ sin (v t — ^'*). Dosadíce za ikt najdeme
+E'* v cos (vt — ty'h} — E'k v [cos v t cos ý'k + sin v t sin ií>'k] = rk («k v cos v t +
++ ftn v sin ví) + Lk ( — Kk v2 sin v t + fa v2 cos v t) + 7^- (a* sin v t — f}kcosvt).
+*-»4
+Odtud  plyne  srovnáním   koeficientů  u  sin v t  a  cos v t  vzhledem
+k označení Lk v — -~ — = Qk. C k v
+E'/; sin ý'k = rh fa — «* Qk E'k cos ty' k = rk ak + /3* <J/;
+ty' k značí fásové posunutí napjetí síťového oproti elektromotorické síle první fáse generátoru.
+Z rovnic (22) najdu snadno E'k t. j. maximální napjetí síťové
+Výraz Vrk2 + Qk2 značí impedanci pracovní větve &té t. j. &té strany trojúhelníka, označím ho                 _
+Rk=Vrk* + Ql*   ........... (23)
+XXIV. ﻿Pak jest ovšem Dále bude
+(24)
+ak
+<Pk — tg cok
+CCk  + fik
+T     ,
+L ~r           .
+l + tg rpk . tg co
+kdež cok jest fásové posunutí napjetí pracovního oproti proudu způsobené reaktancí Qk kié strany trojúhelníka a jest určeno relací
+/                             v ™                                                                                                         / L~\ t~\
+tgojk =-      ............(25)
+Bude tedy tg ý'k — tg (tyk — cok)   tudíž také i!>'k = q>k — cok .    .   . (26) Pak jest též okamžité napjetí síťové (pracovní) dokonale určeno
+e'kt = E'k sin [y t — (cpk — coft)] Pro veličiny efektivní bude samozřejmě
+(27)
+•, _
+=                             *""        2   """"
+í
+Napjetí  ztrávené  uvnitř generátoru   v kté  fási   najdeme   podobně
+eokt = Eok sin [v t — ((pok — c»0)],
+kdež jest
+<pok určeno rovnicí (20)
+l>  ^WO = T°-
+Napjetí samoindukce v k-té fási vnější (pracovní) najdu z rovnice
+_»   d ikt
+Bude
+0Lft/ = ELk sin (v t — yk — 90°), kdež ELft = Jk Lkv.
+Napjetí kapacity najdu ze vztahu
+d eCkt                ikt    ,
+—r^ = —-^ integrací. a t             Ot
+Bude
+eCht = ECk sin (vt — <pk + 90°), kdež je ECk = Obě poslední lze shrnouti v jediné napjetí reaktanční em = EQh sin (vt — tfk — 90°) kdež EQk = ELk — ECk =JkQk.
+XXIV. ﻿vzhledem ku
+27 čoAí = /?„ tedy
+Z rovnice c*, =
+10
+Některé důsledky obecné.
+L i^ = L (ak sin ví — bk cos v t) = O 27 ak = O 2! bk = O tedy L iokt = *w< +
+IM (v / + «„) 27 0* — #0 cos (v í + 27 coAí = e01/ + e02, + e03t = 0.
++ 27
+= O
+-f
+jde 27 č,w = 27 eokl + 27 e'M.
+Dle původního předpokladu jest 27 ekí = O    tedy bude též 27 Dle rovnice  (4) jest též 27 i'k. = 0. Avšak 27 % není obecně rovno nulle, neboť
+27 íft/ = sin v t 27 ak — cos v t 27 pk a ježto obecně 27 ak -~» O   27 /3ft >- O    tedy též obecně 27 4, ^ 0.
+Efekt. Efekt v &té větvi pracovní spotřebovaný
+= 0.
+
+Wk
+o 1    f EV       •     r              /                 \
+= •— l -o* sin [ví — (tyk — Wfc) ^ .)
+t,
+sin (vt
+d t.
+Provedeme-li integrace, obdržíme pro delší redukci
+EV      T                                 EV            7
+Wk = —^—- cos ok = —-^ . -^=.. cos (ók = e'\ ik cos cok .   .   . (28) 2                  Y2    V 2
+kdež e'k a ik jsou efektivní napjetí a intensita a
+cos cok =•
++
+Tedy celý efekt všech tří větví
+W - W^ + W2 + W3 = 27 Wh = 27 e'h ik cos cok.
+K tomuto měření efektu jest třeba tří wattmetrů.
+Avšak jest možno změřiti celkový efekt všech větví jen pomocí dvou wattmetrů.   Toto měření zakládá se na následující větě:
+Efekt všech pracovních větví rovná se součtu dvou efektů měřených mezi dvěma pří vodnými dráty a drátem třetím [algebraicky je to vlastně rozdíl]. Důkaz:
+Okamžitá práce v celém obvodu pracovním jest
+Lt = e\t . % + e'# . izl + e'st • %
+XXIV. ﻿11
+tedy též
+i   r              i   r«                 i   r                  ir
+— f Lt d i = — ( e\t ilt d t + — l e'zt i#dt-\ -- ( e'# . i# d i   čili
+00                     O                     O
+W = Wí + W2 + W3 .......... (29)
+Jest vždy splněno e\t + e'# + e'st = O, násobme ^ bude e'lt % + e'v ht + + e'3t i# = 0.
+Poslední rovnici odečtěme od první; máme
+Lt = e\i (ilt — 40 + e'3t (i3t — i0). Jest však dle (3)
+%         V  ~  * 3l>      *2*         ^3Í  ==  * !<•
+Jest tedy
+Lt — e\t i's> — e'st i\t-
+Tuto rovnici násobme d t a integrujme přes periodu jest
+l  r               l  r                    l  r
+- \ LI d t = — l e\t i'3t d t -     - l e'3t i\t d t.
+00                   O
+l ř
+-   l LI d t jest celkový efekt celého obvodu pracovního, tedy W. o
+l rr r
+~   \e'\t i' v d t = e\ i'3 cos (<pl — w1 — <p'3) je   efekt   měřený   mezi  drátem
+o
+2hým a 3tím   ježto e\ značí napjetí efektivní mezi' 2h*m a 3tlm drátem a i'3
+značí intensitu efektivní drátu 3ho. Tento efekt chci značiti W13. Bude tedy při tomto označení
+l   l W13 = — l e\t i'3i dt = e\ i'3
+cos
+podobně
+l  ř = — l e'3t i\t d t = e'31\ cos (<p3 — «3 — <JP'J)
+je efekt měřený mezi 2hým a lním drátem.
+Máme tudíž pro celkový efekt W všech větví pracovních dohromady W = W13 — W3l.    Záměnou cyklickou dostaneme ještě
+......(30)
+W = W»—W„ = W„ — PF19 = WM—
+31
+21
+12
+wk
+obecně W = Wk+1_k — Wk,k+i kdež jest = — f e'*t *v*+i,<dt = e'k ťk+i cos (<pk — ok— <p'k
+Druhý člen  Wk,k+i jest téměř   vždy  negativní a dlužno jej tedy připočítati k prvnímu.
+XXIV. ﻿Příklad. Předpokládejme vnitřní odpor i reaktanci generátoru rovnou nulle.
+rQ = O    p„ = 0.
+V praksi ovšem nelze tento předpoklad dokonale splniti, leda přibližně. Činím tento předpoklad proto, abych provedl kontrolu dosavadních výsledků obecných. Při tomto předpokladu lze totiž některé veličiny snadno vyšetřiti.
+Poněvadž generátor v tomto případě nespotřebuje žádného napjetí, musí napjetí fásové (generátoru) okamžité ekt, maximální E, i efektivní e rovnati se napjetí síťovému eht — e'ki, E = E'k, c = e'k a intensita v k-té
+E                                e
+pracovní větvi maximální Jk=-^~,  efektivní ik = -^- a   okamžitá ikt = _ _                       Rk                             «*
+Jk sin (v t — k — -l 120° — -G)k}, kdež fásové posunutí proudu oproti napjetí
+určeno   relací ig djk = — .
+rk
+Vyšetřeme nyní příslušné veličiny z našich obecných vzorců. Bude dle (16)
+t-z-S?       í = i-^r       A-*-
+Ze vzorců (18) jde
+ak = -- E cos /T=~l 120° --       sin ^=1 ' 120° Rk                                      Kk
+L
+= -^—(cos cok cos k — l 120° — sin cak sin k — l • 120°)
+tedy ak = — cos (01* + k — l • 120°)
+a podobně fik = -5- sin ((ok + k — l ' 120°)
+kdež jest dle (25)  tg cok = —.
+E2 Z posledních rovnic jde K^ + fit? =------
+Dle (19) pak jest Jk = y Ukz
+» 2 • E
+E                                        e
+tudíž                             Jk — -yr- a pro efektivní ik = -=r- ,
+«*                         ^-^
+Dle rovnice (24) jest vždy E'k ~ Jk Rk, tudíž v našem případě E'k = E. Pro efektivní napjetí jest pak ovšem také e'k = e čili e\ = e'2 = e'3 = e. Z rovnice (19) jde dále
+íf f* -— - *f  («* + ^=r""l 120°)
+tedy                                        <p* = WA + ^ --* l 120°
+XXIV. ﻿13
+čili                                       (pk— cak = k— l 120°
+z toho specielně
+fpl = MJ      qp2 = OJ2 + 120°       <p3 = o>3 + 240° kdež   tg(ok = — .
+Efekt   W13 — 0'j i'3 cos (^ — col — rp'3) = e i'3 cos qp'3 =
+F T      n  - - n          F
+—       J 3        i       2   — „ fa,   _ r \
+2        J'3        l   lai        ""
+TT^31 = ^'3 ^'j cos (<p3 •— o33 — ^p'i) == ^ *'i cos (*P'i — 240°) =
+E T                                       E J'
+— ——— cos (p\ cos 240° H-------— sin qp\ sm 240°
+^j                                    ^
+E
+Nyní najdu
+L;                          L                                      L
+«t = -=- cos K!          «2 = ~B~ cos (W2 + 120°)          a3 = -Q- cos (ca3 + 240°)
+E                            E                                          E
+/3X = -p- sm to!         /32 = -5- sm (oj2 + 120°)          /33 = -^- sw (o>8 + 240°).
+Dosadíme tyto hodnoty do výrazů pro W13 a W3l.    Po delší úpravě bude konečně
+WÍ3 = e i{ cos m1 + -=- e iz cos a)2 -\—— e iz sin co2          kdež e i jsou
+I      hodnoty * efektivní. _                      _
+Odtud W13 — W3Í = e ^ cos ojj + e i.2 cos eo2 + e i3 cos co3 = Wí + W2 4-Tím správnost věty o efektu potvrzena.
+Specielní případ. Všechny fáse zatíženy stejně.
+Při stejném zatížení všech fásí bude splněno
+rt = r2 = r3 = rk = (označím prostě) r Pí — ^2 ~ Ca == 9k = (označím prostě) Q pak bude též (dle vzorce 14)
+= A = ^3 = Řk = (označím prostě) R = V (r0 + r)'2 + (QO + Dle vzorců 15) bude v tomto případě
+Sj = O           s2 = 0.
+Pak plyne ze vzorců (17) a (17')
+a = 0        /3=0        M = — 3        Af = 0
+XXIV. ﻿14
+tedy bude též dle vzorců (18)
+fl.*2 = - (Co + tf)       - - ('o + ')        V/3 • Pak bude dle rovnic (13)
+Í7o   = U-,
+Ze vzorců (19) a (20) pak plyne pro amplitud}' intensit pracovních
+a pro amplitudy intensit fásových [t. j. v generátoru]
+Jsou tedy při stejném zatížení všechny amplitudy intensit, tudíž i intensity efektivní, jak pracovní, tak fásové (generátoru) stejné
+77
+""l  == ""2  == »8   == »01   =^ ""02  == 'M  — «ř   — —^- .
+Intensity s#ov<? t. j. v jednotlivých přívodných drátech sítě bndou dle vzorce (21) J\ = V(«2 — «3)""2 + (^2 —~^J§  = j \ 3, podobně J'2 = J VŠ"", J'3 = JVŠ
+tedy
+7'        -   7'             7'             7   V  ^ --___    ^ «/   j   — t/  2   — **   3   — Ir     *   O   —------g        .
+Pro fásové posunutí proudu oproti elektromotorické síle první fáse bude při stejném zatížení
+
+XXIV. ﻿15
+- fó (Ti + 60°)] = tg (180° + T! + 60°)
+úhly (qpj — 60°) a (qpj + 60°) hoví sice algebraicky, ale nikoliv věcně, neboť pro QO + y — O, t. j. qpj = O musí intensity proudové a elektromotorické síly co do fáse souhlasiti. Bude tedy
+Toi = Ti
+<p02 = «p2 = 180° + 9X — 60° = <px + 120°
+Toa = T3 = 180° + 9l + 60° = % + 240° Pro fásové posunutí proudů síťových najdeme ze vzorců (21)
+— 0,
+CC3
+Odtud vyplývá Podobně
+Co
+>\ = — 90° čili y\ = (ft + 90°. >       V 3
+— tg n tg
+30o}
+Odtud
+g>'2 = q?! + 210° = <p2 + 90° = g>\ Stejně najdeme
+<'   - T  + 90° =   ,   + 240°.
+120°.
+Mají tedy síťové proudy mezi sebou posunutí 120° a oproti pracovním a fásovým proudům jsou o 90° pozadu.
+Rovnice (25) dává v našem případě o^ = eo2 = oj3 = (krátce znač'm) o>,
+kdež tg oj — — . r
+Vnější impedance v pracovních větvích budou
+R± = ^2 = R3 = (krátce) R — Vf*-\-ý a amplitudy síťových napjetí dle vzorce (24) vesměs stejné.
+E\ = E\ = L""'3 = (krátce) E' =JR=-^-.R=. Pro hodnoty okamžité bude
+'
+V — *'o2/ = J sin (vt — <?! — 120°)
+ť'^ = J' sin (vt — <?i — 90°)
+ťy = J' sťw (v í — q?t — 120° — 90°)
+/•'3, = ,/' SNÍ (v / — <pt — 24(1° — 90°)
+XXIV. ﻿16
+e\t = E' sin [v t
+— coj] = E' sin (v t — <Pi +
+c'2l = E' sin [v t — (<jp2 — o2)] = E' sin (v t —
+— 120°)
+= E' sin [v t
+— w3)] = E' sin (v t — <f1 -f m — 240°)
+Konečně efektivní napjetí síťové (pracovní)
+E'
+R
+efektivní intensita pracovní i fásova
+*1  = *2  = *3  == ^01 =~  *02  =
+efektivní intensita síťová
+V2
+e
+~w
+Tedy při stejném zatížení všech větví jsou i intensity i napjetí všech fásí stejné. Okamžité hodnoty mají rozdíl fásí 120° resp. 240°.
+Jestliže při stejném zatížení fásí lze ještě také položiti rQ = O (>0 = O
+a efektivní
+pakT? = R,   J =-= , E' =E
+i = -=-, e' = e, i' = i V8.
+XV
+II. Spojení v generátoru i ve větvích hvězdovité (viz výkres).
+Označení ponecháme táž jako při spojení trojúhelníkovém.   Jenom napjetí pracovní  v  ramenech  hvězdy   (zovu je  též hvězdové) označím
+ještě e*lt e*2t e*st>
+Pro elektromotorické síly jednotlivých fásí (slují též fásova napjetí) jest opět
+elt — E sin v t
+ezl = E sin (v t — 120°) obecně eu = E sin (v t — ÁT=~1 120°) e#=E sin (vt — 240°), jest tedy splněno v každém okamžiku
+% + % + ft* = O čili L eu = 0 ........ (31)
+Pro libovolnou větev proudovou bude
+d tkt ekt — ek+\tt = (r0 + rk) ikl + (LQ + Lk) —   -- eC()t — eCht
+[ (r0
+Vzhledem ku
++ (L0 + Lk
+. / = — a t
+
+^~ — ec0t — eCk+lt J .
+
+bude po derivaci
+XXIV. ﻿17
+d   ,               .      ,          > d ikt
+-jj(ekt-ek+l>t) -(rt + r4)Tr
+,r    ,   T \        kt   ,     kt    ,     kt (L0 + Lk) -^^- + -- + --
+[/v -i- « (r0 + *+
+d2ik+i,t
+.(32)
+Takové rovnice existují tři pro k = l, 2, 3. Jest pak
+ř*— *»+u = E [sin (v t— F=H. 120°) — srn (v ť — k 120°)] = L V3 cos (v t — 2 k — l 60°)
+. v . srn (v / — 2 fc — l 60°) =
+= _ L v
+v t . cos 2 k — l 60° + E v V3 . cos v t. sin 2 k — l 60°
+Další rovnice vězí v podmínce, že se elektřina nemůže ve středu hvězdy hromaditi, tedy
+ht + % + % = O čili 27 iht = O........(33)
+Integrál rovnice (32) supponuji ve tvaru
+iki = Jk sin (ví — qik} = ctk sin v t — 8k cos v t.....(34
+Zjednejme si napřed
+d iki —-— = ak v cos vt-{-pkv sin v f
+(t t
+. 0 ' = — KH v2 sin v f 4- Skv2 cos v t. d t*
+Dosadme  tyto  hodnoty do  rovnice   (32)   a porovnejme  členy při
+sin v t a. cos v t.  Bude
+r
+v -\- Lk v) —
+T      v)
+\LO
+60°.........(35)
+= — E Všcos 2 k —1 60°.........(36)
+Označím zkráceně
+Lv___1_=        Lkv___1_ = ^
+CQ V          ''                        Ck V
+Rovnice (35) a (36) nabudou tvaru
+tt* (^o + rk) + fa (í>0 +(>*) — [a*+i (ro + r*+i) + Pk+i (QO + P*+i)] =
+= E V 3 sin 2 k — l . 60°.........(35')
+Rozpravy: Roč. XXI. Tř. II. Č. 24.                                                                                        2
+XXIV. ﻿18
+0* (r0 + '*) ~ «* (Po + C*) — [0*+i (yo + 'A*I) — a* = — E Y~3cos2~T^l . 60°
+(36')
+Zvětšírne-li v těchto  dvou rovnicích postupně index  k na a k -\- 2, obdržíme ještě čtyři podobné rovnice. Z nich pak plyne vhodnou úpravou
+3 [a* (rQ
+[0*
+0* (p0 + p*)] — z] C** (*o + r
+A = l
+= 3 L cos F^l . 120°
+(Po
+= 3 L srn Označím prozatím zkráceně
+[a* (r0 + rk)
+=~l . 120°.
+— «* (Po
+(37)
+bude       3 [a* (r0 + rk) + 0* (p0 + p*)] = 3 E cos k — l . 120° + A' 3 [0* ta + f*) — a* (Po + P*)] — 3 E sin k — l . 120° + B'. Z obou posledních rovnic jde řešením podle a*, 0* 3 ak \(rn + n)2 4- (on -
+= 3 E
+cos
+. 120° —
+— (po + 9k) sin k — l. 120°] + A' (r0 + r») — B' (p0 + p,)
+3 0* [(r0 + ^)2 +(Po + P*)2] = 3 E [(p0 + p,) cos F=\ . 120° +
+(r0 + r*) sťw * — l . 120°] + A' (p0 + p*) + B' (r0 + rk). Označme opět
+(38)
+Vzhledem ku rovnici (33) t. j.
+27 iki = O čili Z"" (a* sin v t — 0* cos v t) = O
+bude též                           27 a* = O a' S0* = 0.
+Dosadíce do těchto rovnic za a* a 0*, obdržíme
+S?
+— B'Z
+Po
+0=3270* = —
+1.120°+
+K k
+=l . 120°
+&
+L»»
+XXIV. ﻿19
+Označím opět
+=""1 • 120° — =HL . 120° + go
+cos k^~\ . 120°
+cos L=Í . 120°
++ Qk
+.(39)
+(40)
+Nyní bude
+O = — 3Ls2 + A'p — B'q 0=       3Lsx + A'q + L'/>.
+Odtud plyne řešením dle ^4' 5'
+= — ZE A l         U =
+kdež
+, _ •/J    —         o -C-
+q S2
+p2 +
+B =
+P Si + q s2
+Pomocí těchto zkratek nabýváme konečně vzorců pro Kk a
+= E {(r0 + rk) [cos k=~\ . 120° — A] — — (Po + 9*) &n k — l • 120° — B]\
+(41)
+(42)
+fa Kk* = E \(r0 + rk) [sin k — l. 120° — B] +
+(42)
++ (Po + Qk) [cos k — l . 120° — .4]}
+Na pravé straně obou rovnic jsou veškeré veličiny již známé aneb je lze aspoň vypočísti.   Lze tedy vypočítati též cck, fa. Pro amplitudu proudovou kté fáse bude pak
+jk = VT^r+^a...........(43)
+a pro fásové posunutí proudu i^ = Jk sin (v t — qp*) = ak sin v t — fa cos v t
+cos (f>k —}-;- =
+fa
+fa
+ft*
+Též lze do počtu zavésti pomocný úhel, klademe-li ^o+ r*
+Kk
+pak jest též
+= COS
+= sin
+.(43)
+.   .(44)
+l
+s, = L -5- sin (á)k + k — l . 120°),      s* = — 27-g- cos (ť&* + ^ — l . 120°) Kk                                                            Kk
+COS (Ok
+=E [cos (č>k + k^~\ . 120°) — A cos
+B sin
+faKk=E [sin (K>k + k~^\ . 120°) — A sin ňk — B cos
+.   .(42')
+2*
+XXIV. ﻿20
+átk značí fásové posunutí způsobené celkovou (vnitřní i vnější) reak-tancí &tó fáse.
+Okamžité napjetí pracovní v ktém ramenu hvězdy e*kt (též hvězdové sluje) najdeme ze vztahu
+""    Si----'«   ""Rl       l      *—R        j    ,                U&'>
+kdež eckt značí napjetí na svorkách kapacity do pracovního ramene eventuelně vložené.
+Derivujíce obdržíme
+a e kt       ..   -- -Ki   i   7-    ""-  -«t   ,   -«í                           /4K\
+dt
+d ikt       j   d2 ikt       ikt ~ďT        *  dt*    h""čr
+Integrál bude ve tvaru e*kt = E*k sin (v t — ^*A) = E*h sin v t . cos t^*/, — E*k cos v t . sin ý*k.
+Dosadíme-li do rovnice (45) příslušné hodnoty za derivace a porovnáme faktory u sin v t a, cos v t, obdržíme
+Jk
+L>ž cos ^** = rk Jk cos <pk + Lk v Jk sin <pk — = Jk (rk cos <pk + Qk sin qp^)
+E*k sin il>*k = rk Jk sin <pk — Lk v Jk cos <pk -{- • = Jk (rk sin <pk — Qk cos <pk).
+sin (pk =
+cos <pk =
+Odtud jde
+a dále
+tg *l>*k =
+rk sin yk — Qk cos
+čili E*k = Jk Rk tg (pk — tg w
+(46)
+= tg (<P* —
+rh cos (pk + Qk sin (pk         l + tg (pk tg wk odtud                                              ij)*k = rpk — (Ok...........(47)
+kdež (ok jest fásové posunutí způsobené vnější reaktancí cpk &tého ramene a jest určeno vztahem
+^ «*.= -?-............(47')
+Máme tedy pro okamžité napjetí pracovní (hvězdové) e*kt = E*k sin [v t —• ý*k] = E*k sin [yt — (qp* — eo*)] =
+= Jk Rk sin [v t — (qp« — <»*)]........(48)
+Napjetí sítové
+e'kt = e*k+i,t — e*k+z,t — E*k+i sin [v t — (rpk+i — ra*+i)] —
+— E*k+2 sin [v t — (yk+2. — WA+Ž)].......(49)
+Lze je též uvésti na tvar e'M = E'k sin (v t — ^'*) kdež E'k a ^'* jsou určeny rovnicemi
+EV 2  __   IT*       2    l     JT*        2         O  17*         Z?*         ^nr. r_
+-ti*    = -C-   * + l    -T &   k+2,   ---- ^ •L   * + l &   k + 2 COS Lg>A + i----OJ« + 1 ----        /AÍ\'\
+•   • (49 )
+XXIV. ﻿21
+Pro případ r0 = O QO = O, kdy generátor sám nespotřebuje napjetí žádné, lze též psáti
+e'u = ek+i,t — ek+2,t = E [sin (v t — k . 120°) — sin (v t — k + l . 120°)] = E' sin [v i — L^~Í . 120° — 90°] kdež E' — E VŽ.
+E\ = E'z = E\ = Ef = E VŠ a efektivní e\ = e'2 = efa = e' = -^L .
+V ů
+Efekt, Efekt v &tém ramenu hvězdy
+T
+W* = — \ e*kt ikt dt = e*k ih cos ak
+T J
+O
+kdež ekt ik značí hodnoty efektivní.
+Tedy v celém obvodu pracovním t. j. ve všech ramenech hvězdy bude efekt
+W = Z Wk = Wt + W2 + W3 = Z e*k ik cos cak.
+K tomuto měření jest třeba tří wattmetrů, v každém ramenu po jednom. Jest však možno jen pomocí dvou wattmetrů změřiti celý efekt. To zakládá se na větě:
+Efekt celého pracovního obvodu t. j. všech tří ramen rovná se součtu (algebraicky je to vlastně rozdíl) dvou efektů měřených mezi dvěma přívodnými dráty a drátem třetím.
+Důkaz:
+Okamžitá práce v celém obvodu pracovním jest Lt ~ Z e*kt ikt-
+Dle rovnice (33) jest 27 ikl  = O tedy též e\t 2 ikt = 0.
+Odečtěme poslední rovnici od první, bude
+Lt=L (e*kt ikt — e\t ikl) = e\t ilt —
+Jest pak dle dřívějšího vyšetřování e'kt = e*k+\t —e*k+zt-Tedy bude
+Lt = e'zt % — e'st izt a podobně cyklicky _   '            '
+—  p'      i                í>'
+obecně Lt = e'kt ik+it — e'k+it ikt-
+Tuto rovnici násob d t a integruj přes periodu, bude
+w      l Ir Jt      l L   •       ;t      l f '        •  n     w
+W — — \LI a t = — \e kí ik+\t d t------\e k+\,t tkta t = W k k+i —
+r J                  T J                             T J
+o                              o                                            0
+kdež použito označení
+^
+i {•                                   i f ,      .
+= — \e'kt ik+it d t      Wk+\tk = — \e'k+i,t ikt d t
+TT   •/                                                                                      T*)
+XXIV. ﻿22
+Tyto veličiny měří wattmetr přímo.    Tím věta dokázána. Pro případ r0 = O p0 = O lze ještě přetvořiti
+Wk>k+l = e'k ik+l cos [k —l. 1200 + 90° —
+= e'k
+sin (<pk+l — k — l. 120°)                    '   '   ' (5°)
+Wk+1>k = e'k+l ik cos [k 120° + 90° — tpk] = e'k+1 ik sin (<pk — k. 120°). . (50)
+W = Wkik+l — Wk+l, k = e\ ik+1 cos [k =T. 120° + 90° — tpk+l] -
+— e'k + 1 ik cos [k 120° + 90° — g>k] kdež k = l, 2, 3.
+Jest tedy W = W12- W2Í = W» — W32 = W„ - W».
+Druhý člen je téměř vždy negativní a dlužno ho tedy připočítávati při měření k prvému.
+Příklad číselný pro r0 = O p0 = 0. Budiž E = 100, tedy efektivní e = 70'71.
+	rz - 6	o                            D	= 10    J
+pak jest	dle rovnice	(39)     s1 =        0-14660     s2 =	
+)5               J J	)5                    J)	(40)     p  =        0-34	? =
+5)               J)	5?                    )5	(41)    A   =        0-181	5  =
+»               ))	»                    »	(42)     «! =      13-66	0i =
+		«2 = — 18-43	/32 =
+		«3 =        4-77	03  =
+JJ               )J	5)                    í)	(43)     ^ =      17-06	J2  =
+efektivní	proudy		
+	j	«/«,	
+i	i	19-0fi      V             2         1^-ft	fi                4         -
+	1      V2	X^   UU          tť>   ----  •     .. -^-   ----   -!• *J  v/v?          c-o   ---- V2	
+0-02464 0-36 0-240 10-22 1-80 = —12-02
+18-48   J3 = 12-96
+Maximální napjetí síťové E' = E V3 = 173-21,
+efektivní e' = -7^ = 122-4
+V2
+maximální napjetí pracovní    E\ =J1Rl =   85-30 efektivní e\ = 60*32
+L*2 = J2 R2 =   92-40                 č*2 = 65-33
+L*3 =JSRS = 129-6                  č*3 = 91-6
+Efekty partiální v jednotlivých ramenech W± = e\ i± cos ^ == 437 W2 = 684 W3 = 506 tedy celý efekt W = Wí + W2 + W3 = 1627 Wlz = 160       W21 == — 1467       tedy W = W12 — W21 = 1627 Ww == 166        W32 == — 1461         ,,      W = Ww — WM = 1627
+w   _j_ Fjai         w   _:___I04.fi                  iy —-W     —W   -
+rr «M   —  tyOJ.              rr 13 —— -----  AV/rr'l                ,,          r r     ----   rr 3|           r r 13 —
+tedy souhlas dobrý.
+Fásová posunutí proudů
+9l = 36° 50'        <?2 = 174° 15'        rp3 = 291° 29'.
+XXIV. ﻿23
+Specielní případ hvězdového spojení. Všechny fáse zatíženy stejně.
+Zde jest
+7t = r2 = r3 = (krátce) r
+0i = 9z = 93 =      M      9 tedy také
+Dle vzorce (39) jest vzhledem ku
+3                                                              3
+V sin k^^l 120° = O a  V cos k^l . 120° = O
+*=i                                   *=i
+st = O                 s2 — 0.
+Dle (40) jest
+..  r« + r        .  cos w              .„ pn + o        ,  sť« ^
+dle (41)                      4=0                  S — O
+dle (44)                          M! = ó>2 = w3 = (krátce) w
+kdež G) určeno vztahem       tg w =    °   — .
+Značí-li (Ok posunutí fásové způsobené pouze vnější reaktancí &tého ramene, jest
+tg ca* — — tedy též o* = o^ = cj2 = o»3 = (krátce) to.
+Dle (42) a (42') jest
+L                    ___
+Kk=        [(rQ + r) cos k — l . 120°
+srn F=""l . 120°] =
+= -L- cos (co + L — l . 120°) 0* = -S- [('o + ') SÍ'M ^=^1 • 120° + (0o + 0) cos r^l . 120°]
+= -g- sin (co + k — l . 120°)
+A
+==Ji=j2= ,/3 = (krátce) J.
+Fásové posunutí proudu
+cos tpk =-^- = cos
+o> + F^l . 120°) Ti . 120°
+odtud
+pak bude okamžitá intensita
+iM = Jk sin (ví — qp*) = J sin (v t — ra — k — l . 120°) .
+Tedy při stejném zatížení jsou intensity všech ramen stejné a liší se ve fási o 120°.
+XXIV. ﻿24
+Napjetí pracovní (hvězdové) okamžité bude dle (48) e*kt = E*k sin [v t — (<p* —• to*)] = E* sin [v t — co — k — 1. 120° + co] a maximální
+-""
+E*k = L*=«//?• = J
+f2    l
+'
+, + r)2+ (<>0 + y)2 Napjetí síťové bude dle rovnice (49) e'ht = E* [sin (vt — á — k. 1201 + o) — sin (v t — co — L~+~Í . 120° + co)]
+e'u = E* V 3cos [v t — « — k^l . 120° + co — 180°] e'kl = E' sin (vl — & — k=l . 120° + co — 90°)    kdež E' = E* V% Tedy pro hodnoty efektivní bude při stejném zatížení:
+R        e'
+e*k = e* = * R = e -?- = —=
+Efekt
+W} = W2 ==""'V^z == c* i cos w Elekt celý
+W = E Wk = 3 e* i cos co =
+= 3 e ""
+A
+co.
+Specielní případ stejného zatížení.
+Lze-li ještě považovati r0 = O    p0 = O pak bude
+gjfc = o + JT--1 . 120°,    iu =Jsin(vt — G) — k — l. 120°),
+e*kt = E* sin (v t — AT=~Í . 120°),              E* = J R = E,
+e'kt = E' sin (v t — k^=~l . 120° — 90°),    E' = E* VŽ = E V efektivní
+-=                                     .
+«          V 3
+•Efekt měřený mszi dvěma přívodnými dráty a drátem třetím bude dle (50)
+Wk>k+i = e' i sm (ro + 120°) =      e' i cos (co + 30°)
+Wh+l,k = e' i sin (co — 120°) = — e' i cos (co — 30°). Tedy celý efekt
+W = Wk,k+í — WM+lik = e' i [cos (m + 30°) + cos (o> — 30°)] tedy                     W — e' i V% = 3 e* i cos co = 3 e i cos co.
+Efekt v jednotlivých ramenech měřený
+W1 = Wz = W9 = e* i cos co tedy opět celý efekt
+W = Wí + W2 + W3 = 3 e* i cos co = 3 e i cos co.
+XXIV."
