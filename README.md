@@ -2,9 +2,10 @@
 
 Repozitář představuje přílohou k diplomové práci s názvem "Tematické modelování publikační činnosti České akademie věd a umění v letech 1890–1910". Součástí je popis postupu stažení, analýzy a přípravy dat a samotného modelování témat, které bylo provedeno v rámci výzkumné části práce.
 
-Veškerá data jsou dostupná v repozitáži Zenodo:
+Veškerá data jsou dostupná v repozitáži Zenodo: https://doi.org/10.5281/zenodo.10395970
 
-**Reference diplomové práce**
+**Reference diplomové práce**  
+
 KERSCH, Filip. Tematické modelování publikační činnosti České akademie věd a umění v letech 1890–1910. Online. Praha, 2023. Diplomová práce. Univerzita Karlova. Filozofická fakulta. Ústav informačních studií a knihovnictví. Vedoucí práce Jindřich Marek.
 
 ----
@@ -14,6 +15,7 @@ Struktura a popis adresáře datasetu:
 #model/
 #|-- README.Rmd
 #|-- README.md
+#|-- README.html
 #|-- data_download
 #|   \-- data_download.R #slouží ke stažení dat z digitální knihovny
 #|   \-- uuid_ae767058-435d-11dd-b505-00145e5790ea #stažené textové přepisy Rozprav I. třídy
@@ -40,17 +42,14 @@ Struktura a popis adresáře datasetu:
 #|           \-- TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s textovým přepisem
 #|           \-- PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #zkrácený soubor s textovým přepisem
 #|           \-- NOUNS_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s podstatnými jmény z textového přepisu
-#|           \-- CoNLLU_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.json #soubor s obohacenými daty z nástroje UDPipe 2
 #|   \-- rozpravy_trida_2 #upravené textové přepisy Rozprav II. třídy
 #|           \-- TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s textovým přepisem
 #|           \-- PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #zkrácený soubor s textovým přepisem
 #|           \-- NOUNS_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s podstatnými jmény z textového přepisu
-#|           \-- CoNLLU_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.json #soubor s obohacenými daty z nástroje UDPipe 2
 #|   \-- rozpravy_trida_3 #upravené textové přepisy Rozprav III. třídy
 #|           \-- TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s textovým přepisem
 #|           \-- PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #zkrácený soubor s textovým přepisem
 #|           \-- NOUNS_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s podstatnými jmény z textového přepisu
-#|           \-- CoNLLU_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.json #soubor s obohacenými daty z nástroje UDPipe 2
 #|-- topic_model
 #|   \-- LDA.Rmd #dokument popisující spuštění LDA a vizualizaci výsledků
 #|   \-- LDA.html #dokument popisující spuštění LDA a vizualizaci výsledků ve formátu HTML
@@ -63,7 +62,7 @@ Struktura a popis adresáře datasetu:
 ```
 
 ## 1. Stažení dat z digitální knihovny
-V softwarovém prostředí R^[použita byla verze R 4.3.2 (2023-10-31 ucrt) a aplikace RStudio verze 2023.09.1 Build 494] byl vytvořen skript `/data_download/data_download.R`, který stáhne z Digitální knihovny AV ČR identifikátory a základní metadata pro vytvoření přehledu o titulu periodika, počtu ročníků, čísel a stran. Na vstupu předpokládá tento skript nastavení dvou proměnných:
+V softwarovém prostředí R byl vytvořen skript `/data_download/data_download.R`, který stáhne z Digitální knihovny AV ČR identifikátory a základní metadata pro vytvoření přehledu o titulu periodika, počtu ročníků, čísel a stran. Na vstupu předpokládá tento skript nastavení dvou proměnných:
 ```r
 # API systému Kramerius (verze 5)
 kramerius5_api <- "https://kramerius.lib.cas.cz/search/api/v5.0/item/" 
@@ -139,7 +138,7 @@ Funkce `prepare_data(full_file_path)` načte text ze souboru, odstraní krátká
 ### 3.2 UDPipe 2
 Zkrácené textové soubory jsou následně obohaceny pomocí nástroje UDPipe2, k čemuž slouží skript `/data_preparation/send_to_udpipe.R`. 
 
-K obohacení je použita webová služba LINDAT UDPipe REST Service^[https://lindat.mff.cuni.cz/services/udpipe/]. Konkrétně model _czech-pdt-ud-2.12-230707_, který zajistí pro každé slovo z textového přepisu tokenizaci, lemmatizaci a identifikaci slovního druhu. 
+K obohacení je použita webová služba [LINDAT UDPipe REST Service](https://lindat.mff.cuni.cz/services/udpipe/). Konkrétně model _czech-pdt-ud-2.12-230707_, který zajistí pro každé slovo z textového přepisu tokenizaci, lemmatizaci a identifikaci slovního druhu. 
 
 Obdobně jako při odstraňování krátkých slov je potřeba nejprve načíst data ze pracovního adresáře:
 ```{r eval=FALSE, include=TRUE, echo=TRUE}
@@ -231,7 +230,7 @@ library(topicmodels)
 dtm <- convert(dfm, to = "topicmodels")
 ```
 
-Spuštění LDA si vyžaduje stanovit proměnnou `k`, která určí, kolik témat se má v korpusu identifikovat. Dále je možné nastavit hodnotu `alpha` - čím je vyšší, tím větší množství témat se může objevovat v jednom dokumentu. V našem případě je nastavena na `0.1`, neboť předpokládáme, že jedno číslo *Rozprav* se pravděpodobně věnovalo jednomu tématu. Hodnoty dalších parametrů jsou ponechány ve výchozím nastavení^[https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf], počet iterací Gibbsova vzorkování je v takovém případě 2000.
+Spuštění LDA si vyžaduje stanovit proměnnou `k`, která určí, kolik témat se má v korpusu identifikovat. Dále je možné nastavit hodnotu `alpha` - čím je vyšší, tím větší množství témat se může objevovat v jednom dokumentu. V našem případě je nastavena na `0.1`, neboť předpokládáme, že jedno číslo *Rozprav* se pravděpodobně věnovalo jednomu tématu. Hodnoty dalších parametrů jsou ponechány ve výchozím nastavení, počet iterací Gibbsova vzorkování je v takovém případě 2000.
 
 Dále je vhodné nastavit také funkci set.seed, která se používá k vytváření reprodukovatelných výsledků v případech, kdy se vytváří proměnné, které nabývají náhodných hodnot. Zaručuje se tak, že při každém spuštění kódu budou vytvořeny stejné náhodné hodnoty.
 
