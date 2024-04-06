@@ -6,7 +6,7 @@ Veškerá data jsou dostupná v repozitáři Zenodo: https://doi.org/10.5281/zen
 
 **Reference diplomové práce**
 
-KERSCH, Filip. Tematické modelování publikační činnosti České akademie věd a umění v letech 1890–1910. Online. Praha, 2023. Diplomová práce. Univerzita Karlova. Filozofická fakulta. Ústav informačních studií a knihovnictví. Vedoucí práce Jindřich Marek.
+KERSCH, Filip. Tematické modelování publikační činnosti České akademie věd a umění v letech 1890–1910. Online. Praha, 2023. Diplomová práce. Univerzita Karlova. Filozofická fakulta. Ústav informačních studií a knihovnictví. Vedoucí práce Jindřich Marek. Dostupné z: http://hdl.handle.net/20.500.11956/188370
 
 ---
 
