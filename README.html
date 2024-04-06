@@ -359,7 +359,7 @@ display: none;
 publikační činnosti České akademie věd a umění v letech 1890–1910”.
 Součástí je popis postupu stažení, analýzy a přípravy dat a samotného
 modelování témat, které bylo provedeno v rámci výzkumné části práce.</p>
-<p>Veškerá data jsou dostupná v repozitáži Zenodo: https://doi.org/10.5281/zenodo.10395970</p>
+<p>Veškerá data jsou dostupná v repozitáři Zenodo: https://doi.org/10.5281/zenodo.10395970</p>
 <p>Použité skripty byly zveřejněny také na platformě GitHub: https://github.com/kerschfilip/tematicke_modelovani_cavu</p>
 <p>Struktura a popis adresáře datasetu:</p>
 <pre class="r"><code>#model/
@@ -373,16 +373,16 @@ modelování témat, které bylo provedeno v rámci výzkumné části práce.</
 #|           \-- TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s textovým přepisem
 #|   \-- uuid_ae74754a-435d-11dd-b505-00145e5790ea #stažené textové přepisy Rozprav III. třídy
 #|           \-- TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s textovým přepisem
-#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav I. třídy 
-#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav II. třídy 
-#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav III. třídy 
+#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav I. třídy
+#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav II. třídy
+#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav III. třídy
 #|-- data_exploration
 #|   \-- data_exploration.R #slouží k vytvoření přehledu o stažených datech
 #|   \-- data_exploration_report.Rmd #formátování reportu s přehledem o stažených datech
 #|   \-- data_exploration_report.html #report o stažených datech ve formátu HTML
-#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav I. třídy (1890-1910) 
-#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav II. třídy (1890-1910) 
-#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav III. třídy (1890-1910) 
+#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav I. třídy (1890-1910)
+#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav II. třídy (1890-1910)
+#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav III. třídy (1890-1910)
 #|   \-- combined_issues_publication_year.json #společná matice číslo - rok vydání pro všechny Rozpravy
 #|-- data_preparation
 #|   \-- remove_short_words.R #slouží k odstranění krátkých slov
@@ -405,8 +405,9 @@ modelování témat, které bylo provedeno v rámci výzkumné části práce.</
 #|   \-- combined_issues_publication_year.json #společná matice číslo - rok vydání pro všechny Rozpravy
 #|   \-- data #složka s daty
 #|           \-- LDA_PREPARED_NOUNS_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s podstatnými jmény připravený na vstup LDA
-#|   \-- klasifikace_temat.xlsx #přiřazení rozpoznaných témat ke klasifikaci FORD 
+#|   \-- klasifikace_temat.xlsx #přiřazení rozpoznaných témat ke klasifikaci FORD
 #|   \-- topic_model.RData #uložené prostředí R se všemi proměnnými a funkcemi
+#|-- slides #prezentace k představení diplomové práce
 #\</code></pre>
 <div id="stažení-dat-z-digitální-knihovny" class="section level2">
 <h2>1. Stažení dat z digitální knihovny</h2>
@@ -416,7 +417,7 @@ knihovny AV ČR identifikátory a základní metadata pro vytvoření přehledu
 o titulu periodika, počtu ročníků, čísel a stran. Na vstupu předpokládá
 tento skript nastavení dvou proměnných:</p>
 <pre class="r"><code># API systému Kramerius (verze 5)
-kramerius5_api &lt;- &quot;https://kramerius.lib.cas.cz/search/api/v5.0/item/&quot; 
+kramerius5_api &lt;- &quot;https://kramerius.lib.cas.cz/search/api/v5.0/item/&quot;
 
 # identifikátory UUID titulní úrovně periodika z výše nastaveného systému Kramerius
 UUID_titul &lt;- &quot;uuid:ae767057-435d-11dd-b505-00145e5790ea&quot; # Rozpravy 1. třídy
@@ -453,8 +454,8 @@ je uložen ve stejné složce jako soubor
 tedy nutné ho přesunout). Názvy souborů je nutné vyplnit do proměnné
 <code>files</code>:</p>
 <pre class="r"><code>files &lt;- list(
-                  &quot;ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json&quot;, 
-                  &quot;ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json&quot;, 
+                  &quot;ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json&quot;,
+                  &quot;ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json&quot;,
                   &quot;ae74754a-435d-11dd-b505-00145e5790ea_prehled_public.json&quot;
               )</code></pre>
 <p>Skript je připraven pro analýzu všech třech titulů
@@ -560,17 +561,17 @@ pro proces tematického modelování nesou prefix
 processAllTxtFiles &lt;- function() {
   txt_files &lt;- list.files(path = folder_path, pattern = &quot;^NOUN.*\\.txt$&quot;) # seznam TXT souborů začínajících na &quot;NOUN&quot; ve složce
   # [...]
-}  
+}
 
 # Změna prefixu ukládaných souborů z &quot;PREPARED&quot; na &quot;LDA_PREPARED&quot; ve funkci prepare_data:
 prepare_data &lt;- function(full_file_path){
   text &lt;- readLines(full_file_path) # čte věty z TXT souboru
   processed_text &lt;- sapply(text, remove_short_words) # aplikuje funkci remove_short_words na každý řádek
-  
+
   # Uložení do nového txt
   base_file_name &lt;- basename(full_file_path)
   txt_file_name &lt;- paste0(&quot;LDA_PREPARED_&quot;,base_file_name,&quot;.txt&quot;) # název souboru
-  
+
   #[...]
 }</code></pre>
 </div>
@@ -597,13 +598,13 @@ a manipulaci s daty se používá knihovna <code>quanteda</code>.</p>
 <p>V rámci transformace do matice je možné odstranit z korpusu tzv. stop
 slova.</p>
 <pre class="r"><code># slova objevující se napříč všemi *Rozpravami* (zanedbatelný vliv na témata)
-stop_CAVU &lt;- c(&quot;akademie&quot;, &quot;strana&quot;, &quot;rozprava&quot;, &quot;obsah&quot;, &quot;fig&quot;, &quot;tab&quot;, &quot;pag&quot;, &quot;hodina&quot;, &quot;metr&quot;, &quot;pozorování&quot;, &quot;maximum&quot;, &quot;den&quot;, &quot;rok&quot;, &quot;datum&quot;, &quot;milimetr&quot;, &quot;vel&quot;, &quot;průměr&quot;, &quot;minimum&quot;, &quot;maximum&quot;, &quot;stupeň&quot;, &quot;leden&quot;, &quot;únor&quot;, &quot;březen&quot;, &quot;duben&quot;, &quot;květen&quot;, &quot;červen&quot;, &quot;červenec&quot;, &quot;srpen&quot;, &quot;září&quot;, &quot;říjen&quot;, &quot;listopad&quot;, &quot;prosinec&quot;)  
+stop_CAVU &lt;- c(&quot;akademie&quot;, &quot;strana&quot;, &quot;rozprava&quot;, &quot;obsah&quot;, &quot;fig&quot;, &quot;tab&quot;, &quot;pag&quot;, &quot;hodina&quot;, &quot;metr&quot;, &quot;pozorování&quot;, &quot;maximum&quot;, &quot;den&quot;, &quot;rok&quot;, &quot;datum&quot;, &quot;milimetr&quot;, &quot;vel&quot;, &quot;průměr&quot;, &quot;minimum&quot;, &quot;maximum&quot;, &quot;stupeň&quot;, &quot;leden&quot;, &quot;únor&quot;, &quot;březen&quot;, &quot;duben&quot;, &quot;květen&quot;, &quot;červen&quot;, &quot;červenec&quot;, &quot;srpen&quot;, &quot;září&quot;, &quot;říjen&quot;, &quot;listopad&quot;, &quot;prosinec&quot;)
 
 # nevýznamová slova a znaky v korpusu
-stop_nonsense &lt;- c(&quot;wsw&quot;, &quot;nnw&quot;, &quot;ssw&quot;, &quot;wnw&quot;, &quot;ene&quot;, &quot;sse&quot;, &quot;eše&quot;, &quot;nne&quot;, &quot;»&quot;, &quot;«&quot;, &quot;^&quot;, &quot;srv&quot;, &quot;srv&quot;, &quot;ccm&quot;, &quot;dod&quot;, &quot;vyn&quot;, &quot;tim&quot;, &quot;vin&quot;, &quot;kol&quot;, &quot;ott&quot;, &quot;oti&quot;, &quot;jah&quot;, &quot;upd&quot;, &quot;rkp&quot;, &quot;srvn&quot;, &quot;stsl&quot;, &quot;ghm&quot;, &quot;srva&quot;, &quot;pis&quot;, &quot;cxo&quot;, &quot;mgh&quot;) 
+stop_nonsense &lt;- c(&quot;wsw&quot;, &quot;nnw&quot;, &quot;ssw&quot;, &quot;wnw&quot;, &quot;ene&quot;, &quot;sse&quot;, &quot;eše&quot;, &quot;nne&quot;, &quot;»&quot;, &quot;«&quot;, &quot;^&quot;, &quot;srv&quot;, &quot;srv&quot;, &quot;ccm&quot;, &quot;dod&quot;, &quot;vyn&quot;, &quot;tim&quot;, &quot;vin&quot;, &quot;kol&quot;, &quot;ott&quot;, &quot;oti&quot;, &quot;jah&quot;, &quot;upd&quot;, &quot;rkp&quot;, &quot;srvn&quot;, &quot;stsl&quot;, &quot;ghm&quot;, &quot;srva&quot;, &quot;pis&quot;, &quot;cxo&quot;, &quot;mgh&quot;)
 
 # rozdělení na tokeny pro quantida
-tokens &lt;- tokens(corpus) %&gt;% 
+tokens &lt;- tokens(corpus) %&gt;%
   tokens_remove(c(stop_CAVU,stop_nonsense))
 
 # matice dokument-slovo
@@ -626,7 +627,7 @@ vytváření reprodukovatelných výsledků v případech, kdy se vytváří
 proměnné, které nabývají náhodných hodnot. Zaručuje se tak, že při
 každém spuštění kódu budou vytvořeny stejné náhodné hodnoty.</p>
 <pre class="r"><code>set.seed(1234)
-topic_model &lt;- LDA(dtm, method = &quot;Gibbs&quot;, k = 35,  control = list(alpha = 0.1)) 
+topic_model &lt;- LDA(dtm, method = &quot;Gibbs&quot;, k = 35,  control = list(alpha = 0.1))
 topic_model</code></pre>
 <div id="matice-slovo-téma-word-topic-matrix" class="section level3">
 <h3>4.1 Matice <em>slovo-téma</em> (<em>word-topic matrix</em>)</h3>
@@ -639,16 +640,16 @@ word_topics</code></pre>
 <pre><code>## # A tibble: 4,668,755 × 3
 ##    topic term            beta
 ##    &lt;int&gt; &lt;chr&gt;          &lt;dbl&gt;
-##  1     1 rejstřík 0.00000160 
-##  2     2 rejstřík 0.00000115 
-##  3     3 rejstřík 0.000237   
-##  4     4 rejstřík 0.00000155 
-##  5     5 rejstřík 0.00000296 
-##  6     6 rejstřík 0.00000114 
-##  7     7 rejstřík 0.000160   
+##  1     1 rejstřík 0.00000160
+##  2     2 rejstřík 0.00000115
+##  3     3 rejstřík 0.000237
+##  4     4 rejstřík 0.00000155
+##  5     5 rejstřík 0.00000296
+##  6     6 rejstřík 0.00000114
+##  7     7 rejstřík 0.000160
 ##  8     8 rejstřík 0.000000951
-##  9     9 rejstřík 0.0000630  
-## 10    10 rejstřík 0.00000366 
+##  9     9 rejstřík 0.0000630
+## 10    10 rejstřík 0.00000366
 ## # ℹ 4,668,745 more rows</code></pre>
 <p>Pro každé téma je možné zobrazit stanovený počet slov, která se v něm
 vyskytují s nejvyšší frekvencí:</p>
@@ -657,7 +658,7 @@ vyskytují s nejvyšší frekvencí:</p>
 word_topic_posterior &lt;- posterior(topic_model)$terms[topic_number, ]
 top_words_for_topicX &lt;- head(sort(word_topic_posterior, decreasing = T), n=50)
 head(top_words_for_topicX)</code></pre>
-<pre><code>##       buňka       jádro       hmota      vlákno       útvar    bakterie 
+<pre><code>##       buňka       jádro       hmota      vlákno       útvar    bakterie
 ## 0.051016457 0.039152165 0.016222778 0.011713015 0.009382020 0.008963392</code></pre>
 <p>Nejfrekventovanější slova tématu je také možné zobrazit jako
 wordcloud:</p>

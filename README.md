@@ -2,15 +2,16 @@
 
 Repozitář představuje přílohou k diplomové práci s názvem "Tematické modelování publikační činnosti České akademie věd a umění v letech 1890–1910". Součástí je popis postupu stažení, analýzy a přípravy dat a samotného modelování témat, které bylo provedeno v rámci výzkumné části práce.
 
-Veškerá data jsou dostupná v repozitáži Zenodo: https://doi.org/10.5281/zenodo.10395970
+Veškerá data jsou dostupná v repozitáři Zenodo: https://doi.org/10.5281/zenodo.10395970
 
-**Reference diplomové práce**  
+**Reference diplomové práce**
 
 KERSCH, Filip. Tematické modelování publikační činnosti České akademie věd a umění v letech 1890–1910. Online. Praha, 2023. Diplomová práce. Univerzita Karlova. Filozofická fakulta. Ústav informačních studií a knihovnictví. Vedoucí práce Jindřich Marek.
 
-----
+---
 
 Struktura a popis adresáře datasetu:
+
 ```r
 #model/
 #|-- README.Rmd
@@ -24,16 +25,16 @@ Struktura a popis adresáře datasetu:
 #|           \-- TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s textovým přepisem
 #|   \-- uuid_ae74754a-435d-11dd-b505-00145e5790ea #stažené textové přepisy Rozprav III. třídy
 #|           \-- TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s textovým přepisem
-#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav I. třídy 
-#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav II. třídy 
-#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav III. třídy 
+#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav I. třídy
+#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav II. třídy
+#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled.json #struktura a metadata Rozprav III. třídy
 #|-- data_exploration
 #|   \-- data_exploration.R #slouží k vytvoření přehledu o stažených datech
 #|   \-- data_exploration_report.Rmd #formátování reportu s přehledem o stažených datech
 #|   \-- data_exploration_report.html #report o stažených datech ve formátu HTML
-#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav I. třídy (1890-1910) 
-#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav II. třídy (1890-1910) 
-#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav III. třídy (1890-1910) 
+#|   \-- ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav I. třídy (1890-1910)
+#|   \-- ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav II. třídy (1890-1910)
+#|   \-- ae74754a-435d-11dd-b505-00145e5790ea_prehled_public.json #struktura a metadata Rozprav III. třídy (1890-1910)
 #|   \-- combined_issues_publication_year.json #společná matice číslo - rok vydání pro všechny Rozpravy
 #|-- data_preparation
 #|   \-- remove_short_words.R #slouží k odstranění krátkých slov
@@ -56,16 +57,19 @@ Struktura a popis adresáře datasetu:
 #|   \-- combined_issues_publication_year.json #společná matice číslo - rok vydání pro všechny Rozpravy
 #|   \-- data #složka s daty
 #|           \-- LDA_PREPARED_NOUNS_PREPARED_TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt #soubor s podstatnými jmény připravený na vstup LDA
-#|   \-- klasifikace_temat.xlsx #přiřazení rozpoznaných témat ke klasifikaci FORD 
+#|   \-- klasifikace_temat.xlsx #přiřazení rozpoznaných témat ke klasifikaci FORD
 #|   \-- topic_model.RData #uložené prostředí R se všemi proměnnými a funkcemi
+#|-- slides #prezentace k představení diplomové práce
 #\
 ```
 
 ## 1. Stažení dat z digitální knihovny
+
 V softwarovém prostředí R byl vytvořen skript `/data_download/data_download.R`, který stáhne z Digitální knihovny AV ČR identifikátory a základní metadata pro vytvoření přehledu o titulu periodika, počtu ročníků, čísel a stran. Na vstupu předpokládá tento skript nastavení dvou proměnných:
+
 ```r
 # API systému Kramerius (verze 5)
-kramerius5_api <- "https://kramerius.lib.cas.cz/search/api/v5.0/item/" 
+kramerius5_api <- "https://kramerius.lib.cas.cz/search/api/v5.0/item/"
 
 # identifikátory UUID titulní úrovně periodika z výše nastaveného systému Kramerius
 UUID_titul <- "uuid:ae767057-435d-11dd-b505-00145e5790ea" # Rozpravy 1. třídy
@@ -80,16 +84,18 @@ Stažená data skript uloží ve formátu JSON pro další analýzu. Pro každý
 V průběhu zjišťování struktury titulu je také ověřena dostupnost data streamů `TEXT_OCR` a `ALTO`. V případě, že je data stream `TEXT_OCR` u jednotlivých stran dostupný, je rovnou uložen. Pro každý svazek (číslo) vznikne jeden textový soubor kombinující textové přepisy všech stran v něm obsažených. Tento soubor je uložen do nově vytvořené složky v adresáři se skriptem. Adresář nese název odpovídající proměnné `UUID_titul`, jednotlivé soubory s textovými přepisy dodržují názvovou konvenci: `TEXT_OCR_vol_{rok vydání}_No_{číslo}_{uuid}.txt`
 
 ## 2. Analýza dat
+
 Pro analýzu dat byl vytvořen skript `/data_exploration/data_exploration.R`. Ten předpokládá, že je uložen ve stejné složce jako soubor `{UUID_titul}_prehled.json` vzniklý při stahování dat (je tedy nutné ho přesunout). Názvy souborů je nutné vyplnit do proměnné `files`:
+
 ```r
 files <- list(
-                  "ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json", 
-                  "ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json", 
+                  "ae767057-435d-11dd-b505-00145e5790ea_prehled_public.json",
+                  "ae767058-435d-11dd-b505-00145e5790ea_prehled_public.json",
                   "ae74754a-435d-11dd-b505-00145e5790ea_prehled_public.json"
               )
 ```
 
-Skript je připraven pro analýzu všech třech titulů _Rozprav_. 
+Skript je připraven pro analýzu všech třech titulů _Rozprav_.
 
 V rámci analýzy je vytvořen:
 
@@ -107,10 +113,12 @@ V rámci analýzy je vytvořen:
 Přehledy vytvořené v rámci analýzy je možné si jednoduše prohlédnout pomocí připraveného reportu `data_exploration_report.Rmd`.
 
 ## 3. Příprava dat
-Stažené textové přepisy jednotlivých čísel _Rozprav_ byly před samotným modelováním upraveny. 
+
+Stažené textové přepisy jednotlivých čísel _Rozprav_ byly před samotným modelováním upraveny.
 
 ### 3.1 Odstranění krátkých slov
-Nejprve byla odstraněna slova obsahující dva nebo méně znaků, za účelem odstranění evidentních chyb vzniklých při procesu OCR v rámci digitalizace. K tomu byl použit skript `data_preparation/remove_short_words.R`  
+
+Nejprve byla odstraněna slova obsahující dva nebo méně znaků, za účelem odstranění evidentních chyb vzniklých při procesu OCR v rámci digitalizace. K tomu byl použit skript `data_preparation/remove_short_words.R`
 
 Skript vyžaduje nastavení pracovního adresáře (předpokládá se adresář, kde je sám uložen) a cestu k textovým souborům (ty byly z původního umístění do této složky zkopírovány).
 
@@ -125,7 +133,7 @@ Při spuštění skript pomocí funkce `processAllTxtFiles()` zpracuje postupně
 processAllTxtFiles <- function() {
   txt_files <- list.files(path = folder_path, pattern = "^TEXT.*\\.txt$") # seznam TXT souborů začínajících na "TEXT" ve složce
   print(paste("Zkrátí se:", length(txt_files), "txt souborů ze složky:", folder_path))
-  
+
   for (file in txt_files) {
     full_file_path <- file.path(folder_path, file) # celá cesta každého TXT souboru
     prepare_data(full_file_path) # zprocesování každého souboru
@@ -136,11 +144,13 @@ processAllTxtFiles <- function() {
 Funkce `prepare_data(full_file_path)` načte text ze souboru, odstraní krátká slova a soubor znovu uloží s prefixem `PREPARED`.
 
 ### 3.2 UDPipe 2
-Zkrácené textové soubory jsou následně obohaceny pomocí nástroje UDPipe2, k čemuž slouží skript `/data_preparation/send_to_udpipe.R`. 
 
-K obohacení je použita webová služba [LINDAT UDPipe REST Service](https://lindat.mff.cuni.cz/services/udpipe/). Konkrétně model _czech-pdt-ud-2.12-230707_, který zajistí pro každé slovo z textového přepisu tokenizaci, lemmatizaci a identifikaci slovního druhu. 
+Zkrácené textové soubory jsou následně obohaceny pomocí nástroje UDPipe2, k čemuž slouží skript `/data_preparation/send_to_udpipe.R`.
+
+K obohacení je použita webová služba [LINDAT UDPipe REST Service](https://lindat.mff.cuni.cz/services/udpipe/). Konkrétně model _czech-pdt-ud-2.12-230707_, který zajistí pro každé slovo z textového přepisu tokenizaci, lemmatizaci a identifikaci slovního druhu.
 
 Obdobně jako při odstraňování krátkých slov je potřeba nejprve načíst data ze pracovního adresáře:
+
 ```{r eval=FALSE, include=TRUE, echo=TRUE}
 current_working_directory <- getwd() # nastavený pracovní adresář
 folder_path <- file.path(current_working_directory, "rozpravy_trida_2") # cesta ke složce s TXT soubory
@@ -174,24 +184,24 @@ Protože v rámci procesu obohacení nástrojem UDPipe2 mohly být některé roz
 processAllTxtFiles <- function() {
   txt_files <- list.files(path = folder_path, pattern = "^NOUN.*\\.txt$") # seznam TXT souborů začínajících na "NOUN" ve složce
   # [...]
-}  
+}
 
 # Změna prefixu ukládaných souborů z "PREPARED" na "LDA_PREPARED" ve funkci prepare_data:
 prepare_data <- function(full_file_path){
   text <- readLines(full_file_path) # čte věty z TXT souboru
   processed_text <- sapply(text, remove_short_words) # aplikuje funkci remove_short_words na každý řádek
-  
+
   # Uložení do nového txt
   base_file_name <- basename(full_file_path)
   txt_file_name <- paste0("LDA_PREPARED_",base_file_name,".txt") # název souboru
-  
+
   #[...]
 }
 ```
 
-  
 ## 4. Modelování témat
-K modelování témat je používána metoda LDA. Celý proces včetně pojmenování vizualizace témat je k dispozici v souboru `/topic_model/LDA.Rmd`. 
+
+K modelování témat je používána metoda LDA. Celý proces včetně pojmenování vizualizace témat je k dispozici v souboru `/topic_model/LDA.Rmd`.
 
 Opět je potřeba nejprve načíst soubory, se kterými bude model pracovat - předpokládá se jejich přesunutí do složky `/topic_model/data/`. Předpokládá se také, že do stejné složky, kde je soubor `LDA.Rmd` bude přesunut soubor `combined_issues_publication_year.json`.
 
@@ -204,23 +214,23 @@ library(quanteda)
 corpus <- corpus(readtext(full_path)) # načtení ve formě corpusu knihovny quanteda
 ```
 
-Následně je potřeba data ze souborů rozložit na jednotlivé tokeny a vytvořit matici dokument-slovo (*documet-term matrix*). K načtení a manipulaci s daty se používá knihovna `quanteda`.
+Následně je potřeba data ze souborů rozložit na jednotlivé tokeny a vytvořit matici dokument-slovo (_documet-term matrix_). K načtení a manipulaci s daty se používá knihovna `quanteda`.
 
 V rámci transformace do matice je možné odstranit z korpusu tzv. stop slova.
 
 ```r
 # slova objevující se napříč všemi *Rozpravami* (zanedbatelný vliv na témata)
-stop_CAVU <- c("akademie", "strana", "rozprava", "obsah", "fig", "tab", "pag", "hodina", "metr", "pozorování", "maximum", "den", "rok", "datum", "milimetr", "vel", "průměr", "minimum", "maximum", "stupeň", "leden", "únor", "březen", "duben", "květen", "červen", "červenec", "srpen", "září", "říjen", "listopad", "prosinec")  
+stop_CAVU <- c("akademie", "strana", "rozprava", "obsah", "fig", "tab", "pag", "hodina", "metr", "pozorování", "maximum", "den", "rok", "datum", "milimetr", "vel", "průměr", "minimum", "maximum", "stupeň", "leden", "únor", "březen", "duben", "květen", "červen", "červenec", "srpen", "září", "říjen", "listopad", "prosinec")
 
 # nevýznamová slova a znaky v korpusu
-stop_nonsense <- c("wsw", "nnw", "ssw", "wnw", "ene", "sse", "eše", "nne", "»", "«", "^", "srv", "srv", "ccm", "dod", "vyn", "tim", "vin", "kol", "ott", "oti", "jah", "upd", "rkp", "srvn", "stsl", "ghm", "srva", "pis", "cxo", "mgh") 
+stop_nonsense <- c("wsw", "nnw", "ssw", "wnw", "ene", "sse", "eše", "nne", "»", "«", "^", "srv", "srv", "ccm", "dod", "vyn", "tim", "vin", "kol", "ott", "oti", "jah", "upd", "rkp", "srvn", "stsl", "ghm", "srva", "pis", "cxo", "mgh")
 
 # rozdělení na tokeny pro quantida
-tokens <- tokens(corpus) %>% 
+tokens <- tokens(corpus) %>%
   tokens_remove(c(stop_CAVU,stop_nonsense))
 
 # matice dokument-slovo
-dfm <- dfm(tokens) 
+dfm <- dfm(tokens)
 ```
 
 K procesu LDA je využita knihovna `topicmodels`. Ta pracuje se specificky strukturovanou maticí dokument-slovo, je proto potřeba výše vytvořenou matici do této podoby převést.
@@ -230,19 +240,19 @@ library(topicmodels)
 dtm <- convert(dfm, to = "topicmodels")
 ```
 
-Spuštění LDA si vyžaduje stanovit proměnnou `k`, která určí, kolik témat se má v korpusu identifikovat. Dále je možné nastavit hodnotu `alpha` - čím je vyšší, tím větší množství témat se může objevovat v jednom dokumentu. V našem případě je nastavena na `0.1`, neboť předpokládáme, že jedno číslo *Rozprav* se pravděpodobně věnovalo jednomu tématu. Hodnoty dalších parametrů jsou ponechány ve výchozím nastavení, počet iterací Gibbsova vzorkování je v takovém případě 2000.
+Spuštění LDA si vyžaduje stanovit proměnnou `k`, která určí, kolik témat se má v korpusu identifikovat. Dále je možné nastavit hodnotu `alpha` - čím je vyšší, tím větší množství témat se může objevovat v jednom dokumentu. V našem případě je nastavena na `0.1`, neboť předpokládáme, že jedno číslo _Rozprav_ se pravděpodobně věnovalo jednomu tématu. Hodnoty dalších parametrů jsou ponechány ve výchozím nastavení, počet iterací Gibbsova vzorkování je v takovém případě 2000.
 
 Dále je vhodné nastavit také funkci set.seed, která se používá k vytváření reprodukovatelných výsledků v případech, kdy se vytváří proměnné, které nabývají náhodných hodnot. Zaručuje se tak, že při každém spuštění kódu budou vytvořeny stejné náhodné hodnoty.
 
 ```r
 set.seed(1234)
-topic_model <- LDA(dtm, method = "Gibbs", k = 35,  control = list(alpha = 0.1)) 
+topic_model <- LDA(dtm, method = "Gibbs", k = 35,  control = list(alpha = 0.1))
 topic_model
 ```
 
-### 4.1 Matice *slovo-téma* (*word-topic matrix*)
+### 4.1 Matice _slovo-téma_ (_word-topic matrix_)
 
-LDA vytvoří matici *slovo-téma*, ve které je u každého slova z korpusu uvedeno s jakou pravděpodobností bylo vygenerováno z jakého tématu. Tato pravděpodobnost je označena jako `beta`. Model témata nijak nepojmenuje, označena jsou pouze čísly.
+LDA vytvoří matici _slovo-téma_, ve které je u každého slova z korpusu uvedeno s jakou pravděpodobností bylo vygenerováno z jakého tématu. Tato pravděpodobnost je označena jako `beta`. Model témata nijak nepojmenuje, označena jsou pouze čísly.
 
 ```r
 word_topics <- tidy(topic_model, matrix="beta")
@@ -265,7 +275,7 @@ Nejfrekventovanější slova tématu je také možné zobrazit jako wordcloud:
 wordcloud(names(top_words_for_topicX), top_words_for_topicX)
 ```
 
-### 2.2 Matice *dokument-téma* (*documet-topic matrix*)
+### 2.2 Matice _dokument-téma_ (_documet-topic matrix_)
 
 Druhým výstupem LDA je matice popisující pravděpodobnost příslušnosti dokumentu ke konkrétnímu tématu určená proměnnou `gamma`.
 
@@ -289,4 +299,4 @@ document_topic_filtr <- filter(document_to_topic, document_to_topic$topic == top
 document_topic_filtr
 ```
 
-Analýza vzniklého modelu a jeho vizualizace jsou dostupné v souboru `/topic_model/LDA.Rmd`. 
+Analýza vzniklého modelu a jeho vizualizace jsou dostupné v souboru `/topic_model/LDA.Rmd`.
